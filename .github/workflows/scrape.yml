@@ -17,8 +17,11 @@ jobs:
         python-version: '3.13'
     - run: python -m pip install overcast-to-sqlite
     - run: python -m overcast_to_sqlite.cli save -v
+    - run: python -m overcast_to_sqlite.cli extend -v
+    - run: ls -l
     - run: python -m overcast_to_sqlite.cli html
     - name: Commit and push
+      if: success() || failure()
       run: |-
         git config --global user.name "${{ github.actor }}"
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
