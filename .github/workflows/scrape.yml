@@ -8,6 +8,8 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    env:
+      OVERCAST_COOKIE: ${{ secrets.OVERCAST_COOKIE }}
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
