@@ -30,7 +30,8 @@ jobs:
       - name: Copy overcast-played.html to index.html
         run: |
           if [ -f "overcast-played.html" ]; then
-            cp overcast-played.html index.html
+            mkdir html
+            cp overcast-played.html html/index.html
             echo "Copied overcast-played.html to index.html"
           else
             echo "Error: overcast-played.html not found"
@@ -39,7 +40,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'index.html'
+          path: 'html'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

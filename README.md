@@ -8,4 +8,5 @@
 4. In your new repository, go to ⚙️ Settings tab > [*] Secrets and variables  (sidebar) > Actions > New repository secret
 5. Enter the name `OVERCAST_COOKIE` and paste the `o` value from step 3 as the value
 6. Click "Add secret"
-7. Go to the ▶️ Actions tab > Download latest data (sidebar) > Run workflow (gray button) > Run workflow (popup green button)
+7. Go to ⚙️ Settings tab > Pages (sidebar) > Source dropdown > Choose "GitHub Actions"
+8. Go to the ▶️ Actions tab > Download latest data (sidebar) > Run workflow (gray button) > Run workflow (popup green button)
