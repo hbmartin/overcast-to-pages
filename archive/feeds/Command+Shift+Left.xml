@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/2105116.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Command+Shift+Left</title>
+
+  <lastBuildDate>Wed, 06 Nov 2024 14:15:47 +0000</lastBuildDate>
+  <link>https://www.cmdshiftleft.com</link>
+  <language>en-us</language>
+  <copyright>© 2024 Command+Shift+Left</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>93e9dc4a-be15-59df-a4cd-733ed70cac20</podcast:guid>
+  <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[<p>Command+Shift+Left is a podcast that helps you navigate the treacherous waters of the software development, ops, and security world, while also diving into the hot current trends in the industry. Join us, and embark on a journey through hilarious real-world stories, pro-tips and hacks for navigating your way around developer security.</p>]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:owner>
+    <itunes:name>Hosted by Filip &amp; Or</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/wzkbespvxsdu1jigzijcs602o05k?.jpg</url>
+     <title>Command+Shift+Left</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/wzkbespvxsdu1jigzijcs602o05k?.jpg" />
+  <itunes:category text="Technology" />
+  <podcast:person role="host" href="https://youtube.com/@developerfilip" img="https://storage.buzzsprout.com/t1t7gqpv32sco5i45g6vvgr1kbr2">Developer Filip</podcast:person>
+  <podcast:person role="co-host" img="https://storage.buzzsprout.com/bpzus7uvbms4uvru646im2h54yns">Or Weis</podcast:person>
+  <item>
+    <itunes:title>E29: Hacktoberfest &amp; AI Paradoxes</itunes:title>
+    <title>E29: Hacktoberfest &amp; AI Paradoxes</title>
+    <itunes:summary><![CDATA[In this episode, we discuss Hacktoberfest’s impact on open-source contributions and the unique challenges it brings for maintainers. Then, we went into the “Jevons Paradox” and its relevance to AI, exploring how increased efficiency can lead to skyrocketing demand and unexpected consequences.   We also tackle the age-old question of balancing quick MVP development with long-term scalability—when to cut corners and when to plan for the future. Finally, we look at how FPGAs and specialized...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we discuss Hacktoberfest’s impact on open-source contributions and the unique challenges it brings for maintainers. Then, we went into the “Jevons Paradox” and its relevance to AI, exploring how increased efficiency can lead to skyrocketing demand and unexpected consequences. <br/><br/>We also tackle the age-old question of balancing quick MVP development with long-term scalability—when to cut corners and when to plan for the future. Finally, we look at how FPGAs and specialized silicon are transforming hardware development.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we discuss Hacktoberfest’s impact on open-source contributions and the unique challenges it brings for maintainers. Then, we went into the “Jevons Paradox” and its relevance to AI, exploring how increased efficiency can lead to skyrocketing demand and unexpected consequences. <br/><br/>We also tackle the age-old question of balancing quick MVP development with long-term scalability—when to cut corners and when to plan for the future. Finally, we look at how FPGAs and specialized silicon are transforming hardware development.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/psxmpz6ew1cdk5wqr8v84o31h9qv?.jpg" />
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/16053123-e29-hacktoberfest-ai-paradoxes.mp3" length="32544996" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16053123</guid>
+    <pubDate>Wed, 06 Nov 2024 14:00:00 +0000</pubDate>
+    <itunes:duration>2709</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E28: Quantum Security &amp; Tech Debt Traps</itunes:title>
+    <title>E28: Quantum Security &amp; Tech Debt Traps</title>
+    <itunes:summary><![CDATA[In this episode, we dive into the fascinating layers of "everything as code" and how recursive coding practices are changing software management. We explore the potential of quantum cryptography to revolutionize data security, possibly making hacks a thing of the past. Finally, we tackle the growing tech debt that comes from trying to reinvent the wheel and why keeping things “boring” can be the smartest strategy.  Stay updated with new weekly episodes every Thursday – and don't forget t...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we dive into the fascinating layers of &quot;everything as code&quot; and how recursive coding practices are changing software management. We explore the potential of quantum cryptography to revolutionize data security, possibly making hacks a thing of the past. Finally, we tackle the growing tech debt that comes from trying to reinvent the wheel and why keeping things “boring” can be the smartest strategy. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we dive into the fascinating layers of &quot;everything as code&quot; and how recursive coding practices are changing software management. We explore the potential of quantum cryptography to revolutionize data security, possibly making hacks a thing of the past. Finally, we tackle the growing tech debt that comes from trying to reinvent the wheel and why keeping things “boring” can be the smartest strategy. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/isbah8gvcnhg5g70nj6b6lcurr3c?.jpg" />
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/16025431-e28-quantum-security-tech-debt-traps.mp3" length="36339715" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16025431</guid>
+    <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
+    <itunes:duration>3025</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E27: Biocomputers &amp; Security Evolution</itunes:title>
+    <title>E27: Biocomputers &amp; Security Evolution</title>
+    <itunes:summary><![CDATA[In this episode, we explore the fascinating world of biocomputers and how brain cells are being used to control machines. We dive into what this means for the future of AI and security. We also discuss the growing threats of browser vulnerabilities, like the "man in the browser" attack, and how even trusted extensions can pose risks. Finally, we look at the evolution of DevSecOps, debating the balance between engineers building features and taking on security responsibilities. Stay updated wi...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we explore the fascinating world of biocomputers and how brain cells are being used to control machines. We dive into what this means for the future of AI and security. We also discuss the growing threats of browser vulnerabilities, like the &quot;man in the browser&quot; attack, and how even trusted extensions can pose risks. Finally, we look at the evolution of DevSecOps, debating the balance between engineers building features and taking on security responsibilities.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we explore the fascinating world of biocomputers and how brain cells are being used to control machines. We dive into what this means for the future of AI and security. We also discuss the growing threats of browser vulnerabilities, like the &quot;man in the browser&quot; attack, and how even trusted extensions can pose risks. Finally, we look at the evolution of DevSecOps, debating the balance between engineers building features and taking on security responsibilities.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/vu8gyjw1ah6tjti93qrfuue4jbuv?.jpg" />
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15983087-e27-biocomputers-security-evolution.mp3" length="41239630" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15983087</guid>
+    <pubDate>Thu, 24 Oct 2024 09:00:00 +0100</pubDate>
+    <itunes:duration>3434</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E26: Open Robotics &amp; DevOps Evolution</itunes:title>
+    <title>E26: Open Robotics &amp; DevOps Evolution</title>
+    <itunes:summary><![CDATA[In this episode, we explore how open-source robotics are reshaping remote work, allowing users to control robots from thousands of miles away with incredible precision. We also delve into how DevOps may be a solved problem, but the next frontier—optimizing development environments—still has room to grow. Then, we discuss the security risks introduced by complex car software, recounting some high-profile hacks and the need for constant vigilance. Lastly, we debate the relevance of computer sci...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we explore how open-source robotics are reshaping remote work, allowing users to control robots from thousands of miles away with incredible precision. We also delve into how DevOps may be a solved problem, but the next frontier—optimizing development environments—still has room to grow. Then, we discuss the security risks introduced by complex car software, recounting some high-profile hacks and the need for constant vigilance. Lastly, we debate the relevance of computer science degrees in today’s tech landscape and whether they are still essential for success.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we explore how open-source robotics are reshaping remote work, allowing users to control robots from thousands of miles away with incredible precision. We also delve into how DevOps may be a solved problem, but the next frontier—optimizing development environments—still has room to grow. Then, we discuss the security risks introduced by complex car software, recounting some high-profile hacks and the need for constant vigilance. Lastly, we debate the relevance of computer science degrees in today’s tech landscape and whether they are still essential for success.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/wna8zgsy63095kd1nm1n5c3swokc?.jpg" />
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15942961-e26-open-robotics-devops-evolution.mp3" length="43639088" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15942961</guid>
+    <pubDate>Thu, 17 Oct 2024 14:00:00 +0100</pubDate>
+    <itunes:duration>3634</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E25: MVP &amp; Chaos Testing</itunes:title>
+    <title>E25: MVP &amp; Chaos Testing</title>
+    <itunes:summary><![CDATA[In this episode, we explore the surprising ratio between getting an MVP ready and reaching full maturity. We also dive into the challenges of cloud spot pricing and how unpredictable it can be for customers. Then, we look at the intriguing world of chaos engineering, where companies purposely break their systems to build stronger infrastructure. Lastly, we learn about the surprising connection between luxury watches and gravity’s effect on timekeeping.  Stay updated with new weekly episo...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we explore the surprising ratio between getting an MVP ready and reaching full maturity. We also dive into the challenges of cloud spot pricing and how unpredictable it can be for customers. Then, we look at the intriguing world of chaos engineering, where companies purposely break their systems to build stronger infrastructure. Lastly, we learn about the surprising connection between luxury watches and gravity’s effect on timekeeping. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we explore the surprising ratio between getting an MVP ready and reaching full maturity. We also dive into the challenges of cloud spot pricing and how unpredictable it can be for customers. Then, we look at the intriguing world of chaos engineering, where companies purposely break their systems to build stronger infrastructure. Lastly, we learn about the surprising connection between luxury watches and gravity’s effect on timekeeping. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/m1plu1b17fn0v0r87ty6am2eoieh?.jpg" />
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15895126-e25-mvp-chaos-testing.mp3" length="33704456" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15895126</guid>
+    <pubDate>Thu, 10 Oct 2024 08:00:00 +0100</pubDate>
+    <itunes:duration>2806</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E24: URLs &amp; Self-Healing Skin</itunes:title>
+    <title>E24: URLs &amp; Self-Healing Skin</title>
+    <itunes:summary><![CDATA[In this episode, we explore the differences between URLs, URNs, and URIs and why they often confuse developers. We also dive into the limitations of using build pipelines for test automation, the potential of self-healing electronic skin in prosthetics and robotics, and the challenges of deploying machine learning models on Kubernetes, including AI’s evolving role in managing infrastructure. Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more behind-...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we explore the differences between URLs, URNs, and URIs and why they often confuse developers. We also dive into the limitations of using build pipelines for test automation, the potential of self-healing electronic skin in prosthetics and robotics, and the challenges of deploying machine learning models on Kubernetes, including AI’s evolving role in managing infrastructure.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we explore the differences between URLs, URNs, and URIs and why they often confuse developers. We also dive into the limitations of using build pipelines for test automation, the potential of self-healing electronic skin in prosthetics and robotics, and the challenges of deploying machine learning models on Kubernetes, including AI’s evolving role in managing infrastructure.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/p5ke218z4hq6ppklejxz33hccjjb?.jpg" />
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15861375-e24-urls-self-healing-skin.mp3" length="28763536" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15861375</guid>
+    <pubDate>Thu, 03 Oct 2024 09:00:00 +0100</pubDate>
+    <itunes:duration>2394</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E23: Infinite Integers &amp; Byte-Sized Breakdowns</itunes:title>
+    <title>E23: Infinite Integers &amp; Byte-Sized Breakdowns</title>
+    <itunes:summary><![CDATA[In this podcast episode, we’ll explore Rob Pike’s reflections on integer overflow and what he wishes Go had solved, as well as NVIDIA CEO Jensen Huang’s controversial suggestion that AI could render coding obsolete, urging the next generation to focus on farming instead. We'll also journey through the bizarre creation of INTERCAL, a programming language intentionally designed to frustrate, and discuss the challenges of building open-source communities in today’s tech landscape.  Stay upd...]]></itunes:summary>
+    <description><![CDATA[<p>In this podcast episode, we’ll explore Rob Pike’s reflections on integer overflow and what he wishes Go had solved, as well as NVIDIA CEO Jensen Huang’s controversial suggestion that AI could render coding obsolete, urging the next generation to focus on farming instead. We&apos;ll also journey through the bizarre creation of INTERCAL, a programming language intentionally designed to frustrate, and discuss the challenges of building open-source communities in today’s tech landscape. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this podcast episode, we’ll explore Rob Pike’s reflections on integer overflow and what he wishes Go had solved, as well as NVIDIA CEO Jensen Huang’s controversial suggestion that AI could render coding obsolete, urging the next generation to focus on farming instead. We&apos;ll also journey through the bizarre creation of INTERCAL, a programming language intentionally designed to frustrate, and discuss the challenges of building open-source communities in today’s tech landscape. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/akyuuo2bn9re309j6b2aca6gox6l?.jpg" />
+    <itunes:author>Itamar &amp; Paul</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15774600-e23-infinite-integers-byte-sized-breakdowns.mp3" length="33898322" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15774600</guid>
+    <pubDate>Thu, 19 Sep 2024 13:00:00 +0100</pubDate>
+    <itunes:duration>2818</itunes:duration>
+    <itunes:keywords>Rob Pike, Go programming, integer overflow, Jensen Huang, NVIDIA AI, AI coding, AI and farming, coding careers, future of coding, INTERCAL programming language, frustrating programming languages, open-source communities, tech innovations, artificial intel</itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E22: DNA Data &amp; AI Stickers</itunes:title>
+    <title>E22: DNA Data &amp; AI Stickers</title>
+    <itunes:summary><![CDATA[In this episode, we discover why Slack’s API response guidelines are tripping up developers, and how 90% of CVEs in popular ecosystems like npm are fixed the same day they’re announced. We also delve into the fascinating world of DNA data storage, where entire movies can be stored in a single cubic millimeter, and reveal how something as simple as a sticker can fool advanced AI image classifiers. Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more be...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we discover why Slack’s API response guidelines are tripping up developers, and how 90% of CVEs in popular ecosystems like npm are fixed the same day they’re announced. We also delve into the fascinating world of DNA data storage, where entire movies can be stored in a single cubic millimeter, and reveal how something as simple as a sticker can fool advanced AI image classifiers.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we discover why Slack’s API response guidelines are tripping up developers, and how 90% of CVEs in popular ecosystems like npm are fixed the same day they’re announced. We also delve into the fascinating world of DNA data storage, where entire movies can be stored in a single cubic millimeter, and reveal how something as simple as a sticker can fool advanced AI image classifiers.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/i35n19rfvkf6ow6hgn6es1gttgbz?.jpg" />
+    <itunes:author>Rhys &amp; Oded</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15740701-e22-dna-data-ai-stickers.mp3" length="30485519" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15740701</guid>
+    <pubDate>Thu, 12 Sep 2024 16:00:00 +0100</pubDate>
+    <itunes:duration>2533</itunes:duration>
+    <itunes:keywords>Slack API confusion, CVE fixes, npm security, DNA data storage, AI image classifiers, tech podcast, developer challenges, cybersecurity, AI vulnerabilities, digital storage, modern tech trends</itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E21: Space Emails &amp; Gaming Sounds</itunes:title>
+    <title>E21: Space Emails &amp; Gaming Sounds</title>
+    <itunes:summary><![CDATA[In this podcast episode, we discover why most developers stick to databases they know, even if they're not the best fit for the job. Then, we blast off to 1991 for the first email sent from space, complete with a cheeky sign-off. We also rewind to a time when the first-ever webcam was set up for an unexpectedly mundane reason, and for the gamers, we explore the amusing story of why a gun sound in Wolfenstein had to be toned down, because of it's unexpected effects on the gameplay. Stay update...]]></itunes:summary>
+    <description><![CDATA[<p>In this podcast episode, we discover why most developers stick to databases they know, even if they&apos;re not the best fit for the job. Then, we blast off to 1991 for the first email sent from space, complete with a cheeky sign-off. We also rewind to a time when the first-ever webcam was set up for an unexpectedly mundane reason, and for the gamers, we explore the amusing story of why a gun sound in Wolfenstein had to be toned down, because of it&apos;s unexpected effects on the gameplay.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this podcast episode, we discover why most developers stick to databases they know, even if they&apos;re not the best fit for the job. Then, we blast off to 1991 for the first email sent from space, complete with a cheeky sign-off. We also rewind to a time when the first-ever webcam was set up for an unexpectedly mundane reason, and for the gamers, we explore the amusing story of why a gun sound in Wolfenstein had to be toned down, because of it&apos;s unexpected effects on the gameplay.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/fnowx8pjmrnsrfc3zd5rexupjnmb?.jpg" />
+    <itunes:author>Amir &amp; Daniel</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15688888-e21-space-emails-gaming-sounds.mp3" length="35493722" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15688888</guid>
+    <pubDate>Wed, 04 Sep 2024 18:00:00 +0100</pubDate>
+    <itunes:duration>2949</itunes:duration>
+    <itunes:keywords>tech history, first email from space, databases, SQLite, webcam history, Wolfenstein: Enemy Territory, gaming sound design, software development, astronaut communication, quirky tech facts</itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E20: Legacy Lag &amp; Compatibility Challenges</itunes:title>
+    <title>E20: Legacy Lag &amp; Compatibility Challenges</title>
+    <itunes:summary><![CDATA[In this episode, we delve into the looming COBOL crisis and why the shortage of programmers could create a compatibility conundrum for banks and businesses in the near future. We then explore the ongoing issues with IPv4 and the inertia hindering IPv6 adoption, revealing why the internet remains caught between two worlds. We also discuss the importance of website wait times and the strategies to optimize web speed, showing how mere milliseconds can significantly impact a business's success. F...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we delve into the looming COBOL crisis and why the shortage of programmers could create a compatibility conundrum for banks and businesses in the near future. We then explore the ongoing issues with IPv4 and the inertia hindering IPv6 adoption, revealing why the internet remains caught between two worlds. We also discuss the importance of website wait times and the strategies to optimize web speed, showing how mere milliseconds can significantly impact a business&apos;s success. Finally, we uncover the history of CSS chaos and the compatibility challenges that shaped modern web standards, spotlighting the unsung heroes of the early browser battles.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we delve into the looming COBOL crisis and why the shortage of programmers could create a compatibility conundrum for banks and businesses in the near future. We then explore the ongoing issues with IPv4 and the inertia hindering IPv6 adoption, revealing why the internet remains caught between two worlds. We also discuss the importance of website wait times and the strategies to optimize web speed, showing how mere milliseconds can significantly impact a business&apos;s success. Finally, we uncover the history of CSS chaos and the compatibility challenges that shaped modern web standards, spotlighting the unsung heroes of the early browser battles.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/a02ove4e3aq4dun399vdhq3y36hc?.jpg" />
+    <itunes:author>Kevin &amp; Dana</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15662127-e20-legacy-lag-compatibility-challenges.mp3" length="28502501" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15662127</guid>
+    <pubDate>Thu, 29 Aug 2024 13:00:00 +0100</pubDate>
+    <itunes:duration>2366</itunes:duration>
+    <itunes:keywords>COBOL crisis, programmer shortage, compatibility issues, IPv4 vs IPv6, internet adoption, website speed optimization, web performance, CSS history, browser compatibility, web standards, digital transformation, backward compatibility, banking technology, s</itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Season 3 Teaser</itunes:title>
+    <title>Season 3 Teaser</title>
+    <itunes:summary><![CDATA[Season 3 - Coming August 29th 2024. Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn. ]]></itunes:summary>
+    <description><![CDATA[<p>Season 3 - Coming August 29th 2024.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>Season 3 - Coming August 29th 2024.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/67yzyut4rdnf45i8ltfbn7xdkznx?.jpg" />
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/15623551-season-3-teaser.mp3" length="4165158" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15623551</guid>
+    <pubDate>Thu, 22 Aug 2024 13:00:00 +0100</pubDate>
+    <itunes:duration>341</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E19: Cybersecurity Frontiers &amp; Deepfake Dilemmas</itunes:title>
+    <title>E19: Cybersecurity Frontiers &amp; Deepfake Dilemmas</title>
+    <itunes:summary><![CDATA[In this episode, we dive into the unexpected consequences of technological decisions, from Vint Cerf's IPv4 format leading to address scarcity and rising costs, to the pervasive challenges of identity fraud exacerbated by deepfake technology. We also shed light on the persistent issue of application performance tied to third-party scripts and unpack the looming Y2K38 problem, highlighting the need for forward-thinking in digital infrastructure and cybersecurity. Stay updated with new weekly e...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we dive into the unexpected consequences of technological decisions, from Vint Cerf&apos;s IPv4 format leading to address scarcity and rising costs, to the pervasive challenges of identity fraud exacerbated by deepfake technology. We also shed light on the persistent issue of application performance tied to third-party scripts and unpack the looming Y2K38 problem, highlighting the need for forward-thinking in digital infrastructure and cybersecurity.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we dive into the unexpected consequences of technological decisions, from Vint Cerf&apos;s IPv4 format leading to address scarcity and rising costs, to the pervasive challenges of identity fraud exacerbated by deepfake technology. We also shed light on the persistent issue of application performance tied to third-party scripts and unpack the looming Y2K38 problem, highlighting the need for forward-thinking in digital infrastructure and cybersecurity.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/xd57vi03r2jbtofqbs4tbbjxxfew?.jpg" />
+    <itunes:author>Rizel &amp; Sarah</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14513642-e19-cybersecurity-frontiers-deepfake-dilemmas.mp3" length="28212296" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14513642</guid>
+    <pubDate>Fri, 16 Feb 2024 01:00:00 +0000</pubDate>
+    <itunes:duration>2340</itunes:duration>
+    <itunes:keywords>IPv4 scarcity, AWS pricing, application performance optimization, identity fraud prevention, deepfake technology, Y2K38 problem, digital infrastructure challenges, cybersecurity innovations, Vint Cerf, interplanetary internet</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E18: Documentation Tactics &amp; Generative Growth</itunes:title>
+    <title>E18: Documentation Tactics &amp; Generative Growth</title>
+    <itunes:summary><![CDATA[In today's episode, we delve into the surprising world where competitors and third parties outshine original services in documentation, with notable examples like Auth0 and AWS Cognito, and Logz.io's take on Elasticsearch. We also explore ServiceNow's impressive performance boost, fueled by generative AI. The episode further unpacks the future of software engineering as predicted by Gartner and the pivotal role of developer advocacy in ethical technology. Join us for a comprehensive discussio...]]></itunes:summary>
+    <description><![CDATA[<p>In today&apos;s episode, we delve into the surprising world where competitors and third parties outshine original services in documentation, with notable examples like Auth0 and AWS Cognito, and Logz.io&apos;s take on Elasticsearch. We also explore ServiceNow&apos;s impressive performance boost, fueled by generative AI. The episode further unpacks the future of software engineering as predicted by Gartner and the pivotal role of developer advocacy in ethical technology. Join us for a comprehensive discussion on the evolving landscape of tech development and corporate investment in AI.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In today&apos;s episode, we delve into the surprising world where competitors and third parties outshine original services in documentation, with notable examples like Auth0 and AWS Cognito, and Logz.io&apos;s take on Elasticsearch. We also explore ServiceNow&apos;s impressive performance boost, fueled by generative AI. The episode further unpacks the future of software engineering as predicted by Gartner and the pivotal role of developer advocacy in ethical technology. Join us for a comprehensive discussion on the evolving landscape of tech development and corporate investment in AI.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ke0hwv9w4qshsl1ob874xzp1124c?.jpg" />
+    <itunes:author>Adam &amp; Daniel</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14466261-e18-documentation-tactics-generative-growth.mp3" length="35868686" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14466261</guid>
+    <pubDate>Thu, 08 Feb 2024 19:00:00 +0000</pubDate>
+    <itunes:duration>2980</itunes:duration>
+    <itunes:keywords>Documentation best practices, generative AI growth, ServiceNow AI success, platform teams in software engineering, developer advocacy, ethical technology, Auth0 AWS Cognito, Logz.io Elasticsearch, corporate AI investment trends, ethical AI development.</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E17: Metering Mastery &amp; Quantum Questions</itunes:title>
+    <title>E17: Metering Mastery &amp; Quantum Questions</title>
+    <itunes:summary><![CDATA[In this episode, we discuss the peculiarities and challenges of JavaScript, the often-overlooked importance of software testing, the intricacies of metering in cloud computing, and the potential impact of quantum computing on cybersecurity.  Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we discuss the peculiarities and challenges of JavaScript, the often-overlooked importance of software testing, the intricacies of metering in cloud computing, and the potential impact of quantum computing on cybersecurity. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we discuss the peculiarities and challenges of JavaScript, the often-overlooked importance of software testing, the intricacies of metering in cloud computing, and the potential impact of quantum computing on cybersecurity. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/0rogte2g97nhadr88p3g5bwckmbu?.jpg" />
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14421985-e17-metering-mastery-quantum-questions.mp3" length="34354653" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14421985</guid>
+    <pubDate>Thu, 01 Feb 2024 18:00:00 +0000</pubDate>
+    <itunes:duration>2860</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E16: Testing Evolution &amp; No-Code Solutions</itunes:title>
+    <title>E16: Testing Evolution &amp; No-Code Solutions</title>
+    <itunes:summary><![CDATA[In this podcast episode, we discuss how testing is becoming more human-like across all levels, including API and Unit tests, driven by new tools that focus on real-world scenarios. We debunk the myth that design skills are innate, showing how they're rooted in science and can be learned like any other skill. Topics like color theory and psychological principles are highlighted for their role in enhancing developer skills. Finally, we examine the rapid growth of the low-code market, projecting...]]></itunes:summary>
+    <description><![CDATA[<p>In this podcast episode, we discuss how testing is becoming more human-like across all levels, including API and Unit tests, driven by new tools that focus on real-world scenarios. We debunk the myth that design skills are innate, showing how they&apos;re rooted in science and can be learned like any other skill. Topics like color theory and psychological principles are highlighted for their role in enhancing developer skills. Finally, we examine the rapid growth of the low-code market, projecting that 65% of applications will use no-code solutions by 2024, leading to a significant shift in application development and management.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this podcast episode, we discuss how testing is becoming more human-like across all levels, including API and Unit tests, driven by new tools that focus on real-world scenarios. We debunk the myth that design skills are innate, showing how they&apos;re rooted in science and can be learned like any other skill. Topics like color theory and psychological principles are highlighted for their role in enhancing developer skills. Finally, we examine the rapid growth of the low-code market, projecting that 65% of applications will use no-code solutions by 2024, leading to a significant shift in application development and management.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/gb8f4xncapgykca7wxlqihdqp4z3?.jpg" />
+    <itunes:author>Eden &amp; Mike</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14378688-e16-testing-evolution-no-code-solutions.mp3" length="28292153" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14378688</guid>
+    <pubDate>Thu, 25 Jan 2024 21:00:00 +0000</pubDate>
+    <itunes:duration>2355</itunes:duration>
+    <itunes:keywords>software testing, human-centric development, design skills, color theory, low-code market, no-code solutions, application development, technology trends, API testing, unit testing, real-world scenarios, learning design, cognitive psychology, Gestalt princ</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E15: Code Generators &amp; Singularity Shift</itunes:title>
+    <title>E15: Code Generators &amp; Singularity Shift</title>
+    <itunes:summary><![CDATA[In this episode, we explore the surprising impact of Quake III's rapid inverse square root function on modern computing, weigh the pros and cons of in-person events like Dockercon for the DevOps community, and delve into the burgeoning role of AI-driven code generators. We also ponder the implications of the Technological Singularity, as envisioned by thinkers like Vernor Vinge and Ray Kurzweil, and discuss the ethical considerations of augmenting human intelligence with AI to keep pace with ...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we explore the surprising impact of Quake III&apos;s rapid inverse square root function on modern computing, weigh the pros and cons of in-person events like Dockercon for the DevOps community, and delve into the burgeoning role of AI-driven code generators. We also ponder the implications of the Technological Singularity, as envisioned by thinkers like Vernor Vinge and Ray Kurzweil, and discuss the ethical considerations of augmenting human intelligence with AI to keep pace with future technological advancements.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we explore the surprising impact of Quake III&apos;s rapid inverse square root function on modern computing, weigh the pros and cons of in-person events like Dockercon for the DevOps community, and delve into the burgeoning role of AI-driven code generators. We also ponder the implications of the Technological Singularity, as envisioned by thinkers like Vernor Vinge and Ray Kurzweil, and discuss the ethical considerations of augmenting human intelligence with AI to keep pace with future technological advancements.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/tffdc8m5e0hwhgphd1qsa6n2vnwm?.jpg" />
+    <itunes:author>Francesco &amp; Anand</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14334431-e15-code-generators-singularity-shift.mp3" length="33706267" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14334431</guid>
+    <pubDate>Thu, 18 Jan 2024 17:00:00 +0000</pubDate>
+    <itunes:duration>2805</itunes:duration>
+    <itunes:keywords>Quake III, inverse square root, Dockercon, DevOps community, AI code generators, generative AI, technological singularity, Vernor Vinge, Ray Kurzweil, AI augmentation, human-AI integration, future of computing, tech ethics, software development trends</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E14: Super Developers &amp; Natures Nuances</itunes:title>
+    <title>E14: Super Developers &amp; Natures Nuances</title>
+    <itunes:summary><![CDATA[In this episode, we explore the intersection of individual ingenuity and nature-inspired technology. We discuss the solo development of the 1999 hit RollerCoaster Tycoon in Assembly language, delve into the quirky origins and comparisons of K3s and K8s in tech, and examine the early days of computer security with the first password hacks. Lastly, we look at how biomimicry has influenced technological advancements, showcasing the seamless blend of nature's designs with modern innovation. Stay ...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we explore the intersection of individual ingenuity and nature-inspired technology. We discuss the solo development of the 1999 hit RollerCoaster Tycoon in Assembly language, delve into the quirky origins and comparisons of K3s and K8s in tech, and examine the early days of computer security with the first password hacks. Lastly, we look at how biomimicry has influenced technological advancements, showcasing the seamless blend of nature&apos;s designs with modern innovation.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we explore the intersection of individual ingenuity and nature-inspired technology. We discuss the solo development of the 1999 hit RollerCoaster Tycoon in Assembly language, delve into the quirky origins and comparisons of K3s and K8s in tech, and examine the early days of computer security with the first password hacks. Lastly, we look at how biomimicry has influenced technological advancements, showcasing the seamless blend of nature&apos;s designs with modern innovation.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/br175g0tr6ockqqg6paz76tbts1l?.jpg" />
+    <itunes:author>Dan &amp; Kunal</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14291447-e14-super-developers-natures-nuances.mp3" length="34828466" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14291447</guid>
+    <pubDate>Thu, 11 Jan 2024 14:00:00 +0000</pubDate>
+    <itunes:duration>2898</itunes:duration>
+    <itunes:keywords>RollerCoaster Tycoon, Assembly language, solo developer, K3s origin, K8s comparison, first password hack, computer security, biomimicry, technology innovation, nature-inspired design, digital history, cybersecurity trends, sustainable tech, software devel</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E13: Dongle Powerhouse &amp; Remote Realities</itunes:title>
+    <title>E13: Dongle Powerhouse &amp; Remote Realities</title>
+    <itunes:summary><![CDATA[In this episode, we explore the dynamic world of AI with a tiny, powerful dongle that turns any computer, even Raspberry Pis, into an AI hub. We delve into 'Li-Fi,' an innovative technology using light for data transmission. We also tackle the debate on work environments, comparing remote, hybrid, and office setups, and their impact on productivity and innovation. Plus, we consider a compelling perspective in software development: the true artistry of a great developer may extend beyond their...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we explore the dynamic world of AI with a tiny, powerful dongle that turns any computer, even Raspberry Pis, into an AI hub. We delve into &apos;Li-Fi,&apos; an innovative technology using light for data transmission. We also tackle the debate on work environments, comparing remote, hybrid, and office setups, and their impact on productivity and innovation. Plus, we consider a compelling perspective in software development: the true artistry of a great developer may extend beyond their code. Tune in as we navigate these intriguing technological and workplace trends.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we explore the dynamic world of AI with a tiny, powerful dongle that turns any computer, even Raspberry Pis, into an AI hub. We delve into &apos;Li-Fi,&apos; an innovative technology using light for data transmission. We also tackle the debate on work environments, comparing remote, hybrid, and office setups, and their impact on productivity and innovation. Plus, we consider a compelling perspective in software development: the true artistry of a great developer may extend beyond their code. Tune in as we navigate these intriguing technological and workplace trends.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/n6rkrv7f5d4b2zy41wg1amgrz684?.jpg" />
+    <itunes:author>Nimrod &amp; On</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14247865-e13-dongle-powerhouse-remote-realities.mp3" length="36048736" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14247865</guid>
+    <pubDate>Thu, 04 Jan 2024 16:00:00 +0000</pubDate>
+    <itunes:duration>3000</itunes:duration>
+    <itunes:keywords>AI innovation, Li-Fi technology, remote work, hybrid work, office work, software development, data transmission, underwater communication, workplace trends, technological advancements, Raspberry Pi AI, light-based communication, developer skills, work env</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E12: Feature Flagging &amp; Evolving Education </itunes:title>
+    <title>E12: Feature Flagging &amp; Evolving Education </title>
+    <itunes:summary><![CDATA[In this episode, we delve into the complex interplay between feature flagging and authorization in web development, examining their distinct roles in frontend and backend environments and their impact on user experience and system security. We discuss the importance of customer education and the ethical aspects involved. The episode also covers the evolution of web development, from three-month deployment cycles to the resurgence of platforms like Wix and Webflow, and debates the effectivenes...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we delve into the complex interplay between feature flagging and authorization in web development, examining their distinct roles in frontend and backend environments and their impact on user experience and system security. We discuss the importance of customer education and the ethical aspects involved. The episode also covers the evolution of web development, from three-month deployment cycles to the resurgence of platforms like Wix and Webflow, and debates the effectiveness of traditional university education versus online community learning.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we delve into the complex interplay between feature flagging and authorization in web development, examining their distinct roles in frontend and backend environments and their impact on user experience and system security. We discuss the importance of customer education and the ethical aspects involved. The episode also covers the evolution of web development, from three-month deployment cycles to the resurgence of platforms like Wix and Webflow, and debates the effectiveness of traditional university education versus online community learning.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/d93ivz3qmohrtx5lqvwg97w2lyii?.jpg" />
+    <itunes:author>Josh and Ben</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14214653-e12-feature-flagging-evolving-education.mp3" length="30091565" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14214653</guid>
+    <pubDate>Thu, 28 Dec 2023 17:00:00 +0000</pubDate>
+    <itunes:duration>2504</itunes:duration>
+    <itunes:keywords>Feature Flagging, Authorization, Web Development, Frontend Backend Differences, User Experience, System Security, Customer Education, Web Deployment, Developer Empowerment, Wix, Webflow, Online Learning, Community Education, University Education in Engine</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E11: Aircon Antics &amp; Kernel Code Ciphers</itunes:title>
+    <title>E11: Aircon Antics &amp; Kernel Code Ciphers</title>
+    <itunes:summary><![CDATA[In this episode, we're joined by Erica Brescia, former COO of GitHub, and Anders Eknert from Styra. We dive into humorous tech tales, like managing an air conditioner via GitHub and music systems that pause with vacuum cleaners, showcasing the quirks of home automation. We also explore the evolution of AI in coding with ChatGPT and Copilot, and take a nostalgic look at the first computer game and a unique coding solution by the Ubuntu team using Morse code. Stay updated with new weekly episod...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we&apos;re joined by Erica Brescia, former COO of GitHub, and Anders Eknert from Styra. We dive into humorous tech tales, like managing an air conditioner via GitHub and music systems that pause with vacuum cleaners, showcasing the quirks of home automation. We also explore the evolution of AI in coding with ChatGPT and Copilot, and take a nostalgic look at the first computer game and a unique coding solution by the Ubuntu team using Morse code.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we&apos;re joined by Erica Brescia, former COO of GitHub, and Anders Eknert from Styra. We dive into humorous tech tales, like managing an air conditioner via GitHub and music systems that pause with vacuum cleaners, showcasing the quirks of home automation. We also explore the evolution of AI in coding with ChatGPT and Copilot, and take a nostalgic look at the first computer game and a unique coding solution by the Ubuntu team using Morse code.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ol511dx73bktzftq0d0tia9qm037?.jpg" />
+    <itunes:author>Erica &amp; Anders</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14187178-e11-aircon-antics-kernel-code-ciphers.mp3" length="29339421" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14187178</guid>
+    <pubDate>Thu, 21 Dec 2023 16:00:00 +0000</pubDate>
+    <itunes:duration>2441</itunes:duration>
+    <itunes:keywords>Erica Brescia, Anders Eknert, GitHub, Styra, home automation, air conditioner management, GitHub PRs, vacuum cleaner, music system, AI in coding, ChatGPT, GitHub Copilot, first computer game, tech history, Ubuntu team, Morse code, kernel bug, programming </itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E10: Scaling Stories &amp; Pod Parables</itunes:title>
+    <title>E10: Scaling Stories &amp; Pod Parables</title>
+    <itunes:summary><![CDATA[In this whirlwind episode, we dive into the quirky world of tech, where features sometimes turn into bugs and vulnerabilities pop up like unexpected plot twists. We'll also jump into the epic showdown between AWS Lambda and Kubernetes, unravel the mystery behind 'done' vs 'done done' in tech speak, and wrap up with the curious case of Phantom Vibration Syndrome – is our tech dependency tickling our brains? Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! F...]]></itunes:summary>
+    <description><![CDATA[<p>In this whirlwind episode, we dive into the quirky world of tech, where features sometimes turn into bugs and vulnerabilities pop up like unexpected plot twists. We&apos;ll also jump into the epic showdown between AWS Lambda and Kubernetes, unravel the mystery behind &apos;done&apos; vs &apos;done done&apos; in tech speak, and wrap up with the curious case of Phantom Vibration Syndrome – is our tech dependency tickling our brains?</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this whirlwind episode, we dive into the quirky world of tech, where features sometimes turn into bugs and vulnerabilities pop up like unexpected plot twists. We&apos;ll also jump into the epic showdown between AWS Lambda and Kubernetes, unravel the mystery behind &apos;done&apos; vs &apos;done done&apos; in tech speak, and wrap up with the curious case of Phantom Vibration Syndrome – is our tech dependency tickling our brains?</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/qx58aq5a123iwu6i1tv0jbs2lu38?.jpg" />
+    <itunes:author>Alon &amp; Jeremy</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14148547-e10-scaling-stories-pod-parables.mp3" length="32189826" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14148547</guid>
+    <pubDate>Thu, 14 Dec 2023 18:00:00 +0000</pubDate>
+    <itunes:duration>2679</itunes:duration>
+    <itunes:keywords> software vulnerabilities, AWS Lambda, Kubernetes, product development, tech psychology, Phantom Vibration Syndrome, cloud computing, serverless architecture, feature vs bug, technology dependence</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Season 2 Teaser</itunes:title>
+    <title>Season 2 Teaser</title>
+    <itunes:summary><![CDATA[Season 2 - Coming December 14th 2023. Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn. ]]></itunes:summary>
+    <description><![CDATA[<p>Season 2 - Coming December 14th 2023.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>Season 2 - Coming December 14th 2023.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:author>Hosted by Filip &amp; Or</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/14106582-season-2-teaser.mp3" length="4773607" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14106582</guid>
+    <pubDate>Thu, 07 Dec 2023 15:00:00 +0000</pubDate>
+    <itunes:duration>395</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E9: Carbon Consequences &amp; Shower Solutions</itunes:title>
+    <title>E9: Carbon Consequences &amp; Shower Solutions</title>
+    <itunes:summary><![CDATA[In this podcast, we unearth hidden truths of the digital world. From the carbon footprint of your internet use to questioning whether dark mode is really saving your eyes, we'll have you second-guessing your screen time. We discuss why engineers test products they rarely use and reveal the surprising connection between showers and brain activity. Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft o...]]></itunes:summary>
+    <description><![CDATA[<p>In this podcast, we unearth hidden truths of the digital world. From the carbon footprint of your internet use to questioning whether dark mode is really saving your eyes, we&apos;ll have you second-guessing your screen time. We discuss why engineers test products they rarely use and reveal the surprising connection between showers and brain activity.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this podcast, we unearth hidden truths of the digital world. From the carbon footprint of your internet use to questioning whether dark mode is really saving your eyes, we&apos;ll have you second-guessing your screen time. We discuss why engineers test products they rarely use and reveal the surprising connection between showers and brain activity.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ksas9evhhsrjug1idxq56cc6up2l?.jpg" />
+    <itunes:author>Shimon &amp; Deni</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/13002897-e9-carbon-consequences-shower-solutions.mp3" length="20241303" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13002897</guid>
+    <pubDate>Thu, 08 Jun 2023 16:00:00 +0100</pubDate>
+    <itunes:duration>1681</itunes:duration>
+    <itunes:keywords>digital world, carbon footprint, internet use, dark mode debate, screen time, product testing, shower creativity, technology and behavior, environmental impact, tech podcast</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E8: Recursive APIs &amp; JavaScript Jargon</itunes:title>
+    <title>E8: Recursive APIs &amp; JavaScript Jargon</title>
+    <itunes:summary><![CDATA[In today's podcast, we challenge widely-held beliefs about data logging, explore the intriguing concept of API recursion mirroring the simulation hypothesis, unravel the eccentricities of JavaScript syntax, and investigate the often elusive and unpredictable nature of AWS costs. Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn. ]]></itunes:summary>
+    <description><![CDATA[<p>In today&apos;s podcast, we challenge widely-held beliefs about data logging, explore the intriguing concept of API recursion mirroring the simulation hypothesis, unravel the eccentricities of JavaScript syntax, and investigate the often elusive and unpredictable nature of AWS costs.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In today&apos;s podcast, we challenge widely-held beliefs about data logging, explore the intriguing concept of API recursion mirroring the simulation hypothesis, unravel the eccentricities of JavaScript syntax, and investigate the often elusive and unpredictable nature of AWS costs.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/bzrqse0e91750nb7wgv21oxghy6l?.jpg" />
+    <itunes:author>Corey &amp; Austin</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/12960184-e8-recursive-apis-javascript-jargon.mp3" length="32688034" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12960184</guid>
+    <pubDate>Thu, 01 Jun 2023 16:00:00 +0100</pubDate>
+    <itunes:duration>2721</itunes:duration>
+    <itunes:keywords>data logging myths, API recursion, simulation hypothesis, JavaScript syntax quirks, AWS cost management, technology podcast</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E7: React&#39;s Redemption &amp; Apple’s Time Riddle</itunes:title>
+    <title>E7: React&#39;s Redemption &amp; Apple’s Time Riddle</title>
+    <itunes:summary><![CDATA[This episode plunges into the riveting history of passwordless authentication, deciphers the quandary of the fleeting 8-second user retention window, and explores the creative prowess of AI, spotlighting ChatGPT's role in content generation. We also revisit the initial struggles of the React library and unravel the enigma behind Apple's clever use of the 4:21 timestamp in their marketing campaigns. Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more ...]]></itunes:summary>
+    <description><![CDATA[<p>This episode plunges into the riveting history of passwordless authentication, deciphers the quandary of the fleeting 8-second user retention window, and explores the creative prowess of AI, spotlighting ChatGPT&apos;s role in content generation. We also revisit the initial struggles of the React library and unravel the enigma behind Apple&apos;s clever use of the 4:21 timestamp in their marketing campaigns.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>This episode plunges into the riveting history of passwordless authentication, deciphers the quandary of the fleeting 8-second user retention window, and explores the creative prowess of AI, spotlighting ChatGPT&apos;s role in content generation. We also revisit the initial struggles of the React library and unravel the enigma behind Apple&apos;s clever use of the 4:21 timestamp in their marketing campaigns.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/o6v7c5jkhk83frn3pzmaiax4ak98?.jpg" />
+    <itunes:author>Jesse &amp; Islem</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/12918824-e7-react-s-redemption-apple-s-time-riddle.mp3" length="27412961" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12918824</guid>
+    <pubDate>Thu, 25 May 2023 14:00:00 +0100</pubDate>
+    <itunes:duration>2279</itunes:duration>
+    <itunes:keywords>passwordless authentication history, 8-second user retention, AI content creation with ChatGPT, React library adoption, Apple 4:21 marketing strategy, digital user engagement trends</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E6: Python Poems &amp; Easter Egg Culture</itunes:title>
+    <title>E6: Python Poems &amp; Easter Egg Culture</title>
+    <itunes:summary><![CDATA[From Python-scripted poetry and 'Easter egg' culture to absurdly predictable password breaches, we traverse the tech terrain. We'll discuss if timing truly is the key to startup success and finally, how a Tinder match in Antarctica underscores the importance of edge cases in software.  Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn. ]]></itunes:summary>
+    <description><![CDATA[<p>From Python-scripted poetry and &apos;Easter egg&apos; culture to absurdly predictable password breaches, we traverse the tech terrain. We&apos;ll discuss if timing truly is the key to startup success and finally, how a Tinder match in Antarctica underscores the importance of edge cases in software. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>From Python-scripted poetry and &apos;Easter egg&apos; culture to absurdly predictable password breaches, we traverse the tech terrain. We&apos;ll discuss if timing truly is the key to startup success and finally, how a Tinder match in Antarctica underscores the importance of edge cases in software. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/4ksbzzdcwyqe7m064ihahdyg66s1?.jpg" />
+    <itunes:author>Timothy &amp; Joel</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/12873615-e6-python-poems-easter-egg-culture.mp3" length="35051645" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12873615</guid>
+    <pubDate>Thu, 18 May 2023 14:00:00 +0100</pubDate>
+    <itunes:duration>2915</itunes:duration>
+    <itunes:keywords> Python Poetry, Easter Eggs, Cybersecurity, Startup Timing, Edge Case Importance</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E5: Death of DevOps &amp; Code that Codes Itself</itunes:title>
+    <title>E5: Death of DevOps &amp; Code that Codes Itself</title>
+    <itunes:summary><![CDATA[In this thought-provoking episode, we explore the future of DevOps, the profound influence of ChatGPT on humanity, and the growing specialization within software development. Join us as we discuss the ideal balance between DevOps and software engineers, and examine how mobile technology is transforming end users' ability to focus and access information online. Join us on a mission to learn, as company owners, how we must adapt to these ever-changing dynamics in the world of technology. Stay u...]]></itunes:summary>
+    <description><![CDATA[<p>In this thought-provoking episode, we explore the future of DevOps, the profound influence of ChatGPT on humanity, and the growing specialization within software development. Join us as we discuss the ideal balance between DevOps and software engineers, and examine how mobile technology is transforming end users&apos; ability to focus and access information online. Join us on a mission to learn, as company owners, how we must adapt to these ever-changing dynamics in the world of technology.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this thought-provoking episode, we explore the future of DevOps, the profound influence of ChatGPT on humanity, and the growing specialization within software development. Join us as we discuss the ideal balance between DevOps and software engineers, and examine how mobile technology is transforming end users&apos; ability to focus and access information online. Join us on a mission to learn, as company owners, how we must adapt to these ever-changing dynamics in the world of technology.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/evwesh65j9l0mwgyp76hiqvubkvb?.jpg" />
+    <itunes:author>Eylam &amp; Zohar</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/12741597-e5-death-of-devops-code-that-codes-itself.mp3" length="30074263" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12741597</guid>
+    <pubDate>Thu, 11 May 2023 12:00:00 +0100</pubDate>
+    <itunes:duration>2501</itunes:duration>
+    <itunes:keywords>future of DevOps, ChatGPT impact, software development specialization, DevOps and software engineers balance, mobile technology influence, focus and information access, company owners adaptation, evolving technology landscape</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E4: Fortunes &amp; Flock Patterns</itunes:title>
+    <title>E4: Fortunes &amp; Flock Patterns</title>
+    <itunes:summary><![CDATA[In this episode, we explore Warren Buffett's late-blooming fortune, share our personal journeys as software engineers, and unravel the mystery of recursive bird flocking. We also discuss the old but still relevant MUMPS database, the prevalence of tech-debt, and the surprising fact that GitHub and GitLab are built with Ruby on Rails. Lastly, we reveal which programming languages we would eliminate if given the chance. Stay updated with new weekly episodes every Thursday – and don't forget to ...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we explore Warren Buffett&apos;s late-blooming fortune, share our personal journeys as software engineers, and unravel the mystery of recursive bird flocking. We also discuss the old but still relevant MUMPS database, the prevalence of tech-debt, and the surprising fact that GitHub and GitLab are built with Ruby on Rails. Lastly, we reveal which programming languages we would eliminate if given the chance.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we explore Warren Buffett&apos;s late-blooming fortune, share our personal journeys as software engineers, and unravel the mystery of recursive bird flocking. We also discuss the old but still relevant MUMPS database, the prevalence of tech-debt, and the surprising fact that GitHub and GitLab are built with Ruby on Rails. Lastly, we reveal which programming languages we would eliminate if given the chance.</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/r6qj34zuj4nglxlcdyubixfw6al2?.jpg" />
+    <itunes:author>James &amp; Alex</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/12742726-e4-fortunes-flock-patterns.mp3" length="32430571" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12742726</guid>
+    <pubDate>Thu, 04 May 2023 12:00:00 +0100</pubDate>
+    <itunes:duration>2697</itunes:duration>
+    <itunes:keywords>Warren Buffett, fortune, software engineers, personal journeys, recursive bird flocking, authorization, MUMPS database, tech-debt, GitHub, GitLab, Ruby on Rails, programming languages</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E3: Turing the Unbeatable &amp; 100 Million Servers</itunes:title>
+    <title>E3: Turing the Unbeatable &amp; 100 Million Servers</title>
+    <itunes:summary><![CDATA[In this episode we dive into the complexities and confusions surrounding industry standard acronyms, explore the relationship between Java and JavaScript, and uncover the origins of JFrog's unique name. We also discuss the fascinating Turing Test,  which has become an important benchmark in the AI community for tools like ChatGPT. As we live through the evolution of AI in our world, we ponder the weight of the internet and how science fiction is increasingly becoming science fact.  ...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode we dive into the complexities and confusions surrounding industry standard acronyms, explore the relationship between Java and JavaScript, and uncover the origins of JFrog&apos;s unique name. We also discuss the fascinating Turing Test,  which has become an important benchmark in the AI community for tools like ChatGPT. As we live through the evolution of AI in our world, we ponder the weight of the internet and how science fiction is increasingly becoming science fact. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode we dive into the complexities and confusions surrounding industry standard acronyms, explore the relationship between Java and JavaScript, and uncover the origins of JFrog&apos;s unique name. We also discuss the fascinating Turing Test,  which has become an important benchmark in the AI community for tools like ChatGPT. As we live through the evolution of AI in our world, we ponder the weight of the internet and how science fiction is increasingly becoming science fact. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ck0m5tcf443gj2l7jkil56cj9hv7?.jpg" />
+    <itunes:author>Baruch &amp; Steve</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/12734900-e3-turing-the-unbeatable-100-million-servers.mp3" length="30061580" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12734900</guid>
+    <pubDate>Thu, 27 Apr 2023 15:00:00 +0100</pubDate>
+    <itunes:duration>2498</itunes:duration>
+    <itunes:keywords>industry standard acronyms, Java, JavaScript, JFrog origins, Turing Test, AI benchmark, ChatGPT, AI evolution, weight of the internet, science fiction, science fact </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E2: PHP Trauma &amp; Programming Polyglots</itunes:title>
+    <title>E2: PHP Trauma &amp; Programming Polyglots</title>
+    <itunes:summary><![CDATA[In this exciting episode, we discuss the daring world of microservices without distributed tracing, the controversial nature of PHP as a programming language, the alarming vulnerability of many organizations to security breaches, and the ever-puzzling question of whether being a polyglot programmer is necessary. Buckle up for a rollercoaster of humor, captivating stories, and thought-provoking debates that will leave you hungry for more! Stay updated with new weekly episodes every Thursday – ...]]></itunes:summary>
+    <description><![CDATA[<p>In this exciting episode, we discuss the daring world of microservices without distributed tracing, the controversial nature of PHP as a programming language, the alarming vulnerability of many organizations to security breaches, and the ever-puzzling question of whether being a polyglot programmer is necessary. Buckle up for a rollercoaster of humor, captivating stories, and thought-provoking debates that will leave you hungry for more!</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this exciting episode, we discuss the daring world of microservices without distributed tracing, the controversial nature of PHP as a programming language, the alarming vulnerability of many organizations to security breaches, and the ever-puzzling question of whether being a polyglot programmer is necessary. Buckle up for a rollercoaster of humor, captivating stories, and thought-provoking debates that will leave you hungry for more!</p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/rbzr9iop28qobcb2p37j58cdvdjl?.jpg" />
+    <itunes:author>Anäis &amp; Gal</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/12650316-e2-php-trauma-programming-polyglots.mp3" length="29947095" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12650316</guid>
+    <pubDate>Wed, 19 Apr 2023 18:00:00 +0100</pubDate>
+    <itunes:duration>2491</itunes:duration>
+    <itunes:keywords>Microservices, Distributed tracing, PHP programming language, Security breaches, Polyglot programmer</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>E1: Google Goats &amp; Feature Babies</itunes:title>
+    <title>E1: Google Goats &amp; Feature Babies</title>
+    <itunes:summary><![CDATA[In this thrilling episode, we discuss the parallels between tech debt and babies' rapid development, unveil the unexpected passion of developers, touch on China's Great Firewall, and reveal why goats are now part of Google's ecosystem.  Stay updated with new weekly episodes every Thursday – and don't forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn. ]]></itunes:summary>
+    <description><![CDATA[<p>In this thrilling episode, we discuss the parallels between tech debt and babies&apos; rapid development, unveil the unexpected passion of developers, touch on China&apos;s Great Firewall, and reveal why goats are now part of Google&apos;s ecosystem. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this thrilling episode, we discuss the parallels between tech debt and babies&apos; rapid development, unveil the unexpected passion of developers, touch on China&apos;s Great Firewall, and reveal why goats are now part of Google&apos;s ecosystem. </p><p>Stay updated with new weekly episodes every Thursday – and don&apos;t forget to subscribe! For more behind-the-scenes content, follow us @justshiftleft on Facebook, Instagram, Twitter, and LinkedIn.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/htzvymn0yzcj4x9118li5zszvqz1?.jpg" />
+    <itunes:author>Sam &amp; Aviv</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2105116/episodes/12633216-e1-google-goats-feature-babies.mp3" length="24178225" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12633216</guid>
+    <pubDate>Wed, 12 Apr 2023 01:00:00 +0100</pubDate>
+    <itunes:duration>2009</itunes:duration>
+    <itunes:keywords>TechDebt, RapidDevelopment, DeveloperPassion, ChinaFirewall, GoogleGoats</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

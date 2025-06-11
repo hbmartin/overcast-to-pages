@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://theeffectivedatascientist.podigee.io/feed/aac" rel="self"/>
+    <atom:link href="https://theeffectivedatascientist.podigee.io/feed/aac" rel="first"/>
+    <atom:link href="https://theeffectivedatascientist.podigee.io/feed/aac?page=1" rel="last"/>
+    <title>The Effective Data Scientist</title>
+    <language>en</language>
+    <pubDate>Mon, 05 Jul 2021 15:05:49 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2024 17:00:05 +0000</lastBuildDate>
+    <description>Do you want to boost your career as a data scientist? Our podcast helps you in achieving this by teaching you relevant knowledge about all the different aspects of becoming a more effective data scientist.</description>
+    <link>http://theeffectivedatascientist.com/</link>
+    <generator>Podigee (https://podigee.com)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>Alexander Schacht</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,shqWjCMSQ3XFTVScDCfmoHdOFtXwo-woPC-PVteNT0D4=/https://main.podigee-cdn.net/uploads/u1498/238c499d-b7e1-4434-81f2-51ff6db2a222.png</url>
+      <title>The Effective Data Scientist</title>
+      <link>http://theeffectivedatascientist.com/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,shqWjCMSQ3XFTVScDCfmoHdOFtXwo-woPC-PVteNT0D4=/https://main.podigee-cdn.net/uploads/u1498/238c499d-b7e1-4434-81f2-51ff6db2a222.png"/>
+    <itunes:subtitle>Enabling Data Scientists to Lead through Innovation and Excellence</itunes:subtitle>
+    <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>data science,data scientist</itunes:keywords>
+    <itunes:category text="Science">
+      <itunes:category text="Natural Sciences"/>
+    </itunes:category>
+    <itunes:summary>Do you want to boost your career as a data scientist? Our podcast helps you in achieving this by teaching you relevant knowledge about all the different aspects of becoming a more effective data scientist.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Alexander Schacht and Paolo Eusebi</itunes:name>
+      <itunes:email>theeffectivedatascientist@gmail.com</itunes:email>
+    </itunes:owner>
+    <podcast:guid>95faac18-0869-53eb-b9de-fd1a04293208</podcast:guid>
+    <item>
+      <title>As a Statistician - Do You Take the Back Seat or Do You Drive Yourself? (Episode 24)</title>
+      <itunes:title>As a Statistician - Do You Take the Back Seat or Do You Drive Yourself? (Episode 24)</itunes:title>
+      <description>In this podcast episode, we discuss an important part of leadership – proactive behaviour. Or simply put—drive!
+
+As a statistician, your day-to-day approach to this topic will build up to long-term success.
+
+We discuss various aspects of the drive including:</description>
+      <pubDate>Thu, 25 Jan 2024 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/24-new-episode</link>
+      <guid isPermaLink="false">1f2c93a58074a2c770a01ed2f5740cbc</guid>
+      <content:encoded>
+        <![CDATA[Discussion with Alexander Schacht and Benjamin Piske
+<ul>
+<li><span style="font-weight: 400;">how it relates to your goals,</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">what it takes to think strategically,</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">which role innovation has here,</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">what practical steps to take to drive teams forward,</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">which knowledge to acquire to lead teams successfully,</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">how this relates to influencing,</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">and how your attitude will play a big role in this.</span></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Alexander Schacht and Benjamin Piske</itunes:subtitle>
+      <itunes:summary>In this podcast episode, we discuss an important part of leadership – proactive behaviour. Or simply put—drive!
+
+As a statistician, your day-to-day approach to this topic will build up to long-term success.
+
+We discuss various aspects of the drive including:</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Benjamin Piske, biometricians, statisticians and leaders in the pharma industry</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1350017-m-6cc3d2f932b72458b1653480d0dee137.m4a?source=feed" type="audio/aac" length="13463045"/>
+      <itunes:duration>1297</itunes:duration>
+      <podcast:episode>24</podcast:episode>
+    </item>
+    <item>
+      <title>On Building Your Own Company (Episode 23)</title>
+      <itunes:title>On Building Your Own Company (Episode 23)</itunes:title>
+      <description>In this episode, we’ll cover an amazing story by one of the best programmers and mentors I ever worked with - Shafi Chowdhury (www.shaficonsultancy.com).
+
+We’ll explore how it changed from being a freelance programmer only to building his company on the side. He had a great vision in mind, that drove him forward.
+
+You’ll also hear about his approach to teaching and mentoring – or in general helping people do their job better. His abundance mindset inspires me a lot. Shafi explains, why and how he made his own job redundant in his own company.
+
+Retention is a major cost driver and disrupts some companies a lot. You’ll learn how he manages to have nearly no turnover in his company and how is approach to recruiting and training new employees fits in to this.
+
+Further, we’ll cover how and why Shafi and his team regularly presenting at different conferences. We’ll especially go deeper on this presentation at the PSI conference in 2017 about an amazing tool to analyse and visualize data at the same time. His approach to delivering all this innovation is very unique.
+
+Finally, you’ll learn a lot about the leadership attitude that helped him grow his business fast into a medium-sized CRO with a very stable client base.</description>
+      <pubDate>Thu, 11 Jan 2024 19:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/23-new-episode</link>
+      <guid isPermaLink="false">26cebca46ef281a6df6425cae122a8a8</guid>
+      <content:encoded>
+        <![CDATA[Interview with Shafi Chowdhury
+In this episode, we’ll cover an amazing story by one of the best programmers and mentors I ever worked with - Shafi Chowdhury (www.shaficonsultancy.com).
+
+We’ll explore how it changed from being a freelance programmer only to building his company on the side. He had a great vision in mind, that drove him forward.
+
+You’ll also hear about his approach to teaching and mentoring – or in general helping people do their job better. His abundance mindset inspires me a lot. Shafi explains, why and how he made his own job redundant in his own company.
+
+Retention is a major cost driver and disrupts some companies a lot. You’ll learn how he manages to have nearly no turnover in his company and how is approach to recruiting and training new employees fits in to this.
+
+Further, we’ll cover how and why Shafi and his team regularly presenting at different conferences. We’ll especially go deeper on this presentation at the PSI conference in 2017 about an amazing tool to analyse and visualize data at the same time. His approach to delivering all this innovation is very unique.
+
+Finally, you’ll learn a lot about the leadership attitude that helped him grow his business fast into a medium-sized CRO with a very stable client base.]]>
+      </content:encoded>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Shafi Chowdhury</itunes:subtitle>
+      <itunes:summary>In this episode, we’ll cover an amazing story by one of the best programmers and mentors I ever worked with - Shafi Chowdhury (www.shaficonsultancy.com).
+
+We’ll explore how it changed from being a freelance programmer only to building his company on the side. He had a great vision in mind, that drove him forward.
+
+You’ll also hear about his approach to teaching and mentoring – or in general helping people do their job better. His abundance mindset inspires me a lot. Shafi explains, why and how he made his own job redundant in his own company.
+
+Retention is a major cost driver and disrupts some companies a lot. You’ll learn how he manages to have nearly no turnover in his company and how is approach to recruiting and training new employees fits in to this.
+
+Further, we’ll cover how and why Shafi and his team regularly presenting at different conferences. We’ll especially go deeper on this presentation at the PSI conference in 2017 about an amazing tool to analyse and visualize data at the same time. His approach to delivering all this innovation is very unique.
+
+Finally, you’ll learn a lot about the leadership attitude that helped him grow his business fast into a medium-sized CRO with a very stable client base.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Benjamin Piske, biometricians, statisticians and leaders in the pharma industry</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1336460-m-b5e0a819785b99d8e53e984246930f64.m4a?source=feed" type="audio/aac" length="27594995"/>
+      <itunes:duration>2672</itunes:duration>
+      <podcast:episode>23</podcast:episode>
+    </item>
+    <item>
+      <title>Cluster Analysis (Episode 22)</title>
+      <itunes:title>Cluster Analysis (Episode 22)</itunes:title>
+      <description> 000000E2 000000E0 00002DDD 00002879 000099FA 0000A568 00007FBA 00006CBA 00004C39 0000A224</description>
+      <pubDate>Fri, 29 Dec 2023 14:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/22-new-episode</link>
+      <guid isPermaLink="false">0ec9cdcc9338ad9c7822ffbe841aa20b</guid>
+      <content:encoded>
+        <![CDATA[Discussion with Alexander Schacht and Paolo Eusebi
+ 000000E2 000000E0 00002DDD 00002879 000099FA 0000A568 00007FBA 00006CBA 00004C39 0000A224]]>
+      </content:encoded>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Alexander Schacht and Paolo Eusebi</itunes:subtitle>
+      <itunes:summary> 000000E2 000000E0 00002DDD 00002879 000099FA 0000A568 00007FBA 00006CBA 00004C39 0000A224</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1325038-m-b8487265601339c4f9a8540012c4c175.m4a?source=feed" type="audio/aac" length="20303547"/>
+      <itunes:duration>1979</itunes:duration>
+      <podcast:episode>22</podcast:episode>
+    </item>
+    <item>
+      <title>Dimension Reduction with PCA (Episode 21)</title>
+      <itunes:title>Dimension Reduction with PCA (Episode 21)</itunes:title>
+      <description> 0000016B 0000015F 000045CA 00003CF4 0013891F 000E045E 00007FBA 00006E82 00004C39 001366D6</description>
+      <pubDate>Thu, 14 Dec 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/21-new-episode</link>
+      <guid isPermaLink="false">4d0d4bff2438788019c90b07f18ecce7</guid>
+      <content:encoded>
+        <![CDATA[Discussion with Alexander Schacht and Paolo Eusebi
+ 0000016B 0000015F 000045CA 00003CF4 0013891F 000E045E 00007FBA 00006E82 00004C39 001366D6]]>
+      </content:encoded>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Alexander Schacht and Paolo Eusebi</itunes:subtitle>
+      <itunes:summary> 0000016B 0000015F 000045CA 00003CF4 0013891F 000E045E 00007FBA 00006E82 00004C39 001366D6</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1310915-m-c77e6f50c35e002bc09b921df9405064.m4a?source=feed" type="audio/aac" length="13360402"/>
+      <itunes:duration>1291</itunes:duration>
+      <podcast:episode>21</podcast:episode>
+    </item>
+    <item>
+      <title>How to Write Impactful and Effective Emails While Avoiding Common Mistakes (Episode 20)</title>
+      <itunes:title>How to Write Impactful and Effective Emails While Avoiding Common Mistakes (Episode 20)</itunes:title>
+      <description>Do you have a lot of email ping-pong, where emails go back and forth many times – too many times?
+
+Are you aware about the brand of you, that you communicate with your email style?
+
+Is email your default communication tool?
+
+Then this episode is for you. We have researched various articles on good email writing copies and distilled the best for you in this episode.
+
+By listening to this episode, you will learn about:
+
+When is email the best way to communicate?
+Approaches to attachments.
+How to take care of your style?
+How to structure your emails?
+About different email cultures
+Simple actionable tricks to improve your effectiveness directly</description>
+      <pubDate>Fri, 17 Nov 2023 10:30:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/20-new-episode</link>
+      <guid isPermaLink="false">4de5b0a334df47f191ef868f31693c8f</guid>
+      <content:encoded>
+        <![CDATA[
+Do you have a lot of email ping-pong, where emails go back and forth many times – too many times?
+
+Are you aware about the brand of you, that you communicate with your email style?
+
+Is email your default communication tool?
+
+Then this episode is for you. We have researched various articles on good email writing copies and distilled the best for you in this episode.
+
+By listening to this episode, you will learn about:
+
+When is email the best way to communicate?
+Approaches to attachments.
+How to take care of your style?
+How to structure your emails?
+About different email cultures
+Simple actionable tricks to improve your effectiveness directly]]>
+      </content:encoded>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary>Do you have a lot of email ping-pong, where emails go back and forth many times – too many times?
+
+Are you aware about the brand of you, that you communicate with your email style?
+
+Is email your default communication tool?
+
+Then this episode is for you. We have researched various articles on good email writing copies and distilled the best for you in this episode.
+
+By listening to this episode, you will learn about:
+
+When is email the best way to communicate?
+Approaches to attachments.
+How to take care of your style?
+How to structure your emails?
+About different email cultures
+Simple actionable tricks to improve your effectiveness directly</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Benjamin Piske, biometricians, statisticians and leaders in the pharma industry</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1282780-m-6ad46c6deda7aa22d5355e3c8339f1a5.m4a?source=feed" type="audio/aac" length="21451552"/>
+      <itunes:duration>2067</itunes:duration>
+      <podcast:episode>20</podcast:episode>
+    </item>
+    <item>
+      <title>Tips and Tricks to Reduce Your Email Burden Including the Option of Last Resort (Episode 19)</title>
+      <itunes:title>Tips and Tricks to Reduce Your Email Burden Including the Option of Last Resort (Episode 19)</itunes:title>
+      <description>Everybody uses email multiple times during the day and email represents a key communication channel. Managing the flood of emails effectively will reduce your stress.
+
+In this episode, we discuss various approaches that we learned over the years from different productivity experts. We discuss how we implement them in our daily routines.</description>
+      <pubDate>Thu, 02 Nov 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/19-new-episode</link>
+      <guid isPermaLink="false">a63770a7cff661db8d672c67cc1feb8b</guid>
+      <content:encoded>
+        <![CDATA[Discussion with Alexander Schacht and Benjamin Piske
+<p>By listening to this episode, you’ll learn about these topics:</p>
+<ul>
+<li>What are helpful mindsets about emails</li>
+<li>Five step approach to managing emails</li>
+<li>Good habits to establish like</li>
+<li>Reply in a timely manner</li>
+<li>Send and respond less to receive less.</li>
+<li>Tips on how to set up filters</li>
+<li>Smartphone vs desktop email checking</li>
+<li>When and when not to work on emails</li>
+<li>And the option of last resort</li>
+</ul>]]>
+      </content:encoded>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Alexander Schacht and Benjamin Piske</itunes:subtitle>
+      <itunes:summary>Everybody uses email multiple times during the day and email represents a key communication channel. Managing the flood of emails effectively will reduce your stress.
+
+In this episode, we discuss various approaches that we learned over the years from different productivity experts. We discuss how we implement them in our daily routines.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Benjamin Piske, biometricians, statisticians and leaders in the pharma industry</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1265748-m-ec147d719f5fcc814dde5a4cf7b54808.m4a?source=feed" type="audio/aac" length="18611260"/>
+      <itunes:duration>1800</itunes:duration>
+      <podcast:episode>19</podcast:episode>
+    </item>
+    <item>
+      <title>Data Visualization Part 2 (Episode 18)</title>
+      <itunes:title>Data Visualization Part 2 (Episode 18)</itunes:title>
+      <description>In this episode, we share out ideas and experiences, which mindset sets up statisticians for success. We cover topics around:</description>
+      <pubDate>Thu, 19 Oct 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/18-new-episode</link>
+      <guid isPermaLink="false">ba102e2ad49188b5c0989ff5bfeaf16c</guid>
+      <content:encoded>
+        <![CDATA[Discussion with Alexander Schacht and Paolo Eusebi
+In this episode, we share out ideas and experiences, which mindset sets up statisticians for success. We cover topics around:]]>
+      </content:encoded>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Alexander Schacht and Paolo Eusebi</itunes:subtitle>
+      <itunes:summary>In this episode, we share out ideas and experiences, which mindset sets up statisticians for success. We cover topics around:</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Benjamin Piske, biometricians, statisticians and leaders in the pharma industry</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1250188-m-6d9e0647f1379380e0991bc65cbf3033.m4a?source=feed" type="audio/aac" length="14346707"/>
+      <itunes:duration>1390</itunes:duration>
+      <podcast:episode>18</podcast:episode>
+    </item>
+    <item>
+      <title>Data Visualization Part 1 (Episode 17)</title>
+      <itunes:title>Data Visualization Part 1 (Episode 17)</itunes:title>
+      <description></description>
+      <pubDate>Thu, 05 Oct 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/17-new-episode</link>
+      <guid isPermaLink="false">860a86dccd6eb113c9a4007283037873</guid>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Alexander Schacht and Paolo Eusebi</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Benjamin Piske, biometricians, statisticians and leaders in the pharma industry</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1236286-m-453241905dc6f37e12a8a5fa7748fbc8.m4a?source=feed" type="audio/aac" length="15392295"/>
+      <itunes:duration>1458</itunes:duration>
+      <podcast:episode>17</podcast:episode>
+    </item>
+    <item>
+      <title>Success Starts in Your Head - Thoughts About the Mindset of Being Successful (Episode 16)</title>
+      <itunes:title>Success Starts in Your Head - Thoughts About the Mindset of Being Successful (Episode 16)</itunes:title>
+      <description>In this episode, we share our ideas and experiences, which mindset sets up statisticians for success.
+
+Leading people
+Convincing business partners
+Delivering value and selling it–and what does selling mean
+Thinking outside the status quo to improve things in the long run 
+Always learning about the business and the people in the business
+Learning about statistical innovation
+Doing things more effectively
+Becoming more impact-fully
+Raising your business acumen–internally and externally
+Having quality in mind 
+Quote from the Episode by Bill Gates “Most people overestimate what they can do in one year and underestimate what they can do in ten years.”</description>
+      <pubDate>Thu, 21 Sep 2023 09:30:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/16-new-episode</link>
+      <guid isPermaLink="false">1dd3704964e3d1d74fb6529a76224c30</guid>
+      <content:encoded>
+        <![CDATA[Discussion with Alexander Schacht and Benjamin Piske
+<p>In this episode, we share our ideas and experiences, which mindset sets up for success. We cover topics around:</p>
+<p>Leading people</p>
+<p>Convincing business partners</p>
+<p>Delivering value and selling it–and what does selling mean</p>
+<p>Thinking outside the status quo to improve things in the long run</p>
+<p>Always learning about the business and the people in the business</p>
+<p>Learning about statistical innovation</p>
+<p>Doing things more effectively</p>
+<p>Becoming more impact-fully</p>
+<p>Raising your business acumen–internally and externally</p>
+<p>Having quality in mind</p>
+<p>Quote from the Episode by Bill Gates “Most people overestimate what they can do in one year and underestimate what they can do in ten years.”</p>]]>
+      </content:encoded>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Alexander Schacht and Benjamin Piske</itunes:subtitle>
+      <itunes:summary>In this episode, we share our ideas and experiences, which mindset sets up statisticians for success.
+
+Leading people
+Convincing business partners
+Delivering value and selling it–and what does selling mean
+Thinking outside the status quo to improve things in the long run 
+Always learning about the business and the people in the business
+Learning about statistical innovation
+Doing things more effectively
+Becoming more impact-fully
+Raising your business acumen–internally and externally
+Having quality in mind 
+Quote from the Episode by Bill Gates “Most people overestimate what they can do in one year and underestimate what they can do in ten years.”</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Benjamin Piske, biometricians, statisticians and leaders in the pharma industry</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1222736-m-4a0724fc1744a57ae92d66c96dbd1020.m4a?source=feed" type="audio/aac" length="14739038"/>
+      <itunes:duration>1414</itunes:duration>
+      <podcast:episode>16</podcast:episode>
+    </item>
+    <item>
+      <title>What Are the Questions to Ask If You Get a New Project? (Episode 15)</title>
+      <itunes:title>What Are the Questions to Ask If You Get a New Project? (Episode 15)</itunes:title>
+      <description/>
+      <pubDate>Wed, 06 Sep 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/15-new-episode</link>
+      <guid isPermaLink="false">70c20725de80079e2e68c6d042facc52</guid>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Paolo Eusebi and Alexander Schacht</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1208168-m-852e08b0f6e23759423d5ad0cdc8bb17.m4a?source=feed" type="audio/aac" length="13210695"/>
+      <itunes:duration>1278</itunes:duration>
+      <podcast:episode>15</podcast:episode>
+    </item>
+    <item>
+      <title>A Picture Says More Than 1000 Tables (Episode 14)</title>
+      <itunes:title>A Picture Says More Than 1000 Tables (Episode 14)</itunes:title>
+      <description></description>
+      <pubDate>Thu, 13 Jul 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/14-new-episode</link>
+      <guid isPermaLink="false">e750981f6e6b706c3bcc235fb89aed55</guid>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Zachary Skrivanek</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Gyom</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1161552-m-f7a5f4cd73d847af5ea92689549b5456.m4a?source=feed" type="audio/aac" length="28191989"/>
+      <itunes:duration>2741</itunes:duration>
+      <podcast:episode>14</podcast:episode>
+    </item>
+    <item>
+      <title>Writing Reproducible Reports using Quarto (Episode 13)</title>
+      <itunes:title>Writing Reproducible Reports using Quarto (Episode 13)</itunes:title>
+      <description>Communicating data is so important! Quarto is a fantastic tool for writing reproducible reports
+using literate programming. Literate programming allows us to incorporate documentation and
+code in the same program. The data science community has embraced this idea by adopting
+Rmarkdown and Jupyter Notebooks. Using Quarto efficiently, you can create parametrized
+reports, write scientific publications, and build data-driven slides.
+
+Enjoy this super-interesting conversation with Thomas Neitmann, and be an effective data
+scientist!</description>
+      <pubDate>Thu, 29 Jun 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/13-new-episode</link>
+      <guid isPermaLink="false">d677a99df78544b25407e0a9ccba3e01</guid>
+      <content:encoded>
+        <![CDATA[Discussion with Paolo and Thomas
+Communicating data is so important! Quarto is a fantastic tool for writing reproducible reports
+using literate programming. Literate programming allows us to incorporate documentation and
+code in the same program. The data science community has embraced this idea by adopting
+Rmarkdown and Jupyter Notebooks. Using Quarto efficiently, you can create parametrized
+reports, write scientific publications, and build data-driven slides.
+
+Enjoy this super-interesting conversation with Thomas Neitmann, and be an effective data
+scientist!]]>
+      </content:encoded>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Discussion with Paolo and Thomas</itunes:subtitle>
+      <itunes:summary>Communicating data is so important! Quarto is a fantastic tool for writing reproducible reports
+using literate programming. Literate programming allows us to incorporate documentation and
+code in the same program. The data science community has embraced this idea by adopting
+Rmarkdown and Jupyter Notebooks. Using Quarto efficiently, you can create parametrized
+reports, write scientific publications, and build data-driven slides.
+
+Enjoy this super-interesting conversation with Thomas Neitmann, and be an effective data
+scientist!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1148026-m-023f6bdcf86591289c2315618a652733.m4a?source=feed" type="audio/aac" length="10458910"/>
+      <itunes:duration>1018</itunes:duration>
+      <podcast:episode>13</podcast:episode>
+    </item>
+    <item>
+      <title>Sharing your Code with R Packages (Episode 12)</title>
+      <itunes:title>Sharing your Code with R Packages (Episode 12)</itunes:title>
+      <description>In this episode, Paolo interviewed Thomas on why sharing your code with R packages for some data science projects is essential. When is it important? Where to start? What are the main steps and best practices? This skill could be a game-changer in your career as a data scientist, and nowadays, it’s much easier due to the introduction of new tools.</description>
+      <pubDate>Thu, 15 Jun 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/12-new-episode</link>
+      <guid isPermaLink="false">06e36d275709de7fde370a5b015d74bf</guid>
+      <content:encoded>
+        <![CDATA[
+<p>Resources:</p>
+<p><a href="https://r-pkgs.org/">R Packages (2e)</a></p>]]>
+      </content:encoded>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary>In this episode, Paolo interviewed Thomas on why sharing your code with R packages for some data science projects is essential. When is it important? Where to start? What are the main steps and best practices? This skill could be a game-changer in your career as a data scientist, and nowadays, it’s much easier due to the introduction of new tools.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1133335-m-43d941de765f54f1c966c136cc776f8b.m4a?source=feed" type="audio/aac" length="13605511"/>
+      <itunes:duration>1340</itunes:duration>
+      <podcast:episode>12</podcast:episode>
+    </item>
+    <item>
+      <title>How to Effectively Structure Data Science Projects in R (Episode 11)</title>
+      <itunes:title>How to Effectively Structure Data Science Projects in R (Episode 11)</itunes:title>
+      <description>We have outstanding news for you! 
+
+Thomas Neitmann joins The Effective Data Scientist as a co-host of the show! Thomas is an Associate Director of Data Science at Denali Therapeutics. He contributed significantly to the adoption of the R software in the pharmaceutical industry - especially during his time at Roche.</description>
+      <pubDate>Thu, 01 Jun 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/11-new-episode</link>
+      <guid isPermaLink="false">319573b0291aec167622f1473fdc96b9</guid>
+      <content:encoded>
+        <![CDATA[
+<p>In this episode, Paolo and Thomas dive into the fundamental principles for a well-structured data science project. These include practical advice on: </p>
+<p>•    organizing files into folders, </p>
+<p>•    documenting and commenting code, </p>
+<p>•    using version control systems and much more.</p>
+<p>Although the episode focuses on applying these fundamental principles in R projects, you want to apply the same principles to any Data Science project, regardless of the language used.</p>
+<p>Further resources: </p>
+<p>Advanced R 2nd Ed. (<a href="http://adv-r.hadley.nz">http://adv-r.hadley.nz</a>)</p>
+<p>R for Data Science 2nd Ed. (<a href="http://(r4ds.hadley.nz">http://(r4ds.hadley.nz</a>)</p>]]>
+      </content:encoded>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary>We have outstanding news for you! 
+
+Thomas Neitmann joins The Effective Data Scientist as a co-host of the show! Thomas is an Associate Director of Data Science at Denali Therapeutics. He contributed significantly to the adoption of the R software in the pharmaceutical industry - especially during his time at Roche.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Gyom</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1121795-m-4b5a9885a5370aa1b39943d2c0a7d070.m4a?source=feed" type="audio/aac" length="13434111"/>
+      <itunes:duration>1296</itunes:duration>
+      <podcast:episode>11</podcast:episode>
+    </item>
+    <item>
+      <title>Dichotomization and Proportional Odds Model (Episode 10)</title>
+      <itunes:title>Dichotomization and Proportional Odds Model (Episode 10)</itunes:title>
+      <description>In this episode, we move from the logistic regression model to the proportional odds model, with emphasis on
+interpretation and the checking of assumptions (visually and analytically). We also speak about the
+opportunities and challenges of dealing with the dichotomization of ordinal or continuous variables.</description>
+      <pubDate>Thu, 18 May 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/10-new-episode</link>
+      <guid isPermaLink="false">0998bfe26109007c7fd083ce4966b9c9</guid>
+      <content:encoded>
+        <![CDATA[
+<p>In this episode, we move from the logistic regression model to proportional odds model, with emphasis on
+interpretation and the checking of assumptions (visually and analytically). We also speak about the
+opportunities and challenges of dealing with the dichotomization of ordinal or continuous variables.</p>
+<p>Resources:</p>
+<p>● McCullagh, Peter, and John A. Nelder. Generalized linear models. Routledge, 1983.</p>
+<p>● Agresti, Alan. Categorical data analysis. John Wiley &amp; Sons, 2003.</p>
+<p>● Faraway, Julian J. Extending the linear model with R: generalized linear, mixed effects and
+nonparametric regression models. Chapman and Hall/CRC, 2016. (<a href="http://https://julianfaraway.github.io/faraway/ELM/">http://https://julianfaraway.github.io/faraway/ELM/</a>)</p>]]>
+      </content:encoded>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary>In this episode, we move from the logistic regression model to the proportional odds model, with emphasis on
+interpretation and the checking of assumptions (visually and analytically). We also speak about the
+opportunities and challenges of dealing with the dichotomization of ordinal or continuous variables.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1109663-m-eb3fda935ea005ed5717fece32b8b069.m4a?source=feed" type="audio/aac" length="9642832"/>
+      <itunes:duration>930</itunes:duration>
+      <podcast:episode>10</podcast:episode>
+    </item>
+    <item>
+      <title>Logistic regression (Episode 9)</title>
+      <itunes:title>Logistic regression (Episode 9)</itunes:title>
+      <description>Logistic regression is a beautiful tool for modeling a binary dependent variable, although many more
+complex extensions exist. In the show, we will speak about the generalized linear model family, logit and
+probit functions, interpretations, and practicalities.</description>
+      <pubDate>Mon, 08 May 2023 12:30:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/9-new-episode</link>
+      <guid isPermaLink="false">0fc1cfc6ead8cb31358a7b807e3ad33f</guid>
+      <content:encoded>
+        <![CDATA[
+<p>Logistic regression is a beautiful tool for modeling a binary dependent variable, although many more
+complex extensions exist. In the show, we will speak about the generalized linear model family, logit and
+probit functions, interpretations, and practicalities.</p>
+<p>Resources:</p>
+<p>● McCullagh, Peter, and John A. Nelder. Generalized linear models. Routledge, 1983.</p>
+<p>● Faraway, Julian J. Extending the linear model with R: generalized linear, mixed effects and
+nonparametric regression models. Chapman and Hall/CRC, 2016. (<a href="http://https://julianfaraway.github.io/faraway/ELM/">http://https://julianfaraway.github.io/faraway/ELM/</a>)</p>]]>
+      </content:encoded>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary>Logistic regression is a beautiful tool for modeling a binary dependent variable, although many more
+complex extensions exist. In the show, we will speak about the generalized linear model family, logit and
+probit functions, interpretations, and practicalities.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Gyom</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1098451-m-20ff0e1e794074c441a525eca3fd3e79.m4a?source=feed" type="audio/aac" length="10151787"/>
+      <itunes:duration>980</itunes:duration>
+      <podcast:episode>9</podcast:episode>
+    </item>
+    <item>
+      <title>3 steps to make your research more reproducible with Heidi Seibold (Episode 8)</title>
+      <itunes:title>3 steps to make your research more reproducible with Heidi Seibold (Episode 8)</itunes:title>
+      <description>Creating reproducible research is crucial for data scientists as it ensures transparency, understanding, and accuracy in the research process. Not only does it help others understand your work, but it also allows for the reproduction and verification of your results in the future.</description>
+      <pubDate>Fri, 21 Apr 2023 14:50:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/8-new-episode</link>
+      <guid isPermaLink="false">9871534a4cf77e5ed2139fbb9e4ad839</guid>
+      <content:encoded>
+        <![CDATA[
+<p>Creating reproducible research is crucial for data scientists as it ensures transparency, understanding, and accuracy in the research process. Not only does it help others understand your work, but it also allows for the reproduction and verification of your results in the future.</p>
+<p>Heidi Seibold, an expert in reproducible research, suggests three steps for achieving reproducibility:</p>
+<p><li>Document everything</li>
+<li>Develop reusable code, and</li>
+<li>Share results with others.</li></p>
+<p>By following these steps, you can ensure that your research is reproducible and accessible to anyone who needs it. Share this resource with your colleagues who want to enhance the quality of their research!</p>]]>
+      </content:encoded>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary>Creating reproducible research is crucial for data scientists as it ensures transparency, understanding, and accuracy in the research process. Not only does it help others understand your work, but it also allows for the reproduction and verification of your results in the future.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Gyom</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1083125-m-86c4421946c7dcb6740143b297515a60.m4a?source=feed" type="audio/aac" length="20809479"/>
+      <itunes:duration>2020</itunes:duration>
+      <podcast:episode>8</podcast:episode>
+    </item>
+    <item>
+      <title>The art of communicating data with Hana Khan</title>
+      <itunes:title>The art of communicating data with Hana Khan</itunes:title>
+      <description></description>
+      <pubDate>Wed, 05 Apr 2023 17:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/7-new-episode</link>
+      <guid isPermaLink="false">705fb63a1602f9f1313a9c8e87f835db</guid>
+      <content:encoded>
+        <![CDATA[
+<p>Alexander interviewed Hana Khan about her path from being a data analyst to a data visualizer. Hana runs <strong><a href="https://trending-analytics.com/" data-type="URL" data-id="https://trending-analytics.com/">Hanalytx</a></strong>, her own company, which is specialized in helping others in presenting and visualizing data. Hana also runs the <strong><a href="https://trending-analytics.com/podcast" data-type="URL" data-id="https://trending-analytics.com/podcast">Art of Communicating Data podcast</a>.</strong></p>
+<p>In this episode, Hana and Alexander discussed super interesting topics like sources of inspiration, optimal workflow, and appropriate tools for producing great data visualizations.</p>]]>
+      </content:encoded>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1067639-m-5c594c874ff6ba9b9b2f3c1a0e16f1fa.m4a?source=feed" type="audio/aac" length="18991658"/>
+      <itunes:duration>1845</itunes:duration>
+      <podcast:episode>7</podcast:episode>
+    </item>
+    <item>
+      <title>Bayesian inference and probabilistic programming</title>
+      <itunes:title>Bayesian inference and probabilistic programming</itunes:title>
+      <description></description>
+      <pubDate>Fri, 10 Mar 2023 08:00:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/6-new-episode</link>
+      <guid isPermaLink="false">0bdd357fe5a1aee007102a1ac7ce4f13</guid>
+      <content:encoded>
+        <![CDATA[Interview with Alex Andorra
+<p>Interviewing Alex Andorra about bayesian inference, probabilistic programming, and more was a pleasure.<br><br>Alex is a data scientist and modeler at the <a href="https://www.pymc-labs.io" data-type="URL" data-id="https://www.pymc-labs.io">PyMC Labs consultancy</a>. He's also an open-source enthusiast and core contributor to the <a href="https://docs.pymc.io" data-type="URL" data-id="https://docs.pymc.io">python packages PyMC </a> and <a href="https://arviz-devs.github.io/arviz" data-type="URL" data-id="https://arviz-devs.github.io/arviz">ArviZ</a>. Alex is also a contributor and instructor in the <a href="https://www.intuitivebayes.com/" data-type="URL" data-id="https://www.intuitivebayes.com/">"Intuitive Bayes Introductory Course"</a>. This self-paced course is designed for data scientists and developers, where you'll learn Bayesian modeling with code, not math.<br>Alex also runs the amazing <a href="https://learnbayesstats.com" data-type="URL" data-id="https://learnbayesstats.com">"Learning Bayesian Statistics" podcast</a>!<br>If you love Python and Bayesian inference, catch this episode.</p>
+<p><li>How Alex began his path on statistical modeling and how he finds this a challenging, versatile, and creative</li>
+<li>How Alex and his agency do with clients using multilevel regression and post-stratification and tracking opinion through time</li>
+<li>How the community around PMYC is growing and contributing to development in an open source format</li>
+<li>Alex hosts a podcast that covers a wide variety of topics, including political elections, healthcare, neuroscience, and the market</li>
+<li>Alex's suggestions of what books to read and how to effectively contribute to open source projects, and stay active in the community</li>
+<li>What are the benefits of joining online communities for learning</li>
+<li>and more..</li></p>
+<p>Listen to this episode now and share this with your friends and colleagues!</p>]]>
+      </content:encoded>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Alex Andorra</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1042042-m-1c23eb3e2babbda953a68ca093456644.m4a?source=feed" type="audio/aac" length="30913420"/>
+      <itunes:duration>2999</itunes:duration>
+      <podcast:episode>6</podcast:episode>
+    </item>
+    <item>
+      <title>Everything to know to write programs like a pro - Principles for good programming (Episode 5)</title>
+      <itunes:title>Everything to know to write programs like a pro - Principles for good programming (Episode 5)</itunes:title>
+      <description>Ok – not everything, but in this episode you will get all the tips to make sure, you avoid the most common mistakes and that your code looks professional.
+
+Shafi Chowdhury is an expert programmer who has developed a style guide, which his clients apply broadly. He regularly gives trainings on SAS programming and build his own company based on these skills.
+
+He walks us through the different points and clarifies, why they are important from an efficiency but also from a quality perspective.</description>
+      <pubDate>Thu, 09 Feb 2023 04:06:22 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/5-new-episode</link>
+      <guid isPermaLink="false">6f182718b02b668ad70744b89df1c699</guid>
+      <content:encoded>
+        <![CDATA[Interview with Shafi Chowdhury
+<p><a href="https://theeffectivestatistician.com/wp-content/uploads/2018/05/Quick-guide-to-GPP.pdf">Click here to get the quick guide!</a></p>
+<p>Shafi Chowdhury
+This image has an empty alt attribute; its file name is shaffi.webp
+He has have over 20 years of experience as a statistical programmer in the Pharma industry. He worked for Pharma companies and CROs across Europe in many different therapeutic areas and in all phases of clinical trials before setting up his own consultancy firm. He believes knowledge should be shared and therefore he is a regular presenter at PhUSE conferences and regularly attend many other conferences including PSI conferences for Statisticians in the Pharmaceutical Industry. He also provides bespoke training and have a website to allow users to learn just the module they need at that time.</p>
+<p>He specialise in reviewing processes and developing standards, tools, templates and macros to improve the expertise of individuals and efficiency of processes. As an independent consultant with all the proven experience behind him, he offers unbiased expert opinions which can be used by management to make their decisions. His aim is always to drive up Quality by Design.</p>
+<p>Specialties: Writing SAS programs to check, modify, analyse and report any kind of data. 
+Developing client specific template programs and generic macros.
+Developing bespoke training programs to produce well rounded programmers within weeks.</p>]]>
+      </content:encoded>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Interview with Shafi Chowdhury</itunes:subtitle>
+      <itunes:summary>Ok – not everything, but in this episode you will get all the tips to make sure, you avoid the most common mistakes and that your code looks professional.
+
+Shafi Chowdhury is an expert programmer who has developed a style guide, which his clients apply broadly. He regularly gives trainings on SAS programming and build his own company based on these skills.
+
+He walks us through the different points and clarifies, why they are important from an efficiency but also from a quality perspective.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Alexander Schacht and Paolo Eusebi</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1014236-m-c486d2d9d2139e5fd8b58418ef25513e.m4a?source=feed" type="audio/aac" length="13318669"/>
+      <itunes:duration>1295</itunes:duration>
+      <podcast:episode>5</podcast:episode>
+    </item>
+    <item>
+      <title>Interpretable ML with Serg Masis</title>
+      <itunes:title>Interpretable ML with Serg Masis</itunes:title>
+      <description>An awesome guided tour in the world of interpretable machine learning with Serg Masis. Serg Masis is data scientist at Syngenta, a leading science-based agtech company. Serg wrote an amazing book on interpretable machine learning [link]. All the code used for the examples illustrated in the book is freely available [link].
+
+Serg drives us through the concept of interpretability and why it is better than explainability. Why black-box can be interpretable and a white box not? Have you ever heard about glass box models? We went through a lot of topics and modeling approaches.</description>
+      <pubDate>Thu, 26 Jan 2023 14:05:00 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/4-new-episode</link>
+      <guid isPermaLink="false">e5bd57bae3d345468ad83dc6bf741b6b</guid>
+      <content:encoded>
+        <![CDATA[
+<!-- wp:paragraph -->
+<p>Interpretable Machine Learning with Python - Second Ed</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Interpretable Machine Learning with Python - Second Edition [<a href="https://www.packtpub.com/product/interpretable-machine-learning-with-python-second-edition/9781803235424">link</a>]</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Explainable Boosting Machine [<a href="https://interpret.ml/docs/ebm.html">link</a>]</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>How Interpretable and Trustworthy are GAMs? [<a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467453">link</a>]SHAP (SHapley Additive exPlanations) [<a href="https://arxiv.org/abs/1705.07874">link</a>]</p>
+<!-- /wp:paragraph -->]]>
+      </content:encoded>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary>An awesome guided tour in the world of interpretable machine learning with Serg Masis. Serg Masis is data scientist at Syngenta, a leading science-based agtech company. Serg wrote an amazing book on interpretable machine learning [link]. All the code used for the examples illustrated in the book is freely available [link].
+
+Serg drives us through the concept of interpretability and why it is better than explainability. Why black-box can be interpretable and a white box not? Have you ever heard about glass box models? We went through a lot of topics and modeling approaches.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Gyom</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1001154-m-c82f02633d3b217bbf5d45d330f10473.m4a?source=feed" type="audio/aac" length="29209528"/>
+      <itunes:duration>2841</itunes:duration>
+      <podcast:episode>4</podcast:episode>
+    </item>
+    <item>
+      <title>Become familiar with linear regression - Part 2 (Episode 3)</title>
+      <itunes:title>Become familiar with linear regression - Part 2 (Episode 3)</itunes:title>
+      <description>In this episode, we continue to dive into the linear regression model. What are the real-world applications? When our model fit is enough? What are the pros and cons of increasing complexity in our model? 
+
+We discuss also the basic principles of covariates transformation (i.e. the logarithm) and how this has played a pivotal role in the modeling of the Covid-19 epidemics.
+
+Furthermore, we discuss how to model and interpret interactions between covariates.
+
+In this GitHub Repository, you will find R scripts helping to understand the basics of linear regression.</description>
+      <pubDate>Thu, 12 Jan 2023 13:50:55 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/3-new-episode</link>
+      <guid isPermaLink="false">df4d558f1b5cc0b20b08ded5281af859</guid>
+      <content:encoded>
+        <![CDATA[
+<p>Other resources:</p>
+<p>Linear Models with R by Julian J. Faraway, 2nd Edition
+Regression Modeling Strategies by Frank E. Harrell</p>]]>
+      </content:encoded>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary>In this episode, we continue to dive into the linear regression model. What are the real-world applications? When our model fit is enough? What are the pros and cons of increasing complexity in our model? 
+
+We discuss also the basic principles of covariates transformation (i.e. the logarithm) and how this has played a pivotal role in the modeling of the Covid-19 epidemics.
+
+Furthermore, we discuss how to model and interpret interactions between covariates.
+
+In this GitHub Repository, you will find R scripts helping to understand the basics of linear regression.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Gyom</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/988267-m-4055a6753f10bdf2199492c91adad298.m4a?source=feed" type="audio/aac" length="18925520"/>
+      <itunes:duration>1837</itunes:duration>
+      <podcast:episode>3</podcast:episode>
+    </item>
+    <item>
+      <title>Introduction to Linear Regression (Episode 2)</title>
+      <itunes:title>Introduction to Linear Regression (Episode 2)</itunes:title>
+      <description/>
+      <pubDate>Wed, 07 Jul 2021 15:20:25 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/2-002</link>
+      <guid isPermaLink="false">523147d39023f93649fe7e7e2f6f689d</guid>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Part 1</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Introduction to Linear Regression - Part 1</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/488665-m-3f372c468750b5f6e498a5a4724637b7.m4a?source=feed" type="audio/aac" length="15870495"/>
+      <itunes:duration>1538</itunes:duration>
+      <podcast:episode>2</podcast:episode>
+    </item>
+    <item>
+      <title>Welcome to the effective data scientist podcast</title>
+      <itunes:title>Welcome to the effective data scientist podcast</itunes:title>
+      <description/>
+      <pubDate>Mon, 05 Jul 2021 15:05:56 +0000</pubDate>
+      <link>https://theeffectivedatascientist.podigee.io/1-welcome-to-the-effective-data-scientist-podcast</link>
+      <guid isPermaLink="false">78dc22d374a6ff16fe9da26a827310b6</guid>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:author>Gyom</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/414566-m-a8a831af96644489b1bb7133e2542210.m4a?source=feed" type="audio/aac" length="6841833"/>
+      <itunes:duration>661</itunes:duration>
+      <podcast:episode>1</podcast:episode>
+    </item>
+  </channel>
+</rss>

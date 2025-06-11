@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Generally Intelligent]]></title>
+		<description><![CDATA[Technical discussions with deep learning researchers who study how to build intelligence. Made for researchers, by researchers.]]></description>
+		<link>https://generallyintelligent.com/podcast</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 10 Jun 2025 06:17:24 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/42cab330/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Kanjun Qiu]]></author>
+		<copyright><![CDATA[Kanjun Qiu]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Kanjun Qiu</itunes:author>
+		<itunes:summary>Technical discussions with deep learning researchers who study how to build intelligence. Made for researchers, by researchers.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Kanjun Qiu</itunes:name>
+			<itunes:email>kanjun@generallyintelligent.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+		<item>
+			<title><![CDATA[Episode 37: Rylan Schaeffer, Stanford: On investigating emergent abilities and challenging dominant research ideas]]></title>
+			<description><![CDATA[<p>Rylan Schaeffer is a PhD student at Stanford studying the engineering, science, and mathematics of intelligence. He authored the paper “Are Emergent Abilities of Large Language Models a Mirage?”, as well as other interesting refutations in the field that we’ll talk about today. He previously interned at Meta on the Llama team, and at Google DeepMind.<br></p>
+<p>Generally Intelligent is a podcast by Imbue where we interview researchers about their behind-the-scenes ideas, opinions, and intuitions that are hard to share in papers and talks.</p>
+<p><strong>About Imbue</strong></p>
+<p>Imbue is an independent research company developing AI agents that mirror the fundamentals of human-like intelligence and that can learn to safely solve problems in the real world. We started Imbue because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.</p>
+<p>We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.</p>
+<p>Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.</p>
+<p>Website: <a href="https://imbue.com" target="_blank" rel="noopener noreferer">https://imbue.com</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/company/imbue-ai/" target="_blank" rel="noopener noreferer">https://www.linkedin.com/company/imbue_ai/</a></p>
+<p>Twitter/X: <a href="x.com/imbue_ai" target="_blank" rel="noopener noreferer">@imbue_ai</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-37-Rylan-Schaeffer--Stanford-On-investigating-emergent-abilities-and-challenging-dominant-research-ideas-e2ohiov</link>
+			<guid isPermaLink="false">d5948924-f33a-42c1-909f-98d04b83dab1</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Wed, 18 Sep 2024 22:51:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/91850975/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-18%2F68175e49-3c44-fbdb-725a-777c6f9b9d27.mp3" length="151046398" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Rylan Schaeffer is a PhD student at Stanford studying the engineering, science, and mathematics of intelligence. He authored the paper “Are Emergent Abilities of Large Language Models a Mirage?”, as well as other interesting refutations in the field that we’ll talk about today. He previously interned at Meta on the Llama team, and at Google DeepMind.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Generally Intelligent is a podcast by Imbue where we interview researchers about their behind-the-scenes ideas, opinions, and intuitions that are hard to share in papers and talks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Imbue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Imbue is an independent research company developing AI agents that mirror the fundamentals of human-like intelligence and that can learn to safely solve problems in the real world. We started Imbue because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.&lt;/p&gt;
+&lt;p&gt;We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.&lt;/p&gt;
+&lt;p&gt;Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https://imbue.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://imbue.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/company/imbue-ai/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.linkedin.com/company/imbue_ai/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter/X: &lt;a href=&quot;x.com/imbue_ai&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;@imbue_ai&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:02:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episode>37</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 36: Ari Morcos, DatologyAI: On leveraging data to democratize model training]]></title>
+			<description><![CDATA[<p><em>Ari Morcos is the CEO of DatologyAI, which makes training deep learning models more performant and efficient by intervening on training data. He was at FAIR and DeepMind before that, where he worked on a variety of topics, including how training data leads to useful representations, lottery ticket hypothesis, and self-supervised learning. His work has been honored with Outstanding Paper awards at both NeurIPS and ICLR.</em></p>
+<p>Generally Intelligent is a podcast by Imbue where we interview researchers about their behind-the-scenes ideas, opinions, and intuitions that are hard to share in papers and talks.</p>
+<p><strong>About Imbue</strong></p>
+<p>Imbue is an independent research company developing AI agents that mirror the fundamentals of human-like intelligence and that can learn to safely solve problems in the real world. We started Imbue because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.</p>
+<p>We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.</p>
+<p>Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.</p>
+<p>Website: <a href="https://imbue.com/" target="_blank" rel="noopener">⁠https://imbue.com/⁠</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/company/imbue-ai/" target="_blank" rel="noopener">⁠https://www.linkedin.com/company/imbue-ai/⁠</a></p>
+<p>Twitter: <a href="x.com/imbue_ai" target="_blank" rel="noopener noreferer">@imbue_ai</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-36-Ari-Morcos--DatologyAI-On-leveraging-data-to-democratize-model-training-e2j4jci</link>
+			<guid isPermaLink="false">9b172b40-efaa-46bc-8f16-c225526a372d</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/86182738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-11%2F60e7d0e8-9139-19da-abdf-8dcde5c6ba0e.mp3" length="226555942" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;em&gt;Ari Morcos is the CEO of DatologyAI, which makes training deep learning models more performant and efficient by intervening on training data. He was at FAIR and DeepMind before that, where he worked on a variety of topics, including how training data leads to useful representations, lottery ticket hypothesis, and self-supervised learning. His work has been honored with Outstanding Paper awards at both NeurIPS and ICLR.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Generally Intelligent is a podcast by Imbue where we interview researchers about their behind-the-scenes ideas, opinions, and intuitions that are hard to share in papers and talks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Imbue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Imbue is an independent research company developing AI agents that mirror the fundamentals of human-like intelligence and that can learn to safely solve problems in the real world. We started Imbue because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.&lt;/p&gt;
+&lt;p&gt;We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.&lt;/p&gt;
+&lt;p&gt;Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https://imbue.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;⁠https://imbue.com/⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/company/imbue-ai/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;⁠https://www.linkedin.com/company/imbue-ai/⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;x.com/imbue_ai&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;@imbue_ai&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:34:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episode>36</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 35: Percy Liang, Stanford: On the paradigm shift and societal effects of foundation models]]></title>
+			<description><![CDATA[<p>Percy Liang is an associate professor of computer science and statistics at Stanford. These days, he’s interested in understanding how foundation models work, how to make them more efficient, modular, and robust, and how they shift the way people interact with AI—although he’s been working on language models for long before foundation models appeared. Percy is also a big proponent of reproducible research, and toward that end he’s shipped most of his recent papers as executable papers using the CodaLab Worksheets platform his lab developed, and published a wide variety of benchmarks.</p>
+<p><em>Generally Intelligent</em> is a podcast by Imbue where we interview researchers about their behind-the-scenes ideas, opinions, and intuitions that are hard to share in papers and talks.</p>
+<p><strong>About Imbue</strong></p>
+<p>Imbue is an independent research company developing AI agents that mirror the fundamentals of human-like intelligence and that can learn to safely solve problems in the real world. We started Imbue because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.</p>
+<p>Website: <a href="https://imbue.com/">⁠https://imbue.com/⁠</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/company/imbue-ai/">⁠https://www.linkedin.com/company/imbue-ai/⁠</a></p>
+<p>Twitter: <a href="twitter.com/imbue_ai">⁠@imbue_ai</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-35-Percy-Liang--Stanford-On-the-paradigm-shift-and-societal-effects-of-foundation-models-e2je9bk</link>
+			<guid isPermaLink="false">147f5fc5-0dca-4e5c-971b-85c172673304</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 09 May 2024 17:24:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/86500148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-8%2F61e23484-36e4-1dff-fc92-558276be940c.mp3" length="148785699" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Percy Liang is an associate professor of computer science and statistics at Stanford. These days, he’s interested in understanding how foundation models work, how to make them more efficient, modular, and robust, and how they shift the way people interact with AI—although he’s been working on language models for long before foundation models appeared. Percy is also a big proponent of reproducible research, and toward that end he’s shipped most of his recent papers as executable papers using the CodaLab Worksheets platform his lab developed, and published a wide variety of benchmarks.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Generally Intelligent&lt;/em&gt; is a podcast by Imbue where we interview researchers about their behind-the-scenes ideas, opinions, and intuitions that are hard to share in papers and talks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Imbue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Imbue is an independent research company developing AI agents that mirror the fundamentals of human-like intelligence and that can learn to safely solve problems in the real world. We started Imbue because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https://imbue.com/&quot;&gt;⁠https://imbue.com/⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/company/imbue-ai/&quot;&gt;⁠https://www.linkedin.com/company/imbue-ai/⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;twitter.com/imbue_ai&quot;&gt;⁠@imbue_ai&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:01:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episode>35</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 34: Seth Lazar, Australian National University: On legitimate power, moral nuance, and the political philosophy of AI]]></title>
+			<description><![CDATA[<p>Seth Lazar is a professor of philosophy at the Australian National University, where he leads the Machine Intelligence and Normative Theory (MINT) Lab. His unique perspective bridges moral and political philosophy with AI, introducing much-needed rigor to the question of what will make for a good and just AI future.</p>
+<p><em>Generally Intelligent</em> is a podcast by Imbue where we interview researchers about their behind-the-scenes ideas, opinions, and intuitions that are hard to share in papers and talks.</p>
+<p><strong>About Imbue</strong><br>Imbue is an independent research company developing AI agents that mirror the fundamentals of human-like intelligence and that can learn to safely solve problems in the real world. We started Imbue because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.</p>
+<p>Website: <a href="https://imbue.com/" target="_blank" rel="noopener noreferrer">https://imbue.com/</a><br>LinkedIn: <a href="https://www.linkedin.com/company/imbue-ai/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/company/imbue-ai/</a><br>Twitter: <a href="twitter.com/imbue_ai" target="_blank" rel="noopener noreferer">@imbue_ai</a></p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-34-Seth-Lazar--Australian-National-University-On-legitimate-power--moral-nuance--and-the-political-philosophy-of-AI-e2gvtgl</link>
+			<guid isPermaLink="false">5daa172e-ecbe-4bac-abc4-5c04f1d6c5f6</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Tue, 12 Mar 2024 23:14:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/83932117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-12%2F7f3b343c-d93f-c9a8-778e-d12c95a5dca6.mp3" length="278006573" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Seth Lazar is a professor of philosophy at the Australian National University, where he leads the Machine Intelligence and Normative Theory (MINT) Lab. His unique perspective bridges moral and political philosophy with AI, introducing much-needed rigor to the question of what will make for a good and just AI future.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Generally Intelligent&lt;/em&gt; is a podcast by Imbue where we interview researchers about their behind-the-scenes ideas, opinions, and intuitions that are hard to share in papers and talks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Imbue&lt;/strong&gt;&lt;br&gt;Imbue is an independent research company developing AI agents that mirror the fundamentals of human-like intelligence and that can learn to safely solve problems in the real world. We started Imbue because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https://imbue.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://imbue.com/&lt;/a&gt;&lt;br&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/company/imbue-ai/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://www.linkedin.com/company/imbue-ai/&lt;/a&gt;&lt;br&gt;Twitter: &lt;a href=&quot;twitter.com/imbue_ai&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;@imbue_ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:55:45</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episode>34</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 33: Tri Dao, Stanford: On FlashAttention and sparsity, quantization, and efficient inference]]></title>
+			<description><![CDATA[<p>Tri Dao is a PhD student at Stanford, co-advised by Stefano Ermon and Chris Re. He’ll be joining Princeton as an assistant professor next year. He works at the intersection of machine learning and systems, currently focused on efficient training and long-range context.</p>
+<p><br></p>
+<p><strong>About Generally Intelligent </strong></p>
+<p>We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.  </p>
+<p>We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.  </p>
+<p>Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.  </p>
+<p><br></p>
+<p><strong>Learn more about us</strong></p>
+<p>Website: https://generallyintelligent.com/</p>
+<p>LinkedIn: linkedin.com/company/generallyintelligent/ </p>
+<p>Twitter: @genintelligent</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-33-Tri-Dao--Stanford-On-FlashAttention-and-sparsity--quantization--and-efficient-inference-e27tiqs</link>
+			<guid isPermaLink="false">15a30fff-839f-4763-b468-c9c3df843b30</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Wed, 09 Aug 2023 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/74418460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-9%2Fbddab9ae-c04a-a460-7b7d-976f45b295ea.mp3" length="77279492" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Tri Dao is a PhD student at Stanford, co-advised by Stefano Ermon and Chris Re. He’ll be joining Princeton as an assistant professor next year. He works at the intersection of machine learning and systems, currently focused on efficient training and long-range context.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Generally Intelligent &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.  &lt;/p&gt;
+&lt;p&gt;We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.  &lt;/p&gt;
+&lt;p&gt;Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Website: https://generallyintelligent.com/&lt;/p&gt;
+&lt;p&gt;LinkedIn: linkedin.com/company/generallyintelligent/ &lt;/p&gt;
+&lt;p&gt;Twitter: @genintelligent&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:20:29</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 32: Jamie Simon, UC Berkeley: On theoretical principles for how neural networks learn and generalize]]></title>
+			<description><![CDATA[<p>Jamie Simon is a 4th year Ph.D. student at UC Berkeley advised by Mike DeWeese, and also a Research Fellow with us at Generally Intelligent. He uses tools from theoretical physics to build fundamental understanding of deep neural networks so they can be designed from first-principles. In this episode, we discuss reverse engineering kernels, the conservation of learnability during training, infinite-width neural networks, and much more.
+</p>
+<p><strong>About Generally Intelligent </strong></p>
+<p>We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.  </p>
+<p>We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.  </p>
+<p>Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.  </p>
+<p><br></p>
+<p><strong>Learn more about us</strong></p>
+<p>Website: https://generallyintelligent.com/</p>
+<p>LinkedIn: linkedin.com/company/generallyintelligent/ </p>
+<p>Twitter: @genintelligent</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-32-Jamie-Simon--UC-Berkeley-On-theoretical-principles-for-how-neural-networks-learn-and-generalize-e261ge1</link>
+			<guid isPermaLink="false">e6434300-a2e5-4124-bf59-b67929edbd82</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 22 Jun 2023 18:52:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/72449921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-21%2Fe12db167-eb6c-5032-6d6b-324eb5c8a179.mp3" length="118889929" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Jamie Simon is a 4th year Ph.D. student at UC Berkeley advised by Mike DeWeese, and also a Research Fellow with us at Generally Intelligent. He uses tools from theoretical physics to build fundamental understanding of deep neural networks so they can be designed from first-principles. In this episode, we discuss reverse engineering kernels, the conservation of learnability during training, infinite-width neural networks, and much more.
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Generally Intelligent &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.  &lt;/p&gt;
+&lt;p&gt;We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.  &lt;/p&gt;
+&lt;p&gt;Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Website: https://generallyintelligent.com/&lt;/p&gt;
+&lt;p&gt;LinkedIn: linkedin.com/company/generallyintelligent/ &lt;/p&gt;
+&lt;p&gt;Twitter: @genintelligent&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:01:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 31: Bill Thompson, UC Berkeley, on how cultural evolution shapes knowledge acquisition]]></title>
+			<description><![CDATA[<p>Bill Thompson is a cognitive scientist and an assistant professor at UC Berkeley. He runs an experimental cognition laboratory where he and his students conduct research on human language and cognition using large-scale behavioral experiments, computational modeling, and machine learning. In this episode, we explore the impact of cultural evolution on human knowledge acquisition, how pure biological evolution can lead to slow adaptation and overfitting, and much more.</p>
+<p><br></p>
+<p><strong>About Generally Intelligent </strong></p>
+<p>We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.  </p>
+<p>We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.  </p>
+<p>Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.  </p>
+<p><br></p>
+<p><strong>Learn more about us</strong></p>
+<p>Website: https://generallyintelligent.com/</p>
+<p>LinkedIn: linkedin.com/company/generallyintelligent/ </p>
+<p>Twitter: @genintelligent</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-31-Bill-Thompson--UC-Berkeley--on-how-cultural-evolution-shapes-knowledge-acquisition-e21btn1</link>
+			<guid isPermaLink="false">752559f2-21ad-48ee-bc42-430b26d11f85</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Wed, 29 Mar 2023 18:25:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/67548321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-29%2F1bb5509a-f308-6a59-92f3-820c81729780.mp3" length="144815105" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Bill Thompson is a cognitive scientist and an assistant professor at UC Berkeley. He runs an experimental cognition laboratory where he and his students conduct research on human language and cognition using large-scale behavioral experiments, computational modeling, and machine learning. In this episode, we explore the impact of cultural evolution on human knowledge acquisition, how pure biological evolution can lead to slow adaptation and overfitting, and much more.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Generally Intelligent &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.  &lt;/p&gt;
+&lt;p&gt;We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.  &lt;/p&gt;
+&lt;p&gt;Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Website: https://generallyintelligent.com/&lt;/p&gt;
+&lt;p&gt;LinkedIn: linkedin.com/company/generallyintelligent/ &lt;/p&gt;
+&lt;p&gt;Twitter: @genintelligent&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:15:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 30: Ben Eysenbach, CMU, on designing simpler and more principled RL algorithms]]></title>
+			<description><![CDATA[<p>Ben Eysenbach is a PhD student from CMU and a student researcher at Google Brain. He is co-advised by Sergey Levine and Ruslan Salakhutdinov and his research focuses on developing RL algorithms that get state-of-the-art performance while being more simple, scalable, and robust. Recent problems he’s tackled include long horizon reasoning, exploration, and representation learning. In this episode, we discuss designing simpler and more principled RL algorithms, and much more.
+</p>
+<p><strong>About Generally Intelligent </strong></p>
+<p>We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.  </p>
+<p>We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.  </p>
+<p>Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.  </p>
+<p><br></p>
+<p><strong>Learn more about us</strong></p>
+<p>Website: https://generallyintelligent.com/</p>
+<p>LinkedIn: linkedin.com/company/generallyintelligent/ </p>
+<p>Twitter: @genintelligent</p>
+<p>
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-30-Ben-Eysenbach--CMU--on-designing-simpler-and-more-principled-RL-algorithms-e20uq4m</link>
+			<guid isPermaLink="false">0bc8f345-45b6-4ef5-b54f-f6ff402f1b7d</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 23 Mar 2023 00:27:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/67118678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-22%2Fc2b801c6-f6fc-26de-7af0-c51b9c4c4dd6.mp3" length="203423012" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ben Eysenbach is a PhD student from CMU and a student researcher at Google Brain. He is co-advised by Sergey Levine and Ruslan Salakhutdinov and his research focuses on developing RL algorithms that get state-of-the-art performance while being more simple, scalable, and robust. Recent problems he’s tackled include long horizon reasoning, exploration, and representation learning. In this episode, we discuss designing simpler and more principled RL algorithms, and much more.
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Generally Intelligent &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one.  &lt;/p&gt;
+&lt;p&gt;We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.  &lt;/p&gt;
+&lt;p&gt;Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Website: https://generallyintelligent.com/&lt;/p&gt;
+&lt;p&gt;LinkedIn: linkedin.com/company/generallyintelligent/ &lt;/p&gt;
+&lt;p&gt;Twitter: @genintelligent&lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:45:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 29: Jim Fan, NVIDIA, on foundation models for embodied agents, scaling data, and why prompt engineering will become irrelevant]]></title>
+			<description><![CDATA[<p>Jim Fan is a research scientist at NVIDIA and got his PhD at Stanford under Fei-Fei Li. Jim is interested in building generally capable autonomous agents, and he recently published MineDojo, a massively multiscale benchmarking suite built on Minecraft, which was an Outstanding Paper at NeurIPS. In this episode, we discuss the foundation models for embodied agents, scaling data, and why prompt engineering will become irrelevant. &nbsp;</p>
+<p><br></p>
+<p><strong>About Generally Intelligent&nbsp;</strong></p>
+<p>We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one. &nbsp;</p>
+<p>We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research. &nbsp;</p>
+<p>Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research. &nbsp;</p>
+<p><br></p>
+<p><strong>Learn more about us</strong></p>
+<p>Website: https://generallyintelligent.com/</p>
+<p>LinkedIn: linkedin.com/company/generallyintelligent/&nbsp;</p>
+<p>Twitter: @genintelligent</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-29-Jim-Fan--NVIDIA--on-foundation-models-for-embodied-agents--scaling-data--and-why-prompt-engineering-will-become-irrelevant-e20378j</link>
+			<guid isPermaLink="false">6fcd35ad-08f1-4a11-a623-6c085cb2a039</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 09 Mar 2023 00:22:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/66214611/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-9%2Fe597ff32-45b9-b2c4-88e5-915b90570eab.mp3" length="166607485" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Jim Fan is a research scientist at NVIDIA and got his PhD at Stanford under Fei-Fei Li. Jim is interested in building generally capable autonomous agents, and he recently published MineDojo, a massively multiscale benchmarking suite built on Minecraft, which was an Outstanding Paper at NeurIPS. In this episode, we discuss the foundation models for embodied agents, scaling data, and why prompt engineering will become irrelevant. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Generally Intelligent&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We’re dedicated to ensuring that that impact is a positive one. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We’re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Website: https://generallyintelligent.com/&lt;/p&gt;
+&lt;p&gt;LinkedIn: linkedin.com/company/generallyintelligent/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Twitter: @genintelligent&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:26:45</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 28: Sergey Levine, UC Berkeley, on the bottlenecks to generalization in reinforcement learning, why simulation is doomed to succeed, and how to pick good research problems]]></title>
+			<description><![CDATA[<p>Sergey Levine, an assistant professor of EECS at UC Berkeley, is one of the pioneers of modern deep reinforcement learning. His research focuses on developing general-purpose algorithms for autonomous agents to learn how to solve any task. In this episode, we talk about the bottlenecks to generalization in reinforcement learning, why simulation is doomed to succeed, and how to pick good research problems.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-28-Sergey-Levine--UC-Berkeley--on-the-bottlenecks-to-generalization-in-reinforcement-learning--why-simulation-is-doomed-to-succeed--and-how-to-pick-good-research-problems-e1vndv2</link>
+			<guid isPermaLink="false">dd605f52-8404-473c-b886-dc7057970427</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Wed, 01 Mar 2023 23:47:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/65828258/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2F67468b4a-3890-8c67-1af3-7b33ecc8bb06.mp3" length="182056432" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Sergey Levine, an assistant professor of EECS at UC Berkeley, is one of the pioneers of modern deep reinforcement learning. His research focuses on developing general-purpose algorithms for autonomous agents to learn how to solve any task. In this episode, we talk about the bottlenecks to generalization in reinforcement learning, why simulation is doomed to succeed, and how to pick good research problems.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:34:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 27: Noam Brown, FAIR, on achieving human-level performance in poker and Diplomacy, and the power of spending compute at inference time]]></title>
+			<description><![CDATA[<p>Noam Brown is a research scientist at FAIR. During his Ph.D. at CMU, he made the first AI to defeat top humans in No Limit Texas Hold 'Em poker. More recently, he was part of the team that built CICERO which achieved human-level performance in Diplomacy. In this episode, we extensively discuss ideas underlying both projects, the power of spending compute at inference time, and much more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-27-Noam-Brown--FAIR--on-achieving-human-level-performance-in-poker-and-Diplomacy--and-the-power-of-spending-compute-at-inference-time-e1unm9f</link>
+			<guid isPermaLink="false">d253b387-d6f4-4489-a254-940e612996f3</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 09 Feb 2023 19:27:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/64788207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F3aa9150c-495e-7395-1f05-b2142da5b7de.mp3" length="201451904" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Noam Brown is a research scientist at FAIR. During his Ph.D. at CMU, he made the first AI to defeat top humans in No Limit Texas Hold &apos;Em poker. More recently, he was part of the team that built CICERO which achieved human-level performance in Diplomacy. In this episode, we extensively discuss ideas underlying both projects, the power of spending compute at inference time, and much more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:44:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 26: Sugandha Sharma, MIT, on biologically inspired neural architectures, how memories can be implemented, and control theory]]></title>
+			<description><![CDATA[<p>Sugandha Sharma is a Ph.D. candidate at MIT advised by Prof. Ila Fiete and Prof. Josh Tenenbaum. She explores the computational and theoretical principles underlying higher cognition in the brain by constructing neuro-inspired models and mathematical tools to discover how the brain navigates the world, or how to construct memory mechanisms that don’t exhibit catastrophic forgetting. In this episode, we chat about biologically inspired neural architectures, how memory could be implemented, why control theory is underrated and much more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-26-Sugandha-Sharma--MIT--on-biologically-inspired-neural-architectures--how-memories-can-be-implemented--and-control-theory-e1tc040</link>
+			<guid isPermaLink="false">8570bf61-54e3-481b-8ed1-91e72e4df8f9</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Tue, 17 Jan 2023 19:41:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/63356480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-11%2Ff9c37a78-5e40-4ebe-43e5-77863d721d88.mp3" length="199723253" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Sugandha Sharma is a Ph.D. candidate at MIT advised by Prof. Ila Fiete and Prof. Josh Tenenbaum. She explores the computational and theoretical principles underlying higher cognition in the brain by constructing neuro-inspired models and mathematical tools to discover how the brain navigates the world, or how to construct memory mechanisms that don’t exhibit catastrophic forgetting. In this episode, we chat about biologically inspired neural architectures, how memory could be implemented, why control theory is underrated and much more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:44:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 25: Nicklas Hansen, UCSD, on long-horizon planning and why algorithms don't drive research progress]]></title>
+			<description><![CDATA[<p>Nicklas Hansen is a Ph.D. student at UC San Diego advised by Prof Xiaolong Wang and Prof Hao Su. He is also a student researcher at Meta AI. Nicklas' research interests involve developing machine learning systems, specifically neural agents, that have the ability to learn, generalize, and adapt over their lifetime. In this episode, we talk about long-horizon planning, adapting reinforcement learning policies during deployment, why algorithms don't drive research progress, and much more!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-25-Nicklas-Hansen--UCSD--on-long-horizon-planning-and-why-algorithms-dont-drive-research-progress-e1sauu5</link>
+			<guid isPermaLink="false">a25ed433-7bf7-4bb7-b798-8f311e7b7115</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Fri, 16 Dec 2022 18:07:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/62273925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-16%2F673e80d6-bed3-0ffe-ddd8-fdf32470145f.mp3" length="209901395" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Nicklas Hansen is a Ph.D. student at UC San Diego advised by Prof Xiaolong Wang and Prof Hao Su. He is also a student researcher at Meta AI. Nicklas&apos; research interests involve developing machine learning systems, specifically neural agents, that have the ability to learn, generalize, and adapt over their lifetime. In this episode, we talk about long-horizon planning, adapting reinforcement learning policies during deployment, why algorithms don&apos;t drive research progress, and much more!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:49:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 24: Jack Parker-Holder, DeepMind, on open-endedness, evolving agents and environments, online adaptation, and offline learning]]></title>
+			<description><![CDATA[<p>Jack Parker-Holder recently joined DeepMind after his Ph.D. with Stephen Roberts at Oxford. Jack is interested in using reinforcement learning to train generally capable agents, especially via an open-ended learning process where environments can adapt to constantly challenge the agent's capabilities. Before doing his Ph.D., Jack worked for 7 years in finance at JP Morgan. In this episode, we chat about open-endedness, evolving agents and environments, online adaptation, offline learning with world models, and much more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-24-Jack-Parker-Holder--DeepMind--on-open-endedness--evolving-agents-and-environments--online-adaptation--and-offline-learning-e1rs2fc</link>
+			<guid isPermaLink="false">f12b04f5-e334-4c62-a13c-6952e7d9af71</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Tue, 06 Dec 2022 22:30:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/61786028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-6%2F72607deb-0898-db10-73f0-2df6f7e354f2.mp3" length="224113348" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Jack Parker-Holder recently joined DeepMind after his Ph.D. with Stephen Roberts at Oxford. Jack is interested in using reinforcement learning to train generally capable agents, especially via an open-ended learning process where environments can adapt to constantly challenge the agent&apos;s capabilities. Before doing his Ph.D., Jack worked for 7 years in finance at JP Morgan. In this episode, we chat about open-endedness, evolving agents and environments, online adaptation, offline learning with world models, and much more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:56:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 23: Celeste Kidd, UC Berkeley, on attention and curiosity, how we form beliefs, and where certainty comes from]]></title>
+			<description><![CDATA[<p>Celeste Kidd is a professor of psychology at UC Berkeley. Her lab studies the processes involved in knowledge acquisition; essentially, how we form our beliefs over time and what allows us to select a subset of all the information we encounter in the world to form those beliefs. In this episode, we chat about attention and curiosity, beliefs and expectations, where certainty comes from, and much more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-23-Celeste-Kidd--UC-Berkeley--on-attention-and-curiosity--how-we-form-beliefs--and-where-certainty-comes-from-e1r5r8i</link>
+			<guid isPermaLink="false">1951fdd8-9daf-4af7-8e60-d28cdc6267d8</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Tue, 22 Nov 2022 22:12:05 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/61057746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-22%2F673b2bc0-934f-21c5-6b7d-6a4a859035d0.mp3" length="108086437" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Celeste Kidd is a professor of psychology at UC Berkeley. Her lab studies the processes involved in knowledge acquisition; essentially, how we form our beliefs over time and what allows us to select a subset of all the information we encounter in the world to form those beliefs. In this episode, we chat about attention and curiosity, beliefs and expectations, where certainty comes from, and much more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:52:35</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 22: Archit Sharma, Stanford, on unsupervised and autonomous reinforcement learning]]></title>
+			<description><![CDATA[<p>Archit Sharma is a Ph.D. student at Stanford advised by Chelsea Finn. His recent work is focused on autonomous deep reinforcement learning—that is, getting real world robots to learn to deal with unseen situations without human interventions. Prior to this, he was an AI resident at Google Brain and he interned with Yoshua Bengio at Mila. In this episode, we chat about unsupervised, non-episodic, autonomous reinforcement learning and much more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-22-Archit-Sharma--Stanford--on-unsupervised-and-autonomous-reinforcement-learning-e1quj1p</link>
+			<guid isPermaLink="false">8228b315-e1e8-4c77-84c5-903e03994390</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 17 Nov 2022 22:58:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/60819961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-17%2Fa795da6c-eb93-9ca7-9ad8-f438f4990cdb.mp3" length="188619408" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Archit Sharma is a Ph.D. student at Stanford advised by Chelsea Finn. His recent work is focused on autonomous deep reinforcement learning—that is, getting real world robots to learn to deal with unseen situations without human interventions. Prior to this, he was an AI resident at Google Brain and he interned with Yoshua Bengio at Mila. In this episode, we chat about unsupervised, non-episodic, autonomous reinforcement learning and much more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:38:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 21: Chelsea Finn, Stanford, on the biggest bottlenecks in robotics and reinforcement learning]]></title>
+			<description><![CDATA[<p>Chelsea Finn is an Assistant Professor at Stanford and part of the Google Brain team. She's interested in the capability of robots and other agents to develop broadly intelligent behavior through learning and interaction at scale. In this episode, we chat about some of the biggest bottlenecks in RL and robotics—including distribution shifts, Sim2Real, and sample efficiency—as well as what makes a great researcher, why she aspires to build a robot that can make cereal, and much more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-21-Chelsea-Finn--Stanford--on-the-biggest-bottlenecks-in-robotics-and-reinforcement-learning-e1q6ja7</link>
+			<guid isPermaLink="false">f1587e11-fbfa-40fc-893a-34cf8f48cc2f</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 03 Nov 2022 17:40:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/60033799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-3%2Fb861d1f9-698b-6d95-01f3-e73a489e5123.mp3" length="96323713" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Chelsea Finn is an Assistant Professor at Stanford and part of the Google Brain team. She&apos;s interested in the capability of robots and other agents to develop broadly intelligent behavior through learning and interaction at scale. In this episode, we chat about some of the biggest bottlenecks in RL and robotics—including distribution shifts, Sim2Real, and sample efficiency—as well as what makes a great researcher, why she aspires to build a robot that can make cereal, and much more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 20: Hattie Zhou, Mila, on supermasks, iterative learning, and fortuitous forgetting]]></title>
+			<description><![CDATA[<p>Hattie Zhou is a Ph.D. student at Mila working with Hugo Larochelle and Aaron Courville. Her research focuses on understanding how and why neural networks work, starting with deconstructing why lottery tickets work and most recently exploring how forgetting may be fundamental to learning. Prior to Mila, she was a data scientist at Uber and did research with Uber AI Labs. In this episode, we chat about<strong> </strong>supermasks and sparsity, coherent gradients, iterative learning, fortuitous forgetting, and much more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-20-Hattie-Zhou--Mila--on-supermasks--iterative-learning--and-fortuitous-forgetting-e1p90pc</link>
+			<guid isPermaLink="false">530a9d72-41d9-4f40-b46e-cd0bd7cff1a7</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Fri, 14 Oct 2022 17:34:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/59064556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-14%2F40c6b552-e2f3-6bd6-e115-8cb0c13a352e.mp3" length="206355747" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Hattie Zhou is a Ph.D. student at Mila working with Hugo Larochelle and Aaron Courville. Her research focuses on understanding how and why neural networks work, starting with deconstructing why lottery tickets work and most recently exploring how forgetting may be fundamental to learning. Prior to Mila, she was a data scientist at Uber and did research with Uber AI Labs. In this episode, we chat about&lt;strong&gt; &lt;/strong&gt;supermasks and sparsity, coherent gradients, iterative learning, fortuitous forgetting, and much more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:47:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11105804/11105804-1666250503004-d229853e4c69b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 19: Minqi Jiang, UCL, on environment and curriculum design for general RL agents]]></title>
+			<description><![CDATA[<p>Minqi Jiang is a Ph.D. student at UCL and FAIR, advised by Tim Rocktäschel and Edward Grefenstette. Minqi is interested in how simulators can enable AI agents to learn useful behaviors that generalize to new settings. He is especially focused on problems at the intersection of generalization, human-AI coordination, and open-ended systems. In this episode, we chat about<strong> </strong>environment and curriculum design for reinforcement learning, model-based RL, emergent communication, open-endedness, and artificial life.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-19-Minqi-Jiang--UCL--on-environment-and-curriculum-design-for-general-RL-agents-e1le8r7</link>
+			<guid isPermaLink="false">92ff9191-cd34-4dd8-97ce-cf473d1f5c27</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Tue, 19 Jul 2022 17:04:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/55042343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2Fc74c856f-567a-e84a-cd85-712b362b5788.mp3" length="273586758" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Minqi Jiang is a Ph.D. student at UCL and FAIR, advised by Tim Rocktäschel and Edward Grefenstette. Minqi is interested in how simulators can enable AI agents to learn useful behaviors that generalize to new settings. He is especially focused on problems at the intersection of generalization, human-AI coordination, and open-ended systems. In this episode, we chat about&lt;strong&gt; &lt;/strong&gt;environment and curriculum design for reinforcement learning, model-based RL, emergent communication, open-endedness, and artificial life.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:53:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11105804/11105804-1666249840649-6766595ff380c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 18: Oleh Rybkin, UPenn, on exploration and planning with world models]]></title>
+			<description><![CDATA[<p>Oleh Rybkin is a Ph.D. student at the University of Pennsylvania and a student researcher at Google. He is advised by Kostas Daniilidis&nbsp;and&nbsp;Sergey Levine. Oleh's research focus is on reinforcement learning, particularly unsupervised and model-based RL in the visual domain. In this episode, we discuss agents that explore and plan (and do yoga), how to learn world models from video, what's missing from current RL research, and much more!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-18-Oleh-Rybkin--UPenn--on-exploration-and-planning-with-world-models-e1l3g8r</link>
+			<guid isPermaLink="false">73a282ee-e46b-4977-9925-942b3a8c7241</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Mon, 11 Jul 2022 18:56:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/54689499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F971e24db-4956-aad1-54fb-7bdff98faa2c.mp3" length="289649975" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Oleh Rybkin is a Ph.D. student at the University of Pennsylvania and a student researcher at Google. He is advised by Kostas Daniilidis&amp;nbsp;and&amp;nbsp;Sergey Levine. Oleh&apos;s research focus is on reinforcement learning, particularly unsupervised and model-based RL in the visual domain. In this episode, we discuss agents that explore and plan (and do yoga), how to learn world models from video, what&apos;s missing from current RL research, and much more!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>02:00:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11105804/11105804-1666251058905-f4207f7f9380b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 17: Andrew Lampinen, DeepMind, on symbolic behavior, mental time travel, and insights from psychology]]></title>
+			<description><![CDATA[<p>Andrew Lampinen is a Research Scientist at DeepMind. He previously completed his Ph.D. in cognitive psychology at Stanford. In this episode, we discuss generalization and transfer learning, how to think about language and symbols, what AI can learn from psychology (and vice versa), mental time travel, and the need for more human-like tasks. [Podcast errata: Susan Goldin-Meadow accidentally referred to as Susan Gelman @00:30:34]&nbsp;</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-17-Andrew-Lampinen--DeepMind--on-symbolic-behavior--mental-time-travel--and-insights-from-psychology-e1f1qon</link>
+			<guid isPermaLink="false">38934155-7fb4-4d83-8794-1d3587200043</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Mon, 28 Feb 2022 18:30:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/48343255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F3d15eb5e-f065-e59b-546c-7bc4507e59b6.mp3" length="285937454" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Andrew Lampinen is a Research Scientist at DeepMind. He previously completed his Ph.D. in cognitive psychology at Stanford. In this episode, we discuss generalization and transfer learning, how to think about language and symbols, what AI can learn from psychology (and vice versa), mental time travel, and the need for more human-like tasks. [Podcast errata: Susan Goldin-Meadow accidentally referred to as Susan Gelman @00:30:34]&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:59:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11105804/11105804-1666251289453-1e3d6398a2dae.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 16: Yilun Du, MIT, on energy-based models, implicit functions, and modularity]]></title>
+			<description><![CDATA[<p>Yilun Du is a graduate student at MIT advised by Professors Leslie Kaelbling, Tomas Lozano-Perez, and Josh Tenenbaum. He's interested in building robots that can understand the world like humans and construct world representations that enable task planning over long horizons.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-16-Yilun-Du--MIT--on-energy-based-models--implicit-functions--and-modularity-e1c1an5</link>
+			<guid isPermaLink="false">b6821eb7-a797-49bf-9a3d-5e241a301755</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Tue, 21 Dec 2021 23:28:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/45181093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2Fa2b8fdc8-7dfd-2bc2-b3fb-6f2704f48ecd.mp3" length="203642328" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Yilun Du is a graduate student at MIT advised by Professors Leslie Kaelbling, Tomas Lozano-Perez, and Josh Tenenbaum. He&apos;s interested in building robots that can understand the world like humans and construct world representations that enable task planning over long horizons.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:24:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11105804/11105804-1666251511674-dac69dc6988e9.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 15: Martín Arjovsky, INRIA, on benchmarks for robustness and geometric information theory]]></title>
+			<description><![CDATA[<p>Martín Arjovsky did his Ph.D. at NYU with Leon Bottou. Some of his well-known works include the Wasserstein GAN and a paradigm called Invariant Risk Minimization. In this episode, we discuss out-of-distribution generalization, geometric information theory, and the importance of good benchmarks.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-15-Martn-Arjovsky--INRIA--on-benchmarks-for-robustness-and-geometric-information-theory-e18qj6i</link>
+			<guid isPermaLink="false">9b5c083b-f4a1-40da-a877-d209502b5d1d</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Fri, 15 Oct 2021 16:25:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/41814674/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F76b280d7-3df0-1232-d6a1-1f9fc0832687.mp3" length="206947354" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Martín Arjovsky did his Ph.D. at NYU with Leon Bottou. Some of his well-known works include the Wasserstein GAN and a paradigm called Invariant Risk Minimization. In this episode, we discuss out-of-distribution generalization, geometric information theory, and the importance of good benchmarks.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:26:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11105804/11105804-1666251963709-c0d706c28d5b9.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 14: Yash Sharma, MPI-IS, on generalizability, causality, and disentanglement]]></title>
+			<description><![CDATA[<p>Yash Sharma is a Ph.D. student at the International Max Planck Research School for Intelligent Systems. He previously studied electrical engineering at Cooper Union and has spent time at Borealis AI and IBM Research. Yash’s early work was on adversarial examples and his current research interests span a variety of topics in representation disentanglement. In this episode, we discuss robustness to adversarial examples, causality vs. correlation in data, and how to make deep learning models generalize better.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-14-Yash-Sharma--MPI-IS--on-generalizability--causality--and-disentanglement-e17rdev</link>
+			<guid isPermaLink="false">7da7cdd9-0d4b-4fb6-86c1-3b8f5984a022</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Fri, 24 Sep 2021 16:46:57 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/40792991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F6b890a55-e20c-6e8a-948f-add5e039d057.mp3" length="207721615" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Yash Sharma is a Ph.D. student at the International Max Planck Research School for Intelligent Systems. He previously studied electrical engineering at Cooper Union and has spent time at Borealis AI and IBM Research. Yash’s early work was on adversarial examples and his current research interests span a variety of topics in representation disentanglement. In this episode, we discuss robustness to adversarial examples, causality vs. correlation in data, and how to make deep learning models generalize better.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:26:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11105804/11105804-1666252191910-b9cc604ebc9c7.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 13: Jonathan Frankle, MIT, on the lottery ticket hypothesis and the science of deep learning]]></title>
+			<description><![CDATA[<p>Jonathan Frankle (<a href="https://scholar.google.com/citations?user=MlLJapIAAAAJ&amp;hl=en"><u>Google Scholar</u></a>) (<a href="http://www.jfrankle.com/"><u>Website</u></a>) is finishing his PhD at MIT, advised by Michael Carbin. His main research interest is using experimental methods to understand the behavior of neural networks. His current work focuses on finding sparse, trainable neural networks.</p>
+<p>**Highlights from our conversation:**&nbsp;</p>
+<p>🕸 &nbsp;"Why is sparsity everywhere? This isn't an accident."</p>
+<p>🤖 &nbsp;"If I gave you 500 GPUs, could you actually keep those GPUs busy?"</p>
+<p>📊 &nbsp;"In general, I think we have a crisis of science in ML."</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-13-Jonathan-Frankle--MIT--on-the-lottery-ticket-hypothesis-and-the-science-of-deep-learning-e175j3j</link>
+			<guid isPermaLink="false">d6ba7b5e-bf6e-4213-bf3e-addb64e8140d</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Fri, 10 Sep 2021 02:28:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/40077875/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F0f05fc82-de96-76cd-cbb2-6851792a0054.mp3" length="193353227" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Jonathan Frankle (&lt;a href=&quot;https://scholar.google.com/citations?user=MlLJapIAAAAJ&amp;amp;hl=en&quot;&gt;&lt;u&gt;Google Scholar&lt;/u&gt;&lt;/a&gt;) (&lt;a href=&quot;http://www.jfrankle.com/&quot;&gt;&lt;u&gt;Website&lt;/u&gt;&lt;/a&gt;) is finishing his PhD at MIT, advised by Michael Carbin. His main research interest is using experimental methods to understand the behavior of neural networks. His current work focuses on finding sparse, trainable neural networks.&lt;/p&gt;
+&lt;p&gt;**Highlights from our conversation:**&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🕸 &amp;nbsp;&quot;Why is sparsity everywhere? This isn&apos;t an accident.&quot;&lt;/p&gt;
+&lt;p&gt;🤖 &amp;nbsp;&quot;If I gave you 500 GPUs, could you actually keep those GPUs busy?&quot;&lt;/p&gt;
+&lt;p&gt;📊 &amp;nbsp;&quot;In general, I think we have a crisis of science in ML.&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:20:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/11105804/11105804-1666252426641-e118596915d16.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 12: Jacob Steinhardt, UC Berkeley, on machine learning safety, alignment and measurement ]]></title>
+			<description><![CDATA[<p><strong>Jacob Steinhardt (</strong><a href="https://scholar.google.com/citations?user=LKv32bgAAAAJ&amp;hl=en"><u><strong>Google Scholar</strong></u></a><strong>) (</strong><a href="https://jsteinhardt.stat.berkeley.edu/"><u><strong>Website</strong></u></a><strong>) is an assistant professor at UC Berkeley. &nbsp;His main research interest is in designing machine learning systems that are reliable and aligned with human values. &nbsp;Some of his specific research directions include robustness, rewards specification and reward hacking, as well as scalable alignment.</strong></p>
+<p><strong>Highlights:</strong></p>
+<p><strong>📜“Test accuracy is a very limited metric.”</strong></p>
+<p><strong>👨‍👩‍👧‍👦“You might not be able to get lots of feedback on human values.”</strong></p>
+<p><strong>📊“I’m interested in measuring the progress in AI capabilities.”</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-12-Jacob-Steinhardt--UC-Berkeley--on-machine-learning-safety--alignment-and-measurement-e12vsjf</link>
+			<guid isPermaLink="false">9dd61e6b-5d83-4e18-8b13-aa05eeaa2ee0</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Fri, 18 Jun 2021 00:08:48 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/35696687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2Ff6c08945-29f9-cad0-531d-001cca3c85b1.mp3" length="143186638" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Jacob Steinhardt (&lt;/strong&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=LKv32bgAAAAJ&amp;amp;hl=en&quot;&gt;&lt;u&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) (&lt;/strong&gt;&lt;a href=&quot;https://jsteinhardt.stat.berkeley.edu/&quot;&gt;&lt;u&gt;&lt;strong&gt;Website&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) is an assistant professor at UC Berkeley. &amp;nbsp;His main research interest is in designing machine learning systems that are reliable and aligned with human values. &amp;nbsp;Some of his specific research directions include robustness, rewards specification and reward hacking, as well as scalable alignment.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📜“Test accuracy is a very limited metric.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👨‍👩‍👧‍👦“You might not be able to get lots of feedback on human values.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📊“I’m interested in measuring the progress in AI capabilities.”&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:39</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 11: Vincent Sitzmann, MIT, on neural scene representations for computer vision and more general AI]]></title>
+			<description><![CDATA[<p><strong>Vincent Sitzmann (</strong><a href="https://scholar.google.com/citations?user=X44QVV4AAAAJ&amp;hl=en"><u><strong>Google Scholar</strong></u></a><strong>) (</strong><a href="https://vsitzmann.github.io/"><u><strong>Website</strong></u></a><strong>) is a postdoc at MIT. His work is on neural scene representations in computer vision. &nbsp;Ultimately, he wants to make representations that AI agents can use to solve the same visual tasks humans solve regularly, but that are currently impossible for AI.</strong></p>
+<p><strong>**Highlights from our conversation:**</strong></p>
+<p>👁 “Vision is about the question of building representations”</p>
+<p>🧠 “We (humans) likely have a 3D inductive bias”</p>
+<p>🤖 “All computer vision should be 3D computer vision. &nbsp;Our world is a 3d world.”</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-11-Vincent-Sitzmann--MIT--on-neural-scene-representations-for-computer-vision-and-more-general-AI-e1185j8</link>
+			<guid isPermaLink="false">12f6a41b-2f81-4412-bf6a-0c57dd5e48a4</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 20 May 2021 04:25:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/33870888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F48392f55-90ff-8bbd-2057-831f50b8119e.mp3" length="168434507" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Vincent Sitzmann (&lt;/strong&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=X44QVV4AAAAJ&amp;amp;hl=en&quot;&gt;&lt;u&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) (&lt;/strong&gt;&lt;a href=&quot;https://vsitzmann.github.io/&quot;&gt;&lt;u&gt;&lt;strong&gt;Website&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) is a postdoc at MIT. His work is on neural scene representations in computer vision. &amp;nbsp;Ultimately, he wants to make representations that AI agents can use to solve the same visual tasks humans solve regularly, but that are currently impossible for AI.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;**Highlights from our conversation:**&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;👁 “Vision is about the question of building representations”&lt;/p&gt;
+&lt;p&gt;🧠 “We (humans) likely have a 3D inductive bias”&lt;/p&gt;
+&lt;p&gt;🤖 “All computer vision should be 3D computer vision. &amp;nbsp;Our world is a 3d world.”&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:10:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 10: Dylan Hadfield-Menell, UC Berkeley/MIT, on the value alignment problem in AI]]></title>
+			<description><![CDATA[<p><strong>Dylan Hadfield-Menell (</strong><a href="https://scholar.google.com/citations?user=4mVPFQ8AAAAJ&amp;hl=en"><u><strong>Google Scholar</strong></u></a><strong>) (</strong><a href="https://people.eecs.berkeley.edu/~dhm/"><u><strong>Website</strong></u></a><strong>) recently finished his PhD at UC Berkeley and is starting as an assistant professor at MIT. He works on the problem of designing AI algorithms that pursue the </strong><em><strong>intended</strong></em><strong> goal of their users, designers, and society in general. &nbsp;This is known as the value alignment problem.</strong></p>
+<p><br></p>
+<p><strong>Highlights from our conversation:</strong></p>
+<p>👨‍👩‍👧‍👦 How to align AI to human values</p>
+<p>📉 Consequences of misaligned AI -&gt; bias &amp; misdirected optimization</p>
+<p>📱 Better AI recommender systems</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-10-Dylan-Hadfield-Menell--UC-BerkeleyMIT--on-the-value-alignment-problem-in-AI-e10njja</link>
+			<guid isPermaLink="false">68f5bc9d-8a53-4ce9-b37e-c3576a96fe6c</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Wed, 12 May 2021 04:19:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/33328170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F6bfd1afc-0a52-19f8-0a5e-97ec6e9d3b7f.mp3" length="219721241" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Dylan Hadfield-Menell (&lt;/strong&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=4mVPFQ8AAAAJ&amp;amp;hl=en&quot;&gt;&lt;u&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) (&lt;/strong&gt;&lt;a href=&quot;https://people.eecs.berkeley.edu/~dhm/&quot;&gt;&lt;u&gt;&lt;strong&gt;Website&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) recently finished his PhD at UC Berkeley and is starting as an assistant professor at MIT. He works on the problem of designing AI algorithms that pursue the &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;intended&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; goal of their users, designers, and society in general. &amp;nbsp;This is known as the value alignment problem.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights from our conversation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;👨‍👩‍👧‍👦 How to align AI to human values&lt;/p&gt;
+&lt;p&gt;📉 Consequences of misaligned AI -&amp;gt; bias &amp;amp; misdirected optimization&lt;/p&gt;
+&lt;p&gt;📱 Better AI recommender systems&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:31:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 09: Drew Linsley, Brown, on inductive biases for vision and generalization]]></title>
+			<description><![CDATA[<p><strong>Drew Linsley (</strong><a href="https://scholar.google.com/citations?user=cXZlAuQAAAAJ&amp;hl=en"><u><strong>Google Scholar</strong></u></a><strong>) is a Paul J. Salem senior research associate at Brown, advised by Thomas Serre. He is working on building computational models of the visual system that serve the dual purpose of (1) explaining biological function and (2) extending artificial vision.</strong></p>
+<p><strong>Highlights from our conversation:</strong></p>
+<p><strong>🧠 Building neural-inspired inductive biases into computer vision</strong></p>
+<p><strong>🖼 A learning algorithm to improve recurrent vision models (C-RBP)</strong></p>
+<p><strong>🤖 Creating new benchmarks to move towards generalization</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-09-Drew-Linsley--Brown--on-inductive-biases-for-vision-and-generalization-eu2cm2</link>
+			<guid isPermaLink="false">c175b6cc-00a5-4db4-b3a1-d52584cf01ee</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Fri, 02 Apr 2021 02:30:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/30535810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F56e79a8b-42a9-9855-513a-79a28bed4214.mp3" length="172134475" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Drew Linsley (&lt;/strong&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=cXZlAuQAAAAJ&amp;amp;hl=en&quot;&gt;&lt;u&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) is a Paul J. Salem senior research associate at Brown, advised by Thomas Serre. He is working on building computational models of the visual system that serve the dual purpose of (1) explaining biological function and (2) extending artificial vision.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights from our conversation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🧠 Building neural-inspired inductive biases into computer vision&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🖼 A learning algorithm to improve recurrent vision models (C-RBP)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🤖 Creating new benchmarks to move towards generalization&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:11:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 08: Giancarlo Kerg, Mila, on approaching deep learning from mathematical foundations]]></title>
+			<description><![CDATA[<p><strong>Giancarlo Kerg (</strong><a href="https://scholar.google.com/citations?user=GcJkks8AAAAJ&amp;hl=en&amp;oi=ao"><u><strong>Google Scholar</strong></u></a><strong>) is a PhD student at Mila, supervised by Yoshua Bengio and Guillaume Lajoie. &nbsp;He is working on out-of-distribution generalization and modularity in memory-augmented neural networks.&nbsp;</strong></p>
+<p><strong>Highlights from our conversation:</strong></p>
+<p><strong>🧮 Pure math foundations as an approach to progress and structural understanding in deep learning research</strong></p>
+<p><strong>🧠 How a formal proof on the way self-attention mitigates gradient vanishing when capturing long-term dependencies in RNNs led to a relevancy screening mechanism resembling human memory consolidation</strong></p>
+<p><strong>🎯 Out-of-distribution generalization through modularity and inductive biases</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-08-Giancarlo-Kerg--Mila--on-approaching-deep-learning-from-mathematical-foundations-etk3ep</link>
+			<guid isPermaLink="false">6950d489-9643-4a29-8a1f-a050ac9cc0ed</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Sat, 27 Mar 2021 02:17:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/30067609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2Fb3564da3-7b07-87ce-dbdd-d35f146f989f.mp3" length="166421971" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Giancarlo Kerg (&lt;/strong&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=GcJkks8AAAAJ&amp;amp;hl=en&amp;amp;oi=ao&quot;&gt;&lt;u&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) is a PhD student at Mila, supervised by Yoshua Bengio and Guillaume Lajoie. &amp;nbsp;He is working on out-of-distribution generalization and modularity in memory-augmented neural networks.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights from our conversation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🧮 Pure math foundations as an approach to progress and structural understanding in deep learning research&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🧠 How a formal proof on the way self-attention mitigates gradient vanishing when capturing long-term dependencies in RNNs led to a relevancy screening mechanism resembling human memory consolidation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🎯 Out-of-distribution generalization through modularity and inductive biases&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:09:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 07: Yujia Huang, Caltech, on neuro-inspired generative models]]></title>
+			<description><![CDATA[<p><strong>Yujia Huang (</strong><a href="https://yjhuangcd.github.io/"><u><strong>Website</strong></u></a><strong>) is a PhD student at Caltech, working at the intersection of deep learning and neuroscience. &nbsp;She worked on optics and biophotonics before venturing into machine learning. Now, she hopes to design “less artificial” artificial intelligence.</strong></p>
+<p><strong>Highlights from our conversation:</strong></p>
+<p><strong>🏗 How recurrent generative feedback, a neuro-inspired design, improves adversarial robustness and and can be more efficient (less labels)</strong></p>
+<p><strong>🧠 Adapting theories from neuroscience and classical research for machine learning</strong></p>
+<p><strong>📊 What a new Turing test for “less artificial” or generalized AI could look like</strong></p>
+<p><strong>💡 Tips for new machine learning researchers!</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-07-Yujia-Huang--Caltech--on-neuro-inspired-generative-models-esukig</link>
+			<guid isPermaLink="false">c479b563-5552-4e0f-96ad-661135c67c6a</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 18 Mar 2021 20:20:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/29364240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F12b9fb69-0229-11c1-a3e6-bf032d2f7c3b.mp3" length="156516389" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Yujia Huang (&lt;/strong&gt;&lt;a href=&quot;https://yjhuangcd.github.io/&quot;&gt;&lt;u&gt;&lt;strong&gt;Website&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;) is a PhD student at Caltech, working at the intersection of deep learning and neuroscience. &amp;nbsp;She worked on optics and biophotonics before venturing into machine learning. Now, she hopes to design “less artificial” artificial intelligence.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights from our conversation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🏗 How recurrent generative feedback, a neuro-inspired design, improves adversarial robustness and and can be more efficient (less labels)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🧠 Adapting theories from neuroscience and classical research for machine learning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📊 What a new Turing test for “less artificial” or generalized AI could look like&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;💡 Tips for new machine learning researchers!&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:05:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 06: Julian Chibane, MPI-INF, on 3D reconstruction using implicit functions]]></title>
+			<description><![CDATA[<p><strong>Julian Chibane (</strong><a href="https://scholar.google.com/citations?user=U4tFPMQAAAAJ&amp;hl=de"><strong>Google Scholar</strong></a><strong>) is a PhD student at the Real Virtual Humans group at the Max Planck Institute for Informatics in Germany. &nbsp;His recent work centers around intrinsic functions for 3D reconstruction.</strong></p>
+<p><strong>Highlights from our conversation:</strong></p>
+<p><strong>🖼 How, surprisingly, the IF-Net architecture learned reasonable representations of humans &amp; objects without priors</strong></p>
+<p><strong>🔢 A simple observation that led to Neural Unsigned Distance Fields, which handle 3D scenes without a clear inside vs. outside (most scenes!)</strong></p>
+<p><strong>📚 Navigating open questions in 3D representation, and the importance of focusing on what's working</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-06-Julian-Chibane--MPI-INF--on-3D-reconstruction-using-implicit-functions-ermvhn</link>
+			<guid isPermaLink="false">4591e8c4-86ed-4b5c-9818-aeb11a0c1997</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Fri, 05 Mar 2021 19:28:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/28064759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F3f1f6c7b-e7d1-3298-a1d3-f8e9337c3583.mp3" length="117977423" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Julian Chibane (&lt;/strong&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=U4tFPMQAAAAJ&amp;amp;hl=de&quot;&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;) is a PhD student at the Real Virtual Humans group at the Max Planck Institute for Informatics in Germany. &amp;nbsp;His recent work centers around intrinsic functions for 3D reconstruction.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights from our conversation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🖼 How, surprisingly, the IF-Net architecture learned reasonable representations of humans &amp;amp; objects without priors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔢 A simple observation that led to Neural Unsigned Distance Fields, which handle 3D scenes without a clear inside vs. outside (most scenes!)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📚 Navigating open questions in 3D representation, and the importance of focusing on what&apos;s working&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:49:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 05: Katja Schwarz, MPI-IS, on GANs, implicit functions, and 3D scene understanding]]></title>
+			<description><![CDATA[<p><a href="https://scholar.google.com/citations?user=mhOrpHIAAAAJ&amp;hl=en">Katja Schwartz</a> came to machine learning from physics, and is now working on 3D geometric scene understanding at the Max Planck Institute for Intelligent Systems. Her most recent work, “<a href="https://arxiv.org/abs/2007.02442">Generative Radiance Fields for 3D-Aware Image Synthesis,</a>” revealed that radiance fields are a powerful representation for generative image synthesis, leading to 3D consistent models that render with high fidelity.</p>
+<p>We discuss the ideas in Katja’s work and more:</p>
+<p>🥦 the role 3D generation plays in conceptual understanding</p>
+<p>📝 tons of practical tips on GAN training</p>
+<p>〰 continuous functions as representations for 3D objects</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-05-Katja-Schwarz--MPI-IS--on-GANs--implicit-functions--and-3D-scene-understanding-eqv4po</link>
+			<guid isPermaLink="false">cd0494f5-3e82-4dae-9958-e1c66e5f8a3c</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Wed, 24 Feb 2021 02:31:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/27283704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F36e49071-e063-4ceb-d2dd-0b1bf093b9d1.mp3" length="121364983" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=mhOrpHIAAAAJ&amp;amp;hl=en&quot;&gt;Katja Schwartz&lt;/a&gt; came to machine learning from physics, and is now working on 3D geometric scene understanding at the Max Planck Institute for Intelligent Systems. Her most recent work, “&lt;a href=&quot;https://arxiv.org/abs/2007.02442&quot;&gt;Generative Radiance Fields for 3D-Aware Image Synthesis,&lt;/a&gt;” revealed that radiance fields are a powerful representation for generative image synthesis, leading to 3D consistent models that render with high fidelity.&lt;/p&gt;
+&lt;p&gt;We discuss the ideas in Katja’s work and more:&lt;/p&gt;
+&lt;p&gt;🥦 the role 3D generation plays in conceptual understanding&lt;/p&gt;
+&lt;p&gt;📝 tons of practical tips on GAN training&lt;/p&gt;
+&lt;p&gt;〰 continuous functions as representations for 3D objects&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 04: Joel Lehman, OpenAI, on evolution, open-endedness, and reinforcement learning]]></title>
+			<description><![CDATA[<p><a href="http://joellehman.com/">Joel Lehman</a> was previously a founding member at Uber AI Labs and assistant professor at the IT University of Copenhagen. He's now a research scientist at OpenAI, where he focuses on open-endedness, reinforcement learning, and AI safety.</p>
+<p>Joel’s PhD dissertation introduced the novelty search algorithm. That work inspired him to write the popular science book, “<a href="https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237">Why Greatness Cannot Be Planned</a>”, with his PhD advisor Ken Stanley, which discusses what evolutionary algorithms imply for how individuals and society should think about objectives.</p>
+<p>We discuss this and much more:</p>
+<p>- How discovering novelty search totally changed Joel’s philosophy of life</p>
+<p>- Sometimes, can you reach your objective more quickly by not trying to reach it?</p>
+<p>- How one might evolve intelligence</p>
+<p>- Why reinforcement learning is a natural framework for open-endedness</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-04-Joel-Lehman--OpenAI--on-evolution--open-endedness--and-reinforcement-learning-eqguml</link>
+			<guid isPermaLink="false">dd36bfcc-96c0-4398-8c0e-8a7108aceee0</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Wed, 17 Feb 2021 02:36:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/26818709/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F81283131-6a9a-8d62-8a4d-870748d6e7bf.mp3" length="187681515" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;http://joellehman.com/&quot;&gt;Joel Lehman&lt;/a&gt; was previously a founding member at Uber AI Labs and assistant professor at the IT University of Copenhagen. He&apos;s now a research scientist at OpenAI, where he focuses on open-endedness, reinforcement learning, and AI safety.&lt;/p&gt;
+&lt;p&gt;Joel’s PhD dissertation introduced the novelty search algorithm. That work inspired him to write the popular science book, “&lt;a href=&quot;https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237&quot;&gt;Why Greatness Cannot Be Planned&lt;/a&gt;”, with his PhD advisor Ken Stanley, which discusses what evolutionary algorithms imply for how individuals and society should think about objectives.&lt;/p&gt;
+&lt;p&gt;We discuss this and much more:&lt;/p&gt;
+&lt;p&gt;- How discovering novelty search totally changed Joel’s philosophy of life&lt;/p&gt;
+&lt;p&gt;- Sometimes, can you reach your objective more quickly by not trying to reach it?&lt;/p&gt;
+&lt;p&gt;- How one might evolve intelligence&lt;/p&gt;
+&lt;p&gt;- Why reinforcement learning is a natural framework for open-endedness&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:18:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 03: Cinjon Resnick, NYU, on activity and scene understanding]]></title>
+			<description><![CDATA[<p><a href="http://www.cinjon.com/">Cinjon Resnick</a> was formerly from Google Brain and now is doing his PhD at NYU. We talk about why he believes scene understanding is critical to out of distribution generalization, and how his theses have evolved since he started his PhD.</p>
+<p>Some topics we over:</p>
+<ul>
+ <li>How Cinjon started his research by trying to grow a baby through language and games, before running into a wall with this approach</li>
+ <li>How spending time at circuses 🎪 and with gymnasts 🤸🏽‍♂️ re-invigorated his research, and convinced him to focus on video, motion, and activity recognition</li>
+ <li>Why MetaSIM and MetaSIM II are underrated papers</li>
+ <li>Two research ideas Cinjon would like to see others work on</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-03-Cinjon-Resnick--NYU--on-activity-and-scene-understanding-epq426</link>
+			<guid isPermaLink="false">1f360241-3164-4a99-a464-0da9b6637651</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Mon, 01 Feb 2021 01:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/26070534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F1547eb23-971d-91bf-b7b0-f9956c74befa.mp3" length="143781179" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;http://www.cinjon.com/&quot;&gt;Cinjon Resnick&lt;/a&gt; was formerly from Google Brain and now is doing his PhD at NYU. We talk about why he believes scene understanding is critical to out of distribution generalization, and how his theses have evolved since he started his PhD.&lt;/p&gt;
+&lt;p&gt;Some topics we over:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;How Cinjon started his research by trying to grow a baby through language and games, before running into a wall with this approach&lt;/li&gt;
+ &lt;li&gt;How spending time at circuses 🎪 and with gymnasts 🤸🏽‍♂️ re-invigorated his research, and convinced him to focus on video, motion, and activity recognition&lt;/li&gt;
+ &lt;li&gt;Why MetaSIM and MetaSIM II are underrated papers&lt;/li&gt;
+ &lt;li&gt;Two research ideas Cinjon would like to see others work on&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 02: Sarah Jane Hong, Latent Space, on neural rendering & research process]]></title>
+			<description><![CDATA[<p>Sarah Jane Hong is the co-founder of Latent Space, a startup building the first fully AI-rendered 3D engine in order to democratize creativity.</p>
+<p>We touch on what it was like taking classes under Geoff Hinton in 2013, the trouble with using natural language prompts to render a scene, why a model’s ability to scale is more important than getting state-of-the-art results, and more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-02-Sarah-Jane-Hong--Latent-Space--on-neural-rendering--research-process-eol1vq</link>
+			<guid isPermaLink="false">d232fa0c-6bb9-41dd-a7bc-5a67a6c47ecf</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Thu, 07 Jan 2021 00:06:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/24855994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F1556309a-5ed4-4928-3049-9cf1749697ff.mp3" length="85707836" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Sarah Jane Hong is the co-founder of Latent Space, a startup building the first fully AI-rendered 3D engine in order to democratize creativity.&lt;/p&gt;
+&lt;p&gt;We touch on what it was like taking classes under Geoff Hinton in 2013, the trouble with using natural language prompts to render a scene, why a model’s ability to scale is more important than getting state-of-the-art results, and more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 01: Kelvin Guu, Google AI, on language models & overlooked research problems]]></title>
+			<description><![CDATA[<p>We interview Kelvin Guu, a researcher at Google AI and the creator of REALM.&nbsp;</p>
+<p>The conversation is a wide-ranging tour of language models, how computers interact with world knowledge, and much more.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/untitled-ai/episodes/Episode-01-Kelvin-Guu--Google-AI--on-language-models--overlooked-research-problems-enqrq5</link>
+			<guid isPermaLink="false">1dd3bbbb-a723-4aa4-877b-e407f3f96359</guid>
+			<dc:creator><![CDATA[Kanjun Qiu]]></dc:creator>
+			<pubDate>Tue, 15 Dec 2020 05:01:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42cab330/podcast/play/23997701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F140630d6-8846-a757-e4de-081a61e3288f.mp3" length="114070053" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;We interview Kelvin Guu, a researcher at Google AI and the creator of REALM.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The conversation is a wide-ranging tour of language models, how computers interact with world knowledge, and much more.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:47:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11105804/11105804-1666250922656-c614ae15c9ac2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

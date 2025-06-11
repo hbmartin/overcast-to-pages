@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1097978.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>The Sourcegraph Podcast</title>
+
+  <lastBuildDate>Fri, 27 Oct 2023 05:27:35 -0700</lastBuildDate>
+  <link>https://www.buzzsprout.com/1097978</link>
+  <language>en-us</language>
+  <copyright>© 2023 The Sourcegraph Podcast</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>39b4a08c-1dcd-54b1-80cb-4abf6e5ec4fd</podcast:guid>
+  <itunes:author>Beyang and Quinn</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>true</itunes:explicit>
+  <description><![CDATA[The Sourcegraph Podcast is a new show about developer tools and their creators. It can sometimes feel like a full-time job just staying on top of the latest libraries, frameworks, plugins, extensions, CLI tools, and developer apps. We want to help you do that, by giving you a window into the minds of some of the best and brightest people working at the forefront of developer productivity. You'll hear from dev tool company founders, open-source authors, and developer efficiency leaders inside some of the best engineering organizations. Our guests share war stories, origin stories, worldviews, histories, prognostications, and the tools and technologies they're most excited about today. If you're a programmer who is passionate about leveling up your own productivity or perhaps an aspiring dev tool creator yourself, this podcast is for you.]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:owner>
+    <itunes:name>Beyang and Quinn</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/i694vet48xi5mtresxf3qbh4dhev?.jpg</url>
+     <title>The Sourcegraph Podcast</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/i694vet48xi5mtresxf3qbh4dhev?.jpg" />
+  <itunes:category text="Technology" />
+  <item>
+    <itunes:title>Samuel Colvin, Founder and Lead Maintainer of Pydantic</itunes:title>
+    <title>Samuel Colvin, Founder and Lead Maintainer of Pydantic</title>
+    <itunes:summary><![CDATA[Pydantic is a Python library for typed validation of external data that has experienced exponential growth since 2020. We’ll hear the story of what motivated Samuel to create Pydantic, the most common ways people use it, and the success and growth of FastAPI with Pydantic. Also, Pydantic V2 has not been released yet, but we’ll learn what motivated Samuel to rewrite it in Rust, besides being faster and some other things happening with it.  And if you’re interested, Samuel is always lookin...]]></itunes:summary>
+    <description><![CDATA[<div>Pydantic is a Python library for typed validation of external data that has experienced exponential growth since 2020. We’ll hear the story of what motivated Samuel to create Pydantic, the most common ways people use it, and the success and growth of FastAPI with Pydantic. Also, Pydantic V2 has not been released yet, but we’ll learn what motivated Samuel to rewrite it in Rust, besides being faster and some other things happening with it.  And if you’re interested, Samuel is always looking for contributors to Pydantic!  Go ahead and download this episode now to hear more!  <br/><br/></div><p><b>Highlights</b></p><div>[00:00:59] Beyang gives us his understanding of what Pydantic does, and Samuel tells us two things that people appreciate about Pydantic.<br/><br/></div><div>[00:02:48] Samuel tells the story of what motivated him to create Pydantic, what the state of the world was at the time, and how it started. <br/><br/></div><div>[00:04:11] When Samuel first created Pydantic, he tells us if he had a particular use case in mind, and we hear the most common way people use Pydantic and other ways it’s used. <br/><br/></div><div>[00:05:46] Beyang is looking at the Pydantic docs and goes over an example of how you use the base model today. Samuel talks about the new Pydantic V2.<br/><br/></div><div>[00:07:23] We hear about Samuel&apos;s interaction with the FastAPI maintainers. Did he know them, and why does he think they selected Pydantic for their core piece of framework? Samuel mentions Django Ninja, which integrates Pydantic and Django, and Beyang mentions there are many highly starred cool projects using Pydantic and Django.<br/><br/></div><div>[00:11:53] The new version of Pydantic is written almost completely in Rust, so Samuel reveals why he decided to do the rewrite and what motivated him to use Rust.<br/><br/></div><div>[00:15:09] Beyang and Samuel discuss some of the Rust bindings so you can see what invoking Python from Rust looks like.<br/><br/></div><div>[00:21:03] The aspect of Pydantic, which is about translating from Python-type annotations into the core schema, Beyang wonders if that’s changing from Pydantic V1 to V2, and Samuel explains that it’s all rebuilt.<br/><br/></div><div>[00:24:03] Beyang wonders if anyone is using the not yet released Pydantic V2 yet. Samuel’s response: “I hope for nothing serious because it will change a lot!”<br/><br/></div><div>[00:24:40] A question in the chat came up for Samuel on Twitch: What motivated you to make the default behavior coercion rather than throwing an error? <br/><br/></div><div>[00:27:52] Will there be any changes to the public API from Pydantic V1 to V2? Samuel tells us there’s one thing that’s probably going to make people angry and he explains.<br/><br/></div><div>[00:29:33] Samuel gives an example of the output from serialization. Beyang wants to help Samuel out and tells him how Sourcegraph can potentially help him. <br/><br/></div><div>[00:34:25] There are some exciting things coming up for Pydantic that Samuel can’t announce quite yet, but he is excited about Pydantic V2 being released. Also, we hear they have GitHub sponsors, but another announcement about sponsors is coming soon.<br/><br/></div><div>[00:35:35] Samuel announces he would love for you to come and contribute to Pydantic.<br/><br/></div>]]></description>
+    <content:encoded><![CDATA[<div>Pydantic is a Python library for typed validation of external data that has experienced exponential growth since 2020. We’ll hear the story of what motivated Samuel to create Pydantic, the most common ways people use it, and the success and growth of FastAPI with Pydantic. Also, Pydantic V2 has not been released yet, but we’ll learn what motivated Samuel to rewrite it in Rust, besides being faster and some other things happening with it.  And if you’re interested, Samuel is always looking for contributors to Pydantic!  Go ahead and download this episode now to hear more!  <br/><br/></div><p><b>Highlights</b></p><div>[00:00:59] Beyang gives us his understanding of what Pydantic does, and Samuel tells us two things that people appreciate about Pydantic.<br/><br/></div><div>[00:02:48] Samuel tells the story of what motivated him to create Pydantic, what the state of the world was at the time, and how it started. <br/><br/></div><div>[00:04:11] When Samuel first created Pydantic, he tells us if he had a particular use case in mind, and we hear the most common way people use Pydantic and other ways it’s used. <br/><br/></div><div>[00:05:46] Beyang is looking at the Pydantic docs and goes over an example of how you use the base model today. Samuel talks about the new Pydantic V2.<br/><br/></div><div>[00:07:23] We hear about Samuel&apos;s interaction with the FastAPI maintainers. Did he know them, and why does he think they selected Pydantic for their core piece of framework? Samuel mentions Django Ninja, which integrates Pydantic and Django, and Beyang mentions there are many highly starred cool projects using Pydantic and Django.<br/><br/></div><div>[00:11:53] The new version of Pydantic is written almost completely in Rust, so Samuel reveals why he decided to do the rewrite and what motivated him to use Rust.<br/><br/></div><div>[00:15:09] Beyang and Samuel discuss some of the Rust bindings so you can see what invoking Python from Rust looks like.<br/><br/></div><div>[00:21:03] The aspect of Pydantic, which is about translating from Python-type annotations into the core schema, Beyang wonders if that’s changing from Pydantic V1 to V2, and Samuel explains that it’s all rebuilt.<br/><br/></div><div>[00:24:03] Beyang wonders if anyone is using the not yet released Pydantic V2 yet. Samuel’s response: “I hope for nothing serious because it will change a lot!”<br/><br/></div><div>[00:24:40] A question in the chat came up for Samuel on Twitch: What motivated you to make the default behavior coercion rather than throwing an error? <br/><br/></div><div>[00:27:52] Will there be any changes to the public API from Pydantic V1 to V2? Samuel tells us there’s one thing that’s probably going to make people angry and he explains.<br/><br/></div><div>[00:29:33] Samuel gives an example of the output from serialization. Beyang wants to help Samuel out and tells him how Sourcegraph can potentially help him. <br/><br/></div><div>[00:34:25] There are some exciting things coming up for Pydantic that Samuel can’t announce quite yet, but he is excited about Pydantic V2 being released. Also, we hear they have GitHub sponsors, but another announcement about sponsors is coming soon.<br/><br/></div><div>[00:35:35] Samuel announces he would love for you to come and contribute to Pydantic.<br/><br/></div>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/unx19ysecmjkygmc7rlu6fgyy95w?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/12479687-samuel-colvin-founder-and-lead-maintainer-of-pydantic.mp3" length="28171664" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12479687</guid>
+    <pubDate>Mon, 20 Mar 2023 13:00:00 -0700</pubDate>
+    <podcast:soundbite startTime="177.859" duration="60.0" />
+    <itunes:duration>2344</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Daniel Stenberg, Founder &amp; Lead Developer of cURL</itunes:title>
+    <title>Daniel Stenberg, Founder &amp; Lead Developer of cURL</title>
+    <itunes:summary><![CDATA[In this episode, we are honored to have Daniel Stenberg, the founder and lead developer of cURL, as our guest. cURL is a ubiquitous data transfer utility that grew into a robust library used in billions of applications worldwide. Daniel is a Swedish developer who has been involved in open source for decades. He is also the recipient of the Polhem Prize 2017 for his work on cURL. Join us as we talk to Daniel about his journey with cURL, his passion for open source, and everything in between.   ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we are honored to have Daniel Stenberg, the founder and lead developer of cURL, as our guest. cURL is a ubiquitous data transfer utility that grew into a robust library used in billions of applications worldwide. Daniel is a Swedish developer who has been involved in open source for decades. He is also the recipient of the Polhem Prize 2017 for his work on cURL. Join us as we talk to Daniel about his journey with cURL, his passion for open source, and everything in between.<br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we are honored to have Daniel Stenberg, the founder and lead developer of cURL, as our guest. cURL is a ubiquitous data transfer utility that grew into a robust library used in billions of applications worldwide. Daniel is a Swedish developer who has been involved in open source for decades. He is also the recipient of the Polhem Prize 2017 for his work on cURL. Join us as we talk to Daniel about his journey with cURL, his passion for open source, and everything in between.<br/><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/snl86r5gnptwque9wyqdpa7fa706?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/12250736-daniel-stenberg-founder-lead-developer-of-curl.mp3" length="42423096" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12250736</guid>
+    <pubDate>Tue, 14 Feb 2023 07:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/12250736/transcript" type="text/html" />
+    <podcast:soundbite startTime="713.88" duration="60.0" />
+    <itunes:duration>3531</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Jason Warner, Managing Director of Redpoint Ventures</itunes:title>
+    <title>Jason Warner, Managing Director of Redpoint Ventures</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/asp1kyfajmt6egsa8d0d9uvk0zwg?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/11532359-jason-warner-managing-director-of-redpoint-ventures.mp3" length="39644824" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11532359</guid>
+    <pubDate>Tue, 25 Oct 2022 12:00:00 -0700</pubDate>
+    <podcast:soundbite startTime="0.0" duration="30.0" />
+    <itunes:duration>3299</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title> Jean Yang, Founder and CEO of Akita Software</itunes:title>
+    <title> Jean Yang, Founder and CEO of Akita Software</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/kv2rvrmuxungnzb8pikfnzpz59y5?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/11182169-jean-yang-founder-and-ceo-of-akita-software.mp3" length="37490525" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11182169</guid>
+    <pubDate>Mon, 22 Aug 2022 15:00:00 -0700</pubDate>
+    <itunes:duration>3115</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Adam Berry, Senior Staff Engineer at Amplitude</itunes:title>
+    <title>Adam Berry, Senior Staff Engineer at Amplitude</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/m5k9fhbu0bf4w6pbj94pr6cphor5?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/11076232-adam-berry-senior-staff-engineer-at-amplitude.mp3" length="40019316" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11076232</guid>
+    <pubDate>Wed, 03 Aug 2022 09:00:00 -0700</pubDate>
+    <itunes:duration>3327</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>John Kodumal, CTO and Co-founder of LaunchDarkly</itunes:title>
+    <title>John Kodumal, CTO and Co-founder of LaunchDarkly</title>
+    <itunes:summary><![CDATA[Beyang sits down with John Kodumal, CTO and co-founder of LaunchDarkly. LaunchDarkly is a SaaS feature management platform for developers that allows them to iterate and get code into production quickly and safely by separating feature rollout and code deployment.  John begins by talking about his first experiences with computers and programing in the 80s, including teaching himself to us a Dvorak keyboard in the first grade, experimenting with BBS in elementary school, and programming h...]]></itunes:summary>
+    <description><![CDATA[<p>Beyang sits down with John Kodumal, CTO and co-founder of <a href='https://launchdarkly.com/'>LaunchDarkly</a>. LaunchDarkly is a SaaS feature management platform for developers that allows them to iterate and get code into production quickly and safely by separating feature rollout and code deployment. </p><p>John begins by talking about his first experiences with computers and programing in the 80s, including teaching himself to us a Dvorak keyboard in the first grade, experimenting with BBS in elementary school, and programming his TI-92 in BASIC to make a shell program so that he could use Reverse Polish Notation (RPN) on it in high school. John shares how he pursued his interest in programming languages throughout higher education and then discusses his employment experiences at Coverity and Atlassian. He talks about how the lessons and experiences from his prior jobs ultimately led him to found LaunchDarkly in 2014 with former classmate, Edith Harbaugh. </p><p>John dives into how did he first got into feature toggles and feature flags, and then talks about the engineering challenges LaunchDarkly has encountered. John concludes by sharing how he has witnessed LaunchDarkly impact the developer experience and the ongoing, transformational benefits of utilizing their feature management platform.<br/><br/>Sourcegraph: <a href='https://about.sourcegraph.com/'>https://about.sourcegraph.com</a> </p>]]></description>
+    <content:encoded><![CDATA[<p>Beyang sits down with John Kodumal, CTO and co-founder of <a href='https://launchdarkly.com/'>LaunchDarkly</a>. LaunchDarkly is a SaaS feature management platform for developers that allows them to iterate and get code into production quickly and safely by separating feature rollout and code deployment. </p><p>John begins by talking about his first experiences with computers and programing in the 80s, including teaching himself to us a Dvorak keyboard in the first grade, experimenting with BBS in elementary school, and programming his TI-92 in BASIC to make a shell program so that he could use Reverse Polish Notation (RPN) on it in high school. John shares how he pursued his interest in programming languages throughout higher education and then discusses his employment experiences at Coverity and Atlassian. He talks about how the lessons and experiences from his prior jobs ultimately led him to found LaunchDarkly in 2014 with former classmate, Edith Harbaugh. </p><p>John dives into how did he first got into feature toggles and feature flags, and then talks about the engineering challenges LaunchDarkly has encountered. John concludes by sharing how he has witnessed LaunchDarkly impact the developer experience and the ongoing, transformational benefits of utilizing their feature management platform.<br/><br/>Sourcegraph: <a href='https://about.sourcegraph.com/'>https://about.sourcegraph.com</a> </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/wzrbyl7faw0diz4ltd1a5pka5rce?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/10962273-john-kodumal-cto-and-co-founder-of-launchdarkly.mp3" length="45029802" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10962273</guid>
+    <pubDate>Thu, 14 Jul 2022 10:00:00 -0700</pubDate>
+    <itunes:duration>3747</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Ravi Parikh, Founder and CEO of Airplane</itunes:title>
+    <title>Ravi Parikh, Founder and CEO of Airplane</title>
+    <itunes:summary><![CDATA[Beyang talks with Ravi Parikh, founder and CEO of Airplane. Airplane is a developer tool for turning one-off scripts into internal mini-apps that can be used by technical and non-technical users across the company. Ravi shares his journey as a programmer, how he got into computers at a young age, took a brief detour to become a professional musician, and then started his first software company, Heap Analytics, with his friend Matin Movassate. Beyang and Ravi discuss what took Heap from idea t...]]></itunes:summary>
+    <description><![CDATA[<p>Beyang talks with Ravi Parikh, founder and CEO of Airplane. Airplane is a developer tool for turning one-off scripts into internal mini-apps that can be used by technical and non-technical users across the company.</p><p>Ravi shares his journey as a programmer, how he got into computers at a young age, took a brief detour to become a professional musician, and then started his first software company, Heap Analytics, with his friend Matin Movassate. Beyang and Ravi discuss what took Heap from idea to billion dollar company. Ravi discusses founder-led support and the ways he and Matin managed Heap’s growth from an analytics tool geared towards developers to a full-fledged analytics platform with users across product, sales, and marketing.</p><p>Ravi explains the seed concepts that led to the founding of Airplane and then demos how to use Airplane to turn a one-off support script into an internal mini-app that you can reuse again and again. The conversation concludes with a discussion of what’s next for Ravi and Airplane. </p><p>Show notes &amp; transcript: <a href='https://about.sourcegraph.com/podcast/ravi-parikh'>https://about.sourcegraph.com/podcast/ravi-parikh</a></p><p>Sourcegraph: <a href='https://about.sourcegraph.com'>https://about.sourcegraph.com</a> </p>]]></description>
+    <content:encoded><![CDATA[<p>Beyang talks with Ravi Parikh, founder and CEO of Airplane. Airplane is a developer tool for turning one-off scripts into internal mini-apps that can be used by technical and non-technical users across the company.</p><p>Ravi shares his journey as a programmer, how he got into computers at a young age, took a brief detour to become a professional musician, and then started his first software company, Heap Analytics, with his friend Matin Movassate. Beyang and Ravi discuss what took Heap from idea to billion dollar company. Ravi discusses founder-led support and the ways he and Matin managed Heap’s growth from an analytics tool geared towards developers to a full-fledged analytics platform with users across product, sales, and marketing.</p><p>Ravi explains the seed concepts that led to the founding of Airplane and then demos how to use Airplane to turn a one-off support script into an internal mini-app that you can reuse again and again. The conversation concludes with a discussion of what’s next for Ravi and Airplane. </p><p>Show notes &amp; transcript: <a href='https://about.sourcegraph.com/podcast/ravi-parikh'>https://about.sourcegraph.com/podcast/ravi-parikh</a></p><p>Sourcegraph: <a href='https://about.sourcegraph.com'>https://about.sourcegraph.com</a> </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/2pkp28bovxnyw4p5kh1q2zbnevyq?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/10727924-ravi-parikh-founder-and-ceo-of-airplane.mp3" length="44528111" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10727924</guid>
+    <pubDate>Thu, 02 Jun 2022 15:00:00 -0700</pubDate>
+    <itunes:duration>3706</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Max Howell, creator of Homebrew and founder of tea</itunes:title>
+    <title>Max Howell, creator of Homebrew and founder of tea</title>
+    <itunes:summary><![CDATA[Beyang talks with Max Howell, creator of Homebrew, about his new package manager, Tea, which aims to solve the problem of open-source funding. Max shares his beginnings in programming and what led him to work on early music players in Linux, Last.fm, and eventually get into Mac development. Max discusses the frustrations he experienced in cross-platform development that were the impetus for the creation of Homebrew and explains how Homebrew became the de facto package manager for macOS. Max t...]]></itunes:summary>
+    <description><![CDATA[<p>Beyang talks with Max Howell, creator of Homebrew, about his new package manager, Tea, which aims to solve the problem of open-source funding.</p><p>Max shares his beginnings in programming and what led him to work on early music players in Linux, <a href='http://last.fm/'>Last.fm</a>, and eventually get into Mac development. Max discusses the frustrations he experienced in cross-platform development that were the impetus for the creation of Homebrew and explains how Homebrew became the de facto package manager for macOS.</p><p>Max talks about his latest project, Tea, a successor to Homebrew that aims to solve the open-source funding problem with a decentralized protocol that uses NFTs and an understanding of the package dependency graph to distribute funding to open-source maintainers.<br/><br/>Show notes &amp; transcript: <a href='https://about.sourcegraph.com/podcast/max-howell'>https://about.sourcegraph.com/podcast/max-howell </a></p><p>Sourcegraph: <a href='https://about.sourcegraph.com'>https://about.sourcegraph.com</a> </p>]]></description>
+    <content:encoded><![CDATA[<p>Beyang talks with Max Howell, creator of Homebrew, about his new package manager, Tea, which aims to solve the problem of open-source funding.</p><p>Max shares his beginnings in programming and what led him to work on early music players in Linux, <a href='http://last.fm/'>Last.fm</a>, and eventually get into Mac development. Max discusses the frustrations he experienced in cross-platform development that were the impetus for the creation of Homebrew and explains how Homebrew became the de facto package manager for macOS.</p><p>Max talks about his latest project, Tea, a successor to Homebrew that aims to solve the open-source funding problem with a decentralized protocol that uses NFTs and an understanding of the package dependency graph to distribute funding to open-source maintainers.<br/><br/>Show notes &amp; transcript: <a href='https://about.sourcegraph.com/podcast/max-howell'>https://about.sourcegraph.com/podcast/max-howell </a></p><p>Sourcegraph: <a href='https://about.sourcegraph.com'>https://about.sourcegraph.com</a> </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/w7k9nx26xav37v3ay683znjsv9av?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/10642843-max-howell-creator-of-homebrew-and-founder-of-tea.mp3" length="51433401" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10642843</guid>
+    <pubDate>Thu, 19 May 2022 07:00:00 -0700</pubDate>
+    <itunes:duration>4282</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Creating one CI to rule them all, with Fedor Korotkov, founder and CTO of Cirrus Labs</itunes:title>
+    <title>Creating one CI to rule them all, with Fedor Korotkov, founder and CTO of Cirrus Labs</title>
+    <itunes:summary><![CDATA[Why can’t one CI scale alongside a company–from startup to enterprise? In this episode, Fedor Korotkov, founder and CTO of CirrusLabs, joins Beyang Liu, co-founder and CTO of Sourcegraph, to talk about how, as a student back in 2009, he developed a photo app that earned him almost $2,000 a month, share the time he applied to be an intern at Twitter but ended up with a full-time job, and explain how six months of “funemployment” led to the building and founding of Cirrus CI–the one CI to rule ...]]></itunes:summary>
+    <description><![CDATA[<p>Why can’t one CI scale alongside a company–from startup to enterprise? In this episode, Fedor Korotkov, founder and CTO of CirrusLabs, joins Beyang Liu, co-founder and CTO of Sourcegraph, to talk about how, as a student back in 2009, he developed a photo app that earned him almost $2,000 a month, share the time he applied to be an intern at Twitter but ended up with a full-time job, and explain how six months of “funemployment” led to the building and founding of Cirrus CI–the one CI to rule them all. Along the way, Fedor explains how Cirrus CI, with Kubernetes, can spin up a new container in two seconds.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/fedor-korotkov/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Why can’t one CI scale alongside a company–from startup to enterprise? In this episode, Fedor Korotkov, founder and CTO of CirrusLabs, joins Beyang Liu, co-founder and CTO of Sourcegraph, to talk about how, as a student back in 2009, he developed a photo app that earned him almost $2,000 a month, share the time he applied to be an intern at Twitter but ended up with a full-time job, and explain how six months of “funemployment” led to the building and founding of Cirrus CI–the one CI to rule them all. Along the way, Fedor explains how Cirrus CI, with Kubernetes, can spin up a new container in two seconds.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/fedor-korotkov/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/6wfjemp3eirp74scu624cwo5b8xn?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/10291772-creating-one-ci-to-rule-them-all-with-fedor-korotkov-founder-and-cto-of-cirrus-labs.mp3" length="49249408" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10291772</guid>
+    <pubDate>Mon, 21 Mar 2022 13:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/10291772/transcript" type="text/html" />
+    <itunes:duration>4100</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Changing the web one tool at a time, with Kelly Norton, principal software engineer at Mailchimp and creator of Hound</itunes:title>
+    <title>Changing the web one tool at a time, with Kelly Norton, principal software engineer at Mailchimp and creator of Hound</title>
+    <itunes:summary><![CDATA[Why is the software industry now willing and excited to buy developer tools instead of building them internally? In this episode, Kelly Norton, principal software engineer at Mailchimp and creator of open-source code search engine Hound, joins Beyang Liu, co-founder and CTO of Sourcegraph, to talk about his work on the controversial project that would become Google Web Toolkit, share his experience trying to build an ecosystem of tooling, which resulted in Google Dart, and explain how the com...]]></itunes:summary>
+    <description><![CDATA[<p>Why is the software industry now willing and excited to buy developer tools instead of building them internally? In this episode, Kelly Norton, principal software engineer at Mailchimp and creator of open-source code search engine Hound, joins Beyang Liu, co-founder and CTO of Sourcegraph, to talk about his work on the controversial project that would become Google Web Toolkit, share his experience trying to build an ecosystem of tooling, which resulted in Google Dart, and explain how the company he founded, FullStory, pioneered user testing. Along the way, Kelly describes how and why he developed Hound at Etsy and shares his thoughts on the developer tools market.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/kelly-norton/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Why is the software industry now willing and excited to buy developer tools instead of building them internally? In this episode, Kelly Norton, principal software engineer at Mailchimp and creator of open-source code search engine Hound, joins Beyang Liu, co-founder and CTO of Sourcegraph, to talk about his work on the controversial project that would become Google Web Toolkit, share his experience trying to build an ecosystem of tooling, which resulted in Google Dart, and explain how the company he founded, FullStory, pioneered user testing. Along the way, Kelly describes how and why he developed Hound at Etsy and shares his thoughts on the developer tools market.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/kelly-norton/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/p55cnvf3kqg6q6c5gnxr2b07qlcw?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/10038330-changing-the-web-one-tool-at-a-time-with-kelly-norton-principal-software-engineer-at-mailchimp-and-creator-of-hound.mp3" length="51006884" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10038330</guid>
+    <pubDate>Tue, 01 Mar 2022 09:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/10038330/transcript" type="text/html" />
+    <itunes:duration>4246</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Building the code editor dreams are made of, with Max Brunsfeld, co-founder of Zed</itunes:title>
+    <title>Building the code editor dreams are made of, with Max Brunsfeld, co-founder of Zed</title>
+    <itunes:summary><![CDATA[Why should programmers treat programming like a craft? In this episode, Max Brunsfeld, co-founder of Zed, a collaborative code editor written in Rust, joins Beyang Liu, co-founder and CTO of Sourcegraph, to share the apprenticeship-like pair-programming experience that taught him to appreciate programming, explain how he learned the fundamentals of parsing on the weekends and tell the story of presenting an application he couldn’t explain to Paul Graham at Y Combinator. Along the way, Max des...]]></itunes:summary>
+    <description><![CDATA[<p>Why should programmers treat programming like a craft? In this episode, Max Brunsfeld, co-founder of Zed, a collaborative code editor written in Rust, joins Beyang Liu, co-founder and CTO of Sourcegraph, to share the apprenticeship-like pair-programming experience that taught him to appreciate programming, explain how he learned the fundamentals of parsing on the weekends and tell the story of presenting an application he couldn’t explain to Paul Graham at Y Combinator. Along the way, Max describes how the Zed team passes off in-progress branches to teammates in other countries and keeps development moving across time zones.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/max-brunsfeld/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Why should programmers treat programming like a craft? In this episode, Max Brunsfeld, co-founder of Zed, a collaborative code editor written in Rust, joins Beyang Liu, co-founder and CTO of Sourcegraph, to share the apprenticeship-like pair-programming experience that taught him to appreciate programming, explain how he learned the fundamentals of parsing on the weekends and tell the story of presenting an application he couldn’t explain to Paul Graham at Y Combinator. Along the way, Max describes how the Zed team passes off in-progress branches to teammates in other countries and keeps development moving across time zones.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/max-brunsfeld/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/9x2bxva7h4ocb7kn359e74v1q561?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/10038427-building-the-code-editor-dreams-are-made-of-with-max-brunsfeld-co-founder-of-zed.mp3" length="50488569" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10038427</guid>
+    <pubDate>Tue, 15 Feb 2022 07:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/10038427/transcript" type="text/html" />
+    <itunes:duration>4203</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Creating the GitHub of databases, with Sugu Sougoumarane, co-founder and CTO of PlanetScale</itunes:title>
+    <title>Creating the GitHub of databases, with Sugu Sougoumarane, co-founder and CTO of PlanetScale</title>
+    <itunes:summary><![CDATA[Why is using PlanetScale a mind-altering experience? In this episode, Sugu Sougoumarane, co-founder and CTO of PlanetScale, shares how one email got him a second job interview with Elon Musk, tells the story of how he became one of the elite engineers at Paypal by solving the company’s most painful process, and explains why database administrators are shifting from managing machines to managing fleets of machines. Along the way, Sougoumarane explains why so many developers have told him they’...]]></itunes:summary>
+    <description><![CDATA[<p>Why is using PlanetScale a mind-altering experience? In this episode, Sugu Sougoumarane, co-founder and CTO of PlanetScale, shares how one email got him a second job interview with Elon Musk, tells the story of how he became one of the elite engineers at Paypal by solving the company’s most painful process, and explains why database administrators are shifting from managing machines to managing fleets of machines. Along the way, Sougoumarane explains why so many developers have told him they’ve felt like they’ve waited their whole lives for self-serve schema deployment.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/sugu-sougoumarane/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Why is using PlanetScale a mind-altering experience? In this episode, Sugu Sougoumarane, co-founder and CTO of PlanetScale, shares how one email got him a second job interview with Elon Musk, tells the story of how he became one of the elite engineers at Paypal by solving the company’s most painful process, and explains why database administrators are shifting from managing machines to managing fleets of machines. Along the way, Sougoumarane explains why so many developers have told him they’ve felt like they’ve waited their whole lives for self-serve schema deployment.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/sugu-sougoumarane/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/kfoey05ni7h1lj7itdehxqpuo90f?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9878802-creating-the-github-of-databases-with-sugu-sougoumarane-co-founder-and-cto-of-planetscale.mp3" length="52041477" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9878802</guid>
+    <pubDate>Tue, 18 Jan 2022 13:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9878802/transcript" type="text/html" />
+    <itunes:duration>4333</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Disassembling and building developer tools, with Nelson Elhage, creator of open source code search engine Livegrep</itunes:title>
+    <title>Disassembling and building developer tools, with Nelson Elhage, creator of open source code search engine Livegrep</title>
+    <itunes:summary><![CDATA[Why is a systems engineering mindset essential for a scaling startup? In this episode of the Sourcegraph Podcast, Nelson Elhage, creator of the open source code search engine Livegrep, co-creator of the Ruby type checker Sorbet, and Member of Technical Staff at Anthropic, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss how Rust is changing the security landscape, explain why Patrick McKenzie, better known as patio11, called his live code search tool “miraculous,” and dive deep...]]></itunes:summary>
+    <description><![CDATA[<p>Why is a systems engineering mindset essential for a scaling startup? In this episode of the Sourcegraph Podcast, Nelson Elhage, creator of the open source code search engine Livegrep, co-creator of the Ruby type checker Sorbet, and Member of Technical Staff at Anthropic, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss how Rust is changing the security landscape, explain why Patrick McKenzie, better known as patio11, called his live code search tool “miraculous,” and dive deep into the weeds on the differences between trigram- and suffix-array-based search systems. Along the way, Elhage explains why developer productivity is nonlinear and why investing in developer experience should be axiomatic.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/nelson-elhage/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Why is a systems engineering mindset essential for a scaling startup? In this episode of the Sourcegraph Podcast, Nelson Elhage, creator of the open source code search engine Livegrep, co-creator of the Ruby type checker Sorbet, and Member of Technical Staff at Anthropic, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss how Rust is changing the security landscape, explain why Patrick McKenzie, better known as patio11, called his live code search tool “miraculous,” and dive deep into the weeds on the differences between trigram- and suffix-array-based search systems. Along the way, Elhage explains why developer productivity is nonlinear and why investing in developer experience should be axiomatic.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/nelson-elhage/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/v9mtmungh7nfm6yswo0u88b7c2f4?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9689391-disassembling-and-building-developer-tools-with-nelson-elhage-creator-of-open-source-code-search-engine-livegrep.mp3" length="57085272" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9689391</guid>
+    <pubDate>Tue, 04 Jan 2022 13:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9689391/transcript" type="text/html" />
+    <itunes:duration>4753</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Building technical communities, with Swyx, Head of Developer Experience at Temporal</itunes:title>
+    <title>Building technical communities, with Swyx, Head of Developer Experience at Temporal</title>
+    <itunes:summary><![CDATA[Why is building a technical community the most effective moat out there for startups? In this episode, swyx, who runs DevRel at Temporal and co-founded the Svelte Society, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss the stress-induced heart palpitations that led him to transition from finance to tech, show how you can harness a willingness to look stupid to become a standout member of your community, and explain why every book should come with a Discord. Along the way, swy...]]></itunes:summary>
+    <description><![CDATA[<p>Why is building a technical community the most effective moat out there for startups? In this episode, swyx, who runs DevRel at Temporal and co-founded the Svelte Society, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss the stress-induced heart palpitations that led him to transition from finance to tech, show how you can harness a willingness to look stupid to become a standout member of your community, and explain why every book should come with a Discord. Along the way, swyx shares some of the ways learning in public has changed his life, including how one blog post earned two job offers.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/swyx/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Why is building a technical community the most effective moat out there for startups? In this episode, swyx, who runs DevRel at Temporal and co-founded the Svelte Society, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss the stress-induced heart palpitations that led him to transition from finance to tech, show how you can harness a willingness to look stupid to become a standout member of your community, and explain why every book should come with a Discord. Along the way, swyx shares some of the ways learning in public has changed his life, including how one blog post earned two job offers.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/swyx/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/frhcflyouoo5flmahh0ou31tiuvl?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9653528-building-technical-communities-with-swyx-head-of-developer-experience-at-temporal.mp3" length="54362314" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9653528</guid>
+    <pubDate>Tue, 14 Dec 2021 11:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9653528/transcript" type="text/html" />
+    <itunes:duration>4526</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Arming the rebels of the metaverse, with Joseph Nelson, CEO and co-founder of Roboflow</itunes:title>
+    <title>Arming the rebels of the metaverse, with Joseph Nelson, CEO and co-founder of Roboflow</title>
+    <itunes:summary><![CDATA[When, and how, will computer vision and machine learning revolutionize the world? In this episode of the Sourceraph Podcast, Joseph Nelson, CEO and co-founder of Roboflow, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss how Joseph got started in programming (developing a joke generator for a graphing calculator), to share his experience working as a human Google alert for the United States Congress, and to explain why he finds building developer tools so empowering. Along the ...]]></itunes:summary>
+    <description><![CDATA[<p>When, and how, will computer vision and machine learning revolutionize the world? In this episode of the Sourceraph Podcast, Joseph Nelson, CEO and co-founder of Roboflow, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss how Joseph got started in programming (developing a joke generator for a graphing calculator), to share his experience working as a human Google alert for the United States Congress, and to explain why he finds building developer tools so empowering. Along the way, Joseph explains why he thinks machine learning and computer vision will have greater effects than the Internet and the mobile phone and shows how Roboflow will accelerate our progress toward that future. And at the end, Joseph tours Beyang through Roboflow, showing him a raccoon detector and chess piece identifier. <br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/joseph-nelson/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>When, and how, will computer vision and machine learning revolutionize the world? In this episode of the Sourceraph Podcast, Joseph Nelson, CEO and co-founder of Roboflow, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss how Joseph got started in programming (developing a joke generator for a graphing calculator), to share his experience working as a human Google alert for the United States Congress, and to explain why he finds building developer tools so empowering. Along the way, Joseph explains why he thinks machine learning and computer vision will have greater effects than the Internet and the mobile phone and shows how Roboflow will accelerate our progress toward that future. And at the end, Joseph tours Beyang through Roboflow, showing him a raccoon detector and chess piece identifier. <br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/joseph-nelson/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/003az3z9cwm6zx3uncx8ig24sf5z?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9593278-arming-the-rebels-of-the-metaverse-with-joseph-nelson-ceo-and-co-founder-of-roboflow.mp3" length="62384292" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9593278</guid>
+    <pubDate>Mon, 22 Nov 2021 10:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9593278/transcript" type="text/html" />
+    <itunes:duration>5195</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Pioneering the developer advocate role, with Cassidy Williams, Director of Developer Experience at Netlify</itunes:title>
+    <title>Pioneering the developer advocate role, with Cassidy Williams, Director of Developer Experience at Netlify</title>
+    <itunes:summary><![CDATA[How can you build a following, and a career, with memes? In this episode of the Sourcegraph Podcast, Cassidy Williams, Director of Developer Experience at Netlify, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss why we should consider communication a core skill instead of a soft skill, why you should be a developer advocate or a software engineer but not both, and why, when learning React, you should start with the fundamentals. Along the way, Cassidy shares stories about the ...]]></itunes:summary>
+    <description><![CDATA[<p>How can you build a following, and a career, with memes? In this episode of the Sourcegraph Podcast, Cassidy Williams, Director of Developer Experience at Netlify, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss why we should consider communication a core skill instead of a soft skill, why you should be a developer advocate or a software engineer but not both, and why, when learning React, you should start with the fundamentals. Along the way, Cassidy shares stories about the job she held the longest (mascot for Iowa State), positive and negative experiences from the heyday of hackathons, and the time she nearly went blind from burnout.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/cassidy-williams/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>How can you build a following, and a career, with memes? In this episode of the Sourcegraph Podcast, Cassidy Williams, Director of Developer Experience at Netlify, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss why we should consider communication a core skill instead of a soft skill, why you should be a developer advocate or a software engineer but not both, and why, when learning React, you should start with the fundamentals. Along the way, Cassidy shares stories about the job she held the longest (mascot for Iowa State), positive and negative experiences from the heyday of hackathons, and the time she nearly went blind from burnout.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/cassidy-williams/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/cerb5jqsvcmn0nuf7i4g4hxwrrkq?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9486369-pioneering-the-developer-advocate-role-with-cassidy-williams-director-of-developer-experience-at-netlify.mp3" length="50830951" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9486369</guid>
+    <pubDate>Wed, 17 Nov 2021 10:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9486369/transcript" type="text/html" />
+    <itunes:duration>4232</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Building the foundation of code search with Han-Wen Nienhuys, creator of Zoekt</itunes:title>
+    <title>Building the foundation of code search with Han-Wen Nienhuys, creator of Zoekt</title>
+    <itunes:summary><![CDATA[How do Google developers create and popularize internal tools? In this episode of the Sourcegraph Podcast, Han-Wen Nienhuys, creator of the open-source code search engine Zoekt, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss the agonizing experience with Perforce that drove Han-Wen to build his first dev tool, explain the value of coding on trains and planes, and share the story of how building code search nearly inspired a street named after him in Sweden. Along the way, Han...]]></itunes:summary>
+    <description><![CDATA[<p>How do Google developers create and popularize internal tools? In this episode of the Sourcegraph Podcast, Han-Wen Nienhuys, creator of the open-source code search engine Zoekt, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss the agonizing experience with Perforce that drove Han-Wen to build his first dev tool, explain the value of coding on trains and planes, and share the story of how building code search nearly inspired a street named after him in Sweden. Along the way, Han-Wen offers an inside look at the history behind some of Google’s most famous dev tools, such as Blaze, Code Search, and Piper.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/han-wen-nienhuys/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>How do Google developers create and popularize internal tools? In this episode of the Sourcegraph Podcast, Han-Wen Nienhuys, creator of the open-source code search engine Zoekt, joins Beyang Liu, co-founder and CTO of Sourcegraph, to discuss the agonizing experience with Perforce that drove Han-Wen to build his first dev tool, explain the value of coding on trains and planes, and share the story of how building code search nearly inspired a street named after him in Sweden. Along the way, Han-Wen offers an inside look at the history behind some of Google’s most famous dev tools, such as Blaze, Code Search, and Piper.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/han-wen-nienhuys/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/aozeluxpavgya2zv72fsk2p8ujo1?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9437422-building-the-foundation-of-code-search-with-han-wen-nienhuys-creator-of-zoekt.mp3" length="48923606" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9437422</guid>
+    <pubDate>Tue, 09 Nov 2021 09:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9437422/transcript" type="text/html" />
+    <itunes:duration>4073</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Taking the warts off C, with Andrew Kelley, creator of the Zig Software Foundation</itunes:title>
+    <title>Taking the warts off C, with Andrew Kelley, creator of the Zig Software Foundation</title>
+    <itunes:summary><![CDATA[How do you improve on C? In this episode of the Sourcegraph Podcast, Andrew Kelley, creator of the Zig programming language and the founder and president of the Zig Software Foundation, joins Beyang Liu, co-founder and CTO of Sourcegraph and special guest Stephen Gutekanst, software engineer at Sourcegraph, to talk about what it takes to create a new programming language. Along the way, Andrew shares how programmers can get funding for their side projects and hobbies, why conditional compilat...]]></itunes:summary>
+    <description><![CDATA[<p>How do you improve on C? In this episode of the Sourcegraph Podcast, Andrew Kelley, creator of the Zig programming language and the founder and president of the Zig Software Foundation, joins Beyang Liu, co-founder and CTO of Sourcegraph and special guest Stephen Gutekanst, software engineer at Sourcegraph, to talk about what it takes to create a new programming language. Along the way, Andrew shares how programmers can get funding for their side projects and hobbies, why conditional compilation exposes philosophical differences between Zig and C, and explains why and how Zig can be faster than both C and Rust.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/andrew-kelley/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>How do you improve on C? In this episode of the Sourcegraph Podcast, Andrew Kelley, creator of the Zig programming language and the founder and president of the Zig Software Foundation, joins Beyang Liu, co-founder and CTO of Sourcegraph and special guest Stephen Gutekanst, software engineer at Sourcegraph, to talk about what it takes to create a new programming language. Along the way, Andrew shares how programmers can get funding for their side projects and hobbies, why conditional compilation exposes philosophical differences between Zig and C, and explains why and how Zig can be faster than both C and Rust.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/andrew-kelley/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/szjvnj6zxdh90d7lojme033pt9mv?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9377027-taking-the-warts-off-c-with-andrew-kelley-creator-of-the-zig-software-foundation.mp3" length="52299187" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9377027</guid>
+    <pubDate>Tue, 19 Oct 2021 07:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9377027/transcript" type="text/html" />
+    <itunes:duration>4354</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Making security more accessible for developers, with Sam Scott, co-founder and CTO of Oso</itunes:title>
+    <title>Making security more accessible for developers, with Sam Scott, co-founder and CTO of Oso</title>
+    <itunes:summary><![CDATA[How do you make security, a topic that often requires a PhD to understand, accessible to your average developer? In this episode of the Sourcegraph Podcast, Sam Scott, co-founder and CTO of Oso, a batteries-included library for building authorization into your application, comes on the podcast to explain to Beyang Liu, CTO at Sourcegraph, his vision for the future of security development. Along the way, Sam also shares how he got started in cryptography, explains why they pivoted Oso from inf...]]></itunes:summary>
+    <description><![CDATA[<p>How do you make security, a topic that often requires a PhD to understand, accessible to your average developer? In this episode of the Sourcegraph Podcast, Sam Scott, co-founder and CTO of Oso, a batteries-included library for building authorization into your application, comes on the podcast to explain to Beyang Liu, CTO at Sourcegraph, his vision for the future of security development. Along the way, Sam also shares how he got started in cryptography, explains why they pivoted Oso from infrastructure to application authorization, and shows Beyang how you can use Oso to build an authorization model with just 26 lines of code.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/sam-scott/<br/><br/>Sourcegraph: about.sourcegraph.com<br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>How do you make security, a topic that often requires a PhD to understand, accessible to your average developer? In this episode of the Sourcegraph Podcast, Sam Scott, co-founder and CTO of Oso, a batteries-included library for building authorization into your application, comes on the podcast to explain to Beyang Liu, CTO at Sourcegraph, his vision for the future of security development. Along the way, Sam also shares how he got started in cryptography, explains why they pivoted Oso from infrastructure to application authorization, and shows Beyang how you can use Oso to build an authorization model with just 26 lines of code.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/sam-scott/<br/><br/>Sourcegraph: about.sourcegraph.com<br/><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/kahlpi6i3qkviziojw0ylup5jzv3?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9348300-making-security-more-accessible-for-developers-with-sam-scott-co-founder-and-cto-of-oso.mp3" length="63368801" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9348300</guid>
+    <pubDate>Tue, 12 Oct 2021 09:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9348300/transcript" type="text/html" />
+    <itunes:duration>5277</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Redesigning the future of feature flags, with Ivar Østhus and Egil Østhus, co-founders of Unleash</itunes:title>
+    <title>Redesigning the future of feature flags, with Ivar Østhus and Egil Østhus, co-founders of Unleash</title>
+    <itunes:summary><![CDATA[What’s the future of feature flags? On this episode of the Sourcegraph Podcast, Brothers Ivar Østhus and Egil Østhus, co-founders of Unleash, join Sourcegraph co-founder and CTO Beyang Liu to discuss their open source project and open core company. In this episode of the Sourcegraph Podcast, Ivar and Egil talk about their histories in programming and open source, share the inspiration for turning a side project into a full-time job, and dissect the current state, as well as the future of, the...]]></itunes:summary>
+    <description><![CDATA[<p>What’s the future of feature flags? On this episode of the Sourcegraph Podcast, Brothers Ivar Østhus and Egil Østhus, co-founders of Unleash, join Sourcegraph co-founder and CTO Beyang Liu to discuss their open source project and open core company. In this episode of the Sourcegraph Podcast, Ivar and Egil talk about their histories in programming and open source, share the inspiration for turning a side project into a full-time job, and dissect the current state, as well as the future of, the feature flag market. Along the way, Ivar and Egil share an intimate look at their growing company, their evolving technology suite, and their plans for world domination. <br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/ivar-egil-osthus/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>What’s the future of feature flags? On this episode of the Sourcegraph Podcast, Brothers Ivar Østhus and Egil Østhus, co-founders of Unleash, join Sourcegraph co-founder and CTO Beyang Liu to discuss their open source project and open core company. In this episode of the Sourcegraph Podcast, Ivar and Egil talk about their histories in programming and open source, share the inspiration for turning a side project into a full-time job, and dissect the current state, as well as the future of, the feature flag market. Along the way, Ivar and Egil share an intimate look at their growing company, their evolving technology suite, and their plans for world domination. <br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/ivar-egil-osthus/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/t6hr3okstgmqgzdxlsoeujjcs97s?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9281618-redesigning-the-future-of-feature-flags-with-ivar-osthus-and-egil-osthus-co-founders-of-unleash.mp3" length="51538377" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9281618</guid>
+    <pubDate>Thu, 30 Sep 2021 07:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9281618/transcript" type="text/html" />
+    <itunes:duration>4290</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Designing delightful docs, with Orta Therox, TypeScript Compiler Engineer at Microsoft</itunes:title>
+    <title>Designing delightful docs, with Orta Therox, TypeScript Compiler Engineer at Microsoft</title>
+    <itunes:summary><![CDATA[How do you design software docs and websites that both intrigue and educate? As a contributor to popular projects like React Native, Jest, Prettier, and TypeScript, Orta Therox has prioritized design for visual engagement, accessibility, and learning. In this episode of the Sourcegraph Podcast, Orta talks about the importance of engaging docs, how experimentation fuels learning and engineering in TypeScript, and how developers can write better code examples with Shiki Twoslash, a project he d...]]></itunes:summary>
+    <description><![CDATA[<p>How do you design software docs and websites that both intrigue and educate? As a contributor to popular projects like React Native, Jest, Prettier, and TypeScript, Orta Therox has prioritized design for visual engagement, accessibility, and learning. In this episode of the Sourcegraph Podcast, Orta talks about the importance of engaging docs, how experimentation fuels learning and engineering in TypeScript, and how developers can write better code examples with Shiki Twoslash, a project he developed and designed. Along the way, Orta also shares his own story of getting into code and the odd way he was hired on Microsoft&apos;s TypeScript compiler team.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/orta-therox/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>How do you design software docs and websites that both intrigue and educate? As a contributor to popular projects like React Native, Jest, Prettier, and TypeScript, Orta Therox has prioritized design for visual engagement, accessibility, and learning. In this episode of the Sourcegraph Podcast, Orta talks about the importance of engaging docs, how experimentation fuels learning and engineering in TypeScript, and how developers can write better code examples with Shiki Twoslash, a project he developed and designed. Along the way, Orta also shares his own story of getting into code and the odd way he was hired on Microsoft&apos;s TypeScript compiler team.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/orta-therox/<br/><br/>Sourcegraph: https://about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/t8uc048u3w150fbacapl6d4arf7m?.jpg" />
+    <itunes:author></itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9110277-designing-delightful-docs-with-orta-therox-typescript-compiler-engineer-at-microsoft.mp3" length="48476177" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9110277</guid>
+    <pubDate>Tue, 14 Sep 2021 09:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9110277/transcript" type="text/html" />
+    <podcast:soundbite startTime="1403.783" duration="29.5" />
+    <itunes:duration>4035</itunes:duration>
+    <itunes:keywords>sourcegraph, orta therox, typescript, microsoft, React Native, Jest, Prettier, </itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Connecting the right ideas with the right people, with Christopher Chedeau, creator of Excalidraw, co-creator of React Native</itunes:title>
+    <title>Connecting the right ideas with the right people, with Christopher Chedeau, creator of Excalidraw, co-creator of React Native</title>
+    <itunes:summary><![CDATA[On the eve of the pandemic, Christopher Chedeau was procrastinating performance reviews at Facebook and decided to hack together a simple drawing app. That weekend project became Excalidraw, an open-source virtual whiteboard so popular that its users have basically demanded a startup form around it so that they can bring it to work. In this episode of the Sourcegraph Podcast, Christopher tells the backstory of Excalidraw's meteoric rise, as well as his story of joining Facebook and coming to ...]]></itunes:summary>
+    <description><![CDATA[<p>On the eve of the pandemic, Christopher Chedeau was procrastinating performance reviews at Facebook and decided to hack together a simple drawing app. That weekend project became Excalidraw, an open-source virtual whiteboard so popular that its users have basically demanded a startup form around it so that they can bring it to work. In this episode of the Sourcegraph Podcast, Christopher tells the backstory of Excalidraw&apos;s meteoric rise, as well as his story of joining Facebook and coming to America, and tales from the early days of React and how React Native was born.</p><p>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/christopher-chedeau/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>On the eve of the pandemic, Christopher Chedeau was procrastinating performance reviews at Facebook and decided to hack together a simple drawing app. That weekend project became Excalidraw, an open-source virtual whiteboard so popular that its users have basically demanded a startup form around it so that they can bring it to work. In this episode of the Sourcegraph Podcast, Christopher tells the backstory of Excalidraw&apos;s meteoric rise, as well as his story of joining Facebook and coming to America, and tales from the early days of React and how React Native was born.</p><p>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/christopher-chedeau/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/t3gfy552pb60o4rn0q091btkw097?.jpg" />
+    <itunes:author>Beyang</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9111652-connecting-the-right-ideas-with-the-right-people-with-christopher-chedeau-creator-of-excalidraw-co-creator-of-react-native.mp3" length="44999511" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9111652</guid>
+    <pubDate>Tue, 31 Aug 2021 13:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/9111652/transcript" type="text/html" />
+    <itunes:duration>3746</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Decomposing a massive Rails monolith with Kirsten Westeinde, software development manager at Shopify</itunes:title>
+    <title>Decomposing a massive Rails monolith with Kirsten Westeinde, software development manager at Shopify</title>
+    <itunes:summary><![CDATA[What’s it like to deconstruct one of the largest Rails codebases (3 million lines of code, 500,000+ lifetime commits, 40,000 files) on the planet? And why didn’t Shopify follow the standard path to microservices, but instead chose to modularize their monolith? In this episode, Kirsten Westeinde, software development manager at Shopify, describes how her team led the charge in refactoring and re-architecting Shopify's massive codebase, sharing the winding path they took to make this massive ch...]]></itunes:summary>
+    <description><![CDATA[<p>What’s it like to deconstruct one of the largest Rails codebases (3 million lines of code, 500,000+ lifetime commits, 40,000 files) on the planet? And why didn’t Shopify follow the standard path to microservices, but instead chose to modularize their monolith? In this episode, Kirsten Westeinde, software development manager at Shopify, describes how her team led the charge in refactoring and re-architecting Shopify&apos;s massive codebase, sharing the winding path they took to make this massive change and the way they tackled both the technical and human side of this challenge.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/refactoring-shopify-codebase-kirsten-westeinde/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>What’s it like to deconstruct one of the largest Rails codebases (3 million lines of code, 500,000+ lifetime commits, 40,000 files) on the planet? And why didn’t Shopify follow the standard path to microservices, but instead chose to modularize their monolith? In this episode, Kirsten Westeinde, software development manager at Shopify, describes how her team led the charge in refactoring and re-architecting Shopify&apos;s massive codebase, sharing the winding path they took to make this massive change and the way they tackled both the technical and human side of this challenge.<br/><br/>Show notes &amp; transcript: https://about.sourcegraph.com/podcast/refactoring-shopify-codebase-kirsten-westeinde/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/mlb0lav74r3x44h2tzbq4cm090wz?.jpg" />
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/9020726-decomposing-a-massive-rails-monolith-with-kirsten-westeinde-software-development-manager-at-shopify.mp3" length="37361624" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9020726</guid>
+    <pubDate>Tue, 17 Aug 2021 09:00:00 -0700</pubDate>
+    <podcast:soundbite startTime="1216.0" duration="22.5" />
+    <itunes:duration>3109</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The future of the code economy, with Devon Zuegel, creator of GitHub Sponsors</itunes:title>
+    <title>The future of the code economy, with Devon Zuegel, creator of GitHub Sponsors</title>
+    <itunes:summary><![CDATA[Devon Zuegel, the creator of GitHub Sponsors, tells the story of how an email rant to Nat Friedman on the eve of Microsoft's acquisition of GitHub turned into the most popular way to fund open source. She also shares her thoughts on different models of paying for software and where the future of the code economy is headed.  Show notes &amp; transcript: about.sourcegraph.com/podcast/devon-zuegel/  Sourcegraph: about.sourcegraph.com ]]></itunes:summary>
+    <description><![CDATA[<p>Devon Zuegel, the creator of GitHub Sponsors, tells the story of how an email rant to Nat Friedman on the eve of Microsoft&apos;s acquisition of GitHub turned into the most popular way to fund open source. She also shares her thoughts on different models of paying for software and where the future of the code economy is headed.<br/><br/>Show notes &amp; transcript: about.sourcegraph.com/podcast/devon-zuegel/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Devon Zuegel, the creator of GitHub Sponsors, tells the story of how an email rant to Nat Friedman on the eve of Microsoft&apos;s acquisition of GitHub turned into the most popular way to fund open source. She also shares her thoughts on different models of paying for software and where the future of the code economy is headed.<br/><br/>Show notes &amp; transcript: about.sourcegraph.com/podcast/devon-zuegel/<br/><br/>Sourcegraph: about.sourcegraph.com</p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/8953032-the-future-of-the-code-economy-with-devon-zuegel-creator-of-github-sponsors.mp3" length="52292884" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8953032</guid>
+    <pubDate>Thu, 05 Aug 2021 10:00:00 -0700</pubDate>
+    <itunes:duration>4356</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Kelsey Hightower, Kubernetes and Google Cloud</itunes:title>
+    <title>Kelsey Hightower, Kubernetes and Google Cloud</title>
+    <itunes:summary><![CDATA[As an engineer at Puppet, CoreOS, and Google Cloud, Kelsey Hightower has been at the forefront of new deployment technologies over the past decade. Along the way, he has built tools like confd, created learning resources like Kubernetes The Hard Way, co-founded KubeCon, and taught multitudes of people about containers, infrastructure as code, service meshes, and the operating system of the cloud. In this conversation, Kelsey talks about how he learns new technologies, shares stories over the ...]]></itunes:summary>
+    <description><![CDATA[<p>As an engineer at Puppet, CoreOS, and Google Cloud, <a href='https://twitter.com/kelseyhightower'>Kelsey Hightower</a> has been at the forefront of new deployment technologies over the past decade. Along the way, he has built tools like <a href='https://github.com/kelseyhightower/confd'>confd</a>, created learning resources like <a href='https://github.com/kelseyhightower/kubernetes-the-hard-way'>Kubernetes The Hard Way</a>, co-founded <a href='https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/'>KubeCon</a>, and taught multitudes of people about containers, infrastructure as code, service meshes, and the <a href='https://www.hashicorp.com/resources/hashinetes-combining-kubernetes-hashicorp-kelsey-hightower'>operating system of the cloud</a>.</p><p>In this conversation, Kelsey talks about how he learns new technologies, shares stories over the course of Kubernetes history, and explains how one might make sense of the varied ecosystem of infrastructure tools (&quot;engineering organizations are like restaurants&quot;).<br/><br/>Show notes and transcript: https://about.sourcegraph.com/podcast/kelsey-hightower</p>]]></description>
+    <content:encoded><![CDATA[<p>As an engineer at Puppet, CoreOS, and Google Cloud, <a href='https://twitter.com/kelseyhightower'>Kelsey Hightower</a> has been at the forefront of new deployment technologies over the past decade. Along the way, he has built tools like <a href='https://github.com/kelseyhightower/confd'>confd</a>, created learning resources like <a href='https://github.com/kelseyhightower/kubernetes-the-hard-way'>Kubernetes The Hard Way</a>, co-founded <a href='https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/'>KubeCon</a>, and taught multitudes of people about containers, infrastructure as code, service meshes, and the <a href='https://www.hashicorp.com/resources/hashinetes-combining-kubernetes-hashicorp-kelsey-hightower'>operating system of the cloud</a>.</p><p>In this conversation, Kelsey talks about how he learns new technologies, shares stories over the course of Kubernetes history, and explains how one might make sense of the varied ecosystem of infrastructure tools (&quot;engineering organizations are like restaurants&quot;).<br/><br/>Show notes and transcript: https://about.sourcegraph.com/podcast/kelsey-hightower</p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/6755608-kelsey-hightower-kubernetes-and-google-cloud.mp3" length="42891560" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6755608</guid>
+    <pubDate>Wed, 16 Dec 2020 07:00:00 -0800</pubDate>
+    <podcast:soundbite startTime="0.0" duration="21.5" />
+    <itunes:duration>3572</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Peter Pezaris, CEO of Codestream</itunes:title>
+    <title>Peter Pezaris, CEO of Codestream</title>
+    <itunes:summary><![CDATA[Peter Pezaris is the CEO and founder of Codestream, an editor plugin that's bringing code discussions and communication into your IDE. Codestream is starting by bringing GitHub PRs into your editor, but it has a novel vision for knowledge sharing that goes well beyond that. We talk about that vision, the shortcomings of existing communication tools for developers, and the challenges of building a uniform user experience on top of multiple editor APIs.  Show notes and transcript: https://about...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/pezster'>Peter Pezaris</a> is the CEO and founder of <a href='https://www.codestream.com/'>Codestream</a>, an editor plugin that&apos;s bringing code discussions and communication into your IDE. Codestream is starting by bringing GitHub PRs into your editor, but it has a novel vision for knowledge sharing that goes well beyond that. We talk about that vision, the shortcomings of existing communication tools for developers, and the challenges of building a uniform user experience on top of multiple editor APIs.<br/><br/>Show notes and transcript: https://about.sourcegraph.com/podcast/peter-pezaris</p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/pezster'>Peter Pezaris</a> is the CEO and founder of <a href='https://www.codestream.com/'>Codestream</a>, an editor plugin that&apos;s bringing code discussions and communication into your IDE. Codestream is starting by bringing GitHub PRs into your editor, but it has a novel vision for knowledge sharing that goes well beyond that. We talk about that vision, the shortcomings of existing communication tools for developers, and the challenges of building a uniform user experience on top of multiple editor APIs.<br/><br/>Show notes and transcript: https://about.sourcegraph.com/podcast/peter-pezaris</p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/6266917-peter-pezaris-ceo-of-codestream.mp3" length="40776243" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6266917</guid>
+    <pubDate>Mon, 16 Nov 2020 06:00:00 -0800</pubDate>
+    <podcast:soundbite startTime="0.0" duration="16.5" />
+    <itunes:duration>3396</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Jonathan Carter (LostInTangent), GitHub Codespaces, Visual Studio Live Share, CodeTour</itunes:title>
+    <title>Jonathan Carter (LostInTangent), GitHub Codespaces, Visual Studio Live Share, CodeTour</title>
+    <itunes:summary><![CDATA[Jonathan Carter (a.k.a. LostInTangent) is the principal program manager at Microsoft for VS Code Liveshare, GitHub Codespaces, and IntelliCode. We talk about how Liveshare is opening up new possibilities in pair programming, how Codespaces aims to reduce a key source of developer friction, and how he and his team want to enable more developers to say "yes" to the question, "Why not now?" Jonathan also talks about building dev tools in his spare time, including his latest project, Code Tour, a...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/LostInTangent'>Jonathan Carter</a> (a.k.a. LostInTangent) is the principal program manager at Microsoft for VS Code Liveshare, GitHub Codespaces, and IntelliCode. We talk about how Liveshare is opening up new possibilities in pair programming, how Codespaces aims to reduce a key source of developer friction, and how he and his team want to enable more developers to say &quot;yes&quot; to the question, &quot;Why not now?&quot; Jonathan also talks about building dev tools in his spare time, including his latest project, Code Tour, a VS Code extension that lets you create guided tours through your codebase.<br/><br/>Show notes and transcript: <a href='https://about.sourcegraph.com/podcast/jonathan-carter/'>https://about.sourcegraph.com/podcast/jonathan-carter/</a></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/LostInTangent'>Jonathan Carter</a> (a.k.a. LostInTangent) is the principal program manager at Microsoft for VS Code Liveshare, GitHub Codespaces, and IntelliCode. We talk about how Liveshare is opening up new possibilities in pair programming, how Codespaces aims to reduce a key source of developer friction, and how he and his team want to enable more developers to say &quot;yes&quot; to the question, &quot;Why not now?&quot; Jonathan also talks about building dev tools in his spare time, including his latest project, Code Tour, a VS Code extension that lets you create guided tours through your codebase.<br/><br/>Show notes and transcript: <a href='https://about.sourcegraph.com/podcast/jonathan-carter/'>https://about.sourcegraph.com/podcast/jonathan-carter/</a></p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/6096724-jonathan-carter-lostintangent-github-codespaces-visual-studio-live-share-codetour.mp3" length="40389387" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6096724</guid>
+    <pubDate>Mon, 09 Nov 2020 07:00:00 -0800</pubDate>
+    <podcast:soundbite startTime="0.0" duration="25.0" />
+    <itunes:duration>3364</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Andrew Gallant, creator of ripgrep</itunes:title>
+    <title>Andrew Gallant, creator of ripgrep</title>
+    <itunes:summary><![CDATA[Andrew Gallant (a.k.a. BurntSushi) is the creator of ripgrep, a popular command-line search tool that powers the search box in VS Code. Andrew tells me how ripgrep began, explains why it's faster than GNU grep and other grep alternatives, and gets into the nitty-gritty of regex optimization. We also discuss another matter near and dear to both of us: Linux window management. Andrew talks about what he likes about Go and Haskell and why Rust is his current go-to programming language, and final...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/burntsushi5'>Andrew Gallant</a> (a.k.a. BurntSushi) is the creator of <a href='https://github.com/BurntSushi/ripgrep'>ripgrep</a>, a popular command-line search tool that powers the search box in VS Code. Andrew tells me how ripgrep began, explains why it&apos;s faster than GNU grep and other grep alternatives, and gets into the nitty-gritty of regex optimization.</p><p>We also discuss another matter near and dear to both of us: Linux window management. Andrew talks about what he likes about Go and Haskell and why Rust is his current go-to programming language, and finally he shares a humorous anecdote involving algorithms, technical recruiting, and everyone&apos;s favorite New England sports team.</p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/burntsushi5'>Andrew Gallant</a> (a.k.a. BurntSushi) is the creator of <a href='https://github.com/BurntSushi/ripgrep'>ripgrep</a>, a popular command-line search tool that powers the search box in VS Code. Andrew tells me how ripgrep began, explains why it&apos;s faster than GNU grep and other grep alternatives, and gets into the nitty-gritty of regex optimization.</p><p>We also discuss another matter near and dear to both of us: Linux window management. Andrew talks about what he likes about Go and Haskell and why Rust is his current go-to programming language, and finally he shares a humorous anecdote involving algorithms, technical recruiting, and everyone&apos;s favorite New England sports team.</p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/6078358-andrew-gallant-creator-of-ripgrep.mp3" length="49267819" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6078358</guid>
+    <pubDate>Mon, 02 Nov 2020 07:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/6078358/transcript" type="text/html" />
+    <podcast:soundbite startTime="0.0" duration="20.0" />
+    <itunes:duration>4104</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Syrus Akbary, CEO of Wasmer</itunes:title>
+    <title>Syrus Akbary, CEO of Wasmer</title>
+    <itunes:summary><![CDATA[Syrus Akbary is the founder and CEO of Wasmer, the startup behind the open-source web assembly runtime that's doing for WebAssembly what Docker did for LXC. Syrus explains what WebAssembly is, why it matters outside your browser, and how it compares to other virtualization technologies. He shares the pains that motivated him to look into WebAssembly and eventually led him to create a new WebAssembly runtime and a new company around it. We dive deep into WebAssembly as a technology, its portab...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/syrusakbary'>Syrus Akbary</a> is the founder and CEO of <a href='https://wasmer.io/'>Wasmer</a>, the startup behind the <a href='https://github.com/wasmerio/wasmer'>open-source web assembly runtime</a> that&apos;s doing for WebAssembly what Docker did for LXC. Syrus explains what WebAssembly is, why it matters outside your browser, and how it compares to other virtualization technologies. He shares the pains that motivated him to look into WebAssembly and eventually led him to create a new WebAssembly runtime and a new company around it. We dive deep into WebAssembly as a technology, its portability and performance characteristics, and talk about the importance of prioritizing community and developer experience when building new development platforms.<br/><br/>Show notes and transcript: <a href='https://about.sourcegraph.com/podcast/syrus-akbary/'>https://about.sourcegraph.com/podcast/syrus-akbary</a></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/syrusakbary'>Syrus Akbary</a> is the founder and CEO of <a href='https://wasmer.io/'>Wasmer</a>, the startup behind the <a href='https://github.com/wasmerio/wasmer'>open-source web assembly runtime</a> that&apos;s doing for WebAssembly what Docker did for LXC. Syrus explains what WebAssembly is, why it matters outside your browser, and how it compares to other virtualization technologies. He shares the pains that motivated him to look into WebAssembly and eventually led him to create a new WebAssembly runtime and a new company around it. We dive deep into WebAssembly as a technology, its portability and performance characteristics, and talk about the importance of prioritizing community and developer experience when building new development platforms.<br/><br/>Show notes and transcript: <a href='https://about.sourcegraph.com/podcast/syrus-akbary/'>https://about.sourcegraph.com/podcast/syrus-akbary</a></p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/5701504-syrus-akbary-ceo-of-wasmer.mp3" length="43284259" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5701504</guid>
+    <pubDate>Thu, 01 Oct 2020 16:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/5701504/transcript" type="text/html" />
+    <podcast:soundbite startTime="0.0" duration="20.5" />
+    <itunes:duration>3605</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Michael Stapelberg, creator of i3, Debian Code Search, and distri</itunes:title>
+    <title>Michael Stapelberg, creator of i3, Debian Code Search, and distri</title>
+    <itunes:summary><![CDATA[Michael Stapelberg shares with us a multitude of experiences and contributions across the Go and Linux open-source communities. Highlights include creating the popular window manager i3, building Debian Code Search, and researching fast package management for Linux with distri. Thorsten Ball, author of Writing a Compiler in Go and Writing an Interpreter in Go, joins. The three of us talk about the importance of developer experience to open-source communities, how code search changes how you w...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/zekjur'>Michael Stapelberg</a> shares with us a multitude of experiences and contributions across the Go and Linux open-source communities. Highlights include creating the popular window manager <a href='https://i3wm.org/'>i3</a>, building <a href='https://codesearch.debian.net/'>Debian Code Search</a>, and researching fast package management for Linux with <a href='https://distr1.org/'>distri</a>. <a href='https://twitter.com/thorstenball'>Thorsten Ball</a>, author of <a href='https://compilerbook.com/'><em>Writing a Compiler in Go</em></a> and <a href='https://interpreterbook.com/'><em>Writing an Interpreter in Go</em></a>, joins. The three of us talk about the importance of developer experience to open-source communities, how code search changes how you work, and how to decide when to build something new.</p><p>Show notes and transcript: <a href='https://about.sourcegraph.com/podcast/michael-stapelberg/'>https://about.sourcegraph.com/podcast/michael-stapelberg</a></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/zekjur'>Michael Stapelberg</a> shares with us a multitude of experiences and contributions across the Go and Linux open-source communities. Highlights include creating the popular window manager <a href='https://i3wm.org/'>i3</a>, building <a href='https://codesearch.debian.net/'>Debian Code Search</a>, and researching fast package management for Linux with <a href='https://distr1.org/'>distri</a>. <a href='https://twitter.com/thorstenball'>Thorsten Ball</a>, author of <a href='https://compilerbook.com/'><em>Writing a Compiler in Go</em></a> and <a href='https://interpreterbook.com/'><em>Writing an Interpreter in Go</em></a>, joins. The three of us talk about the importance of developer experience to open-source communities, how code search changes how you work, and how to decide when to build something new.</p><p>Show notes and transcript: <a href='https://about.sourcegraph.com/podcast/michael-stapelberg/'>https://about.sourcegraph.com/podcast/michael-stapelberg</a></p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/5151244-michael-stapelberg-creator-of-i3-debian-code-search-and-distri.mp3" length="43769314" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5151244</guid>
+    <pubDate>Tue, 08 Sep 2020 08:00:00 -0700</pubDate>
+    <itunes:duration>3646</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Matt Holt, creator of Caddy</itunes:title>
+    <title>Matt Holt, creator of Caddy</title>
+    <itunes:summary><![CDATA[Matt Holt is the author of many popular projects in the Go open-source world, among them the popular Caddy web server, which pioneered support for HTTP/2 and might still be the only major web server to support automatic TLS by default. Matt talks about his motivations for creating Caddy, how the project grew and evolved over time, what it was like to do a complete rewrite from Caddy v1 to v2, and the challenges of maintaining a very popular open-source project. He also talks about his latest ...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/mholt6'>Matt Holt</a> is the author of many popular projects in the Go open-source world, among them the popular <a href='https://caddyserver.com/'>Caddy web server</a>, which pioneered support for HTTP/2 and might still be the only major web server to support automatic TLS by default.</p><p>Matt talks about his motivations for creating Caddy, how the project grew and evolved over time, what it was like to do a complete rewrite from Caddy v1 to v2, and the challenges of maintaining a very popular open-source project. He also talks about his latest project, a TCP multiplexer called <a href='https://github.com/mholt/conncept'>Project Conncept</a>.<br/><br/>Show notes and transcript: https://about.sourcegraph.com/podcast/matt-holt/</p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/mholt6'>Matt Holt</a> is the author of many popular projects in the Go open-source world, among them the popular <a href='https://caddyserver.com/'>Caddy web server</a>, which pioneered support for HTTP/2 and might still be the only major web server to support automatic TLS by default.</p><p>Matt talks about his motivations for creating Caddy, how the project grew and evolved over time, what it was like to do a complete rewrite from Caddy v1 to v2, and the challenges of maintaining a very popular open-source project. He also talks about his latest project, a TCP multiplexer called <a href='https://github.com/mholt/conncept'>Project Conncept</a>.<br/><br/>Show notes and transcript: https://about.sourcegraph.com/podcast/matt-holt/</p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/5162593-matt-holt-creator-of-caddy.mp3" length="43052625" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5162593</guid>
+    <pubDate>Tue, 01 Sep 2020 14:00:00 -0700</pubDate>
+    <itunes:duration>3586</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Thorsten Klein, creator of k3d</itunes:title>
+    <title>Thorsten Klein, creator of k3d</title>
+    <itunes:summary><![CDATA[Thorsten Klein is the creator of k3d, a tool that lets you run a lightweight Kubernetes cluster (k3s) inside a single Docker container. This makes it much easier to spin up a Kubernetes cluster in places like your dev environment, your CI pipeline, or a low-resource environment like a Raspberry Pi. Thorsten is a DevOps engineer at Trivago, where he works on developer experience for a team that maintains a set of bare-metal Kubernetes clusters. We chat about the ways in which developers are us...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/iwilltry42'>Thorsten Klein</a> is the creator of <a href='https://k3d.io/'>k3d</a>, a tool that lets you run a lightweight Kubernetes cluster (<a href='https://k3s.io/'>k3s</a>) inside a single Docker container. This makes it much easier to spin up a Kubernetes cluster in places like your dev environment, your CI pipeline, or a low-resource environment like a Raspberry Pi.</p><p>Thorsten is a DevOps engineer at Trivago, where he works on developer experience for a team that maintains a set of bare-metal Kubernetes clusters. We chat about the ways in which developers are using k3d, Thorsten&apos;s motivations and inspirations for writing it, and other tools he finds useful in the Kubernetes ecosystem.</p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/iwilltry42'>Thorsten Klein</a> is the creator of <a href='https://k3d.io/'>k3d</a>, a tool that lets you run a lightweight Kubernetes cluster (<a href='https://k3s.io/'>k3s</a>) inside a single Docker container. This makes it much easier to spin up a Kubernetes cluster in places like your dev environment, your CI pipeline, or a low-resource environment like a Raspberry Pi.</p><p>Thorsten is a DevOps engineer at Trivago, where he works on developer experience for a team that maintains a set of bare-metal Kubernetes clusters. We chat about the ways in which developers are using k3d, Thorsten&apos;s motivations and inspirations for writing it, and other tools he finds useful in the Kubernetes ecosystem.</p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/5129665-thorsten-klein-creator-of-k3d.mp3" length="43855448" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5129665</guid>
+    <pubDate>Tue, 25 Aug 2020 16:00:00 -0700</pubDate>
+    <itunes:duration>3653</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Rijnard van Tonder, creator of Comby</itunes:title>
+    <title>Rijnard van Tonder, creator of Comby</title>
+    <itunes:summary><![CDATA[Rijnard van Tonder is the creator of Comby, a pattern-matching syntax and command-line tool that offers a more expressive and more user-friendly alternative to regular expressions for many common patterns in code. Rijnard was previously a PhD student at Carnegie Mellon University, and we chat about the state of the art in static analysis and automated bug-fixing, new tools made in industry like Pyre and Sapienz, and what place machine learning has in the world of developer tools.  Show notes:...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/rvtond'>Rijnard van Tonder</a> is the creator of <a href='https://comby.dev/'>Comby</a>, a pattern-matching syntax and command-line tool that offers a more expressive and more user-friendly alternative to regular expressions for many common patterns in code.</p><p>Rijnard was previously a PhD student at Carnegie Mellon University, and we chat about the state of the art in static analysis and automated bug-fixing, new tools made in industry like Pyre and Sapienz, and what place machine learning has in the world of developer tools.<br/><br/>Show notes: <a href='https://about.sourcegraph.com/podcast/rijnard-van-tonder/notes'>https://about.sourcegraph.com/podcast/rijnard-van-tonder/notes</a><br/>Rate this podcast: <a href='https://podcasts.apple.com/us/podcast/the-sourcegraph-podcast/id1516219009'>https://podcasts.apple.com/us/podcast/the-sourcegraph-podcast/id1516219009</a><br/>Discuss this episode on Twitter: <a href='https://twitter.com/srcgraph/status/1290110717484392448'>https://twitter.com/srcgraph/status/1290110717484392448</a></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/rvtond'>Rijnard van Tonder</a> is the creator of <a href='https://comby.dev/'>Comby</a>, a pattern-matching syntax and command-line tool that offers a more expressive and more user-friendly alternative to regular expressions for many common patterns in code.</p><p>Rijnard was previously a PhD student at Carnegie Mellon University, and we chat about the state of the art in static analysis and automated bug-fixing, new tools made in industry like Pyre and Sapienz, and what place machine learning has in the world of developer tools.<br/><br/>Show notes: <a href='https://about.sourcegraph.com/podcast/rijnard-van-tonder/notes'>https://about.sourcegraph.com/podcast/rijnard-van-tonder/notes</a><br/>Rate this podcast: <a href='https://podcasts.apple.com/us/podcast/the-sourcegraph-podcast/id1516219009'>https://podcasts.apple.com/us/podcast/the-sourcegraph-podcast/id1516219009</a><br/>Discuss this episode on Twitter: <a href='https://twitter.com/srcgraph/status/1290110717484392448'>https://twitter.com/srcgraph/status/1290110717484392448</a></p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/4755524-rijnard-van-tonder-creator-of-comby.mp3" length="46509252" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4755524</guid>
+    <pubDate>Sun, 02 Aug 2020 16:00:00 -0700</pubDate>
+    <itunes:duration>3874</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Dan Bentley, CEO and co-founder of Tilt</itunes:title>
+    <title>Dan Bentley, CEO and co-founder of Tilt</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/4648337-dan-bentley-ceo-and-co-founder-of-tilt.mp3" length="50723267" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4648337</guid>
+    <pubDate>Sun, 26 Jul 2020 16:00:00 -0700</pubDate>
+    <itunes:duration>4225</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Yves Junqueira and John Ewart</itunes:title>
+    <title>Yves Junqueira and John Ewart</title>
+    <itunes:summary><![CDATA[Yves Junqeira and John Ewart are co-founders of YourBase, a build and test runner service that accelerates testing and CI by understanding the implicit dependency graph of your builds. YourBase integrates with most major build tools and employs system call analysis and static language analysis to infer the build dependency structure without the need for manual configuration. It then uses this information to parallelize and cache builds, yielding significant performance improvements. Yves and ...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/cetico'>Yves Junqeira</a> and <a href='https://twitter.com/_johnewart'>John Ewart</a> are co-founders of <a href='https://yourbase.io/'>YourBase</a>, a build and test runner service that accelerates testing and CI by understanding the implicit dependency graph of your builds. YourBase integrates with most major build tools and employs system call analysis and static language analysis to infer the build dependency structure without the need for manual configuration. It then uses this information to parallelize and cache builds, yielding significant performance improvements.</p><p>Yves and John reflect on their experiences working as SRE inside Google and SWE inside Amazon and how writing code is different inside these organizations, both compared to one another and to the rest of the world. They share lessons learned and advice for potential developer tool founders.<br/><br/>Show notes: <a href='https://about.sourcegraph.com/podcast/yves-and-john/notes'>https://about.sourcegraph.com/podcast/yves-and-john/notes</a><br/><br/>Transcript: <a href='https://about.sourcegraph.com/podcast/yves-and-john/transcript'>https://about.sourcegraph.com/podcast/yves-and-john/transcript</a></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/cetico'>Yves Junqeira</a> and <a href='https://twitter.com/_johnewart'>John Ewart</a> are co-founders of <a href='https://yourbase.io/'>YourBase</a>, a build and test runner service that accelerates testing and CI by understanding the implicit dependency graph of your builds. YourBase integrates with most major build tools and employs system call analysis and static language analysis to infer the build dependency structure without the need for manual configuration. It then uses this information to parallelize and cache builds, yielding significant performance improvements.</p><p>Yves and John reflect on their experiences working as SRE inside Google and SWE inside Amazon and how writing code is different inside these organizations, both compared to one another and to the rest of the world. They share lessons learned and advice for potential developer tool founders.<br/><br/>Show notes: <a href='https://about.sourcegraph.com/podcast/yves-and-john/notes'>https://about.sourcegraph.com/podcast/yves-and-john/notes</a><br/><br/>Transcript: <a href='https://about.sourcegraph.com/podcast/yves-and-john/transcript'>https://about.sourcegraph.com/podcast/yves-and-john/transcript</a></p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/4557812-yves-junqueira-and-john-ewart.mp3" length="49812932" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4557812</guid>
+    <pubDate>Sun, 19 Jul 2020 16:00:00 -0700</pubDate>
+    <itunes:duration>4149</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Luke Hoban, CTO of Pulumi, co-founder of TypeScript</itunes:title>
+    <title>Luke Hoban, CTO of Pulumi, co-founder of TypeScript</title>
+    <itunes:summary><![CDATA[If you write code on the modern web, it's almost certain that your life has been shaped significantly by Luke Hoban's work. Luke has worked on developer tools his entire career. He started out on Visual Studio, C#, and .NET in the early 2000s, later joined the ECMAScript standards body as a representative of Microsoft, and then became one of the co-founders of the TypeScript programming language. Today, he is the CTO of Pulumi, an infrastructure-as-code company that lets you write your deploy...]]></itunes:summary>
+    <description><![CDATA[<p>If you write code on the modern web, it&apos;s almost certain that your life has been shaped significantly by Luke Hoban&apos;s work. Luke has worked on developer tools his entire career. He started out on Visual Studio, C#, and .NET in the early 2000s, later joined the ECMAScript standards body as a representative of Microsoft, and then became one of the co-founders of the TypeScript programming language. Today, he is the CTO of Pulumi, an infrastructure-as-code company that lets you write your deployment config as code in your favorite language.<br/><br/>Luke shares stories from the early days of TypeScript and talks about how it evolved from a two-man team to one of the most successful programming languages and open-source projects. We discuss important inflection points and design decisions that played a key role in TypeScript&apos;s runaway success. We also dive into the symbiotic relationship that TypeScript had with another early project just getting off the ground at the time: VS Code. Luke also shares his learnings from his stint at AWS, how his role at Pulumi combines his two passions for programming languages and cloud infrastructure, and how Pulumi brings the niceties of the IDE experience to an area that sorely needs it—infrastructure configuration management.<br/><br/>Show notes and transcript: https://about.sourcegraph.com/podcast/luke-hoban/</p>]]></description>
+    <content:encoded><![CDATA[<p>If you write code on the modern web, it&apos;s almost certain that your life has been shaped significantly by Luke Hoban&apos;s work. Luke has worked on developer tools his entire career. He started out on Visual Studio, C#, and .NET in the early 2000s, later joined the ECMAScript standards body as a representative of Microsoft, and then became one of the co-founders of the TypeScript programming language. Today, he is the CTO of Pulumi, an infrastructure-as-code company that lets you write your deployment config as code in your favorite language.<br/><br/>Luke shares stories from the early days of TypeScript and talks about how it evolved from a two-man team to one of the most successful programming languages and open-source projects. We discuss important inflection points and design decisions that played a key role in TypeScript&apos;s runaway success. We also dive into the symbiotic relationship that TypeScript had with another early project just getting off the ground at the time: VS Code. Luke also shares his learnings from his stint at AWS, how his role at Pulumi combines his two passions for programming languages and cloud infrastructure, and how Pulumi brings the niceties of the IDE experience to an area that sorely needs it—infrastructure configuration management.<br/><br/>Show notes and transcript: https://about.sourcegraph.com/podcast/luke-hoban/</p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/4466138-luke-hoban-cto-of-pulumi-co-founder-of-typescript.mp3" length="55357309" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4466138</guid>
+    <pubDate>Sun, 12 Jul 2020 17:00:00 -0700</pubDate>
+    <itunes:duration>4611</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Evan Culver of Segment</itunes:title>
+    <title>Evan Culver of Segment</title>
+    <itunes:summary><![CDATA[Evan Culver builds developer tools at Segment, a customer data platform that lets product managers and software teams understand their users through data. Evan's career has spanned many years up and down the software stack, from frontend UI development to infrastructure and ops. For the past five years, his focus has been developer tooling and infrastructure, having worked on these during his tenure at Uber during its hypergrowth years and now on the dev tools team at Segment, where his chart...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://github.com/eculver'>Evan Culver</a> builds developer tools at <a href='https://segment.com/'>Segment</a>, a customer data platform that lets product managers and software teams understand their users through data.</p><p>Evan&apos;s career has spanned many years up and down the software stack, from frontend UI development to infrastructure and ops. For the past five years, his focus has been developer tooling and infrastructure, having worked on these during his tenure at Uber during its hypergrowth years and now on the dev tools team at Segment, where his charter is to &quot;empower the engineers of Segment with the tools to automate, optimize, and streamline their workflows.&quot; In this episode, he explains to Beyang what exactly that means, discussing Segment&apos;s use of technologies from the AWS ecosystem, the popular open-source secret management tool they created, ChatOps, and various Docker- and Kubernetes-based tools that are useful for managing the deployment of many microservices.<br/><br/>Show notes and transcript: <a href='https://about.sourcegraph.com/podcast/evan-culver'>https://about.sourcegraph.com/podcast/evan-culver</a></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://github.com/eculver'>Evan Culver</a> builds developer tools at <a href='https://segment.com/'>Segment</a>, a customer data platform that lets product managers and software teams understand their users through data.</p><p>Evan&apos;s career has spanned many years up and down the software stack, from frontend UI development to infrastructure and ops. For the past five years, his focus has been developer tooling and infrastructure, having worked on these during his tenure at Uber during its hypergrowth years and now on the dev tools team at Segment, where his charter is to &quot;empower the engineers of Segment with the tools to automate, optimize, and streamline their workflows.&quot; In this episode, he explains to Beyang what exactly that means, discussing Segment&apos;s use of technologies from the AWS ecosystem, the popular open-source secret management tool they created, ChatOps, and various Docker- and Kubernetes-based tools that are useful for managing the deployment of many microservices.<br/><br/>Show notes and transcript: <a href='https://about.sourcegraph.com/podcast/evan-culver'>https://about.sourcegraph.com/podcast/evan-culver</a></p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/4354517-evan-culver-of-segment.mp3" length="44231909" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4354517</guid>
+    <pubDate>Sun, 05 Jul 2020 16:00:00 -0700</pubDate>
+    <itunes:duration>3684</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Charity Majors, CTO and founder of Honeycomb</itunes:title>
+    <title>Charity Majors, CTO and founder of Honeycomb</title>
+    <itunes:summary><![CDATA[Charity Majors is the founder and CTO of Honeycomb, an observability tool that combines logs, traces, metrics, and all the relevant data about the production state of your application into a single dataset that can be explored in one place. Charity tells Beyang about how Honeycomb derives its definition of observability for software systems from its original definition in control theory, and how observability differs from monitoring and logging. She shares war stories from her time keeping sy...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/mipsytipsy'>Charity Majors</a> is the founder and CTO of <a href='https://www.honeycomb.io/'>Honeycomb</a>, an observability tool that combines logs, traces, metrics, and all the relevant data about the production state of your application into a single dataset that can be explored in one place. Charity tells Beyang about how Honeycomb derives its definition of observability for software systems from its original definition in control theory, and how observability differs from monitoring and logging. She shares war stories from her time keeping systems online at Facebook and Parse, gives her predictions about how the landscape of observability and monitoring tools will evolve, and discusses how developer tools can make programming more accessible to everyone.<br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/mipsytipsy'>Charity Majors</a> is the founder and CTO of <a href='https://www.honeycomb.io/'>Honeycomb</a>, an observability tool that combines logs, traces, metrics, and all the relevant data about the production state of your application into a single dataset that can be explored in one place. Charity tells Beyang about how Honeycomb derives its definition of observability for software systems from its original definition in control theory, and how observability differs from monitoring and logging. She shares war stories from her time keeping systems online at Facebook and Parse, gives her predictions about how the landscape of observability and monitoring tools will evolve, and discusses how developer tools can make programming more accessible to everyone.<br/><br/></p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/4261673-charity-majors-cto-and-founder-of-honeycomb.mp3" length="50884967" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4261673</guid>
+    <pubDate>Sun, 28 Jun 2020 17:00:00 -0700</pubDate>
+    <itunes:duration>4239</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Ryan Djurovich of Xero and Cloudlfare</itunes:title>
+    <title>Ryan Djurovich of Xero and Cloudlfare</title>
+    <itunes:summary><![CDATA[Ryan Djurovich is a DevOps manager at Xero and former manager of the DevTools team at Cloudflare. He shares with Quinn how he has seen the landscape of Continuous Integration and Delivery (CI/CD) tools change over the years, the three waves of CI/CD, and where he thinks testing and build tools are headed in the future.  Notes and transcript: https://about.sourcegraph.com/podcast/ryan-djurovich ]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://twitter.com/ryan0x44'>Ryan Djurovich</a> is a DevOps manager at <a href='https://www.xero.com/'>Xero</a> and former manager of the DevTools team at <a href='https://www.cloudflare.com/'>Cloudflare</a>. He shares with Quinn how he has seen the landscape of Continuous Integration and Delivery (CI/CD) tools change over the years, the three waves of CI/CD, and where he thinks testing and build tools are headed in the future.<br/><br/>Notes and transcript: <a href='https://about.sourcegraph.com/podcast/ryan-djurovich'>https://about.sourcegraph.com/podcast/ryan-djurovich</a></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://twitter.com/ryan0x44'>Ryan Djurovich</a> is a DevOps manager at <a href='https://www.xero.com/'>Xero</a> and former manager of the DevTools team at <a href='https://www.cloudflare.com/'>Cloudflare</a>. He shares with Quinn how he has seen the landscape of Continuous Integration and Delivery (CI/CD) tools change over the years, the three waves of CI/CD, and where he thinks testing and build tools are headed in the future.<br/><br/>Notes and transcript: <a href='https://about.sourcegraph.com/podcast/ryan-djurovich'>https://about.sourcegraph.com/podcast/ryan-djurovich</a></p>]]></content:encoded>
+    <link>https://about.sourcegraph.com/podcast/ryan-djurovich</link>
+    <itunes:author>Beyang</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/3849032-ryan-djurovich-of-xero-and-cloudlfare.mp3" length="68705369" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3849032</guid>
+    <pubDate>Mon, 22 Jun 2020 08:00:00 -0700</pubDate>
+    <itunes:duration>5724</itunes:duration>
+    <itunes:keywords>software engineering, programming, dev tools, continuous integration</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>David Cramer, CTO and founder of Sentry</itunes:title>
+    <title>David Cramer, CTO and founder of Sentry</title>
+    <itunes:summary><![CDATA[David Cramer talks about creating Sentry as an open-source side project, maintaining it while working full-time at Dropbox, and ultimately growing it into one of today's leading application error monitoring tools. We chat about the emergence of new computing platforms, his thoughts on what's truly new and what's just marketing-speak for old ideas, and how he sees the landscape of observability and monitoring tools evolving in the future.  Notes and transcript: https://about.sourcegraph.com/po...]]></itunes:summary>
+    <description><![CDATA[<p>David Cramer talks about creating Sentry as an open-source side project, maintaining it while working full-time at Dropbox, and ultimately growing it into one of today&apos;s leading application error monitoring tools. We chat about the emergence of new computing platforms, his thoughts on what&apos;s truly new and what&apos;s just marketing-speak for old ideas, and how he sees the landscape of observability and monitoring tools evolving in the future.<br/><br/>Notes and transcript: <a href='https://about.sourcegraph.com/podcast/david-cramer'>https://about.sourcegraph.com/podcast/david-cramer</a></p>]]></description>
+    <content:encoded><![CDATA[<p>David Cramer talks about creating Sentry as an open-source side project, maintaining it while working full-time at Dropbox, and ultimately growing it into one of today&apos;s leading application error monitoring tools. We chat about the emergence of new computing platforms, his thoughts on what&apos;s truly new and what&apos;s just marketing-speak for old ideas, and how he sees the landscape of observability and monitoring tools evolving in the future.<br/><br/>Notes and transcript: <a href='https://about.sourcegraph.com/podcast/david-cramer'>https://about.sourcegraph.com/podcast/david-cramer</a></p>]]></content:encoded>
+    <itunes:author>Beyang and Quinn</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/4078679-david-cramer-cto-and-founder-of-sentry.mp3" length="54339121" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4078679</guid>
+    <pubDate>Mon, 15 Jun 2020 08:00:00 -0700</pubDate>
+    <itunes:duration>4526</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Introducing the Sourcegraph Podcast</itunes:title>
+    <title>Introducing the Sourcegraph Podcast</title>
+    <itunes:summary><![CDATA[Welcome to the Sourcegraph podcast, a new show about developer tools and their creators. Over the next couple of weeks, we'll be publishing conversations with people we think are some of the best and brightest minds working on tools and infrastructure for developers. Here's a partial lineup: Luke Hoban, co-founder and CTO of Pulumi, co-founder of TypeScript, formerly program manager at MicrosoftRyan Djurovich, dev tools and DevOps leader at Xero, formerly CloudflareCharity Majors, co-founder ...]]></itunes:summary>
+    <description><![CDATA[<p>Welcome to the Sourcegraph podcast, a new show about developer tools and their creators. Over the next couple of weeks, we&apos;ll be publishing conversations with people we think are some of the best and brightest minds working on tools and infrastructure for developers. Here&apos;s a partial lineup:</p><ul><li><a href='https://twitter.com/lukehoban'><b>Luke Hoban</b></a>, co-founder and CTO of Pulumi, co-founder of TypeScript, formerly program manager at Microsoft</li><li><a href='https://twitter.com/ryan0x44'><b>Ryan Djurovich</b></a>, dev tools and DevOps leader at Xero, formerly Cloudflare</li><li><a href='https://twitter.com/mipsytipsy'><b>Charity Majors</b></a>, co-founder and CTO of Honeycomb, formerly infrastructure tech lead at Parse and Facebook</li><li><a href='https://twitter.com/evanculver'><b>Evan Culver</b></a>, dev tools and infrastructure leader at Segment, formerly Uber</li><li><a href='https://twitter.com/rvtond'><b>Rijnard van Tonder</b></a>, creator of Comby, formerly PhD researcher at CMU with stints at Microsoft Research and Facebook, now at Sourcegraph</li><li><a href='https://twitter.com/zeeg'><b>David Cramer</b></a>, co-founder and CTO of Sentry, formerly SWE at Dropbox</li><li><a href='https://twitter.com/cetico'><b>Yves Junqueira</b></a>, co-founder and CEO of YourBase, formerly SRE at Google</li><li><a href='https://twitter.com/_johnewart'><b>John Ewart</b></a>, co-founder and CTO of YourBase, formerly SWE at Amazon</li><li><a href='https://twitter.com/dbentley'><b>Dan Bentley</b></a>, founder and CEO of Tilt, formerly SWE at Google</li></ul><p>If you have ideas or suggestions for guests, <a href='https://twitter.com/srcgraph'>hit us up on Twitter</a>. We&apos;re speaking to an audience of developers who love leveling up their productivity and, perhaps, who also aspire to create great dev tools themselves. If that&apos;s you, then subscribe! We look forward to sharing some insightful conversations with you over the next few weeks.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>Welcome to the Sourcegraph podcast, a new show about developer tools and their creators. Over the next couple of weeks, we&apos;ll be publishing conversations with people we think are some of the best and brightest minds working on tools and infrastructure for developers. Here&apos;s a partial lineup:</p><ul><li><a href='https://twitter.com/lukehoban'><b>Luke Hoban</b></a>, co-founder and CTO of Pulumi, co-founder of TypeScript, formerly program manager at Microsoft</li><li><a href='https://twitter.com/ryan0x44'><b>Ryan Djurovich</b></a>, dev tools and DevOps leader at Xero, formerly Cloudflare</li><li><a href='https://twitter.com/mipsytipsy'><b>Charity Majors</b></a>, co-founder and CTO of Honeycomb, formerly infrastructure tech lead at Parse and Facebook</li><li><a href='https://twitter.com/evanculver'><b>Evan Culver</b></a>, dev tools and infrastructure leader at Segment, formerly Uber</li><li><a href='https://twitter.com/rvtond'><b>Rijnard van Tonder</b></a>, creator of Comby, formerly PhD researcher at CMU with stints at Microsoft Research and Facebook, now at Sourcegraph</li><li><a href='https://twitter.com/zeeg'><b>David Cramer</b></a>, co-founder and CTO of Sentry, formerly SWE at Dropbox</li><li><a href='https://twitter.com/cetico'><b>Yves Junqueira</b></a>, co-founder and CEO of YourBase, formerly SRE at Google</li><li><a href='https://twitter.com/_johnewart'><b>John Ewart</b></a>, co-founder and CTO of YourBase, formerly SWE at Amazon</li><li><a href='https://twitter.com/dbentley'><b>Dan Bentley</b></a>, founder and CEO of Tilt, formerly SWE at Google</li></ul><p>If you have ideas or suggestions for guests, <a href='https://twitter.com/srcgraph'>hit us up on Twitter</a>. We&apos;re speaking to an audience of developers who love leveling up their productivity and, perhaps, who also aspire to create great dev tools themselves. If that&apos;s you, then subscribe! We look forward to sharing some insightful conversations with you over the next few weeks.</p><p><br/></p>]]></content:encoded>
+    <link>https://about.sourcegraph.com/podcast</link>
+    <itunes:author>Beyang</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1097978/episodes/3991271-introducing-the-sourcegraph-podcast.mp3" length="1890500" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3991271</guid>
+    <pubDate>Mon, 08 Jun 2020 08:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1097978/3991271/transcript" type="text/html" />
+    <itunes:duration>154</itunes:duration>
+    <itunes:keywords>technology, programming, dev tools, developers</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

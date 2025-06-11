@@ -1,0 +1,734 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This feed is updated every 7200 seconds. Cache it and save resources. -->
+<!-- Next feed update planned for: 2025-06-12 01:20:50.859469 UTC +00:00 -->
+<!-- The feed's update frequency may change in the future. The feed is updated only on-demand. -->
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Kotlin by JetBrains</title>
+    <link>https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw</link>
+    <description>Kotlin by JetBrains [WWW.PODTUBE.ME]</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>WWW.PODTUBE.ME v1.0.0 (using pod2gen v1.0.3 https://pod2gen.caproni.fm)</generator>
+    <lastBuildDate>Mon, 21 Dec 2020 11:01:17 +0000</lastBuildDate>
+    <itunes:author>Kotlin by JetBrains</itunes:author>
+    <dc:creator>Kotlin by JetBrains</dc:creator>
+    <pubDate>Mon, 21 Dec 2020 11:01:17 +0000</pubDate>
+    <itunes:image href="https://podtube.me/channel_logo/UCP7uiEZIqci43m22KDl0sNw___2025_24.jpg"/>
+    <itunes:owner>
+      <itunes:name>Private</itunes:name>
+      <itunes:email>only_for_private_use@distribution_not_allowed.com</itunes:email>
+    </itunes:owner>
+    <podcast:locked owner="only_for_private_use@distribution_not_allowed.com">yes</podcast:locked>
+    <atom:link href="https://podtube.me/rssfeed/UCP7uiEZIqci43m22KDl0sNw" rel="self" type="application/rss+xml"/>
+    <podcast:funding url="https://www.podtube.me/donate.html">Support PODTUBE.ME continuity becoming a Patreon or making an onetime donation</podcast:funding>
+    <item>
+      <title>‘Hello World’ #Kotlin #coding #fun</title>
+      <description><![CDATA[
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=ZpgBNZNr-3U">https://www.youtube.com/watch?v=ZpgBNZNr-3U</a>]]></description>
+      <content:encoded><![CDATA[
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=ZpgBNZNr-3U">https://www.youtube.com/watch?v=ZpgBNZNr-3U</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_ZpgBNZNr-3U</guid>
+      <enclosure url="https://podtube.me/episode/ZpgBNZNr-3U.m4a" length="129600" type="audio/mp4"/>
+      <itunes:duration>00:08</itunes:duration>
+      <pubDate>Tue, 10 Jun 2025 14:36:42 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/ZpgBNZNr-3U/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>Support PODTUBE.ME continuity as a free service</title>
+      <description><![CDATA[PODTUBE is a personal project and was originally developed to be used only by its creator, but then the creator decided to open it, making PODTUBE available to everybody with similar needs, for free. 
+
+However, PODTUBE has server, bandwidth, development, maintenance and improvement costs. 
+
+And the number of users is growing daily, requiring frequent service upgrades to keep a minimum usability level. 
+
+Its continuity as a free service depends on your support. 
+
+Consider to become a Patreon, starting with one dollar, or make an one-time donation: 
+<a href="https://www.podtube.me/donate.html">https://www.podtube.me/donate.html</a>
+
+]]></description>
+      <content:encoded><![CDATA[PODTUBE is a personal project and was originally developed to be used only by its creator, but then the creator decided to open it, making PODTUBE available to everybody with similar needs, for free. 
+
+However, PODTUBE has server, bandwidth, development, maintenance and improvement costs. 
+
+And the number of users is growing daily, requiring frequent service upgrades to keep a minimum usability level. 
+
+Its continuity as a free service depends on your support. 
+
+Consider to become a Patreon, starting with one dollar, or make an one-time donation: 
+<a href="https://www.podtube.me/donate.html">https://www.podtube.me/donate.html</a>
+
+]]></content:encoded>
+      <itunes:author>Creator of PODTUBE.ME</itunes:author>
+      <dc:creator>Creator of PODTUBE.ME</dc:creator>
+      <guid isPermaLink="false">PodTube-me-become-patreon-self-ad-2025-19</guid>
+      <enclosure url="https://podtube.me/episode/consider_to_become_a_patreon-2025-19.mp3" length="1201248" type="audio/mpeg"/>
+      <itunes:duration>01:00</itunes:duration>
+      <pubDate>Mon, 05 May 2025 12:20:46 +0000</pubDate>
+      <itunes:image href="https://podtube.me/support_podtubeme/podtubeme_become_a_patreon_or_donate-2025-19.png"/>
+    </item>
+    <item>
+      <title>Kotlin Multiplatform (KMP) at McDonald’s</title>
+      <description><![CDATA[By sharing complex code like in-app payments, McDonald’s maintains a seamless native experience while improving performance, reducing crashes, and streamlining testing. KMP has unified their development team and delivered consistent results, supporting over 6.5 million monthly purchases.
+
+#kotlin #kmp
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=6bCZEYTq5Eg">https://www.youtube.com/watch?v=6bCZEYTq5Eg</a>]]></description>
+      <content:encoded><![CDATA[By sharing complex code like in-app payments, McDonald’s maintains a seamless native experience while improving performance, reducing crashes, and streamlining testing. KMP has unified their development team and delivered consistent results, supporting over 6.5 million monthly purchases.
+
+#kotlin #kmp
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=6bCZEYTq5Eg">https://www.youtube.com/watch?v=6bCZEYTq5Eg</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_6bCZEYTq5Eg</guid>
+      <enclosure url="https://podtube.me/episode/6bCZEYTq5Eg.m4a" length="1620000" type="audio/mp4"/>
+      <itunes:duration>01:40</itunes:duration>
+      <pubDate>Wed, 04 Jun 2025 14:29:36 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/6bCZEYTq5Eg/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>KotlinConf'25 - Keynote</title>
+      <description><![CDATA[Recording brought to you by American Express. <a href="https://americanexpress.io/kotlin-jobs" rel="nofollow">https://americanexpress.io/kotlin-jobs</a>
+
+#KotlinConf #JetBrains #kotlin 
+ 
+0:00 - Welcome to KotlinConf'25
+1:03 - Introduction (Kirill Skrygan)
+9:09 - Kotlin Language Evolution (Michail Zarečenskij)
+18:35 - Kotlin Ecosystem (Vsevolod Tolstopyatov)
+26:25 - Kotlin and AI (Svetlana Isakova)
+38:01 - Kotlin Multiplatform (Ekaterina Petrova, Márton Braun)
+49:17 - Kotlin Server-Side (Sebastian Aigner)
+1:01:42 - Wrapping Up (Hadi Hariri)
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=F5NaqGF9oT4">https://www.youtube.com/watch?v=F5NaqGF9oT4</a>]]></description>
+      <content:encoded><![CDATA[Recording brought to you by American Express. <a href="https://americanexpress.io/kotlin-jobs" rel="nofollow">https://americanexpress.io/kotlin-jobs</a>
+
+#KotlinConf #JetBrains #kotlin 
+ 
+0:00 - Welcome to KotlinConf'25
+1:03 - Introduction (Kirill Skrygan)
+9:09 - Kotlin Language Evolution (Michail Zarečenskij)
+18:35 - Kotlin Ecosystem (Vsevolod Tolstopyatov)
+26:25 - Kotlin and AI (Svetlana Isakova)
+38:01 - Kotlin Multiplatform (Ekaterina Petrova, Márton Braun)
+49:17 - Kotlin Server-Side (Sebastian Aigner)
+1:01:42 - Wrapping Up (Hadi Hariri)
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=F5NaqGF9oT4">https://www.youtube.com/watch?v=F5NaqGF9oT4</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_F5NaqGF9oT4</guid>
+      <enclosure url="https://podtube.me/episode/F5NaqGF9oT4.m4a" length="64346400" type="audio/mp4"/>
+      <itunes:duration>01:06:12</itunes:duration>
+      <pubDate>Fri, 23 May 2025 17:33:09 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/F5NaqGF9oT4/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>How Kotlin is Powering TV Broadcasts Worldwide | Talking Kotlin #139</title>
+      <description><![CDATA[Sebastian and Márton are joined by Denis Borisevich from RIEDEL Communications, and learn about how Kotlin is used behind-the-scenes to power media, sports, and entertainment broadcasts watched by millions around the globe. Tune in for an exciting story about how Kotlin, Ktor, and Arrow are being used in production for a use case where robust software is mission-critical.
+
+00:00 Introductions
+02:42 Events powered by Riedel
+03:50 The Kotlin part
+06:44 Routing video signals
+09:12 Error handling in milliseconds
+10:31 The Kotlin part, continued
+13:29 TornadoFX!
+19:19 On introducing Compose
+23:30 Java to Kotlin migration
+26:30 Learning Kotlin after C++
+28:44 Unsigned ints in Kotlin
+32:09 Arrow!
+33:00 Server-side Kotlin
+36:25 Functional programming
+42:10 Why Kotlin over others?
+45:55 Kotlin/Java interop
+47:12 A 2-week long test suite
+51:35 Confidence in Kotlin
+53:05 Future plans
+56:00 Wrap-up
+
+Useful Links:
+Riedel Communcations – <a href="https://www.riedel.net/en/" rel="nofollow">https://www.riedel.net/en/</a> 
+TornadoFX – <a href="https://github.com/edvin/tornadofx" rel="nofollow">https://github.com/edvin/tornadofx</a> 
+Unsigned integer types – <a href="https://kotlinlang.org/docs/unsigned-integer-types.html" rel="nofollow">https://kotlinlang.org/docs/unsigned-integer-types.html</a> 
+Arrow – <a href="https://arrow-kt.io/" rel="nofollow">https://arrow-kt.io/</a>
+Ktor – <a href="https://ktor.io/" rel="nofollow">https://ktor.io/</a> 
+Eurovision – <a href="https://eurovision.tv/" rel="nofollow">https://eurovision.tv/</a> 
+
+Hosts:
+Sebastian Aigner
+          Website – <a href="https://sebi.io/" rel="nofollow">https://sebi.io/</a>
+          Bluesky – https://bsky.app/profile/<a href="http://sebi.io" rel="nofollow">sebi.io</a>
+Márton Braun
+          Website – <a href="https://zsmb.co" rel="nofollow">https://zsmb.co</a>
+          Bluesky – https://bsky.app/profile/<a href="http://zsmb.co" rel="nofollow">zsmb.co</a>
+
+Guests:
+Denis Borisevich
+          LinkedIn – <a href="https://www.linkedin.com/in/dborisevich/" rel="nofollow">https://www.linkedin.com/in/dborisevich/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=SRaVtWFOUw4">https://www.youtube.com/watch?v=SRaVtWFOUw4</a>]]></description>
+      <content:encoded><![CDATA[Sebastian and Márton are joined by Denis Borisevich from RIEDEL Communications, and learn about how Kotlin is used behind-the-scenes to power media, sports, and entertainment broadcasts watched by millions around the globe. Tune in for an exciting story about how Kotlin, Ktor, and Arrow are being used in production for a use case where robust software is mission-critical.
+
+00:00 Introductions
+02:42 Events powered by Riedel
+03:50 The Kotlin part
+06:44 Routing video signals
+09:12 Error handling in milliseconds
+10:31 The Kotlin part, continued
+13:29 TornadoFX!
+19:19 On introducing Compose
+23:30 Java to Kotlin migration
+26:30 Learning Kotlin after C++
+28:44 Unsigned ints in Kotlin
+32:09 Arrow!
+33:00 Server-side Kotlin
+36:25 Functional programming
+42:10 Why Kotlin over others?
+45:55 Kotlin/Java interop
+47:12 A 2-week long test suite
+51:35 Confidence in Kotlin
+53:05 Future plans
+56:00 Wrap-up
+
+Useful Links:
+Riedel Communcations – <a href="https://www.riedel.net/en/" rel="nofollow">https://www.riedel.net/en/</a> 
+TornadoFX – <a href="https://github.com/edvin/tornadofx" rel="nofollow">https://github.com/edvin/tornadofx</a> 
+Unsigned integer types – <a href="https://kotlinlang.org/docs/unsigned-integer-types.html" rel="nofollow">https://kotlinlang.org/docs/unsigned-integer-types.html</a> 
+Arrow – <a href="https://arrow-kt.io/" rel="nofollow">https://arrow-kt.io/</a>
+Ktor – <a href="https://ktor.io/" rel="nofollow">https://ktor.io/</a> 
+Eurovision – <a href="https://eurovision.tv/" rel="nofollow">https://eurovision.tv/</a> 
+
+Hosts:
+Sebastian Aigner
+          Website – <a href="https://sebi.io/" rel="nofollow">https://sebi.io/</a>
+          Bluesky – https://bsky.app/profile/<a href="http://sebi.io" rel="nofollow">sebi.io</a>
+Márton Braun
+          Website – <a href="https://zsmb.co" rel="nofollow">https://zsmb.co</a>
+          Bluesky – https://bsky.app/profile/<a href="http://zsmb.co" rel="nofollow">zsmb.co</a>
+
+Guests:
+Denis Borisevich
+          LinkedIn – <a href="https://www.linkedin.com/in/dborisevich/" rel="nofollow">https://www.linkedin.com/in/dborisevich/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=SRaVtWFOUw4">https://www.youtube.com/watch?v=SRaVtWFOUw4</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_SRaVtWFOUw4</guid>
+      <enclosure url="https://podtube.me/episode/SRaVtWFOUw4.m4a" length="55711800" type="audio/mp4"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Thu, 15 May 2025 18:15:03 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/SRaVtWFOUw4/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>Building the perfect UI for your app without the waiting time: Compose Hot Reload  #coding #kotlin</title>
+      <description><![CDATA[More info here: <a href="https://github.com/JetBrains/compose-hot-reload" rel="nofollow">https://github.com/JetBrains/compose-hot-reload</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=gTg9cXfx4NA">https://www.youtube.com/watch?v=gTg9cXfx4NA</a>]]></description>
+      <content:encoded><![CDATA[More info here: <a href="https://github.com/JetBrains/compose-hot-reload" rel="nofollow">https://github.com/JetBrains/compose-hot-reload</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=gTg9cXfx4NA">https://www.youtube.com/watch?v=gTg9cXfx4NA</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_gTg9cXfx4NA</guid>
+      <enclosure url="https://podtube.me/episode/gTg9cXfx4NA.m4a" length="891000" type="audio/mp4"/>
+      <itunes:duration>00:55</itunes:duration>
+      <pubDate>Mon, 05 May 2025 12:30:46 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/gTg9cXfx4NA/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>How Kotlin Developers Use JetBrains AI Assistant in IntelliJ IDEA</title>
+      <description><![CDATA[JetBrains AI Assistant is built into IntelliJ IDEA to help you write Kotlin stay focused and code faster. In this video, we walk you through how it works and what it can do – from smarter code completion to multi-file edits and context-aware chat.
+
+What we’ll cover:
+🟣 Local AI code completion (free and works offline)
+🟣 Cloud models like Claude 3.7 Sonnet and Gemini 2.5 Pro
+🟣 Chat with web search and codebase awareness
+🟣 Multi-file edit suggestions [Beta]
+🟣 MCP server integration [Beta] 
+🟣 How to set it up and get the most out of it
+
+The AI Assistant is part of the JetBrains AI subscription: <a href="https://www.jetbrains.com/ai-ides/buy" rel="nofollow">https://www.jetbrains.com/ai-ides/buy</a>
+ 👉 Learn more: <a href="https://www.jetbrains.com/ai-assistant" rel="nofollow">https://www.jetbrains.com/ai-assistant</a>
+ 👉 More videos in the JetBrains Guide: <a href="https://www.jetbrains.com/guide/ai/" rel="nofollow">https://www.jetbrains.com/guide/ai/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=XJm9slEgRFQ">https://www.youtube.com/watch?v=XJm9slEgRFQ</a>]]></description>
+      <content:encoded><![CDATA[JetBrains AI Assistant is built into IntelliJ IDEA to help you write Kotlin stay focused and code faster. In this video, we walk you through how it works and what it can do – from smarter code completion to multi-file edits and context-aware chat.
+
+What we’ll cover:
+🟣 Local AI code completion (free and works offline)
+🟣 Cloud models like Claude 3.7 Sonnet and Gemini 2.5 Pro
+🟣 Chat with web search and codebase awareness
+🟣 Multi-file edit suggestions [Beta]
+🟣 MCP server integration [Beta] 
+🟣 How to set it up and get the most out of it
+
+The AI Assistant is part of the JetBrains AI subscription: <a href="https://www.jetbrains.com/ai-ides/buy" rel="nofollow">https://www.jetbrains.com/ai-ides/buy</a>
+ 👉 Learn more: <a href="https://www.jetbrains.com/ai-assistant" rel="nofollow">https://www.jetbrains.com/ai-assistant</a>
+ 👉 More videos in the JetBrains Guide: <a href="https://www.jetbrains.com/guide/ai/" rel="nofollow">https://www.jetbrains.com/guide/ai/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=XJm9slEgRFQ">https://www.youtube.com/watch?v=XJm9slEgRFQ</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_XJm9slEgRFQ</guid>
+      <enclosure url="https://podtube.me/episode/XJm9slEgRFQ.m4a" length="3045600" type="audio/mp4"/>
+      <itunes:duration>03:08</itunes:duration>
+      <pubDate>Mon, 28 Apr 2025 13:41:51 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/XJm9slEgRFQ/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>How Junie Helps You Code Faster with Kotlin in IntelliJ IDEA</title>
+      <description><![CDATA[Junie is a new AI coding agent from JetBrains that helps you skip the routine and focus on the rest. In this video, Sebastian Aigner shows how Junie supports Kotlin developers – from building a full-stack prototype to working inside a large Kotlin Multiplatform project.
+What you'll see Junie do:
+
+🟣 Build and test a Ktor-based backend with a frontend in one prompt
+🟣 Follow custom coding guidelines (like using SQLite with JDBC)
+🟣 Persist data, run and fix tests, and summarize changes
+🟣 Understand and navigate large Kotlin projects
+🟣 Implement missing UI in a real-world KotlinConf app
+🟣 Stay aligned with your architecture and code style
+
+You’re always in control. Junie suggests and applies changes, but you can review and adjust everything.
+
+Junie is part of the JetBrains AI subscription, which includes a free tier and is currently available in IntelliJ IDEA Ultimate, PyCharm Pro, WebStorm, and GoLand. Support for more IDEs is coming soon.
+
+👉 Learn more: <a href="http://jetbrains.com/junie" rel="nofollow">jetbrains.com/junie</a>
+👉 See pricing: <a href="http://jetbrains.com/ai-ides/buy" rel="nofollow">jetbrains.com/ai-ides/buy</a>
+👉 Explore more videos in the JetBrains Guide: <a href="http://www.jetbrains.com/guide/ai/" rel="nofollow">www.jetbrains.com/guide/ai/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=54__1gK2K4U">https://www.youtube.com/watch?v=54__1gK2K4U</a>]]></description>
+      <content:encoded><![CDATA[Junie is a new AI coding agent from JetBrains that helps you skip the routine and focus on the rest. In this video, Sebastian Aigner shows how Junie supports Kotlin developers – from building a full-stack prototype to working inside a large Kotlin Multiplatform project.
+What you'll see Junie do:
+
+🟣 Build and test a Ktor-based backend with a frontend in one prompt
+🟣 Follow custom coding guidelines (like using SQLite with JDBC)
+🟣 Persist data, run and fix tests, and summarize changes
+🟣 Understand and navigate large Kotlin projects
+🟣 Implement missing UI in a real-world KotlinConf app
+🟣 Stay aligned with your architecture and code style
+
+You’re always in control. Junie suggests and applies changes, but you can review and adjust everything.
+
+Junie is part of the JetBrains AI subscription, which includes a free tier and is currently available in IntelliJ IDEA Ultimate, PyCharm Pro, WebStorm, and GoLand. Support for more IDEs is coming soon.
+
+👉 Learn more: <a href="http://jetbrains.com/junie" rel="nofollow">jetbrains.com/junie</a>
+👉 See pricing: <a href="http://jetbrains.com/ai-ides/buy" rel="nofollow">jetbrains.com/ai-ides/buy</a>
+👉 Explore more videos in the JetBrains Guide: <a href="http://www.jetbrains.com/guide/ai/" rel="nofollow">www.jetbrains.com/guide/ai/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=54__1gK2K4U">https://www.youtube.com/watch?v=54__1gK2K4U</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_54__1gK2K4U</guid>
+      <enclosure url="https://podtube.me/episode/54__1gK2K4U.m4a" length="6220800" type="audio/mp4"/>
+      <itunes:duration>06:24</itunes:duration>
+      <pubDate>Tue, 22 Apr 2025 14:42:38 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/54__1gK2K4U/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>Why the Best Teams Make More Mistakes?</title>
+      <description><![CDATA[KotlinConf'25 Tickets - <a href="https://kotlinconf.com/registration/" rel="nofollow">https://kotlinconf.com/registration/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=flOY-yNMeV8">https://www.youtube.com/watch?v=flOY-yNMeV8</a>]]></description>
+      <content:encoded><![CDATA[KotlinConf'25 Tickets - <a href="https://kotlinconf.com/registration/" rel="nofollow">https://kotlinconf.com/registration/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=flOY-yNMeV8">https://www.youtube.com/watch?v=flOY-yNMeV8</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_flOY-yNMeV8</guid>
+      <enclosure url="https://podtube.me/episode/flOY-yNMeV8.m4a" length="1522800" type="audio/mp4"/>
+      <itunes:duration>01:34</itunes:duration>
+      <pubDate>Tue, 08 Apr 2025 15:12:38 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/flOY-yNMeV8/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>What is your opinion?</title>
+      <description><![CDATA[Catch Rod Johnson at KotlinConf 2025 👉 <a href="https://kotlinconf.com/speakers/7d983480-a141-4710-bbf5-4b90c23c9b9b/" rel="nofollow">https://kotlinconf.com/speakers/7d983480-a141-4710-bbf5-4b90c23c9b9b/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=MQuPfZsiVx8">https://www.youtube.com/watch?v=MQuPfZsiVx8</a>]]></description>
+      <content:encoded><![CDATA[Catch Rod Johnson at KotlinConf 2025 👉 <a href="https://kotlinconf.com/speakers/7d983480-a141-4710-bbf5-4b90c23c9b9b/" rel="nofollow">https://kotlinconf.com/speakers/7d983480-a141-4710-bbf5-4b90c23c9b9b/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=MQuPfZsiVx8">https://www.youtube.com/watch?v=MQuPfZsiVx8</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_MQuPfZsiVx8</guid>
+      <enclosure url="https://podtube.me/episode/MQuPfZsiVx8.m4a" length="1296000" type="audio/mp4"/>
+      <itunes:duration>01:20</itunes:duration>
+      <pubDate>Mon, 07 Apr 2025 14:00:20 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/MQuPfZsiVx8/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>No one should be working late</title>
+      <description><![CDATA[KotlinConf'25 Tickets - <a href="https://kotlinconf.com/registration/" rel="nofollow">https://kotlinconf.com/registration/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=GXvTIj0Bp2E">https://www.youtube.com/watch?v=GXvTIj0Bp2E</a>]]></description>
+      <content:encoded><![CDATA[KotlinConf'25 Tickets - <a href="https://kotlinconf.com/registration/" rel="nofollow">https://kotlinconf.com/registration/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=GXvTIj0Bp2E">https://www.youtube.com/watch?v=GXvTIj0Bp2E</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_GXvTIj0Bp2E</guid>
+      <enclosure url="https://podtube.me/episode/GXvTIj0Bp2E.m4a" length="923400" type="audio/mp4"/>
+      <itunes:duration>00:57</itunes:duration>
+      <pubDate>Fri, 04 Apr 2025 14:35:15 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/GXvTIj0Bp2E/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>Using Platform-Specific APIs in KMP Apps</title>
+      <description><![CDATA[Wondering how to use platform-specific APIs in your Kotlin Multiplatform apps, or perhaps confused about the associated best-practices? In this video, we'll discuss the art and science of using the expect/actual mechanism to create great KMP applications.
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=bSNumV04y_w">https://www.youtube.com/watch?v=bSNumV04y_w</a>]]></description>
+      <content:encoded><![CDATA[Wondering how to use platform-specific APIs in your Kotlin Multiplatform apps, or perhaps confused about the associated best-practices? In this video, we'll discuss the art and science of using the expect/actual mechanism to create great KMP applications.
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=bSNumV04y_w">https://www.youtube.com/watch?v=bSNumV04y_w</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_bSNumV04y_w</guid>
+      <enclosure url="https://podtube.me/episode/bSNumV04y_w.m4a" length="12069000" type="audio/mp4"/>
+      <itunes:duration>12:25</itunes:duration>
+      <pubDate>Thu, 03 Apr 2025 14:00:49 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/bSNumV04y_w/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>Creator of Spring: No desire to write Java | Talking Kotlin #138</title>
+      <description><![CDATA[Sebastian and Márton chat with Rod Johnson, the creator of the Spring Framework. Rod tells the story of how Spring was born more than two decades ago, and shares his recent journey of coming back to the JVM and discovering all the fun of being a newcomer to Kotlin.
+
+
+• Expert One-on-One J2EE Design and Development: Rod Johnson – <a href="http://www.amazon.com/Expert-One-One-Design-Development/dp/1861007841" rel="nofollow">http://www.amazon.com/Expert-One-One-Design-Development/dp/1861007841</a>
+• Oh the Places You'll Go! - <a href="https://spring.io/blog/2012/07/03/oh-the-places-you-ll-go" rel="nofollow">https://spring.io/blog/2012/07/03/oh-the-places-you-ll-go</a>
+• Shoulders of Giants: Languages Kotlin Learned From | Andrey Breslav - <a href="https://www.youtube.com/watch?v=7z_K-hTTeqI" rel="nofollow">https://www.youtube.com/watch?v=7z_K-hTTeqI</a>
+• Revamping and Extending Kotlin's Type System | Ross Tate - <a href="https://www.youtube.com/watch?v=3uNpmhHwkuQ" rel="nofollow">https://www.youtube.com/watch?v=3uNpmhHwkuQ</a>
+• Scala in 2018 Keynote | Rod Johnson - <a href="https://www.youtube.com/watch?v=DBu6zmrZ_50" rel="nofollow">https://www.youtube.com/watch?v=DBu6zmrZ_50</a>
+• But Java has pattern matching! | Alejandro Serrano Mena - <a href="https://www.youtube.com/watch?v=yJDoa42X-wQ" rel="nofollow">https://www.youtube.com/watch?v=yJDoa42X-wQ</a>
+• The origins of Spring - <a href="https://spring.io/blog/2012/07/03/oh-the-places-you-ll-go" rel="nofollow">https://spring.io/blog/2012/07/03/oh-the-places-you-ll-go</a>
+• Kotlin type system evolution - <a href="https://www.youtube.com/watch?v=3uNpmhHwkuQ" rel="nofollow">https://www.youtube.com/watch?v=3uNpmhHwkuQ</a>
+
+Hosts:
+Sebastian Aigner
+• Website - <a href="https://sebi.io/" rel="nofollow">https://sebi.io/</a>
+•Bluesky - https://bsky.app/profile/<a href="http://sebi.io" rel="nofollow">sebi.io</a>
+
+Márton Braun
+• Website - <a href="https://zsmb.co" rel="nofollow">https://zsmb.co</a>
+• Bluesky - https://bsky.app/profile/<a href="http://zsmb.co" rel="nofollow">zsmb.co</a>
+
+Guest: Rod Johnson
+• Twitter - <a href="https://x.com/springrod" rel="nofollow">https://x.com/springrod</a>
+• LinkedIn - <a href="https://www.linkedin.com/in/johnsonroda/" rel="nofollow">https://www.linkedin.com/in/johnsonroda/</a>
+
+00:00 Intro
+00:52 The origins of Spring
+06:40 You need a business model
+08:21 Consistency is key
+09:39 Sustainable open source
+14:22 Parallels with JetBrains and Kotlin
+15:29 Rod’s journey around the JVM
+20:48 Shoulders of giants
+22:34 The newcomer experience
+24:40 LLMs write great Kotlin
+30:34 “You can start without great pain”
+33:32: Extension functions
+36:15 Too much magic?
+37:56 Rod’s feature wishlist
+39:37 Versioning and compatibility
+41:19 Ecosystems and interop
+43:34 Kotlin type system evolution
+46:27 Kotlin with Spring
+52:24 Learning Spring with Kotlin
+54:46 Kotlin in 5 years?
+1:00:39 Rod’s current work
+1:03:58 Wrap-up
+
+#kotlin #spring #java
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=Rx3XZoqbi78">https://www.youtube.com/watch?v=Rx3XZoqbi78</a>]]></description>
+      <content:encoded><![CDATA[Sebastian and Márton chat with Rod Johnson, the creator of the Spring Framework. Rod tells the story of how Spring was born more than two decades ago, and shares his recent journey of coming back to the JVM and discovering all the fun of being a newcomer to Kotlin.
+
+
+• Expert One-on-One J2EE Design and Development: Rod Johnson – <a href="http://www.amazon.com/Expert-One-One-Design-Development/dp/1861007841" rel="nofollow">http://www.amazon.com/Expert-One-One-Design-Development/dp/1861007841</a>
+• Oh the Places You'll Go! - <a href="https://spring.io/blog/2012/07/03/oh-the-places-you-ll-go" rel="nofollow">https://spring.io/blog/2012/07/03/oh-the-places-you-ll-go</a>
+• Shoulders of Giants: Languages Kotlin Learned From | Andrey Breslav - <a href="https://www.youtube.com/watch?v=7z_K-hTTeqI" rel="nofollow">https://www.youtube.com/watch?v=7z_K-hTTeqI</a>
+• Revamping and Extending Kotlin's Type System | Ross Tate - <a href="https://www.youtube.com/watch?v=3uNpmhHwkuQ" rel="nofollow">https://www.youtube.com/watch?v=3uNpmhHwkuQ</a>
+• Scala in 2018 Keynote | Rod Johnson - <a href="https://www.youtube.com/watch?v=DBu6zmrZ_50" rel="nofollow">https://www.youtube.com/watch?v=DBu6zmrZ_50</a>
+• But Java has pattern matching! | Alejandro Serrano Mena - <a href="https://www.youtube.com/watch?v=yJDoa42X-wQ" rel="nofollow">https://www.youtube.com/watch?v=yJDoa42X-wQ</a>
+• The origins of Spring - <a href="https://spring.io/blog/2012/07/03/oh-the-places-you-ll-go" rel="nofollow">https://spring.io/blog/2012/07/03/oh-the-places-you-ll-go</a>
+• Kotlin type system evolution - <a href="https://www.youtube.com/watch?v=3uNpmhHwkuQ" rel="nofollow">https://www.youtube.com/watch?v=3uNpmhHwkuQ</a>
+
+Hosts:
+Sebastian Aigner
+• Website - <a href="https://sebi.io/" rel="nofollow">https://sebi.io/</a>
+•Bluesky - https://bsky.app/profile/<a href="http://sebi.io" rel="nofollow">sebi.io</a>
+
+Márton Braun
+• Website - <a href="https://zsmb.co" rel="nofollow">https://zsmb.co</a>
+• Bluesky - https://bsky.app/profile/<a href="http://zsmb.co" rel="nofollow">zsmb.co</a>
+
+Guest: Rod Johnson
+• Twitter - <a href="https://x.com/springrod" rel="nofollow">https://x.com/springrod</a>
+• LinkedIn - <a href="https://www.linkedin.com/in/johnsonroda/" rel="nofollow">https://www.linkedin.com/in/johnsonroda/</a>
+
+00:00 Intro
+00:52 The origins of Spring
+06:40 You need a business model
+08:21 Consistency is key
+09:39 Sustainable open source
+14:22 Parallels with JetBrains and Kotlin
+15:29 Rod’s journey around the JVM
+20:48 Shoulders of giants
+22:34 The newcomer experience
+24:40 LLMs write great Kotlin
+30:34 “You can start without great pain”
+33:32: Extension functions
+36:15 Too much magic?
+37:56 Rod’s feature wishlist
+39:37 Versioning and compatibility
+41:19 Ecosystems and interop
+43:34 Kotlin type system evolution
+46:27 Kotlin with Spring
+52:24 Learning Spring with Kotlin
+54:46 Kotlin in 5 years?
+1:00:39 Rod’s current work
+1:03:58 Wrap-up
+
+#kotlin #spring #java
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=Rx3XZoqbi78">https://www.youtube.com/watch?v=Rx3XZoqbi78</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_Rx3XZoqbi78</guid>
+      <enclosure url="https://podtube.me/episode/Rx3XZoqbi78.m4a" length="63293400" type="audio/mp4"/>
+      <itunes:duration>01:05:07</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 16:00:44 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/Rx3XZoqbi78/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>Hacking GTA with Kotlin</title>
+      <description><![CDATA[Watch the full talk here – <a href="https://www.youtube.com/watch?v=lwFNdphmZbE" rel="nofollow">https://www.youtube.com/watch?v=lwFNdphmZbE</a>
+
+KotlinConf'25 – <a href="https://kotlinconf.com/" rel="nofollow">https://kotlinconf.com/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=FxmHnluGRPc">https://www.youtube.com/watch?v=FxmHnluGRPc</a>]]></description>
+      <content:encoded><![CDATA[Watch the full talk here – <a href="https://www.youtube.com/watch?v=lwFNdphmZbE" rel="nofollow">https://www.youtube.com/watch?v=lwFNdphmZbE</a>
+
+KotlinConf'25 – <a href="https://kotlinconf.com/" rel="nofollow">https://kotlinconf.com/</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=FxmHnluGRPc">https://www.youtube.com/watch?v=FxmHnluGRPc</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_FxmHnluGRPc</guid>
+      <enclosure url="https://podtube.me/episode/FxmHnluGRPc.m4a" length="1150200" type="audio/mp4"/>
+      <itunes:duration>01:11</itunes:duration>
+      <pubDate>Wed, 26 Mar 2025 15:00:19 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/FxmHnluGRPc/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>Junie writes a Kotlin/Ktor API implementation all by itself!</title>
+      <description><![CDATA[We delegate some mechanical tasks some of the more mechanical tasks when working with Kotlin and Ktor to Junie. Later, we implement a basic version of an MCP using the official SDK for Kotlin. Watch the full video to see how we use the MCP inspector to explore and debug our application, and finally integrate the Kotlin Gradle application with Claude Desktop by setting up the final configuration.
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=UzNWBv-yAb8">https://www.youtube.com/watch?v=UzNWBv-yAb8</a>]]></description>
+      <content:encoded><![CDATA[We delegate some mechanical tasks some of the more mechanical tasks when working with Kotlin and Ktor to Junie. Later, we implement a basic version of an MCP using the official SDK for Kotlin. Watch the full video to see how we use the MCP inspector to explore and debug our application, and finally integrate the Kotlin Gradle application with Claude Desktop by setting up the final configuration.
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=UzNWBv-yAb8">https://www.youtube.com/watch?v=UzNWBv-yAb8</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_UzNWBv-yAb8</guid>
+      <enclosure url="https://podtube.me/episode/UzNWBv-yAb8.m4a" length="923400" type="audio/mp4"/>
+      <itunes:duration>00:57</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 14:43:11 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/UzNWBv-yAb8/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <title>Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights!</title>
+      <description><![CDATA[Less than two months until KotlinConf 2025! 💜 Get ready for insightful sessions and great networking opportunities. We still have a few tickets left — can’t wait to see you in Copenhagen! 🎟️ <a href="https://kotl.in/kcnf2025" rel="nofollow">https://kotl.in/kcnf2025</a>
+
+The Model Context Protocol Kotlin SDK (<a href="https://github.com/modelcontextprotocol/kotlin-sdk" rel="nofollow">https://github.com/modelcontextprotocol/kotlin-sdk</a>) makes it easy for you to build integrations between LLM clients like Claude Desktop and your own applications, whether that's software or hardware! Let's see it in practice: Join Sebastian Aigner building an integration between Hue Smart Lights and Claude Desktop, powered entirely by Kotlin. We walk through defining our interfaces, delegating some of the more mechanical tasks when working with Ktor to Junie, and then implement a basic version of an MCP using the official SDK for Kotlin. We use the MCP inspector to explore and debug our application, and finally integrate the Kotlin Gradle application with Claude Desktop by setting up the final configuration. In the end, we have a self-sufficient MCP server that can control smart lights with natural language!
+
+Junie, the coding agent by JetBrains: <a href="https://www.jetbrains.com/junie/" rel="nofollow">https://www.jetbrains.com/junie/</a>
+
+MCP Server Plugin for JetBrains IDEs: <a href="https://plugins.jetbrains.com/plugin/26071-mcp-server" rel="nofollow">https://plugins.jetbrains.com/plugin/26071-mcp-server</a>
+
+MCP inspector: <a href="https://github.com/modelcontextprotocol/inspector" rel="nofollow">https://github.com/modelcontextprotocol/inspector</a>
+
+Find the project code on GitHub: <a href="https://github.com/SebastianAigner/kotlin-mcp-hue-light-sample" rel="nofollow">https://github.com/SebastianAigner/kotlin-mcp-hue-light-sample</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=jwevCa96Z4Q">https://www.youtube.com/watch?v=jwevCa96Z4Q</a>]]></description>
+      <content:encoded><![CDATA[Less than two months until KotlinConf 2025! 💜 Get ready for insightful sessions and great networking opportunities. We still have a few tickets left — can’t wait to see you in Copenhagen! 🎟️ <a href="https://kotl.in/kcnf2025" rel="nofollow">https://kotl.in/kcnf2025</a>
+
+The Model Context Protocol Kotlin SDK (<a href="https://github.com/modelcontextprotocol/kotlin-sdk" rel="nofollow">https://github.com/modelcontextprotocol/kotlin-sdk</a>) makes it easy for you to build integrations between LLM clients like Claude Desktop and your own applications, whether that's software or hardware! Let's see it in practice: Join Sebastian Aigner building an integration between Hue Smart Lights and Claude Desktop, powered entirely by Kotlin. We walk through defining our interfaces, delegating some of the more mechanical tasks when working with Ktor to Junie, and then implement a basic version of an MCP using the official SDK for Kotlin. We use the MCP inspector to explore and debug our application, and finally integrate the Kotlin Gradle application with Claude Desktop by setting up the final configuration. In the end, we have a self-sufficient MCP server that can control smart lights with natural language!
+
+Junie, the coding agent by JetBrains: <a href="https://www.jetbrains.com/junie/" rel="nofollow">https://www.jetbrains.com/junie/</a>
+
+MCP Server Plugin for JetBrains IDEs: <a href="https://plugins.jetbrains.com/plugin/26071-mcp-server" rel="nofollow">https://plugins.jetbrains.com/plugin/26071-mcp-server</a>
+
+MCP inspector: <a href="https://github.com/modelcontextprotocol/inspector" rel="nofollow">https://github.com/modelcontextprotocol/inspector</a>
+
+Find the project code on GitHub: <a href="https://github.com/SebastianAigner/kotlin-mcp-hue-light-sample" rel="nofollow">https://github.com/SebastianAigner/kotlin-mcp-hue-light-sample</a>
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=jwevCa96Z4Q">https://www.youtube.com/watch?v=jwevCa96Z4Q</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_jwevCa96Z4Q</guid>
+      <enclosure url="https://podtube.me/episode/jwevCa96Z4Q.m4a" length="22258800" type="audio/mp4"/>
+      <itunes:duration>22:54</itunes:duration>
+      <pubDate>Wed, 19 Mar 2025 12:05:25 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/jwevCa96Z4Q/maxresdefault.jpg"/>
+    </item>
+  </channel>
+</rss>

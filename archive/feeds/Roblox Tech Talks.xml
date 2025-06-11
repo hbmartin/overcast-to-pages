@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/techtalkspodcast" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>Roblox Tech Talks </title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/techtalkspodcast</itunes:new-feed-url>
+    <description>Discover the people, ideas, and technological breakthroughs that are shaping the next iteration of human co-experience. Featuring a diverse cross-section of guest speakers from Roblox’s product and engineering teams, we’ll discuss how we got to where we are today, the road ahead, and the lessons we’ve learned along the way. Hosted by David Baszucki, founder and CEO of Roblox.
+</description>
+    <copyright>© 2025 Roblox Corporation. All Rights Reserved. </copyright>
+    <podcast:guid>5bee4b0d-8f49-5ccd-8ffc-eb3b08781c8d</podcast:guid>
+    <podcast:locked owner="techtalks@roblox.com">yes</podcast:locked>
+    <language>en</language>
+    <pubDate>Fri, 30 May 2025 12:58:32 -0700</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 12:59:04 -0700</lastBuildDate>
+    <link>http://www.robloxtechtalks.com </link>
+    <image>
+      <url>https://img.transistor.fm/guoFJhUe1ZkIxumHoshkzNxfNE3nUUX4R8IbO7AZyr0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NDgz/M2E3N2FkNDE0NWY2/NmY0YmRlMThmM2Iz/NjkwYi5wbmc.jpg</url>
+      <title>Roblox Tech Talks </title>
+      <link>http://www.robloxtechtalks.com </link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Roblox </itunes:author>
+    <itunes:image href="https://img.transistor.fm/guoFJhUe1ZkIxumHoshkzNxfNE3nUUX4R8IbO7AZyr0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NDgz/M2E3N2FkNDE0NWY2/NmY0YmRlMThmM2Iz/NjkwYi5wbmc.jpg"/>
+    <itunes:summary>Discover the people, ideas, and technological breakthroughs that are shaping the next iteration of human co-experience. Featuring a diverse cross-section of guest speakers from Roblox’s product and engineering teams, we’ll discuss how we got to where we are today, the road ahead, and the lessons we’ve learned along the way. Hosted by David Baszucki, founder and CEO of Roblox.
+</itunes:summary>
+    <itunes:subtitle>Discover the people, ideas, and technological breakthroughs that are shaping the next iteration of human co-experience.</itunes:subtitle>
+    <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Roblox </itunes:name>
+      <itunes:email>techtalks@roblox.com</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>The Roblox Engine</title>
+      <itunes:episode>26</itunes:episode>
+      <podcast:episode>26</podcast:episode>
+      <itunes:title>The Roblox Engine</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">159bf8d1-0994-47bd-8b8f-282f2541c7bc</guid>
+      <link>https://share.transistor.fm/s/b8b0d0c5</link>
+      <description>
+        <![CDATA[<p>In this episode of Tech Talks, CEO David Baszucki is joined by George ElKoura and Taylor Russ for an in depth look into the Roblox engine. They explore what it takes to simulate reality at scale, from building a generalized simulation system to delivering high-performance experiences across every device. They discuss breakthroughs in memory management, parallel computing, dynamic asset streaming, server authority for competitive play, and how Roblox is pushing toward a future of instant join, photorealism, and limitless scale.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of Tech Talks, CEO David Baszucki is joined by George ElKoura and Taylor Russ for an in depth look into the Roblox engine. They explore what it takes to simulate reality at scale, from building a generalized simulation system to delivering high-performance experiences across every device. They discuss breakthroughs in memory management, parallel computing, dynamic asset streaming, server authority for competitive play, and how Roblox is pushing toward a future of instant join, photorealism, and limitless scale.</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 29 May 2025 12:39:18 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/b8b0d0c5/1bd87a7b.mp3" length="37276223" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/G5_bXLkEs1IzKsErEN9n54Zp36wz5syEhVqAPCCSdKA/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ODJl/MGRjNjBhYTMwOWVi/YmMyYWMxYWJkZjQ5/ODJhMS5wbmc.jpg"/>
+      <itunes:duration>2327</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of Tech Talks, CEO David Baszucki is joined by George ElKoura and Taylor Russ for an in depth look into the Roblox engine. They explore what it takes to simulate reality at scale, from building a generalized simulation system to delivering high-performance experiences across every device. They discuss breakthroughs in memory management, parallel computing, dynamic asset streaming, server authority for competitive play, and how Roblox is pushing toward a future of instant join, photorealism, and limitless scale.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Roblox Engine, Reality Simulation, Generalized Simulation, Performance and Scale, Instant Join, Cross-platform Support, Photorealism, Server Authority, Memory Allocator, Memory Fragmentation, Parallelism, Core Saturation, Multithreaded Simulation, Luau Scripting, Digital Matter, Distributed Physics, Extrapolation, Predictive Streaming, Level of Detail (LOD), Transcoding Pipeline, Cloud Architecture, Cross-device Compatibility, Same Build, Every Device, Android Optimization, Low-end Device Support, Avatar Optimization, Orchestrator, Local vs. Server Simulation, Asset Downsampling / Upsampling, Dynamic Scaling</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/b8b0d0c5/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Discovery </title>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:title>Discovery </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">25d4c7f5-dd7b-434f-8afc-aab004ed7dc4</guid>
+      <link>https://share.transistor.fm/s/846f32d8</link>
+      <description>
+        <![CDATA[<p>In this episode of <em>Tech Talks</em>, CEO David Baszucki is joined by Chen Zheng and Michelle Gong to explore the evolving world of search, recommendations, and personalization on Roblox. They discuss the complexities of discovery across different platforms, how Roblox is optimizing for long-term user and creator satisfaction, and the role of transparency, cold start challenges, and AI in shaping the future of engagement.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of <em>Tech Talks</em>, CEO David Baszucki is joined by Chen Zheng and Michelle Gong to explore the evolving world of search, recommendations, and personalization on Roblox. They discuss the complexities of discovery across different platforms, how Roblox is optimizing for long-term user and creator satisfaction, and the role of transparency, cold start challenges, and AI in shaping the future of engagement.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 16 Apr 2025 09:37:30 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/846f32d8/6f779f51.mp3" length="51401912" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/99k8dnY4ZX_KP6V34xfIF68gmN5-CG7L4B1gik14_k4/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YzE5/N2IzZTkyMzJlMzQz/MDYyY2Y4YmIxNGRl/ZTdmNS5wbmc.jpg"/>
+      <itunes:duration>3210</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of <em>Tech Talks</em>, CEO David Baszucki is joined by Chen Zheng and Michelle Gong to explore the evolving world of search, recommendations, and personalization on Roblox. They discuss the complexities of discovery across different platforms, how Roblox is optimizing for long-term user and creator satisfaction, and the role of transparency, cold start challenges, and AI in shaping the future of engagement.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Discovery, Roblox, search, recommendations, user engagement, content understanding, personalization, cold start, transparency, creator collaboration, AI integration, live ops, user retention, algorithm optimization, 3D experiences</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>AI in Game Development </title>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:title>AI in Game Development </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4e6098ef-f63e-4197-b896-a68b24e91b78</guid>
+      <link>https://share.transistor.fm/s/4c854b87</link>
+      <description>
+        <![CDATA[<p>In this episode of Tech Talks, CEO David Baszucki is joined by Kiran Bhat and Nishchaie Khanna to discuss the rapid evolution of AI and its impact on game development. They explore the journey from classical AI to today’s generative AI, the challenges of 3D object generation, and how AI is shaping the future of interactive experiences. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of Tech Talks, CEO David Baszucki is joined by Kiran Bhat and Nishchaie Khanna to discuss the rapid evolution of AI and its impact on game development. They explore the journey from classical AI to today’s generative AI, the challenges of 3D object generation, and how AI is shaping the future of interactive experiences. </p>]]>
+      </content:encoded>
+      <pubDate>Wed, 19 Mar 2025 14:55:51 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/4c854b87/a9afa23e.mp3" length="77186496" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/eNEll94lNdM23D6nbUfy6bB5KCubap88r8OU9wWcpaI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZGU5/MTRlMjZlNGZiZmEz/ZjE4MTZjNTgzYmY0/MjI0NC5wbmc.jpg"/>
+      <itunes:duration>2932</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of Tech Talks, CEO David Baszucki is joined by Kiran Bhat and Nishchaie Khanna to discuss the rapid evolution of AI and its impact on game development. They explore the journey from classical AI to today’s generative AI, the challenges of 3D object generation, and how AI is shaping the future of interactive experiences. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>AI in game development, Roblox, generative AI, 3D objects, text generation, image generation, voice moderation, digital twins, open source, multimodal AI, computer vision, neural networks, AI safety, creative tools, AI innovation.</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Culture of Innovation</title>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:title>Culture of Innovation</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3133ac7e-9681-4fd6-aed9-a1a969e1b121</guid>
+      <link>https://share.transistor.fm/s/7f7f052c</link>
+      <description>
+        <![CDATA[<p>In this episode of Tech Talks, Chief People &amp; Systems Officer Arvind KC and Chief Information Officer Shobhana (Shobz) Ahluwalia join CEO David Baszucki to discuss the tech that forms the platform for how we work, the human element that sits on top of it, and how those things help us create a culture of innovation and bring our mission and vision to life.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of Tech Talks, Chief People &amp; Systems Officer Arvind KC and Chief Information Officer Shobhana (Shobz) Ahluwalia join CEO David Baszucki to discuss the tech that forms the platform for how we work, the human element that sits on top of it, and how those things help us create a culture of innovation and bring our mission and vision to life.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 14 May 2024 20:33:17 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/7f7f052c/06c986bd.mp3" length="42214439" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/tlehVse-PZRuHIxFe_cZvzkVUQoD3KREurcX52OJV9E/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wOWI4/MmVmYjBjOWEwZDAx/YWViYWJhMWZhZGEx/Njg1NS5wbmc.jpg"/>
+      <itunes:duration>2636</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of Tech Talks, Chief People &amp; Systems Officer Arvind KC and Chief Information Officer Shobhana (Shobz) Ahluwalia join CEO David Baszucki to discuss the tech that forms the platform for how we work, the human element that sits on top of it, and how those things help us create a culture of innovation and bring our mission and vision to life.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Information Security </title>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:title>Information Security </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d692da33-66ee-49be-9645-4caf80cd686e</guid>
+      <link>https://share.transistor.fm/s/5b72827e</link>
+      <description>
+        <![CDATA[<p>VP &amp; Chief Information Security Officer Brooks Evans joins CEO David Baszucki to share how we’re keeping our platform, our users, and our economy safe. They’ll discuss the history of information security on Roblox, some of the most interesting attacks that have happened worldwide, and how the industry will evolve in the future.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>VP &amp; Chief Information Security Officer Brooks Evans joins CEO David Baszucki to share how we’re keeping our platform, our users, and our economy safe. They’ll discuss the history of information security on Roblox, some of the most interesting attacks that have happened worldwide, and how the industry will evolve in the future.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 08 Mar 2024 07:55:19 -0800</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/5b72827e/86385a5d.mp3" length="37064201" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/EvAIMIuN0PptGkD7OFPK9XK6CAkjYdFRhHiSz0DeGJU/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNTg4/ZTdhNDFiZjBmNDhm/NzdkYThiY2FjMzRj/ZWY0ZC5wbmc.jpg"/>
+      <itunes:duration>1851</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>VP &amp; Chief Information Security Officer Brooks Evans joins CEO David Baszucki to share how we’re keeping our platform, our users, and our economy safe. They’ll discuss the history of information security on Roblox, some of the most interesting attacks that have happened worldwide, and how the industry will evolve in the future.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Public Policy</title>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>Public Policy</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1778f40b-7534-4c68-bdaa-f8fd43c06af4</guid>
+      <link>https://share.transistor.fm/s/db795f89</link>
+      <description>
+        <![CDATA[<p>Head of Public Policy Nicky Jackson Colaco joins CEO David Baszucki to discuss our approach to policy at Roblox, the communities we serve with that approach, and the symbiotic relationship between technical innovation, our vision, and our public policy strategy.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Head of Public Policy Nicky Jackson Colaco joins CEO David Baszucki to discuss our approach to policy at Roblox, the communities we serve with that approach, and the symbiotic relationship between technical innovation, our vision, and our public policy strategy.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 19 Dec 2023 13:05:20 -0800</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/db795f89/77c3e7a3.mp3" length="38014725" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/FG014fqSbxL3H8MlnwtYwckzFdbbsm1aaBBq2MpscN8/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MmVk/YzFhMjA2MjczODFl/N2YyZGM0YTdkYWE2/YmI5Zi5wbmc.jpg"/>
+      <itunes:duration>1899</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Head of Public Policy Nicky Jackson Colaco joins CEO David Baszucki to discuss our approach to policy at Roblox, the communities we serve with that approach, and the symbiotic relationship between technical innovation, our vision, and our public policy strategy.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Evolution of Roblox Avatars</title>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:title>The Evolution of Roblox Avatars</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">15d6414a-4aa8-4a2b-8e53-1edd56114aeb</guid>
+      <link>https://share.transistor.fm/s/59462e01</link>
+      <description>
+        <![CDATA[<p>Senior Director of Engineering Kiran Bhat, Senior Director of Product Mahesh Ramasubramanian, and Principal Product Manager Effie Goenawan join CEO David Baszucki for a look into the future of immersive communication through avatars and the technical challenges we’re solving to power it. They’ll discuss in depth how expressive avatars not only allow us to express ourselves digitally, but also communicate more immersively through voice, facial expressions, and body language.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Senior Director of Engineering Kiran Bhat, Senior Director of Product Mahesh Ramasubramanian, and Principal Product Manager Effie Goenawan join CEO David Baszucki for a look into the future of immersive communication through avatars and the technical challenges we’re solving to power it. They’ll discuss in depth how expressive avatars not only allow us to express ourselves digitally, but also communicate more immersively through voice, facial expressions, and body language.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 12 Dec 2023 10:29:49 -0800</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/59462e01/67426a74.mp3" length="63849897" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/MZ9cXs0a-4PJbQbQ8JD5O9g8vAv3Ak8nEKuyumnnSQk/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Mzc2/MTlkNzRjNzU3ZjY3/Mjc1ZGFiZDEzN2Ji/OTBkNC5wbmc.jpg"/>
+      <itunes:duration>2627</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Senior Director of Engineering Kiran Bhat, Senior Director of Product Mahesh Ramasubramanian, and Principal Product Manager Effie Goenawan join CEO David Baszucki for a look into the future of immersive communication through avatars and the technical challenges we’re solving to power it. They’ll discuss in depth how expressive avatars not only allow us to express ourselves digitally, but also communicate more immersively through voice, facial expressions, and body language.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>International</title>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <itunes:title>International</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">305c4e3d-c225-45c3-b659-ac56a6556d3d</guid>
+      <link>https://share.transistor.fm/s/ad09e3a6</link>
+      <description>
+        <![CDATA[<p>Head of International Zhen Fang joins CEO David Baszucki to discuss how we’re working to deliver a truly localized experience to every Roblox user around the world. From language translation to payment options to culturally relevant content, they’ll explore how our platform is adapting to our increasingly international community.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Head of International Zhen Fang joins CEO David Baszucki to discuss how we’re working to deliver a truly localized experience to every Roblox user around the world. From language translation to payment options to culturally relevant content, they’ll explore how our platform is adapting to our increasingly international community.</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 26 Oct 2023 10:16:52 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/ad09e3a6/5a5e3801.mp3" length="47893637" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/tcGNU5l6HvhsAqK-s4WLewkUsHyIryqVulRe7qIpaL0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZTRj/NTNiY2NmNjM5YWY2/MjBhMzk5ZjRmOTI1/MzcyNi5wbmc.jpg"/>
+      <itunes:duration>2393</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Head of International Zhen Fang joins CEO David Baszucki to discuss how we’re working to deliver a truly localized experience to every Roblox user around the world. From language translation to payment options to culturally relevant content, they’ll explore how our platform is adapting to our increasingly international community.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Active/Active and Data Storage</title>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:title>Active/Active and Data Storage</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0bc10287-e466-4ca1-9391-59ee377ef99f</guid>
+      <link>https://share.transistor.fm/s/e5abeb14</link>
+      <description>
+        <![CDATA[<p>Principal Software Engineer Jan Berktold joins CEO David Baszucki to discuss how we’re ensuring our infrastructure is fast and reliable all around the world. They’ll explore our vision for active/active architecture and the challenges we’re solving to enhance our data storage platform. </p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Principal Software Engineer Jan Berktold joins CEO David Baszucki to discuss how we’re ensuring our infrastructure is fast and reliable all around the world. They’ll explore our vision for active/active architecture and the challenges we’re solving to enhance our data storage platform. </p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Thu, 14 Sep 2023 14:28:12 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/e5abeb14/d855450f.mp3" length="34592043" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/cMiCDMoBbKZ6mWAxxe9eWX3FY8kjFjaUmmoF4ylSfpA/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wOTVi/YjVhOWQwYWM5Yzcz/M2JjY2M1YjhiOTdl/NDA2OC5wbmc.jpg"/>
+      <itunes:duration>1727</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Principal Software Engineer Jan Berktold joins CEO David Baszucki to discuss how we’re ensuring our infrastructure is fast and reliable all around the world. They’ll explore our vision for active/active architecture and the challenges we’re solving to enhance our data storage platform. </p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Growth Engineering</title>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:title>Growth Engineering</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">700d217d-9072-4ec6-8017-e720ef94e3a7</guid>
+      <link>https://share.transistor.fm/s/39ce510f</link>
+      <description>
+        <![CDATA[<p>Anupam Singh, our VP of Engineering for the Growth team, joins CEO Dave Baszucki to talk about the technical challenges we’re solving to enhance search and discovery for hundreds of millions of creators and users. They’ll explore how our approach to growth has developed in accordance with our values to deliver the best possible experience for our community.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Anupam Singh, our VP of Engineering for the Growth team, joins CEO Dave Baszucki to talk about the technical challenges we’re solving to enhance search and discovery for hundreds of millions of creators and users. They’ll explore how our approach to growth has developed in accordance with our values to deliver the best possible experience for our community.</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 29 Jun 2023 14:01:57 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/39ce510f/7eca33ff.mp3" length="85294909" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/v6MrLlTr3TQMmyVUOCFvww6LYVnjukfwEur_Ksqo-OA/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNWM3/MWM0YWYyN2QxYjFl/M2QyYzc0NmEwNzc0/YzdiYy5wbmc.jpg"/>
+      <itunes:duration>2132</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Anupam Singh, our VP of Engineering for the Growth team, joins CEO Dave Baszucki to talk about the technical challenges we’re solving to enhance search and discovery for hundreds of millions of creators and users. They’ll explore how our approach to growth has developed in accordance with our values to deliver the best possible experience for our community.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/39ce510f/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Safety &amp; Civility Vision</title>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:title>Safety &amp; Civility Vision</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">43ba1e93-192e-4b98-b432-049f69cc557e</guid>
+      <link>https://share.transistor.fm/s/8ede10c4</link>
+      <description>
+        <![CDATA[<p>Matt Kaufman, Roblox’s Chief Safety Officer, and Naren Koneru, VP of Trust &amp; Safety Engineering, join CEO Dave Baszucki to discuss our approach to safety and civility on the platform. Together they’ll explore the technical challenges that come along with keeping virtual environments safe at scale, our vision for civil online communities, and how we’re working to serve the needs of each individual who uses Roblox.</p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Matt Kaufman, Roblox’s Chief Safety Officer, and Naren Koneru, VP of Trust &amp; Safety Engineering, join CEO Dave Baszucki to discuss our approach to safety and civility on the platform. Together they’ll explore the technical challenges that come along with keeping virtual environments safe at scale, our vision for civil online communities, and how we’re working to serve the needs of each individual who uses Roblox.</p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Mon, 05 Jun 2023 13:24:22 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/8ede10c4/ae6c77f2.mp3" length="91443600" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/VrdDoBkp72jES_6hOHuDYCWe6qH8cjLLSd4ZQCDjGfc/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZGY3/YTJhM2FlYzc1NWY2/MDkyYWQ1MDBjNDhi/OGZiMS5wbmc.jpg"/>
+      <itunes:duration>2285</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Matt Kaufman, Roblox’s Chief Safety Officer, and Naren Koneru, VP of Trust &amp; Safety Engineering, join CEO Dave Baszucki to discuss our approach to safety and civility on the platform. Together they’ll explore the technical challenges that come along with keeping virtual environments safe at scale, our vision for civil online communities, and how we’re working to serve the needs of each individual who uses Roblox.</p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Education &amp; Verticalization</title>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:title>Education &amp; Verticalization</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dc0ed2e3-cf36-400f-903c-da3282ddcc2d</guid>
+      <link>https://share.transistor.fm/s/3f06ea6d</link>
+      <description>
+        <![CDATA[<p>Vice President of Education Partnerships Rebecca Kantar joins CEO Dave Baszucki to talk about the future of verticalization on Roblox, with a deep dive on our education vertical. They’ll start out by discussing Rebecca’s past experience starting a company called Imbellus, then discuss our overall plans around verticalization and our vision of evolving education on Roblox to better serve students and educators.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Vice President of Education Partnerships Rebecca Kantar joins CEO Dave Baszucki to talk about the future of verticalization on Roblox, with a deep dive on our education vertical. They’ll start out by discussing Rebecca’s past experience starting a company called Imbellus, then discuss our overall plans around verticalization and our vision of evolving education on Roblox to better serve students and educators.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Apr 2023 09:36:02 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/3f06ea6d/71f565f8.mp3" length="52362236" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/YlstNp3stzbMSZHlYm-e2KfXIsV7TZCxOyDhcFq0rL4/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NDc3/YzA0ZWUzOWYyMmE2/MmE0NzBhOTk0NWFl/NmNlMS5wbmc.jpg"/>
+      <itunes:duration>2616</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Vice President of Education Partnerships Rebecca Kantar joins CEO Dave Baszucki to talk about the future of verticalization on Roblox, with a deep dive on our education vertical. They’ll start out by discussing Rebecca’s past experience starting a company called Imbellus, then discuss our overall plans around verticalization and our vision of evolving education on Roblox to better serve students and educators.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>roblox, assessment, building, students, education, robotics, educational, learning, early, context, platform, digital, multiplayer, systems, people, vision, educators, technology, skills, environment</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Economy </title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>Economy </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6dfe980f-7d1d-440a-a9bd-fd0f9069659d</guid>
+      <link>https://share.transistor.fm/s/92bf22bb</link>
+      <description>
+        <![CDATA[<p>VP of Product, Economy Enrico D’Angelo joins CEO Dave Baszucki to discuss their vision for the Roblox economy. In this episode, they’ll discuss how virtual economies can mirror the real world, the opportunities ahead for Roblox, and some of the technical challenges we’ll need to solve to get there.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>VP of Product, Economy Enrico D’Angelo joins CEO Dave Baszucki to discuss their vision for the Roblox economy. In this episode, they’ll discuss how virtual economies can mirror the real world, the opportunities ahead for Roblox, and some of the technical challenges we’ll need to solve to get there.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 29 Mar 2023 09:29:39 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/92bf22bb/2d982b6b.mp3" length="49003009" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/hFgpuQaoXJ_W4hnzv80X65N5dVaqiLjMLvFQD_c7nRs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80Mzkw/Y2M0ZjAxMWFkNDU1/ODg2NTdmNzlmOTE5/MGE1YS5wbmc.jpg"/>
+      <itunes:duration>2448</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>VP of Product, Economy Enrico D’Angelo joins CEO Dave Baszucki to discuss their vision for the Roblox economy. In this episode, they’ll discuss how virtual economies can mirror the real world, the opportunities ahead for Roblox, and some of the technical challenges we’ll need to solve to get there.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>roblox, economy, items, creators, users, platform, people, creation, ad, create, build, system, scale, experience, world, real, scarcity, big, payments, 3d</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Communication </title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>Communication </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">bc2b0646-ff32-47ef-ad12-4bd6d7bb309b</guid>
+      <link>https://share.transistor.fm/s/cf9e03a3</link>
+      <description>
+        <![CDATA[<p>Senior Director of Product for the Social Team, Garima Sinha, joins CEO Dave Baszucki to talk about the future of communication on Roblox. In this episode, they’ll discuss how we’ve been working to make communication more natural and expressive on the platform – including avatar facial animation, spatial audio, and more.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Senior Director of Product for the Social Team, Garima Sinha, joins CEO Dave Baszucki to talk about the future of communication on Roblox. In this episode, they’ll discuss how we’ve been working to make communication more natural and expressive on the platform – including avatar facial animation, spatial audio, and more.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 06 Feb 2023 09:03:00 -0800</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/cf9e03a3/9730ab4d.mp3" length="46883527" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/ysPgwFsUUsfA9ls5vqcnp__2oTSU-iGoWeZNwTIdb_M/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YTJj/NDAzNzE0NTZlNGI2/NjgxZjk0YTQ3NWZh/ODc0ZS5wbmc.jpg"/>
+      <itunes:duration>2342</itunes:duration>
+      <itunes:summary>Senior Director of Product for the Social Team, Garima Sinha, joins CEO Dave Baszucki to talk about the future of communication on Roblox. In this episode, they’ll discuss how we’ve been working to make communication more natural and expressive on the platform – including avatar facial animation, spatial audio, and more.</itunes:summary>
+      <itunes:subtitle>Senior Director of Product for the Social Team, Garima Sinha, joins CEO Dave Baszucki to talk about the future of communication on Roblox. In this episode, they’ll discuss how we’ve been working to make communication more natural and expressive on the pla</itunes:subtitle>
+      <itunes:keywords>technology, engineering, machine learning, AI, people, roblox, real, talking, communication, emojis, feel, texting, users, facial animation, started, voice, hear, messaging, audio, expressive, experience, stickers, notion</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Brand Partnerships </title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>Brand Partnerships </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">c8e17ce8-8537-4e5b-aaa2-5e2535ebb033</guid>
+      <link>https://share.transistor.fm/s/e1fe0d4e</link>
+      <description>
+        <![CDATA[VP of Global Partnerships Christina Wootton sits down with CEO and host Dave Baszucki to talk about the incredible ways that brands have developed a presence on our platform. In this episode, they’ll share how we think about our relationship with other brands, what successful integrations look like, and how the foundation of our technology makes it all possible.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[VP of Global Partnerships Christina Wootton sits down with CEO and host Dave Baszucki to talk about the incredible ways that brands have developed a presence on our platform. In this episode, they’ll share how we think about our relationship with other brands, what successful integrations look like, and how the foundation of our technology makes it all possible.]]>
+      </content:encoded>
+      <pubDate>Wed, 26 Oct 2022 08:20:01 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/e1fe0d4e/b788c1a8.mp3" length="42654695" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/4Uen-Gfz3cbE3QklHOqQee29atIzf6w7bNx_M37AQmQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ODRk/NjE1MjI1YWJiOTk4/Njc5Y2Y1NjBmNmEz/MzRmMy5wbmc.jpg"/>
+      <itunes:duration>2131</itunes:duration>
+      <itunes:summary>VP of Global Partnerships Christina Wootton sits down with CEO and host Dave Baszucki to talk about the incredible ways that brands have developed a presence on our platform. In this episode, they’ll share how we think about our relationship with other brands, what successful integrations look like, and how the foundation of our technology makes it all possible.</itunes:summary>
+      <itunes:subtitle>VP of Global Partnerships Christina Wootton sits down with CEO and host Dave Baszucki to talk about the incredible ways that brands have developed a presence on our platform. In this episode, they’ll share how we think about our relationship with other br</itunes:subtitle>
+      <itunes:keywords>brands, roblox, platform, create, world, fashion, physical, people, digital, building, community, avatar, started, clothing, technology, audience, engage, space, products, friends</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Creator Innovation </title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>Creator Innovation </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ed0ef559-2bd6-47e1-8af7-fab6708859a2</guid>
+      <link>https://share.transistor.fm/s/a5f6d9a3</link>
+      <description>
+        <![CDATA[SVP of Engineering Nick Tornow joins CEO and host Dave Baszucki to talk about the global creator community that builds the immersive experiences on Roblox and how we support their success. In this episode, they’ll discuss the ways we’re evolving creation across the three pillars of the Creator group: Roblox Studio, our content cloud, and the services that enrich our platform.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[SVP of Engineering Nick Tornow joins CEO and host Dave Baszucki to talk about the global creator community that builds the immersive experiences on Roblox and how we support their success. In this episode, they’ll discuss the ways we’re evolving creation across the three pillars of the Creator group: Roblox Studio, our content cloud, and the services that enrich our platform.]]>
+      </content:encoded>
+      <pubDate>Wed, 28 Sep 2022 09:52:33 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/a5f6d9a3/02fb2c7d.mp3" length="55175790" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/zGc0Dzvnfin79a2e8ns-0rSjRdY9gPpVRt-DFAMwS7g/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYzE5/OWZlYTA5YzcxY2Mx/ZDUyZjcxNDJjMGFj/MjA2YS5wbmc.jpg"/>
+      <itunes:duration>2757</itunes:duration>
+      <itunes:summary>SVP of Engineering Nick Tornow joins CEO and host Dave Baszucki to talk about the global creator community that builds the immersive experiences on Roblox and how we support their success. In this episode, they’ll discuss the ways we’re evolving creation across the three pillars of the Creator group: Roblox Studio, our content cloud, and the services that enrich our platform.</itunes:summary>
+      <itunes:subtitle>SVP of Engineering Nick Tornow joins CEO and host Dave Baszucki to talk about the global creator community that builds the immersive experiences on Roblox and how we support their success. In this episode, they’ll discuss the ways we’re evolving creation </itunes:subtitle>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>Infrastructure</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">227d253d-830b-4a16-b7a0-9208b20ff6ce</guid>
+      <link>https://share.transistor.fm/s/6f6d1ff8</link>
+      <description>
+        <![CDATA[Max Ross, VP of Engineering, Infrastructure sits down with Dave to discuss the unique challenges of our global infrastructure at Roblox. In this episode, they’ll cover how we’re building our multi-region architecture, what it means to think of infrastructure like a product, and what we’ve learned as we’ve scaled to support over 50 million daily active users.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Max Ross, VP of Engineering, Infrastructure sits down with Dave to discuss the unique challenges of our global infrastructure at Roblox. In this episode, they’ll cover how we’re building our multi-region architecture, what it means to think of infrastructure like a product, and what we’ve learned as we’ve scaled to support over 50 million daily active users.]]>
+      </content:encoded>
+      <pubDate>Wed, 31 Aug 2022 10:21:53 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/6f6d1ff8/68d11496.mp3" length="50373684" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/Rc9g1k06M3L7A7TLVtY6YZmLfpq_fPUdlio2FutfeKo/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xODE5/MWMxMjIxM2IzZTgw/OTNlZTZjM2NlNGQw/ZTQwMi5wbmc.jpg"/>
+      <itunes:duration>2517</itunes:duration>
+      <itunes:summary>Max Ross, VP of Engineering, Infrastructure sits down with Dave to discuss the unique challenges of our global infrastructure at Roblox. In this episode, they’ll cover how we’re building our multi-region architecture, what it means to think of infrastructure like a product, and what we’ve learned as we’ve scaled to support over 50 million daily active users.</itunes:summary>
+      <itunes:subtitle>Max Ross, VP of Engineering, Infrastructure sits down with Dave to discuss the unique challenges of our global infrastructure at Roblox. In this episode, they’ll cover how we’re building our multi-region architecture, what it means to think of infrastruct</itunes:subtitle>
+      <itunes:keywords>roblox, infrastructure, building, developers, infra, scale, system, users, engineers, running, experiences, people, resilient, data centers, platform, internal, product, fun, max, distributed storage</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Programming </title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>Programming </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0b8bd8df-5301-4060-905c-d8b1f6850984</guid>
+      <link>https://share.transistor.fm/s/c7b3a0c7</link>
+      <description>
+        <![CDATA[Technical Fellow Arseny Kapoulkine is back with CEO and host Dave Baszucki to kick off our second season of the podcast. In this episode, they discuss Luau, the programming language that powers the Roblox engine, as well as the advancements we’ve made to make it more performant and even better to use. ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Technical Fellow Arseny Kapoulkine is back with CEO and host Dave Baszucki to kick off our second season of the podcast. In this episode, they discuss Luau, the programming language that powers the Roblox engine, as well as the advancements we’ve made to make it more performant and even better to use. ]]>
+      </content:encoded>
+      <pubDate>Wed, 20 Jul 2022 09:22:29 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/c7b3a0c7/5afad8b5.mp3" length="50371383" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/esLY4tSR-fmwvapi18HoU8mUrHEKTXHlHq8gD4ieU9Y/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85M2Ji/Y2ZkNmE3Njk1YmYy/MGIwMmRiYTRjODJl/YTJhNi5wbmc.jpg"/>
+      <itunes:duration>3144</itunes:duration>
+      <itunes:summary>Technical Fellow Arseny Kapoulkine is back with CEO and host Dave Baszucki to kick off our second season of the podcast. In this episode, they discuss Luau, the programming language that powers the Roblox engine, as well as the advancements we’ve made to make it more performant and even better to use. </itunes:summary>
+      <itunes:subtitle>Technical Fellow Arseny Kapoulkine is back with CEO and host Dave Baszucki to kick off our second season of the podcast. In this episode, they discuss Luau, the programming language that powers the Roblox engine, as well as the advancements we’ve made to </itunes:subtitle>
+      <itunes:keywords>Engineering, Programming, Technology</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Data Science and Analytics </title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>Data Science and Analytics </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8f6df35c-427c-48e5-894e-add22af055be</guid>
+      <link>https://share.transistor.fm/s/1e2f9db7</link>
+      <description>
+        <![CDATA[Todd Rudak, Director of Data Science &amp; Analytics joins CEO and host Dave Baszucki to discuss the unique qualities of the team at Roblox and the work they do to support innovation at scale. Tune in to find out how the the team works to increase the speed, frequency and acumen of our decision making in building the Roblox platform.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Todd Rudak, Director of Data Science &amp; Analytics joins CEO and host Dave Baszucki to discuss the unique qualities of the team at Roblox and the work they do to support innovation at scale. Tune in to find out how the the team works to increase the speed, frequency and acumen of our decision making in building the Roblox platform.]]>
+      </content:encoded>
+      <pubDate>Wed, 09 Feb 2022 08:09:00 -0800</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/1e2f9db7/cd8fdf11.mp3" length="35612714" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/DmRiFTxp13mUI0Vqki9zBUhAjvF0ihNH4hp13zr8cUI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMzQ1/NjBlYmMzYjRlZmIx/MTU4NGQyZGFmOGQx/YWUxNS5wbmc.jpg"/>
+      <itunes:duration>2222</itunes:duration>
+      <itunes:summary>Todd Rudak, Director of Data Science &amp;amp; Analytics joins CEO and host Dave Baszucki to discuss the unique qualities of the team at Roblox and the work they do to support innovation at scale. Tune in to find out how the the team works to increase the speed, frequency and acumen of our decision making in building the Roblox platform.</itunes:summary>
+      <itunes:subtitle>Todd Rudak, Director of Data Science &amp;amp; Analytics joins CEO and host Dave Baszucki to discuss the unique qualities of the team at Roblox and the work they do to support innovation at scale. Tune in to find out how the the team works to increase the spe</itunes:subtitle>
+      <itunes:keywords>technology, data science, innovation, analytics, data scientist  </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Open Cloud </title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>Open Cloud </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">892196b9-f43c-43c4-8b29-4d2c94bb3621</guid>
+      <link>https://share.transistor.fm/s/8cd61b00</link>
+      <description>
+        <![CDATA[The Roblox platform would not be where it is today without the creativity and innovation of our developer community. In this episode, Dave Baszucki chats with Senior Engineering Director Antoni Choudhuri to discuss Open Cloud, the new ecosystem that empowers developers to maximize their productivity and take their experiences to the next level. ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[The Roblox platform would not be where it is today without the creativity and innovation of our developer community. In this episode, Dave Baszucki chats with Senior Engineering Director Antoni Choudhuri to discuss Open Cloud, the new ecosystem that empowers developers to maximize their productivity and take their experiences to the next level. ]]>
+      </content:encoded>
+      <pubDate>Wed, 08 Dec 2021 21:17:30 -0800</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/8cd61b00/ccb81233.mp3" length="37884923" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/nmmfD6cLE1CXnRkAH9Pt9bWgf5ppZJLlKEnQx7KvGq8/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMDU5/NmQ5MTc2ZmYzMGFj/ZWU3NTQyODRkNDYy/ODRjNC5wbmc.jpg"/>
+      <itunes:duration>2364</itunes:duration>
+      <itunes:summary>The Roblox platform would not be where it is today without the creativity and innovation of our developer community. In this episode, Dave Baszucki chats with Senior Engineering Director Antoni Choudhuri to discuss Open Cloud, the new ecosystem that empowers developers to maximize their productivity and take their experiences to the next level. </itunes:summary>
+      <itunes:subtitle>The Roblox platform would not be where it is today without the creativity and innovation of our developer community. In this episode, Dave Baszucki chats with Senior Engineering Director Antoni Choudhuri to discuss Open Cloud, the new ecosystem that empow</itunes:subtitle>
+      <itunes:keywords>developer, immersive experience, avatar, technology </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Roblox Research </title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>Roblox Research </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5b59c617-82c9-47bf-b567-1c08f0b59ff4</guid>
+      <link>https://share.transistor.fm/s/2a89e324</link>
+      <description>
+        <![CDATA[Morgan McGuire, Chief Scientist at Roblox, joins CEO and host Dave Baszucki to chat about all things research at Roblox. The Research Team helps to accelerate innovation by combining computer science with social science and academic ideas with industry know-how. Tune in to learn more about how we’re shaping the forefront of metaverse research.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Morgan McGuire, Chief Scientist at Roblox, joins CEO and host Dave Baszucki to chat about all things research at Roblox. The Research Team helps to accelerate innovation by combining computer science with social science and academic ideas with industry know-how. Tune in to learn more about how we’re shaping the forefront of metaverse research.]]>
+      </content:encoded>
+      <pubDate>Tue, 09 Nov 2021 20:09:04 -0800</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/2a89e324/8b58841d.mp3" length="121666052" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/NsixUIXO6kbouJlATPNsP8j-qPXGbfTiLI9LmAelzF8/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYWQx/NGVjYzI4NDM4OWQ1/ZWQyMzI0YjI4NDE1/MzIwOC5wbmc.jpg"/>
+      <itunes:duration>3041</itunes:duration>
+      <itunes:summary>Morgan McGuire, Chief Scientist at Roblox, joins CEO and host Dave Baszucki to chat about all things research at Roblox. The Research Team helps to accelerate innovation by combining computer science with social science and academic ideas with industry know-how. Tune in to learn more about how we’re shaping the forefront of metaverse research.</itunes:summary>
+      <itunes:subtitle>Morgan McGuire, Chief Scientist at Roblox, joins CEO and host Dave Baszucki to chat about all things research at Roblox. The Research Team helps to accelerate innovation by combining computer science with social science and academic ideas with industry kn</itunes:subtitle>
+      <itunes:keywords>research, academic, innovation, computer science, engineering, machine learning</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Engine </title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>Engine </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">56ef3866-b445-492c-b33c-223d0bd30b77</guid>
+      <link>https://share.transistor.fm/s/9dd75e5b</link>
+      <description>
+        <![CDATA[In this episode, Dave continues his conversation with Arseny Kapoulkine, Technical Fellow, to discuss the Roblox Engine. In this highly technical deep-dive, they tackle the foundational pieces of the Roblox Engine, including object modeling, rendering, physics, and networking. Listen in for a comprehensive overview of the core technologies that power the Roblox platform. ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[In this episode, Dave continues his conversation with Arseny Kapoulkine, Technical Fellow, to discuss the Roblox Engine. In this highly technical deep-dive, they tackle the foundational pieces of the Roblox Engine, including object modeling, rendering, physics, and networking. Listen in for a comprehensive overview of the core technologies that power the Roblox platform. ]]>
+      </content:encoded>
+      <pubDate>Tue, 28 Sep 2021 20:56:34 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/9dd75e5b/f93159e6.mp3" length="143383516" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/zSpD3tyDkpm814HCphSh8SGyuex_aCLqjKSGLvIbPA0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MGVi/NjU4NDg5NDU0M2Mw/MTE4MGNkZTUyZGY4/YjAwYS5wbmc.jpg"/>
+      <itunes:duration>3583</itunes:duration>
+      <itunes:summary>In this episode, Dave continues his conversation with Arseny Kapoulkine, Technical Fellow, to discuss the Roblox Engine. In this highly technical deep-dive, they tackle the foundational pieces of the Roblox Engine, including object modeling, rendering, physics, and networking. Listen in for a comprehensive overview of the core technologies that power the Roblox platform. </itunes:summary>
+      <itunes:subtitle>In this episode, Dave continues his conversation with Arseny Kapoulkine, Technical Fellow, to discuss the Roblox Engine. In this highly technical deep-dive, they tackle the foundational pieces of the Roblox Engine, including object modeling, rendering, ph</itunes:subtitle>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Roblox Technology </title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>Roblox Technology </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">82ad2694-b879-45e7-8a4c-2cbb783f05cd</guid>
+      <link>https://share.transistor.fm/s/d5852e88</link>
+      <description>
+        <![CDATA[In this episode of Tech Talks, Dave is joined by Arseny Kapoulkine, Technical Fellow to discuss what differentiates Roblox technology from other online platforms. They reflect on the rich history of technological innovation at Roblox, from iterating on the platform to preserving the fidelity of Roblox experiences across all devices. Tune in to learn more about the technological foundations of the metaverse and how Roblox has evolved and scaled to where we are today.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[In this episode of Tech Talks, Dave is joined by Arseny Kapoulkine, Technical Fellow to discuss what differentiates Roblox technology from other online platforms. They reflect on the rich history of technological innovation at Roblox, from iterating on the platform to preserving the fidelity of Roblox experiences across all devices. Tune in to learn more about the technological foundations of the metaverse and how Roblox has evolved and scaled to where we are today.]]>
+      </content:encoded>
+      <pubDate>Tue, 31 Aug 2021 17:59:09 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/d5852e88/c7f93ee1.mp3" length="43995881" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/xE_NV_4_kR4U6TZRheuzjV0fmyaGyLfx-WcvR0Ok86I/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZTkw/M2VkMTU3MDg2YjEx/OTkyYjE0MGQwYjNk/OGU5ZS5wbmc.jpg"/>
+      <itunes:duration>2746</itunes:duration>
+      <itunes:summary>In this episode of Tech Talks, Dave is joined by Arseny Kapoulkine, Technical Fellow to discuss what differentiates Roblox technology from other online platforms. They reflect on the rich history of technological innovation at Roblox, from iterating on the platform to preserving the fidelity of Roblox experiences across all devices. Tune in to learn more about the technological foundations of the metaverse and how Roblox has evolved and scaled to where we are today.</itunes:summary>
+      <itunes:subtitle>In this episode of Tech Talks, Dave is joined by Arseny Kapoulkine, Technical Fellow to discuss what differentiates Roblox technology from other online platforms. They reflect on the rich history of technological innovation at Roblox, from iterating on th</itunes:subtitle>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Avatars and Facial Animation </title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>Avatars and Facial Animation </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8e214676-ef90-46ba-9ceb-9fc6ee27e369</guid>
+      <link>https://share.transistor.fm/s/d38b08cf</link>
+      <description>
+        <![CDATA[In the metaverse, avatars are an expression of one’s identity. In this episode of Tech Talks, Dave and Kiran Bhat, Senior Director of Engineering, discuss the future of avatars on Roblox. Kiran shares his path to Roblox, from graduate school to the visual effects industry to start-up Loom.ai, which Roblox acquired in December 2020. Find out how Roblox is building upon the foundation of Loom.ai’s technology to further personalize avatars with facial animation.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[In the metaverse, avatars are an expression of one’s identity. In this episode of Tech Talks, Dave and Kiran Bhat, Senior Director of Engineering, discuss the future of avatars on Roblox. Kiran shares his path to Roblox, from graduate school to the visual effects industry to start-up Loom.ai, which Roblox acquired in December 2020. Find out how Roblox is building upon the foundation of Loom.ai’s technology to further personalize avatars with facial animation.]]>
+      </content:encoded>
+      <pubDate>Tue, 17 Aug 2021 12:18:18 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/d38b08cf/6cc76662.mp3" length="37166255" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/GcU2UjrAHtoMSz-_4jv4a7D2SjQUyEOSWGfM3I6b66k/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Nzky/ZDI2MDIwMjFkY2Ux/ODIxZjdhOGQ1ZGZi/YzU1NC5wbmc.jpg"/>
+      <itunes:duration>2319</itunes:duration>
+      <itunes:summary>In the metaverse, avatars are an expression of one’s identity. In this episode of Tech Talks, Dave and Kiran Bhat, Senior Director of Engineering, discuss the future of avatars on Roblox. Kiran shares his path to Roblox, from graduate school to the visual effects industry to start-up Loom.ai, which Roblox acquired in December 2020. Find out how Roblox is building upon the foundation of Loom.ai’s technology to further personalize avatars with facial animation.</itunes:summary>
+      <itunes:subtitle>In the metaverse, avatars are an expression of one’s identity. In this episode of Tech Talks, Dave and Kiran Bhat, Senior Director of Engineering, discuss the future of avatars on Roblox. Kiran shares his path to Roblox, from graduate school to the visual</itunes:subtitle>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Roblox Economy </title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>The Roblox Economy </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">01f66b93-fae1-4dac-8e64-57e40a320039</guid>
+      <link>https://share.transistor.fm/s/207f24de</link>
+      <description>
+        <![CDATA[Just like in the real world, GDP is an important measure of economic health in the metaverse, especially for developers on the platform. Kavita Kanetkar, Senior Director of Engineering, Economy and Dmitri Essiounine, Senior Engineering Manager chat with Dave about the virtual economy. How does it emulate and transcend real world experiences—shopping, transacting with currency, encountering product placements—in a way that feels organic and engaging for users?]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Just like in the real world, GDP is an important measure of economic health in the metaverse, especially for developers on the platform. Kavita Kanetkar, Senior Director of Engineering, Economy and Dmitri Essiounine, Senior Engineering Manager chat with Dave about the virtual economy. How does it emulate and transcend real world experiences—shopping, transacting with currency, encountering product placements—in a way that feels organic and engaging for users?]]>
+      </content:encoded>
+      <pubDate>Wed, 04 Aug 2021 06:00:00 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/207f24de/a0ce3463.mp3" length="43941761" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/IBHj-ue8_rqbtdy-63eVYW9PZR2Xb-k6neg4cz54XhM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNDM1/OTQwNTFiNGUxMWJl/OTM5YTIwYTE5Nzhh/MmM4MS5wbmc.jpg"/>
+      <itunes:duration>2742</itunes:duration>
+      <itunes:summary>Just like in the real world, GDP is an important measure of economic health in the metaverse, especially for developers on the platform. Kavita Kanetkar, Senior Director of Engineering, Economy and Dmitri Essiounine, Senior Engineering Manager chat with Dave about the virtual economy. How does it emulate and transcend real world experiences—shopping, transacting with currency, encountering product placements—in a way that feels organic and engaging for users?</itunes:summary>
+      <itunes:subtitle>Just like in the real world, GDP is an important measure of economic health in the metaverse, especially for developers on the platform. Kavita Kanetkar, Senior Director of Engineering, Economy and Dmitri Essiounine, Senior Engineering Manager chat with D</itunes:subtitle>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Step into the Metaverse </title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Step into the Metaverse </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0a661d00-4deb-4eac-baec-bbbe8beb26fe</guid>
+      <link>https://share.transistor.fm/s/fae103b9</link>
+      <description>
+        <![CDATA[Setting the stage for a new category of human interaction. In this episode, Dave sits down with Daniel Sturman, Chief Technology Officer at Roblox, to dive into the five key tenets of the app and what this utility holds for our future.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Setting the stage for a new category of human interaction. In this episode, Dave sits down with Daniel Sturman, Chief Technology Officer at Roblox, to dive into the five key tenets of the app and what this utility holds for our future.]]>
+      </content:encoded>
+      <pubDate>Wed, 21 Jul 2021 05:00:00 -0700</pubDate>
+      <author>Roblox </author>
+      <enclosure url="https://pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/fae103b9/296932a0.mp3" length="38128208" type="audio/mpeg"/>
+      <itunes:author>Roblox </itunes:author>
+      <itunes:image href="https://img.transistor.fm/cidqzBOdPCE6z6T6qogAP0t4rgEmHCZwLyTAclDdeF8/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZWQz/ZmEzNTEyMThhYTA2/NDJjM2M4MDBkNmRk/OGU4YS5wbmc.jpg"/>
+      <itunes:duration>2379</itunes:duration>
+      <itunes:summary>Setting the stage for a new category of human interaction. In this episode, Dave sits down with Daniel Sturman, Chief Technology Officer at Roblox, to dive into the five key tenets of the app and what this utility holds for our future.</itunes:summary>
+      <itunes:subtitle>Setting the stage for a new category of human interaction. In this episode, Dave sits down with Daniel Sturman, Chief Technology Officer at Roblox, to dive into the five key tenets of the app and what this utility holds for our future.</itunes:subtitle>
+      <itunes:keywords>technology, engineering, machine learning, AI, artificial intelligence, software engineering, software development, infrastructure, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

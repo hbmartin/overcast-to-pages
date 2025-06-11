@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1753881.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>The Confident Commit</title>
+
+  <lastBuildDate>Fri, 06 Dec 2024 08:05:08 -0600</lastBuildDate>
+  <link>http://circleci.com</link>
+  <language>en-us</language>
+  <copyright>© 2024 The Confident Commit</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>ea7f7602-e64b-5036-9e93-8e2ac9a5f927</podcast:guid>
+  <itunes:author>CircleCI</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[<p>Covering topics ranging from pipeline security to engineering team efficiency, The Confident Commit is for anyone looking to join the conversation on how to deliver software better and faster. Listen in today!</p>]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:keywords>ci/cd, devops, continuous integration, deployment, software development</itunes:keywords>
+  <itunes:owner>
+    <itunes:name>CircleCI</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/wpymd3k5wklf6wa90oz311d58a7t?.jpg</url>
+     <title>The Confident Commit</title>
+     <link>http://circleci.com</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/wpymd3k5wklf6wa90oz311d58a7t?.jpg" />
+  <itunes:category text="Technology" />
+  <item>
+    <itunes:title>How Fidelity Investments drives software innovation at scale ft. Ger McMahon</itunes:title>
+    <title>How Fidelity Investments drives software innovation at scale ft. Ger McMahon</title>
+    <itunes:summary><![CDATA[In this episode, Rob sits down with Ger McMahon, Head of ALM Tools and Platforms at Fidelity Investments, to explore the unique challenges of delivering software rapidly in a large enterprise. They dive into strategies for fostering innovation and effectively sharing ideas across diverse teams within the organization.  Ger highlights the delicate balance between building internal tools and creating customer-facing applications, emphasizing the critical role of keeping the customer at the cent...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob sits down with Ger McMahon, Head of ALM Tools and Platforms at Fidelity Investments, to explore the unique challenges of delivering software rapidly in a large enterprise. They dive into strategies for fostering innovation and effectively sharing ideas across diverse teams within the organization.<br/><br/>Ger highlights the delicate balance between building internal tools and creating customer-facing applications, emphasizing the critical role of keeping the customer at the center of decision-making. He also shares insights into why Fidelity prioritizes being a &quot;technology company that delivers financial services,&quot; and how that mindset shapes their approach to software development.<br/><br/>Whether you’re part of a large organization or navigating the complexities of enterprise software delivery, this episode offers valuable perspectives and actionable ideas.<br/><br/>Have a guest suggestion? Connect with us on X at <b>@CircleCI</b>!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob sits down with Ger McMahon, Head of ALM Tools and Platforms at Fidelity Investments, to explore the unique challenges of delivering software rapidly in a large enterprise. They dive into strategies for fostering innovation and effectively sharing ideas across diverse teams within the organization.<br/><br/>Ger highlights the delicate balance between building internal tools and creating customer-facing applications, emphasizing the critical role of keeping the customer at the center of decision-making. He also shares insights into why Fidelity prioritizes being a &quot;technology company that delivers financial services,&quot; and how that mindset shapes their approach to software development.<br/><br/>Whether you’re part of a large organization or navigating the complexities of enterprise software delivery, this episode offers valuable perspectives and actionable ideas.<br/><br/>Have a guest suggestion? Connect with us on X at <b>@CircleCI</b>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/16228541-how-fidelity-investments-drives-software-innovation-at-scale-ft-ger-mcmahon.mp3" length="21126379" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16228541</guid>
+    <pubDate>Fri, 06 Dec 2024 08:00:00 -0600</pubDate>
+    <itunes:duration>1755</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Using observability to ship faster with confidence ft. Christine Yen, CEO of Honeycomb</itunes:title>
+    <title>Using observability to ship faster with confidence ft. Christine Yen, CEO of Honeycomb</title>
+    <itunes:summary><![CDATA[In this episode of The Confident Commit, Rob sits down with Christine Yen, CEO of Honeycomb, to delve into the evolving role of observability in modern software development. They discuss how observability goes beyond traditional metrics and monitoring, and allows developers to be better prepared for the unknown and embrace the complexities of distributed systems. Christine shares insights on how observability not only boosts developer confidence but also enhances productivity by reducing toil...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode of <em>The Confident Commit</em>, Rob sits down with Christine Yen, CEO of Honeycomb, to delve into the evolving role of observability in modern software development. They discuss how observability goes beyond traditional metrics and monitoring, and allows developers to be better prepared for the unknown and embrace the complexities of distributed systems. Christine shares insights on how observability not only boosts developer confidence but also enhances productivity by reducing toil and enabling teams to focus on delivering value for customers.<br/><br/>The conversation shifts to the value of Service Level Objectives (SLOs) and why discussions around them often focus heavily on measurement tools and technical implementations. Christine offers valuable advice on steering these conversations towards healthier, more customer-centric perspectives. By reframing the conversation, developers and teams can focus on delivering real value, aligning technical goals with customer needs and driving meaningful outcomes.<br/><br/>Have a guest you’d like to hear on the podcast? Reach out to us on X at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode of <em>The Confident Commit</em>, Rob sits down with Christine Yen, CEO of Honeycomb, to delve into the evolving role of observability in modern software development. They discuss how observability goes beyond traditional metrics and monitoring, and allows developers to be better prepared for the unknown and embrace the complexities of distributed systems. Christine shares insights on how observability not only boosts developer confidence but also enhances productivity by reducing toil and enabling teams to focus on delivering value for customers.<br/><br/>The conversation shifts to the value of Service Level Objectives (SLOs) and why discussions around them often focus heavily on measurement tools and technical implementations. Christine offers valuable advice on steering these conversations towards healthier, more customer-centric perspectives. By reframing the conversation, developers and teams can focus on delivering real value, aligning technical goals with customer needs and driving meaningful outcomes.<br/><br/>Have a guest you’d like to hear on the podcast? Reach out to us on X at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/15776162-using-observability-to-ship-faster-with-confidence-ft-christine-yen-ceo-of-honeycomb.mp3" length="24590565" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15776162</guid>
+    <pubDate>Fri, 20 Sep 2024 08:00:00 -0500</pubDate>
+    <itunes:duration>2044</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Improving dev experience through trust and data ft. Laura Tacho of DX</itunes:title>
+    <title>Improving dev experience through trust and data ft. Laura Tacho of DX</title>
+    <itunes:summary><![CDATA[In this episode, Rob is joined by Laura Tacho, CTO at DX, to explore the continuous rising focus on developer experience and its impact on both engineers and businesses. They discuss how investing in developer experince is not just about making life easier for developers; it’s also a smart business move that cuts down on waste and boosts efficiency. Laura emphasizes the importance of trusting developers to identify their own challenges, as they’re the ones navigating the daily complexities of...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob is joined by Laura Tacho, CTO at DX, to explore the continuous rising focus on developer experience and its impact on both engineers and businesses. They discuss how investing in developer experince is not just about making life easier for developers; it’s also a smart business move that cuts down on waste and boosts efficiency. Laura emphasizes the importance of trusting developers to identify their own challenges, as they’re the ones navigating the daily complexities of their work.<br/><br/>The conversation also touches on how recent global changes have influenced engineering leadership and made dev experience a higher priority. Laura shares her thoughts on the value of combining survey data with peer metrics to enhance developer experience.<br/><br/>If there’s anyone you’d like to hear on the show, please reach out to us on X at @CircleCI !</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob is joined by Laura Tacho, CTO at DX, to explore the continuous rising focus on developer experience and its impact on both engineers and businesses. They discuss how investing in developer experince is not just about making life easier for developers; it’s also a smart business move that cuts down on waste and boosts efficiency. Laura emphasizes the importance of trusting developers to identify their own challenges, as they’re the ones navigating the daily complexities of their work.<br/><br/>The conversation also touches on how recent global changes have influenced engineering leadership and made dev experience a higher priority. Laura shares her thoughts on the value of combining survey data with peer metrics to enhance developer experience.<br/><br/>If there’s anyone you’d like to hear on the show, please reach out to us on X at @CircleCI !</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/15703426-improving-dev-experience-through-trust-and-data-ft-laura-tacho-of-dx.mp3" length="24283694" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15703426</guid>
+    <pubDate>Fri, 06 Sep 2024 08:00:00 -0500</pubDate>
+    <itunes:duration>2017</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The current state of AI ft. Birgitta Böckeler of Thoughtworks</itunes:title>
+    <title>The current state of AI ft. Birgitta Böckeler of Thoughtworks</title>
+    <itunes:summary><![CDATA[In this episode of The Confident Commit, Rob is joined by Birgitta Böckeler, Global Lead for AI-assisted software delivery at Thoughtworks, to dive deep into the dynamic world of GenAI and its impact on software development. They explore the shifting landscape of GenAI usage and adoption over the last 18 months, tackling critical questions like how to leverage fast-moving advancements without building solutions that become obsolete in weeks.  Birgitta shares her insights on when it might be b...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode of <em>The Confident Commit</em>, Rob is joined by Birgitta Böckeler, Global Lead for AI-assisted software delivery at Thoughtworks, to dive deep into the dynamic world of GenAI and its impact on software development. They explore the shifting landscape of GenAI usage and adoption over the last 18 months, tackling critical questions like how to leverage fast-moving advancements without building solutions that become obsolete in weeks.<br/><br/>Birgitta shares her insights on when it might be better to build something yourself to avoid the instability of rapid technological change. They also discuss what aspects of AI she currently considers stable and which are still in flux. Birgitta issues a crucial warning: don’t overestimate AI by using it as a band-aid to cover up deeper issues in your software pipeline.<br/><br/>Whether you&apos;re a seasoned developer or just curious about the future of software delivery, this episode offers valuable perspectives on navigating the complexities of AI in today’s fast-paced tech environment.<br/><br/>Have someone in mind you’d like to hear on the show? Reach out to us on X at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode of <em>The Confident Commit</em>, Rob is joined by Birgitta Böckeler, Global Lead for AI-assisted software delivery at Thoughtworks, to dive deep into the dynamic world of GenAI and its impact on software development. They explore the shifting landscape of GenAI usage and adoption over the last 18 months, tackling critical questions like how to leverage fast-moving advancements without building solutions that become obsolete in weeks.<br/><br/>Birgitta shares her insights on when it might be better to build something yourself to avoid the instability of rapid technological change. They also discuss what aspects of AI she currently considers stable and which are still in flux. Birgitta issues a crucial warning: don’t overestimate AI by using it as a band-aid to cover up deeper issues in your software pipeline.<br/><br/>Whether you&apos;re a seasoned developer or just curious about the future of software delivery, this episode offers valuable perspectives on navigating the complexities of AI in today’s fast-paced tech environment.<br/><br/>Have someone in mind you’d like to hear on the show? Reach out to us on X at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/15623765-the-current-state-of-ai-ft-birgitta-bockeler-of-thoughtworks.mp3" length="21709497" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15623765</guid>
+    <pubDate>Fri, 23 Aug 2024 08:00:00 -0500</pubDate>
+    <itunes:duration>1803</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How to structure great teams ft. Heidi Helfand, author of Dynamic Reteaming</itunes:title>
+    <title>How to structure great teams ft. Heidi Helfand, author of Dynamic Reteaming</title>
+    <itunes:summary><![CDATA[In this episode of The Confident Commit, Rob is joined by Heidi Helfand, author of Dynamic Reteaming. Together, they explore the components of exceptional teams and strategies for building them to deliver better software faster.  They delve into the definition of performance and the importance of aligning on what "high-performing" means for individual roles and the team as a whole. They also discuss the distinction between high-performing teams and high-performing individuals.  The conversati...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode of <em>The Confident Commit</em>, Rob is joined by Heidi Helfand, author of <em>Dynamic Reteaming</em>. Together, they explore the components of exceptional teams and strategies for building them to deliver better software faster.<br/><br/>They delve into the definition of performance and the importance of aligning on what &quot;high-performing&quot; means for individual roles and the team as a whole. They also discuss the distinction between high-performing teams and high-performing individuals.<br/><br/>The conversation covers how to structure great teams and the benefits of involving team members in the reteaming decision process.Heidi shares insights on why splitting up high-performing teams to create more high-performing teams often fails, and suggests alternative approaches for achieving better results.<br/><br/>Have a guest in mind for the podcast? Reach out to us on X at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode of <em>The Confident Commit</em>, Rob is joined by Heidi Helfand, author of <em>Dynamic Reteaming</em>. Together, they explore the components of exceptional teams and strategies for building them to deliver better software faster.<br/><br/>They delve into the definition of performance and the importance of aligning on what &quot;high-performing&quot; means for individual roles and the team as a whole. They also discuss the distinction between high-performing teams and high-performing individuals.<br/><br/>The conversation covers how to structure great teams and the benefits of involving team members in the reteaming decision process.Heidi shares insights on why splitting up high-performing teams to create more high-performing teams often fails, and suggests alternative approaches for achieving better results.<br/><br/>Have a guest in mind for the podcast? Reach out to us on X at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/15553871-how-to-structure-great-teams-ft-heidi-helfand-author-of-dynamic-reteaming.mp3" length="25954864" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15553871</guid>
+    <pubDate>Fri, 09 Aug 2024 08:00:00 -0500</pubDate>
+    <itunes:duration>2157</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The right way to “do more with less” ft. Ken Rose of OpsLevel</itunes:title>
+    <title>The right way to “do more with less” ft. Ken Rose of OpsLevel</title>
+    <itunes:summary><![CDATA[In this episode, Rob sits down with Ken Rose, CTO of OpsLevel, to delve into the evolving landscape of platform teams and the pressing challenges they face. Together, they explore OpsLevel's mission to tackle the mounting complexities encountered by modern organizations.  Ken sheds light on the pressing issue of accomplishing "more with less" amidst the backdrop of economic uncertainty. With organizations operating on leaner software teams, yet still expected to deliver value to customers, th...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob sits down with Ken Rose, CTO of OpsLevel, to delve into the evolving landscape of platform teams and the pressing challenges they face. Together, they explore OpsLevel&apos;s mission to tackle the mounting complexities encountered by modern organizations.<br/><br/>Ken sheds light on the pressing issue of accomplishing &quot;more with less&quot; amidst the backdrop of economic uncertainty. With organizations operating on leaner software teams, yet still expected to deliver value to customers, the discussion delves into strategies for simplifying operations and maximizing efficiency. From grappling with the complexities of growth through acquisitions to leveraging investments for streamlined processes, the conversation offers insights for leaders navigating these turbulent waters.<br/><br/>The dialogue underscores the pivotal role of leadership in easing the burden of complexity for team members. How can leaders effectively support their teams in navigating these challenges and fostering a culture of efficiency and innovation?<br/><br/>Eager to hear from a specific guest on the podcast? Reach out to us on X at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob sits down with Ken Rose, CTO of OpsLevel, to delve into the evolving landscape of platform teams and the pressing challenges they face. Together, they explore OpsLevel&apos;s mission to tackle the mounting complexities encountered by modern organizations.<br/><br/>Ken sheds light on the pressing issue of accomplishing &quot;more with less&quot; amidst the backdrop of economic uncertainty. With organizations operating on leaner software teams, yet still expected to deliver value to customers, the discussion delves into strategies for simplifying operations and maximizing efficiency. From grappling with the complexities of growth through acquisitions to leveraging investments for streamlined processes, the conversation offers insights for leaders navigating these turbulent waters.<br/><br/>The dialogue underscores the pivotal role of leadership in easing the burden of complexity for team members. How can leaders effectively support their teams in navigating these challenges and fostering a culture of efficiency and innovation?<br/><br/>Eager to hear from a specific guest on the podcast? Reach out to us on X at @CircleCI!</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/pcl2c5xq8e0xnlsja4rs99tj7rx5?.jpg" />
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/15476099-the-right-way-to-do-more-with-less-ft-ken-rose-of-opslevel.mp3" length="21767300" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15476099</guid>
+    <pubDate>Fri, 26 Jul 2024 08:00:00 -0500</pubDate>
+    <itunes:duration>1809</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Achieving AI development at scale ft. Luis Ceze of OctoAI</itunes:title>
+    <title>Achieving AI development at scale ft. Luis Ceze of OctoAI</title>
+    <itunes:summary><![CDATA[In this episode, Rob is joined by Luis Ceze, CEO of OctoAI and a distinguished professor of computer science at the University of Washington. Together, they unpack the surge of interest in AI, attributing it to the convergence of factors like the unprecedented availability of data thanks to the internet boom and the accessibility of powerful computing resources.  Their conversation delves into the pragmatic challenges developers face, such as striking the right balance between cost-effectiven...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob is joined by Luis Ceze, CEO of OctoAI and a distinguished professor of computer science at the University of Washington. Together, they unpack the surge of interest in AI, attributing it to the convergence of factors like the unprecedented availability of data thanks to the internet boom and the accessibility of powerful computing resources.<br/><br/>Their conversation delves into the pragmatic challenges developers face, such as striking the right balance between cost-effectiveness, inference speed, and ensuring scalability and availability. Luis explains how OctoAI is pioneering solutions to streamline this process, empowering developers to navigate these complexities automatically.<br/><br/>Luis shares invaluable insights into the strategic benefits of diversifying AI models, likening the approach to the artistry of a skilled mixologist crafting a perfectly balanced cocktail.<br/><br/>Have a guest recommendation for the podcast? Reach out to us on X at @CircleCI and let us know!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob is joined by Luis Ceze, CEO of OctoAI and a distinguished professor of computer science at the University of Washington. Together, they unpack the surge of interest in AI, attributing it to the convergence of factors like the unprecedented availability of data thanks to the internet boom and the accessibility of powerful computing resources.<br/><br/>Their conversation delves into the pragmatic challenges developers face, such as striking the right balance between cost-effectiveness, inference speed, and ensuring scalability and availability. Luis explains how OctoAI is pioneering solutions to streamline this process, empowering developers to navigate these complexities automatically.<br/><br/>Luis shares invaluable insights into the strategic benefits of diversifying AI models, likening the approach to the artistry of a skilled mixologist crafting a perfectly balanced cocktail.<br/><br/>Have a guest recommendation for the podcast? Reach out to us on X at @CircleCI and let us know!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/14556576-achieving-ai-development-at-scale-ft-luis-ceze-of-octoai.mp3" length="21373517" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14556576</guid>
+    <pubDate>Fri, 23 Feb 2024 08:00:00 -0600</pubDate>
+    <itunes:duration>1775</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Exploring the AI impact on Logistics ft. Carolyn Mooney</itunes:title>
+    <title>Exploring the AI impact on Logistics ft. Carolyn Mooney</title>
+    <itunes:summary><![CDATA[In this episode, Rob is joined by Carolyn Mooney, the CEO of Nextmv, a decision ops platform. As a seasoned expert in Decision Science, Carolyn delves into the nuanced differences in decision optimization and logistics across various industries, drawing from her experiences at Zoomer and Grubhub.  The conversation unfolds around the decision maturity life cycle, exploring how companies progress from manual spreadsheet decisions to fully automated systems. They reflect on the impact of the pan...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob is joined by Carolyn Mooney, the CEO of Nextmv, a decision ops platform. As a seasoned expert in Decision Science, Carolyn delves into the nuanced differences in decision optimization and logistics across various industries, drawing from her experiences at Zoomer and Grubhub.<br/><br/>The conversation unfolds around the decision maturity life cycle, exploring how companies progress from manual spreadsheet decisions to fully automated systems. They reflect on the impact of the pandemic on supply chain issues, emphasizing the heightened awareness of logistics&apos; significance. Carolyn shares insightful perspectives on the fundamental role of optimization for efficiency in sustainability initiatives.<br/><br/>With the transformative impact of increased AI awareness in logistics, Rob and Carolyn share the importance for all companies to contemplate the options and potential for enhancing their organizational efficiency.<br/><br/>Have someone you&apos;d like to hear on the podcast? Reach out to us on X at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob is joined by Carolyn Mooney, the CEO of Nextmv, a decision ops platform. As a seasoned expert in Decision Science, Carolyn delves into the nuanced differences in decision optimization and logistics across various industries, drawing from her experiences at Zoomer and Grubhub.<br/><br/>The conversation unfolds around the decision maturity life cycle, exploring how companies progress from manual spreadsheet decisions to fully automated systems. They reflect on the impact of the pandemic on supply chain issues, emphasizing the heightened awareness of logistics&apos; significance. Carolyn shares insightful perspectives on the fundamental role of optimization for efficiency in sustainability initiatives.<br/><br/>With the transformative impact of increased AI awareness in logistics, Rob and Carolyn share the importance for all companies to contemplate the options and potential for enhancing their organizational efficiency.<br/><br/>Have someone you&apos;d like to hear on the podcast? Reach out to us on X at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/14457761-exploring-the-ai-impact-on-logistics-ft-carolyn-mooney.mp3" length="23579285" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14457761</guid>
+    <pubDate>Fri, 09 Feb 2024 08:00:00 -0600</pubDate>
+    <itunes:duration>1960</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>What&#39;s in store for AI in 2024 with Patrick Debois</itunes:title>
+    <title>What&#39;s in store for AI in 2024 with Patrick Debois</title>
+    <itunes:summary><![CDATA[In this episode, Rob is joined by Patrick Debois, a seasoned industry expert and DevOps pioneer. Patrick shares his personal odyssey within the realm of DevOps, reflecting on the current state of the industry compared to his initial expectations. The conversation delves into the convergence of business analytics and technical analytics, exploring innovative approaches developers are adopting to integrate generative AI into their products.  The two explore predictions for the year 2024, ponder...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob is joined by Patrick Debois, a seasoned industry expert and DevOps pioneer. Patrick shares his personal odyssey within the realm of DevOps, reflecting on the current state of the industry compared to his initial expectations. The conversation delves into the convergence of business analytics and technical analytics, exploring innovative approaches developers are adopting to integrate generative AI into their products.<br/><br/>The two explore predictions for the year 2024, pondering whether the landscape will witness a pronounced shift towards applications or if other technical transformations will take precedence.<br/><br/>If you have suggestions for future podcast guests, connect with us on X at @CircleCI!<br/><br/>Get in touch with Patrick - <br/>Linkedin: <a href='https://urldefense.com/v3/__https://www.linkedin.com/in/patrickdebois/__;!!Nhk69END!emX3yUD4Q7n04Dk6yA76VcRIo74jK5e3cuZ8GS0ftzBJ3i_y6XqBv_LFitcogHoVoHuQRgwNi2eOmfkH6JpoVgFTc_lBTECH$'>https://www.linkedin.com/in/patrickdebois/</a><br/>YouTube: <a href='https://urldefense.com/v3/__https://youtube.com/@jedi4ever__;!!Nhk69END!emX3yUD4Q7n04Dk6yA76VcRIo74jK5e3cuZ8GS0ftzBJ3i_y6XqBv_LFitcogHoVoHuQRgwNi2eOmfkH6JpoVgFTc8_dQlHG$'>https://youtube.com/@jedi4ever</a> </p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob is joined by Patrick Debois, a seasoned industry expert and DevOps pioneer. Patrick shares his personal odyssey within the realm of DevOps, reflecting on the current state of the industry compared to his initial expectations. The conversation delves into the convergence of business analytics and technical analytics, exploring innovative approaches developers are adopting to integrate generative AI into their products.<br/><br/>The two explore predictions for the year 2024, pondering whether the landscape will witness a pronounced shift towards applications or if other technical transformations will take precedence.<br/><br/>If you have suggestions for future podcast guests, connect with us on X at @CircleCI!<br/><br/>Get in touch with Patrick - <br/>Linkedin: <a href='https://urldefense.com/v3/__https://www.linkedin.com/in/patrickdebois/__;!!Nhk69END!emX3yUD4Q7n04Dk6yA76VcRIo74jK5e3cuZ8GS0ftzBJ3i_y6XqBv_LFitcogHoVoHuQRgwNi2eOmfkH6JpoVgFTc_lBTECH$'>https://www.linkedin.com/in/patrickdebois/</a><br/>YouTube: <a href='https://urldefense.com/v3/__https://youtube.com/@jedi4ever__;!!Nhk69END!emX3yUD4Q7n04Dk6yA76VcRIo74jK5e3cuZ8GS0ftzBJ3i_y6XqBv_LFitcogHoVoHuQRgwNi2eOmfkH6JpoVgFTc8_dQlHG$'>https://youtube.com/@jedi4ever</a> </p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/14293801-what-s-in-store-for-ai-in-2024-with-patrick-debois.mp3" length="25180082" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14293801</guid>
+    <pubDate>Fri, 12 Jan 2024 06:00:00 -0600</pubDate>
+    <itunes:duration>2093</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Dave Farley reflects on 25 years of software development &amp; the future of AI</itunes:title>
+    <title>Dave Farley reflects on 25 years of software development &amp; the future of AI</title>
+    <itunes:summary><![CDATA[In this episode Rob is joined by Dave Farley, software legend and author of books "Continuous Delivery" and "Modern Software Engineering”.   The two tackle the essence of software development culture and the current state of software delivery. They unpack why it’s important to prioritize problem-solving abilities over technical skills when it comes to hiring, emphasizing a healthy culture and the need for continuous learning on the job.  Reflecting on the past 25 years in the industry, t...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode Rob is joined by Dave Farley, software legend and author of books &quot;Continuous Delivery&quot; and &quot;Modern Software Engineering”. <br/><br/>The two tackle the essence of software development culture and the current state of software delivery. They unpack why it’s important to prioritize problem-solving abilities over technical skills when it comes to hiring, emphasizing a healthy culture and the need for continuous learning on the job.<br/><br/>Reflecting on the past 25 years in the industry, the conversation centers on acknowledging mistakes, aiming to shorten development cycles for rapid feedback and progress. Exploring the intersection of aviation history and modern software development, Dave draws parallels with the Wright Brothers&apos; approach to engineering and iteration.<br/><br/>Listen in as Dave shares insights on AI automated testing and its current inability to rival the human brain, and discover the must-read books he recommends for every software developer.<br/><br/>Connect with us on Twitter/X at @CircleCI to share your thoughts or suggest future guests for the show!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode Rob is joined by Dave Farley, software legend and author of books &quot;Continuous Delivery&quot; and &quot;Modern Software Engineering”. <br/><br/>The two tackle the essence of software development culture and the current state of software delivery. They unpack why it’s important to prioritize problem-solving abilities over technical skills when it comes to hiring, emphasizing a healthy culture and the need for continuous learning on the job.<br/><br/>Reflecting on the past 25 years in the industry, the conversation centers on acknowledging mistakes, aiming to shorten development cycles for rapid feedback and progress. Exploring the intersection of aviation history and modern software development, Dave draws parallels with the Wright Brothers&apos; approach to engineering and iteration.<br/><br/>Listen in as Dave shares insights on AI automated testing and its current inability to rival the human brain, and discover the must-read books he recommends for every software developer.<br/><br/>Connect with us on Twitter/X at @CircleCI to share your thoughts or suggest future guests for the show!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/14110116-dave-farley-reflects-on-25-years-of-software-development-the-future-of-ai.mp3" length="37632035" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14110116</guid>
+    <pubDate>Fri, 08 Dec 2023 08:00:00 -0600</pubDate>
+    <itunes:duration>3129</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>What’s next for CI/CD? Analyst predictions</itunes:title>
+    <title>What’s next for CI/CD? Analyst predictions</title>
+    <itunes:summary><![CDATA[In today’s episode, Rob is joined by CircleCI’s own Aisling Conroy. Aisling, a key player in CircleCI’s product marketing and competitive intelligence, provides a window into the thoughts of analysts in the ever-evolving CI/CD space. Their discussion explores how the power of diverse perspectives in problem-solving can yield many different types of product offerings.  They discuss the intricate nature of software developers as unique and discerning customers, recognizing developers' inherent ...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, Rob is joined by CircleCI’s own Aisling Conroy. Aisling, a key player in CircleCI’s product marketing and competitive intelligence, provides a window into the thoughts of analysts in the ever-evolving CI/CD space. Their discussion explores how the power of diverse perspectives in problem-solving can yield many different types of product offerings.<br/><br/>They discuss the intricate nature of software developers as unique and discerning customers, recognizing developers&apos; inherent problem-solving abilities. The episode unfolds with insights into emerging trends in the tooling space and the promising potential for increased collaboration between developers and customer-facing teams.<br/><br/>Have someone you’d like to hear on the podcast, reach out to us on Twitter/X at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, Rob is joined by CircleCI’s own Aisling Conroy. Aisling, a key player in CircleCI’s product marketing and competitive intelligence, provides a window into the thoughts of analysts in the ever-evolving CI/CD space. Their discussion explores how the power of diverse perspectives in problem-solving can yield many different types of product offerings.<br/><br/>They discuss the intricate nature of software developers as unique and discerning customers, recognizing developers&apos; inherent problem-solving abilities. The episode unfolds with insights into emerging trends in the tooling space and the promising potential for increased collaboration between developers and customer-facing teams.<br/><br/>Have someone you’d like to hear on the podcast, reach out to us on Twitter/X at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/14066438-what-s-next-for-ci-cd-analyst-predictions.mp3" length="19162631" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14066438</guid>
+    <pubDate>Fri, 01 Dec 2023 08:00:00 -0600</pubDate>
+    <itunes:duration>1589</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>AI and the evolution of learning: Insights from Coding with Lewis</itunes:title>
+    <title>AI and the evolution of learning: Insights from Coding with Lewis</title>
+    <itunes:summary><![CDATA[In this episode, Rob sits down with Lewis Menelaws from Coding with Lewis, a prominent social media influencer and content creator specializing in entertaining and empowering software developers. Together, they explore the evolving landscape of learning the craft, drawing comparisons between the present day and the learning experiences of 25 years ago.  The conversation delves into the transformative impact of AI on the learning process and Lewis shares valuable insights on how senior leaders...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob sits down with Lewis Menelaws from Coding with Lewis, a prominent social media influencer and content creator specializing in entertaining and empowering software developers. Together, they explore the evolving landscape of learning the craft, drawing comparisons between the present day and the learning experiences of 25 years ago.<br/><br/>The conversation delves into the transformative impact of AI on the learning process and Lewis shares valuable insights on how senior leaders and developers can effectively guide and empower the upcoming generation of developers. Tune in for a thoughtful discussion on the past, present, and future of software development education.<br/><br/>Have someone you’d like to hear on the podcast, reach out to us on X/Twitter at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob sits down with Lewis Menelaws from Coding with Lewis, a prominent social media influencer and content creator specializing in entertaining and empowering software developers. Together, they explore the evolving landscape of learning the craft, drawing comparisons between the present day and the learning experiences of 25 years ago.<br/><br/>The conversation delves into the transformative impact of AI on the learning process and Lewis shares valuable insights on how senior leaders and developers can effectively guide and empower the upcoming generation of developers. Tune in for a thoughtful discussion on the past, present, and future of software development education.<br/><br/>Have someone you’d like to hear on the podcast, reach out to us on X/Twitter at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/14013652-ai-and-the-evolution-of-learning-insights-from-coding-with-lewis.mp3" length="22884449" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14013652</guid>
+    <pubDate>Wed, 22 Nov 2023 08:00:00 -0600</pubDate>
+    <itunes:duration>1900</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>ML for software engineers ft. Gideon Mendels of Comet ML</itunes:title>
+    <title>ML for software engineers ft. Gideon Mendels of Comet ML</title>
+    <itunes:summary><![CDATA[In this episode, Rob explores the fascinating crossroads of machine learning and software engineering with Gideon Mendels, the co-founder and CEO of Comet ML.   Gideon navigates the often ambiguous world of training ML models, focusing on building a common language between software engineers and data science teams.  Gain valuable insights into fostering mutual understanding between these two disciplines and aligning the possibilities of ML with organizational needs in this thought-provok...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob explores the fascinating crossroads of machine learning and software engineering with Gideon Mendels, the co-founder and CEO of Comet ML. <br/><br/>Gideon navigates the often ambiguous world of training ML models, focusing on building a common language between software engineers and data science teams.<br/><br/>Gain valuable insights into fostering mutual understanding between these two disciplines and aligning the possibilities of ML with organizational needs in this thought-provoking episode.<br/><br/>Have someone you’d like to hear on the podcast? Reach out to us on Twitter/X at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob explores the fascinating crossroads of machine learning and software engineering with Gideon Mendels, the co-founder and CEO of Comet ML. <br/><br/>Gideon navigates the often ambiguous world of training ML models, focusing on building a common language between software engineers and data science teams.<br/><br/>Gain valuable insights into fostering mutual understanding between these two disciplines and aligning the possibilities of ML with organizational needs in this thought-provoking episode.<br/><br/>Have someone you’d like to hear on the podcast? Reach out to us on Twitter/X at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/13978874-ml-for-software-engineers-ft-gideon-mendels-of-comet-ml.mp3" length="21754795" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13978874</guid>
+    <pubDate>Fri, 17 Nov 2023 06:00:00 -0600</pubDate>
+    <itunes:duration>1807</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Getting GenAI into your product roadmap</itunes:title>
+    <title>Getting GenAI into your product roadmap</title>
+    <itunes:summary><![CDATA[In this episode, dive deep into the world of AI-enabled products and the push to explore and integrate them at CircleCI. Rob is joined by Aakar Shroff, CircleCI’s VP of product. Aakar shares valuable insights into AI product development and how AI tools can be leveraged to streamline software delivery processes.  Rob and Aakar explore the fast-evolving AI landscape, including the convergence of different media formats and the future possibilities it holds for applications. Tune in to gain a d...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, dive deep into the world of AI-enabled products and the push to explore and integrate them at CircleCI. Rob is joined by Aakar Shroff, CircleCI’s VP of product. Aakar shares valuable insights into AI product development and how AI tools can be leveraged to streamline software delivery processes.<br/><br/>Rob and Aakar explore the fast-evolving AI landscape, including the convergence of different media formats and the future possibilities it holds for applications. Tune in to gain a deeper understanding of the potential of AI in software delivery and discover the exciting challenges and opportunities this ever-evolving field offers.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, dive deep into the world of AI-enabled products and the push to explore and integrate them at CircleCI. Rob is joined by Aakar Shroff, CircleCI’s VP of product. Aakar shares valuable insights into AI product development and how AI tools can be leveraged to streamline software delivery processes.<br/><br/>Rob and Aakar explore the fast-evolving AI landscape, including the convergence of different media formats and the future possibilities it holds for applications. Tune in to gain a deeper understanding of the potential of AI in software delivery and discover the exciting challenges and opportunities this ever-evolving field offers.</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/13853627-getting-genai-into-your-product-roadmap.mp3" length="17494547" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13853627</guid>
+    <pubDate>Fri, 27 Oct 2023 08:00:00 -0500</pubDate>
+    <itunes:duration>1451</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Testing GenAI: How to approach nondeterministic software development</itunes:title>
+    <title>Testing GenAI: How to approach nondeterministic software development</title>
+    <itunes:summary><![CDATA[Michael Webster, principal engineer at CircleCI, talks to Rob about testing AI-enabled applications. In this episode, learn how to face the unique challenges posed by the probabilistic and non-deterministic nature of AI output, as well as the importance of subjective evaluation criteria.   Webster covers how model graded evals can be used to test AI applications, and the importance of caution in using this approach.   CircleCI gives AI/ML teams the tools they need to iterate quickly...]]></itunes:summary>
+    <description><![CDATA[<p>Michael Webster, principal engineer at CircleCI, talks to Rob about testing AI-enabled applications. In this episode, learn how to face the unique challenges posed by the probabilistic and non-deterministic nature of AI output, as well as the importance of subjective evaluation criteria. <br/><br/>Webster covers how model graded evals can be used to test AI applications, and the importance of caution in using this approach. <br/><br/>CircleCI gives AI/ML teams the tools they need to iterate quickly, deploy safely, and deliver value continuously. To learn more, visit: circleci.com/ai-ml/<br/><br/>Have someone you’d like to hear on the podcast? Reach out to us on Twitter/X at @CircleCI! </p>]]></description>
+    <content:encoded><![CDATA[<p>Michael Webster, principal engineer at CircleCI, talks to Rob about testing AI-enabled applications. In this episode, learn how to face the unique challenges posed by the probabilistic and non-deterministic nature of AI output, as well as the importance of subjective evaluation criteria. <br/><br/>Webster covers how model graded evals can be used to test AI applications, and the importance of caution in using this approach. <br/><br/>CircleCI gives AI/ML teams the tools they need to iterate quickly, deploy safely, and deliver value continuously. To learn more, visit: circleci.com/ai-ml/<br/><br/>Have someone you’d like to hear on the podcast? Reach out to us on Twitter/X at @CircleCI! </p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/13812690-testing-genai-how-to-approach-nondeterministic-software-development.mp3" length="18358806" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13812690</guid>
+    <pubDate>Fri, 20 Oct 2023 08:00:00 -0500</pubDate>
+    <itunes:duration>1525</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>GenAI in production: how we built AI into CircleCI</itunes:title>
+    <title>GenAI in production: how we built AI into CircleCI</title>
+    <itunes:summary><![CDATA[In this episode, you’ll learn how to empower your team to do the most challenging thing when it comes to AI - getting started!   Rob is joined by Kira Muehlbauer and Ryan Hamilton, two engineers who worked on building a groundbreaking feature at CircleCI called the AI error summarizer. Discover their insights into the process of building AI products, the challenges they faced, and the valuable lessons they learned along the way.  CircleCI gives AI/ML teams the tools they need to iterate ...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, you’ll learn how to empower your team to do the most challenging thing when it comes to AI - getting started! <br/><br/>Rob is joined by Kira Muehlbauer and Ryan Hamilton, two engineers who worked on building a groundbreaking feature at CircleCI called the AI error summarizer. Discover their insights into the process of building AI products, the challenges they faced, and the valuable lessons they learned along the way.<br/><br/>CircleCI gives AI/ML teams the tools they need to iterate quickly, deploy safely, and deliver value continuously. To learn more, visit: circleci.com/ai-ml/<br/><br/>Have someone you’d like to hear on the podcast? Reach out to us on Twitter/X at @CircleCI!</p><p><br/><br/><br/><br/><br/></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, you’ll learn how to empower your team to do the most challenging thing when it comes to AI - getting started! <br/><br/>Rob is joined by Kira Muehlbauer and Ryan Hamilton, two engineers who worked on building a groundbreaking feature at CircleCI called the AI error summarizer. Discover their insights into the process of building AI products, the challenges they faced, and the valuable lessons they learned along the way.<br/><br/>CircleCI gives AI/ML teams the tools they need to iterate quickly, deploy safely, and deliver value continuously. To learn more, visit: circleci.com/ai-ml/<br/><br/>Have someone you’d like to hear on the podcast? Reach out to us on Twitter/X at @CircleCI!</p><p><br/><br/><br/><br/><br/></p><p><br/></p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/13768490-genai-in-production-how-we-built-ai-into-circleci.mp3" length="16219991" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13768490</guid>
+    <pubDate>Fri, 13 Oct 2023 07:00:00 -0500</pubDate>
+    <itunes:duration>1342</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Season 3 finale: Top tips for teams + Rob&#39;s best team of all time</itunes:title>
+    <title>Season 3 finale: Top tips for teams + Rob&#39;s best team of all time</title>
+    <itunes:summary><![CDATA[In this finale episode, Rob Zuber explores what he has learned from the season on what makes teams great. Rob recaps how to achieve people-centered scaling and debates whether revolutions in software delivery exist.   Plus, get to know Rob better as he recalls his favorite team of all time, not including his current team at CircleCI.   Listen through the end to look ahead to what’s in store for season 4. Have someone you’d like to hear on the podcast? Reach out to us on Twitter at @...]]></itunes:summary>
+    <description><![CDATA[<p>In this finale episode, Rob Zuber explores what he has learned from the season on what makes teams great. Rob recaps how to achieve people-centered scaling and debates whether revolutions in software delivery exist. <br/><br/>Plus, get to know Rob better as he recalls his favorite team of all time, not including his current team at CircleCI. <br/><br/>Listen through the end to look ahead to what’s in store for season 4. Have someone you’d like to hear on the podcast? Reach out to us on Twitter at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this finale episode, Rob Zuber explores what he has learned from the season on what makes teams great. Rob recaps how to achieve people-centered scaling and debates whether revolutions in software delivery exist. <br/><br/>Plus, get to know Rob better as he recalls his favorite team of all time, not including his current team at CircleCI. <br/><br/>Listen through the end to look ahead to what’s in store for season 4. Have someone you’d like to hear on the podcast? Reach out to us on Twitter at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/12919658-season-3-finale-top-tips-for-teams-rob-s-best-team-of-all-time.mp3" length="12642237" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12919658</guid>
+    <pubDate>Fri, 26 May 2023 09:00:00 -0500</pubDate>
+    <itunes:duration>1042</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Unleashing creativity: trust &amp; leadership in teams, inspired by jazz</itunes:title>
+    <title>Unleashing creativity: trust &amp; leadership in teams, inspired by jazz</title>
+    <itunes:summary><![CDATA[What can successful ad hoc jazz groups teach us about trust, personal preparedness, and leadership dynamics? In this special episode Rob is joined by jazz guitarist, Jeff Massanari, to explore the similarities between high-functioning jazz groups and software teams. Through Jeff’s stories and insights, you’ll learn valuable lessons from the world of jazz that can help you quickly adapt to new teams.  Have someone you’d like to hear on the podcast? Reach out to us on Twitter at @CircleCI! ]]></itunes:summary>
+    <description><![CDATA[<p>What can successful ad hoc jazz groups teach us about trust, personal preparedness, and leadership dynamics? In this special episode Rob is joined by jazz guitarist, Jeff Massanari, to explore the similarities between high-functioning jazz groups and software teams. Through Jeff’s stories and insights, you’ll learn valuable lessons from the world of jazz that can help you quickly adapt to new teams.<br/><br/>Have someone you’d like to hear on the podcast? Reach out to us on Twitter at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>What can successful ad hoc jazz groups teach us about trust, personal preparedness, and leadership dynamics? In this special episode Rob is joined by jazz guitarist, Jeff Massanari, to explore the similarities between high-functioning jazz groups and software teams. Through Jeff’s stories and insights, you’ll learn valuable lessons from the world of jazz that can help you quickly adapt to new teams.<br/><br/>Have someone you’d like to hear on the podcast? Reach out to us on Twitter at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/12785854-unleashing-creativity-trust-leadership-in-teams-inspired-by-jazz.mp3" length="23669966" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12785854</guid>
+    <pubDate>Fri, 05 May 2023 08:00:00 -0500</pubDate>
+    <itunes:duration>1968</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How to position yourself for the AI revolution ft. Steve Yegge of Sourcegraph</itunes:title>
+    <title>How to position yourself for the AI revolution ft. Steve Yegge of Sourcegraph</title>
+    <itunes:summary><![CDATA[How do we keep up with this rapidly changing AI revolution? Steve Yegge, Head of Engineering at Sourcegraph joins Rob to discuss all things generative AI. Rob and Steve discuss the “innovator’s dilemma” and the concerns around jobs and productivity.  Have a guest you’d like to hear on the podcast, let us know on Twitter @circleci_sandbox! ]]></itunes:summary>
+    <description><![CDATA[<p>How do we keep up with this rapidly changing AI revolution? Steve Yegge, Head of Engineering at Sourcegraph joins Rob to discuss all things generative AI. Rob and Steve discuss the “innovator’s dilemma” and the concerns around jobs and productivity.<br/><br/>Have a guest you’d like to hear on the podcast, let us know on Twitter <a href='https://circleci.slack.com/team/U01086P0VNW'>@circleci_sandbox</a>!</p>]]></description>
+    <content:encoded><![CDATA[<p>How do we keep up with this rapidly changing AI revolution? Steve Yegge, Head of Engineering at Sourcegraph joins Rob to discuss all things generative AI. Rob and Steve discuss the “innovator’s dilemma” and the concerns around jobs and productivity.<br/><br/>Have a guest you’d like to hear on the podcast, let us know on Twitter <a href='https://circleci.slack.com/team/U01086P0VNW'>@circleci_sandbox</a>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/12682361-how-to-position-yourself-for-the-ai-revolution-ft-steve-yegge-of-sourcegraph.mp3" length="27348299" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12682361</guid>
+    <pubDate>Fri, 21 Apr 2023 08:00:00 -0500</pubDate>
+    <itunes:duration>2274</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>DevOps is dead? Nope, it is maturing ft. Jesse Robbins of Heavybit</itunes:title>
+    <title>DevOps is dead? Nope, it is maturing ft. Jesse Robbins of Heavybit</title>
+    <itunes:summary><![CDATA[In this episode, Rob sits down with the DevOps “party starter” himself, Jesse Robbins, to discuss the current state of software delivery. Is DevOps really dead, or are we simply witnessing a maturing model as organizations grow and evolve? Tune it to hear Jesse’s valuable take on where he sees the industry moving and the potential complexities on the horizon.  Download the 2023 State of Software Delivery Report here: circleci.com/resources/2023-state-of-software-delivery/ For more information...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob sits down with the DevOps “party starter” himself, Jesse Robbins, to discuss the current state of software delivery. Is DevOps really dead, or are we simply witnessing a maturing model as organizations grow and evolve? Tune it to hear Jesse’s valuable take on where he sees the industry moving and the potential complexities on the horizon.<br/><br/>Download the 2023 State of Software Delivery Report here: <a href='http://circleci.com/resources/2023-state-of-software-delivery/'>circleci.com/resources/2023-state-of-software-delivery/</a><br/>For more information on platform engineering, visit: <a href='http://circleci.com/blog/platform-engineering-devops-at-scale/'>circleci.com/blog/platform-engineering-devops-at-scale/</a><br/><br/>Have someone you’d like to hear on the podcast, let us know on Twitter <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>! </p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob sits down with the DevOps “party starter” himself, Jesse Robbins, to discuss the current state of software delivery. Is DevOps really dead, or are we simply witnessing a maturing model as organizations grow and evolve? Tune it to hear Jesse’s valuable take on where he sees the industry moving and the potential complexities on the horizon.<br/><br/>Download the 2023 State of Software Delivery Report here: <a href='http://circleci.com/resources/2023-state-of-software-delivery/'>circleci.com/resources/2023-state-of-software-delivery/</a><br/>For more information on platform engineering, visit: <a href='http://circleci.com/blog/platform-engineering-devops-at-scale/'>circleci.com/blog/platform-engineering-devops-at-scale/</a><br/><br/>Have someone you’d like to hear on the podcast, let us know on Twitter <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>! </p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/12603133-devops-is-dead-nope-it-is-maturing-ft-jesse-robbins-of-heavybit.mp3" length="27384943" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12603133</guid>
+    <pubDate>Fri, 07 Apr 2023 08:00:00 -0500</pubDate>
+    <itunes:duration>2277</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Why psychological safety matters ft. CEO of Pulumi, Joe Duffy</itunes:title>
+    <title>Why psychological safety matters ft. CEO of Pulumi, Joe Duffy</title>
+    <itunes:summary><![CDATA[Joe Duffy, co-founder and CEO of Pulumi, joins Rob in this episode to discuss how we can become architects of culture in our environment. What is psychological safety and how can your team achieve it? How can psychological safety, blameless culture, and accountability create a self-reinforcing “triad” within an organization? Tune in to hear Joe take accountability on his own teams to bring clarity and structure to achieve team goals.  Have someone you’d like to hear on the podcast, let us kno...]]></itunes:summary>
+    <description><![CDATA[<p>Joe Duffy, co-founder and CEO of Pulumi, joins Rob in this episode to discuss how we can become architects of culture in our environment. What is psychological safety and how can your team achieve it? How can psychological safety, blameless culture, and accountability create a self-reinforcing “triad” within an organization? Tune in to hear Joe take accountability on his own teams to bring clarity and structure to achieve team goals.<br/><br/>Have someone you’d like to hear on the podcast, let us know on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></description>
+    <content:encoded><![CDATA[<p>Joe Duffy, co-founder and CEO of Pulumi, joins Rob in this episode to discuss how we can become architects of culture in our environment. What is psychological safety and how can your team achieve it? How can psychological safety, blameless culture, and accountability create a self-reinforcing “triad” within an organization? Tune in to hear Joe take accountability on his own teams to bring clarity and structure to achieve team goals.<br/><br/>Have someone you’d like to hear on the podcast, let us know on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/12495627-why-psychological-safety-matters-ft-ceo-of-pulumi-joe-duffy.mp3" length="20232448" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12495627</guid>
+    <pubDate>Fri, 24 Mar 2023 08:00:00 -0500</pubDate>
+    <itunes:duration>1681</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Scaling your org with teams in mind ft. CTO of Apollo GraphQL, Matt DeBergalis</itunes:title>
+    <title>Scaling your org with teams in mind ft. CTO of Apollo GraphQL, Matt DeBergalis</title>
+    <itunes:summary><![CDATA[In this episode, Matt DeBergalis gives us an inside look into what it took to scale Apollo GraphQL with teams in mind. From hiring new members to equipping and empowering current ones, tune in to hear Matt share valuable perspectives on how to build great teams, both culturally and structurally through the different stages of an organization.  Have a guest you’d like to hear on the podcast? Reach out to us on Twitter at @CircleCI! ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Matt DeBergalis gives us an inside look into what it took to scale Apollo GraphQL with teams in mind. From hiring new members to equipping and empowering current ones, tune in to hear Matt share valuable perspectives on how to build great teams, both culturally and structurally through the different stages of an organization.<br/><br/>Have a guest you’d like to hear on the podcast? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Matt DeBergalis gives us an inside look into what it took to scale Apollo GraphQL with teams in mind. From hiring new members to equipping and empowering current ones, tune in to hear Matt share valuable perspectives on how to build great teams, both culturally and structurally through the different stages of an organization.<br/><br/>Have a guest you’d like to hear on the podcast? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/12402149-scaling-your-org-with-teams-in-mind-ft-cto-of-apollo-graphql-matt-debergalis.mp3" length="20541966" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12402149</guid>
+    <pubDate>Fri, 10 Mar 2023 08:00:00 -0600</pubDate>
+    <itunes:duration>1707</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Curating culture ft. Raji Subramanian, CTO of Opendoor</itunes:title>
+    <title>Curating culture ft. Raji Subramanian, CTO of Opendoor</title>
+    <itunes:summary><![CDATA[Raji Subramanian sits down with Rob to talk about her experience being on several world-class teams. At Amazon, Pro.com, and OpenDoor, Raji has a developed a deep understanding of what it takes to build a culture that is customer-centric, operates with a startup mentality, and acts from ownership. In this episode, Raji shares what she’s learned and how she thinks about hiring for culture and building it from within.  Have a guest you’d like to see on the podcast? Reach out to us on Twitter at...]]></itunes:summary>
+    <description><![CDATA[<p>Raji Subramanian sits down with Rob to talk about her experience being on several world-class teams. At Amazon, <a href='http://pro.com/'>Pro.com</a>, and OpenDoor, Raji has a developed a deep understanding of what it takes to build a culture that is customer-centric, operates with a startup mentality, and acts from ownership. In this episode, Raji shares what she’s learned and how she thinks about hiring for culture and building it from within.<br/><br/>Have a guest you’d like to see on the podcast? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p><p><br/></p><p><br/><br/><br/><br/><br/><br/><br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>Raji Subramanian sits down with Rob to talk about her experience being on several world-class teams. At Amazon, <a href='http://pro.com/'>Pro.com</a>, and OpenDoor, Raji has a developed a deep understanding of what it takes to build a culture that is customer-centric, operates with a startup mentality, and acts from ownership. In this episode, Raji shares what she’s learned and how she thinks about hiring for culture and building it from within.<br/><br/>Have a guest you’d like to see on the podcast? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p><p><br/></p><p><br/><br/><br/><br/><br/><br/><br/><br/></p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/12306729-curating-culture-ft-raji-subramanian-cto-of-opendoor.mp3" length="22292411" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12306729</guid>
+    <pubDate>Fri, 24 Feb 2023 08:00:00 -0600</pubDate>
+    <itunes:duration>1852</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Gene Kim on what makes teams great</itunes:title>
+    <title>Gene Kim on what makes teams great</title>
+    <itunes:summary><![CDATA[To kick off season 3, Rob is joined by DevOps enthusiast and Wall Street Journal best-selling author, Gene Kim. Gene has spent years researching and documenting the evolution of DevOps. In this episode, hear Gene conceptualize high-performing teams using a group of painters and movers. What can this model show us about the intricacies and challenges all teams face? Tune in today!  Have a topic you’d like us to discuss? Reach out to us on Twitter at @CircleCI! ]]></itunes:summary>
+    <description><![CDATA[<p>To kick off season 3, Rob is joined by DevOps enthusiast and Wall Street Journal best-selling author, Gene Kim. Gene has spent years researching and documenting the evolution of DevOps. In this episode, hear Gene conceptualize high-performing teams using a group of painters and movers. What can this model show us about the intricacies and challenges all teams face? Tune in today!<br/><br/>Have a topic you’d like us to discuss? Reach out to us on Twitter at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>To kick off season 3, Rob is joined by DevOps enthusiast and Wall Street Journal best-selling author, Gene Kim. Gene has spent years researching and documenting the evolution of DevOps. In this episode, hear Gene conceptualize high-performing teams using a group of painters and movers. What can this model show us about the intricacies and challenges all teams face? Tune in today!<br/><br/>Have a topic you’d like us to discuss? Reach out to us on Twitter at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/12178368-gene-kim-on-what-makes-teams-great.mp3" length="22899416" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12178368</guid>
+    <pubDate>Fri, 10 Feb 2023 08:00:00 -0600</pubDate>
+    <itunes:duration>1904</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Season 2 finale: How to grow from failure in 2023 + Rob&#39;s worst failure</itunes:title>
+    <title>Season 2 finale: How to grow from failure in 2023 + Rob&#39;s worst failure</title>
+    <itunes:summary><![CDATA[In the finale episode of season 2, our podcast producer Julia McClellan turns the tables on Rob to see what he's really learned from interviewing 18 top tech leaders in 2022.  Rob reflects on how to grow, communicate, and change our ways from experiencing failure. Tune in today to hear Rob share his most catastrophic failure and catch a special preview to season 3.   Have a topic you want us to discuss? Reach out to us on Twitter at @CircleCI! ]]></itunes:summary>
+    <description><![CDATA[<p>In the finale episode of season 2, our podcast producer Julia McClellan turns the tables on Rob to see what he&apos;s really learned from interviewing 18 top tech leaders in 2022.<br/><br/>Rob reflects on how to grow, communicate, and change our ways from experiencing failure. Tune in today to hear Rob share his most catastrophic failure and catch a special preview to season 3. <br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></description>
+    <content:encoded><![CDATA[<p>In the finale episode of season 2, our podcast producer Julia McClellan turns the tables on Rob to see what he&apos;s really learned from interviewing 18 top tech leaders in 2022.<br/><br/>Rob reflects on how to grow, communicate, and change our ways from experiencing failure. Tune in today to hear Rob share his most catastrophic failure and catch a special preview to season 3. <br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11709786-season-2-finale-how-to-grow-from-failure-in-2023-rob-s-worst-failure.mp3" length="35517358" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11709786</guid>
+    <pubDate>Fri, 18 Nov 2022 07:00:00 -0600</pubDate>
+    <itunes:duration>2943</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Leveraging failure to achieve scale ft. Shailesh Kumar, SVP of Engineering at ClickUp</itunes:title>
+    <title>Leveraging failure to achieve scale ft. Shailesh Kumar, SVP of Engineering at ClickUp</title>
+    <itunes:summary><![CDATA[How do you not take failure personally, but instead use it as a tool for growth?  Shailesh Kumar, SVP of Engineering at ClickUp, sits down with Rob to share his experiences being a part of numerous organizations on the brink of major growth. As head of engineering, Shailesh has had to manage his teams through difficult circumstances like platform stability challenges with a healthy dose of trial and error.  He's become adept at working through complex problems and keeping the teams motivated ...]]></itunes:summary>
+    <description><![CDATA[<p>How do you not take failure personally, but instead use it as a tool for growth?<br/><br/>Shailesh Kumar, SVP of Engineering at ClickUp, sits down with Rob to share his experiences being a part of numerous organizations on the brink of major growth. As head of engineering, Shailesh has had to manage his teams through difficult circumstances like platform stability challenges with a healthy dose of trial and error.<br/><br/>He&apos;s become adept at working through complex problems and keeping the teams motivated even when it feels like they&apos;re falling more than they&apos;re succeeding. Have a topic you want us to discuss? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></description>
+    <content:encoded><![CDATA[<p>How do you not take failure personally, but instead use it as a tool for growth?<br/><br/>Shailesh Kumar, SVP of Engineering at ClickUp, sits down with Rob to share his experiences being a part of numerous organizations on the brink of major growth. As head of engineering, Shailesh has had to manage his teams through difficult circumstances like platform stability challenges with a healthy dose of trial and error.<br/><br/>He&apos;s become adept at working through complex problems and keeping the teams motivated even when it feels like they&apos;re falling more than they&apos;re succeeding. Have a topic you want us to discuss? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11664473-leveraging-failure-to-achieve-scale-ft-shailesh-kumar-svp-of-engineering-at-clickup.mp3" length="23010734" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11664473</guid>
+    <pubDate>Fri, 11 Nov 2022 07:00:00 -0600</pubDate>
+    <itunes:duration>1913</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Turo&#39;s approach to reliability with real-world objects ft. Avinash Gangadharan</itunes:title>
+    <title>Turo&#39;s approach to reliability with real-world objects ft. Avinash Gangadharan</title>
+    <itunes:summary><![CDATA[What reliability factors does Turo have to consider when it comes to transportation and real-world objects?  Avinash Gangadharan, CTO of Turo, joins Rob to discuss the complexities involved in managing software for a car sharing marketplace. He shares valuable strategies and mindsets Turo has adopted to become the leader of their industry. You’ll learn how using your own product can give meaningful insights into what matters most for the user experience.  If there’s something you want us to h...]]></itunes:summary>
+    <description><![CDATA[<p>What reliability factors does Turo have to consider when it comes to transportation and real-world objects?<br/><br/>Avinash Gangadharan, CTO of Turo, joins Rob to discuss the complexities involved in managing software for a car sharing marketplace. He shares valuable strategies and mindsets Turo has adopted to become the leader of their industry. You’ll learn how using your own product can give meaningful insights into what matters most for the user experience.<br/><br/>If there’s something you want us to hear discussed on a future episode, reach out to us on twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></description>
+    <content:encoded><![CDATA[<p>What reliability factors does Turo have to consider when it comes to transportation and real-world objects?<br/><br/>Avinash Gangadharan, CTO of Turo, joins Rob to discuss the complexities involved in managing software for a car sharing marketplace. He shares valuable strategies and mindsets Turo has adopted to become the leader of their industry. You’ll learn how using your own product can give meaningful insights into what matters most for the user experience.<br/><br/>If there’s something you want us to hear discussed on a future episode, reach out to us on twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11567195-turo-s-approach-to-reliability-with-real-world-objects-ft-avinash-gangadharan.mp3" length="23490770" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11567195</guid>
+    <pubDate>Fri, 28 Oct 2022 07:00:00 -0500</pubDate>
+    <itunes:duration>1954</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The &quot;aha moment&quot; fallacy ft. Justin Bauer, CPO of Amplitude Analytics</itunes:title>
+    <title>The &quot;aha moment&quot; fallacy ft. Justin Bauer, CPO of Amplitude Analytics</title>
+    <itunes:summary><![CDATA[We all love a good “aha moment” story, where an innovative product comes by a moment of brilliance. But most successful ventures involve a continuous journey of testing to see if something works.   Justin Bauer, Chief Product Officer at Amplitude Analytics, joins Rob and shares valuable insights on how we can lean into experimentation and put the “aha moments” in their proper place.  Have a topic you want us to discuss? Reach out to us on Twitter at @CircleCI!   ]]></itunes:summary>
+    <description><![CDATA[<p>We all love a good “aha moment” story, where an innovative product comes by a moment of brilliance. But most successful ventures involve a continuous journey of testing to see if something works. <br/><br/>Justin Bauer, Chief Product Officer at Amplitude Analytics, joins Rob and shares valuable insights on how we can lean into experimentation and put the “aha moments” in their proper place.<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>We all love a good “aha moment” story, where an innovative product comes by a moment of brilliance. But most successful ventures involve a continuous journey of testing to see if something works. <br/><br/>Justin Bauer, Chief Product Officer at Amplitude Analytics, joins Rob and shares valuable insights on how we can lean into experimentation and put the “aha moments” in their proper place.<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p><p><br/></p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11494430-the-aha-moment-fallacy-ft-justin-bauer-cpo-of-amplitude-analytics.mp3" length="21388223" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11494430</guid>
+    <pubDate>Fri, 14 Oct 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>1778</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>What role does ingenuity play in software development? ft. Bryan Finster of Defense Unicorns</itunes:title>
+    <title>What role does ingenuity play in software development? ft. Bryan Finster of Defense Unicorns</title>
+    <itunes:summary><![CDATA[Is it possible that the new tech and clever ideas can get in the way of adding value to our business?  Bryan Finster, Distinguished Engineer at Defense Unicorn, sits down with Rob and shares how his perspective on solving business problems with code. Learn valuable insights on how we can keep the end user in mind while using technology to make their lives better.  Have a topic you'd like us to discuss? Someone you want us to interview? Reach out to us on Twitter @CircleCI! ]]></itunes:summary>
+    <description><![CDATA[<p>Is it possible that the new tech and clever ideas can get in the way of adding value to our business?<br/><br/>Bryan Finster, Distinguished Engineer at Defense Unicorn, sits down with Rob and shares how his perspective on solving business problems with code. Learn valuable insights on how we can keep the end user in mind while using technology to make their lives better.<br/><br/>Have a topic you&apos;d like us to discuss? Someone you want us to interview? Reach out to us on Twitter @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>Is it possible that the new tech and clever ideas can get in the way of adding value to our business?<br/><br/>Bryan Finster, Distinguished Engineer at Defense Unicorn, sits down with Rob and shares how his perspective on solving business problems with code. Learn valuable insights on how we can keep the end user in mind while using technology to make their lives better.<br/><br/>Have a topic you&apos;d like us to discuss? Someone you want us to interview? Reach out to us on Twitter @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11413451-what-role-does-ingenuity-play-in-software-development-ft-bryan-finster-of-defense-unicorns.mp3" length="23013852" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11413451</guid>
+    <pubDate>Fri, 30 Sep 2022 08:00:00 -0500</pubDate>
+    <itunes:duration>1914</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Experimenting our way to success ft. Aniel Sud, CTO of Optimizely</itunes:title>
+    <title>Experimenting our way to success ft. Aniel Sud, CTO of Optimizely</title>
+    <itunes:summary><![CDATA[In this episode, Rob is joined by Optimizely CTO, Aniel Sud, to discuss the importance of experimenting for growth.   Entrepreneurship and innovation require courage, but having courage can bring on emotions that make it difficult for us to experiment objectively. How do we hold our strong opinions loosely to press forward with new information?  Have a topic you want us to discuss? Reach out to us on Twitter at @circleci! ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob is joined by Optimizely CTO, Aniel Sud, to discuss the importance of experimenting for growth. <br/><br/>Entrepreneurship and innovation require courage, but having courage can bring on emotions that make it difficult for us to experiment objectively. How do we hold our strong opinions loosely to press forward with new information?<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob is joined by Optimizely CTO, Aniel Sud, to discuss the importance of experimenting for growth. <br/><br/>Entrepreneurship and innovation require courage, but having courage can bring on emotions that make it difficult for us to experiment objectively. How do we hold our strong opinions loosely to press forward with new information?<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11319644-experimenting-our-way-to-success-ft-aniel-sud-cto-of-optimizely.mp3" length="24462143" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11319644</guid>
+    <pubDate>Fri, 16 Sep 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>2034</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Do we all benefit equally from failure? ft. Lisa Gelobter</itunes:title>
+    <title>Do we all benefit equally from failure? ft. Lisa Gelobter</title>
+    <itunes:summary><![CDATA[How do you restructure your team, language, and practices so that your team can grow from failure?  Lisa Gelobter, CEO of tEQuitable sits down with Rob to share her mission: helping companies create culture that works, for everyone. In this episode, Lisa explains how learning to shift perspective on failure allows you to create a company culture based on collaboration, not competition.  Have a topic you want us to discuss? Reach out to us on Twitter at @CircleCI! ]]></itunes:summary>
+    <description><![CDATA[<p>How do you restructure your team, language, and practices so that your team can grow from failure?<br/><br/>Lisa Gelobter, CEO of tEQuitable sits down with Rob to share her mission: helping companies create culture that works, for everyone. In this episode, Lisa explains how learning to shift perspective on failure allows you to create a company culture based on collaboration, not competition.<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @CircleCI!</p>]]></description>
+    <content:encoded><![CDATA[<p>How do you restructure your team, language, and practices so that your team can grow from failure?<br/><br/>Lisa Gelobter, CEO of tEQuitable sits down with Rob to share her mission: helping companies create culture that works, for everyone. In this episode, Lisa explains how learning to shift perspective on failure allows you to create a company culture based on collaboration, not competition.<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @CircleCI!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11196998-do-we-all-benefit-equally-from-failure-ft-lisa-gelobter.mp3" length="28593890" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11196998</guid>
+    <pubDate>Fri, 02 Sep 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>2379</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Overcoming data chaos ft. Thomas Hazel, founder of ChaosSearch</itunes:title>
+    <title>Overcoming data chaos ft. Thomas Hazel, founder of ChaosSearch</title>
+    <itunes:summary><![CDATA[In this episode, Rob is joined by Thomas Hazel, founder and CTO of ChaosSearch.   Every software company has tons of data to manage. Have we set ourselves up for failure? How do we recover from a data mess? Learn how Thomas embraces chaos to tackle big data problems by taking risks and embracing failure.  Have a topic you want us to discuss? Reach out to us on Twitter at @CircleCI! ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Rob is joined by Thomas Hazel, founder and CTO of ChaosSearch. <br/><br/>Every software company has tons of data to manage. Have we set ourselves up for failure? How do we recover from a data mess? Learn how Thomas embraces chaos to tackle big data problems by taking risks and embracing failure.<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Rob is joined by Thomas Hazel, founder and CTO of ChaosSearch. <br/><br/>Every software company has tons of data to manage. Have we set ourselves up for failure? How do we recover from a data mess? Learn how Thomas embraces chaos to tackle big data problems by taking risks and embracing failure.<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11155301-overcoming-data-chaos-ft-thomas-hazel-founder-of-chaossearch.mp3" length="16946711" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11155301</guid>
+    <pubDate>Fri, 19 Aug 2022 06:00:00 -0500</pubDate>
+    <itunes:duration>1407</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Securing software supply chain without panicking ft. Chainguard co-founder Kim Lewandowski</itunes:title>
+    <title>Securing software supply chain without panicking ft. Chainguard co-founder Kim Lewandowski</title>
+    <itunes:summary><![CDATA[Chainguard co-founder, Kim Lewandowski joins Rob to discuss the ways she presses forward in the fear-driven world of software supply chain security. In any kind of mistake or failure, security breaches have to be something that we can learn from.   On the other hand, particularly during investigation, there are often walls of trust and other factors affecting fully transparent communication. Does this impact our ability to learn? Is there something we have to do differently to get better...]]></itunes:summary>
+    <description><![CDATA[<p>Chainguard co-founder, Kim Lewandowski joins Rob to discuss the ways she presses forward in the fear-driven world of software supply chain security. In any kind of mistake or failure, security breaches have to be something that we can learn from. <br/><br/>On the other hand, particularly during investigation, there are often walls of trust and other factors affecting fully transparent communication. Does this impact our ability to learn? Is there something we have to do differently to get better at it?<br/><br/>Tune in to this episode to hear Kim share valuable insights on how to educate through moments of panic and how to help others focus on the next step.<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Chainguard co-founder, Kim Lewandowski joins Rob to discuss the ways she presses forward in the fear-driven world of software supply chain security. In any kind of mistake or failure, security breaches have to be something that we can learn from. <br/><br/>On the other hand, particularly during investigation, there are often walls of trust and other factors affecting fully transparent communication. Does this impact our ability to learn? Is there something we have to do differently to get better at it?<br/><br/>Tune in to this episode to hear Kim share valuable insights on how to educate through moments of panic and how to help others focus on the next step.<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/11078103-securing-software-supply-chain-without-panicking-ft-chainguard-co-founder-kim-lewandowski.mp3" length="19083434" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11078103</guid>
+    <pubDate>Fri, 05 Aug 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>1588</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How to communicate about failure ft. CircleCI VP of Comms, Emma Webb</itunes:title>
+    <title>How to communicate about failure ft. CircleCI VP of Comms, Emma Webb</title>
+    <itunes:summary><![CDATA[This season we've been talking about dealing with failure, so we decided to bring in an expert to explain how she communicates about failure. Rob sits down with CircleCI's VP of corporate communications, Emma Webb to dive deep on: Learning from a failed startup journeyHow to communicate failure inside and outside your organizationWhat they've learned from communication failures during failuresEmma's best advice on communicating when experiencing failureHave a topic you'd like us to discuss? S...]]></itunes:summary>
+    <description><![CDATA[<p>This season we&apos;ve been talking about dealing with failure, so we decided to bring in an expert to explain how she communicates about failure. Rob sits down with CircleCI&apos;s VP of corporate communications, Emma Webb to dive deep on:</p><ul><li>Learning from a failed startup journey</li><li>How to communicate failure inside and outside your organization</li><li>What they&apos;ve learned from communication failures during failures</li><li>Emma&apos;s best advice on communicating when experiencing failure</li></ul><p>Have a topic you&apos;d like us to discuss? Someone you want us to interview? Reach out to us on Twitter @CircleCI!</p><p><br/></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>This season we&apos;ve been talking about dealing with failure, so we decided to bring in an expert to explain how she communicates about failure. Rob sits down with CircleCI&apos;s VP of corporate communications, Emma Webb to dive deep on:</p><ul><li>Learning from a failed startup journey</li><li>How to communicate failure inside and outside your organization</li><li>What they&apos;ve learned from communication failures during failures</li><li>Emma&apos;s best advice on communicating when experiencing failure</li></ul><p>Have a topic you&apos;d like us to discuss? Someone you want us to interview? Reach out to us on Twitter @CircleCI!</p><p><br/></p><p><br/></p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10999981-how-to-communicate-about-failure-ft-circleci-vp-of-comms-emma-webb.mp3" length="23497039" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10999981</guid>
+    <pubDate>Fri, 22 Jul 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>1956</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How the best leaders are fueled by failure ft. TaxBit CTO, Tramale Turner</itunes:title>
+    <title>How the best leaders are fueled by failure ft. TaxBit CTO, Tramale Turner</title>
+    <itunes:summary><![CDATA[How should leaders be showing up during failure? Rob sits down with TaxBit CTO, Tramale Turner to dive deep on embracing failure.  In this episode, learn how to integrate failure as part of your company culture, when to ask pertinent questions, and how to not make the same mistake twice.  Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter @CircleCI! ]]></itunes:summary>
+    <description><![CDATA[<p>How should leaders be showing up during failure? Rob sits down with TaxBit CTO, Tramale Turner to dive deep on embracing failure.<br/><br/>In this episode, learn how to integrate failure as part of your company culture, when to ask pertinent questions, and how to not make the same mistake twice.<br/><br/>Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></description>
+    <content:encoded><![CDATA[<p>How should leaders be showing up during failure? Rob sits down with TaxBit CTO, Tramale Turner to dive deep on embracing failure.<br/><br/>In this episode, learn how to integrate failure as part of your company culture, when to ask pertinent questions, and how to not make the same mistake twice.<br/><br/>Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter <a href='https://circleci.slack.com/team/U01G7P73SBT'>@CircleCI</a>!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10921345-how-the-best-leaders-are-fueled-by-failure-ft-taxbit-cto-tramale-turner.mp3" length="23918255" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10921345</guid>
+    <pubDate>Fri, 08 Jul 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>1988</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Why focus on developer productivity? ft. Gradle CTO, Justin Reock</itunes:title>
+    <title>Why focus on developer productivity? ft. Gradle CTO, Justin Reock</title>
+    <itunes:summary><![CDATA[Rob sits down with Justin Reock to discuss developer productivity engineering (DPE).   Get answers to valuable questions like,  Why should you focus on DPE?How can you find the bottlenecks in flow? Where is the productivity gap most commonly found? How can you increase throughput and decrease cost on your team? Tune in today and if there's something you want to hear discussed on a future episode, reach out to us on Twitter at @circleci! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Justin Reock to discuss developer productivity engineering (DPE). <br/><br/>Get answers to valuable questions like, </p><ul><li>Why should you focus on DPE?</li><li>How can you find the bottlenecks in flow? </li><li>Where is the productivity gap most commonly found? </li><li>How can you increase throughput and decrease cost on your team? </li></ul><p>Tune in today and if there&apos;s something you want to hear discussed on a future episode, reach out to us on Twitter at @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Justin Reock to discuss developer productivity engineering (DPE). <br/><br/>Get answers to valuable questions like, </p><ul><li>Why should you focus on DPE?</li><li>How can you find the bottlenecks in flow? </li><li>Where is the productivity gap most commonly found? </li><li>How can you increase throughput and decrease cost on your team? </li></ul><p>Tune in today and if there&apos;s something you want to hear discussed on a future episode, reach out to us on Twitter at @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10845467-why-focus-on-developer-productivity-ft-gradle-cto-justin-reock.mp3" length="18599387" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10845467</guid>
+    <pubDate>Fri, 24 Jun 2022 07:00:00 -0500</pubDate>
+    <itunes:duration>1548</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How to change your mind about failure with Rollbar CPO, Cyrus Radfar</itunes:title>
+    <title>How to change your mind about failure with Rollbar CPO, Cyrus Radfar</title>
+    <itunes:summary><![CDATA[Nearly every project can benefit from improvements, but which effort has the most impact? Rob sits down with Rollbar CPO Cyrus Radfar to discuss how to reframe your mindset on failure, knowing and operating from your top-level goal, and making failures a vital part of company culture. ]]></itunes:summary>
+    <description><![CDATA[<p>Nearly every project can benefit from improvements, but which effort has the most impact? Rob sits down with Rollbar CPO Cyrus Radfar to discuss how to reframe your mindset on failure, knowing and operating from your top-level goal, and making failures a vital part of company culture.</p>]]></description>
+    <content:encoded><![CDATA[<p>Nearly every project can benefit from improvements, but which effort has the most impact? Rob sits down with Rollbar CPO Cyrus Radfar to discuss how to reframe your mindset on failure, knowing and operating from your top-level goal, and making failures a vital part of company culture.</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10753151-how-to-change-your-mind-about-failure-with-rollbar-cpo-cyrus-radfar.mp3" length="24570985" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10753151</guid>
+    <pubDate>Fri, 10 Jun 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>2045</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Drew McManus on Agile in practice and lessons from Pivotal Labs</itunes:title>
+    <title>Drew McManus on Agile in practice and lessons from Pivotal Labs</title>
+    <itunes:summary><![CDATA[Rob sits down with Drew McManus, CEO of 33 Teams to discuss Agile development. Hear stories from Drew's time at Pivotal Labs and the valuable lessons he's taking with him. This episode covers how to suggest change, finding the best Agile practices for you, and how working with the right people may be worth a career shift. Tune in today!  Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter @circleci! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Drew McManus, CEO of 33 Teams to discuss Agile development. Hear stories from Drew&apos;s time at Pivotal Labs and the valuable lessons he&apos;s taking with him. This episode covers how to suggest change, finding the best Agile practices for you, and how working with the right people may be worth a career shift. Tune in today!<br/><br/>Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Drew McManus, CEO of 33 Teams to discuss Agile development. Hear stories from Drew&apos;s time at Pivotal Labs and the valuable lessons he&apos;s taking with him. This episode covers how to suggest change, finding the best Agile practices for you, and how working with the right people may be worth a career shift. Tune in today!<br/><br/>Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10687832-drew-mcmanus-on-agile-in-practice-and-lessons-from-pivotal-labs.mp3" length="21364497" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10687832</guid>
+    <pubDate>Fri, 27 May 2022 07:00:00 -0500</pubDate>
+    <itunes:duration>1778</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Incident response: leadership &amp; psychological safety with Jeli founder Nora Jones</itunes:title>
+    <title>Incident response: leadership &amp; psychological safety with Jeli founder Nora Jones</title>
+    <itunes:summary><![CDATA[Incident response can tricky. How do you create a culture prepared to handle it in a healthy and efficient way? What should and shouldn't leaders be involved in? How do you create a psychologically safe environment? Find out in this episode as Rob as he interviews Jeli founder Nora Jones on the do's and don'ts of incident response.  ]]></itunes:summary>
+    <description><![CDATA[<p>Incident response can tricky. How do you create a culture prepared to handle it in a healthy and efficient way? What should and shouldn&apos;t leaders be involved in? How do you create a psychologically safe environment? Find out in this episode as Rob as he interviews Jeli founder Nora Jones on the do&apos;s and don&apos;ts of incident response. </p>]]></description>
+    <content:encoded><![CDATA[<p>Incident response can tricky. How do you create a culture prepared to handle it in a healthy and efficient way? What should and shouldn&apos;t leaders be involved in? How do you create a psychologically safe environment? Find out in this episode as Rob as he interviews Jeli founder Nora Jones on the do&apos;s and don&apos;ts of incident response. </p>]]></content:encoded>
+    <itunes:author></itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10606994-incident-response-leadership-psychological-safety-with-jeli-founder-nora-jones.mp3" length="26112311" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10606994</guid>
+    <pubDate>Fri, 13 May 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>2174</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How Kubernetes dominated the containers space ft. Amazon EKS GM Chandler Hoisington</itunes:title>
+    <title>How Kubernetes dominated the containers space ft. Amazon EKS GM Chandler Hoisington</title>
+    <itunes:summary><![CDATA[Rob is joined by Amazon EKS GM, Chandler Hoisington to discuss the speedy rise of Kubernetes. Chandler explains the power of getting the right tooling for your team and how sometimes the costs of moving fast may be worth the risk. Tune in today!  Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter @circleci! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob is joined by Amazon EKS GM, Chandler Hoisington to discuss the speedy rise of Kubernetes. Chandler explains the power of getting the right tooling for your team and how sometimes the costs of moving fast may be worth the risk. Tune in today!<br/><br/>Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob is joined by Amazon EKS GM, Chandler Hoisington to discuss the speedy rise of Kubernetes. Chandler explains the power of getting the right tooling for your team and how sometimes the costs of moving fast may be worth the risk. Tune in today!<br/><br/>Have a topic you want us to discuss? Someone you want us to interview? Reach out to us on Twitter @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10516423-how-kubernetes-dominated-the-containers-space-ft-amazon-eks-gm-chandler-hoisington.mp3" length="22968873" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10516423</guid>
+    <pubDate>Fri, 29 Apr 2022 06:00:00 -0500</pubDate>
+    <itunes:duration>1912</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The key principles that doubled eBay&#39;s software delivery productivity ft. Randy Shoup</itunes:title>
+    <title>The key principles that doubled eBay&#39;s software delivery productivity ft. Randy Shoup</title>
+    <itunes:summary><![CDATA[Rob is joined by Randy Shoup, VP of Engineering at eBay to discuss how to deliver fast, without losing quality. Learn about the value of consistent teams, having a long-term vision, and diligently measuring against key success metrics. Tune in today to find out how your team can increase productivity and move even faster.   Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!    ]]></itunes:summary>
+    <description><![CDATA[<p>Rob is joined by Randy Shoup, VP of Engineering at eBay to discuss how to deliver fast, without losing quality. Learn about the value of consistent teams, having a long-term vision, and diligently measuring against key success metrics. Tune in today to find out how your team can increase productivity and move even faster. <br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!<br/><br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>Rob is joined by Randy Shoup, VP of Engineering at eBay to discuss how to deliver fast, without losing quality. Learn about the value of consistent teams, having a long-term vision, and diligently measuring against key success metrics. Tune in today to find out how your team can increase productivity and move even faster. <br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!<br/><br/><br/></p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10439561-the-key-principles-that-doubled-ebay-s-software-delivery-productivity-ft-randy-shoup.mp3" length="26185073" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10439561</guid>
+    <pubDate>Fri, 15 Apr 2022 09:00:00 -0500</pubDate>
+    <itunes:duration>2180</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How mission critical services build for failure ft. Hector Aguilar of Okta</itunes:title>
+    <title>How mission critical services build for failure ft. Hector Aguilar of Okta</title>
+    <itunes:summary><![CDATA[If you can’t get through Okta, you can’t do your job. But failures happen. With this reality is not about preventing failure but about getting really good at dealing with failure. Rob is joined by Hector Aguilar, former VP of Technology at Okta shares how he helped create a culture expecting and prepared for failure. Get answers to questions like,  What does it mean to be really good at failure individually?What about technically?How do you build an organizational culture that thinks of ...]]></itunes:summary>
+    <description><![CDATA[<p>If you can’t get through Okta, you can’t do your job. But failures happen. With this reality is not about preventing failure but about getting really good at dealing with failure. Rob is joined by Hector Aguilar, former VP of Technology at Okta shares how he helped create a culture expecting and prepared for failure. Get answers to questions like, </p><ul><li>What does it mean to be really good at failure individually?</li><li>What about technically?</li><li>How do you build an organizational culture that thinks of failure in that way? </li></ul><p>Tune in today to find our how your team can create a culture prepped and ready to face failures head on. Have a topic you want us to discuss? Reach out to us on Twitter at @circleci! </p>]]></description>
+    <content:encoded><![CDATA[<p>If you can’t get through Okta, you can’t do your job. But failures happen. With this reality is not about preventing failure but about getting really good at dealing with failure. Rob is joined by Hector Aguilar, former VP of Technology at Okta shares how he helped create a culture expecting and prepared for failure. Get answers to questions like, </p><ul><li>What does it mean to be really good at failure individually?</li><li>What about technically?</li><li>How do you build an organizational culture that thinks of failure in that way? </li></ul><p>Tune in today to find our how your team can create a culture prepped and ready to face failures head on. Have a topic you want us to discuss? Reach out to us on Twitter at @circleci! </p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10354830-how-mission-critical-services-build-for-failure-ft-hector-aguilar-of-okta.mp3" length="22167670" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10354830</guid>
+    <pubDate>Fri, 01 Apr 2022 06:00:00 -0500</pubDate>
+    <itunes:duration>1844</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Docker&#39;s genius shift: How one decision set the course for success ft. Justin Cormack</itunes:title>
+    <title>Docker&#39;s genius shift: How one decision set the course for success ft. Justin Cormack</title>
+    <itunes:summary><![CDATA[Docker CTO Justin Cormack joins Rob Zuber to discuss how Docker moved from very few paid users among millions of others to their current level of success. In this episode, Cormack shares the paths Docker took to transform its massive user base into a sustainable business model. Hint: sometimes product-market fit might be right in front of you. ]]></itunes:summary>
+    <description><![CDATA[<p>Docker CTO Justin Cormack joins Rob Zuber to discuss how Docker moved from very few paid users among millions of others to their current level of success. In this episode, Cormack shares the paths Docker took to transform its massive user base into a sustainable business model. Hint: sometimes product-market fit might be right in front of you.</p>]]></description>
+    <content:encoded><![CDATA[<p>Docker CTO Justin Cormack joins Rob Zuber to discuss how Docker moved from very few paid users among millions of others to their current level of success. In this episode, Cormack shares the paths Docker took to transform its massive user base into a sustainable business model. Hint: sometimes product-market fit might be right in front of you.</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/10268924-docker-s-genius-shift-how-one-decision-set-the-course-for-success-ft-justin-cormack.mp3" length="17984036" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10268924</guid>
+    <pubDate>Fri, 18 Mar 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>1488</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Season 1 finale: The top 3 themes for software leaders in 2022</itunes:title>
+    <title>Season 1 finale: The top 3 themes for software leaders in 2022</title>
+    <itunes:summary><![CDATA[CircleCI CTO Rob Zuber reflects on season 1 of The Confident Commit, finding the common threads that emerged, including these top 3 themes for software leaders: complexity, scale, and people.   Listen to Rob's take on where software is headed and hear about the upcoming season 2 of The Confident Commit. Tune in today!  Have a topic you want to discuss? Reach out to us on Twitter @circleci! ]]></itunes:summary>
+    <description><![CDATA[<p>CircleCI CTO Rob Zuber reflects on season 1 of The Confident Commit, finding the common threads that emerged, including these top 3 themes for software leaders: complexity, scale, and people. <br/><br/>Listen to Rob&apos;s take on where software is headed and hear about the upcoming season 2 of The Confident Commit. Tune in today!<br/><br/>Have a topic you want to discuss? Reach out to us on Twitter @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>CircleCI CTO Rob Zuber reflects on season 1 of The Confident Commit, finding the common threads that emerged, including these top 3 themes for software leaders: complexity, scale, and people. <br/><br/>Listen to Rob&apos;s take on where software is headed and hear about the upcoming season 2 of The Confident Commit. Tune in today!<br/><br/>Have a topic you want to discuss? Reach out to us on Twitter @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9843971-season-1-finale-the-top-3-themes-for-software-leaders-in-2022.mp3" length="9631864" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9843971</guid>
+    <pubDate>Fri, 07 Jan 2022 07:00:00 -0600</pubDate>
+    <itunes:duration>795</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How AI and ML will impact the future of software development with Nathan Mellis</itunes:title>
+    <title>How AI and ML will impact the future of software development with Nathan Mellis</title>
+    <itunes:summary><![CDATA[Rob sits down with Nathan Mellis, Director of Engineering at Modzy to discuss all things ML and AI in the space of software development. Get answers to questions like,  How will ML and AI tools help the unique problems of software development? Does modern DevOps still apply to models? Can you apply continuous updates to training data?What does it looks like to run AI in production? How important has auto-scaling limits, API rate limiting, and quotas become?Join this fascin...]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Nathan Mellis, Director of Engineering at Modzy to discuss all things ML and AI in the space of software development. Get answers to questions like, </p><ul><li>How will ML and AI tools help the unique problems of software development? </li><li>Does modern DevOps still apply to models? </li><li>Can you apply continuous updates to training data?</li><li>What does it looks like to run AI in production? </li><li>How important has auto-scaling limits, API rate limiting, and quotas become?</li></ul><p>Join this fascinating conversation of where the industry of software development is headed next. Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Nathan Mellis, Director of Engineering at Modzy to discuss all things ML and AI in the space of software development. Get answers to questions like, </p><ul><li>How will ML and AI tools help the unique problems of software development? </li><li>Does modern DevOps still apply to models? </li><li>Can you apply continuous updates to training data?</li><li>What does it looks like to run AI in production? </li><li>How important has auto-scaling limits, API rate limiting, and quotas become?</li></ul><p>Join this fascinating conversation of where the industry of software development is headed next. Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9698129-how-ai-and-ml-will-impact-the-future-of-software-development-with-nathan-mellis.mp3" length="32618013" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9698129</guid>
+    <pubDate>Fri, 10 Dec 2021 10:00:00 -0600</pubDate>
+    <itunes:duration>2716</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>10 practices that are changing in software today with Alex Williams</itunes:title>
+    <title>10 practices that are changing in software today with Alex Williams</title>
+    <itunes:summary><![CDATA[Rob sits down with Alex Williams, founder and editor in chief of The New Stack, to discuss the several changes occurring in software development. Alex shares what he's been hearing on everything from API management to synchronizing supply chain to programmable infrastructure.   Tune in today to find out how your team can stay ahead of the complexities of the ever-changing landscape of software.  Have a topic you want us to discuss? Reach out to us on Twitter at @circleci! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Alex Williams, founder and editor in chief of The New Stack, to discuss the several changes occurring in software development. Alex shares what he&apos;s been hearing on everything from API management to synchronizing supply chain to programmable infrastructure. <br/><br/>Tune in today to find out how your team can stay ahead of the complexities of the ever-changing landscape of software.  Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Alex Williams, founder and editor in chief of The New Stack, to discuss the several changes occurring in software development. Alex shares what he&apos;s been hearing on everything from API management to synchronizing supply chain to programmable infrastructure. <br/><br/>Tune in today to find out how your team can stay ahead of the complexities of the ever-changing landscape of software.  Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9608571-10-practices-that-are-changing-in-software-today-with-alex-williams.mp3" length="19047698" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9608571</guid>
+    <pubDate>Fri, 26 Nov 2021 06:00:00 -0600</pubDate>
+    <itunes:duration>1582</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Collapsing your model for the sake of product-market fit ft. Grant Miller</itunes:title>
+    <title>Collapsing your model for the sake of product-market fit ft. Grant Miller</title>
+    <itunes:summary><![CDATA[Rob sits down with Replicated co-founder and CEO, Grant Miller to discuss the evolution of orchestration and shifting fast to find product-market fit. Grant recalls a time when Replicated needed to change its model quickly to achieve the success it has today. Tune in to hear more of Grant's story!  Have a topic you want us to discuss? Reach out to us on Twitter at @circleci! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Replicated co-founder and CEO, Grant Miller to discuss the evolution of orchestration and shifting fast to find product-market fit. Grant recalls a time when Replicated needed to change its model quickly to achieve the success it has today. Tune in to hear more of Grant&apos;s story!<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Replicated co-founder and CEO, Grant Miller to discuss the evolution of orchestration and shifting fast to find product-market fit. Grant recalls a time when Replicated needed to change its model quickly to achieve the success it has today. Tune in to hear more of Grant&apos;s story!<br/><br/>Have a topic you want us to discuss? Reach out to us on Twitter at @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9534886-collapsing-your-model-for-the-sake-of-product-market-fit-ft-grant-miller.mp3" length="16138669" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9534886</guid>
+    <pubDate>Fri, 12 Nov 2021 08:00:00 -0600</pubDate>
+    <itunes:duration>1342</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Creating the ideal dev experience with Pulumi’s Kat Cosgrove &amp; Matt Stratton</itunes:title>
+    <title>Creating the ideal dev experience with Pulumi’s Kat Cosgrove &amp; Matt Stratton</title>
+    <itunes:summary><![CDATA[Rob sits down with Pulumi staff developer advocates, Matt Stratton and Kat Cosgrove to discuss the complexities of systems and team management. Join the discussion on important topics such as,  The importance of automating of repeated tasksCultivating a zero blame environmentHow companies should be viewing hiringIf there’s something you want us to hear discussed on a future episode, reach out to us on twitter at @circleci! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Pulumi staff developer advocates, Matt Stratton and Kat Cosgrove to discuss the complexities of systems and team management. Join the discussion on important topics such as, </p><ul><li>The importance of automating of repeated tasks</li><li>Cultivating a zero blame environment</li><li>How companies should be viewing hiring</li></ul><p>If there’s something you want us to hear discussed on a future episode, reach out to us on twitter at @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Pulumi staff developer advocates, Matt Stratton and Kat Cosgrove to discuss the complexities of systems and team management. Join the discussion on important topics such as, </p><ul><li>The importance of automating of repeated tasks</li><li>Cultivating a zero blame environment</li><li>How companies should be viewing hiring</li></ul><p>If there’s something you want us to hear discussed on a future episode, reach out to us on twitter at @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9451445-creating-the-ideal-dev-experience-with-pulumi-s-kat-cosgrove-matt-stratton.mp3" length="25214677" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9451445</guid>
+    <pubDate>Fri, 29 Oct 2021 05:00:00 -0500</pubDate>
+    <itunes:duration>2097</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Embrace simplicity: the #1 rule for software leaders ft. Deepak Giridharagopal</itunes:title>
+    <title>Embrace simplicity: the #1 rule for software leaders ft. Deepak Giridharagopal</title>
+    <itunes:summary><![CDATA[Rob sits down with Deepak Giridharagopal, CTO of Puppet to discuss the lessons they've learned through years as software leaders. Deepak shares the history and trajectory of Puppet, navigating shifting roles as your company scale, and his top leadership practices learned. Rob and Deepak dive into how to implement simplicity when complexity is often favored. Tune in today! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Deepak Giridharagopal, CTO of Puppet to discuss the lessons they&apos;ve learned through years as software leaders. Deepak shares the history and trajectory of Puppet, navigating shifting roles as your company scale, and his top leadership practices learned. Rob and Deepak dive into how to implement simplicity when complexity is often favored. Tune in today!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Deepak Giridharagopal, CTO of Puppet to discuss the lessons they&apos;ve learned through years as software leaders. Deepak shares the history and trajectory of Puppet, navigating shifting roles as your company scale, and his top leadership practices learned. Rob and Deepak dive into how to implement simplicity when complexity is often favored. Tune in today!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9368871-embrace-simplicity-the-1-rule-for-software-leaders-ft-deepak-giridharagopal.mp3" length="35409769" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9368871</guid>
+    <pubDate>Fri, 15 Oct 2021 06:00:00 -0500</pubDate>
+    <itunes:duration>2948</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>CircleCI&#39;s newest and oldest employee reflect on company turning 10</itunes:title>
+    <title>CircleCI&#39;s newest and oldest employee reflect on company turning 10</title>
+    <itunes:summary><![CDATA[In this special episode of The Confident Commit, Rob celebrates CircleCI's 10 year anniversary with two CircleCI guests: the company's longest-tenured engineer, Gordon Syme, and one of our newest employees, our SVP Engineering, JP LeBlanc, to discuss the company's past, present, and future. Join us as we celebrate 10 years of working to help organizations build software better and faster. ]]></itunes:summary>
+    <description><![CDATA[<p>In this special episode of The Confident Commit, Rob celebrates CircleCI&apos;s 10 year anniversary with two CircleCI guests: the company&apos;s longest-tenured engineer, Gordon Syme, and one of our newest employees, our SVP Engineering, JP LeBlanc, to discuss the company&apos;s past, present, and future. Join us as we celebrate 10 years of working to help organizations build software better and faster.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this special episode of The Confident Commit, Rob celebrates CircleCI&apos;s 10 year anniversary with two CircleCI guests: the company&apos;s longest-tenured engineer, Gordon Syme, and one of our newest employees, our SVP Engineering, JP LeBlanc, to discuss the company&apos;s past, present, and future. Join us as we celebrate 10 years of working to help organizations build software better and faster.</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9283250-circleci-s-newest-and-oldest-employee-reflect-on-company-turning-10.mp3" length="30971723" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9283250</guid>
+    <pubDate>Fri, 01 Oct 2021 06:00:00 -0500</pubDate>
+    <itunes:duration>2577</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Observability and CI/CD: meaningful measurement with Charity Majors</itunes:title>
+    <title>Observability and CI/CD: meaningful measurement with Charity Majors</title>
+    <itunes:summary><![CDATA[Rob sits down with Charity Majors to discuss the journey to creating Honeycomb, business building practices, and the importance of proper CI/CD and monitoring. Charity gives us the latest insights on observability and the necessities for engineering team success. What metrics are meaningful for your team to measure? Which ones are not? Tune in today to find out.  ]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Charity Majors to discuss the journey to creating Honeycomb, business building practices, and the importance of proper CI/CD and monitoring. Charity gives us the latest insights on observability and the necessities for engineering team success. What metrics are meaningful for your team to measure? Which ones are not? Tune in today to find out. </p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Charity Majors to discuss the journey to creating Honeycomb, business building practices, and the importance of proper CI/CD and monitoring. Charity gives us the latest insights on observability and the necessities for engineering team success. What metrics are meaningful for your team to measure? Which ones are not? Tune in today to find out. </p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9213492-observability-and-ci-cd-meaningful-measurement-with-charity-majors.mp3" length="19814022" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9213492</guid>
+    <pubDate>Fri, 17 Sep 2021 14:00:00 -0500</pubDate>
+    <itunes:duration>1646</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Observability improving speed and reliability with Ben Sigelman</itunes:title>
+    <title>Observability improving speed and reliability with Ben Sigelman</title>
+    <itunes:summary><![CDATA[Rob sits down with Lightstep CEO, Ben Sigelman to discuss observability and how it connects with delivering change with confidence. Get answers to questions like, What is observability vs monitoring, tracing, and logging? Do they all have their own jobs or is there overlap?Where is the split between validating before production and validating in production?Are we making software more complex than we need to? Is that complexity driving this push towards observability?Tune in today and if there...]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Lightstep CEO, Ben Sigelman to discuss observability and how it connects with delivering change with confidence.<br/>Get answers to questions like,</p><ul><li>What is observability vs monitoring, tracing, and logging? Do they all have their own jobs or is there overlap?</li><li>Where is the split between validating before production and validating in production?</li><li>Are we making software more complex than we need to? Is that complexity driving this push towards observability?</li></ul><p>Tune in today and if there&apos;s something you want us to discuss on a future episode, reach out to us on twitter at @circleci! </p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Lightstep CEO, Ben Sigelman to discuss observability and how it connects with delivering change with confidence.<br/>Get answers to questions like,</p><ul><li>What is observability vs monitoring, tracing, and logging? Do they all have their own jobs or is there overlap?</li><li>Where is the split between validating before production and validating in production?</li><li>Are we making software more complex than we need to? Is that complexity driving this push towards observability?</li></ul><p>Tune in today and if there&apos;s something you want us to discuss on a future episode, reach out to us on twitter at @circleci! </p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9128862-observability-improving-speed-and-reliability-with-ben-sigelman.mp3" length="30887003" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9128862</guid>
+    <pubDate>Fri, 03 Sep 2021 05:00:00 -0500</pubDate>
+    <itunes:duration>2571</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Amplifying your organizational expertise with Marko Gargenta</itunes:title>
+    <title>Amplifying your organizational expertise with Marko Gargenta</title>
+    <itunes:summary><![CDATA[Rob sits down with Marko Gargenta to discuss helping developers build real knowledge about delivering software effectively. Marko shares how he came to realize how vital learning, training, and empowering new knowledge is for aspiring technical professionals.   For many organizations, investment in knowledge building through education and training has slashed time waste, inspired new development, and supported overall growth. Tune in today! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob sits down with Marko Gargenta to discuss helping developers build real knowledge about delivering software effectively. Marko shares how he came to realize how vital learning, training, and empowering new knowledge is for aspiring technical professionals. <br/><br/>For many organizations, investment in knowledge building through education and training has slashed time waste, inspired new development, and supported overall growth. Tune in today!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob sits down with Marko Gargenta to discuss helping developers build real knowledge about delivering software effectively. Marko shares how he came to realize how vital learning, training, and empowering new knowledge is for aspiring technical professionals. <br/><br/>For many organizations, investment in knowledge building through education and training has slashed time waste, inspired new development, and supported overall growth. Tune in today!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/9051117-amplifying-your-organizational-expertise-with-marko-gargenta.mp3" length="30126520" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9051117</guid>
+    <pubDate>Fri, 20 Aug 2021 06:00:00 -0500</pubDate>
+    <itunes:duration>2508</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Embedding empathy in your software development ft. Andrea Goulet</itunes:title>
+    <title>Embedding empathy in your software development ft. Andrea Goulet</title>
+    <itunes:summary><![CDATA[Rob interviews Andrea Goulet, Co-Founder of Corgibytes, and a prominent thought leader in the technology industry.  Get answers to big questions like,  - Is there a change afoot in software that makes empathy more relevant now? Or is talking about empathy long overdue in our industry? - Can empathy be learned?  - What long-term impacts can developers make by building more empathy into their practice?  Tune in today and if there’s something you want us to hear discussed on a future e...]]></itunes:summary>
+    <description><![CDATA[<p>Rob interviews Andrea Goulet, Co-Founder of Corgibytes, and a prominent thought leader in the technology industry.<br/><br/>Get answers to big questions like, <br/>- Is there a change afoot in software that makes empathy more relevant now? Or is talking about empathy long overdue in our industry?<br/>- Can empathy be learned? <br/>- What long-term impacts can developers make by building more empathy into their practice?<br/><br/>Tune in today and if there’s something you want us to hear discussed on a future episode, reach out to us on twitter at @circleci!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob interviews Andrea Goulet, Co-Founder of Corgibytes, and a prominent thought leader in the technology industry.<br/><br/>Get answers to big questions like, <br/>- Is there a change afoot in software that makes empathy more relevant now? Or is talking about empathy long overdue in our industry?<br/>- Can empathy be learned? <br/>- What long-term impacts can developers make by building more empathy into their practice?<br/><br/>Tune in today and if there’s something you want us to hear discussed on a future episode, reach out to us on twitter at @circleci!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/8980450-embedding-empathy-in-your-software-development-ft-andrea-goulet.mp3" length="34311658" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8980450</guid>
+    <pubDate>Fri, 06 Aug 2021 06:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1753881/8980450/transcript" type="text/html" />
+    <itunes:duration>2857</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Designing your org for fast flow of change with Matthew Skelton</itunes:title>
+    <title>Designing your org for fast flow of change with Matthew Skelton</title>
+    <itunes:summary><![CDATA[Rob interviews co-author of Team Topologies and founder of Conflux, Matthew Skelton on how to structure your team for a fast flow of change.  Discover the signs, symptoms, and proper metrics that indicate your organization's structure may need a redesign. Tune in today! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob interviews co-author of Team Topologies and founder of Conflux, Matthew Skelton on how to structure your team for a fast flow of change.  Discover the signs, symptoms, and proper metrics that indicate your organization&apos;s structure may need a redesign. Tune in today!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob interviews co-author of Team Topologies and founder of Conflux, Matthew Skelton on how to structure your team for a fast flow of change.  Discover the signs, symptoms, and proper metrics that indicate your organization&apos;s structure may need a redesign. Tune in today!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/8900638-designing-your-org-for-fast-flow-of-change-with-matthew-skelton.mp3" length="33098216" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8900638</guid>
+    <pubDate>Fri, 23 Jul 2021 06:00:00 -0500</pubDate>
+    <itunes:duration>2756</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Architecture meets delivery with Chris Richardson</itunes:title>
+    <title>Architecture meets delivery with Chris Richardson</title>
+    <itunes:summary><![CDATA[DevOps pros know that architecture can enable or inhibit a team’s ability to make changes quickly and confidently. Rob interviews Chris Richardson about engineering metrics that can help teams evaluate the effectiveness of their architecture.   Rob and Chris discuss how good architecture provides the foundation teams need to balance rapid delivery and finding product market fit with getting to a stable, workable system over time. Tune in today! ]]></itunes:summary>
+    <description><![CDATA[<p>DevOps pros know that architecture can enable or inhibit a team’s ability to make changes quickly and confidently. Rob interviews Chris Richardson about engineering metrics that can help teams evaluate the effectiveness of their architecture. <br/><br/>Rob and Chris discuss how good architecture provides the foundation teams need to balance rapid delivery and finding product market fit with getting to a stable, workable system over time. Tune in today!</p>]]></description>
+    <content:encoded><![CDATA[<p>DevOps pros know that architecture can enable or inhibit a team’s ability to make changes quickly and confidently. Rob interviews Chris Richardson about engineering metrics that can help teams evaluate the effectiveness of their architecture. <br/><br/>Rob and Chris discuss how good architecture provides the foundation teams need to balance rapid delivery and finding product market fit with getting to a stable, workable system over time. Tune in today!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/8820085-architecture-meets-delivery-with-chris-richardson.mp3" length="34893427" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8820085</guid>
+    <pubDate>Fri, 09 Jul 2021 08:00:00 -0500</pubDate>
+    <itunes:duration>2905</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Software engineering with a purpose ft. Brad Henrickson</itunes:title>
+    <title>Software engineering with a purpose ft. Brad Henrickson</title>
+    <itunes:summary><![CDATA[Rob is joined by Brad Henrickson to discuss the interaction between human motivations and delivering great software. Brad and Rob dive into the leadership skill of cultivating space for employees to share their work motivations as a means to operating well together. Tune in today! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob is joined by Brad Henrickson to discuss the interaction between human motivations and delivering great software. Brad and Rob dive into the leadership skill of cultivating space for employees to share their work motivations as a means to operating well together. Tune in today!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob is joined by Brad Henrickson to discuss the interaction between human motivations and delivering great software. Brad and Rob dive into the leadership skill of cultivating space for employees to share their work motivations as a means to operating well together. Tune in today!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/8746499-software-engineering-with-a-purpose-ft-brad-henrickson.mp3" length="28551640" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8746499</guid>
+    <pubDate>Fri, 25 Jun 2021 06:00:00 -0500</pubDate>
+    <itunes:duration>2377</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Systems and Flow with Elisabeth Hendrickson</itunes:title>
+    <title>Systems and Flow with Elisabeth Hendrickson</title>
+    <itunes:summary><![CDATA[Rob interviews Elisabeth Hendrickson on system and flow.  Elisabeth shares how to get your team to understand the system of software delivery and how to get your team to measure success properly. Tune in today! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob interviews Elisabeth Hendrickson on system and flow.  Elisabeth shares how to get your team to understand the system of software delivery and how to get your team to measure success properly. Tune in today!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob interviews Elisabeth Hendrickson on system and flow.  Elisabeth shares how to get your team to understand the system of software delivery and how to get your team to measure success properly. Tune in today!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/8660315-systems-and-flow-with-elisabeth-hendrickson.mp3" length="30624589" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8660315</guid>
+    <pubDate>Fri, 11 Jun 2021 00:00:00 -0500</pubDate>
+    <itunes:duration>2550</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Taming infrastructure with HashiCorp&#39;s Armon Dadgar</itunes:title>
+    <title>Taming infrastructure with HashiCorp&#39;s Armon Dadgar</title>
+    <itunes:summary><![CDATA[Rob interviews HashiCorp's Armon Dadgar about the inspiration of HashiCorp, infrastructure challenges and opportunities, and the future of security.  ]]></itunes:summary>
+    <description><![CDATA[<p>Rob interviews HashiCorp&apos;s Armon Dadgar about the inspiration of HashiCorp, infrastructure challenges and opportunities, and the future of security. </p>]]></description>
+    <content:encoded><![CDATA[<p>Rob interviews HashiCorp&apos;s Armon Dadgar about the inspiration of HashiCorp, infrastructure challenges and opportunities, and the future of security. </p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/8581508-taming-infrastructure-with-hashicorp-s-armon-dadgar.mp3" length="27325967" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8581508</guid>
+    <pubDate>Fri, 28 May 2021 08:00:00 -0500</pubDate>
+    <itunes:duration>2275</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Releasing software with full control</itunes:title>
+    <title>Releasing software with full control</title>
+    <itunes:summary><![CDATA[Rob interviews Olaf Molenveld, CTO and Co-Founder of Vamp. Vamp’s release orchestration capabilities combined with CircleCI’s CI/CD platform will be transformative. Tune in today to hear about it! ]]></itunes:summary>
+    <description><![CDATA[<p>Rob interviews Olaf Molenveld, CTO and Co-Founder of Vamp. Vamp’s release orchestration capabilities combined with CircleCI’s CI/CD platform will be transformative. Tune in today to hear about it!</p>]]></description>
+    <content:encoded><![CDATA[<p>Rob interviews Olaf Molenveld, CTO and Co-Founder of Vamp. Vamp’s release orchestration capabilities combined with CircleCI’s CI/CD platform will be transformative. Tune in today to hear about it!</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/8477676-releasing-software-with-full-control.mp3" length="27696771" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8477676</guid>
+    <pubDate>Fri, 14 May 2021 06:00:00 -0500</pubDate>
+    <itunes:duration>2306</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>History and future of DevOps</itunes:title>
+    <title>History and future of DevOps</title>
+    <itunes:summary><![CDATA[Host Rob Zuber and CircleCI CEO Jim Rose discuss where DevOps came from and where it is headed.    To learn more about the history and future of DevOps, visit: https://circleci.com/blog/a-brief-history-of-devops-part-iv-continuous-delivery-and-continuous-deployment/ ]]></itunes:summary>
+    <description><![CDATA[<p>Host Rob Zuber and CircleCI CEO Jim Rose discuss where DevOps came from and where it is headed.  <br/><br/>To learn more about the history and future of DevOps, visit: https://circleci.com/blog/a-brief-history-of-devops-part-iv-continuous-delivery-and-continuous-deployment/</p>]]></description>
+    <content:encoded><![CDATA[<p>Host Rob Zuber and CircleCI CEO Jim Rose discuss where DevOps came from and where it is headed.  <br/><br/>To learn more about the history and future of DevOps, visit: https://circleci.com/blog/a-brief-history-of-devops-part-iv-continuous-delivery-and-continuous-deployment/</p>]]></content:encoded>
+    <itunes:author>CircleCI</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1753881/episodes/8422412-history-and-future-of-devops.mp3" length="37082029" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8422412</guid>
+    <pubDate>Fri, 30 Apr 2021 08:00:00 -0500</pubDate>
+    <itunes:duration>3088</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

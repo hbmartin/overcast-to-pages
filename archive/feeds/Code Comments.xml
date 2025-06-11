@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link href="https://feeds.simplecast.com/qdjfQuGX" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+    <atom:link href="https://simplecast.superfeedr.com" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <generator>https://simplecast.com</generator>
+    <title>Code Comments</title>
+    <description>Putting new technology to use is an exciting prospect. But going from purchase to production isn’t always smooth—even when it’s something everyone is looking forward to. Code Comments covers the bumps, the hiccups, and the setbacks teams face when adjusting to new technology—and the triumphs they pull off once they really get going.</description>
+    <copyright>2022 Code Comments</copyright>
+    <language>en</language>
+    <pubDate>Tue, 4 Jun 2024 07:05:00 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 08:30:17 +0000</lastBuildDate>
+    <image>
+      <link>https://www.redhat.com/en/code-comments-podcast</link>
+      <title>Code Comments</title>
+      <url>https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed</url>
+    </image>
+    <link>https://www.redhat.com/en/code-comments-podcast</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Putting new technology to use is an exciting prospect. But going from purchase to production isn’t always smooth—even when it’s something everyone is looking forward to. Code Comments covers the bumps, the hiccups, and the setbacks teams face when adjusting to new technology—and the triumphs they pull off once they really get going.</itunes:summary>
+    <itunes:author>Red Hat</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+    <itunes:new-feed-url>https://feeds.simplecast.com/qdjfQuGX</itunes:new-feed-url>
+    <itunes:keywords>command line, 5g, open source, agile, programming, cloud, red hat, cloud computing, technology, code comments, coding, computers, containers, deep learning, development, devops, edge computing, hybrid cloud, kubernetes, linux, windows, automation</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Red Hat</itunes:name>
+      <itunes:email>bsimonea@redhat.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <item>
+      <guid isPermaLink="false">fdf9d41f-45ce-48f4-8b87-ee1fd8d406f0</guid>
+      <title>Transforming Your Acquisition</title>
+      <description><![CDATA[<p>Every digital transformation journey is unique. The goals may be similar, but the requirements, features, and choices made along the lead to new systems unlike any other. That’s all well and good—until you need to merge two systems into one, on a short timetable.<br /><br />Atul Verma of the Bank of Montreal recounts how he and his team found themselves handling the technical side of one of the largest acquisitions in Canadian banking history—with only a few months to get it done.</p>
+]]></description>
+      <pubDate>Tue, 4 Jun 2024 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-3/bank-of-montreal</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/8d71d958-b8aa-479b-9522-220450d5ace9/code-20comments-20-20youtube-20thumbnails-23-season-203-episode-206.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Every digital transformation journey is unique. The goals may be similar, but the requirements, features, and choices made along the lead to new systems unlike any other. That’s all well and good—until you need to merge two systems into one, on a short timetable.<br /><br />Atul Verma of the Bank of Montreal recounts how he and his team found themselves handling the technical side of one of the largest acquisitions in Canadian banking history—with only a few months to get it done.</p>
+]]></content:encoded>
+      <enclosure length="22175301" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/ba727c7a-3b2b-4614-a356-7446aa56a78a.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Transforming Your Acquisition</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/e6686c37-f71b-4414-bb54-c1988eb21789/32d87ab7-bb61-461d-a1e9-f2afd3815ead/3000x3000/code-comments-seasonal-promo-0324-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:22:52</itunes:duration>
+      <itunes:summary>Every digital transformation journey is unique. The goals may be similar, but the requirements, features, and choices made along the lead to new systems unlike any other. That’s all well and good—until you need to merge two systems into one, on a short timetable.
+
+Atul Verma of the Bank of Montreal recounts how he and his team found themselves handling the technical side of one of the largest acquisitions in Canadian banking history—with only a few months to get it done.</itunes:summary>
+      <itunes:subtitle>Every digital transformation journey is unique. The goals may be similar, but the requirements, features, and choices made along the lead to new systems unlike any other. That’s all well and good—until you need to merge two systems into one, on a short timetable.
+
+Atul Verma of the Bank of Montreal recounts how he and his team found themselves handling the technical side of one of the largest acquisitions in Canadian banking history—with only a few months to get it done.</itunes:subtitle>
+      <itunes:keywords>red hat, merger, code comments, acquisition, digital transformation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">eedc6914-630c-4e56-99ad-fb419b98b043</guid>
+      <title>Transforming Your Timelines</title>
+      <description><![CDATA[<p>Modernizing your IT systems is a worthy achievement. You can reap the benefits of digital transformation at last. But don’t be lulled into a false sense of security—digital transformation isn’t about reaching the finish line. It’s about reaching for the horizon. <br /><br />Randall Núñez of Experian explains how perpetual improvement is a key element of digital transformation, because systems can’t stay modern forever.</p>
+]]></description>
+      <pubDate>Tue, 21 May 2024 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-3/experian</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/6bacb2fd-bee9-4056-90cd-b5a1373c82dc/code-20comments-20-20youtube-20thumbnails-22-season-203-episode-205.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Modernizing your IT systems is a worthy achievement. You can reap the benefits of digital transformation at last. But don’t be lulled into a false sense of security—digital transformation isn’t about reaching the finish line. It’s about reaching for the horizon. <br /><br />Randall Núñez of Experian explains how perpetual improvement is a key element of digital transformation, because systems can’t stay modern forever.</p>
+]]></content:encoded>
+      <enclosure length="19418501" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/301573b0-4edd-424b-bd2f-83042696e7bb.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Transforming Your Timelines</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/e6686c37-f71b-4414-bb54-c1988eb21789/b2c0f265-bca2-4810-8cef-fe72e87dfedd/3000x3000/code-comments-seasonal-promo-0324-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:19:58</itunes:duration>
+      <itunes:summary>Modernizing your IT systems is a worthy achievement. You can reap the benefits of digital transformation at last. But don’t be lulled into a false sense of security—digital transformation isn’t about reaching the finish line. It’s about reaching for the horizon. 
+
+Randall Núñez of Experian explains how perpetual improvement is a key element of digital transformation, because systems can’t stay modern forever.</itunes:summary>
+      <itunes:subtitle>Modernizing your IT systems is a worthy achievement. You can reap the benefits of digital transformation at last. But don’t be lulled into a false sense of security—digital transformation isn’t about reaching the finish line. It’s about reaching for the horizon. 
+
+Randall Núñez of Experian explains how perpetual improvement is a key element of digital transformation, because systems can’t stay modern forever.</itunes:subtitle>
+      <itunes:keywords>red hat, code comments, operations, digital transformation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">feaafa16-6f80-4424-aa45-40238778b76d</guid>
+      <title>Transforming Your Priorities</title>
+      <description><![CDATA[<p>It can be difficult to know the full outcome of your choices. Not having clear priorities makes it impossible to know which choice is the right one, because those should inform your direction. </p><p>Adam Timm of Crunchy Data explains how multiple factors influence outcomes—and how keeping your priorities at the forefront of your decision-making process makes it easier to pick the right choice for your organization.</p><p>The guest featured in this episode works for Crunchy Data, a Red Hat partner.</p>
+]]></description>
+      <pubDate>Tue, 7 May 2024 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-3/crunchy-data-2</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/076209dd-67a0-4081-8a44-ff67e8b2f8b6/code-20comments-20-20youtube-20thumbnails-21-season-203-episode-204.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>It can be difficult to know the full outcome of your choices. Not having clear priorities makes it impossible to know which choice is the right one, because those should inform your direction. </p><p>Adam Timm of Crunchy Data explains how multiple factors influence outcomes—and how keeping your priorities at the forefront of your decision-making process makes it easier to pick the right choice for your organization.</p><p>The guest featured in this episode works for Crunchy Data, a Red Hat partner.</p>
+]]></content:encoded>
+      <enclosure length="17220571" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/e8ab7f0b-2fa2-4acf-a303-280275c573bc.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Transforming Your Priorities</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/e6686c37-f71b-4414-bb54-c1988eb21789/695a7405-4e21-4be4-9ceb-cd3fc55b2cec/3000x3000/code-comments-seasonal-promo-0324-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:17:42</itunes:duration>
+      <itunes:summary>It can be difficult to know the full outcome of your choices. Not having clear priorities makes it impossible to know which choice is the right one, because those should inform your direction. 
+
+Adam Timm of Crunchy Data explains how multiple factors influence outcomes—and how keeping your priorities at the forefront of your decision-making process makes it easier to pick the right choice for your organization.</itunes:summary>
+      <itunes:subtitle>It can be difficult to know the full outcome of your choices. Not having clear priorities makes it impossible to know which choice is the right one, because those should inform your direction. 
+
+Adam Timm of Crunchy Data explains how multiple factors influence outcomes—and how keeping your priorities at the forefront of your decision-making process makes it easier to pick the right choice for your organization.</itunes:subtitle>
+      <itunes:keywords>red hat, security, code comments, operations, database, digital transformation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">5cfdcbb5-6058-437d-af1d-054d838202cb</guid>
+      <title>Transforming Your Database</title>
+      <description><![CDATA[<p>Databases are rarely the stars of digital transformation. That’s not necessarily a bad thing. But that doesn’t mean they should be an afterthought either. <br /><br />Craig Kerstiens of Crunchy Data covers the state of the database—and how the database tools you choose have implications beyond the databases themselves.</p><p>The guest featured in this episode works for Crunchy Data, a Red Hat partner.</p>
+]]></description>
+      <pubDate>Tue, 23 Apr 2024 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-3/crunchy-data-1</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/d7707702-68b7-404b-a554-cf2477dd8b8d/code-20comments-20-20youtube-20thumbnails-20-season-203-episode-203.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Databases are rarely the stars of digital transformation. That’s not necessarily a bad thing. But that doesn’t mean they should be an afterthought either. <br /><br />Craig Kerstiens of Crunchy Data covers the state of the database—and how the database tools you choose have implications beyond the databases themselves.</p><p>The guest featured in this episode works for Crunchy Data, a Red Hat partner.</p>
+]]></content:encoded>
+      <enclosure length="22850474" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/510866ba-c375-4bb4-9280-f63dbcc0bedb.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Transforming Your Database</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/e6686c37-f71b-4414-bb54-c1988eb21789/43d6d9aa-cec0-4c1a-9f67-2dce8b42b191/3000x3000/code-comments-seasonal-promo-0324-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:23:34</itunes:duration>
+      <itunes:summary>Databases are rarely the stars of digital transformation. That’s not necessarily a bad thing. But that doesn’t mean they should be an afterthought either. 
+
+Craig Kerstiens of Crunchy Data covers the state of the database—and how the database tools you choose have implications beyond the databases themselves.</itunes:summary>
+      <itunes:subtitle>Databases are rarely the stars of digital transformation. That’s not necessarily a bad thing. But that doesn’t mean they should be an afterthought either. 
+
+Craig Kerstiens of Crunchy Data covers the state of the database—and how the database tools you choose have implications beyond the databases themselves.</itunes:subtitle>
+      <itunes:keywords>relational, nonrelational, red hat, code comments, database, digital transformation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">e23ac500-d608-433f-9632-c539a46b4192</guid>
+      <title>Transforming Your Secrets Management</title>
+      <description><![CDATA[<p>We’ve been taught to stash our secrets. Passwords, credentials, and tokens shouldn’t be shared lest they fall into the wrong hands. When it comes to building and running large-scale systems, that thinking has to change. But maybe only a little bit.</p><p>Rosemary Wang and Steve Almy of HashiCorp share how business as usual for secrets management means putting your business at risk.</p><p>The guests featured in this episode work for HashiCorp, a Red Hat partner.</p>
+]]></description>
+      <pubDate>Tue, 9 Apr 2024 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-3/hashicorp</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/a29cf932-8e79-48a5-ace9-38fea70d0beb/code-20comments-20-20youtube-20thumbnails-19-season-203-episode-202.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>We’ve been taught to stash our secrets. Passwords, credentials, and tokens shouldn’t be shared lest they fall into the wrong hands. When it comes to building and running large-scale systems, that thinking has to change. But maybe only a little bit.</p><p>Rosemary Wang and Steve Almy of HashiCorp share how business as usual for secrets management means putting your business at risk.</p><p>The guests featured in this episode work for HashiCorp, a Red Hat partner.</p>
+]]></content:encoded>
+      <enclosure length="19026449" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/5de5c65b-e340-4263-997b-02a203114f19.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Transforming Your Secrets Management</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/e6686c37-f71b-4414-bb54-c1988eb21789/2b57afff-b77e-4924-89e9-ad4291976693/3000x3000/code-comments-seasonal-promo-0324-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:19:35</itunes:duration>
+      <itunes:summary>We’ve been taught to stash our secrets. Passwords, credentials, and tokens shouldn’t be shared lest they fall into the wrong hands. When it comes to building and running large-scale systems, that thinking has to change. But maybe only a little bit. 
+
+Rosemary Wang and Steve Almy of HashiCorp share how business as usual for secrets management means putting your business at risk.</itunes:summary>
+      <itunes:subtitle>We’ve been taught to stash our secrets. Passwords, credentials, and tokens shouldn’t be shared lest they fall into the wrong hands. When it comes to building and running large-scale systems, that thinking has to change. But maybe only a little bit. 
+
+Rosemary Wang and Steve Almy of HashiCorp share how business as usual for secrets management means putting your business at risk.</itunes:subtitle>
+      <itunes:keywords>secrets, red hat, security, code comments, digital transformation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">288890e4-0c28-4afd-a785-88d420d1146d</guid>
+      <title>Transforming Your Identity Management</title>
+      <description><![CDATA[<p>Modern IT systems have a lot of components—components people have to use, and components who need to talk to each other. That’s a lot of traffic and exchanging of sensitive information. How do you sort the legitimate users from the potential intruders?<br /><br />Niels Van Bennekom shares how CyberArk helps organizations set up identity management systems that can keep up with expansive, ever-changing IT systems.</p><p>The guest featured in this episode works for CyberArk, a Red Hat partner.</p>
+]]></description>
+      <pubDate>Tue, 26 Mar 2024 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-3/cyberark</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/150ea0a8-8e3b-4eb5-94b2-62768b97d118/code-20comments-20-20youtube-20thumbnails-18-season-203-episode-201.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Modern IT systems have a lot of components—components people have to use, and components who need to talk to each other. That’s a lot of traffic and exchanging of sensitive information. How do you sort the legitimate users from the potential intruders?<br /><br />Niels Van Bennekom shares how CyberArk helps organizations set up identity management systems that can keep up with expansive, ever-changing IT systems.</p><p>The guest featured in this episode works for CyberArk, a Red Hat partner.</p>
+]]></content:encoded>
+      <enclosure length="20609661" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/9d8878f2-6656-4606-a24e-329e85cb59e9.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Transforming Your Identity Management</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/d9639090-5b53-4942-89bb-d3a7bf7523c4/85b65761-2b90-4ff6-a44c-85db9d87d8ba/3000x3000/code-comments-seasonal-promo-0324-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:20:10</itunes:duration>
+      <itunes:summary>Modern IT systems have a lot of components—components people have to use, and components who need to talk to each other. That’s a lot of traffic and exchanging of sensitive information. How do you sort the legitimate users from the potential intruders?
+
+Niels Van Bennekom shares how CyberArk helps organizations set up identity management systems that can keep up with expansive, ever-changing IT systems.</itunes:summary>
+      <itunes:subtitle>Modern IT systems have a lot of components—components people have to use, and components who need to talk to each other. That’s a lot of traffic and exchanging of sensitive information. How do you sort the legitimate users from the potential intruders?
+
+Niels Van Bennekom shares how CyberArk helps organizations set up identity management systems that can keep up with expansive, ever-changing IT systems.</itunes:subtitle>
+      <itunes:keywords>red hat, application modernization, security, code comments</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">b59e5683-3f30-482c-bf79-c89f9b0f0305</guid>
+      <title>Season 3: Charting Digital Transformation</title>
+      <description><![CDATA[<p>A journey of 1,000 upgrades starts with a single commit. It’s not always clear how much change digital transformation entails. But it’s likely more than expected.<br /><br />Season 3 of <a href="https://www.redhat.com/en/code-comments-podcast" target="_blank">Code Comments</a> travels the well-trodden paths of IT modernization, cloud migration, and the unmentioned necessities to make it all work.</p>
+]]></description>
+      <pubDate>Tue, 12 Mar 2024 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-3/trailer</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/4e023e72-0d25-41e4-8bd3-9f81ba04a45e/code-20comments-20-20youtube-20thumbnails-17-season-203-trailer.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>A journey of 1,000 upgrades starts with a single commit. It’s not always clear how much change digital transformation entails. But it’s likely more than expected.<br /><br />Season 3 of <a href="https://www.redhat.com/en/code-comments-podcast" target="_blank">Code Comments</a> travels the well-trodden paths of IT modernization, cloud migration, and the unmentioned necessities to make it all work.</p>
+]]></content:encoded>
+      <enclosure length="2284470" type="audio/mpeg" url="https://www.claritaspod.com/measure/cdn.simplecast.com/audio/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/episodes/0d9495d8-6f05-4a9a-bc53-389b4253425f/audio/5cdc0575-94a8-4260-8712-64a48a920f31/default_tc.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Season 3: Charting Digital Transformation</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:01:04</itunes:duration>
+      <itunes:summary>A journey of 1,000 upgrades starts with a single commit. It’s not always clear how much change digital transformation entails. But it’s likely more than expected.
+
+Season 3 of Code Comments travels the well-trodden paths of IT modernization, cloud migration, and the unmentioned necessities to make it all work.</itunes:summary>
+      <itunes:subtitle>A journey of 1,000 upgrades starts with a single commit. It’s not always clear how much change digital transformation entails. But it’s likely more than expected.
+
+Season 3 of Code Comments travels the well-trodden paths of IT modernization, cloud migration, and the unmentioned necessities to make it all work.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">3e2dd41a-4b2f-4741-8b1e-4b1da457a2bc</guid>
+      <title>You Can&apos;t Automate The Fire</title>
+      <description><![CDATA[<p>Is there such a thing as too much enthusiasm for automation? Probably not. But it can be difficult to unify an organization with strong opinions. Vincenzo Sposito shares how Discover harnessed its teams’ passions to build a unified automation solution—while preserving debate and experimentation.</p>
+]]></description>
+      <pubDate>Tue, 19 Dec 2023 08:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-2/discover</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/e3c332ba-e116-4f3b-b500-07eebc23bdab/code-20comments-20-20youtube-20thumbnails-16-season-202-episode-206.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Is there such a thing as too much enthusiasm for automation? Probably not. But it can be difficult to unify an organization with strong opinions. Vincenzo Sposito shares how Discover harnessed its teams’ passions to build a unified automation solution—while preserving debate and experimentation.</p>
+]]></content:encoded>
+      <enclosure length="21649421" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/ae7767d9-b146-4dc7-9b6e-c7fc7d09b21b.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>You Can&apos;t Automate The Fire</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:21:15</itunes:duration>
+      <itunes:summary>Is there such a thing as too much enthusiasm for automation? Probably not. But it can be difficult to unify an organization with strong opinions. 
+
+Vincenzo Sposito shares how Discover harnessed its teams’ passions to build a unified automation solution—while preserving debate and experimentation. </itunes:summary>
+      <itunes:subtitle>Is there such a thing as too much enthusiasm for automation? Probably not. But it can be difficult to unify an organization with strong opinions. 
+
+Vincenzo Sposito shares how Discover harnessed its teams’ passions to build a unified automation solution—while preserving debate and experimentation. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>2</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">43c80ac2-f505-4815-b5cd-2fc2966ab966</guid>
+      <title>You Can’t Automate The Difficult Decisions</title>
+      <description><![CDATA[<p>The tensions between security and operations and developer teams are the stuff of legend. DevSecOps is trying to change that, and automation is a big part of making it possible. But automation alone can’t overcome entrenched behavior. </p><p>Joylynn Kirui shares how Microsoft is helping shift security considerations to the left—and alleviating the headaches that process can bring. Because in the long run, everyone is better off with better security.</p>
+]]></description>
+      <pubDate>Tue, 31 Oct 2023 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Joylynn Kirui)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-2/microsoft</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/630295b9-3231-45ef-85d2-40805ad80501/code-20comments-20-20youtube-20thumbnails-15-season-202-episode-205.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>The tensions between security and operations and developer teams are the stuff of legend. DevSecOps is trying to change that, and automation is a big part of making it possible. But automation alone can’t overcome entrenched behavior. </p><p>Joylynn Kirui shares how Microsoft is helping shift security considerations to the left—and alleviating the headaches that process can bring. Because in the long run, everyone is better off with better security.</p>
+]]></content:encoded>
+      <enclosure length="9770747" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/a526ed63-f234-417f-9fd1-4c1363f4e1ff.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>You Can’t Automate The Difficult Decisions</itunes:title>
+      <itunes:author>Joylynn Kirui</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:19:17</itunes:duration>
+      <itunes:summary>The tensions between security and operations and developer teams are the stuff of legend. DevSecOps is trying to change that, and automation is a big part of making it possible. But automation alone can’t overcome entrenched behavior. 
+
+Joylynn Kirui shares how Microsoft is helping shift security considerations to the left—and alleviating the headaches that process can bring. Because in the long run, everyone is better off with better security.</itunes:summary>
+      <itunes:subtitle>The tensions between security and operations and developer teams are the stuff of legend. DevSecOps is trying to change that, and automation is a big part of making it possible. But automation alone can’t overcome entrenched behavior. 
+
+Joylynn Kirui shares how Microsoft is helping shift security considerations to the left—and alleviating the headaches that process can bring. Because in the long run, everyone is better off with better security.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>2</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">1d90112a-19eb-4f9f-bc1b-dc723a472bdc</guid>
+      <title>You Can’t Automate Collaboration</title>
+      <description><![CDATA[<p>No single person can automate a whole company’s IT. Even most teams would need some help. But it’s also not likely you can immediately get everyone to automate their own work right away. So how do you get it done? </p><p>Sudheer Kumar Donthineni explains how Ulta Beauty makes the most of its small team of 3 automation experts. Through the power of collaboration, they’re able to make significant progress with automation—and help their employees grow.</p>
+]]></description>
+      <pubDate>Tue, 17 Oct 2023 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Sudheer Kumar Donthineni)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-2/ulta-beauty</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/57164679-5961-4770-a620-fe5f2d268dcc/code-20comments-20-20youtube-20thumbnails-14-season-202-episode-204.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>No single person can automate a whole company’s IT. Even most teams would need some help. But it’s also not likely you can immediately get everyone to automate their own work right away. So how do you get it done? </p><p>Sudheer Kumar Donthineni explains how Ulta Beauty makes the most of its small team of 3 automation experts. Through the power of collaboration, they’re able to make significant progress with automation—and help their employees grow.</p>
+]]></content:encoded>
+      <enclosure length="8711405" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/689536df-88e4-4a33-9220-376a3eac6b20.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>You Can’t Automate Collaboration</itunes:title>
+      <itunes:author>Sudheer Kumar Donthineni</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:17:04</itunes:duration>
+      <itunes:summary>No single person can automate a whole company’s IT. Even most teams would need some help. But it’s also not likely you can immediately get everyone to automate their own work right away. So how do you get it done? 
+
+Sudheer Kumar Donthineni explains how Ulta Beauty makes the most of its small team of 3 automation experts. Through the power of collaboration, they’re able to make significant progress with automation—and help their employees grow.</itunes:summary>
+      <itunes:subtitle>No single person can automate a whole company’s IT. Even most teams would need some help. But it’s also not likely you can immediately get everyone to automate their own work right away. So how do you get it done? 
+
+Sudheer Kumar Donthineni explains how Ulta Beauty makes the most of its small team of 3 automation experts. Through the power of collaboration, they’re able to make significant progress with automation—and help their employees grow.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>2</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">e52d5a66-aae6-4677-8868-473fb8bd2240</guid>
+      <title>You Can&apos;t Automate Expectations</title>
+      <description><![CDATA[<p>Establishing consistent automation habits helps keep those skills sharp and gets the systems set up promptly. But getting to that point takes time. And even when automating processes becomes second nature, you can still overlook potential pitfalls. </p><p>Joshua Bradley of Cox Edge describes what it’s like managing the expectations teams and stakeholders may have about automating infrastructure. The systems may be more complex. Timelines may be longer. And even when you leave detailed instructions, users may still make mistakes. It just means you need to keep adjusting until you get it right.</p>
+]]></description>
+      <pubDate>Tue, 3 Oct 2023 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Joshua Bradley)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-2/cox-edge</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/860e0a39-c533-41cc-af38-22be68f90f34/code-20comments-20-20youtube-20thumbnails-13-season-202-episode-203.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Establishing consistent automation habits helps keep those skills sharp and gets the systems set up promptly. But getting to that point takes time. And even when automating processes becomes second nature, you can still overlook potential pitfalls. </p><p>Joshua Bradley of Cox Edge describes what it’s like managing the expectations teams and stakeholders may have about automating infrastructure. The systems may be more complex. Timelines may be longer. And even when you leave detailed instructions, users may still make mistakes. It just means you need to keep adjusting until you get it right.</p>
+]]></content:encoded>
+      <enclosure length="9206646" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/2b58f037-b454-4ba0-91e6-5762b148360a.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>You Can&apos;t Automate Expectations</itunes:title>
+      <itunes:author>Joshua Bradley</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:18:06</itunes:duration>
+      <itunes:summary>Establishing consistent automation habits helps keep those skills sharp and gets the systems set up promptly. But getting to that point takes time. And even when automating processes becomes second nature, you can still overlook potential pitfalls. 
+
+Joshua Bradley of Cox Edge describes what it’s like managing the expectations teams and stakeholders may have about automating infrastructure. The systems may be more complex. Timelines may be longer. And even when you leave detailed instructions, users may still make mistakes. It just means you need to keep adjusting until you get it right.</itunes:summary>
+      <itunes:subtitle>Establishing consistent automation habits helps keep those skills sharp and gets the systems set up promptly. But getting to that point takes time. And even when automating processes becomes second nature, you can still overlook potential pitfalls. 
+
+Joshua Bradley of Cox Edge describes what it’s like managing the expectations teams and stakeholders may have about automating infrastructure. The systems may be more complex. Timelines may be longer. And even when you leave detailed instructions, users may still make mistakes. It just means you need to keep adjusting until you get it right.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>2</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">4dbaab31-d636-429c-8a54-eec8417cce8e</guid>
+      <title>You Can’t Automate Cultural Change</title>
+      <description><![CDATA[<p>Making automation work takes more than just writing the scripts. And it’s most effective when it becomes a habit rather than a one-off project. But building habits and changing culture is no easy task. </p><p>Eduardo Krumholz and David Linthicum of Deloitte help their clients internalize automation as part of their workflows. They share their strategies to help their customers make that transition successful—and overcome reluctance to change.</p>
+]]></description>
+      <pubDate>Tue, 19 Sep 2023 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Eduardo Krumholz, David Linthicum)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-2/deloitte</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/5ffb14aa-d01a-44aa-b902-52e47e756e4f/code-20comments-20-20youtube-20thumbnails-12-season-202-episode-202.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Making automation work takes more than just writing the scripts. And it’s most effective when it becomes a habit rather than a one-off project. But building habits and changing culture is no easy task. </p><p>Eduardo Krumholz and David Linthicum of Deloitte help their clients internalize automation as part of their workflows. They share their strategies to help their customers make that transition successful—and overcome reluctance to change.</p>
+]]></content:encoded>
+      <enclosure length="8997474" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/ffaab2a4-e961-4eb1-b9ed-5cac5de491d8.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>You Can’t Automate Cultural Change</itunes:title>
+      <itunes:author>Eduardo Krumholz, David Linthicum</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:17:40</itunes:duration>
+      <itunes:summary>Making automation work takes more than just writing the scripts. And it’s most effective when it becomes a habit rather than a one-off project. But building habits and changing culture is no easy task.
+
+Eduardo Krumholz and David Linthicum of Deloitte help their clients internalize automation as part of their workflows. They share their strategies to help their customers make that transition successful—and overcome reluctance to change.</itunes:summary>
+      <itunes:subtitle>Making automation work takes more than just writing the scripts. And it’s most effective when it becomes a habit rather than a one-off project. But building habits and changing culture is no easy task.
+
+Eduardo Krumholz and David Linthicum of Deloitte help their clients internalize automation as part of their workflows. They share their strategies to help their customers make that transition successful—and overcome reluctance to change.</itunes:subtitle>
+      <itunes:keywords>automation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>2</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">f9eb0cef-2c3e-4ee7-b639-1423f30fe3c3</guid>
+      <title>You Can&apos;t Automate Buy-In</title>
+      <description><![CDATA[<p>World Wide Technology (WWT) helps organizations set up their tech infrastructure. But they also have to do it for themselves. It’s a lot to juggle with their ambitious goals for growth. Automation is helping them get to where they want to go—but it took them a few years to find a solution the team bought into.  Corey Wanless and Jason Kayser share what WWT wanted to achieve with automation, the challenges they faced, and how it helped the people of WWT come together.</p>
+]]></description>
+      <pubDate>Tue, 5 Sep 2023 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-2/world-wide-technology</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/5fbef787-3ddd-451d-afa9-d7fe80709321/code-20comments-20-20youtube-20thumbnails-11-season-202-episode-201.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>World Wide Technology (WWT) helps organizations set up their tech infrastructure. But they also have to do it for themselves. It’s a lot to juggle with their ambitious goals for growth. Automation is helping them get to where they want to go—but it took them a few years to find a solution the team bought into.  Corey Wanless and Jason Kayser share what WWT wanted to achieve with automation, the challenges they faced, and how it helped the people of WWT come together.</p>
+]]></content:encoded>
+      <enclosure length="8518814" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/0caf479f-a20f-4a36-a0dc-78b18db3e14c.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>You Can&apos;t Automate Buy-In</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:16:40</itunes:duration>
+      <itunes:summary>World Wide Technology (WWT) helps organizations set up their tech infrastructure. But they also have to do it for themselves. It’s a lot to juggle with their ambitious goals for growth. Automation is helping them get to where they want to go—but it took them a few years to find a solution the team bought into. 
+
+Corey Wanless and Jason Kayser share what WWT wanted to achieve with automation, the challenges they faced, and how it helped the people of WWT come together.</itunes:summary>
+      <itunes:subtitle>World Wide Technology (WWT) helps organizations set up their tech infrastructure. But they also have to do it for themselves. It’s a lot to juggle with their ambitious goals for growth. Automation is helping them get to where they want to go—but it took them a few years to find a solution the team bought into. 
+
+Corey Wanless and Jason Kayser share what WWT wanted to achieve with automation, the challenges they faced, and how it helped the people of WWT come together.</itunes:subtitle>
+      <itunes:keywords>automation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">1eabaada-b4bf-48aa-99bd-3694ff3bf4fa</guid>
+      <title>Season 2: Adjusting To Automation</title>
+      <description><![CDATA[<p>Automation is a game-changer. It promises to decrease time to deploy, reduce errors, and increase reliability and efficiency. But you can’t automate change. </p><p>What does it take for teams to actually reach that finish line? And how does it affect how they actually work? Season 2 of Code Comments goes beyond the sales pitch and features teams who’ve tackled automation. Because there’s no script for adjusting to automation.</p>
+]]></description>
+      <pubDate>Tue, 22 Aug 2023 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Jamie Parker)</author>
+      <link>http://redhat.com/en/code-comments-podcast/season-2/trailer</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/32227778-6c9e-4346-8acf-e3f1b3f3572f/code-20comments-20-20youtube-20thumbnails-10-season-202-trailer.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Automation is a game-changer. It promises to decrease time to deploy, reduce errors, and increase reliability and efficiency. But you can’t automate change. </p><p>What does it take for teams to actually reach that finish line? And how does it affect how they actually work? Season 2 of Code Comments goes beyond the sales pitch and features teams who’ve tackled automation. Because there’s no script for adjusting to automation.</p>
+]]></content:encoded>
+      <enclosure length="970741" type="audio/mpeg" url="https://www.claritaspod.com/measure/cdn.simplecast.com/audio/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/episodes/83df5693-83b9-465a-9457-109aac01a031/audio/4bdd440d-1521-4838-81c7-d220fb076500/default_tc.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Season 2: Adjusting To Automation</itunes:title>
+      <itunes:author>Jamie Parker</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:00:57</itunes:duration>
+      <itunes:summary>Automation is a game-changer. It promises to decrease time to deploy, reduce errors, and increase reliability and efficiency. But you can’t automate change.
+
+What does it take for teams to actually reach that finish line? And how does it affect how they actually work? Season 2 of Code Comments goes beyond the sales pitch and features teams who’ve tackled automation. Because there’s no script for adjusting to automation.</itunes:summary>
+      <itunes:subtitle>Automation is a game-changer. It promises to decrease time to deploy, reduce errors, and increase reliability and efficiency. But you can’t automate change.
+
+What does it take for teams to actually reach that finish line? And how does it affect how they actually work? Season 2 of Code Comments goes beyond the sales pitch and features teams who’ve tackled automation. Because there’s no script for adjusting to automation.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">24fb68bf-a730-4c03-a99a-3d53f6b2edf7</guid>
+      <title>Hayden Wolff, NVIDIA: Shaping Extended Reality Through AI</title>
+      <description><![CDATA[<p>The idea behind extended reality, or XR, is immersion. That can be a hard standard to meet when dealing with a visual interface. As an intern at NVIDIA, Hayden Wolff stepped up to tackle a thorny challenge, and with some assistance from natural language processing (NLP), the company’s Project Mellon is changing the way we look at the design process.</p>
+]]></description>
+      <pubDate>Tue, 21 Feb 2023 08:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://www.redhat.com/en/code-comments-podcast/season-1/nvidia-artificial-intelligence</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/ecdac3a4-4b43-4f03-88f4-7b7ffde4836d/code-20comments-20-20youtube-20thumbnails-9-season-201-episode-208.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>The idea behind extended reality, or XR, is immersion. That can be a hard standard to meet when dealing with a visual interface. As an intern at NVIDIA, Hayden Wolff stepped up to tackle a thorny challenge, and with some assistance from natural language processing (NLP), the company’s Project Mellon is changing the way we look at the design process.</p>
+]]></content:encoded>
+      <enclosure length="31754628" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/85bcdd0c-e5ca-4ae4-b3c2-ad369c1cd151.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Hayden Wolff, NVIDIA: Shaping Extended Reality Through AI</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:32:32</itunes:duration>
+      <itunes:summary>The idea behind extended reality, or XR, is immersion. That can be a hard standard to meet when dealing with a visual interface. As an intern at NVIDIA, Hayden Wolff stepped up to tackle a thorny challenge, and with some assistance from natural language processing (NLP), the company’s Project Mellon is changing the way we look at the design process. </itunes:summary>
+      <itunes:subtitle>The idea behind extended reality, or XR, is immersion. That can be a hard standard to meet when dealing with a visual interface. As an intern at NVIDIA, Hayden Wolff stepped up to tackle a thorny challenge, and with some assistance from natural language processing (NLP), the company’s Project Mellon is changing the way we look at the design process. </itunes:subtitle>
+      <itunes:keywords>xr, nvidia, hayden wolff, gui, vr, artificial intelligence, design prototyping</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">42e7f720-772c-4dbe-be39-ff59ba7b95c4</guid>
+      <title>Neesha Godbole, MuleSoft: Communicating the Value of Connecting Systems</title>
+      <description><![CDATA[<p>Connecting tools and systems yields all sorts of benefits. What can be tricky is knowing exactly what those benefits are - especially emergent ones. Neesha Godbole, a Partner Account Manager with MuleSoft, shares how mapping the benefits of joint projects is about finding more than the sum of the parts. But it doesn’t make a difference if you can’t communicate the value to customers.</p>
+]]></description>
+      <pubDate>Tue, 7 Feb 2023 11:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://www.redhat.com/en/code-comments-podcast/season-1/mulesoft-connecting-systems</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/dc4f10f0-ec74-4ed7-bede-31bd3275927a/code-20comments-20-20youtube-20thumbnails-8-season-201-episode-207.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Connecting tools and systems yields all sorts of benefits. What can be tricky is knowing exactly what those benefits are - especially emergent ones. Neesha Godbole, a Partner Account Manager with MuleSoft, shares how mapping the benefits of joint projects is about finding more than the sum of the parts. But it doesn’t make a difference if you can’t communicate the value to customers.</p>
+]]></content:encoded>
+      <enclosure length="24925757" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/64e9d112-3953-4226-afdc-9fb1b8c662a4.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Neesha Godbole, MuleSoft: Communicating the Value of Connecting Systems</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:25:25</itunes:duration>
+      <itunes:summary>Connecting tools and systems yields all sorts of benefits. What can be tricky is knowing exactly what those benefits are - especially emergent ones. Neesha Godbole, a Partner Account Manager with MuleSoft, shares how mapping the benefits of joint projects is about finding more than the sum of the parts. But it doesn’t make a difference if you can’t communicate the value to customers.</itunes:summary>
+      <itunes:subtitle>Connecting tools and systems yields all sorts of benefits. What can be tricky is knowing exactly what those benefits are - especially emergent ones. Neesha Godbole, a Partner Account Manager with MuleSoft, shares how mapping the benefits of joint projects is about finding more than the sum of the parts. But it doesn’t make a difference if you can’t communicate the value to customers.</itunes:subtitle>
+      <itunes:keywords>glue, collaboration, mapping, mulesoft, api, neesha godbole, connecting, joint projects</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">5b06ab18-e70a-45f2-a57f-ee97c998c75f</guid>
+      <title>Markie Duby, Dynatrace: Challenges In Solutions Engineering</title>
+      <description><![CDATA[<p>Change may seem exciting for some. But for those who are moving from one platform, or one technology, to the next, it can be a daunting, anxiety-filled experience. For Dynatrace’s Markie Duby, keeping empathy at the center of one’s work is crucial for building trust and for collaborating with customers as they adapt to an industry that never stops moving.</p>
+]]></description>
+      <pubDate>Tue, 24 Jan 2023 08:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://www.redhat.com/en/code-comments-podcast/season-1/dynatrace-solutions-engineering</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/c7e9129e-8762-49e4-a35a-5ee96a3b4270/code-20comments-20-20youtube-20thumbnails-7-season-201-episode-206.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Change may seem exciting for some. But for those who are moving from one platform, or one technology, to the next, it can be a daunting, anxiety-filled experience. For Dynatrace’s Markie Duby, keeping empathy at the center of one’s work is crucial for building trust and for collaborating with customers as they adapt to an industry that never stops moving.</p>
+]]></content:encoded>
+      <enclosure length="31263550" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/23f3f759-7da8-4acc-b0ed-b6f4ae4ba632.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Markie Duby, Dynatrace: Challenges In Solutions Engineering</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:32:01</itunes:duration>
+      <itunes:summary>Change may seem exciting for some. But for those who are moving from one platform, or one technology, to the next, it can be a daunting, anxiety-filled experience. For Dynatrace’s Markie Duby, keeping empathy at the center of one’s work is crucial for building trust and for collaborating with customers as they adapt to an industry that never stops moving.</itunes:summary>
+      <itunes:subtitle>Change may seem exciting for some. But for those who are moving from one platform, or one technology, to the next, it can be a daunting, anxiety-filled experience. For Dynatrace’s Markie Duby, keeping empathy at the center of one’s work is crucial for building trust and for collaborating with customers as they adapt to an industry that never stops moving.</itunes:subtitle>
+      <itunes:keywords>dynatrace, collaboration, markie duby, data, design, performance monitoring, solutions engineering</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">d6ddbb30-c065-4e55-a6f9-adc8f0a44b2d</guid>
+      <title>Matt Quill, F5: Scaling For Complexity With Container Adoption</title>
+      <description><![CDATA[<p>When it comes time to move to the cloud, the concerns can be many. Companies are increasingly security conscious, and success depends on applications being reliable. There’s also the need for agility, to adjust to changes in the market. F5’s Matt Quill tells Burr how planning carefully and collaboratively can address challenges while building pivotal internal relationships.</p>
+]]></description>
+      <pubDate>Tue, 10 Jan 2023 08:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://www.redhat.com/en/code-comments-podcast/season-1/complexity-containers-f5</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/5dc237a5-81da-47e9-9f64-dad7b3ee4ca8/code-20comments-20-20youtube-20thumbnails-6-season-201-episode-205.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>When it comes time to move to the cloud, the concerns can be many. Companies are increasingly security conscious, and success depends on applications being reliable. There’s also the need for agility, to adjust to changes in the market. F5’s Matt Quill tells Burr how planning carefully and collaboratively can address challenges while building pivotal internal relationships.</p>
+]]></content:encoded>
+      <enclosure length="24396981" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/0b99644b-b02a-4cb2-be7e-1c9d9ba6dfaa.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Matt Quill, F5: Scaling For Complexity With Container Adoption</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:summary>When it comes time to move to the cloud, the concerns can be many. Companies are increasingly security conscious, and success depends on applications being reliable. There’s also the need for agility, to adjust to changes in the market. F5’s Matt Quill tells Burr how planning carefully and collaboratively can address challenges while building pivotal internal relationships.</itunes:summary>
+      <itunes:subtitle>When it comes time to move to the cloud, the concerns can be many. Companies are increasingly security conscious, and success depends on applications being reliable. There’s also the need for agility, to adjust to changes in the market. F5’s Matt Quill tells Burr how planning carefully and collaboratively can address challenges while building pivotal internal relationships.</itunes:subtitle>
+      <itunes:keywords>f5, virtual machines, containers, container adoption, collaboration, design, cloud adoption, cloud infrastructure, matt quill</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">4dcb3f98-eb7b-4997-998b-006d3ecb4516</guid>
+      <title>Ben Darnell, Cockroach Labs: Avoiding Failure In Distributed Databases</title>
+      <description><![CDATA[<p>Ever been so frustrated with the options available that you build your own? Ben Darnell, Chief Architect and Co-Founder of Cockroach Labs, shares how his dissatisfaction with distributed databases led to the creation of CockroachDB. To build a distributed database that not only plans for but expects failures, they needed to implement the Raft consensus algorithm. Getting it up and running was a tough technical challenge. But the result was an incredibly resilient database.</p><p>Find out why <a href="https://www.cockroachlabs.com/blog/netflix-at-cockroachdb/" target="_blank">Netflix uses CockroachDB</a> for their databases. </p><p>Can you have access to a globally available database at the speed of a regional one? Check out <a href="https://www.cockroachlabs.com/blog/global-tables-in-cockroachdb/" target="_blank">how Cockroach Labs accomplishes this with global tables</a>. <br /> </p>
+]]></description>
+      <pubDate>Tue, 13 Dec 2022 08:00:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://www.redhat.com/en/code-comments-podcast/season-1/cockroach-labs-resilient-database</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/89ccaade-b790-42d6-8b03-7766718034e4/code-20comments-20-20youtube-20thumbnails-5-season-201-episode-204.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Ever been so frustrated with the options available that you build your own? Ben Darnell, Chief Architect and Co-Founder of Cockroach Labs, shares how his dissatisfaction with distributed databases led to the creation of CockroachDB. To build a distributed database that not only plans for but expects failures, they needed to implement the Raft consensus algorithm. Getting it up and running was a tough technical challenge. But the result was an incredibly resilient database.</p><p>Find out why <a href="https://www.cockroachlabs.com/blog/netflix-at-cockroachdb/" target="_blank">Netflix uses CockroachDB</a> for their databases. </p><p>Can you have access to a globally available database at the speed of a regional one? Check out <a href="https://www.cockroachlabs.com/blog/global-tables-in-cockroachdb/" target="_blank">how Cockroach Labs accomplishes this with global tables</a>. <br /> </p>
+]]></content:encoded>
+      <enclosure length="27948382" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/6cd6c852-28c7-46f2-81b0-414e58271568.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Ben Darnell, Cockroach Labs: Avoiding Failure In Distributed Databases</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:28:34</itunes:duration>
+      <itunes:summary>Ever been so frustrated with the options available that you build your own? Ben Darnell, Chief Architect and Co-Founder of Cockroach Labs, shares how his dissatisfaction with distributed databases led to the creation of CockroachDB. To build a distributed database that not only plans for but expects failures, they needed to implement the Raft consensus algorithm. Getting it up and running was a tough technical challenge. But the result was an incredibly resilient database.</itunes:summary>
+      <itunes:subtitle>Ever been so frustrated with the options available that you build your own? Ben Darnell, Chief Architect and Co-Founder of Cockroach Labs, shares how his dissatisfaction with distributed databases led to the creation of CockroachDB. To build a distributed database that not only plans for but expects failures, they needed to implement the Raft consensus algorithm. Getting it up and running was a tough technical challenge. But the result was an incredibly resilient database.</itunes:subtitle>
+      <itunes:keywords>consensus, failure, cockroachdb, nonrelational database, ben darnell, distributed infrastructure, cap theorem, distributed database, cockroach labs, raft</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">b7d0760a-fb03-46a9-8c22-16bd4a018071</guid>
+      <title>David Duncan, Amazon Web Services: Aligning With Open Source Principles</title>
+      <description><![CDATA[<p>It’s one thing to talk about your open source principles. It’s another entirely to build them into your workflows. How does a large company like Amazon Web Services actually make it work? David Duncan, Sr Manager Partner Solutions Architect at AWS, explains that being open with partners and customers throughout the development process is key. He talks about ensuring there are no one-way doors, and how collaboration helps to produce a better experience for OpenShift on AWS as well as combining the power of the Cloud Control API with Ansible automation.</p>
+]]></description>
+      <pubDate>Tue, 29 Nov 2022 08:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://www.redhat.com/en/code-comments-podcast/season-1/amazon-web-services-open-principles</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/c302bcfc-a644-4ff6-989d-6193b4058e66/code-20comments-20-20youtube-20thumbnails-4-season-201-episode-203.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>It’s one thing to talk about your open source principles. It’s another entirely to build them into your workflows. How does a large company like Amazon Web Services actually make it work? David Duncan, Sr Manager Partner Solutions Architect at AWS, explains that being open with partners and customers throughout the development process is key. He talks about ensuring there are no one-way doors, and how collaboration helps to produce a better experience for OpenShift on AWS as well as combining the power of the Cloud Control API with Ansible automation.</p>
+]]></content:encoded>
+      <enclosure length="30141178" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/d9d84b51-7420-4ae9-8da6-b1d9cbf34cab.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>David Duncan, Amazon Web Services: Aligning With Open Source Principles</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:31:23</itunes:duration>
+      <itunes:summary>It’s one thing to talk about your open source principles. It’s another entirely to build them into your workflows. How does a large company like Amazon Web Services actually make it work? David Duncan, Sr Manager Partner Solutions Architect at AWS, explains that being open with partners and customers throughout the development process is key. He talks about ensuring there are no one-way doors, and how collaboration helps to produce a better experience for OpenShift on AWS as well as combining the power of the Cloud Control API with Ansible automation.</itunes:summary>
+      <itunes:subtitle>It’s one thing to talk about your open source principles. It’s another entirely to build them into your workflows. How does a large company like Amazon Web Services actually make it work? David Duncan, Sr Manager Partner Solutions Architect at AWS, explains that being open with partners and customers throughout the development process is key. He talks about ensuring there are no one-way doors, and how collaboration helps to produce a better experience for OpenShift on AWS as well as combining the power of the Cloud Control API with Ansible automation.</itunes:subtitle>
+      <itunes:keywords>ansible, open source, red hat, aws, open, api, amazon web services, david duncan</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">3fc9269a-fd72-487f-85cd-ab8782a5b441</guid>
+      <title>Sandeep Sharma, Tech Mahindra: Rethinking Networks In Telecommunications</title>
+      <description><![CDATA[<p>Success in telecommunications relies on bridging the tangible with the intangible. It isn’t just the availability of software, or the speed of a network; It's the blend of network services and physical infrastructure necessary to deliver an end-to-end experience between datacenters and customers. Sandeep Sharma, Vice President of Tech Mahindra, gives us a history of networks, how they’ve changed, and how companies are meeting increasingly complex market demands.</p>
+]]></description>
+      <pubDate>Tue, 15 Nov 2022 08:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://www.redhat.com/en/code-comments-podcast/season-1/tech-mahindra-networks</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/470fcc61-65f3-487e-90fb-cd1745a5cf48/code-20comments-20-20youtube-20thumbnails-3-season-201-episode-202.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Success in telecommunications relies on bridging the tangible with the intangible. It isn’t just the availability of software, or the speed of a network; It's the blend of network services and physical infrastructure necessary to deliver an end-to-end experience between datacenters and customers. Sandeep Sharma, Vice President of Tech Mahindra, gives us a history of networks, how they’ve changed, and how companies are meeting increasingly complex market demands.</p>
+]]></content:encoded>
+      <enclosure length="28701508" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/32d79061-21f8-40a1-9ef8-d424e82a8326.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Sandeep Sharma, Tech Mahindra: Rethinking Networks In Telecommunications</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:29:21</itunes:duration>
+      <itunes:summary>Success in telecommunications relies on bridging the tangible with the intangible. It isn’t just the availability of software, or the speed of a network; It&apos;s the blend of network services and physical infrastructure necessary to deliver an end-to-end experience between datacenters and customers. Sandeep Sharma, Vice President of Tech Mahindra, gives us a history of networks, how they’ve changed, and how companies are meeting increasingly complex market demands.</itunes:summary>
+      <itunes:subtitle>Success in telecommunications relies on bridging the tangible with the intangible. It isn’t just the availability of software, or the speed of a network; It&apos;s the blend of network services and physical infrastructure necessary to deliver an end-to-end experience between datacenters and customers. Sandeep Sharma, Vice President of Tech Mahindra, gives us a history of networks, how they’ve changed, and how companies are meeting increasingly complex market demands.</itunes:subtitle>
+      <itunes:keywords>5g, ran, tech mahindra, sandeep sharma, redhat, telco</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">98eb7f29-20cf-4225-bd0e-fd63c13f7d89</guid>
+      <title>Ryan Loney, Intel: Bringing Deep Learning to Enterprise Applications</title>
+      <description><![CDATA[<p>There are a lot of publicly available data sets out there. But when it comes to specific enterprise use cases, you’re not necessarily going to be able to find one to train your models. To realize the power of AI/ML in enterprise environments, end users need an inference engine to run on their hardware. Ryan Loney takes us through OpenVINO and Anomalib, open toolkits from Intel that do precisely that. He looks specifically at anomaly detection in use cases as varied as medical imaging and manufacturing.</p><p>Want to read more about Anomalib? Check out the research paper that introduces the deep learning library: <a href="https://arxiv.org/abs/2202.08341" target="_blank"><strong>https://arxiv.org/abs/2202.08341</strong></a></p>
+]]></description>
+      <pubDate>Tue, 1 Nov 2022 07:05:00 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://www.redhat.com/en/code-comments-podcast/season-1/intel-deep-learning</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/67bbdafa-99ac-4827-a262-416724b0fd5b/code-20comments-20-20youtube-20thumbnails-2-season-201-episode-201.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>There are a lot of publicly available data sets out there. But when it comes to specific enterprise use cases, you’re not necessarily going to be able to find one to train your models. To realize the power of AI/ML in enterprise environments, end users need an inference engine to run on their hardware. Ryan Loney takes us through OpenVINO and Anomalib, open toolkits from Intel that do precisely that. He looks specifically at anomaly detection in use cases as varied as medical imaging and manufacturing.</p><p>Want to read more about Anomalib? Check out the research paper that introduces the deep learning library: <a href="https://arxiv.org/abs/2202.08341" target="_blank"><strong>https://arxiv.org/abs/2202.08341</strong></a></p>
+]]></content:encoded>
+      <enclosure length="33068501" type="audio/mpeg" url="https://www.claritaspod.com/measure/locator.simplecastcdn.com/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/bd38190e-516f-49c0-b47e-6cf663d80986.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Ryan Loney, Intel: Bringing Deep Learning to Enterprise Applications</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:33:54</itunes:duration>
+      <itunes:summary>There are a lot of publicly available data sets out there. But when it comes to specific enterprise use cases, you’re not necessarily going to be able to find one to train your models. To realize the power of AI/ML in enterprise environments, end users need an inference engine to run on their hardware. Ryan Loney takes us through OpenVINO and Anomalib, open toolkits from Intel that do precisely that. He looks specifically at anomaly detection in use cases as varied as medical imaging and manufacturing.</itunes:summary>
+      <itunes:subtitle>There are a lot of publicly available data sets out there. But when it comes to specific enterprise use cases, you’re not necessarily going to be able to find one to train your models. To realize the power of AI/ML in enterprise environments, end users need an inference engine to run on their hardware. Ryan Loney takes us through OpenVINO and Anomalib, open toolkits from Intel that do precisely that. He looks specifically at anomaly detection in use cases as varied as medical imaging and manufacturing.</itunes:subtitle>
+      <itunes:keywords>intel, openvino, ryan loney, anomalib</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <guid isPermaLink="false">1ed8696e-d4e4-459d-ad4a-cea5d3e33d57</guid>
+      <title>Introducing Code Comments</title>
+      <description><![CDATA[<p>With technology, there's so many advances happening, it’s really hard to keep up. There’s a lot involved, and many lessons to learn along the way. Ultimately, none of us can do it alone. In this new original podcast, host and technologist Burr Sutter sits down with leaders in the tech industry about the challenges encountered along the path to progress. Subscribe to listen on your favorite podcast platforms.</p>
+]]></description>
+      <pubDate>Thu, 13 Oct 2022 18:44:30 +0000</pubDate>
+      <author>bsimonea@redhat.com (Red Hat)</author>
+      <link>https://redhat.com/en/code-comments-podcast/season-1/trailer</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/06b725f1-0678-41cb-8c56-beecf51db1e8/885d4686-b5e4-4fa7-9dcc-16176c261638/code-20comments-20-20youtube-20thumbnails-1-trailer.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>With technology, there's so many advances happening, it’s really hard to keep up. There’s a lot involved, and many lessons to learn along the way. Ultimately, none of us can do it alone. In this new original podcast, host and technologist Burr Sutter sits down with leaders in the tech industry about the challenges encountered along the path to progress. Subscribe to listen on your favorite podcast platforms.</p>
+]]></content:encoded>
+      <enclosure length="1806148" type="audio/mpeg" url="https://www.claritaspod.com/measure/cdn.simplecast.com/audio/28d037d3-7d17-42d4-a8e2-2e00fd8b602b/episodes/1feec746-b76c-4c05-b605-b511b357dd3b/audio/b0da6ea3-c40d-4240-bf86-7b3e8fa1e621/default_tc.mp3?aid=rss_feed&amp;feed=qdjfQuGX"/>
+      <itunes:title>Introducing Code Comments</itunes:title>
+      <itunes:author>Red Hat</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/bed24bb8-5b58-4001-9e33-ae257b4d8166/aa0c0c54-bfb2-4dd2-892f-98922d4c4567/3000x3000/code-comments-thumbnail-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:01:21</itunes:duration>
+      <itunes:summary>With technology, there&apos;s so many advances happening, it’s really hard to keep up. There’s a lot involved, and many lessons to learn along the way. Ultimately, none of us can do it alone. In this new original podcast, host and technologist Burr Sutter sits down with leaders in the tech industry about the challenges encountered along the path to progress. Subscribe to listen on your favorite podcast platforms.</itunes:summary>
+      <itunes:subtitle>With technology, there&apos;s so many advances happening, it’s really hard to keep up. There’s a lot involved, and many lessons to learn along the way. Ultimately, none of us can do it alone. In this new original podcast, host and technologist Burr Sutter sits down with leaders in the tech industry about the challenges encountered along the path to progress. Subscribe to listen on your favorite podcast platforms.</itunes:subtitle>
+      <itunes:keywords>linux, coding, containers, programming, cloud, open source, windows, hybrid cloud, kubernetes, 5g, command line, red hat, computers, cloud computing, technology, code comments, edge computing, devops, development, deep learning, agile</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+    </item>
+  </channel>
+</rss>

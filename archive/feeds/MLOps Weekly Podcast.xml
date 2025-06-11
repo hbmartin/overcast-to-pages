@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[MLOps Weekly Podcast]]></title>
+    <link>https://rss.com/podcasts/mlops-weekly</link>
+    <atom:link href="https://media.rss.com/mlops-weekly/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description><![CDATA[Join each week as we talk to MLOps operators, practitioners, and professionals about the current state of MLOps. ]]></description>
+    <generator>RSS.com v2.16.1</generator>
+    <lastBuildDate>Tue, 11 Feb 2025 21:18:57 GMT</lastBuildDate>
+    <language>en</language>
+    <copyright><![CDATA[Featureform 2022]]></copyright>
+    <itunes:image href="https://media.rss.com/mlops-weekly/20220607_010653_39e23ec13c42d0efa239e27bf455ceed.jpg"/>
+    <podcast:guid>bc47a4e0-20f7-5c24-9a9d-f1e0624aa960</podcast:guid>
+    <image>
+      <url>https://media.rss.com/mlops-weekly/20220607_010653_39e23ec13c42d0efa239e27bf455ceed.jpg</url>
+      <title>MLOps Weekly Podcast</title>
+      <link>https://rss.com/podcasts/mlops-weekly</link>
+    </image>
+    <podcast:locked>yes</podcast:locked>
+    <podcast:license>Featureform 2022</podcast:license>
+    <itunes:author>Simba Khadder</itunes:author>
+    <itunes:owner>
+      <itunes:name>Simba Khadder</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title><![CDATA[MLOps Week 32: MLOps and Feature Stores in 2025 with Ben Epstein]]></title>
+      <itunes:title><![CDATA[MLOps Week 32: MLOps and Feature Stores in 2025 with Ben Epstein]]></itunes:title>
+      <description><![CDATA[<p>Join us for special episode of the MLOps Weekly Podcast, an hour long chat with Ben Epstein, MLE at Evolution IQ and co-host of the bi-weekly MLOps Community Virtual meetups, and Featureform CEO Simba Khadder as they reflect on the key developments in MLOps throughout 2024 and look at what trends and challenges to anticipate in 2025! The discussion will center around the integration of Large Language Models (LLMs) and their substantial influence on both MLOps and LLMOps methodologies.</p><p></p><p><strong>Key topics include:</strong></p><ul><li>Best practices and cutting-edge architectures in MLOps</li><li>Where MLOps meets LLMOps: key trends and areas of convergence</li><li>Forecasting the MLOps landscape for 2025</li></ul>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1892524</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2025_02_11_21_17_21_ed0e7b6b-9aa2-4905-b969-92e5f020de49.mp3" length="50204281" type="audio/mpeg"/>
+      <guid isPermaLink="false">033cdb66-d909-400a-88da-1f66c952bd40</guid>
+      <itunes:duration>3137</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>32</itunes:episode>
+      <podcast:episode>32</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 11 Feb 2025 21:18:57 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20250211_090234_43da05525f902bcb5e601c93b6f1a90a.png"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 31: Bridging Software Engineering and MLOps with Paul lusztin of Decoding ML]]></title>
+      <itunes:title><![CDATA[MLOps Week 31: Bridging Software Engineering and MLOps with Paul lusztin of Decoding ML]]></itunes:title>
+      <description><![CDATA[<p>In this episode of the "MLOps Weekly" podcast, host Simba Khadder talks with Paul Iusztin, a Senior ML and MLOps Engineer at Decoding ML, about his journey from software engineering to MLOps. They discuss the integration of software engineering principles in ML, the challenges of writing tests for ML applications, and the key differences between software and ML engineering. Paul shares insights on building scalable and reproducible MLOps platforms, emphasizing the importance of decoupling feature, training, and inference pipelines. They also explore the convergence of MLOps and LLMOps, highlighting the unique aspects of prompt engineering. The conversation underscores the importance of robust engineering practices and continuous adaptation in the rapidly evolving AI landscape.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1594826</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2024_08_01_18_54_05_f7e9f5e1-27eb-4d95-ba6e-f2afa0590a20.mp3" length="31656259" type="audio/mpeg"/>
+      <guid isPermaLink="false">a8b39f3c-476e-4079-a4f3-7be02db4c4a5</guid>
+      <itunes:duration>1978</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>31</itunes:episode>
+      <podcast:episode>31</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 01 Aug 2024 18:54:39 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20240801_060803_6d933d3165d209dff4fbc03aff7f6cba.png"/>
+      <podcast:transcript url="https://apollo.rss.com/transcriptions/1594826" type="text/plain"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 30 - From Recession to Al Boom: Venture Capital Perspectives with Gautam Krishnamurthi]]></title>
+      <itunes:title><![CDATA[MLOps Week 30 - From Recession to Al Boom: Venture Capital Perspectives with Gautam Krishnamurthi]]></itunes:title>
+      <description><![CDATA[<p>For the latest episode of the MLOps Weekly Podcast, join host Simba Khadder as he chats with Gautam Krishnamurthi, partner at Great Point Ventures, about the rapidly evolving world of AI and its impacts on the future of venture capital investing. They also discuss the latest trends in large language models (LLMs), venture valuations, and the impact of rising interest rates on the public markets. Gautam provides his expertise on identifying real enterprise use cases, distinguishing valuable startups amidst the noise, and the critical role of infrastructure in the machine learning landscape. Lastly, you’ll learn about the transformative power of AI, how it's reshaping industries, and what investors seek in the next wave of groundbreaking companies.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1555404</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2024_07_03_22_38_35_8d279b01-0bda-4b52-8e10-a65115cd8a2b.mp3" length="25799815" type="audio/mpeg"/>
+      <guid isPermaLink="false">1af4bc81-057e-4754-9f32-28849a47d41a</guid>
+      <itunes:duration>1612</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>30</itunes:episode>
+      <podcast:episode>30</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 03 Jul 2024 22:40:01 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20240703_100732_de27863ca032d3ac56d61df8b39aaa41.png"/>
+      <podcast:transcript url="https://apollo.rss.com/transcriptions/1555404" type="text/plain"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 29: Building the Future of ML Platforms with Ketan Umare]]></title>
+      <itunes:title><![CDATA[MLOps Week 29: Building the Future of ML Platforms with Ketan Umare]]></itunes:title>
+      <description><![CDATA[<p>Join Featureform’s Founder and CEO, Simba Khadder, and Union CEO and co-founder, Ketan Umare, as they delve into Ketan’s journey, starting with leading the ETA models team at Lyft, the origins and evolution of Flyte, an ML workflow platform, and his latest venture, Union. The discussion also covers the importance of collaboration in AI, the future of traditional machine learning in the era of LLMs, and the potential disruptions in the software industry. Whether you're a data scientist, engineer, or AI enthusiast, this episode offers valuable perspectives on building scalable ML infrastructures and navigating the rapidly changing landscape of artificial intelligence.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1504403</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2024_05_30_20_45_07_f36d5a19-a5d3-4259-923c-ee102c69f6f9.mp3" length="30292458" type="audio/mpeg"/>
+      <guid isPermaLink="false">64cec866-7bad-4977-aae7-51680ee4f2d3</guid>
+      <itunes:duration>1893</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>29</itunes:episode>
+      <podcast:episode>29</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 30 May 2024 20:45:33 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20240530_080505_7e60e779a763d9273a497127ee9a259c.png"/>
+      <podcast:transcript url="https://apollo.rss.com/transcriptions/1504403" type="text/plain"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 28: Featureform's CEO Breaks Down "Real-Time" Machine Learning]]></title>
+      <itunes:title><![CDATA[MLOps Week 28: Featureform's CEO Breaks Down "Real-Time" Machine Learning]]></itunes:title>
+      <description><![CDATA[<p>This episode of our MLOps Weekly Podcast features Simba Khadder, Featureform’s CEO, where he unravels the true meaning of “real-time” machine learning. The discussion breaks down real-time ML into three core aspects: latency, online serving, and real-time features. Simba also covers:</p><ul><li>How latency impacts the speed of ML systems</li><li>The distinctions between online and offline models</li><li>Real-time features and the importance of a balance between data freshness and latency</li></ul><p>This podcast will give listeners a better understanding of these concepts and apply them to their own ML projects.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1410852</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2024_03_28_01_16_05_7fd9f175-e804-4df3-b54e-fad7e9635fb1.mp3" length="17716079" type="audio/mpeg"/>
+      <guid isPermaLink="false">86e28a01-6a33-48ff-bcd3-280a14459e62</guid>
+      <itunes:duration>1107</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>28</itunes:episode>
+      <podcast:episode>28</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 28 Mar 2024 01:16:49 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20240328_010351_aaf8e5eb8d1dc674c3fa344984236771.png"/>
+      <podcast:transcript url="https://apollo.rss.com/transcriptions/1410852" type="text/plain"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 27: Unveiling AI's Infrastructure Evolution with Outerbound’s CEO]]></title>
+      <itunes:title><![CDATA[MLOps Week 27: Unveiling AI's Infrastructure Evolution with Outerbound’s CEO]]></itunes:title>
+      <description><![CDATA[<p>In this episode of the MLOps Weekly Podcast, Featureform CEO Simba Khadder and Outerbounds CEO Ville Tuulos engage in a fascinating conversation about the evolution of ML and AI infrastructure, focusing on the inception and development of Metaflow at Netflix, its impact on machine learning operations, and the establishment of Outerbounds. The discussion delves into the challenges and solutions in ML operations, offering insights into the future of artificial intelligence applications in business and beyond. They also deep dive into the innovative approaches to scaling ML projects, emphasizing practicality and efficiency in the fast-evolving tech landscape.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1367881</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2024_02_29_14_37_45_b09a45a9-1d63-476e-a1b6-6949805dac2f.mp3" length="30686189" type="audio/mpeg"/>
+      <guid isPermaLink="false">8a7eade9-d764-4209-8afe-cfaf6c3ff6a9</guid>
+      <itunes:duration>1917</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>27</itunes:episode>
+      <podcast:episode>27</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 29 Feb 2024 14:40:19 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20240229_020208_b6e95e835400662291f155fb491fe920.png"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 26: Product and Data Team Collaboration with Chinar Movsisyan]]></title>
+      <itunes:title><![CDATA[MLOps Week 26: Product and Data Team Collaboration with Chinar Movsisyan]]></itunes:title>
+      <description><![CDATA[<p>This episode of the MLOps Weekly Podcast delves into the intricate journey from academic research in AI to its practical application in industry, highlighting the challenges of bridging theoretical concepts with real-world solutions. CEO and founder of Manot, Chinar Movsisyan, and Featureform CEO Simba Khadder discuss the evolution of MLOps practices, emphasizing the importance of collaboration across diverse teams to innovate and scale AI technologies. Through engaging stories and insights, listeners are offered a deep dive into the strategies for deploying, managing, and improving machine learning models, showcasing the critical role of MLOps in advancing AI's impact in various sectors.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1346784</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2024_02_15_06_35_32_019067a7-ea1a-494c-bfc4-dbcb52b20763.mp3" length="28404968" type="audio/mpeg"/>
+      <guid isPermaLink="false">734fa58f-001a-48ef-a742-f37647d7f273</guid>
+      <itunes:duration>1775</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>26</itunes:episode>
+      <podcast:episode>26</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 15 Feb 2024 06:36:27 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20240215_060211_f193f7aea5d01b3c3b17dba03819de10.png"/>
+      <podcast:transcript url="https://apollo.rss.com/transcriptions/1346784" type="text/plain"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 25: AI Security & Governance with Sahil Agarwal]]></title>
+      <itunes:title><![CDATA[MLOps Week 25: AI Security & Governance with Sahil Agarwal]]></itunes:title>
+      <description><![CDATA[<p>In this episode, we delve into the evolving landscape of AI with Sahil Agarwal, Enkrypt AI's CEO, focusing on the paramount importance of security, privacy, and governance. Through a discussion rich with insights, we uncover the strategies and challenges faced by organizations in safeguarding data and ethical considerations in AI deployment. The conversation highlights innovative solutions and the critical need for robust frameworks to navigate the complexities of AI integration in our digital age, emphasizing the balance between innovation and ethical responsibility.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1329430</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2024_02_02_22_37_23_1eaf6574-b47d-4f4b-997f-1a841b15e3ba.mp3" length="26839711" type="audio/mpeg"/>
+      <guid isPermaLink="false">1c2d1242-a002-4ca4-be3a-6cd1226ab81e</guid>
+      <itunes:duration>1677</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 02 Feb 2024 22:44:40 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20240202_100201_fd6e261f656d140fec8a8e685deb5da7.png"/>
+      <podcast:transcript url="https://apollo.rss.com/transcriptions/1329430" type="text/plain"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 24: Navigating the MLOps Landscape: Insights from Valohai's CEO]]></title>
+      <itunes:title><![CDATA[MLOps Week 24: Navigating the MLOps Landscape: Insights from Valohai's CEO]]></itunes:title>
+      <description><![CDATA[<p>In this episode of MLOps Weekly, host Simba Khadder engages with Eero Laaksonen, CEO of Valohai, to explore the intricacies of end-to-end MLOps platforms. They discuss the challenges and solutions in machine learning operations, delving into topics like proprietary vs. open-source tools, operational efficiency, and the evolving role of large language models in the MLOps domain.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1297652</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2024_01_11_17_25_10_33453bc7-35ec-4480-a646-9abaf48a9d19.mp3" length="29010591" type="audio/mpeg"/>
+      <guid isPermaLink="false">eda0c41c-d198-497f-b958-00c58948b5d6</guid>
+      <itunes:duration>1813</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 11 Jan 2024 17:28:40 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20240111_050141_755a8497b73c57489f98792004fe2e3d.jpg"/>
+      <podcast:transcript url="https://apollo.rss.com/transcriptions/1297652" type="text/plain"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 23: Data Quality & The Future of DataOps with Maxim Lukichev]]></title>
+      <itunes:title><![CDATA[MLOps Week 23: Data Quality & The Future of DataOps with Maxim Lukichev]]></itunes:title>
+      <description><![CDATA[<p>For Episode 23 of the MLOps Weekly Podcast, Simba chats with Maxim Lukichev, Co-founder and CTO at Telmai. They discuss the importance of a proactive approach to data quality, improving collaboration on data teams, and the critical value of Data Ops in Large Language Models.  </p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1221364</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_11_14_17_17_40_9cb46f3c-eec6-4cff-ba4f-4ff46c29a65b.mp3" length="26532511" type="audio/mpeg"/>
+      <guid isPermaLink="false">652ecb08-293d-43bf-b5b3-d9adf0e20687</guid>
+      <itunes:duration>1658</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 14 Nov 2023 17:19:35 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20231114_051101_8a50c12b517b4db77ca0a0fd8052d781.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 22: Decoding RAG and Embeddings with Demetrios Brinkmann]]></title>
+      <itunes:title><![CDATA[MLOps Week 22: Decoding RAG and Embeddings with Demetrios Brinkmann]]></itunes:title>
+      <description><![CDATA[For Episode 22 of the MLOps Weekly Podcast, Simba sits down with Demetrios Brinkmann, Founder of MLOps Community. They dive deep into the world of embeddings, vector databases, and why AI sometimes feels like ordering too much avocado toast. Tune in for a blend of MLOps wisdom, a sprinkle of humor, and a dash of existential AI crisis!]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1113837</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_09_12_18_16_27_bfe6ed86-3c68-4b63-82b1-9d7fc7711504.mp3" length="38935867" type="audio/mpeg"/>
+      <guid isPermaLink="false">eca9d14c-f979-4b50-a0b9-a85e8c0af86e</guid>
+      <itunes:duration>2433</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 12 Sep 2023 18:16:43 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20230912_060951_bd59e1c2f40da2d239c03ff395f14b0d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 21: The Future of ML Governance and Data Management with Kevin Petrie]]></title>
+      <itunes:title><![CDATA[MLOps Week 21: The Future of ML Governance and Data Management with Kevin Petrie]]></itunes:title>
+      <description><![CDATA[<p>For episode 21 of the MLOps Weekly Podcast, Simba Khadder and Kevin Petrie, VP of Research at Eckerson Group, delve into the challenges and opportunities of integrating MLOps in traditional enterprises. They discuss strategies to overcome technical debt in implementation, the pivotal role of data in the success of ML projects, navigating regulatory compliance in machine learning, and the future of AI governance.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1051657</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_07_25_17_12_17_d867f2fe-b80a-4c3a-bd4d-39f719934fd9.mp3" length="26018003" type="audio/mpeg"/>
+      <guid isPermaLink="false">5758f0e2-da2b-417f-afaf-b5bc252a71bb</guid>
+      <itunes:duration>1626</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 25 Jul 2023 17:13:55 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20230725_050744_134d289cd6cb664f88d4ef7fb4d1191a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 20: Reducing Friction on Data Teams with Harry Glaser]]></title>
+      <itunes:title><![CDATA[MLOps Week 20: Reducing Friction on Data Teams with Harry Glaser]]></itunes:title>
+      <description><![CDATA[On Week 19 of the MLOps Weekly Podcast, Simba sits down with Modelbit Co-founder and CEO, Harry Glaser, to discuss the evolving landscape of data science roles, the friction between different data teams, and the importance of prioritizing organizational and workflow problems when building MLOps tools with impact. ]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/1044748</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_07_19_23_45_32_7598ffe2-beca-4949-8cbe-e30057ea10d2.mp3" length="35442146" type="audio/mpeg"/>
+      <guid isPermaLink="false">3e283c7f-8b4a-4a6c-8ea2-e7f58d26961f</guid>
+      <itunes:duration>2215</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 19 Jul 2023 23:45:58 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20230719_110707_89ef0949870c442b535bcf6a142f0b2b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 18: The LLM Revolution & the Future of Data with Josh Wills]]></title>
+      <itunes:title><![CDATA[MLOps Week 18: The LLM Revolution & the Future of Data with Josh Wills]]></itunes:title>
+      <description><![CDATA[<p>This week on the MLOps Weekly Podcast, Simba chats with Josh Wills, Investor and former Head of Data Engineering at Slack, to discuss data contracts, the impact of LLMs on day-to-day life, and the paradigm shift it's creating in the space as a whole.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/966178</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_05_24_15_36_48_de6a6a90-4335-4dff-a632-ca6d985881f9.mp3" length="44376860" type="audio/mpeg"/>
+      <guid isPermaLink="false">44d82781-1cdf-499b-a057-dc7c83ebfb63</guid>
+      <itunes:duration>2773</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 24 May 2023 15:37:13 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20230524_030551_44690fe701f4254a24a688ac0de0b3f2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 17: Why Data Scientists Need MLOps with Mikiko Bazeley]]></title>
+      <itunes:title><![CDATA[MLOps Week 17: Why Data Scientists Need MLOps with Mikiko Bazeley]]></itunes:title>
+      <description><![CDATA[We're excited to bring you a special episode of the MLOps Weekly Podcast with our very own Head of MLOps, Mikiko Bazeley. Mikiko shares her insights as a prolific data scientist at small companies and enterprises, and why organizations need to prioritize MLOps stacks that focus on the plight of data scientists above all.]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/905492</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_04_12_17_27_47_84c89e1f-0e79-4023-8502-03d48ba22dea.mp3" length="35884347" type="audio/mpeg"/>
+      <guid isPermaLink="false">c2c1d3e7-f51e-452d-b785-e94c2923ebd3</guid>
+      <itunes:duration>2242</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 12 Apr 2023 17:30:11 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20230412_050410_2bd6c4043b5cfbf350b2fc891a6a6fec.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 16: Maximizing Data Impact with Mark Freeman]]></title>
+      <itunes:title><![CDATA[MLOps Week 16: Maximizing Data Impact with Mark Freeman]]></itunes:title>
+      <description><![CDATA[<p>This week on the MLOps Weekly Podcast, Simba sits down with Mark Freeman to discuss why we need to bridge the gap between data scientists and data engineers, and how improved collaboration increases stakeholder engagement and business value.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/844334</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_02_27_20_31_44_50824e35-d454-4b43-b0bb-ff7972791d37.mp3" length="40553787" type="audio/mpeg"/>
+      <guid isPermaLink="false">d4446543-0517-4071-be03-88355bb7e51e</guid>
+      <itunes:duration>2534</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 Feb 2023 17:39:47 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20230227_080216_466769dd8a43f083eafd6344c4d40379.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 15: The Business Impact of MLOps with Liran Hason]]></title>
+      <itunes:title><![CDATA[MLOps Week 15: The Business Impact of MLOps with Liran Hason]]></itunes:title>
+      <description><![CDATA[<p>This week on the MLOps Weekly Podcast, Simba chats with Aporia Co-Founder and CEO, Liran Hason, about best-of-breed tooling and the business impact of MLOps.</p><p>********************************</p><p><a href="https://www.aporia.com/">Aporia Model Observability</a></p><p>********************************</p><p>Podcast music provided by <a href="https://open.spotify.com/artist/4UEQ4gyve4UpoAGUgV816o">Chroma Sea</a></p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/814138</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_02_07_07_20_38_47618b48-236d-410c-b914-fcbb557f8e20.mp3" length="32073813" type="audio/mpeg"/>
+      <guid isPermaLink="false">6ccc1bd5-33ac-4576-9bb7-64055870d9d2</guid>
+      <itunes:duration>2004</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 07 Feb 2023 18:03:58 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20230207_070215_a0b18dadf8528879aff67790385e5ecf.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 14: Orchestration in MLOps with Chris White]]></title>
+      <itunes:title><![CDATA[MLOps Week 14: Orchestration in MLOps with Chris White]]></itunes:title>
+      <description><![CDATA[<p>This week on the MLOps Weekly Podcast, Simba sits down with Chris White, CTO at Prefect, to discuss his journey from mathematics to data science at CapitalOne, the power of orchestration in the ML lifecycle, and Prefect's approach to dataflow automation. </p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/750920</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2022_12_20_17_45_51_feb61968-8c00-49d5-b774-f247e52e9a2b.mp3" length="30671142" type="audio/mpeg"/>
+      <guid isPermaLink="false">d6174b4a-4018-42f2-a5d6-0353d4c4a446</guid>
+      <itunes:duration>1916</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 20 Dec 2022 17:46:32 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20221220_051219_7fd55f2af8027141664bbdf36ce88839.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 13: MLOps Fundamentals with Jacopo Tagliabue]]></title>
+      <itunes:title><![CDATA[MLOps Week 13: MLOps Fundamentals with Jacopo Tagliabue]]></itunes:title>
+      <description><![CDATA[<p>This week on the MLOps Weekly Podcast, Simba chats with Jacopo Tagliabue, author of "You Do Not Need a Bigger Boat" and Director of AI at Coveo, to discuss fundamentals when choosing an MLOps toolchain, the problem with end-to-end platforms, and solving technology problems vs workflow problems.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/678773</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2022_11_01_16_36_30_696b646c-b812-4921-8ef1-d95a1fdb592f.mp3" length="29387273" type="audio/mpeg"/>
+      <guid isPermaLink="false">c5f78d16-2f1c-445a-9fee-94b97c8ab7ef</guid>
+      <itunes:duration>1836</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 01 Nov 2022 16:36:46 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20221101_041128_5a55038da09cad31fffb8b0a06c30e76.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 12: Building the Right Abstractions in MLOps with Doris Xin]]></title>
+      <itunes:title><![CDATA[MLOps Week 12: Building the Right Abstractions in MLOps with Doris Xin]]></itunes:title>
+      <description><![CDATA[<p>This week on the MLOps Weekly Podcast, Simba chats with Doris Xin, Co-founder and CEO of Linea, about the importance of notebooks in the data science workflow, choosing the right abstractions when going from development to production, and embracing the chaos of development in the MLOps lifecycle.</p><p>About Doris:</p><p>Doris Xin is the CEO of Linea, an MLOps startup on a mission to build developer tools that empower data scientists and enable organizations to generate value rapidly with data.</p><p>Doris received a PhD in Computer Science from UC Berkeley. Her thesis focused on designing machine learning systems for developer productivity, research inspired by her experience as a machine learning engineer at LinkedIn. Her career includes engineering and research roles at Databricks, Google, LinkedIn, and Microsoft.</p><p><a href="https://lineapy.org/">LineaPy</a> (<a href="https://github.com/LineaLabs/lineapy">Github</a>, <a href="https://twitter.com/lineapy_oss/status/1527342071761080320">Twitter</a>, <a href="https://www.linkedin.com/posts/lineapy_data-engineering-simplified-lineapy-activity-6933112797585166336-6KgV/">Linkedin</a>)</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/660887</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2022_10_18_16_14_58_47de0637-c314-44b0-82ea-bb30594e6e04.mp3" length="27145064" type="audio/mpeg"/>
+      <guid isPermaLink="false">e600bcab-3297-48b2-97dd-d00f8c53aeb3</guid>
+      <itunes:duration>1696</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 18 Oct 2022 16:15:12 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20221018_041049_3c8e8d4a4f84d3871352829d882f9f0d.png"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 11: The Evolution of DevOps and the Birth of MLOps with Sam Ramji]]></title>
+      <itunes:title><![CDATA[MLOps Week 11: The Evolution of DevOps and the Birth of MLOps with Sam Ramji]]></itunes:title>
+      <description><![CDATA[<p>This week on the MLOps Weekly Podcast, Simba sat down with Silicon Valley veteran and Chief Strategy Officer at DataStax, Sam Ramji to discuss the origins and success of DevOps, data computation vs cognition, &amp; the importance of community-driven product development in MLOps.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/608155</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220906_050929_e92276c8c456c80ce07dba9b4ac548ac.mp3" length="40793474" type="audio/mpeg"/>
+      <guid isPermaLink="false">85fc98de-84cb-4077-91a0-85ea6c087fc7</guid>
+      <itunes:duration>2550</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 06 Sep 2022 17:02:15 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220906_060928_5edd47d28dd9a94e400d8d8ea3b62cda.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 10: Vector Embeddings and AI-First Databases with Bob van Lujit]]></title>
+      <itunes:title><![CDATA[MLOps Week 10: Vector Embeddings and AI-First Databases with Bob van Lujit]]></itunes:title>
+      <description><![CDATA[<p>This week on the MLOps weekly podcast, Simba spoke with Bob van Lujit, CEO and Co-Founder of SeMi Technologies, creators of the open-source vector database, Weaviate. They discuss the power of embeddings in machine learning and the infrastructure needed to utilize them properly in production.</p><p>Bob's Bio:  <em>Bob is the CEO and co-founder of SeMI Technologies, the business created around the open-source vector search engine Weaviate. He is a frequent speaker on open-source, digital technology, software business, and business philosophy. In addition to a TEDx talk, Bob has spoken worldwide at 100s of events on open source, business strategy, and start-ups.</em></p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/600418</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220830_050838_58c96900e9574bff697075b485281c9b.mp3" length="30992723" type="audio/mpeg"/>
+      <guid isPermaLink="false">c638ec14-197c-4186-a836-148f34f0535f</guid>
+      <itunes:duration>1938</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 30 Aug 2022 17:19:38 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220830_050838_e7c298ae3676dac1e728ea642e74f951.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 9: LinkedIn's Feature Store & MLOps Workflows with David Stein]]></title>
+      <itunes:title><![CDATA[MLOps Week 9: LinkedIn's Feature Store & MLOps Workflows with David Stein]]></itunes:title>
+      <description><![CDATA[<p>Back from summer break with installment 9 of the MLOps Weekly Podcast! This week, Simba met with Senior Staff Software Engineer at LinkedIn's Machine Learning Infrastructure team, David Stein, to discuss the technical decisions and insights that led to LinkedIn's Feature Store, Feathr, and the importance of thoughtful API design when building MLOps workflows.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/592657</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220823_070834_c7950e6201590989b2a797268e1bf530.mp3" length="33407570" type="audio/mpeg"/>
+      <guid isPermaLink="false">9154ebce-7c66-4985-afe4-a55a031166b9</guid>
+      <itunes:duration>2088</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 23 Aug 2022 19:15:48 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220824_020843_8b51b96c99f53339a633fa3c524e307e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 8: The MLOps Mindset with Stefan Krawczyk]]></title>
+      <itunes:title><![CDATA[MLOps Week 8: The MLOps Mindset with Stefan Krawczyk]]></itunes:title>
+      <description><![CDATA[<p>For the 8th installment of the podcast, Simba sits down with Stefan Krawczyk, who led the Model Lifecycle team at Stitchfix and has worked on data science teams at Linkedin and Nextdoor, to discuss his thought process when designing and deploying MLOps solutions.</p><p>Links for listeners: - my class: <a href="https://www.getsphere.com/ml-engineering/mastering-model-deployment-and-inference?source=Instructor-LinkInPost-080222-stefan_mlopsweekly_podcast">https://www.getsphere.com/ml-engineering/mastering-model-deployment-and-inference?source=Instructor-LinkInPost-080222-stefan_mlopsweekly_podcast</a> - Hamilton: <a href="https://github.com/stitchfix/hamilton">https://github.com/stitchfix/hamilton</a> - Fresh blog that helps complement the content in the podcast - <a href="https://multithreaded.stitchfix.com/blog/2022/08/02/configuration-driven-ml-pipelines/">https://multithreaded.stitchfix.com/blog/2022/08/02/configuration-driven-ml-pipelines/</a></p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/571949</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220802_080814_02ef56deb9251ca0c45403dffbab8e58.mp3" length="32872976" type="audio/mpeg"/>
+      <guid isPermaLink="false">4920fc24-d5e0-41e2-b8c8-331f6c5da753</guid>
+      <itunes:duration>2055</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 02 Aug 2022 20:23:47 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220802_080847_a85ff1a4aaa48ddff1f516729609de15.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 7: Scaling AutoML with Nirman Dave]]></title>
+      <itunes:title><![CDATA[MLOps Week 7: Scaling AutoML with Nirman Dave]]></itunes:title>
+      <description><![CDATA[<p>For week 7 of the MLOps Weekly Podcast, Simba sat down with Nirman Dave, Co-founder and CEO at Obviously AI, to discuss the practical and operational benefits of AutoML in production.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/564607</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220726_080739_903604b2671a25d15721fb3a4f959d81.mp3" length="22300775" type="audio/mpeg"/>
+      <guid isPermaLink="false">9616d0f2-97d2-47ff-bb1c-e8523391c2a7</guid>
+      <itunes:duration>1394</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 26 Jul 2022 20:26:44 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220726_080744_7d3b70c72b85da0cf5d210b075e2d550.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 6: A VC Breakdown of MLOps with James Alcorn]]></title>
+      <itunes:title><![CDATA[MLOps Week 6: A VC Breakdown of MLOps with James Alcorn]]></itunes:title>
+      <description><![CDATA[<p>This week, Simba sat down with James Alcorn, Principal at Zetta Ventures, to discuss signals of success in MLOps platforms and his assessment template for MLOps founders.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/557398</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220719_090720_f4212ccd25479000a8317b9c914b1b98.mp3" length="29794265" type="audio/mpeg"/>
+      <guid isPermaLink="false">df5b14e9-3dbd-40b7-a776-3d6512252d68</guid>
+      <itunes:duration>1863</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 19 Jul 2022 21:23:34 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220719_090734_763875e0f66ce641da289562f933216f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 5: Exploring the MLOps Ecosystem with Chaoyu Yang]]></title>
+      <itunes:title><![CDATA[MLOps Week 5: Exploring the MLOps Ecosystem with Chaoyu Yang]]></itunes:title>
+      <description><![CDATA[<p>This week, Simba sat down with Co-Founder and CEO of BentoML, Chaoyu Yang, to discuss various sub-categories of MLOps providers, the prevalence of open-source platforms, and what advanced MLOps solutions should look like.</p><p>Music provided by Chroma Sea: https://open.spotify.com/artist/4UEQ4gyve4UpoAGUgV816o</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/550688</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220712_080758_26e0bd9b084d479d407cf4d544e1b575.mp3" length="21553928" type="audio/mpeg"/>
+      <guid isPermaLink="false">73d32a74-ea2d-427b-aac2-5a51edc20b2a</guid>
+      <itunes:duration>1348</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 12 Jul 2022 20:48:11 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220712_080711_3af2c841c73d84f47901e9209d921690.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 4: The Future of Data Infrastructure in MLOPs with Sam Partee]]></title>
+      <itunes:title><![CDATA[MLOps Week 4: The Future of Data Infrastructure in MLOPs with Sam Partee]]></itunes:title>
+      <description><![CDATA[<p>For our fourth episode, we sat down with Sam Partee, Principal Applied AI Engineer at Redis, to discuss the evolution of data tools in MLOps and their ideal future.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/533869</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220628_030624_97197cc634d540ef80d44555c394472a.mp3" length="31880933" type="audio/mpeg"/>
+      <guid isPermaLink="false">217f5b00-7e5d-4fc4-9af2-c7a356deed11</guid>
+      <itunes:duration>1993</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 Jun 2022 15:25:34 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220628_030634_1d93500a530a59b87e41523049ee0c56.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 3: MLOps From A Practitioner Turned VC with Leigh Marie Braswell, Principal at Founders Fund]]></title>
+      <itunes:title><![CDATA[MLOps Week 3: MLOps From A Practitioner Turned VC with Leigh Marie Braswell, Principal at Founders Fund]]></itunes:title>
+      <description><![CDATA[<p>In this week's episode, we sit down with Leigh Marie Braswell, Principal at Founders Fund, to discuss her experience as a PM at Scale AI, her transition from an MLOps practitioner to an investor, and her thoughts on the future of MLOps.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/525879</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220620_080634_175ddb4e1ff16e51ade4f958cea7917a.mp3" length="28705895" type="audio/mpeg"/>
+      <guid isPermaLink="false">248d5703-fb40-47fb-aa21-f45b7774f26c</guid>
+      <itunes:duration>1795</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 20 Jun 2022 20:13:52 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220620_080652_a3d2316a3ae8f9e0cb222946f6b3cd68.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 2: Uber's Feature Store and Data Quality with Atindriyo Sanyal, Co-founder of Galileo]]></title>
+      <itunes:title><![CDATA[MLOps Week 2: Uber's Feature Store and Data Quality with Atindriyo Sanyal, Co-founder of Galileo]]></itunes:title>
+      <description><![CDATA[<p>This week, we sit down with Atindriyo Sanyal to discuss feature stores at Uber and the importance of data quality.</p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/519983</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220614_050651_95377b987aec5cf740c31d7b1d72c188.mp3" length="34923782" type="audio/mpeg"/>
+      <guid isPermaLink="false">5c0f5572-8133-4d63-ac61-757edec30184</guid>
+      <itunes:duration>2183</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 14 Jun 2022 17:36:06 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220614_050623_fec414cc705abc1520ba25f3bf943b04.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 1: Rethinking MLOps Observability with Bernease Herman]]></title>
+      <itunes:title><![CDATA[MLOps Week 1: Rethinking MLOps Observability with Bernease Herman]]></itunes:title>
+      <description><![CDATA[<p>This week, our host, Simba Khadder, sits down with Bernease Herman from Why Labs to discuss the importance of observability in MLOps </p>]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/511474</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/20220606_060646_9c48ac70b415f39902f5f287ea2365e5.mp3" length="36182705" type="audio/mpeg"/>
+      <guid isPermaLink="false">e34920d4-7728-4dcc-92cf-4d9d4280317a</guid>
+      <itunes:duration>2262</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 06 Jun 2022 18:17:59 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/20220606_060659_edf768313db25189546378263e13375c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[MLOps Week 19: Navigating Traditional ML and LLM Workflows with Piero Molino]]></title>
+      <itunes:title><![CDATA[MLOps Week 19: Navigating Traditional ML and LLM Workflows with Piero Molino]]></itunes:title>
+      <description><![CDATA[This week on the MLOps Weekly Podcast, Simba sits down with Predibase, Co-Founder and CEO, Piero Molino, to discuss the differences between Ludwig and AutoML, iteration in traditional ML, and the ideal workflows for LLMs!]]></description>
+      <link>https://rss.com/podcasts/mlops-weekly/982249</link>
+      <enclosure url="https://media.rss.com/mlops-weekly/2023_06_06_04_13_30_f5407fe1-1b1a-4dc6-8881-9b9919192905.mp3" length="29417683" type="audio/mpeg"/>
+      <guid isPermaLink="false">25d2d1a0-2c1c-4acb-a161-fa99aabbd2d4</guid>
+      <itunes:duration>1838</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 06 Jun 2023 04:15:48 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/mlops-weekly/ep_cover_20230606_040657_f09d34ffbadf72d69afdc332312e7ce9.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1370119.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Data Brew by Databricks</title>
+
+  <lastBuildDate>Thu, 24 Apr 2025 08:59:04 -0700</lastBuildDate>
+  <link>https://databricks.com/discover/data-brew</link>
+  <language>en-us</language>
+  <copyright>© 2025 Data Brew by Databricks</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>116f5df2-190e-5ea3-b3fa-f9954097f434</podcast:guid>
+  <itunes:author>Databricks</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[<div>Welcome to Data Brew by Databricks with Denny and Brooke! In this series, we explore various topics in the data and AI community and interview subject matter experts in data engineering/data science. So join us with your morning brew in hand and get ready to dive deep into data + AI! For this first season, we will be focusing on lakehouses – combining the key features of data warehouses, such as ACID transactions, with the scalability of data lakes, directly against low-cost object stores.</div>]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:keywords>Data analytics, Apache Spark, Delta Lake, Machine Learning, Data Science, Data Engineering    </itunes:keywords>
+  <itunes:owner>
+    <itunes:name>Databricks</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/wph0aakmps8wy3w29yycurfrl331?.jpg</url>
+     <title>Data Brew by Databricks</title>
+     <link>https://databricks.com/discover/data-brew</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/wph0aakmps8wy3w29yycurfrl331?.jpg" />
+  <itunes:category text="Technology" />
+  <itunes:category text="Education" />
+  <itunes:category text="Leisure" />
+  <podcast:person role="host" href="https://brookewenig.com/" img="https://storage.buzzsprout.com/6asjwnx06uc28l9fbxgmfa222m6v">Brooke Wenig</podcast:person>
+  <podcast:person role="host" href="https://dennyglee.com" img="https://storage.buzzsprout.com/kbrji68dxmlbvrvduqegs1w1smm9">Denny Lee</podcast:person>
+  <item>
+    <itunes:title>Benchmarking Domain Intelligence | Data Brew | Episode 45</itunes:title>
+    <title>Benchmarking Domain Intelligence | Data Brew | Episode 45</title>
+    <itunes:summary><![CDATA[In this episode, Pallavi Koppol, Research Scientist at Databricks, explores the importance of domain-specific intelligence in large language models (LLMs). She discusses how enterprises need models tailored to their unique jargon, data, and tasks rather than relying solely on general benchmarks.  Highlights include: - Why benchmarking LLMs for domain-specific tasks is critical for enterprise AI. - An introduction to the Databricks Intelligence Benchmarking Suite (DIBS). - Evaluating models on...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Pallavi Koppol, Research Scientist at Databricks, explores the importance of domain-specific intelligence in large language models (LLMs). She discusses how enterprises need models tailored to their unique jargon, data, and tasks rather than relying solely on general benchmarks.<br/><br/>Highlights include:<br/>- Why benchmarking LLMs for domain-specific tasks is critical for enterprise AI.<br/>- An introduction to the Databricks Intelligence Benchmarking Suite (DIBS).<br/>- Evaluating models on real-world applications like RAG, text-to-JSON, and function calling.<br/>- The evolving landscape of open-source vs. closed-source LLMs.<br/>- How industry and academia can collaborate to improve AI benchmarking.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Pallavi Koppol, Research Scientist at Databricks, explores the importance of domain-specific intelligence in large language models (LLMs). She discusses how enterprises need models tailored to their unique jargon, data, and tasks rather than relying solely on general benchmarks.<br/><br/>Highlights include:<br/>- Why benchmarking LLMs for domain-specific tasks is critical for enterprise AI.<br/>- An introduction to the Databricks Intelligence Benchmarking Suite (DIBS).<br/>- Evaluating models on real-world applications like RAG, text-to-JSON, and function calling.<br/>- The evolving landscape of open-source vs. closed-source LLMs.<br/>- How industry and academia can collaborate to improve AI benchmarking.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/xp8tsij2yp8obkq369qour2hwpx7?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16873626-benchmarking-domain-intelligence-data-brew-episode-45.mp3" length="22854958" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16873626</guid>
+    <pubDate>Thu, 24 Apr 2025 08:00:00 -0700</pubDate>
+    <itunes:duration>1901</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>SWE-bench &amp; SWE-agent | Data Brew | Episode 44</itunes:title>
+    <title>SWE-bench &amp; SWE-agent | Data Brew | Episode 44</title>
+    <itunes:summary><![CDATA[In this episode, Kilian Lieret, Research Software Engineer, and Carlos Jimenez, Computer Science PhD Candidate at Princeton University, discuss SWE-bench and SWE-agent, two groundbreaking tools for evaluating and enhancing AI in software engineering.  Highlights include: - SWE-bench: A benchmark for assessing AI models on real-world coding tasks. - Addressing data leakage concerns in GitHub-sourced benchmarks. - SWE-agent: An AI-driven system for navigating and solving coding challenges. - Ov...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Kilian Lieret, Research Software Engineer, and Carlos Jimenez, Computer Science PhD Candidate at Princeton University, discuss SWE-bench and SWE-agent, two groundbreaking tools for evaluating and enhancing AI in software engineering.<br/><br/>Highlights include:<br/>- SWE-bench: A benchmark for assessing AI models on real-world coding tasks.<br/>- Addressing data leakage concerns in GitHub-sourced benchmarks.<br/>- SWE-agent: An AI-driven system for navigating and solving coding challenges.<br/>- Overcoming agent limitations, such as getting stuck in loops.<br/>- The future of AI-powered code reviews and automation in software engineering.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Kilian Lieret, Research Software Engineer, and Carlos Jimenez, Computer Science PhD Candidate at Princeton University, discuss SWE-bench and SWE-agent, two groundbreaking tools for evaluating and enhancing AI in software engineering.<br/><br/>Highlights include:<br/>- SWE-bench: A benchmark for assessing AI models on real-world coding tasks.<br/>- Addressing data leakage concerns in GitHub-sourced benchmarks.<br/>- SWE-agent: An AI-driven system for navigating and solving coding challenges.<br/>- Overcoming agent limitations, such as getting stuck in loops.<br/>- The future of AI-powered code reviews and automation in software engineering.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/raxqq6cx8ufbsj4n95dlsoj52r5t?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16876013-swe-bench-swe-agent-data-brew-episode-44.mp3" length="26230356" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16876013</guid>
+    <pubDate>Thu, 17 Apr 2025 07:00:00 -0700</pubDate>
+    <itunes:duration>2182</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Enterprise AI: Research to Product | Data Brew | Episode 43</itunes:title>
+    <title>Enterprise AI: Research to Product | Data Brew | Episode 43</title>
+    <itunes:summary><![CDATA[In this episode, Dipendra Kumar, Staff Research Scientist, and Alnur Ali, Staff Software Engineer at Databricks, discuss the challenges of applying AI in enterprise environments and the tools being developed to bridge the gap between research and real-world deployment.  Highlights include: - The challenges of real-world AI—messy data, security, and scalability. - Why enterprises need high-accuracy, fine-tuned models over generic AI APIs. - How QuickFix learns from user edits to improve AI-dri...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Dipendra Kumar, Staff Research Scientist, and Alnur Ali, Staff Software Engineer at Databricks, discuss the challenges of applying AI in enterprise environments and the tools being developed to bridge the gap between research and real-world deployment.<br/><br/>Highlights include:<br/>- The challenges of real-world AI—messy data, security, and scalability.<br/>- Why enterprises need high-accuracy, fine-tuned models over generic AI APIs.<br/>- How QuickFix learns from user edits to improve AI-driven coding assistance.<br/>- The collaboration between research &amp; engineering in building AI-powered tools.<br/>- The evolving role of developers in the age of generative AI.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Dipendra Kumar, Staff Research Scientist, and Alnur Ali, Staff Software Engineer at Databricks, discuss the challenges of applying AI in enterprise environments and the tools being developed to bridge the gap between research and real-world deployment.<br/><br/>Highlights include:<br/>- The challenges of real-world AI—messy data, security, and scalability.<br/>- Why enterprises need high-accuracy, fine-tuned models over generic AI APIs.<br/>- How QuickFix learns from user edits to improve AI-driven coding assistance.<br/>- The collaboration between research &amp; engineering in building AI-powered tools.<br/>- The evolving role of developers in the age of generative AI.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/yn8pjm0wm808ed4jyjgqg3bpwlaj?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16873712-enterprise-ai-research-to-product-data-brew-episode-43.mp3" length="27435812" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16873712</guid>
+    <pubDate>Thu, 10 Apr 2025 08:00:00 -0700</pubDate>
+    <itunes:duration>2283</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Multimodal AI | Data Brew | Episode 42</itunes:title>
+    <title>Multimodal AI | Data Brew | Episode 42</title>
+    <itunes:summary><![CDATA[In this episode, Chang She, CEO and Co-founder of LanceDB, discusses the challenges of handling multimodal data and how LanceDB provides a cutting-edge solution. He shares his journey from contributing to Pandas to building a database optimized for images, video, vectors, and subtitles.  Highlights include: - The limitations of traditional storage systems like Parquet for multimodal AI. - How LanceDB enables efficient querying and processing of diverse data types. - The growing importance of ...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Chang She, CEO and Co-founder of LanceDB, discusses the challenges of handling multimodal data and how LanceDB provides a cutting-edge solution. He shares his journey from contributing to Pandas to building a database optimized for images, video, vectors, and subtitles.<br/><br/>Highlights include:<br/>- The limitations of traditional storage systems like Parquet for multimodal AI.<br/>- How LanceDB enables efficient querying and processing of diverse data types.<br/>- The growing importance of multimodal AI in enterprise applications.<br/>- Future trends in AI, including a shift from single models to holistic AI systems.<br/>- Predictions and &quot;spicy takes&quot; on AI advancements in 2025.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Chang She, CEO and Co-founder of LanceDB, discusses the challenges of handling multimodal data and how LanceDB provides a cutting-edge solution. He shares his journey from contributing to Pandas to building a database optimized for images, video, vectors, and subtitles.<br/><br/>Highlights include:<br/>- The limitations of traditional storage systems like Parquet for multimodal AI.<br/>- How LanceDB enables efficient querying and processing of diverse data types.<br/>- The growing importance of multimodal AI in enterprise applications.<br/>- Future trends in AI, including a shift from single models to holistic AI systems.<br/>- Predictions and &quot;spicy takes&quot; on AI advancements in 2025.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/heey9p3ru6d1mfoanhhj40z8isum?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16873517-multimodal-ai-data-brew-episode-42.mp3" length="30450954" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16873517</guid>
+    <pubDate>Mon, 07 Apr 2025 08:00:00 -0700</pubDate>
+    <itunes:duration>2534</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Age of Agents | Data Brew | Episode 41</itunes:title>
+    <title>Age of Agents | Data Brew | Episode 41</title>
+    <itunes:summary><![CDATA[In this episode, Michele Catasta, President of Replit, explores how AI-driven agents are transforming software development by making coding more accessible and automating application creation.  Highlights include: - The difference between AI agents and copilots in software development. - How AI is democratizing coding, enabling non-programmers to build applications. - Challenges in AI agent development, including error handling and software quality. - The growing role of AI in entrepreneurshi...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Michele Catasta, President of Replit, explores how AI-driven agents are transforming software development by making coding more accessible and automating application creation.<br/><br/>Highlights include:<br/>- The difference between AI agents and copilots in software development.<br/>- How AI is democratizing coding, enabling non-programmers to build applications.<br/>- Challenges in AI agent development, including error handling and software quality.<br/>- The growing role of AI in entrepreneurship and business automation.<br/>- Why 2025 could be the year of AI agents and what’s next for the industry.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Michele Catasta, President of Replit, explores how AI-driven agents are transforming software development by making coding more accessible and automating application creation.<br/><br/>Highlights include:<br/>- The difference between AI agents and copilots in software development.<br/>- How AI is democratizing coding, enabling non-programmers to build applications.<br/>- Challenges in AI agent development, including error handling and software quality.<br/>- The growing role of AI in entrepreneurship and business automation.<br/>- Why 2025 could be the year of AI agents and what’s next for the industry.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ktmnvr57kmnld1wzsnqsufgs1f4m?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16853179-age-of-agents-data-brew-episode-41.mp3" length="29403246" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16853179</guid>
+    <pubDate>Thu, 27 Mar 2025 11:00:00 -0700</pubDate>
+    <itunes:duration>2447</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Reward Models | Data Brew | Episode 40</itunes:title>
+    <title>Reward Models | Data Brew | Episode 40</title>
+    <itunes:summary><![CDATA[In this episode, Brandon Cui, Research Scientist at MosaicML and Databricks, dives into cutting-edge advancements in AI model optimization, focusing on Reward Models and Reinforcement Learning from Human Feedback (RLHF).  Highlights include: - How synthetic data and RLHF enable fine-tuning models to generate preferred outcomes. - Techniques like Policy Proximal Optimization (PPO) and Direct Preference Optimization (DPO) for enhancing response quality. - The role of reward models in improving ...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Brandon Cui, Research Scientist at MosaicML and Databricks, dives into cutting-edge advancements in AI model optimization, focusing on Reward Models and Reinforcement Learning from Human Feedback (RLHF).<br/><br/>Highlights include:<br/>- How synthetic data and RLHF enable fine-tuning models to generate preferred outcomes.<br/>- Techniques like Policy Proximal Optimization (PPO) and Direct Preference<br/>Optimization (DPO) for enhancing response quality.<br/>- The role of reward models in improving coding, math, reasoning, and other NLP tasks.<br/><br/>Connect with Brandon Cui:<br/>https://www.linkedin.com/in/bcui19/</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Brandon Cui, Research Scientist at MosaicML and Databricks, dives into cutting-edge advancements in AI model optimization, focusing on Reward Models and Reinforcement Learning from Human Feedback (RLHF).<br/><br/>Highlights include:<br/>- How synthetic data and RLHF enable fine-tuning models to generate preferred outcomes.<br/>- Techniques like Policy Proximal Optimization (PPO) and Direct Preference<br/>Optimization (DPO) for enhancing response quality.<br/>- The role of reward models in improving coding, math, reasoning, and other NLP tasks.<br/><br/>Connect with Brandon Cui:<br/>https://www.linkedin.com/in/bcui19/</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/87c29tarxucf32dcawul82cdi7m4?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16181357-reward-models-data-brew-episode-40.mp3" length="28812627" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16181357</guid>
+    <pubDate>Thu, 20 Mar 2025 09:00:00 -0700</pubDate>
+    <itunes:duration>2398</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Retrieval, rerankers, and RAG tips and tricks | Data Brew | Episode 39</itunes:title>
+    <title>Retrieval, rerankers, and RAG tips and tricks | Data Brew | Episode 39</title>
+    <itunes:summary><![CDATA[In this episode, Andrew Drozdov, Research Scientist at Databricks, explores how Retrieval Augmented Generation (RAG) enhances AI models by integrating retrieval capabilities for improved response accuracy and relevance.  Highlights include: - Addressing LLM limitations by injecting relevant external information. - Optimizing document chunking, embedding, and query generation for RAG. - Improving retrieval systems with embeddings and fine-tuning techniques. - Enhancing search results using re-...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Andrew Drozdov, Research Scientist at Databricks, explores how Retrieval Augmented Generation (RAG) enhances AI models by integrating retrieval capabilities for improved response accuracy and relevance.<br/><br/>Highlights include:<br/>- Addressing LLM limitations by injecting relevant external information.<br/>- Optimizing document chunking, embedding, and query generation for RAG.<br/>- Improving retrieval systems with embeddings and fine-tuning techniques.<br/>- Enhancing search results using re-rankers and retrieval diagnostics.<br/>- Applying RAG strategies in enterprise AI for domain-specific improvements.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Andrew Drozdov, Research Scientist at Databricks, explores how Retrieval Augmented Generation (RAG) enhances AI models by integrating retrieval capabilities for improved response accuracy and relevance.<br/><br/>Highlights include:<br/>- Addressing LLM limitations by injecting relevant external information.<br/>- Optimizing document chunking, embedding, and query generation for RAG.<br/>- Improving retrieval systems with embeddings and fine-tuning techniques.<br/>- Enhancing search results using re-rankers and retrieval diagnostics.<br/>- Applying RAG strategies in enterprise AI for domain-specific improvements.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/29hkhl4ns4px75vkxjg4cnd4eicb?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16651827-retrieval-rerankers-and-rag-tips-and-tricks-data-brew-episode-39.mp3" length="32710844" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16651827</guid>
+    <pubDate>Thu, 20 Feb 2025 09:00:00 -0800</pubDate>
+    <itunes:duration>2722</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Power of Synthetic Data | Data Brew | Episode 38</itunes:title>
+    <title>The Power of Synthetic Data | Data Brew | Episode 38</title>
+    <itunes:summary><![CDATA[In this episode, Yev Meyer, Chief Scientist at Gretel AI, explores how synthetic data transforms AI and ML by improving data access, quality, privacy, and model training.  Highlights include: - Leveraging synthetic data to overcome AI data limitations. - Enhancing model training while mitigating ethical and privacy risks. - Exploring the intersection of computational neuroscience and AI workflows. - Addressing licensing and legal considerations in synthetic data usage. - Unlocking private dat...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Yev Meyer, Chief Scientist at Gretel AI, explores how synthetic data transforms AI and ML by improving data access, quality, privacy, and model training.<br/><br/>Highlights include:<br/>- Leveraging synthetic data to overcome AI data limitations.<br/>- Enhancing model training while mitigating ethical and privacy risks.<br/>- Exploring the intersection of computational neuroscience and AI workflows.<br/>- Addressing licensing and legal considerations in synthetic data usage.<br/>- Unlocking private datasets for broader and safer AI applications.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Yev Meyer, Chief Scientist at Gretel AI, explores how synthetic data transforms AI and ML by improving data access, quality, privacy, and model training.<br/><br/>Highlights include:<br/>- Leveraging synthetic data to overcome AI data limitations.<br/>- Enhancing model training while mitigating ethical and privacy risks.<br/>- Exploring the intersection of computational neuroscience and AI workflows.<br/>- Addressing licensing and legal considerations in synthetic data usage.<br/>- Unlocking private datasets for broader and safer AI applications.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/9lg50ny7za0nk7cl6volzpfbvqy5?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16525732-the-power-of-synthetic-data-data-brew-episode-38.mp3" length="30616861" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16525732</guid>
+    <pubDate>Tue, 04 Feb 2025 07:00:00 -0800</pubDate>
+    <itunes:duration>2548</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Secret to Production AI: Tools &amp; Infrastructure | Data Brew | Episode 37</itunes:title>
+    <title>Secret to Production AI: Tools &amp; Infrastructure | Data Brew | Episode 37</title>
+    <itunes:summary><![CDATA[In this episode, Julia Neagu, CEO &amp; co-founder of Quotient AI, explores the challenges of deploying Generative AI and LLMs, focusing on model evaluation, human-in-the-loop systems, and iterative development.  Highlights include: - Merging reinforcement learning and unsupervised learning for real-time AI optimization. - Reducing bias in machine learning with fairness and ethical considerations. - Lessons from large-scale AI deployments on scalability and feedback loops. - Automating workfl...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Julia Neagu, CEO &amp; co-founder of Quotient AI, explores the challenges of deploying Generative AI and LLMs, focusing on model evaluation, human-in-the-loop systems, and iterative development.<br/><br/>Highlights include:<br/>- Merging reinforcement learning and unsupervised learning for real-time AI optimization.<br/>- Reducing bias in machine learning with fairness and ethical considerations.<br/>- Lessons from large-scale AI deployments on scalability and feedback loops.<br/>- Automating workflows with AI through successful business examples.<br/>- Best practices for managing AI pipelines, from data collection to validation.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Julia Neagu, CEO &amp; co-founder of Quotient AI, explores the challenges of deploying Generative AI and LLMs, focusing on model evaluation, human-in-the-loop systems, and iterative development.<br/><br/>Highlights include:<br/>- Merging reinforcement learning and unsupervised learning for real-time AI optimization.<br/>- Reducing bias in machine learning with fairness and ethical considerations.<br/>- Lessons from large-scale AI deployments on scalability and feedback loops.<br/>- Automating workflows with AI through successful business examples.<br/>- Best practices for managing AI pipelines, from data collection to validation.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/pzk6ztnfj0247eb86rx841ss0o94?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16397441-secret-to-production-ai-tools-infrastructure-data-brew-episode-37.mp3" length="26853309" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16397441</guid>
+    <pubDate>Wed, 22 Jan 2025 07:00:00 -0800</pubDate>
+    <itunes:duration>2234</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Mixture of Memory Experts (MoME) | Data Brew | Episode 36</itunes:title>
+    <title>Mixture of Memory Experts (MoME) | Data Brew | Episode 36</title>
+    <itunes:summary><![CDATA[In this episode, Sharon Zhou, Co-Founder and CEO of Lamini AI, shares her expertise in the world of AI, focusing on fine-tuning models for improved performance and reliability.  Highlights include: - The integration of determinism and probabilism for handling unstructured data and user queries effectively. - Proprietary techniques like memory tuning and robust evaluation frameworks to mitigate model inaccuracies and hallucinations. - Lessons learned from deploying AI applications, including i...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Sharon Zhou, Co-Founder and CEO of Lamini AI, shares her expertise in the world of AI, focusing on fine-tuning models for improved performance and reliability.<br/><br/>Highlights include:<br/>- The integration of determinism and probabilism for handling unstructured data and user queries effectively.<br/>- Proprietary techniques like memory tuning and robust evaluation frameworks to mitigate model inaccuracies and hallucinations.<br/>- Lessons learned from deploying AI applications, including insights from GitHub Copilot’s rollout.<br/><br/>Connect with Sharon Zhou and Lamini:<br/>https://www.linkedin.com/in/zhousharon/<br/>https://x.com/realsharonzhou<br/>https://www.lamini.ai/</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Sharon Zhou, Co-Founder and CEO of Lamini AI, shares her expertise in the world of AI, focusing on fine-tuning models for improved performance and reliability.<br/><br/>Highlights include:<br/>- The integration of determinism and probabilism for handling unstructured data and user queries effectively.<br/>- Proprietary techniques like memory tuning and robust evaluation frameworks to mitigate model inaccuracies and hallucinations.<br/>- Lessons learned from deploying AI applications, including insights from GitHub Copilot’s rollout.<br/><br/>Connect with Sharon Zhou and Lamini:<br/>https://www.linkedin.com/in/zhousharon/<br/>https://x.com/realsharonzhou<br/>https://www.lamini.ai/</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/1giuw3i8k3rj6u315v8yb8mkkmqm?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16234489-mixture-of-memory-experts-mome-data-brew-episode-36.mp3" length="29854091" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16234489</guid>
+    <pubDate>Fri, 10 Jan 2025 08:00:00 -0800</pubDate>
+    <itunes:duration>2484</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Mixed Attention &amp; LLM Context | Data Brew | Episode 35</itunes:title>
+    <title>Mixed Attention &amp; LLM Context | Data Brew | Episode 35</title>
+    <itunes:summary><![CDATA[In this episode, Shashank Rajput, Research Scientist at Mosaic and Databricks, explores innovative approaches in large language models (LLMs), with a focus on Retrieval Augmented Generation (RAG) and its impact on improving efficiency and reducing operational costs.  Highlights include: - How RAG enhances LLM accuracy by incorporating relevant external documents. - The evolution of attention mechanisms, including mixed attention strategies. - Practical applications of Mamba architectures and ...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Shashank Rajput, Research Scientist at Mosaic and Databricks, explores innovative approaches in large language models (LLMs), with a focus on Retrieval Augmented Generation (RAG) and its impact on improving efficiency and reducing operational costs.<br/><br/>Highlights include:<br/>- How RAG enhances LLM accuracy by incorporating relevant external documents.<br/>- The evolution of attention mechanisms, including mixed attention strategies.<br/>- Practical applications of Mamba architectures and their trade-offs with traditional transformers.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Shashank Rajput, Research Scientist at Mosaic and Databricks, explores innovative approaches in large language models (LLMs), with a focus on Retrieval Augmented Generation (RAG) and its impact on improving efficiency and reducing operational costs.<br/><br/>Highlights include:<br/>- How RAG enhances LLM accuracy by incorporating relevant external documents.<br/>- The evolution of attention mechanisms, including mixed attention strategies.<br/>- Practical applications of Mamba architectures and their trade-offs with traditional transformers.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/s17kzm039429fylaf6ww2i6sqe4p?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/16147194-mixed-attention-llm-context-data-brew-episode-35.mp3" length="28249238" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16147194</guid>
+    <pubDate>Thu, 21 Nov 2024 12:00:00 -0800</pubDate>
+    <itunes:duration>2351</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Kumo AI &amp; Relational Deep Learning | Data Brew | Episode 34</itunes:title>
+    <title>Kumo AI &amp; Relational Deep Learning | Data Brew | Episode 34</title>
+    <itunes:summary><![CDATA[In this episode, Jure Leskovec, Co-founder of Kumo AI and Professor of Computer Science at Stanford University, discusses Relational Deep Learning (RDL) and its role in automating feature engineering.   Highlights include: - How RDL enhances predictive modeling. - Applications in fraud detection and recommendation systems. - The use of graph neural networks to simplify complex data structures. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Jure Leskovec, Co-founder of Kumo AI and Professor of Computer Science at Stanford University, discusses Relational Deep Learning (RDL) and its role in automating feature engineering. <br/><br/>Highlights include:<br/>- How RDL enhances predictive modeling.<br/>- Applications in fraud detection and recommendation systems.<br/>- The use of graph neural networks to simplify complex data structures.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Jure Leskovec, Co-founder of Kumo AI and Professor of Computer Science at Stanford University, discusses Relational Deep Learning (RDL) and its role in automating feature engineering. <br/><br/>Highlights include:<br/>- How RDL enhances predictive modeling.<br/>- Applications in fraud detection and recommendation systems.<br/>- The use of graph neural networks to simplify complex data structures.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/e6t8se0ee3t1j0c0onb7ar2s5qyw?.jpg" />
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/15897509-kumo-ai-relational-deep-learning-data-brew-episode-34.mp3" length="31325944" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15897509</guid>
+    <pubDate>Mon, 14 Oct 2024 09:00:00 -0700</pubDate>
+    <itunes:duration>2607</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>LLMs: Internals, Hallucinations, and Applications | Data Brew | Episode 33</itunes:title>
+    <title>LLMs: Internals, Hallucinations, and Applications | Data Brew | Episode 33</title>
+    <itunes:summary><![CDATA[Our fifth season dives into large language models (LLMs), from understanding the internals to the risks of using them and everything in between. While we're at it, we'll be enjoying our morning brew.  In this session, we interviewed Chengyin Eng (Senior Data Scientist, Databricks), Sam Raymond (Senior Data Scientist, Databricks), and Joseph Bradley (Lead Production Specialist - ML, Databricks) on the best practices around LLM use cases, prompt engineering, and how to adapt MLOps for LLMs (i.e...]]></itunes:summary>
+    <description><![CDATA[<p>Our fifth season dives into large language models (LLMs), from understanding the internals to the risks of using them and everything in between. While we&apos;re at it, we&apos;ll be enjoying our morning brew.<br/><br/>In this session, we interviewed Chengyin Eng (Senior Data Scientist, Databricks), Sam Raymond (Senior Data Scientist, Databricks), and Joseph Bradley (Lead Production Specialist - ML, Databricks) on the best practices around LLM use cases, prompt engineering, and how to adapt MLOps for LLMs (i.e., LLMOps).</p>]]></description>
+    <content:encoded><![CDATA[<p>Our fifth season dives into large language models (LLMs), from understanding the internals to the risks of using them and everything in between. While we&apos;re at it, we&apos;ll be enjoying our morning brew.<br/><br/>In this session, we interviewed Chengyin Eng (Senior Data Scientist, Databricks), Sam Raymond (Senior Data Scientist, Databricks), and Joseph Bradley (Lead Production Specialist - ML, Databricks) on the best practices around LLM use cases, prompt engineering, and how to adapt MLOps for LLMs (i.e., LLMOps).</p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/13261895-llms-internals-hallucinations-and-applications-data-brew-episode-33.mp3" length="28020132" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13261895</guid>
+    <pubDate>Fri, 21 Jul 2023 00:00:00 -0700</pubDate>
+    <itunes:duration>2330</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Demonstrate–Search–Predict Framework | Data Brew | Episode 32</itunes:title>
+    <title>Demonstrate–Search–Predict Framework | Data Brew | Episode 32</title>
+    <itunes:summary><![CDATA[We will dive into LLMs for our fifth season, from understanding the internals to the risks of using them and everything in between.  While we’re at it, we’ll be enjoying our morning brew. In this session, we interviewed Omar Khattab - Computer Science Ph.D. Student at Stanford, creator of DSP (Demonstrate–Search–Predict Framework), to discuss DSP, common applications, and the future of NLP. ]]></itunes:summary>
+    <description><![CDATA[<p>We will dive into LLMs for our fifth season, from understanding the internals to the risks of using them and everything in between.  While we’re at it, we’ll be enjoying our morning brew.</p><p>In this session, we interviewed Omar Khattab - Computer Science Ph.D. Student at Stanford, creator of DSP (Demonstrate–Search–Predict Framework), to discuss DSP, common applications, and the future of NLP.</p>]]></description>
+    <content:encoded><![CDATA[<p>We will dive into LLMs for our fifth season, from understanding the internals to the risks of using them and everything in between.  While we’re at it, we’ll be enjoying our morning brew.</p><p>In this session, we interviewed Omar Khattab - Computer Science Ph.D. Student at Stanford, creator of DSP (Demonstrate–Search–Predict Framework), to discuss DSP, common applications, and the future of NLP.</p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/13129683-demonstrate-search-predict-framework-data-brew-episode-32.mp3" length="23982306" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13129683</guid>
+    <pubDate>Thu, 29 Jun 2023 09:00:00 -0700</pubDate>
+    <itunes:duration>1994</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Generative AI Risks | Data Brew | Episode 31</itunes:title>
+    <title>Generative AI Risks | Data Brew | Episode 31</title>
+    <itunes:summary><![CDATA[We will dive into LLMs for our fifth season, from understanding the internals to the risks of using them and everything in between.  While we’re at it, we’ll be enjoying our morning brew.  In this session, we interviewed Yaron Singer, CEO of Robust Intelligence, Professor of Computer Science at Harvard University, and guest of Data Brew Season 3 (our first repeat guest!).  In this session, we discuss generative AI, the trends toward embracing LLMs, and how the surface area for vulne...]]></itunes:summary>
+    <description><![CDATA[<p>We will dive into LLMs for our fifth season, from understanding the internals to the risks of using them and everything in between.  While we’re at it, we’ll be enjoying our morning brew.<br/><br/>In this session, we interviewed Yaron Singer, CEO of Robust Intelligence, Professor of Computer Science at Harvard University, and guest of Data Brew Season 3 (our first repeat guest!).  In this session, we discuss generative AI, the trends toward embracing LLMs, and how the surface area for vulnerabilities in generative AI is much bigger.</p>]]></description>
+    <content:encoded><![CDATA[<p>We will dive into LLMs for our fifth season, from understanding the internals to the risks of using them and everything in between.  While we’re at it, we’ll be enjoying our morning brew.<br/><br/>In this session, we interviewed Yaron Singer, CEO of Robust Intelligence, Professor of Computer Science at Harvard University, and guest of Data Brew Season 3 (our first repeat guest!).  In this session, we discuss generative AI, the trends toward embracing LLMs, and how the surface area for vulnerabilities in generative AI is much bigger.</p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/12933692-generative-ai-risks-data-brew-episode-31.mp3" length="24996346" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12933692</guid>
+    <pubDate>Thu, 08 Jun 2023 09:00:00 -0700</pubDate>
+    <itunes:duration>2078</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>John Snow Labs &amp; SparkNLP | Data Brew | Episode 30</itunes:title>
+    <title>John Snow Labs &amp; SparkNLP | Data Brew | Episode 30</title>
+    <itunes:summary><![CDATA[We are back and we will dive into LLMs from understanding the internals to the risks of using them and everything in between. While we’re at it, we’ll be enjoying our morning brew.  In this session, we interviewed David Talby who is the CTO at John Snow Labs; they help healthcare &amp; life science companies put AI to good use. David's interests include natural language processing, applied artificial intelligence in healthcare, and responsible AI. ]]></itunes:summary>
+    <description><![CDATA[<p>We are back and we will dive into LLMs from understanding the internals to the risks of using them and everything in between. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>In this session, we interviewed David Talby who is the CTO at John Snow Labs; they help healthcare &amp; life science companies put AI to good use. David&apos;s interests include natural language processing, applied artificial intelligence in healthcare, and responsible AI.</p>]]></description>
+    <content:encoded><![CDATA[<p>We are back and we will dive into LLMs from understanding the internals to the risks of using them and everything in between. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>In this session, we interviewed David Talby who is the CTO at John Snow Labs; they help healthcare &amp; life science companies put AI to good use. David&apos;s interests include natural language processing, applied artificial intelligence in healthcare, and responsible AI.</p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/12925978-john-snow-labs-sparknlp-data-brew-episode-30.mp3" length="31214964" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12925978</guid>
+    <pubDate>Thu, 01 Jun 2023 09:00:00 -0700</pubDate>
+    <itunes:duration>2597</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 4 Episode 6: Professional Athletes</itunes:title>
+    <title>Data Brew Season 4 Episode 6: Professional Athletes</title>
+    <itunes:summary><![CDATA[For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.  Shayna Powless and Eli Ankou, professional cyclist for L39ion of Los Angeles and defensive tackle for the Buffalo Bills, respectively, provide valuable insight on how professional athletes leverage data to improve their performance and how they combine their passion for sports with the Dreamcatcher Foundation.  See more at data...]]></itunes:summary>
+    <description><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Shayna Powless and Eli Ankou, professional cyclist for L39ion of Los Angeles and defensive tackle for the Buffalo Bills, respectively, provide valuable insight on how professional athletes leverage data to improve their performance and how they combine their passion for sports with the Dreamcatcher Foundation.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Shayna Powless and Eli Ankou, professional cyclist for L39ion of Los Angeles and defensive tackle for the Buffalo Bills, respectively, provide valuable insight on how professional athletes leverage data to improve their performance and how they combine their passion for sports with the Dreamcatcher Foundation.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/10753955-data-brew-season-4-episode-6-professional-athletes.mp3" length="25846310" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10753955</guid>
+    <pubDate>Thu, 09 Jun 2022 11:00:00 -0700</pubDate>
+    <itunes:duration>2149</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>4</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 4 Episode 5: Public Health: Education, Access, and Policy</itunes:title>
+    <title>Data Brew Season 4 Episode 5: Public Health: Education, Access, and Policy</title>
+    <itunes:summary><![CDATA[For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.  Matt Willis, Marin County Public Health Officer, shares the three pillars of public health: education, access, and policy, and the critical role data plays in addressing the COVID-19 pandemic &amp; opioid epidemic.   See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Matt Willis, Marin County Public Health Officer, shares the three pillars of public health: education, access, and policy, and the critical role data plays in addressing the COVID-19 pandemic &amp; opioid epidemic.<b> </b><br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Matt Willis, Marin County Public Health Officer, shares the three pillars of public health: education, access, and policy, and the critical role data plays in addressing the COVID-19 pandemic &amp; opioid epidemic.<b> </b><br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/10558104-data-brew-season-4-episode-5-public-health-education-access-and-policy.mp3" length="25007825" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10558104</guid>
+    <pubDate>Thu, 05 May 2022 11:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/10558104/transcript" type="text/html" />
+    <itunes:duration>2079</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>4</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 4 Episode 4: 1283 Days of Running (and Counting)</itunes:title>
+    <title>Data Brew Season 4 Episode 4: 1283 Days of Running (and Counting)</title>
+    <itunes:summary><![CDATA[For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.  Running the length of the US every year, Alexandra Matthiesen shares her motivational secrets for running 1,283 consecutive days (and counting!) and redefining physical and mental limits.   See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Running the length of the US every year, Alexandra Matthiesen shares her motivational secrets for running 1,283 consecutive days (and counting!) and redefining physical and mental limits.<b> </b><br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Running the length of the US every year, Alexandra Matthiesen shares her motivational secrets for running 1,283 consecutive days (and counting!) and redefining physical and mental limits.<b> </b><br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/10419094-data-brew-season-4-episode-4-1283-days-of-running-and-counting.mp3" length="25904643" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10419094</guid>
+    <pubDate>Thu, 14 Apr 2022 11:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/10419094/transcript" type="text/html" />
+    <itunes:duration>2154</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>4</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 4 Episode 3: Last Man Standing</itunes:title>
+    <title>Data Brew Season 4 Episode 3: Last Man Standing</title>
+    <itunes:summary><![CDATA[For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.  Winner of the infamous Last Man Standing race (running 246 miles in 59 hours), Guillaume merges the world of competitive long-distance running with data science to push the boundaries of body and mind.    See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Winner of the infamous Last Man Standing race (running 246 miles in 59 hours), Guillaume merges the world of competitive long-distance running with data science to push the boundaries of body and mind.<b>  </b><br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Winner of the infamous Last Man Standing race (running 246 miles in 59 hours), Guillaume merges the world of competitive long-distance running with data science to push the boundaries of body and mind.<b>  </b><br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/10340968-data-brew-season-4-episode-3-last-man-standing.mp3" length="29818272" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10340968</guid>
+    <pubDate>Thu, 31 Mar 2022 11:00:00 -0700</pubDate>
+    <itunes:duration>2480</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>4</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 4 Episode 2: NBA Analytics</itunes:title>
+    <title>Data Brew Season 4 Episode 2: NBA Analytics</title>
+    <itunes:summary><![CDATA[For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.  Alexander Powell chronicles the evolution of sports analytics and how professional sports teams use data as a competitive advantage.    See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Alexander Powell chronicles the evolution of sports analytics and how professional sports teams use data as a competitive advantage.  <br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Alexander Powell chronicles the evolution of sports analytics and how professional sports teams use data as a competitive advantage.  <br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/10222034-data-brew-season-4-episode-2-nba-analytics.mp3" length="21849559" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10222034</guid>
+    <pubDate>Wed, 09 Mar 2022 18:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/10222034/transcript" type="text/html" />
+    <itunes:duration>1816</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>4</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 4 Episode 1: Reducing Injury &amp; Increasing Retention of Industrial Athletes</itunes:title>
+    <title>Data Brew Season 4 Episode 1: Reducing Injury &amp; Increasing Retention of Industrial Athletes</title>
+    <itunes:summary><![CDATA[For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.  Globally, 38,000 people get hurt on the job every hour. In the United States alone, over $250 billion dollars is spent on workplace injury annually. Sean Petterson, founder and CEO of StrongArm Tech, discusses the role of wearable devices to reduce workplace injury and increase retention of industrial athletes.   See more at da...]]></itunes:summary>
+    <description><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Globally, 38,000 people get hurt on the job every hour. In the United States alone, over $250 billion dollars is spent on workplace injury annually. Sean Petterson, founder and CEO of StrongArm Tech, discusses the role of wearable devices to reduce workplace injury and increase retention of industrial athletes. <br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our fourth season, we focus on connected health and how data &amp; AI augment and improve our daily health. While we’re at it, we’ll be enjoying our morning brew.<br/><br/>Globally, 38,000 people get hurt on the job every hour. In the United States alone, over $250 billion dollars is spent on workplace injury annually. Sean Petterson, founder and CEO of StrongArm Tech, discusses the role of wearable devices to reduce workplace injury and increase retention of industrial athletes. <br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/10126481-data-brew-season-4-episode-1-reducing-injury-increasing-retention-of-industrial-athletes.mp3" length="24507876" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10126481</guid>
+    <pubDate>Thu, 24 Feb 2022 09:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/10126481/transcript" type="text/html" />
+    <itunes:duration>2038</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>4</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 3 Episode 6: Open Source</itunes:title>
+    <title>Data Brew Season 3 Episode 6: Open Source</title>
+    <itunes:summary><![CDATA[For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.  For our season 3 finale, Nithya Ruff discusses the open-source ecosystem, ways to contribute to open-source projects (hint: it’s not just about the code), and how businesses can balance community and company interests. With 95% of open-source contributions coming from m...]]></itunes:summary>
+    <description><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>For our season 3 finale, Nithya Ruff discusses the open-source ecosystem, ways to contribute to open-source projects (hint: it’s not just about the code), and how businesses can balance community and company interests. With 95% of open-source contributions coming from men, Nithya also educates us on how to improve diversity &amp; inclusion in the open-source community.</p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>For our season 3 finale, Nithya Ruff discusses the open-source ecosystem, ways to contribute to open-source projects (hint: it’s not just about the code), and how businesses can balance community and company interests. With 95% of open-source contributions coming from men, Nithya also educates us on how to improve diversity &amp; inclusion in the open-source community.</p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/9450161-data-brew-season-3-episode-6-open-source.mp3" length="24376358" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9450161</guid>
+    <pubDate>Thu, 28 Oct 2021 09:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/9450161/transcript" type="text/html" />
+    <itunes:duration>2029</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 3 Episode 5: Sustainability &amp; Sake </itunes:title>
+    <title>Data Brew Season 3 Episode 5: Sustainability &amp; Sake </title>
+    <itunes:summary><![CDATA[For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.  We interview Junta Nakai in our most unique location yet - Brooklyn Kura - the first non-Japanese sake distillery in New York. In this episode, Junta shares the philosophical, economic, and tactical approaches to sustainability and ESG, as well as the secrets to brewing...]]></itunes:summary>
+    <description><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>We interview Junta Nakai in our most unique location yet - Brooklyn Kura - the first non-Japanese sake distillery in New York. In this episode, Junta shares the philosophical, economic, and tactical approaches to sustainability and ESG, as well as the secrets to brewing sake in the US. </p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>We interview Junta Nakai in our most unique location yet - Brooklyn Kura - the first non-Japanese sake distillery in New York. In this episode, Junta shares the philosophical, economic, and tactical approaches to sustainability and ESG, as well as the secrets to brewing sake in the US. </p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/9368814-data-brew-season-3-episode-5-sustainability-sake.mp3" length="23382105" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9368814</guid>
+    <pubDate>Thu, 14 Oct 2021 09:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/9368814/transcript" type="text/html" />
+    <itunes:duration>1946</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 3 Episode 4: Executive Education</itunes:title>
+    <title>Data Brew Season 3 Episode 4: Executive Education</title>
+    <itunes:summary><![CDATA[For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.  Did you know that the average tenure of a board member is longer than the average tenure of a marriage in the United States? In this episode, Coco Brown discusses the benefits and drawbacks of the long tenures of corporate boards, their current structure, the impact of ...]]></itunes:summary>
+    <description><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>Did you know that the average tenure of a board member is longer than the average tenure of a marriage in the United States? In this episode, Coco Brown discusses the benefits and drawbacks of the long tenures of corporate boards, their current structure, the impact of recent legislation, and the importance of executive education to guide you through all of this.  </p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>Did you know that the average tenure of a board member is longer than the average tenure of a marriage in the United States? In this episode, Coco Brown discusses the benefits and drawbacks of the long tenures of corporate boards, their current structure, the impact of recent legislation, and the importance of executive education to guide you through all of this.  </p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/9328772-data-brew-season-3-episode-4-executive-education.mp3" length="27946527" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9328772</guid>
+    <pubDate>Thu, 07 Oct 2021 09:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/9328772/transcript" type="text/html" />
+    <itunes:duration>2326</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 3 Episode 3: 3 T’s to Securing AI Systems: Tests, tests, and more tests</itunes:title>
+    <title>Data Brew Season 3 Episode 3: 3 T’s to Securing AI Systems: Tests, tests, and more tests</title>
+    <itunes:summary><![CDATA[For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.  What does it mean to make your machine learning system “production-ready”? Yaron Singer walks us through the infrastructure, testing procedures, and more that help make ML systems ready for the real world in this episode of Data Brew. See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>What does it mean to make your machine learning system “production-ready”? Yaron Singer walks us through the infrastructure, testing procedures, and more that help make ML systems ready for the real world in this episode of Data Brew.</p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>What does it mean to make your machine learning system “production-ready”? Yaron Singer walks us through the infrastructure, testing procedures, and more that help make ML systems ready for the real world in this episode of Data Brew.</p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/9288334-data-brew-season-3-episode-3-3-t-s-to-securing-ai-systems-tests-tests-and-more-tests.mp3" length="25242931" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9288334</guid>
+    <pubDate>Thu, 30 Sep 2021 11:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/9288334/transcript" type="text/html" />
+    <itunes:duration>2101</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 3 Episode 2: Data Culture Outside ‘The Valley’</itunes:title>
+    <title>Data Brew Season 3 Episode 2: Data Culture Outside ‘The Valley’</title>
+    <itunes:summary><![CDATA[For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.  Have you ever had a spam call automatically blocked for you? You can thank First Orion for that - in one day they blocked or scam tagged over 108 million calls - just on T-Mobile alone! In this episode, we have the pleasure to chat with Charles Morgan and Kent Welch, CE...]]></itunes:summary>
+    <description><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>Have you ever had a spam call automatically blocked for you? You can thank First Orion for that - in one day they blocked or scam tagged over 108 million calls - just on T-Mobile alone! In this episode, we have the pleasure to chat with Charles Morgan and Kent Welch, CEO and CDO, respectively, of First Orion to discuss Arkansan data culture, First Orion’s one hundred day program, and team culture.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.<br/><br/>Have you ever had a spam call automatically blocked for you? You can thank First Orion for that - in one day they blocked or scam tagged over 108 million calls - just on T-Mobile alone! In this episode, we have the pleasure to chat with Charles Morgan and Kent Welch, CEO and CDO, respectively, of First Orion to discuss Arkansan data culture, First Orion’s one hundred day program, and team culture.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/9248467-data-brew-season-3-episode-2-data-culture-outside-the-valley.mp3" length="25706816" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9248467</guid>
+    <pubDate>Thu, 23 Sep 2021 10:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/9248467/transcript" type="text/html" />
+    <itunes:duration>2139</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 3 Episode 1: Disrupt: Challenge your Business Assumptions</itunes:title>
+    <title>Data Brew Season 3 Episode 1: Disrupt: Challenge your Business Assumptions</title>
+    <itunes:summary><![CDATA[For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics.   In this season opener, Elena Donio shares her experience using data and domain knowledge to disrupt the traditional service and sales compensation model. She also discusses how to build companies that scale, manage corporate cultural evolution, and the influence of cor...]]></itunes:summary>
+    <description><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics. <br/><br/>In this season opener, Elena Donio shares her experience using data and domain knowledge to disrupt the traditional service and sales compensation model. She also discusses how to build companies that scale, manage corporate cultural evolution, and the influence of corporate boards.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our third season, we focus on how leaders use data for change. Whether it’s building data teams or using data as a constructive catalyst, we interview subject matter experts from industry to dive deeper into these topics. <br/><br/>In this season opener, Elena Donio shares her experience using data and domain knowledge to disrupt the traditional service and sales compensation model. She also discusses how to build companies that scale, manage corporate cultural evolution, and the influence of corporate boards.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/9203193-data-brew-season-3-episode-1-disrupt-challenge-your-business-assumptions.mp3" length="21451804" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9203193</guid>
+    <pubDate>Thu, 16 Sep 2021 09:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/9203193/transcript" type="text/html" />
+    <itunes:duration>1785</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 9: Data Driven Software</itunes:title>
+    <title>Data Brew Season 2 Episode 9: Data Driven Software</title>
+    <itunes:summary><![CDATA[For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.  We branch, version, and test our code, but what if we treated data like code? Tim Hunter joins us to discuss the open-source Data-Driven Software (DDS) package and how it leads to immense gains in collaboration and d...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>We branch, version, and test our code, but what if we treated data like code? Tim Hunter joins us to discuss the open-source Data-Driven Software (DDS) package and how it leads to immense gains in collaboration and decreased runtime for data scientists at any organization.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>We branch, version, and test our code, but what if we treated data like code? Tim Hunter joins us to discuss the open-source Data-Driven Software (DDS) package and how it leads to immense gains in collaboration and decreased runtime for data scientists at any organization.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8902592-data-brew-season-2-episode-9-data-driven-software.mp3" length="22502439" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8902592</guid>
+    <pubDate>Wed, 21 Jul 2021 16:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/8902592/transcript" type="text/html" />
+    <itunes:duration>1872</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 8: Feature Engineering</itunes:title>
+    <title>Data Brew Season 2 Episode 8: Feature Engineering</title>
+    <itunes:summary><![CDATA[For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.  Is there ever a “one-size fits all” approach for feature engineering? Find out this and more with Amanda Casari and Alice Zheng, co-authors of the Feature Engineering for Machine Learning book.  See more at databrick...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Is there ever a “one-size fits all” approach for feature engineering? Find out this and more with Amanda Casari and Alice Zheng, co-authors of the Feature Engineering for Machine Learning book.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Is there ever a “one-size fits all” approach for feature engineering? Find out this and more with Amanda Casari and Alice Zheng, co-authors of the Feature Engineering for Machine Learning book.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8835367-data-brew-season-2-episode-8-feature-engineering.mp3" length="22556420" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8835367</guid>
+    <pubDate>Thu, 08 Jul 2021 20:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/8835367/transcript" type="text/html" />
+    <itunes:duration>1877</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 7: Interpretable Machine Learning</itunes:title>
+    <title>Data Brew Season 2 Episode 7: Interpretable Machine Learning</title>
+    <itunes:summary><![CDATA[For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.  What does it mean for a model to be “interpretable”? Ameet Talwalkar shares his thoughts on IML (Interpretable Machine Learning), how it relates to data privacy and fairness, and his research in this field.  See more...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>What does it mean for a model to be “interpretable”? Ameet Talwalkar shares his thoughts on IML (Interpretable Machine Learning), how it relates to data privacy and fairness, and his research in this field.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>What does it mean for a model to be “interpretable”? Ameet Talwalkar shares his thoughts on IML (Interpretable Machine Learning), how it relates to data privacy and fairness, and his research in this field.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8796059-data-brew-season-2-episode-7-interpretable-machine-learning.mp3" length="26754984" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8796059</guid>
+    <pubDate>Thu, 01 Jul 2021 10:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/8796059/transcript" type="text/html" />
+    <itunes:duration>2227</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 6: AutoML</itunes:title>
+    <title>Data Brew Season 2 Episode 6: AutoML</title>
+    <itunes:summary><![CDATA[For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.  Erin LeDell shares valuable insight on AutoML, what problems are best solved by it, its current limitations, and her thoughts on the future of AutoML. We also discuss founding and growing the Women in Machine Learnin...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Erin LeDell shares valuable insight on AutoML, what problems are best solved by it, its current limitations, and her thoughts on the future of AutoML. We also discuss founding and growing the Women in Machine Learning and Data Science (WiMLDS) non-profit.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Erin LeDell shares valuable insight on AutoML, what problems are best solved by it, its current limitations, and her thoughts on the future of AutoML. We also discuss founding and growing the Women in Machine Learning and Data Science (WiMLDS) non-profit.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8720045-data-brew-season-2-episode-6-automl.mp3" length="25897911" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8720045</guid>
+    <pubDate>Thu, 17 Jun 2021 09:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/8720045/transcript" type="text/html" />
+    <itunes:duration>2155</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 5: ML Applications</itunes:title>
+    <title>Data Brew Season 2 Episode 5: ML Applications</title>
+    <itunes:summary><![CDATA[For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.  Good machine learning starts with high quality data. Irina Malkova shares her experience managing and ensuring high-fidelity data, developing custom metrics to satisfy business needs, and discusses how to improve int...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Good machine learning starts with high quality data. Irina Malkova shares her experience managing and ensuring high-fidelity data, developing custom metrics to satisfy business needs, and discusses how to improve internal decision making processes.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Good machine learning starts with high quality data. Irina Malkova shares her experience managing and ensuring high-fidelity data, developing custom metrics to satisfy business needs, and discusses how to improve internal decision making processes.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8675914-data-brew-season-2-episode-5-ml-applications.mp3" length="23553178" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8675914</guid>
+    <pubDate>Thu, 10 Jun 2021 11:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/8675914/transcript" type="text/html" />
+    <itunes:duration>1960</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 4: Hyperparameter and Neural Architecture Search</itunes:title>
+    <title>Data Brew Season 2 Episode 4: Hyperparameter and Neural Architecture Search</title>
+    <itunes:summary><![CDATA[For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.  Liam Li is a leading researcher in the fields of hyperparameter optimization and neural architecture search, and is the author of the seminal Hyperband paper. In this session, Liam discusses the evolution of hyperpar...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Liam Li is a leading researcher in the fields of hyperparameter optimization and neural architecture search, and is the author of the seminal Hyperband paper. In this session, Liam discusses the evolution of hyperparameter optimization techniques and illustrates how every data scientist can benefit from neural architecture search. <br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Liam Li is a leading researcher in the fields of hyperparameter optimization and neural architecture search, and is the author of the seminal Hyperband paper. In this session, Liam discusses the evolution of hyperparameter optimization techniques and illustrates how every data scientist can benefit from neural architecture search. <br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8513902-data-brew-season-2-episode-4-hyperparameter-and-neural-architecture-search.mp3" length="24095227" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8513902</guid>
+    <pubDate>Thu, 13 May 2021 10:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/8513902/transcript" type="text/html" />
+    <itunes:duration>2005</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 3: Infrastructure for ML</itunes:title>
+    <title>Data Brew Season 2 Episode 3: Infrastructure for ML</title>
+    <itunes:summary><![CDATA[For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.   Adam Oliner discusses how to design your infrastructure to support ML, from integration tests to glue code, the importance of iteration, and centralized vs decentralized data science teams. He provides valuable...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/> Adam Oliner discusses how to design your infrastructure to support ML, from integration tests to glue code, the importance of iteration, and centralized vs decentralized data science teams. He provides valuable advice for companies investing in ML and crucial lessons he’s learned from founding two companies.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew<br/></a><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/> Adam Oliner discusses how to design your infrastructure to support ML, from integration tests to glue code, the importance of iteration, and centralized vs decentralized data science teams. He provides valuable advice for companies investing in ML and crucial lessons he’s learned from founding two companies.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew<br/></a><br/></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8467486-data-brew-season-2-episode-3-infrastructure-for-ml.mp3" length="22043208" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8467486</guid>
+    <pubDate>Wed, 05 May 2021 15:00:00 -0700</pubDate>
+    <itunes:duration>1834</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 2: Data Ethics</itunes:title>
+    <title>Data Brew Season 2 Episode 2: Data Ethics</title>
+    <itunes:summary><![CDATA[For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.  Have you ever wondered how your purchasing behavior may reveal protected attributes? Or how data scientists and business play a role in combating bias? We discuss with Diana Pfeil recommendations to reduce bias and i...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Have you ever wondered how your purchasing behavior may reveal protected attributes? Or how data scientists and business play a role in combating bias? We discuss with Diana Pfeil recommendations to reduce bias and improve fairness, from SHAP to adversarial debiasing.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season of Data Brew, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>Have you ever wondered how your purchasing behavior may reveal protected attributes? Or how data scientists and business play a role in combating bias? We discuss with Diana Pfeil recommendations to reduce bias and improve fairness, from SHAP to adversarial debiasing.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8422818-data-brew-season-2-episode-2-data-ethics.mp3" length="18591890" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8422818</guid>
+    <pubDate>Wed, 28 Apr 2021 11:00:00 -0700</pubDate>
+    <itunes:duration>1547</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 2 Episode 1: ML in Production</itunes:title>
+    <title>Data Brew Season 2 Episode 1: ML in Production</title>
+    <itunes:summary><![CDATA[For our second season, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.  In the season opener, Matei Zaharia discusses how he entered the field of ML, best practices for productionizing ML pipelines, leveraging MLflow &amp; the Lakehouse architecture for reproducible ML, and his current research in th...]]></itunes:summary>
+    <description><![CDATA[<p>For our second season, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>In the season opener, Matei Zaharia discusses how he entered the field of ML, best practices for productionizing ML pipelines, leveraging MLflow &amp; the Lakehouse architecture for reproducible ML, and his current research in this field.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For our second season, we will be focusing on machine learning, from research to production. We will interview folks in academia and industry to discuss topics such as data ethics, production-grade infrastructure for ML, hyperparameter tuning, AutoML, and many more.<br/><br/>In the season opener, Matei Zaharia discusses how he entered the field of ML, best practices for productionizing ML pipelines, leveraging MLflow &amp; the Lakehouse architecture for reproducible ML, and his current research in this field.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <link>https://databricks.com/discover/data-brew/s2-e1-ML-in-production</link>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/8385014-data-brew-season-2-episode-1-ml-in-production.mp3" length="22222502" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8385014</guid>
+    <pubDate>Thu, 22 Apr 2021 09:00:00 -0700</pubDate>
+    <itunes:duration>1849</itunes:duration>
+    <itunes:keywords>databrew,apachespark,deltalake,machinelearning,ml,ai,spark</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 1 Episode 6: Journey of Big Data</itunes:title>
+    <title>Data Brew Season 1 Episode 6: Journey of Big Data</title>
+    <itunes:summary><![CDATA[Jules Damji and Tathagata Das guide us through their journey in big data and the evolution of data architecture in the past 30 years. They discuss some of the biggest changes in industry they’ve seen, as well as trends to look forward to in the coming years. This is a fun episode connecting all four authors of the Learning Spark, 2nd Edition book.  See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p>Jules Damji and Tathagata Das guide us through their journey in big data and the evolution of data architecture in the past 30 years. They discuss some of the biggest changes in industry they’ve seen, as well as trends to look forward to in the coming years. This is a fun episode connecting all four authors of the <a href='https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040/'><b>Learning Spark, 2nd Edition</b></a> book.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Jules Damji and Tathagata Das guide us through their journey in big data and the evolution of data architecture in the past 30 years. They discuss some of the biggest changes in industry they’ve seen, as well as trends to look forward to in the coming years. This is a fun episode connecting all four authors of the <a href='https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040/'><b>Learning Spark, 2nd Edition</b></a> book.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/7952920-data-brew-season-1-episode-6-journey-of-big-data.mp3" length="29025802" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-7952920</guid>
+    <pubDate>Thu, 18 Feb 2021 15:00:00 -0800</pubDate>
+    <itunes:duration>2416</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 1 Episode 5: Combining Machine Learning and MLflow with your Lakehouse</itunes:title>
+    <title>Data Brew Season 1 Episode 5: Combining Machine Learning and MLflow with your Lakehouse</title>
+    <itunes:summary><![CDATA[Ellissa Verseput, ML Engineer at Quby, joins Denny and Brooke to discuss how Quby leverages ML to extract additional value from their data lake and how they manage this process.  See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://www.linkedin.com/in/ellissaverseput/'>Ellissa Verseput</a>, ML Engineer at Quby, joins Denny and Brooke to discuss how Quby leverages ML to extract additional value from their data lake and how they manage this process.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://www.linkedin.com/in/ellissaverseput/'>Ellissa Verseput</a>, ML Engineer at Quby, joins Denny and Brooke to discuss how Quby leverages ML to extract additional value from their data lake and how they manage this process.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/7168708-data-brew-season-1-episode-5-combining-machine-learning-and-mlflow-with-your-lakehouse.mp3" length="25950989" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-7168708</guid>
+    <pubDate>Wed, 06 Jan 2021 15:00:00 -0800</pubDate>
+    <itunes:duration>2160</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 1 Episode 4: BI on Data Lakes - Making it Real for Retail</itunes:title>
+    <title>Data Brew Season 1 Episode 4: BI on Data Lakes - Making it Real for Retail</title>
+    <itunes:summary><![CDATA[In this session, we discuss the lessons learned with Lara Minor, Senior Enterprise Data Manager at Columbia Sportswear, on how her team achieved a 70% reduction in pipeline creation time. This had reduced ETL workload times from four hours with previous data warehouses to minutes enabling near real-time analytics. Her team migrated from multiple legacy data warehouses, run by individual lines of business, to a single scalable, reliable, performant data lake.  See more at databricks.com/data-b...]]></itunes:summary>
+    <description><![CDATA[<p>In this session, we discuss the lessons learned with Lara Minor, Senior Enterprise Data Manager at Columbia Sportswear, on how her team achieved a 70% reduction in pipeline creation time. This had reduced ETL workload times from four hours with previous data warehouses to minutes enabling near real-time analytics. Her team migrated from multiple legacy data warehouses, run by individual lines of business, to a single scalable, reliable, performant data lake.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In this session, we discuss the lessons learned with Lara Minor, Senior Enterprise Data Manager at Columbia Sportswear, on how her team achieved a 70% reduction in pipeline creation time. This had reduced ETL workload times from four hours with previous data warehouses to minutes enabling near real-time analytics. Her team migrated from multiple legacy data warehouses, run by individual lines of business, to a single scalable, reliable, performant data lake.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/6960692-data-brew-season-1-episode-4-bi-on-data-lakes-making-it-real-for-retail.mp3" length="20976851" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6960692</guid>
+    <pubDate>Tue, 22 Dec 2020 06:00:00 -0800</pubDate>
+    <itunes:duration>1745</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 1 Episode 3: Demystifying Delta Lake</itunes:title>
+    <title>Data Brew Season 1 Episode 3: Demystifying Delta Lake</title>
+    <itunes:summary><![CDATA[Delta Lake is an open source storage layer that brings reliability to data lakes. Delta Lake offers ACID transactions, scalable metadata handling, and unifies streaming and batch data processing. It runs on top of your existing data lake and is fully compatible with Apache Spark APIs. For our “Demystifying Delta Lake” session, we will interview Michael Armbrust - committer and PMC member of Apache Spark™ and the original creator of Spark SQL. He currently leads the team at Databricks that des...]]></itunes:summary>
+    <description><![CDATA[<p>Delta Lake is an open source storage layer that brings reliability to data lakes. Delta Lake offers ACID transactions, scalable metadata handling, and unifies streaming and batch data processing. It runs on top of your existing data lake and is fully compatible with Apache Spark APIs. For our “Demystifying Delta Lake” session, we will interview Michael Armbrust - committer and PMC member of Apache Spark™ and the original creator of Spark SQL. He currently leads the team at Databricks that designed and built Structured Streaming and Delta Lake.</p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Delta Lake is an open source storage layer that brings reliability to data lakes. Delta Lake offers ACID transactions, scalable metadata handling, and unifies streaming and batch data processing. It runs on top of your existing data lake and is fully compatible with Apache Spark APIs. For our “Demystifying Delta Lake” session, we will interview Michael Armbrust - committer and PMC member of Apache Spark™ and the original creator of Spark SQL. He currently leads the team at Databricks that designed and built Structured Streaming and Delta Lake.</p><p>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/6722257-data-brew-season-1-episode-3-demystifying-delta-lake.mp3" length="18645517" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6722257</guid>
+    <pubDate>Sun, 06 Dec 2020 15:00:00 -0800</pubDate>
+    <itunes:duration>1551</itunes:duration>
+    <itunes:keywords>DataLakes,DataBrew,DeltaLake,Delta,Lakehouse,Armbrust,Databricks</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 1 Episode 2: Welcome to Lakehouse</itunes:title>
+    <title>Data Brew Season 1 Episode 2: Welcome to Lakehouse</title>
+    <itunes:summary><![CDATA[Legacy approaches have failed to deliver on the promise of a single data architecture that can support every downstream use case from BI to AI. Lakehouse aspires to address this by combining the best of data warehouses and data lakes. Ali Ghodsi, Co-Founder and CEO of Databricks, and David Meyer, SVP of Product at Databricks, explain how.   See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p>Legacy approaches have failed to deliver on the promise of a single data architecture that can support every downstream use case from BI to AI. Lakehouse aspires to address this by combining the best of data warehouses and data lakes. Ali Ghodsi, Co-Founder and CEO of Databricks, and David Meyer, SVP of Product at Databricks, explain how. <br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Legacy approaches have failed to deliver on the promise of a single data architecture that can support every downstream use case from BI to AI. Lakehouse aspires to address this by combining the best of data warehouses and data lakes. Ali Ghodsi, Co-Founder and CEO of Databricks, and David Meyer, SVP of Product at Databricks, explain how. <br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/6348088-data-brew-season-1-episode-2-welcome-to-lakehouse.mp3" length="18880768" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6348088</guid>
+    <pubDate>Thu, 12 Nov 2020 14:00:00 -0800</pubDate>
+    <itunes:duration>1570</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Brew Season 1 Episode 1: From data warehousing to data lakes in 40 minutes</itunes:title>
+    <title>Data Brew Season 1 Episode 1: From data warehousing to data lakes in 40 minutes</title>
+    <itunes:summary><![CDATA[In our inaugural episode, we’d like to welcome data warehouse luminaries Barry Devlin, Susan O’Connell, and Donald Farmer to discuss the evolution of data warehouses, data lakes, and lakehouses.  See more at databricks.com/data-brew ]]></itunes:summary>
+    <description><![CDATA[<p>In our inaugural episode, we’d like to welcome data warehouse luminaries Barry Devlin, Susan O’Connell, and Donald Farmer to discuss the evolution of data warehouses, data lakes, and lakehouses.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In our inaugural episode, we’d like to welcome data warehouse luminaries Barry Devlin, Susan O’Connell, and Donald Farmer to discuss the evolution of data warehouses, data lakes, and lakehouses.<br/><br/>See more at <a href='https://databricks.com/discover/data-brew'>databricks.com/data-brew</a></p>]]></content:encoded>
+    <link>https://databricks.com/discover/data-brew/s1-e1-data-warehousing-to-data-lakes</link>
+    <itunes:author>Databricks</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1370119/episodes/6114178-data-brew-season-1-episode-1-from-data-warehousing-to-data-lakes-in-40-minutes.mp3" length="32291035" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6114178</guid>
+    <pubDate>Wed, 28 Oct 2020 16:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1370119/6114178/transcript" type="text/html" />
+    <itunes:duration>2688</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

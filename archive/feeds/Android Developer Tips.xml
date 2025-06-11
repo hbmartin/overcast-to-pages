@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mohsenoid.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	>
+		<channel>
+		<title>Android Developer Tips</title>
+		<atom:link href="https://mohsenoid.com/feed/podcast/android-developer-tips/" rel="self" type="application/rss+xml"/>
+		<link>https://mohsenoid.com/series/android-developer-tips/</link>
+		<description>Android Developer Tips is a YouTube channel that besides introducing open-source libraries and app development tips and tricks also interviews the Android community&#039;s active members and this podcast holds the audio file of those interviews.
+https://www.youtube.com/AndroidDeveloperTips/</description>
+		<lastBuildDate>Sat, 28 Dec 2024 08:29:39 +0000</lastBuildDate>
+		<language>en</language>
+		<copyright>© 2024 Mohsen Mirhoseini</copyright>
+		<itunes:subtitle>Podcast</itunes:subtitle>
+		<itunes:author>Mohsen Mirhoseini</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:summary>Android Developer Tips is a YouTube channel that besides introducing open-source libraries and app development tips and tricks also interviews the Android community&#039;s active members and this podcast holds the audio file of those interviews.
+https://www.youtube.com/AndroidDeveloperTips/</itunes:summary>
+		<itunes:owner>
+			<itunes:name>Mohsen Mirhoseini</itunes:name>
+			<itunes:email>contact@mohsenoid.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="http://mohsenoid.com/wp-content/uploads/2024/02/YouTube-Logo_1400.png"></itunes:image>
+			<image>
+				<url>http://mohsenoid.com/wp-content/uploads/2024/02/YouTube-Logo_1400.png</url>
+				<title>Android Developer Tips</title>
+				<link>https://mohsenoid.com/series/android-developer-tips/</link>
+			</image>
+		<itunes:category text="Technology">
+		</itunes:category>
+		<googleplay:author><![CDATA[Mohsen Mirhoseini]]></googleplay:author>
+			<googleplay:email>contact@mohsenoid.com</googleplay:email>			<googleplay:description>Android Developer Tips is a YouTube channel that besides introducing open-source libraries and app development tips and tricks also interviews the Android community&#039;s active members and this podcast holds the audio file of those interviews.
+https://www.youtube.com/AndroidDeveloperTips/</googleplay:description>
+			<googleplay:explicit>No</googleplay:explicit>
+			<googleplay:image href="http://mohsenoid.com/wp-content/uploads/2024/02/YouTube-Logo_1400.png"></googleplay:image>
+			<podcast:locked owner="contact@mohsenoid.com">yes</podcast:locked>
+		<podcast:guid>f523d185-46d3-5628-8832-8ab4fa7674fd</podcast:guid>
+		
+		<!-- podcast_generator="SSP by Castos/3.10.3" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
+		<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<item>
+	<title>fun code(): A magazine for Kotlin developers</title>
+	<link>https://mohsenoid.com/podcast/fun-code-a-magazine-for-kotlin-developers/</link>
+	<pubDate>Tue, 11 Jun 2024 08:36:10 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1380</guid>
+	<description><![CDATA[The &#8220;fun code()&#8221; magazine is a one-time publication about Kotlin, created by Kotlin developers for Kotlin developers, and I had the pleasure of being one of the contributors. It was released during KotlinConf 2024 and received significant attention. In this exciting episode, I had the opportunity to gather some of the key individuals involved in [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[The &#8220;fun code()&#8221; magazine is a one-time publication about Kotlin, created by Kotlin developers for Kotlin developers, and I had the pleasure of being one of the contributors. It was released during KotlinConf 2024 and received significant att]]></itunes:subtitle>
+	<content:encoded><![CDATA[The &#8220;fun code()&#8221; magazine is a one-time publication about Kotlin, created by Kotlin developers for Kotlin developers, and I had the pleasure of being one of the contributors. It was released during KotlinConf 2024 and received significant attention. In this exciting episode, I had the opportunity to gather some of the key individuals involved in [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1380/fun-code-a-magazine-for-kotlin-developers.mp3" length="147706330" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[The &#8220;fun code()&#8221; magazine is a one-time publication about Kotlin, created by Kotlin developers for Kotlin developers, and I had the pleasure of being one of the contributors. It was released during KotlinConf 2024 and received significant attention. In this exciting episode, I had the opportunity to gather some of the key individuals involved in [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2024/06/Cover_square.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2024/06/Cover_square.png</url>
+		<title>fun code(): A magazine for Kotlin developers</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>1:01:33</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[The &#8220;fun code()&#8221; magazine is a one-time publication about Kotlin, created by Kotlin developers for Kotlin developers, and I had the pleasure of being one of the contributors. It was released during KotlinConf 2024 and received significant attention. In this exciting episode, I had the opportunity to gather some of the key individuals involved in [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2024/06/Cover_square.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android interview — Alejandra Stamato (@astamatok)</title>
+	<link>https://mohsenoid.com/podcast/android-interview-alejandra-stamato/</link>
+	<pubDate>Fri, 09 Feb 2024 20:46:44 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1353</guid>
+	<description><![CDATA[Alejandra Stamato is an Android community active member who recently switched from being an Android Developer Relations Engineer at Google working in Compose text and architecture, to a product role as Android Technical Lead at HubSpot. In this friendly interview, she will share with us her story and career path. Link to the video on [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Alejandra Stamato is an Android community active member who recently switched from being an Android Developer Relations Engineer at Google working in Compose text and architecture, to a product role as Android Technical Lead at HubSpot. In this friendly ]]></itunes:subtitle>
+	<content:encoded><![CDATA[Alejandra Stamato is an Android community active member who recently switched from being an Android Developer Relations Engineer at Google working in Compose text and architecture, to a product role as Android Technical Lead at HubSpot. In this friendly interview, she will share with us her story and career path. Link to the video on [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1353/android-interview-alejandra-stamato.mp3" length="138255020" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Alejandra Stamato is an Android community active member who recently switched from being an Android Developer Relations Engineer at Google working in Compose text and architecture, to a product role as Android Technical Lead at HubSpot. In this friendly interview, she will share with us her story and career path. Link to the video on [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2024/02/Cover_square.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2024/02/Cover_square.png</url>
+		<title>Android interview — Alejandra Stamato (@astamatok)</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>1:36:01</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[Alejandra Stamato is an Android community active member who recently switched from being an Android Developer Relations Engineer at Google working in Compose text and architecture, to a product role as Android Technical Lead at HubSpot. In this friendly interview, she will share with us her story and career path. Link to the video on [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2024/02/Cover_square.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android development — The must-have Android Studio plugins</title>
+	<link>https://mohsenoid.com/podcast/android-development-the-must-have-android-studio-plugins/</link>
+	<pubDate>Sun, 03 Dec 2023 23:24:00 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1362</guid>
+	<description><![CDATA[As an Android developer, it&#8217;s crucial to have powerful tools that make our development process easier. In this video, Ilyas Ipek joins me to share some of the most useful Android Studio plugins that you may find helpful. Link to the video on YouTube:https://youtu.be/2ZT_MtMNo8s Links and References ► Medium Article about Android Studio Plugins:https://medium.com/wereprotein/all-my-android-studio-plugins-b25012ed51f6 ► [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[As an Android developer, it&#8217;s crucial to have powerful tools that make our development process easier. In this video, Ilyas Ipek joins me to share some of the most useful Android Studio plugins that you may find helpful. Link to the video on YouTub]]></itunes:subtitle>
+	<content:encoded><![CDATA[As an Android developer, it&#8217;s crucial to have powerful tools that make our development process easier. In this video, Ilyas Ipek joins me to share some of the most useful Android Studio plugins that you may find helpful. Link to the video on YouTube:https://youtu.be/2ZT_MtMNo8s Links and References ► Medium Article about Android Studio Plugins:https://medium.com/wereprotein/all-my-android-studio-plugins-b25012ed51f6 ► [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1362/android-development-the-must-have-android-studio-plugins.mp3" length="51067052" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[As an Android developer, it&#8217;s crucial to have powerful tools that make our development process easier. In this video, Ilyas Ipek joins me to share some of the most useful Android Studio plugins that you may find helpful. Link to the video on YouTube:https://youtu.be/2ZT_MtMNo8s Links and References ► Medium Article about Android Studio Plugins:https://medium.com/wereprotein/all-my-android-studio-plugins-b25012ed51f6 ► [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2023/12/Cover-Square.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2023/12/Cover-Square.png</url>
+		<title>Android development — The must-have Android Studio plugins</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>35:28</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[As an Android developer, it&#8217;s crucial to have powerful tools that make our development process easier. In this video, Ilyas Ipek joins me to share some of the most useful Android Studio plugins that you may find helpful. Link to the video on YouTube:https://youtu.be/2ZT_MtMNo8s Links and References ► Medium Article about Android Studio Plugins:https://medium.com/wereprotein/all-my-android-studio-plugins-b25012ed51f6 ► [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2023/12/Cover-Square.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android development — Maestro, Android Modern UI Testing</title>
+	<link>https://mohsenoid.com/podcast/android-interview-maestro-android-modern-ui-testing/</link>
+	<pubDate>Tue, 10 Oct 2023 21:33:00 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1357</guid>
+	<description><![CDATA[Maestro is the simplest and most effective mobile UI testing framework. Maestro is built on learnings from its predecessors (Appium, Espresso, UIAutomator, XCTest) and allows you to easily define and test your Flows. In this episode, I&#8217;ve asked Zhanibek Marshal to join me and share his experience using this framework. Link to the video on [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Maestro is the simplest and most effective mobile UI testing framework. Maestro is built on learnings from its predecessors (Appium, Espresso, UIAutomator, XCTest) and allows you to easily define and test your Flows. In this episode, I&#8217;ve asked Zha]]></itunes:subtitle>
+	<content:encoded><![CDATA[Maestro is the simplest and most effective mobile UI testing framework. Maestro is built on learnings from its predecessors (Appium, Espresso, UIAutomator, XCTest) and allows you to easily define and test your Flows. In this episode, I&#8217;ve asked Zhanibek Marshal to join me and share his experience using this framework. Link to the video on [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1357/android-interview-maestro-android-modern-ui-testing.mp3" length="114393581" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Maestro is the simplest and most effective mobile UI testing framework. Maestro is built on learnings from its predecessors (Appium, Espresso, UIAutomator, XCTest) and allows you to easily define and test your Flows. In this episode, I&#8217;ve asked Zhanibek Marshal to join me and share his experience using this framework. Link to the video on [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2024/02/Cover-Square.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2024/02/Cover-Square.png</url>
+		<title>Android development — Maestro, Android Modern UI Testing</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>1:19:26</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[Maestro is the simplest and most effective mobile UI testing framework. Maestro is built on learnings from its predecessors (Appium, Espresso, UIAutomator, XCTest) and allows you to easily define and test your Flows. In this episode, I&#8217;ve asked Zhanibek Marshal to join me and share his experience using this framework. Link to the video on [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2024/02/Cover-Square.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android interview — Nicole Terc (@nicole_terc)</title>
+	<link>https://mohsenoid.com/podcast/android-interview-nicole-terc/</link>
+	<pubDate>Fri, 17 Mar 2023 20:23:00 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1348</guid>
+	<description><![CDATA[Nicole Terc is an Android community active member who last year had 3 talks at 3 different Droidcon events. She has recently joined the Dance Company as Software Engineering Lead and in this friendly interview, she will share with us her story and career path. Link to the video on YouTube:https://youtu.be/6bVy_1kPgCU Links and References ► [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Nicole Terc is an Android community active member who last year had 3 talks at 3 different Droidcon events. She has recently joined the Dance Company as Software Engineering Lead and in this friendly interview, she will share with us her story and career]]></itunes:subtitle>
+	<content:encoded><![CDATA[Nicole Terc is an Android community active member who last year had 3 talks at 3 different Droidcon events. She has recently joined the Dance Company as Software Engineering Lead and in this friendly interview, she will share with us her story and career path. Link to the video on YouTube:https://youtu.be/6bVy_1kPgCU Links and References ► [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1348/android-interview-nicole-terc.mp3" length="96415678" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Nicole Terc is an Android community active member who last year had 3 talks at 3 different Droidcon events. She has recently joined the Dance Company as Software Engineering Lead and in this friendly interview, she will share with us her story and career path. Link to the video on YouTube:https://youtu.be/6bVy_1kPgCU Links and References ► [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2023/03/Cover-Square.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2023/03/Cover-Square.png</url>
+		<title>Android interview — Nicole Terc (@nicole_terc)</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>1:40:01</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[Nicole Terc is an Android community active member who last year had 3 talks at 3 different Droidcon events. She has recently joined the Dance Company as Software Engineering Lead and in this friendly interview, she will share with us her story and career path. Link to the video on YouTube:https://youtu.be/6bVy_1kPgCU Links and References ► [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2023/03/Cover-Square.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android interview — Philipp Lackner (@plcoding)</title>
+	<link>https://mohsenoid.com/podcast/android-interview-philipp-lackner/</link>
+	<pubDate>Thu, 28 Jul 2022 20:03:00 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1343</guid>
+	<description><![CDATA[Philipp Lackner is an Android YouTuber currently focusing mostly on his channel and training Android developers at the industrial level and is one of the Android Community&#8217;s active members. Having a big number of followers he is a well-known face among the Android trainers who recently moved to Berlin! In this interview which happened during [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Philipp Lackner is an Android YouTuber currently focusing mostly on his channel and training Android developers at the industrial level and is one of the Android Community&#8217;s active members. Having a big number of followers he is a well-known face a]]></itunes:subtitle>
+	<content:encoded><![CDATA[Philipp Lackner is an Android YouTuber currently focusing mostly on his channel and training Android developers at the industrial level and is one of the Android Community&#8217;s active members. Having a big number of followers he is a well-known face among the Android trainers who recently moved to Berlin! In this interview which happened during [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1343/android-interview-philipp-lackner.mp3" length="12642143" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Philipp Lackner is an Android YouTuber currently focusing mostly on his channel and training Android developers at the industrial level and is one of the Android Community&#8217;s active members. Having a big number of followers he is a well-known face among the Android trainers who recently moved to Berlin! In this interview which happened during [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2022/07/Cover-Square-Philipp.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2022/07/Cover-Square-Philipp.png</url>
+		<title>Android interview — Philipp Lackner (@plcoding)</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>12:08</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[Philipp Lackner is an Android YouTuber currently focusing mostly on his channel and training Android developers at the industrial level and is one of the Android Community&#8217;s active members. Having a big number of followers he is a well-known face among the Android trainers who recently moved to Berlin! In this interview which happened during [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2022/07/Cover-Square-Philipp.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android interview — Ivan Morgillo (@hamen)</title>
+	<link>https://mohsenoid.com/podcast/android-interview-ivan-morgillo/</link>
+	<pubDate>Tue, 15 Mar 2022 20:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1340</guid>
+	<description><![CDATA[Ivan Morgillo is a freelance Android Developer currently working for Novoda, the co-host of Code with the Italians, and one of the Android Community&#8217;s active members. He is a well-known face in the Berlin Android meetup group who recently moved back to Italy!In this interview, you will learn more about his lifestyle, his ideas about [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Ivan Morgillo is a freelance Android Developer currently working for Novoda, the co-host of Code with the Italians, and one of the Android Community&#8217;s active members. He is a well-known face in the Berlin Android meetup group who recently moved bac]]></itunes:subtitle>
+	<content:encoded><![CDATA[Ivan Morgillo is a freelance Android Developer currently working for Novoda, the co-host of Code with the Italians, and one of the Android Community&#8217;s active members. He is a well-known face in the Berlin Android meetup group who recently moved back to Italy!In this interview, you will learn more about his lifestyle, his ideas about [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1340/android-interview-ivan-morgillo.mp3" length="177348525" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Ivan Morgillo is a freelance Android Developer currently working for Novoda, the co-host of Code with the Italians, and one of the Android Community&#8217;s active members. He is a well-known face in the Berlin Android meetup group who recently moved back to Italy!In this interview, you will learn more about his lifestyle, his ideas about [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2022/03/Cover-Square-Ivan.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2022/03/Cover-Square-Ivan.png</url>
+		<title>Android interview — Ivan Morgillo (@hamen)</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>2:27:47</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[Ivan Morgillo is a freelance Android Developer currently working for Novoda, the co-host of Code with the Italians, and one of the Android Community&#8217;s active members. He is a well-known face in the Berlin Android meetup group who recently moved back to Italy!In this interview, you will learn more about his lifestyle, his ideas about [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2022/03/Cover-Square-Ivan.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android interview — Danny Preussler (@PreusslerBerlin)</title>
+	<link>https://mohsenoid.com/podcast/android-interview-danny-preussler/</link>
+	<pubDate>Fri, 04 Feb 2022 19:57:00 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1338</guid>
+	<description><![CDATA[Danny Preussler is an Android Engineer at SoundCloud and an Android Community active member. He is well known for all the Droidcon Berlin opening sessions he hosted, and many talks around testing and TDD, and is also a well-known face in the Berlin Android meetup group.In this interview, you will learn more about his lifestyle, [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Danny Preussler is an Android Engineer at SoundCloud and an Android Community active member. He is well known for all the Droidcon Berlin opening sessions he hosted, and many talks around testing and TDD, and is also a well-known face in the Berlin Andro]]></itunes:subtitle>
+	<content:encoded><![CDATA[Danny Preussler is an Android Engineer at SoundCloud and an Android Community active member. He is well known for all the Droidcon Berlin opening sessions he hosted, and many talks around testing and TDD, and is also a well-known face in the Berlin Android meetup group.In this interview, you will learn more about his lifestyle, [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1338/android-interview-danny-preussler.mp3" length="77735535" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Danny Preussler is an Android Engineer at SoundCloud and an Android Community active member. He is well known for all the Droidcon Berlin opening sessions he hosted, and many talks around testing and TDD, and is also a well-known face in the Berlin Android meetup group.In this interview, you will learn more about his lifestyle, [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2022/02/Cover-Square-Danny.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2022/02/Cover-Square-Danny.png</url>
+		<title>Android interview — Danny Preussler (@PreusslerBerlin)</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>1:20:58</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[Danny Preussler is an Android Engineer at SoundCloud and an Android Community active member. He is well known for all the Droidcon Berlin opening sessions he hosted, and many talks around testing and TDD, and is also a well-known face in the Berlin Android meetup group.In this interview, you will learn more about his lifestyle, [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2022/02/Cover-Square-Danny.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android interview — Seyed Jafari (@seyedjafariy)</title>
+	<link>https://mohsenoid.com/podcast/android-interview-seyed-jafari/</link>
+	<pubDate>Mon, 20 Dec 2021 19:40:00 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1334</guid>
+	<description><![CDATA[Seyed Jafari is a Software Engineer at Revolut Ltd and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to the video on YouTube:https://youtu.be/2WcyqdHRNos Links and References: ► Seyed&#8217;s Twitterhttps://twitter.com/@seyedjafariy ► Seyed&#8217;s Salary Tweethttps://twitter.com/@seyedjafariy/status/1441473075082498050 ► [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Seyed Jafari is a Software Engineer at Revolut Ltd and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to th]]></itunes:subtitle>
+	<content:encoded><![CDATA[Seyed Jafari is a Software Engineer at Revolut Ltd and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to the video on YouTube:https://youtu.be/2WcyqdHRNos Links and References: ► Seyed&#8217;s Twitterhttps://twitter.com/@seyedjafariy ► Seyed&#8217;s Salary Tweethttps://twitter.com/@seyedjafariy/status/1441473075082498050 ► [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1334/android-interview-seyed-jafari.mp3" length="72637269" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Seyed Jafari is a Software Engineer at Revolut Ltd and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to the video on YouTube:https://youtu.be/2WcyqdHRNos Links and References: ► Seyed&#8217;s Twitterhttps://twitter.com/@seyedjafariy ► Seyed&#8217;s Salary Tweethttps://twitter.com/@seyedjafariy/status/1441473075082498050 ► [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2021/12/Cover-Square-Seyed.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2021/12/Cover-Square-Seyed.png</url>
+		<title>Android interview — Seyed Jafari (@seyedjafariy)</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>1:15:40</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[Seyed Jafari is a Software Engineer at Revolut Ltd and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to the video on YouTube:https://youtu.be/2WcyqdHRNos Links and References: ► Seyed&#8217;s Twitterhttps://twitter.com/@seyedjafariy ► Seyed&#8217;s Salary Tweethttps://twitter.com/@seyedjafariy/status/1441473075082498050 ► [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2021/12/Cover-Square-Seyed.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Android interview — Benjamin Kadel (@ben_kadel)</title>
+	<link>https://mohsenoid.com/podcast/android-interview-benjamin-kadel/</link>
+	<pubDate>Wed, 24 Nov 2021 23:24:00 +0000</pubDate>
+	<dc:creator><![CDATA[Mohsen Mirhoseini]]></dc:creator>
+	<guid isPermaLink="false">https://mohsenoid.com/?post_type=podcast&#038;p=1325</guid>
+	<description><![CDATA[Benjamin Kadel is a Senior Android Developer at Babbel, a YouTuber, and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to the video on YouTube:https://youtu.be/7fcb5HiaFYE Links and References: ► Ben&#8217;s Twitterhttps://twitter.com/ben_kadel ► Ben&#8217;s landing [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Benjamin Kadel is a Senior Android Developer at Babbel, a YouTuber, and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android commu]]></itunes:subtitle>
+	<content:encoded><![CDATA[Benjamin Kadel is a Senior Android Developer at Babbel, a YouTuber, and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to the video on YouTube:https://youtu.be/7fcb5HiaFYE Links and References: ► Ben&#8217;s Twitterhttps://twitter.com/ben_kadel ► Ben&#8217;s landing [&#8230;]]]></content:encoded>
+	<enclosure url="https://mohsenoid.com/podcast-download/1325/android-interview-benjamin-kadel.mp3" length="113157165" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Benjamin Kadel is a Senior Android Developer at Babbel, a YouTuber, and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to the video on YouTube:https://youtu.be/7fcb5HiaFYE Links and References: ► Ben&#8217;s Twitterhttps://twitter.com/ben_kadel ► Ben&#8217;s landing [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://mohsenoid.com/wp-content/uploads/2024/02/Cover-Square-Ben.png"></itunes:image>
+	<image>
+		<url>https://mohsenoid.com/wp-content/uploads/2024/02/Cover-Square-Ben.png</url>
+		<title>Android interview — Benjamin Kadel (@ben_kadel)</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>1:34:18</itunes:duration>
+	<itunes:author><![CDATA[Mohsen Mirhoseini]]></itunes:author>	<googleplay:description><![CDATA[Benjamin Kadel is a Senior Android Developer at Babbel, a YouTuber, and an Android Community active member. In this interview, you will learn more about his lifestyle, his ideas about Android development, and his recent contributions to the Android community. Links to the video on YouTube:https://youtu.be/7fcb5HiaFYE Links and References: ► Ben&#8217;s Twitterhttps://twitter.com/ben_kadel ► Ben&#8217;s landing [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://mohsenoid.com/wp-content/uploads/2024/02/Cover-Square-Ben.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+	</channel>
+</rss>

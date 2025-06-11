@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Half Stack Data Science]]></title>
+		<description><![CDATA["Half Stack Data Science" is a podcast by David Asboth and Shaun McGirr about the realities of Data Science in the enterprise business world.]]></description>
+		<link>http://halfstackdatascience.com</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 10 Jun 2025 06:33:51 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/2cc2e940/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Half Stack Data Science]]></author>
+		<copyright><![CDATA[Half Stack Data Science]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Half Stack Data Science</itunes:author>
+		<itunes:summary>&quot;Half Stack Data Science&quot; is a podcast by David Asboth and Shaun McGirr about the realities of Data Science in the enterprise business world.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Half Stack Data Science</itunes:name>
+			<itunes:email>podcasts60+2cc2e940@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+		<item>
+			<title><![CDATA[S04E03 - AI-assisted journaling with reconfigured - with Richard Makara and Niko Korvenlaita]]></title>
+			<description><![CDATA[<p>In this episode, we spoke to Richard Makara and Niko Korvenlaita who are CEO and CTO of reconfigured.</p><p>reconfigured is a journal app that makes it incredibly easy to capture and retrieve on-going notes, thoughts &amp; insights. Richard is the CEO and he has led growth and built go-to-market data systems in high-growth scale-ups. Niko is a second time founder and the CTO. He has been building end-to-end machine learning applications since 2014 and has worked with Natural Language Processing since 2017.</p><p>We spoke to Richard and Niko about the common problems data professionals face, how data people create knowledge faster than they can capture it and what challenges that creates, why reducing the cost of note-taking to zero is so important for data work, how AI can help with the retrieval and structuring of ideas, and how to use AI in a product in a thoughtful and meaningful way.</p><p>Please enjoy our conversation with the team behind reconfigured!</p><p>Find out more about reconfigured here: <a href="https://reconfigured.io" target="_blank" rel="noopener">https://reconfigured.io</a></p><p>You can also find <a href="https://www.linkedin.com/in/richard-makara-6499a273/" target="_blank" rel="noopener">Richard</a> and <a href="https://www.linkedin.com/in/nipsuli/" target="_blank" rel="noopener">Niko</a> on LinkedIn.</p><p>—</p><p>David’s book, The Well-Grounded Data Analyst is out! <a href="https://www.manning.com/books/the-well-grounded-data-analyst">⁠https://www.manning.com/books/the-well-grounded-data-analyst⁠</a></p><p>If you want to find out more, we have a whole episode about it: <a href="https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw">⁠https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S04E03---AI-assisted-journaling-with-reconfigured---with-Richard-Makara-and-Niko-Korvenlaita-e32rkao</link>
+			<guid isPermaLink="false">6fb5af5b-1c22-400d-b223-69076dbcf2d0</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Wed, 14 May 2025 18:35:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/102666008/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400287163-44100-2-146536256699a.m4a" length="53030130" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, we spoke to Richard Makara and Niko Korvenlaita who are CEO and CTO of reconfigured.&lt;/p&gt;&lt;p&gt;reconfigured is a journal app that makes it incredibly easy to capture and retrieve on-going notes, thoughts &amp;amp; insights. Richard is the CEO and he has led growth and built go-to-market data systems in high-growth scale-ups. Niko is a second time founder and the CTO. He has been building end-to-end machine learning applications since 2014 and has worked with Natural Language Processing since 2017.&lt;/p&gt;&lt;p&gt;We spoke to Richard and Niko about the common problems data professionals face, how data people create knowledge faster than they can capture it and what challenges that creates, why reducing the cost of note-taking to zero is so important for data work, how AI can help with the retrieval and structuring of ideas, and how to use AI in a product in a thoughtful and meaningful way.&lt;/p&gt;&lt;p&gt;Please enjoy our conversation with the team behind reconfigured!&lt;/p&gt;&lt;p&gt;Find out more about reconfigured here: &lt;a href=&quot;https://reconfigured.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://reconfigured.io&lt;/a&gt;&lt;/p&gt;&lt;p&gt;You can also find &lt;a href=&quot;https://www.linkedin.com/in/richard-makara-6499a273/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Richard&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/nipsuli/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Niko&lt;/a&gt; on LinkedIn.&lt;/p&gt;&lt;p&gt;—&lt;/p&gt;&lt;p&gt;David’s book, The Well-Grounded Data Analyst is out! &lt;a href=&quot;https://www.manning.com/books/the-well-grounded-data-analyst&quot;&gt;⁠https://www.manning.com/books/the-well-grounded-data-analyst⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;If you want to find out more, we have a whole episode about it: &lt;a href=&quot;https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw&quot;&gt;⁠https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:54:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S04E02 - Programming with AI - with Simon Willison]]></title>
+			<description><![CDATA[<p>In this episode we talked to Simon Willison. </p><p>Simon is the creator of Datasette, an open source tool for exploring and publishing data. He currently works full-time building open source tools for data journalism, built around Datasette and SQLite.</p><p>Prior to becoming an independent open source developer, Simon was an engineering director at Eventbrite. Simon joined Eventbrite through their acquisition of Lanyrd, a Y Combinator funded company he co-founded in 2010.</p><p>He is a co-creator of the Django Web Framework, and has been blogging about web development and programming since 2002 at simonwillison.net</p><p>We talked to Simon about his goal of building tools for data journalists, what he&#39;s learned about tinkering with, and writing about, AI models for years, his excitement about their code-generating capabilities, how to get the most out of all of these tools, and what generative AI tools have to do with pelicans.</p><p>You can find Simon at <a href="https://simonwillison.net" target="_blank" rel="noopener noreferer">https://simonwillison.net</a></p><p>Please enjoy our conversation with Simon Willison!</p><p>--</p><p>David&#39;s book, The Well-Grounded Data Analyst is out! <a href="https://www.manning.com/books/the-well-grounded-data-analyst">⁠https://www.manning.com/books/the-well-grounded-data-analyst⁠</a></p><p>If you want to find out more, we have a whole episode about it: <a href="https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw">⁠https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S04E02---Programming-with-AI---with-Simon-Willison-e30t59u</link>
+			<guid isPermaLink="false">d7c63e62-c0e0-4c36-88e2-05b621c3fcea</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Mon, 31 Mar 2025 09:40:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/100619006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-31%2F397541704-44100-2-b3e273bfa6a04.m4a" length="48547830" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode we talked to Simon Willison. &lt;/p&gt;&lt;p&gt;Simon is the creator of Datasette, an open source tool for exploring and publishing data. He currently works full-time building open source tools for data journalism, built around Datasette and SQLite.&lt;/p&gt;&lt;p&gt;Prior to becoming an independent open source developer, Simon was an engineering director at Eventbrite. Simon joined Eventbrite through their acquisition of Lanyrd, a Y Combinator funded company he co-founded in 2010.&lt;/p&gt;&lt;p&gt;He is a co-creator of the Django Web Framework, and has been blogging about web development and programming since 2002 at simonwillison.net&lt;/p&gt;&lt;p&gt;We talked to Simon about his goal of building tools for data journalists, what he&amp;#39;s learned about tinkering with, and writing about, AI models for years, his excitement about their code-generating capabilities, how to get the most out of all of these tools, and what generative AI tools have to do with pelicans.&lt;/p&gt;&lt;p&gt;You can find Simon at &lt;a href=&quot;https://simonwillison.net&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://simonwillison.net&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Please enjoy our conversation with Simon Willison!&lt;/p&gt;&lt;p&gt;--&lt;/p&gt;&lt;p&gt;David&amp;#39;s book, The Well-Grounded Data Analyst is out! &lt;a href=&quot;https://www.manning.com/books/the-well-grounded-data-analyst&quot;&gt;⁠https://www.manning.com/books/the-well-grounded-data-analyst⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;If you want to find out more, we have a whole episode about it: &lt;a href=&quot;https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw&quot;&gt;⁠https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S04E01 - Meaningful uses of AI - with Scott Hanselman]]></title>
+			<description><![CDATA[<p>Season 4, all about AI, has launched! In the first episode of the new season we talked to Scott Hanselman.</p><p><br></p><p>Scott is a programmer, teacher, and speaker. He works out of his home office in Portland, Oregon for Microsoft as the Vice President of Developer Community. He works on .NET, Open Source, and the Azure Cloud Developer Experience, but he also blogs about technology, culture, gadgets, inclusion, code, the web, where we&#39;re going and where we&#39;ve been, and has a number of podcasts and a YouTube channel.</p><p><br></p><p>We talked to Scott about his role at Microsoft and how he still loves to build things. We talked about AI as a brand, the risks of relying too much on tools like ChatGPT, and how developers can use these technologies meaningfully. We also discussed one of our favourite topics on the podcast, dark matter developers, a term we originally learned from a blog post by Scott himself. See episode 4, <a href="https://open.spotify.com/episode/0vEQvguHWuBU8tphSgIBXo?si=K0JVpzy-TWCJNtIyA_lLKA" target="_blank" rel="noopener noreferer">Getting Data</a> in our first season for even more about this term.</p><p><br></p><p>Please enjoy our conversation with Scott Hanselman!</p><p><br></p><p>You can find Scott at <a href="https://www.hanselman.com/" target="_blank" rel="noopener noreferer">https://www.hanselman.com</a></p><p>--</p><p><br></p><p>David&#39;s book, The Well-Grounded Data Analyst is out! <a href="https://www.manning.com/books/the-well-grounded-data-analyst" target="_blank" rel="noopener noreferer">https://www.manning.com/books/the-well-grounded-data-analyst</a></p><p><br></p><p>If you want to find out more, we have a whole episode about it: <a href="https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw" target="_blank" rel="noopener noreferer">https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S04E01---Meaningful-uses-of-AI---with-Scott-Hanselman-e2vkmhu</link>
+			<guid isPermaLink="false">55fcf724-b868-4e3f-99af-dd18ae0aa7f8</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Mon, 03 Mar 2025 11:30:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/99293182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-3%2Fa0278f2c-dc99-dfeb-38d1-c4696e570d40.mp3" length="82427497" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Season 4, all about AI, has launched! In the first episode of the new season we talked to Scott Hanselman.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Scott is a programmer, teacher, and speaker. He works out of his home office in Portland, Oregon for Microsoft as the Vice President of Developer Community. He works on .NET, Open Source, and the Azure Cloud Developer Experience, but he also blogs about technology, culture, gadgets, inclusion, code, the web, where we&amp;#39;re going and where we&amp;#39;ve been, and has a number of podcasts and a YouTube channel.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We talked to Scott about his role at Microsoft and how he still loves to build things. We talked about AI as a brand, the risks of relying too much on tools like ChatGPT, and how developers can use these technologies meaningfully. We also discussed one of our favourite topics on the podcast, dark matter developers, a term we originally learned from a blog post by Scott himself. See episode 4, &lt;a href=&quot;https://open.spotify.com/episode/0vEQvguHWuBU8tphSgIBXo?si=K0JVpzy-TWCJNtIyA_lLKA&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Getting Data&lt;/a&gt; in our first season for even more about this term.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Please enjoy our conversation with Scott Hanselman!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You can find Scott at &lt;a href=&quot;https://www.hanselman.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.hanselman.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;--&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;David&amp;#39;s book, The Well-Grounded Data Analyst is out! &lt;a href=&quot;https://www.manning.com/books/the-well-grounded-data-analyst&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.manning.com/books/the-well-grounded-data-analyst&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If you want to find out more, we have a whole episode about it: &lt;a href=&quot;https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://open.spotify.com/episode/5D0iDtQRh3tWiIhokrjz3x?si=AiX6YyRET16lnzXDlvdcfw&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:42:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Season 3 finale - The Well-Grounded Data Analyst - with David Asboth]]></title>
+			<description><![CDATA[<p>In this episode, Shaun interviews David about his new book, The Well-Grounded Data Analyst.</p><p><br></p><p>We talk about the data skill gap between the classroom and the real world that made David want to write this book, the importance of tackling real-world projects for further learning, and the underlying methodology of the book that helps you learn to solve any data problem.</p><p><br></p><p>If you listen to the end, we also tease our upcoming Season 4 of the podcast.</p><p><br></p><p>Get your copy here: <a href="https://www.manning.com/books/the-well-grounded-data-analyst" target="_blank" rel="noopener noreferer">https://www.manning.com/books/the-well-grounded-data-analyst</a></p><p><br></p><p>Read more about David&#39;s work here: <a href="https://davidasboth.com/" target="_blank" rel="noopener noreferer">https://davidasboth.com/</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/Season-3-finale---The-Well-Grounded-Data-Analyst---with-David-Asboth-e2v0pdt</link>
+			<guid isPermaLink="false">bc8f9298-b888-4a92-8bad-1a6623eb3c74</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Mon, 17 Feb 2025 20:28:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/98640765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-17%2Fd5a2965b-e8de-01fb-7a4d-202b2b168832.mp3" length="95390080" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Shaun interviews David about his new book, The Well-Grounded Data Analyst.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We talk about the data skill gap between the classroom and the real world that made David want to write this book, the importance of tackling real-world projects for further learning, and the underlying methodology of the book that helps you learn to solve any data problem.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If you listen to the end, we also tease our upcoming Season 4 of the podcast.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Get your copy here: &lt;a href=&quot;https://www.manning.com/books/the-well-grounded-data-analyst&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.manning.com/books/the-well-grounded-data-analyst&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Read more about David&amp;#39;s work here: &lt;a href=&quot;https://davidasboth.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://davidasboth.com/&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:49:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E10 - Data science needs you! - with Andrea Jones-Rooy]]></title>
+			<description><![CDATA[<p>If you&#39;re an aspiring analyst and want to test your existing data skills on real-world problems while learning both new skills and a framework you can apply to any problem, David&#39;s book Solve Any Data Analysis Problem is available on the Manning website through the Early Access Program and it&#39;s out in print later this year.</p>
+<p><br></p>
+<p>Find it at <a href="https://www.manning.com/books/solve-any-data-analysis-problem" target="_blank" rel="noopener noreferer">https://www.manning.com/books/solve-any-data-analysis-problem</a></p>
+<p><br></p>
+<p>In this episode, we welcome back a former guest, Andrea Jones-Rooy, Ph.D.</p>
+<p><br></p>
+<p>Andrea is the founder of Data Thinking, an organization dedicated to promoting worldwide data literacy and public involvement in data science. Previously, she was the Director of Undergraduate Studies and Visiting Associate Professor at the NYU Center for Data Science, where she developed and taught their flagship course, Data Science for Everyone, as well as advanced courses on Natural Language Processing. Dr. Jones-Rooy believes everyone has a role to play in data science, and you (yes, you!) can get involved at <a href="https://datascienceneedsyou.com" target="_blank" rel="noopener noreferer">DataScienceNeedsYou.com</a>!</p>
+<p><br></p>
+<p>We spoke to Andrea about how to teach people the scientific method and to deal with uncertainty, the impact of generative AI on teaching these topics, whether these skills should be called &quot;data thinking&quot; instead of &quot;data science&quot;, and how you even convince people these are the skills worth learning.</p>
+<p><br></p>
+<p>Find Andrea at <a href="https://datascienceneedsyou.com" target="_blank" rel="noopener noreferer">https://datascienceneedsyou.com</a> or on social media platforms as @jonesrooy</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E10---Data-science-needs-you----with-Andrea-Jones-Rooy-e2jvpqf</link>
+			<guid isPermaLink="false">65b6fafa-4597-4a9d-b4fc-dcfa08aa0b91</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Wed, 22 May 2024 14:30:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/87074063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-22%2F52cc0f4f-9ac3-8009-49a9-fddebbfa77b1.mp3" length="114982340" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;If you&amp;#39;re an aspiring analyst and want to test your existing data skills on real-world problems while learning both new skills and a framework you can apply to any problem, David&amp;#39;s book Solve Any Data Analysis Problem is available on the Manning website through the Early Access Program and it&amp;#39;s out in print later this year.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Find it at &lt;a href=&quot;https://www.manning.com/books/solve-any-data-analysis-problem&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.manning.com/books/solve-any-data-analysis-problem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In this episode, we welcome back a former guest, Andrea Jones-Rooy, Ph.D.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Andrea is the founder of Data Thinking, an organization dedicated to promoting worldwide data literacy and public involvement in data science. Previously, she was the Director of Undergraduate Studies and Visiting Associate Professor at the NYU Center for Data Science, where she developed and taught their flagship course, Data Science for Everyone, as well as advanced courses on Natural Language Processing. Dr. Jones-Rooy believes everyone has a role to play in data science, and you (yes, you!) can get involved at &lt;a href=&quot;https://datascienceneedsyou.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;DataScienceNeedsYou.com&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We spoke to Andrea about how to teach people the scientific method and to deal with uncertainty, the impact of generative AI on teaching these topics, whether these skills should be called &amp;quot;data thinking&amp;quot; instead of &amp;quot;data science&amp;quot;, and how you even convince people these are the skills worth learning.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Find Andrea at &lt;a href=&quot;https://datascienceneedsyou.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://datascienceneedsyou.com&lt;/a&gt; or on social media platforms as @jonesrooy&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E09 - Statistical rethinking - with Richard McElreath]]></title>
+			<description><![CDATA[<p>A reminder that David&#39;s book, Solve Any Data Analysis Problem, is out later this year and you can already buy it and read it in its draft form as part of Manning&#39;s Early Access Program. If you want to practise your data skills on real world problems and learn a reusable framework to use on any project in the future, this book is for you.</p>
+<p>Find out more here: <a href="https://www.manning.com/books/solve-any-data-analysis-problem">⁠https://www.manning.com/books/solve-any-data-analysis-problem⁠</a></p>
+<p>Now onto today&#39;s episode.</p>
+<p>In this episode, we spoke to Richard McElreath.</p>
+<p><br></p>
+<p>Richard is an anthropologist focused on the role of culture in human evolution and adaptation. He is currently the Director of the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. A major focus of the department is integrating theory with data analysis and study design, and Richard spends much of his time supporting his colleagues in that way. He is the author of Statistical Rethinking, a popular Bayesian statistics textbook and video course.</p>
+<p><br></p>
+<p>We spoke to Richard about the state of scientific research, parallels between the problems in scientific research and doing data analysis in the business world, and to quote Richard, how, if we are very careful and try very hard, we might not completely mislead ourselves.</p>
+<p><br></p>
+<p>Richard&#39;s departmental page: <a href="https://www.eva.mpg.de/ecology/staff/richard-mcelreath" target="_blank" rel="noopener noreferer">https://www.eva.mpg.de/ecology/staff/richard-mcelreath</a></p>
+<p>Richard&#39;s blog: <a href="https://elevanth.org/blog" target="_blank" rel="noopener noreferer">https://elevanth.org/blog</a></p>
+<p>Richard on Twitter: <a href="https://twitter.com/rlmcelreath" target="_blank" rel="noopener noreferer">https://twitter.com/rlmcelreath</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E09---Statistical-rethinking---with-Richard-McElreath-e2im6o7</link>
+			<guid isPermaLink="false">7cc36b47-21d5-4bb3-bd15-1d4c31db0149</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sun, 21 Apr 2024 16:52:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/85711047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-21%2F9ec5ea8d-dc43-b86b-0db9-443be7761cf1.mp3" length="125511568" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A reminder that David&amp;#39;s book, Solve Any Data Analysis Problem, is out later this year and you can already buy it and read it in its draft form as part of Manning&amp;#39;s Early Access Program. If you want to practise your data skills on real world problems and learn a reusable framework to use on any project in the future, this book is for you.&lt;/p&gt;
+&lt;p&gt;Find out more here: &lt;a href=&quot;https://www.manning.com/books/solve-any-data-analysis-problem&quot;&gt;⁠https://www.manning.com/books/solve-any-data-analysis-problem⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now onto today&amp;#39;s episode.&lt;/p&gt;
+&lt;p&gt;In this episode, we spoke to Richard McElreath.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Richard is an anthropologist focused on the role of culture in human evolution and adaptation. He is currently the Director of the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. A major focus of the department is integrating theory with data analysis and study design, and Richard spends much of his time supporting his colleagues in that way. He is the author of Statistical Rethinking, a popular Bayesian statistics textbook and video course.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We spoke to Richard about the state of scientific research, parallels between the problems in scientific research and doing data analysis in the business world, and to quote Richard, how, if we are very careful and try very hard, we might not completely mislead ourselves.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Richard&amp;#39;s departmental page: &lt;a href=&quot;https://www.eva.mpg.de/ecology/staff/richard-mcelreath&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.eva.mpg.de/ecology/staff/richard-mcelreath&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Richard&amp;#39;s blog: &lt;a href=&quot;https://elevanth.org/blog&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://elevanth.org/blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Richard on Twitter: &lt;a href=&quot;https://twitter.com/rlmcelreath&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://twitter.com/rlmcelreath&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:05:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E08 - The market view of data education - with Richie Cotton]]></title>
+			<description><![CDATA[<p>A reminder that David&#39;s book, Solve Any Data Analysis Problem, is out later this year and you can already buy it and read it in its draft form as part of Manning&#39;s Early Access Program. If you want to practise your data skills on real world problems and learn a reusable framework to use on any project in the future, this book is for you.</p>
+<p>Find out more here: <a href="https://www.manning.com/books/solve-any-data-analysis-problem" target="_blank" rel="noopener noreferer">https://www.manning.com/books/solve-any-data-analysis-problem</a></p>
+<p>Now onto today&#39;s episode. We&#39;re continuing our series of conversations about data education and in this episode we spoke to Richie Cotton.</p>
+<p>Richie is a data evangelist at DataCamp. He started his career as a data scientist, working in industries from chemical health and safety to debt collection to proteomics. After joining DataCamp in 2016, he switched to teaching data and AI skills. He has created ten courses on data science that have been taken by over 700k learners, and worked with instructors to create over 50 courses that have been taken by millions of learners. Richie has also written two books and R programming, Learning R and Testing R Code.</p>
+<p>In his current role, Richie hosts the DataFramed podcast and runs the DataCamp webinar program, as well as creating tutorials and cheat sheets for data and AI skills.</p>
+<p>We spoke to Richie about how DataCamp&#39;s offering and focus has changed over time to meet market demands, with some inevitable comments about Python vs R, what the impact of generative AI has been on data education, and what the future holds.</p>
+<p>You can find Richie and his work on various parts of the internet:</p>
+<ul>
+ <li>Connect with Richie on LinkedIn: <a href="https://www.linkedin.com/in/richierocks" target="_blank" rel="noopener">https://www.linkedin.com/in/richierocks</a></li>
+ <li>Listen to the DataFramed podcast: <a href="https://www.datacamp.com/podcast" target="_blank" rel="noopener">https://www.datacamp.com/podcast</a></li>
+  <li>Attend DataCamp webinars: <a href="https://www.datacamp.com/webinars" target="_blank" rel="noopener">https://www.datacamp.com/webinars</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E08---The-market-view-of-data-education---with-Richie-Cotton-e2gu00n</link>
+			<guid isPermaLink="false">4e4989ed-aca4-47b2-8dbb-2cb99dffa704</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Mon, 11 Mar 2024 14:32:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/83869143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-11%2Fefc791e3-25a5-0f41-3992-d45e056159ed.mp3" length="89305431" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A reminder that David&amp;#39;s book, Solve Any Data Analysis Problem, is out later this year and you can already buy it and read it in its draft form as part of Manning&amp;#39;s Early Access Program. If you want to practise your data skills on real world problems and learn a reusable framework to use on any project in the future, this book is for you.&lt;/p&gt;
+&lt;p&gt;Find out more here: &lt;a href=&quot;https://www.manning.com/books/solve-any-data-analysis-problem&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.manning.com/books/solve-any-data-analysis-problem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now onto today&amp;#39;s episode. We&amp;#39;re continuing our series of conversations about data education and in this episode we spoke to Richie Cotton.&lt;/p&gt;
+&lt;p&gt;Richie is a data evangelist at DataCamp. He started his career as a data scientist, working in industries from chemical health and safety to debt collection to proteomics. After joining DataCamp in 2016, he switched to teaching data and AI skills. He has created ten courses on data science that have been taken by over 700k learners, and worked with instructors to create over 50 courses that have been taken by millions of learners. Richie has also written two books and R programming, Learning R and Testing R Code.&lt;/p&gt;
+&lt;p&gt;In his current role, Richie hosts the DataFramed podcast and runs the DataCamp webinar program, as well as creating tutorials and cheat sheets for data and AI skills.&lt;/p&gt;
+&lt;p&gt;We spoke to Richie about how DataCamp&amp;#39;s offering and focus has changed over time to meet market demands, with some inevitable comments about Python vs R, what the impact of generative AI has been on data education, and what the future holds.&lt;/p&gt;
+&lt;p&gt;You can find Richie and his work on various parts of the internet:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Connect with Richie on LinkedIn: &lt;a href=&quot;https://www.linkedin.com/in/richierocks&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.linkedin.com/in/richierocks&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Listen to the DataFramed podcast: &lt;a href=&quot;https://www.datacamp.com/podcast&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.datacamp.com/podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Attend DataCamp webinars: &lt;a href=&quot;https://www.datacamp.com/webinars&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.datacamp.com/webinars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:46:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E07 - The power of data storytelling - with Kat Greenbrook]]></title>
+			<description><![CDATA[<p>A reminder that David&#39;s book Solve Any Data Analysis Problem is available in Manning&#39;s Early Access Program!</p>
+<p>You can read more about it here: <a href="https://www.manning.com/books/solve-any-data-analysis-problem">⁠https://www.manning.com/books/solve-any-data-analysis-problem⁠</a> (if it&#39;s not on offer when you&#39;re there, you can get 35% off with the code <strong>au35asb</strong>).</p>
+<p>-----------------------------------------------</p>
+<p>In today&#39;s episode, we talked to Kat Greenbrook. Kat is a Data Storyteller from Aotearoa, New Zealand. She is a consultant, 
+workshop facilitator, industry speaker, and founder of the data 
+storytelling company Rogue Penguin. With a unique blend of science, business, and design, she empowers data professionals to communicate data effectively through storytelling.</p>
+<p>Her book, The Data Storyteller&#39;s Handbook is out now! You can find Kat and the book at <a href="https://www.roguepenguin.co.nz" target="_blank" rel="noopener noreferer">https://www.roguepenguin.co.nz</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E07---The-power-of-data-storytelling---with-Kat-Greenbrook-e2de9mn</link>
+			<guid isPermaLink="false">da036854-a53a-4410-bf9d-187408e2bea1</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Tue, 19 Dec 2023 11:19:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/80209047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-19%2Fa3703778-bfaf-8786-ff2c-c11c91a917f3.mp3" length="45764534" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A reminder that David&amp;#39;s book Solve Any Data Analysis Problem is available in Manning&amp;#39;s Early Access Program!&lt;/p&gt;
+&lt;p&gt;You can read more about it here: &lt;a href=&quot;https://www.manning.com/books/solve-any-data-analysis-problem&quot;&gt;⁠https://www.manning.com/books/solve-any-data-analysis-problem⁠&lt;/a&gt; (if it&amp;#39;s not on offer when you&amp;#39;re there, you can get 35% off with the code &lt;strong&gt;au35asb&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;-----------------------------------------------&lt;/p&gt;
+&lt;p&gt;In today&amp;#39;s episode, we talked to Kat Greenbrook. Kat is a Data Storyteller from Aotearoa, New Zealand. She is a consultant, 
+workshop facilitator, industry speaker, and founder of the data 
+storytelling company Rogue Penguin. With a unique blend of science, business, and design, she empowers data professionals to communicate data effectively through storytelling.&lt;/p&gt;
+&lt;p&gt;Her book, The Data Storyteller&amp;#39;s Handbook is out now! You can find Kat and the book at &lt;a href=&quot;https://www.roguepenguin.co.nz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.roguepenguin.co.nz&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:47:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E06 - Reimagining data analytics training - with James Cotton]]></title>
+			<description><![CDATA[<p>First of all, David&#39;s book Solve Any Data Analysis Problem is available in Manning&#39;s Early Access Program!</p>
+<p>You can read more about it here: <a href="https://www.manning.com/books/solve-any-data-analysis-problem" target="_blank" rel="noopener">https://www.manning.com/books/solve-any-data-analysis-problem</a> (if it&#39;s not on offer when you&#39;re there, you can get 35% off with the code <strong>au35asb</strong>).</p>
+<p>-----------------------------------------------</p>
+<p>In this episode, we talked to James Cotton, co-founder of iO-Sphere.</p>
+<p>Canadian originally, James has been working in the UK for the last 10 years, always in analytics, pricing, and data science. After a short stint in insurance he was at hotels.com for 3.5 years always working in customer analytics and marketing analytics. He then went to worldremit – a large uk fintech company that’s sort of like a digital western union. There he built out a team, growing it significantly. Over the past 7 or 8 years he’s hired dozens and dozens of data professionals of all levels – clearly seeing the gap between existing data training programmes and courses and the real need in industry.</p>
+<p>James is one of the founders of iO-Sphere, which was created in order to close that gap with actually useful, practical, training. They also fund all the training of everyone that comes onto the programme – helping to lower financial barriers to accessing high quality training and these careers.</p>
+<p>We talked to James about the skill gap between training and the real world, why no one has thought to close that gap in the way io-Sphere have, whether standardisation makes sense for the analytics industry, and of course where AI fits into all this.</p>
+<p>Find out more about iO-Sphere here: <a href="https://io-sphere.io" target="_blank" rel="noopener">https://io-sphere.io</a></p>
+<p>You can find James on LinkedIn: <a href="https://www.linkedin.com/in/jccotton" target="_blank" rel="noopener">https://www.linkedin.com/in/jccotton</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E06---Reimagining-data-analytics-training---with-James-Cotton-e2ctcho</link>
+			<guid isPermaLink="false">4b412cfe-d337-4f07-bc90-2ee82d85c305</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Wed, 06 Dec 2023 16:45:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/79654904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-6%2F918faec7-5886-da30-70f4-0753816cbaf7.mp3" length="52598165" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;First of all, David&amp;#39;s book Solve Any Data Analysis Problem is available in Manning&amp;#39;s Early Access Program!&lt;/p&gt;
+&lt;p&gt;You can read more about it here: &lt;a href=&quot;https://www.manning.com/books/solve-any-data-analysis-problem&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.manning.com/books/solve-any-data-analysis-problem&lt;/a&gt; (if it&amp;#39;s not on offer when you&amp;#39;re there, you can get 35% off with the code &lt;strong&gt;au35asb&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;-----------------------------------------------&lt;/p&gt;
+&lt;p&gt;In this episode, we talked to James Cotton, co-founder of iO-Sphere.&lt;/p&gt;
+&lt;p&gt;Canadian originally, James has been working in the UK for the last 10 years, always in analytics, pricing, and data science. After a short stint in insurance he was at hotels.com for 3.5 years always working in customer analytics and marketing analytics. He then went to worldremit – a large uk fintech company that’s sort of like a digital western union. There he built out a team, growing it significantly. Over the past 7 or 8 years he’s hired dozens and dozens of data professionals of all levels – clearly seeing the gap between existing data training programmes and courses and the real need in industry.&lt;/p&gt;
+&lt;p&gt;James is one of the founders of iO-Sphere, which was created in order to close that gap with actually useful, practical, training. They also fund all the training of everyone that comes onto the programme – helping to lower financial barriers to accessing high quality training and these careers.&lt;/p&gt;
+&lt;p&gt;We talked to James about the skill gap between training and the real world, why no one has thought to close that gap in the way io-Sphere have, whether standardisation makes sense for the analytics industry, and of course where AI fits into all this.&lt;/p&gt;
+&lt;p&gt;Find out more about iO-Sphere here: &lt;a href=&quot;https://io-sphere.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://io-sphere.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find James on LinkedIn: &lt;a href=&quot;https://www.linkedin.com/in/jccotton&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.linkedin.com/in/jccotton&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:54:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E05 - Code quality for data science - with Laszlo Sragner]]></title>
+			<description><![CDATA[<p>In this episode, we continued our season of talking to data educators and spoke to Laszlo Sragner.</p>
+<p>Laszlo runs Hypergolic, a boutique consultancy in London specialising in Machine Learning Product Management.</p>
+<p>Formerly, he was Head of Data Science at Arkera, a fintech startup in London, where he built market intelligence products with Natural Language Processing for Tier 1 investment banks and hedge funds.</p>
+<p>Before that, Laszlo worked in mobile gaming for King Digital (makers of Candy Crush), specialising in player behaviour and monetisation.</p>
+<p>He started his career as a quant researcher implementing trading strategies at multiple investment managers.</p>
+<p>We talked to Laszlo about consulting in the area of machine learning, what data scientists can learn from software engineers, how to upskill data scientists to be better programmers and make programming their craft, and of course how AI tools will impact all of this.</p>
+<p>You can find Laszlo online:</p>
+<ul>
+ <li>On LinkedIn: <a href="https://www.linkedin.com/in/laszlosragner">https://www.linkedin.com/in/laszlosragner</a></li>
+ <li>In the Code Quality 4 Data Science community: <a href="https://cq4ds.com">https://cq4ds.com</a></li>
+  <li>Laszlo&#39;s company, Hypergolic: <a href="https://hypergolic.co.uk">https://hypergolic.co.uk</a></li>
+  <li>Laszlo&#39;s newsletter, &quot;Deliberate Machine Learning&quot;: <a href="https://laszlo.substack.com">https://laszlo.substack.com</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E05---Code-quality-for-data-science---with-Laszlo-Sragner-e2aeija</link>
+			<guid isPermaLink="false">cb0b3e97-2ab2-4b6f-9dd5-a953b2f325e9</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Wed, 11 Oct 2023 14:02:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/77072426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-11%2Fd63d1721-db1e-bfbf-55a6-ad0f60873d4f.mp3" length="43387606" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, we continued our season of talking to data educators and spoke to Laszlo Sragner.&lt;/p&gt;
+&lt;p&gt;Laszlo runs Hypergolic, a boutique consultancy in London specialising in Machine Learning Product Management.&lt;/p&gt;
+&lt;p&gt;Formerly, he was Head of Data Science at Arkera, a fintech startup in London, where he built market intelligence products with Natural Language Processing for Tier 1 investment banks and hedge funds.&lt;/p&gt;
+&lt;p&gt;Before that, Laszlo worked in mobile gaming for King Digital (makers of Candy Crush), specialising in player behaviour and monetisation.&lt;/p&gt;
+&lt;p&gt;He started his career as a quant researcher implementing trading strategies at multiple investment managers.&lt;/p&gt;
+&lt;p&gt;We talked to Laszlo about consulting in the area of machine learning, what data scientists can learn from software engineers, how to upskill data scientists to be better programmers and make programming their craft, and of course how AI tools will impact all of this.&lt;/p&gt;
+&lt;p&gt;You can find Laszlo online:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;On LinkedIn: &lt;a href=&quot;https://www.linkedin.com/in/laszlosragner&quot;&gt;https://www.linkedin.com/in/laszlosragner&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;In the Code Quality 4 Data Science community: &lt;a href=&quot;https://cq4ds.com&quot;&gt;https://cq4ds.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Laszlo&amp;#39;s company, Hypergolic: &lt;a href=&quot;https://hypergolic.co.uk&quot;&gt;https://hypergolic.co.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Laszlo&amp;#39;s newsletter, &amp;quot;Deliberate Machine Learning&amp;quot;: &lt;a href=&quot;https://laszlo.substack.com&quot;&gt;https://laszlo.substack.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E04 - The language of data literacy - with Valerie Logan]]></title>
+			<description><![CDATA[<p>Continuing our series of conversations with data educators, in this episode we spoke to Valerie Logan.</p>
+<p>Founding The Data Lodge in 2019, Valerie is as committed to data literacy as it gets.  She believes that in today&#39;s digital society, data literacy is not just a work skill- it&#39;s a life skill.  With advisory services, train-the-trainer bootcamps, an extensive resource library and community services at The Data Lodge, Valerie is certifying the world’s first Data Literacy Program Leads across commercial, nonprofit and public sectors.</p>
+<p>In 2022, The Data Lodge was recognized by CDO Magazine as one of the &quot;Top 25 Data Startups to Watch in 2022&quot;.  Valerie has more than 28 years of experience, including two decades of global consulting across industries, and five years of applied experience in the telecommunications industry at both field and enterprise levels. She holds a B.S. in Math from SUNY College at Buffalo and an M.S. in Applied Math with a concentration in Operations Research from New Mexico State.</p>
+<p>We talked to Valerie about how literacy in data is like literacy in any language, how to spread data literacy effectively in a business, what are some obstacles to doing this, how you measure the success of a data literacy program, and of course the effect of the emergence of AI on all of the above. Valerie even made a custom Scrabble board just for this episode, you can see that on our website <a href="http://halfstackdatascience.com">halfstackdatascience.com</a></p>
+<p>If you enjoy our podcast, please consider rating and reviewing it on Apple, Spotify, or wherever you listen to podcasts.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E04---The-language-of-data-literacy---with-Valerie-Logan-e29e6r8</link>
+			<guid isPermaLink="false">dcd9f25b-f6b2-489c-bcd3-99ca8126bed9</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sun, 17 Sep 2023 17:26:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/76011816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-17%2F73c1f36c-3c23-18c5-f939-45c46e24a7e8.mp3" length="48067070" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Continuing our series of conversations with data educators, in this episode we spoke to Valerie Logan.&lt;/p&gt;
+&lt;p&gt;Founding The Data Lodge in 2019, Valerie is as committed to data literacy as it gets.  She believes that in today&amp;#39;s digital society, data literacy is not just a work skill- it&amp;#39;s a life skill.  With advisory services, train-the-trainer bootcamps, an extensive resource library and community services at The Data Lodge, Valerie is certifying the world’s first Data Literacy Program Leads across commercial, nonprofit and public sectors.&lt;/p&gt;
+&lt;p&gt;In 2022, The Data Lodge was recognized by CDO Magazine as one of the &amp;quot;Top 25 Data Startups to Watch in 2022&amp;quot;.  Valerie has more than 28 years of experience, including two decades of global consulting across industries, and five years of applied experience in the telecommunications industry at both field and enterprise levels. She holds a B.S. in Math from SUNY College at Buffalo and an M.S. in Applied Math with a concentration in Operations Research from New Mexico State.&lt;/p&gt;
+&lt;p&gt;We talked to Valerie about how literacy in data is like literacy in any language, how to spread data literacy effectively in a business, what are some obstacles to doing this, how you measure the success of a data literacy program, and of course the effect of the emergence of AI on all of the above. Valerie even made a custom Scrabble board just for this episode, you can see that on our website &lt;a href=&quot;http://halfstackdatascience.com&quot;&gt;halfstackdatascience.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you enjoy our podcast, please consider rating and reviewing it on Apple, Spotify, or wherever you listen to podcasts.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E03 - Effective Python teaching - with Matt Harrison]]></title>
+			<description><![CDATA[<p>In this episode of Half Stack Data Science we continue our season 3 all about data science education, with a conversation with Matt Harrison.</p>
+<p>Matt stands as a prominent figure in the Python and data science community. A Stanford Computer Science alumnus, he&#39;s made significant contributions through his best-selling books, which include titles like &quot;Effective Pandas&quot;, &quot;Effective XGBoost&quot;, &quot;Machine Learning Pocket Reference&quot;, and &quot;Illustrated Guide to Learning Python 3.&quot; Beyond authorship, Matt has shared his expertise at major corporations such as Netflix and NASA, as well as academic institutions like Stanford, the University of Utah, and BYU. With a Python journey beginning in 2000, he&#39;s equipped thousands with vital skills, both online and in-person. He runs MetaSnake, a Python and Data training company.</p>
+<p>We talked to Matt about the pushback he gets whenever he posts code online, what we all think of Excel’s newly announced Python integration, how ChatGPT has affected our work, and whether cooking is a good metaphor for programming.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E03---Effective-Python-teaching---with-Matt-Harrison-e28p2db</link>
+			<guid isPermaLink="false">07735274-2aa0-45db-a160-aa5a65e494be</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Thu, 31 Aug 2023 18:52:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/75319147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2Fc5c025f0-5496-79b4-1276-847d0f48eb79.mp3" length="35053075" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Half Stack Data Science we continue our season 3 all about data science education, with a conversation with Matt Harrison.&lt;/p&gt;
+&lt;p&gt;Matt stands as a prominent figure in the Python and data science community. A Stanford Computer Science alumnus, he&amp;#39;s made significant contributions through his best-selling books, which include titles like &amp;quot;Effective Pandas&amp;quot;, &amp;quot;Effective XGBoost&amp;quot;, &amp;quot;Machine Learning Pocket Reference&amp;quot;, and &amp;quot;Illustrated Guide to Learning Python 3.&amp;quot; Beyond authorship, Matt has shared his expertise at major corporations such as Netflix and NASA, as well as academic institutions like Stanford, the University of Utah, and BYU. With a Python journey beginning in 2000, he&amp;#39;s equipped thousands with vital skills, both online and in-person. He runs MetaSnake, a Python and Data training company.&lt;/p&gt;
+&lt;p&gt;We talked to Matt about the pushback he gets whenever he posts code online, what we all think of Excel’s newly announced Python integration, how ChatGPT has affected our work, and whether cooking is a good metaphor for programming.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E02 - The joy of teaching Python - with Reuven Lerner]]></title>
+			<description><![CDATA[<p>In this episode of Half Stack Data Science we continue our season 3, all about data science education, with a conversation with Reuven Lerner.</p>
+<p>Reuven is a full-time Python trainer with a bachelor&#39;s degree in computer science and engineering from MIT, and a PhD in learning sciences from Northwestern University. </p>
+<p>In 2020, Reuven published &quot;Python Workout&quot; a collection of Python exercises with extensive explanations, published by Manning. He&#39;s currently working on &quot;Pandas workout&quot; a similar collection of exercises using the &quot;pandas&quot; library for data analytics.</p>
+<p>Reuven&#39;s free, weekly &quot;Better developers&quot; newsletter, about Python and software engineering, is read by more than 30,000 developers around the globe.</p>
+<p>Reuven&#39;s most recent venture is Bamboo Weekly: Every Wednesday, he presents a problem based on current events, using a public data set. And every Thursday, he shared detailed solutions to those problems using Pandas.</p>
+<p>We spoke to Reuven about his love of teaching Python to beginners, what he thinks of notebooks and ChatGPT as educational tools, and how he got banned for life from advertising on Facebook.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E02---The-joy-of-teaching-Python---with-Reuven-Lerner-e27tq64</link>
+			<guid isPermaLink="false">9cca45e8-efc5-4ba2-b4c0-f8d5893529c6</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Wed, 09 Aug 2023 13:18:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/74425988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-9%2F7f67d2c2-916b-1f16-a3fa-97e2c99113ad.mp3" length="39162485" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Half Stack Data Science we continue our season 3, all about data science education, with a conversation with Reuven Lerner.&lt;/p&gt;
+&lt;p&gt;Reuven is a full-time Python trainer with a bachelor&amp;#39;s degree in computer science and engineering from MIT, and a PhD in learning sciences from Northwestern University. &lt;/p&gt;
+&lt;p&gt;In 2020, Reuven published &amp;quot;Python Workout&amp;quot; a collection of Python exercises with extensive explanations, published by Manning. He&amp;#39;s currently working on &amp;quot;Pandas workout&amp;quot; a similar collection of exercises using the &amp;quot;pandas&amp;quot; library for data analytics.&lt;/p&gt;
+&lt;p&gt;Reuven&amp;#39;s free, weekly &amp;quot;Better developers&amp;quot; newsletter, about Python and software engineering, is read by more than 30,000 developers around the globe.&lt;/p&gt;
+&lt;p&gt;Reuven&amp;#39;s most recent venture is Bamboo Weekly: Every Wednesday, he presents a problem based on current events, using a public data set. And every Thursday, he shared detailed solutions to those problems using Pandas.&lt;/p&gt;
+&lt;p&gt;We spoke to Reuven about his love of teaching Python to beginners, what he thinks of notebooks and ChatGPT as educational tools, and how he got banned for life from advertising on Facebook.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S03E01 - Preparing analysts for the real world - with Lisa Carpenter]]></title>
+			<description><![CDATA[<p>In this episode, David &amp; Shaun talk to Lisa Carpenter. Lisa is the lead data science instructor at Digital Futures, with responsibility for the design and delivery of the Data Science programme. Prior to transitioning to teaching, Lisa gained over 10 years of experience in the data industry. Lisa is passionate about empowering people through digital skills and thoroughly enjoys seeing students grow their data careers.</p>
+<p>Among many topics, we discussed how chefs are retraining to be data scientists, why Lisa doesn&#39;t like the &quot;let me Google that for you&quot; website, and the present and future of data education.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S03E01---Preparing-analysts-for-the-real-world---with-Lisa-Carpenter-e27edjg</link>
+			<guid isPermaLink="false">ca25100c-e388-4179-bff5-dfa600d105d6</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Thu, 27 Jul 2023 09:14:28 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/73921584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-27%2F415f9176-f144-ba1a-7757-d94b5f61cf84.mp3" length="34958238" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, David &amp;amp; Shaun talk to Lisa Carpenter. Lisa is the lead data science instructor at Digital Futures, with responsibility for the design and delivery of the Data Science programme. Prior to transitioning to teaching, Lisa gained over 10 years of experience in the data industry. Lisa is passionate about empowering people through digital skills and thoroughly enjoys seeing students grow their data careers.&lt;/p&gt;
+&lt;p&gt;Among many topics, we discussed how chefs are retraining to be data scientists, why Lisa doesn&amp;#39;t like the &amp;quot;let me Google that for you&amp;quot; website, and the present and future of data education.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Season 3 Teaser]]></title>
+			<description><![CDATA[<p>The Half Stack Data Science podcast is back (again)! Season 3 is coming very soon. In the meantime, listen to our teaser episode where we briefly recap our first 2 seasons and introduce the concept behind season 3; a series of interviews with educators who are bringing data science to the people!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/Season-3-Teaser-e25602s</link>
+			<guid isPermaLink="false">7bb8df36-375a-486c-ae2a-c3fc170359fa</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sun, 04 Jun 2023 18:16:48 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/71548444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-3%2F95cd6511-2a8f-a965-838e-0f3f54ebfd8d.mp3" length="4162500" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;The Half Stack Data Science podcast is back (again)! Season 3 is coming very soon. In the meantime, listen to our teaser episode where we briefly recap our first 2 seasons and introduce the concept behind season 3; a series of interviews with educators who are bringing data science to the people!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:04:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Data Science Festival Special: Bridging the Supply-Demand Gap in Data Science]]></title>
+			<description><![CDATA[<p>In this episode we bring you our talk from the recent <a href="https://live.datasciencefestival.com/" rel="noreferrer noopener" target="_blank">Data Science Festival</a> in London. Our talk was titled "Bridging the data science supply-demand gap" and it was all about topics that will be familiar to listeners. We tackled the question "how is it that there is an abundance of junior data scientists and open data science positions yet the job market is unsatisfactory for both sides"? A huge thank you to Data Science Festival for having us, and for allowing us to share the audio with our audience!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/Data-Science-Festival-Special-Bridging-the-Supply-Demand-Gap-in-Data-Science-e1c1qld</link>
+			<guid isPermaLink="false">7119a0bc-ad4b-41ed-8f59-83f82a1414ea</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Wed, 22 Dec 2021 10:15:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/45197421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-22%2F6f771e65-b4f6-edbe-5fb2-762af480e761.mp3" length="37987003" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode we bring you our talk from the recent &lt;a href=&quot;https://live.datasciencefestival.com/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Data Science Festival&lt;/a&gt; in London. Our talk was titled &quot;Bridging the data science supply-demand gap&quot; and it was all about topics that will be familiar to listeners. We tackled the question &quot;how is it that there is an abundance of junior data scientists and open data science positions yet the job market is unsatisfactory for both sides&quot;? A huge thank you to Data Science Festival for having us, and for allowing us to share the audio with our audience!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/7409712/cad9457b6f860918.jpeg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[AI Today special with Ron Schmelzer and Kathleen Walch]]></title>
+			<description><![CDATA[<p>In this special episode we did a podcast host swap with the hosts of the AI Today podcast.</p>
+<p>Cognilytica's AI Today podcast focuses on relevant information about what's going on today in the world of artificial intelligence. Hosts Kathleen Walch and Ron Schmelzer discuss pressing topics around artificial intelligence with easy to digest content, interview guests and experts on the subject, and cut through the hype and noise to identify what is really happening with adoption and implementation of AI.</p>
+<p>We spoke to Ron and Kathleen about what they do, their backgrounds, the realities of AI in industry today, and what they learned from years of speaking to various leaders in the field.</p>
+<p>Please enjoy our conversation with Ron and Kathleen! Be sure to check out their podcast here: <a href="https://www.cognilytica.com/aitoday/">https://www.cognilytica.com/aitoday/</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/AI-Today-special-with-Ron-Schmelzer-and-Kathleen-Walch-e15hu5o</link>
+			<guid isPermaLink="false">99245768-5300-47d8-90ce-23c7cc5108ca</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Wed, 18 Aug 2021 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/38385272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-6%2F0d373a7a-c794-d1aa-024e-e1b0c8150a55.mp3" length="41520528" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this special episode we did a podcast host swap with the hosts of the AI Today podcast.&lt;/p&gt;
+&lt;p&gt;Cognilytica&apos;s AI Today podcast focuses on relevant information about what&apos;s going on today in the world of artificial intelligence. Hosts Kathleen Walch and Ron Schmelzer discuss pressing topics around artificial intelligence with easy to digest content, interview guests and experts on the subject, and cut through the hype and noise to identify what is really happening with adoption and implementation of AI.&lt;/p&gt;
+&lt;p&gt;We spoke to Ron and Kathleen about what they do, their backgrounds, the realities of AI in industry today, and what they learned from years of speaking to various leaders in the field.&lt;/p&gt;
+&lt;p&gt;Please enjoy our conversation with Ron and Kathleen! Be sure to check out their podcast here: &lt;a href=&quot;https://www.cognilytica.com/aitoday/&quot;&gt;https://www.cognilytica.com/aitoday/&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:43:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2E4 - Chris Moffitt]]></title>
+			<description><![CDATA[<p>In this episode of Half Stack Data Science we continue our series "The Orthogonals" with a conversation with Chris Moffitt.</p>
+<p>Chris is a Senior Manager Strategic Pricing &amp; Analytics in the medical device industry. He is an active Python user with over 15 years of experience using Python for everything from web development to system administration and most recently data science. He is the author of the popular blog Practical Business Python (pbpython.com) where he describes how to use Python to solve common business problems.&nbsp;</p>
+<p>We spoke to Chris about how he has used Python to his benefit at work, how the desire for automation is a mindset, and the future of complex machine learning models in the business world. Chris is entirely self-taught when it comes to using Python and you'll hear him reflect on this when he says "There's no way to learn programming outside of programming".</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S2E4---Chris-Moffitt-eraqoj</link>
+			<guid isPermaLink="false">e21dae3b-1def-46e8-b5aa-52d65dd17737</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Tue, 02 Mar 2021 09:58:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/27666643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-2%2F6a112856-957a-c38e-6943-278f36f6273e.mp3" length="45716002" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Half Stack Data Science we continue our series &quot;The Orthogonals&quot; with a conversation with Chris Moffitt.&lt;/p&gt;
+&lt;p&gt;Chris is a Senior Manager Strategic Pricing &amp;amp; Analytics in the medical device industry. He is an active Python user with over 15 years of experience using Python for everything from web development to system administration and most recently data science. He is the author of the popular blog Practical Business Python (pbpython.com) where he describes how to use Python to solve common business problems.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We spoke to Chris about how he has used Python to his benefit at work, how the desire for automation is a mindset, and the future of complex machine learning models in the business world. Chris is entirely self-taught when it comes to using Python and you&apos;ll hear him reflect on this when he says &quot;There&apos;s no way to learn programming outside of programming&quot;.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:47:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2E3 - Joana Wang]]></title>
+			<description><![CDATA[<p>In this episode of "the orthogonals" we spoke to Joana Wang. Joana is a data aficionado with a passion for education. Her ambition is to help people demystify the world of data and make analytics second nature while having fun.</p>
+<p>Having worked both in strategy consulting and industry, she's had projects across retail &amp; wholesale, supply chain and financial services. In her last 8 years of experience, she's spent most of her time doing financial modelling, building bespoke data analytics products and wrangling data - a lot of it! This has required her to not only be able to technically develop solutions but also understand the wider business context and relate to people's needs, which she tries to embed in her teaching style.</p>
+<p>We spoke with Joana about a variety of topics including how to incorporate data science into the business world, the state of data science education, what skills you need to be a data scientist and which of those skills are easier to teach or can even be taught at all. To give you a teaser, she summarised this beautifully when she said "No amount of code is going to tell you how to think".</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S2E3---Joana-Wang-eo11en</link>
+			<guid isPermaLink="false">1f756392-ce1b-4055-b390-05bb50c79eee</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sat, 19 Dec 2020 19:21:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/24200087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-19%2F3a56a6b5-c541-33f7-e96a-235c5dff8a4c.mp3" length="40787845" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of &quot;the orthogonals&quot; we spoke to Joana Wang. Joana is a data aficionado with a passion for education. Her ambition is to help people demystify the world of data and make analytics second nature while having fun.&lt;/p&gt;
+&lt;p&gt;Having worked both in strategy consulting and industry, she&apos;s had projects across retail &amp;amp; wholesale, supply chain and financial services. In her last 8 years of experience, she&apos;s spent most of her time doing financial modelling, building bespoke data analytics products and wrangling data - a lot of it! This has required her to not only be able to technically develop solutions but also understand the wider business context and relate to people&apos;s needs, which she tries to embed in her teaching style.&lt;/p&gt;
+&lt;p&gt;We spoke with Joana about a variety of topics including how to incorporate data science into the business world, the state of data science education, what skills you need to be a data scientist and which of those skills are easier to teach or can even be taught at all. To give you a teaser, she summarised this beautifully when she said &quot;No amount of code is going to tell you how to think&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:42:29</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2E2 - Peter Ellis]]></title>
+			<description><![CDATA[<p>In episode 2 of "The Orthogonals" Shaun and David spoke to Peter Ellis. Peter is a Director and Chief Data Scientist at Nous Group, an international management consultancy operating in 10 locations across the UK, Australia and Canada. He also writes the Free Range Statistics blog, a great place to see cutting-edge techniques applied to real-world problems, all with reproducible code. But you'll never guess what his undergraduate degree was (hint: requires long fingernails on one hand only!)</p>
+<p>We spoke about scraping emojis from tweets, why Drew Conway's Venn diagram is still relevant in 2020, and becoming a data scientist to argue with economists.</p>
+<p>You can find Peter on Twitter <a href="https://twitter.com/ellis2013nz" rel="noreferrer noopener" target="_blank">@ellis2013nz</a> or on his <a href="http://freerangestats.info/" rel="noreferrer noopener" target="_blank">Free Range Statistics</a> blog.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S2E2---Peter-Ellis-ei7uug</link>
+			<guid isPermaLink="false">38ecb214-edc7-4a1a-b0f3-7717790ef322</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sun, 16 Aug 2020 19:36:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/18135440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-16%2F581bb19f-08fd-a18f-5175-075ce1e3cb62.mp3" length="53596622" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In episode 2 of &quot;The Orthogonals&quot; Shaun and David spoke to Peter Ellis. Peter is a Director and Chief Data Scientist at Nous Group, an international management consultancy operating in 10 locations across the UK, Australia and Canada. He also writes the Free Range Statistics blog, a great place to see cutting-edge techniques applied to real-world problems, all with reproducible code. But you&apos;ll never guess what his undergraduate degree was (hint: requires long fingernails on one hand only!)&lt;/p&gt;
+&lt;p&gt;We spoke about scraping emojis from tweets, why Drew Conway&apos;s Venn diagram is still relevant in 2020, and becoming a data scientist to argue with economists.&lt;/p&gt;
+&lt;p&gt;You can find Peter on Twitter &lt;a href=&quot;https://twitter.com/ellis2013nz&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;@ellis2013nz&lt;/a&gt; or on his &lt;a href=&quot;http://freerangestats.info/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Free Range Statistics&lt;/a&gt; blog.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:55:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2E1 - Andrea Jones-Rooy]]></title>
+			<description><![CDATA[<p>In the first episode of season 2, "The Orthogonals", Shaun and David speak to Andrea Jones-Rooy.</p>
+<p>Andrea is a social scientist specializing in complexity. &nbsp;She has written a book and several research papers on complex systems, and regularly contributes articles to media outlets on (you guessed it!) complexity — plus data science, international relations, diversity, and uncertainty. She is also a standup comedian and circus performer. The whole thing is confusing, but basically she’ll do whatever it takes to get people to pay attention to social science &amp; complexity. Andrea earned her Ph.D. in Political Science at the University of Michigan, Ann Arbor.</p>
+<p>We discussed why you shouldn't do a political science PhD to become a data scientist, how a political science PhD will benefit you in data science if you happen to have one, finishing a PhD thesis in a Thai restaurant, and what skills are missing from most data science courses and what to do about it.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/S2E1---Andrea-Jones-Rooy-eh6mg2</link>
+			<guid isPermaLink="false">ad42a81b-0130-4d84-af48-75cfb035e452</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Fri, 24 Jul 2020 19:00:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/17045442/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-24%2Fda71b964-a08f-7115-fc5b-1cdd970df749.mp3" length="62033546" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the first episode of season 2, &quot;The Orthogonals&quot;, Shaun and David speak to Andrea Jones-Rooy.&lt;/p&gt;
+&lt;p&gt;Andrea is a social scientist specializing in complexity. &amp;nbsp;She has written a book and several research papers on complex systems, and regularly contributes articles to media outlets on (you guessed it!) complexity — plus data science, international relations, diversity, and uncertainty. She is also a standup comedian and circus performer. The whole thing is confusing, but basically she’ll do whatever it takes to get people to pay attention to social science &amp;amp; complexity. Andrea earned her Ph.D. in Political Science at the University of Michigan, Ann Arbor.&lt;/p&gt;
+&lt;p&gt;We discussed why you shouldn&apos;t do a political science PhD to become a data scientist, how a political science PhD will benefit you in data science if you happen to have one, finishing a PhD thesis in a Thai restaurant, and what skills are missing from most data science courses and what to do about it.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:duration>01:04:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Season 2 Teaser]]></title>
+			<description><![CDATA[<p>In this teaser episode of the Half Stack Data Science podcast, the hosts David Asboth and dr Shaun McGirr recap the first six episodes of the podcast and introduce the upcoming season 2: The Orthogonals</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/Season-2-Teaser-eh0q9n</link>
+			<guid isPermaLink="false">a958a863-768f-4c3d-bdb4-6b458b74ff00</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Mon, 20 Jul 2020 20:42:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/16852727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-20%2F10326da6-4f43-536b-258c-9ba46c66b61f.mp3" length="8419831" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this teaser episode of the Half Stack Data Science podcast, the hosts David Asboth and dr Shaun McGirr recap the first six episodes of the podcast and introduce the upcoming season 2: The Orthogonals&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7409712/7409712-1739046959696-5bca2463c3ed4.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[006: Interview with Allison Nau]]></title>
+			<description><![CDATA[In episode 6, we bring you our interview with Allison Nau, an experienced data leader previously MD of Cox Automotive Data Solutions, and prior to that Product Director at LexisNexis.
+
+We would love your feedback on the show so far! Get in touch with us via Twitter (@davidasboth and @shaunmcgirr) or email hello@halfstackdatascience.com
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/006-Interview-with-Allison-Nau-egv7oa</link>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/546344139</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Mon, 17 Dec 2018 18:58:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/16800970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91456426-44100-2-51d0a22308000b96.mp3" length="37577599" type="audio/mpeg"/>
+			<itunes:summary>In episode 6, we bring you our interview with Allison Nau, an experienced data leader previously MD of Cox Automotive Data Solutions, and prior to that Product Director at LexisNexis.
+
+We would love your feedback on the show so far! Get in touch with us via Twitter (@davidasboth and @shaunmcgirr) or email hello@halfstackdatascience.com
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:47:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7409712/48d41800622bebda.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[005: Estimating Time]]></title>
+			<description><![CDATA[In this episode, David and Shaun answer the question on every stakeholder's lips: how long will this Data Science project take? Their answer may surprise you!
+
+We would love your feedback on the show so far! Get in touch with us via Twitter (@davidasboth and @shaunmcgirr) or email hello@halfstackdatascience.com
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/005-Estimating-Time-egv7oe</link>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/504015447</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sun, 23 Sep 2018 17:06:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/16800974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91456429-48000-2-fffae594311d6252.mp3" length="55843283" type="audio/mpeg"/>
+			<itunes:summary>In this episode, David and Shaun answer the question on every stakeholder&apos;s lips: how long will this Data Science project take? Their answer may surprise you!
+
+We would love your feedback on the show so far! Get in touch with us via Twitter (@davidasboth and @shaunmcgirr) or email hello@halfstackdatascience.com
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:23:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7409712/c831189be7e8b4f8.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[004: Getting Data]]></title>
+			<description><![CDATA[In this episode, Shaun and David talk some more about the rationale behind this podcast, and about how hard it is to get your hands on data in the first place.
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/004-Getting-Data-egv7o9</link>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/494208126</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sun, 02 Sep 2018 17:10:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/16800969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91456423-48000-2-9136289c9b2fd989.mp3" length="36752950" type="audio/mpeg"/>
+			<itunes:summary>In this episode, Shaun and David talk some more about the rationale behind this podcast, and about how hard it is to get your hands on data in the first place.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:34:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7409712/46d2bb3140d27f2b.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[003: Identifying Value in Data Science]]></title>
+			<description><![CDATA[In episode 3 of the Half Stack Data Science podcast, Shaun and David talk about how to identify the value of a Data Science project. Assuming you are free from some constraints that historically hold back the progress of Data Science teams, how do you decide what to work on?
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/003-Identifying-Value-in-Data-Science-egv7o8</link>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/487960527</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Mon, 20 Aug 2018 06:48:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/16800968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91456421-48000-2-2388bb9865e0a25b.mp3" length="36170119" type="audio/mpeg"/>
+			<itunes:summary>In episode 3 of the Half Stack Data Science podcast, Shaun and David talk about how to identify the value of a Data Science project. Assuming you are free from some constraints that historically hold back the progress of Data Science teams, how do you decide what to work on?
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:34:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7409712/26f6adfdb0005337.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[002: The Insight Journey]]></title>
+			<description><![CDATA[In the second episode of the Half Stack Data Science podcast, David and Shaun talk about the strategy companies can employ to become more data-driven, using what they call "the Insight Journey".
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/002-The-Insight-Journey-egv7oh</link>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/484215024</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sat, 11 Aug 2018 18:20:28 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/16800977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91456422-48000-2-8836ed02ea497fb9.mp3" length="38342554" type="audio/mpeg"/>
+			<itunes:summary>In the second episode of the Half Stack Data Science podcast, David and Shaun talk about the strategy companies can employ to become more data-driven, using what they call &quot;the Insight Journey&quot;.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7409712/d584a11c81a1bb76.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[001: What is Half Stack Data Science?]]></title>
+			<description><![CDATA[In the first episode of the Half Stack Data Science, David Asboth and Dr. Shaun McGirr answer the question "what is Half Stack Data Science"?
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/half-stack-data-science/episodes/001-What-is-Half-Stack-Data-Science-egv7ob</link>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/484213071</guid>
+			<dc:creator><![CDATA[Half Stack Data Science]]></dc:creator>
+			<pubDate>Sat, 11 Aug 2018 18:14:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2cc2e940/podcast/play/16800971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91456428-48000-2-3600f6f334029c32.mp3" length="37480081" type="audio/mpeg"/>
+			<itunes:summary>In the first episode of the Half Stack Data Science, David Asboth and Dr. Shaun McGirr answer the question &quot;what is Half Stack Data Science&quot;?
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7409712/5f0521cc32844e28.jpeg"/>
+		</item>
+	</channel>
+</rss>

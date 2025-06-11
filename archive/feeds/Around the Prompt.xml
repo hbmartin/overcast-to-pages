@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[Around the Prompt]]></title>
+    <link>https://www.aroundtheprompt.com</link>
+    <atom:link href="https://media.rss.com/around-the-prompt/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description><![CDATA[<p>'Around the Prompt' goes deep, peeling back the layers of AI innovation to reveal the hidden gems, the untapped potential, based on conversations with leading experts. Whether you're a seasoned AI enthusiast or just dipping your toes into the world of artificial intelligence, we will be your compass for navigating the ever-changing landscape. Discover how AI is transforming industries, enhancing our daily lives, and shaping the world of tomorrow. Our conversations transcend mere trends and buzzwords, giving you the practical insights you need to harness the power of AI effectively.</p>]]></description>
+    <generator>RSS.com v2.17.0</generator>
+    <lastBuildDate>Mon, 02 Jun 2025 12:13:13 GMT</lastBuildDate>
+    <language>en</language>
+    <itunes:image href="https://media.rss.com/around-the-prompt/20240327_090353_897313138dcf0a5b77e5ec86f56e3fa7.png"/>
+    <podcast:guid>0a3ba768-0ba8-5dae-b804-5c153882dfb7</podcast:guid>
+    <image>
+      <url>https://media.rss.com/around-the-prompt/20240327_090353_897313138dcf0a5b77e5ec86f56e3fa7.png</url>
+      <title>Around the Prompt</title>
+      <link>https://www.aroundtheprompt.com</link>
+    </image>
+    <podcast:locked>yes</podcast:locked>
+    <itunes:author>Logan Kilpatrick &amp; Nolan Fortman</itunes:author>
+    <itunes:owner>
+      <itunes:name>Logan Kilpatrick &amp; Nolan Fortman</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title><![CDATA[An unfiltered conversation with Anjney Midha, General Partner at A16Z]]></title>
+      <itunes:title><![CDATA[An unfiltered conversation with Anjney Midha, General Partner at A16Z]]></itunes:title>
+      <description><![CDATA[<p>Join Nolan Fortman and Logan Kilpatrick as they sit down with legendary investor and builder Anjney Midha to chat all things AI. From foundation model progress, to evals, to how to find the next generation of AI enabled products, Anjney shares his deep insights around AI as one of the critical figures in the ecosystem.</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/2055284</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2025_06_02_12_12_55_da13d21d-4497-45fc-8aa3-166220fb0113.mp3" length="56137488" type="audio/mpeg"/>
+      <guid isPermaLink="false">bc09ce0b-6f1b-4bec-9164-3b37919d59ef</guid>
+      <itunes:duration>3508</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 02 Jun 2025 12:13:13 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20250602_120620_a8c85f700345b806da1d93b11da2528d.png"/>
+    </item>
+    <item>
+      <title><![CDATA[An unfiltered conversation with Eric Simons, CEO of Bolt.new]]></title>
+      <itunes:title><![CDATA[An unfiltered conversation with Eric Simons, CEO of Bolt.new]]></itunes:title>
+      <description><![CDATA[<p>Join Nolan Fortman and Logan Kilpatrick for a deep dive into the story of <a target="_blank" rel="noopener noreferrer nofollow" href="http://Bolt.net">Bolt.new</a> (Stackblitz) with founder and CEO Eric Simons. We talk about <a target="_blank" rel="noopener noreferrer nofollow" href="http://Bolt.new">Bolt.new</a> as the overnight success 7 years in the making, why vibe coding is here to stay, scaling from $0 to $20M to now $40M ARR, the the future of software creation. </p><p></p><p>Get started vibe coding: <a target="_blank" rel="noopener noreferrer nofollow" href="https://bolt.new/">https://bolt.new/</a> </p><p></p><p>Find Eric and Logan on X / Twitter: <a target="_blank" rel="noopener noreferrer nofollow" href="https://x.com/EricSimons">https://x.com/EricSimons</a> + <a target="_blank" rel="noopener noreferrer nofollow" href="https://x.com/OfficialLoganK">https://x.com/OfficialLoganK</a> </p><p></p><p>Learn more about Around the Prompt: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.aroundtheprompt.com/">https://www.aroundtheprompt.com/</a></p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1998662</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2025_04_23_12_15_38_0cd7e1b9-4155-469b-a4d1-6569bcdb2fdc.mp3" length="46830791" type="audio/mpeg"/>
+      <guid isPermaLink="false">e72fafb8-652e-4872-887b-27c465f66cca</guid>
+      <itunes:duration>2926</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 23 Apr 2025 12:18:21 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20250423_120406_a0c6de470fcc9f0a6bf4719962c5c720.png"/>
+    </item>
+    <item>
+      <title><![CDATA[An unfiltered conversation with Mehul Nariyawala, cofounder of Matic robots]]></title>
+      <itunes:title><![CDATA[An unfiltered conversation with Mehul Nariyawala, cofounder of Matic robots]]></itunes:title>
+      <description><![CDATA[<p>Join Nolan Fortman and Logan Kilpatrick for a conversation about the future of home robotics with Matic CEO Mehul Nariyawala. We dive deep into the challenges of on-device AI, scaling robot production in America, where humanoids are going, and more!</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1998614</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2025_04_23_11_10_03_6690e1ea-7a6d-4b55-85d9-631dea077b30.mp3" length="51720078" type="audio/mpeg"/>
+      <guid isPermaLink="false">35853f1d-4b4c-4a9e-9ba7-1035dd4894e7</guid>
+      <itunes:duration>3232</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 23 Apr 2025 11:10:31 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20250423_110428_be10cf120e08fe3cae7e99fff7b0d148.png"/>
+    </item>
+    <item>
+      <title><![CDATA[An unfiltered conversation with Dwarkesh Patel]]></title>
+      <itunes:title><![CDATA[An unfiltered conversation with Dwarkesh Patel]]></itunes:title>
+      <description><![CDATA[<p>Join Nolan Fortman and Logan Kilpatrick for a deep conversation with Dwarkesh Patel, host of the Dwarkesh podcast, and one of the 2024 TIME most influential people in AI. We chat about how the world is going to change with AI in the next 2 years, infinite AI dimensionality, creating content for the AI world, human authenticity in the age of AI, and learning with AI!</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1948127</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2025_03_19_14_18_15_9348aea3-ac47-4740-a0c5-2b6ad88eb853.mp3" length="51325524" type="audio/mpeg"/>
+      <guid isPermaLink="false">f5dbbae0-3bc2-493a-91b6-a12504980ed6</guid>
+      <itunes:duration>3207</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 19 Mar 2025 14:22:14 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20250319_020334_240e54a3ebd36bc95fa6bbf2c8a413ad.png"/>
+    </item>
+    <item>
+      <title><![CDATA[An unfiltered conversation with Thomas Dohmke, CEO of GitHub]]></title>
+      <itunes:title><![CDATA[An unfiltered conversation with Thomas Dohmke, CEO of GitHub]]></itunes:title>
+      <description><![CDATA[<p>Join Nolan Fortman and Logan Kilpatrick for a deep dive on the world of coding with GitHub CEO Thomas Dohmke. We chat about: - Personal software creation using AI - Open source in the age of AI - AI enabling coding changing how developers work and much more! Thomas is leading the charge for one of the world's most important developer companies. I hope you enjoy the conversation as much as we did!</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1923907</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2025_03_03_15_45_51_92855a44-c009-48e2-a32e-f00288bcd958.mp3" length="51369421" type="audio/mpeg"/>
+      <guid isPermaLink="false">4ca0ca23-37ef-424e-9fbc-2223c6af1fa0</guid>
+      <itunes:duration>3192</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 03 Mar 2025 15:46:05 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20250303_030305_6c8e6ac9edd076cac6c2c4f83a8efd1c.png"/>
+    </item>
+    <item>
+      <title><![CDATA[An unfiltered conversation with Alex Atallah, CEO of OpenRouter]]></title>
+      <itunes:title><![CDATA[An unfiltered conversation with Alex Atallah, CEO of OpenRouter]]></itunes:title>
+      <description><![CDATA[<p>Listen to a conversation with Alex Atallah, the CEO of OpenRouter, along with Nolan Fortman and Logan Kilpatrick. The conversation covers: </p><ul><li>The start of OpenRouter</li><li>Open vs Closed models</li><li>Why AI usage is the ultimate metric for us</li><li>How to compare different models in production</li><li>How to rank models</li></ul><p> And much more!</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1902291</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2025_02_17_18_56_10_67f5ae91-8ff1-4c89-b557-d6377649d03d.mp3" length="42799585" type="audio/mpeg"/>
+      <guid isPermaLink="false">9aa7849f-2565-4e7f-b4f0-51c1bb72c659</guid>
+      <itunes:duration>2674</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 17 Feb 2025 18:57:38 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20250217_060241_9d46d38471a16bba9524b84bc25a78bc.png"/>
+    </item>
+    <item>
+      <title><![CDATA[An unfiltered conversation with Chamath Palihapitiya]]></title>
+      <itunes:title><![CDATA[An unfiltered conversation with Chamath Palihapitiya]]></itunes:title>
+      <description><![CDATA[<p>Join Nolan Fortman and Logan Kilpatrick as they dive into an unfiltered conversation with Chamath Palihapitiya, covering: open source AI, the massive compute buildout, where the AI value creation is,  how to build for the age of AI, Deepseek, and much more!</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1889075</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2025_02_10_01_05_50_7d94177d-34a0-4d5d-9ad9-3589818a4db0.mp3" length="57640611" type="audio/mpeg"/>
+      <guid isPermaLink="false">46cf69ae-c741-4ed3-bf2a-e1e1ccd52143</guid>
+      <itunes:duration>3602</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 11 Feb 2025 14:34:56 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20250210_010207_2b8ce1d48bdc01c1f24708e641d88a00.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Simon Willison: The Future of Open Source and AI]]></title>
+      <itunes:title><![CDATA[Simon Willison: The Future of Open Source and AI]]></itunes:title>
+      <description><![CDATA[<p>In this conversation, Simon Willison discusses the intersection of AI, Open Source, and journalism, emphasizing the importance of tools like Dataset in enhancing data journalism. He reflects on his journey from developing Django to his current work with AI, highlighting the role of open source in software development. Willison shares insights on how AI can augment human capabilities rather than replace them, and he expresses concerns about the future of AI, particularly regarding AGI. The discussion also touches on the evolving landscape of programming and the need for better onboarding processes for new developers.</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1781136</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_12_01_19_16_35_aa2c2217-d69c-41a8-8219-a1b5eb7fde66.mp3" length="52577740" type="audio/mpeg"/>
+      <guid isPermaLink="false">7caab904-38b6-4194-8155-12bde5770408</guid>
+      <itunes:duration>3286</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 01 Dec 2024 19:38:40 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20241201_071207_e3abe7368e7939b041fca0a2cbab4f97.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Shreya Rajpal: Guardrails AI, AI Production Challenges, & AI Reliability]]></title>
+      <itunes:title><![CDATA[Shreya Rajpal: Guardrails AI, AI Production Challenges, & AI Reliability]]></itunes:title>
+      <description><![CDATA[<p>Join Logan Kilpatrick and Nolan Fortman for a discussion with Shreya Rajpal that covers the inception and evolution of Guardrails, a tool designed to enhance reliability in AI applications. She emphasizes the importance of AI validation, the challenges of moving from proof of concept to production, and the organizational buy-in required for implementing such tools. The discussion also touches on the role of open source in AI development, the competitive advantages it provides, and the parallels between self-driving technology and AI systems. Shreya shares insights on real-world use cases, the introduction of Guardrail Server, and the future of AI regulation, highlighting the need for benchmarks and the importance of understanding the risks associated with generative AI. A few of our favorite </p><p></p><p>Sound Bites: "Guardrails started as a form of building reliability." "AI development is very much like traditional software development." "The long tail is brutal in machine learning."</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1678591</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_09_30_14_45_51_9f076e55-0438-4bd4-be95-dd2ea69249ed.mp3" length="48401492" type="audio/mpeg"/>
+      <guid isPermaLink="false">51bbd9f5-701b-40dc-aff9-3afc04a55e80</guid>
+      <itunes:duration>3025</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 30 Sep 2024 14:47:31 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240930_020917_7f1deb858e1bcc51e86dbbdac72c5107.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Quinn Slack: Sourcegraph, AI Coding, and Cody]]></title>
+      <itunes:title><![CDATA[Quinn Slack: Sourcegraph, AI Coding, and Cody]]></itunes:title>
+      <description><![CDATA[<p>Join Logan and Nolan in a deep dive into the world of AI coding with Quinn Slack, the CEO of Sourcegraph. Sourcegraph was founded in 2013 with the goal of solving the problem of code search. The founders, who had experience working with massive code bases, wanted to create a code search tool similar to Google for code. They started by building code search as their first product and made mistakes along the way, but ultimately built a product that many developers love. Over time, Sourcegraph expanded to include intelligent automation and AI capabilities. They believe that the future of code search and AI in coding is a unified platform that combines search, chat, and AI capabilities. The conversation explores the potential impact of AI on coding and software development. Quinn Slack discusses how AI can empower non-technical individuals to code and create software solutions. He emphasizes the importance of making AI tools work manually before introducing automation. The conversation also touches on the challenges of building AI interfaces and the need for context integration from various tools. Quinn expresses his hope for the continued development of local models and competition in the AI space.</p><p></p><p>Highlights: "We wanted to have some kind of code search like Google for code." "Search and AI chat really blur together. From the user's perspective, what they want is a box that they can type shit into and it solves their problems." "GitHub has the world's code. Why would we want to compete against GitHub? And I think now they're actually seeing a bunch of sort of co-pilot level competitors." "I think you're going to see that increase... we could have everyone coding or at least conjuring up code." "You got to make it work manually first before you introduce any kind of magic." "It is very likely that we'll end up with like many... one person billion dollar companies."</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1618268</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_08_19_12_59_21_6dc6681f-2238-4bad-b381-bf0d709ae6f3.mp3" length="51852163" type="audio/mpeg"/>
+      <guid isPermaLink="false">2746fe0b-e1ed-4a57-a32b-3de1cd38ba2a</guid>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 19 Aug 2024 12:59:39 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240819_120853_5e0da164afaf1d82d88c2943e2d38907.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Andrew Mayne: Prompt Engineering, Joining OpenAI, & Shark AI]]></title>
+      <itunes:title><![CDATA[Andrew Mayne: Prompt Engineering, Joining OpenAI, & Shark AI]]></itunes:title>
+      <description><![CDATA[<p>Andrew Mayne shares his non-traditional journey into AI, from being a magician and illusionist to becoming a science communicator at OpenAI. He discusses his early experiences with AI as a child, his interest in robotics and AI, and his fascination with chatbots. Andrew also talks about his experience using AI to deceive great white sharks and how it led him to explore the capabilities of text models like GPT-2 and GPT-3. He emphasizes the importance of prompt engineering and the need to carefully craft prompts to get desired outputs from the models. Andrew Mayne emphasizes the importance of having a clear idea of the desired output and breaking down complex tasks into manageable steps. He shares his experience in teaching magic tricks and how it helped him in prompt engineering. Mayne discusses the evolution of prompt engineering and the challenges and hype surrounding it. He also talks about his personal tech stack and the tools he uses for writing, coding, and research. Mayne expresses his excitement about the accessibility of AI models and the potential impact of AI in education. He also discusses his concerns about deep fakes and the need for trust and authentication in communication.</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1531130</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_06_19_14_29_01_72eb9619-f686-4dec-b7d5-cb9a317da0be.mp3" length="65654847" type="audio/mpeg"/>
+      <guid isPermaLink="false">88e9abf4-5fca-4551-93f5-ea4437cfb786</guid>
+      <itunes:duration>4103</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 19 Jun 2024 14:31:13 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240619_020618_7953dc4e63a902200dac423ffd9ef346.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Marily Nika: AI Product Management, Building AI Products, & MetaAI]]></title>
+      <itunes:title><![CDATA[Marily Nika: AI Product Management, Building AI Products, & MetaAI]]></itunes:title>
+      <description><![CDATA[<p>In this episode, Logan and Nolan dive deep into building AI product's with Marily Nika, a lead product manager at Google. We explore how AI on its own is not a product. AI product managers act as a bridge between AI and user needs. The role of AI product managers is to solve the right problems for users by leveraging AI capabilities. The demand for AI product managers is increasing, with companies like Anthropic and OpenAI actively hiring for these roles. AI product managers need to be comfortable with technology and have a good understanding of AI concepts and options. They also need to collaborate with scientists and engineers to make informed decisions about technical approaches. And much more!</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1526452</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_06_15_17_30_23_2b99c8e2-2b24-4b50-81c3-c27099fa53ec.mp3" length="43460378" type="audio/mpeg"/>
+      <guid isPermaLink="false">1f02f58b-1e86-4a61-aace-01d7de16714d</guid>
+      <itunes:duration>2716</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 15 Jun 2024 17:37:16 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240615_050607_afe9bd65cfb993afb8640063bdbfb11c.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ben Tossell: AI Automation, Ben's Bites, Makerpad, & Low / No code AI]]></title>
+      <itunes:title><![CDATA[Ben Tossell: AI Automation, Ben's Bites, Makerpad, & Low / No code AI]]></itunes:title>
+      <description><![CDATA[<p>In this conversation, Ben discusses the intersection of low/no code tools and AI. He shares his experience in the low/no code space and how it relates to the current trends in large language models (LLMs) and AI. Ben highlights the democratization of software development and the ability for non-technical founders to build functional products using low/no code tools. He also explores the suitability of different industries for low/no code tools and the potential for AI integration. The conversation concludes with a discussion on the creation of MakerPad using low/no code tools and the benefits it offers to individuals without coding experience. Ben Tossell discusses his journey of building Makerpad, a tutorial platform for no-code tools, and its acquisition by Zapier. He shares his transition to a lifestyle business and the launch of Ben's Bites, an AI-focused newsletter. Ben also talks about his investments in AI startups and the challenges startups face when competing with large organizations. He highlights exciting companies in the AI space.</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1507294</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_06_02_17_33_01_6e2f5fd4-fdc5-4dd0-b9a0-abc2f04fcdd8.mp3" length="45016440" type="audio/mpeg"/>
+      <guid isPermaLink="false">e25e1227-b4bd-4ae4-879a-148088431858</guid>
+      <itunes:duration>2813</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 02 Jun 2024 17:34:34 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240602_050633_1846ca4287fb5c47e84af0d92b8cf1ad.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Conor Grennan: AI Mindset, NYU GenAI, & Practical AI]]></title>
+      <itunes:title><![CDATA[Conor Grennan: AI Mindset, NYU GenAI, & Practical AI]]></itunes:title>
+      <description><![CDATA[<p>Join Logan Kilpatrick and Nolan Fortman as we dive deep into how having an AI-first mindset is one of the key enablers for the broad adoption of AI. Conor has trained hundreds of thousands of people to use AI and currently serves as the head of generative AI at NYU Stern. Takeaways - Stay out of the AI bubble and understand how people outside of the tech industry think. - Simplify technical terms and focus on real-life applications when explaining AI to non-technical individuals. - Grennan's AI productivity stack includes tools like perplexity and fine-tuned models. - He is excited about the personalization capabilities of AI and its potential to transform content creation. - Grennan expresses concern about the challenges posed by deepfakes and the need to educate vulnerable populations about AI. Demystifying AI is crucial for successful implementation, and leadership and culture play a significant role in this process. - Non-technical backgrounds can provide an advantage in understanding the potential of AI and breaking down preconceived notions. - Staying informed about AI requires reading newsletters, listening to podcasts, and following experts on platforms like Twitter. - AI implementation in academia faces challenges, but faculty can adapt their teaching methods to incorporate AI effectively. - Small teams and organizations with a strong learning and trust culture tend to see tangible returns from AI implementation. - Integrating AI in organizations requires reframing the mindset and setting new benchmarks for productivity and quality.</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1492020</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_05_24_16_08_18_e9a48678-0cf4-4b4c-bafc-7373253efb1f.mp3" length="51313831" type="audio/mpeg"/>
+      <guid isPermaLink="false">ff794ca1-bbe0-4ae6-bdcd-3f00cddb192a</guid>
+      <itunes:duration>3207</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 24 May 2024 16:08:44 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240524_040543_01b34377d129a0e4bdfdb5494e0934c5.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jerry Li: AI Community Superintelligence, Gradual & AI Communities]]></title>
+      <itunes:title><![CDATA[Jerry Li: AI Community Superintelligence, Gradual & AI Communities]]></itunes:title>
+      <description><![CDATA[<p>Jerry is the CEO of Gradual, a community platform, and is seeing the front line of how AI is effecting both online and in-person communities. We are in uncharted waters and in this conversation, we explore how AI might impact these communities, why AI could lead to more sustainable online spaces of gathering, and much more. Summary Gradual was born out of the ELC community, a community of engineer leaders. Gradual started as an internal tool for the community but eventually became its own product. The platform uses AI to provide personalized and timely experiences for community members. AI enables knowledge sharing and retrieval, making it easier for community members to find the information they need. Gradual is used by both established organizations and emerging companies to build and grow their communities. The platform empowers local moderators and volunteers, and helps companies organize and support external contributors. Gradual aims to create a unified experience for community members and is working on building a community of communities on its platform. The conversation explores the changing needs of communities over time and the impact of AI tools on community interactions. It also discusses the shift in community engagement during the pandemic and the importance of in-person connections. The conversation highlights the value of post-event engagement and the role of Gradual in facilitating ongoing community conversations. It touches on the future of community building, the potential of AI-powered virtual moderators, and the need for companies to invest in community. The conversation concludes with a discussion on the positive and negative impacts of AI in community building.</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1487655</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_05_21_13_10_46_cd581280-34b4-47e4-b6c3-b7657ece972d.mp3" length="48249773" type="audio/mpeg"/>
+      <guid isPermaLink="false">6d53a292-5adb-4d50-9aaa-23a78fd50c5d</guid>
+      <itunes:duration>3015</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 21 May 2024 13:13:42 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240521_010527_5e9274b314250dd8674fbefe39730605.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Yohei Nakajima: BabyAGI, AI Agents, & AI Investing]]></title>
+      <itunes:title><![CDATA[Yohei Nakajima: BabyAGI, AI Agents, & AI Investing]]></itunes:title>
+      <description><![CDATA[<p>Join Logan Kilpatrick and Nolan Fortman as we dive deep into the future of AI Agents, how they will affect businesses, developers, and the world. Yohei is one of the deepest thinkers in the world of AI agents, as the creator of Baby AGI and the backer of many companies in the agent space. I hope you all enjoy this conversation as much as Nolan and I did. </p><p></p><p><strong>Takeaways</strong> </p><p>- Building AI tools for venture capital can provide value to founders and investors. </p><p>- The future of AI in venture capital lies in the development of autonomous agents and the integration of AI into VC workflows. </p><p>- Verticalized AI solutions can capture value quickly by addressing specific tasks and industries. - The adoption of AI in organizations requires a mindset shift and a focus on empowering employees rather than replacing them. </p><p>- The AI landscape is constantly evolving, and there is still much to be explored and developed. Location can have an impact on attending events and the fear of missing out (FOMO). Being in a different location can provide a different perspective and prevent exhaustion from attending too many events. </p><p>- Vector databases play a crucial role in enabling AI applications, particularly in semantic search. There is a growing number of companies providing vector database solutions, but there is still room for improvement in fine-tuning embeddings for specific use cases. </p><p>- Knowledge graphs were gaining traction before the rise of large language models. However, there is potential for knowledge graphs to be integrated with AI and solve complex problems. </p><p>- The decision to go open source or closed source depends on various factors, including the team's unique strengths, target market, and business goals. It is a strategic decision that reflects the values and philosophy of the company. </p><p>- Building in public can be a strategic decision that aligns with a company's values and philosophy. It can help gain attention, work with other developers, and establish credibility. </p><p>- There is a mix of experienced founders and new founders in the AI space. Both have their advantages, with experienced founders bringing valuable expertise and new founders bringing fresh and innovative ideas. </p><p>- Yohei expresses optimism for the future of AI and technology, hoping to see advancements in autonomous agents, knowledge graphs, and passive AI. He looks forward to the progress and exciting ideas that will emerge in the coming years.</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1474858</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_05_11_16_35_02_adeb32ce-9699-4ea0-9211-f50e79d19e96.mp3" length="47131314" type="audio/mpeg"/>
+      <guid isPermaLink="false">82baadd8-cd42-445b-85cd-768015ff9b3d</guid>
+      <itunes:duration>2945</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 11 May 2024 16:37:18 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240511_040527_226c92482e99907851ee0593e3795b70.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jeremy Howard: AnswerAI, FastAI, Fine-tuning & AI recruiting | Around the Prompt #1]]></title>
+      <itunes:title><![CDATA[Jeremy Howard: AnswerAI, FastAI, Fine-tuning & AI recruiting | Around the Prompt #1]]></itunes:title>
+      <description><![CDATA[<p>Join Logan Kilpatrick and Nolan Fortman as we dive into a conversation with Jeremy Howard on: - Why Jeremy created a new startup AswerAI - Why fine-tuning is still underrated - How attracting the world's best AI talent requires global and remote hiring - What the future for FastAI will look like - Building AI community And so much more. This was an immensely inspiring and thoughtful conversation that Nolan and I are excited to bring to the world. We will be sharing many more of these conversations under the "Around the Prompt" umbrella, stay tuned!</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/1410533</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2024_03_27_21_20_51_7a734afe-94f6-4905-a019-cbe1fb749a51.mp3" length="39613482" type="audio/mpeg"/>
+      <guid isPermaLink="false">2756c9c5-a5d0-4fbc-bb26-937840b4e733</guid>
+      <itunes:duration>2475</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 27 Mar 2024 21:21:13 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20240327_090330_e464f8b027eb9282a2f6b2f2bbba660b.png"/>
+    </item>
+  </channel>
+</rss>

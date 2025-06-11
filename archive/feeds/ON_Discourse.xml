@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+		<ttl>60</ttl>
+		<generator>acast.com</generator>
+		<title>ON_Discourse</title>
+		<link>https://shows.acast.com/ondiscourse</link>
+		<atom:link href="https://feeds.acast.com/public/shows/6712aef6e21e2bb3149f1fd5" rel="self" type="application/rss+xml"/>
+		<language>en</language>
+		<copyright>ON_Discourse</copyright>
+		<itunes:keywords>innovation,culture,technology,Artificial intelligence ,marketing,media,business</itunes:keywords>
+		<itunes:author>ON_Discourse</itunes:author>
+		<itunes:subtitle>Provoking group-think into perspective</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>What do business leaders in technology, culture, and media sound like when they are provoked? When they are called out for repeating group-think platitudes, or marketing jargon? When they passionately denounce or vigorously defend an idea, product, or feature? Or even when they finally confess their ignorance about developing technology?</p><br><p>If you listen in the right way, all of that discourse sounds like a preview of the future.</p><br><p>The ON_Discourse Podcast is a weekly meeting of Co-Founders, Dan Gardner, Toby Daniels, and our Head of Discourse, Matt Chmiel. Together this group, and the occasional guest, will develop the provocations and perspectives that defines our member experience. Each week, you will get a preview of our discourse methodology, as we develop ideas and provocations for upcoming events that we will be hosting for members or enterprise clients.</p><br><p>Expect to hear incomplete ideas, instant skepticism, malleable minds, and open discourse as we work it out.</p><br><p><strong>About ON_Discourse</strong></p><p><a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a> is a global network of technology, business and innovation leaders, investors and entrepreneurs who pursue deeper perspective, meaningful connections, and business opportunities through the discipline of discourse.</p><br><p>Learn more about membership <a href="https://ondiscourse.com/about/" rel="noopener noreferrer" target="_blank">here</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		<description><![CDATA[<p>What do business leaders in technology, culture, and media sound like when they are provoked? When they are called out for repeating group-think platitudes, or marketing jargon? When they passionately denounce or vigorously defend an idea, product, or feature? Or even when they finally confess their ignorance about developing technology?</p><br><p>If you listen in the right way, all of that discourse sounds like a preview of the future.</p><br><p>The ON_Discourse Podcast is a weekly meeting of Co-Founders, Dan Gardner, Toby Daniels, and our Head of Discourse, Matt Chmiel. Together this group, and the occasional guest, will develop the provocations and perspectives that defines our member experience. Each week, you will get a preview of our discourse methodology, as we develop ideas and provocations for upcoming events that we will be hosting for members or enterprise clients.</p><br><p>Expect to hear incomplete ideas, instant skepticism, malleable minds, and open discourse as we work it out.</p><br><p><strong>About ON_Discourse</strong></p><p><a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a> is a global network of technology, business and innovation leaders, investors and entrepreneurs who pursue deeper perspective, meaningful connections, and business opportunities through the discipline of discourse.</p><br><p>Learn more about membership <a href="https://ondiscourse.com/about/" rel="noopener noreferrer" target="_blank">here</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>ON_Discourse</itunes:name>
+			<itunes:email>info+6712aef6e21e2bb3149f1fd5@mg-eu.acast.com</itunes:email>
+		</itunes:owner>
+		<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+		<acast:showUrl>ondiscourse</acast:showUrl>
+		<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+		<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmTHg2/BXqPr07kkpFZ5JfhvEZqggcpunI6E1w81XpUaBscFc3skEQ0jWG4GCmQYJ66w6pH6P/aGd3DnpJN6h/CD4icd8kZVl4HZn12KicA2k]]></acast:settings>
+		<itunes:type>episodic</itunes:type>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<image>
+				<url>https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg</url>
+				<link>https://shows.acast.com/ondiscourse</link>
+				<title>ON_Discourse</title>
+			</image>
+		<item>
+			<title>Cannes-ticipation</title>
+			<itunes:title>Cannes-ticipation</itunes:title>
+			<pubDate>Wed, 11 Jun 2025 02:58:35 GMT</pubDate>
+			<itunes:duration>37:22</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/6848f0db9b8dde68cd522fbb/media.mp3" length="71764535" type="audio/mpeg"/>
+			<guid isPermaLink="false">6848f0db9b8dde68cd522fbb</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/cannes-ticipation</link>
+			<acast:episodeId>6848f0db9b8dde68cd522fbb</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>cannes-ticipation</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYHMwIY99HRwdrVom6e46U1yxODwDzZVdbHMvBrD4PYLlpBrIGjTE/I/U4TQr5ISCgrrXdx18q8qy7pvj1fBRDM+]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1749610535780-fc125d5f-925f-44f7-a9a5-2b3989a693ae.jpeg"/>
+			<description><![CDATA[<p>Dan, Toby, and Chmiel go behind the scenes of Cannes Lions to unpack the real programming, posturing, and potential shaping the creative industry’s biggest week. Is the future of advertising being written on the main stage or whispered behind closed doors?</p><br><p>Details in the Show</p><p><br></p><ul><li>Why the most important conversations at Cannes don’t happen on stage</li><li>How closed-door programming became the sharpest tool for industry change</li><li>The AI content hype loop: tools, platitudes, and the myth of mastery</li><li>Automation vs. creativity: why the exciting stuff is still the unknown</li><li>“Implementation isn’t innovation”—and other Cannes heresies</li><li>The honest (and uneasy) truth about AI’s impact on labor, ads, and originality</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Dan, Toby, and Chmiel go behind the scenes of Cannes Lions to unpack the real programming, posturing, and potential shaping the creative industry’s biggest week. Is the future of advertising being written on the main stage or whispered behind closed doors?</p><br><p>Details in the Show</p><p><br></p><ul><li>Why the most important conversations at Cannes don’t happen on stage</li><li>How closed-door programming became the sharpest tool for industry change</li><li>The AI content hype loop: tools, platitudes, and the myth of mastery</li><li>Automation vs. creativity: why the exciting stuff is still the unknown</li><li>“Implementation isn’t innovation”—and other Cannes heresies</li><li>The honest (and uneasy) truth about AI’s impact on labor, ads, and originality</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>What we lose with AI efficiency gains</title>
+			<itunes:title>What we lose with AI efficiency gains</itunes:title>
+			<pubDate>Tue, 03 Jun 2025 18:21:29 GMT</pubDate>
+			<itunes:duration>43:47</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/683f3d29a73556324a10ecb7/media.mp3" length="82908294" type="audio/mpeg"/>
+			<guid isPermaLink="false">683f3d29a73556324a10ecb7</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/what-we-lose-with-ai-efficiency-gains</link>
+			<acast:episodeId>683f3d29a73556324a10ecb7</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>what-we-lose-with-ai-efficiency-gains</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYGr6j+/pt/12PZIsHXprLljQQVmnowp2TR3JYPUkm9gLvPWn/xHC3/nkio5I6oiraGTn9sqmTFVeMTdX26YCTfy]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>In this episode, we’re joined by Taylor Halsted of Shamrock Capital to interrogate the illusion of AI efficiency. What if the mess we’re trying to automate out of work is actually where creativity, connection, and culture live?</p><br><p><strong>Details in the Show</strong></p><p><br></p><ul><li>Why “Head of AI” might be the new “Webmaster”—and just as misguided</li><li>The difference between performing productivity and producing outcomes</li><li>Whether AI is making us more emotionally honest—or just better at faking it</li><li>“AI guilt,” last-mile problems, and the hidden costs of over-orchestration</li><li>Messy work, vibecoding, and the underrated value of creative friction</li><li>What it takes to build AI culture without losing the human core</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse.</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>In this episode, we’re joined by Taylor Halsted of Shamrock Capital to interrogate the illusion of AI efficiency. What if the mess we’re trying to automate out of work is actually where creativity, connection, and culture live?</p><br><p><strong>Details in the Show</strong></p><p><br></p><ul><li>Why “Head of AI” might be the new “Webmaster”—and just as misguided</li><li>The difference between performing productivity and producing outcomes</li><li>Whether AI is making us more emotionally honest—or just better at faking it</li><li>“AI guilt,” last-mile problems, and the hidden costs of over-orchestration</li><li>Messy work, vibecoding, and the underrated value of creative friction</li><li>What it takes to build AI culture without losing the human core</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse.</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Toby hosts a book club with Henrik Werdelin and Nicholas Thorne</title>
+			<itunes:title>Toby hosts a book club with Henrik Werdelin and Nicholas Thorne</itunes:title>
+			<pubDate>Tue, 27 May 2025 18:23:04 GMT</pubDate>
+			<itunes:duration>47:08</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/683603082780b226c752c82a/media.mp3" length="91167533" type="audio/mpeg"/>
+			<guid isPermaLink="false">683603082780b226c752c82a</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/toby-hosts-a-book-club-with-henrik-werdelin-and-nicholas-tho</link>
+			<acast:episodeId>683603082780b226c752c82a</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>toby-hosts-a-book-club-with-henrik-werdelin-and-nicholas-tho</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYFw4VYJ3wPFR/kKnAZybiAwu9V25s5u9k8Biw02XEjj4ECv8vG0dAXgDP8LfyC+POXQO854UuGt1EK6Gkxr7ZHh]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby sits down with Henrik Werdelin and Nicholas Thorne, co-authors of <a href="https://www.simonandschuster.com/books/Me-My-Customer-and-AI/Henrik-Werdelin/9781637634547" rel="noopener noreferrer" target="_blank">Me, My Customer, and AI</a>, to interrogate the optimistic thesis at the heart of their book, and the paradoxes it reveals. From donkeycorns to Dunbar numbers, this session explores what happens when everyone is an entrepreneur, and no one stands out.</p><br><p>Details in the episode:</p><p><br></p><ul><li>Why founder–customer fit matters more than product–market fit</li><li>The illusion of scale and the power of intimacy</li><li>Donkeycorns, not unicorns: redefining success in the AI era</li><li>The creative danger of agreeable AI (and why we need disagreeable bots)</li><li>What it means to “solve small” and why feedback loops must get weird</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby sits down with Henrik Werdelin and Nicholas Thorne, co-authors of <a href="https://www.simonandschuster.com/books/Me-My-Customer-and-AI/Henrik-Werdelin/9781637634547" rel="noopener noreferrer" target="_blank">Me, My Customer, and AI</a>, to interrogate the optimistic thesis at the heart of their book, and the paradoxes it reveals. From donkeycorns to Dunbar numbers, this session explores what happens when everyone is an entrepreneur, and no one stands out.</p><br><p>Details in the episode:</p><p><br></p><ul><li>Why founder–customer fit matters more than product–market fit</li><li>The illusion of scale and the power of intimacy</li><li>Donkeycorns, not unicorns: redefining success in the AI era</li><li>The creative danger of agreeable AI (and why we need disagreeable bots)</li><li>What it means to “solve small” and why feedback loops must get weird</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Toby and Dan invent a new internet</title>
+			<itunes:title>Toby and Dan invent a new internet</itunes:title>
+			<pubDate>Wed, 21 May 2025 03:54:55 GMT</pubDate>
+			<itunes:duration>37:54</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/682d4e8fa6fdc699fd1607c6/media.mp3" length="72039107" type="audio/mpeg"/>
+			<guid isPermaLink="false">682d4e8fa6fdc699fd1607c6</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/toby-and-dan-invent-a-new-internet</link>
+			<acast:episodeId>682d4e8fa6fdc699fd1607c6</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>toby-and-dan-invent-a-new-internet</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYE7Q37OEikjnhjlic1hCh/6BHObTeQf2RY2sHzKbtdvILZMgFtqAwK9StI6m2WaMKEIcPFxmlsW5d6z70QWdtWc]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby and Dan track the decline of Google Search, the end of SEO, and what’s replacing it: group chats, agentic systems, and personalized internets built around behavior, not clicks.</p><br><p>Details in the episode:</p><p><br></p><ul><li>Why search is collapsing (and what’s replacing it)</li><li>How generative AI is reshaping discovery and intent</li><li>What the “human internet” might look like</li><li>Why the future isn’t conversational—it’s contextual</li><li>Blockchain, Web3, and the portability of “your internet”</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby and Dan track the decline of Google Search, the end of SEO, and what’s replacing it: group chats, agentic systems, and personalized internets built around behavior, not clicks.</p><br><p>Details in the episode:</p><p><br></p><ul><li>Why search is collapsing (and what’s replacing it)</li><li>How generative AI is reshaping discovery and intent</li><li>What the “human internet” might look like</li><li>Why the future isn’t conversational—it’s contextual</li><li>Blockchain, Web3, and the portability of “your internet”</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Toby talks about group chats</title>
+			<itunes:title>Toby talks about group chats</itunes:title>
+			<pubDate>Thu, 08 May 2025 16:31:39 GMT</pubDate>
+			<itunes:duration>29:59</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/681cdc6b8b1f3232bc234fb1/media.mp3" length="56536158" type="audio/mpeg"/>
+			<guid isPermaLink="false">681cdc6b8b1f3232bc234fb1</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/toby-talks-about-group-chats</link>
+			<acast:episodeId>681cdc6b8b1f3232bc234fb1</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>toby-talks-about-group-chats</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYEHFPs5lZLWhL0+SUsT+xDUtIKpZdXPsUUG95yCLcjgySeYvp/n6sOriGFZRPuyJ47CeY5XBeLX+I8Z5CsNShv4]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>We have been hosting closed-door, private Group Chats at ON_Discourse for 2 years. In this episode, Toby and Chmiel talk about the ON_Discourse version of group chats and how they are different than the contentious, political experience that was recently profiled by <a href="https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america" rel="noopener noreferrer" target="_blank">Ben Smith at Semafor</a>. </p><br><p>Details in the episode:</p><p><br></p><ul><li>How the pandemic inspired group chats</li><li>How group chats are the future of media</li><li>Why trust matters more than security in private chats</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse.</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>We have been hosting closed-door, private Group Chats at ON_Discourse for 2 years. In this episode, Toby and Chmiel talk about the ON_Discourse version of group chats and how they are different than the contentious, political experience that was recently profiled by <a href="https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america" rel="noopener noreferrer" target="_blank">Ben Smith at Semafor</a>. </p><br><p>Details in the episode:</p><p><br></p><ul><li>How the pandemic inspired group chats</li><li>How group chats are the future of media</li><li>Why trust matters more than security in private chats</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse.</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Toby and Dan argue about strategy</title>
+			<itunes:title>Toby and Dan argue about strategy</itunes:title>
+			<pubDate>Wed, 23 Apr 2025 21:44:07 GMT</pubDate>
+			<itunes:duration>18:20</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/68095f2762faec0e0add3cca/media.mp3" length="25881143" type="audio/mpeg"/>
+			<guid isPermaLink="false">68095f2762faec0e0add3cca</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/toby-and-dan-argue-about-strategy</link>
+			<acast:episodeId>68095f2762faec0e0add3cca</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>toby-and-dan-argue-about-strategy</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYEXaviYxEZ23KVMTm5T5CBEEBlCR2P6sAjJRuFEqG5L+SiBOx5VNqA5DznZP9KdwDQbx2eFSh/4r8JJAma8jKcB]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby and Dan turn a weekly meeting into an impromptu podcast recording about the future of digital strategy and why notifications suck.</p><br><p>Details in the episode:</p><p><br></p><ul><li>Requirements are dead</li><li>The design supply chain</li><li>Fast vs Slow creativity</li></ul><p><br></p><p>Learn about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby and Dan turn a weekly meeting into an impromptu podcast recording about the future of digital strategy and why notifications suck.</p><br><p>Details in the episode:</p><p><br></p><ul><li>Requirements are dead</li><li>The design supply chain</li><li>Fast vs Slow creativity</li></ul><p><br></p><p>Learn about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Vibecoding with Gen Z</title>
+			<itunes:title>Vibecoding with Gen Z</itunes:title>
+			<pubDate>Wed, 16 Apr 2025 12:53:36 GMT</pubDate>
+			<itunes:duration>57:21</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/67ffa8515d1edf45d2ed4a7c/media.mp3" length="55072526" type="audio/mpeg"/>
+			<guid isPermaLink="false">67ffa8515d1edf45d2ed4a7c</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/vibecoding-with-gen-z</link>
+			<acast:episodeId>67ffa8515d1edf45d2ed4a7c</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>vibecoding-with-gen-z</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYHsLYtS2FwDadpmV/Ni9dEABlKiWyaCs6HOrRSgDGezLRjqaHiBLuXh533DZVleZ4UOq/IPtm4t3CKxiVKEE3Qp]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby interviews a couple teenagers who are vibecoding their way through the modern internet. This conversation reveals an alternative perspective on the AI revolution, from a generation that never knew a world without the web.</p><br><p>Details in the show:</p><p><br></p><ul><li>Will there be an internet in 5 years?</li><li>Who do you trust online?</li><li>What is your AI stack?</li><li>A new acronym is coming: RLHF</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby interviews a couple teenagers who are vibecoding their way through the modern internet. This conversation reveals an alternative perspective on the AI revolution, from a generation that never knew a world without the web.</p><br><p>Details in the show:</p><p><br></p><ul><li>Will there be an internet in 5 years?</li><li>Who do you trust online?</li><li>What is your AI stack?</li><li>A new acronym is coming: RLHF</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Matt Britton talks about his new book.</title>
+			<itunes:title>Matt Britton talks about his new book.</itunes:title>
+			<pubDate>Wed, 02 Apr 2025 20:24:25 GMT</pubDate>
+			<itunes:duration>23:48</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/67ed9cf9d4b40d7b30033b8b/media.mp3" length="41713350" type="audio/mpeg"/>
+			<guid isPermaLink="false">67ed9cf9d4b40d7b30033b8b</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/matt-britton-talks-about-his-new-book</link>
+			<acast:episodeId>67ed9cf9d4b40d7b30033b8b</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>matt-britton-talks-about-his-new-book</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYF4IsIEImL/fKRKz0hwyeQHRTUjpyssCKzq2sDgAKcdUp4noWrwew8+coG6laPYVla1kRZSXWuZUwcG427kG3J2]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby interviews <a href="https://www.suzy.com/" rel="noopener noreferrer" target="_blank">Suzy</a> co-founder and CEO, Matt Britton, about his forthcoming book <a href="https://mattbritton.com/generation-ai" rel="noopener noreferrer" target="_blank">Generation AI: Why Generation Alpha and The Age Of AI Will Change Everything.</a> This interview was conducted during a closed-door Member event.</p><br><p>Detail in the show:</p><p><br></p><ul><li>The Goonies</li><li>Expertise vs Knowledge</li><li>How to prepare your kids for adulthood in AI era</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby interviews <a href="https://www.suzy.com/" rel="noopener noreferrer" target="_blank">Suzy</a> co-founder and CEO, Matt Britton, about his forthcoming book <a href="https://mattbritton.com/generation-ai" rel="noopener noreferrer" target="_blank">Generation AI: Why Generation Alpha and The Age Of AI Will Change Everything.</a> This interview was conducted during a closed-door Member event.</p><br><p>Detail in the show:</p><p><br></p><ul><li>The Goonies</li><li>Expertise vs Knowledge</li><li>How to prepare your kids for adulthood in AI era</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Dan has to wait two weeks.</title>
+			<itunes:title>Dan has to wait two weeks.</itunes:title>
+			<pubDate>Mon, 10 Mar 2025 20:19:41 GMT</pubDate>
+			<itunes:duration>53:04</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/67cf495d57424413a46a106d/media.mp3" length="38065870" type="audio/mpeg"/>
+			<guid isPermaLink="false">67cf495d57424413a46a106d</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/dan-has-to-wait-two-weeks</link>
+			<acast:episodeId>67cf495d57424413a46a106d</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>dan-has-to-wait-two-weeks</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYFwinqCxV4l2nwvGFIGzsEzLgu+uuhZVnFeCUCFu/40psQhgcR303zbcqaWBFtpEDf96vcH3ae/jQkIf18C6OQA]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Dan, Toby, and Chmiel welcome (but don't introduce) Craig Hepburn to the conversation. Craig is the Chief Product Office at Art Basel who recently introduced a new AI-powered app. Dan opens the conversation with an anecdote about an AI agent that keeps delaying its work. It sparks a conversation about the unmet potential of AI (so far).</p><br><p>Details in show:</p><p><br></p><ul><li>Surfing instagram</li><li>Has AI changed anything?</li><li>Voice is a weak interface</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse.</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Dan, Toby, and Chmiel welcome (but don't introduce) Craig Hepburn to the conversation. Craig is the Chief Product Office at Art Basel who recently introduced a new AI-powered app. Dan opens the conversation with an anecdote about an AI agent that keeps delaying its work. It sparks a conversation about the unmet potential of AI (so far).</p><br><p>Details in show:</p><p><br></p><ul><li>Surfing instagram</li><li>Has AI changed anything?</li><li>Voice is a weak interface</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse.</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Henrik Werdelin talks about donkeycorns</title>
+			<itunes:title>Henrik Werdelin talks about donkeycorns</itunes:title>
+			<pubDate>Wed, 19 Feb 2025 20:28:33 GMT</pubDate>
+			<itunes:duration>38:39</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/67b63ef1d24f7fcce87d3020/media.mp3" length="28288095" type="audio/mpeg"/>
+			<guid isPermaLink="false">67b63ef1d24f7fcce87d3020</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/henrik-werdelin-talks-about-donkeycorns</link>
+			<acast:episodeId>67b63ef1d24f7fcce87d3020</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>henrik-werdelin-talks-about-donkeycorns</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYECS/c/5wtTQOrcwDQqHG0iRQMuw6haDAbLPK/YDF+DhcjwZ+r4hwrbUHSEu7y02GAb0w1HEdf4l3hljYaboObU]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Dan and Chmiel invite Henrik Werdelin, co-founder of Barkbox and PreHype, to talk about how unicorns are old news and how donkeycorns are the future. You’ll hear about how agentic AI can prompt wannabe entrepreneurs into actual founders. This is a small idea that can transform the economy.</p><br><p>Details in show:</p><p><br></p><ul><li>Small ideas win</li><li>Human creativity wins</li><li>Agentic AI as a tool</li></ul><p><br></p><p>Learn about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Dan and Chmiel invite Henrik Werdelin, co-founder of Barkbox and PreHype, to talk about how unicorns are old news and how donkeycorns are the future. You’ll hear about how agentic AI can prompt wannabe entrepreneurs into actual founders. This is a small idea that can transform the economy.</p><br><p>Details in show:</p><p><br></p><ul><li>Small ideas win</li><li>Human creativity wins</li><li>Agentic AI as a tool</li></ul><p><br></p><p>Learn about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>The Gang Makes an Announcement</title>
+			<itunes:title>The Gang Makes an Announcement</itunes:title>
+			<pubDate>Wed, 12 Feb 2025 01:49:38 GMT</pubDate>
+			<itunes:duration>41:54</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/67abfe33b468a1d76fd6a433/media.mp3" length="59753760" type="audio/mpeg"/>
+			<guid isPermaLink="false">67abfe33b468a1d76fd6a433</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/the-gang-makes-an-announcement</link>
+			<acast:episodeId>67abfe33b468a1d76fd6a433</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>the-gang-makes-an-announcement</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYHmsU7lJSa29FrJ+8ZgULF7yU6BEW3Ih9r/tmfWiyfdixldmbdxNhV0aZymdFDAr6tLIwE/0EWWJXd3TYUgR7mv]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby, Dan, and Chmiel officially announce <a href="https://ondiscourse.com/summit/" rel="noopener noreferrer" target="_blank">The ON_Discourse Summit</a> - Solve Small: AI Transformation for the C-Suite.</p><br><p>This event will be held on March 26, 2025 in New York City.</p><br><p><a href="https://zlqvj1pcdcu.typeform.com/summit2025" rel="noopener noreferrer" target="_blank">Request an invite.</a></p><br><p>Details in show:</p><p><br></p><ul><li>Defining 'Solve Small'</li><li>Bad friction in the workforce</li><li>Details about the summit</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby, Dan, and Chmiel officially announce <a href="https://ondiscourse.com/summit/" rel="noopener noreferrer" target="_blank">The ON_Discourse Summit</a> - Solve Small: AI Transformation for the C-Suite.</p><br><p>This event will be held on March 26, 2025 in New York City.</p><br><p><a href="https://zlqvj1pcdcu.typeform.com/summit2025" rel="noopener noreferrer" target="_blank">Request an invite.</a></p><br><p>Details in show:</p><p><br></p><ul><li>Defining 'Solve Small'</li><li>Bad friction in the workforce</li><li>Details about the summit</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Dan Writes a LinkedIn Post</title>
+			<itunes:title>Dan Writes a LinkedIn Post</itunes:title>
+			<pubDate>Wed, 05 Feb 2025 19:48:52 GMT</pubDate>
+			<itunes:duration>44:53</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/67a3c0a49c6f7f7f28481c71/media.mp3" length="68135673" type="audio/mpeg"/>
+			<guid isPermaLink="false">67a3c0a49c6f7f7f28481c71</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/dan-writes-a-linkedin-post</link>
+			<acast:episodeId>67a3c0a49c6f7f7f28481c71</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>dan-writes-a-linkedin-post</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYE4JivXSpkztcOUfqGQFZeq0lN7OIhdQO0r4N2P2pSGGbWJ9bq/Ko3dNrOFGGONgnzyPtRI8yj3uFwN6Qf0RIzE]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Dan returns to the podcast to talk about the off-the-record conversations he had at Davos. Toby and Chmiel used the <a href="https://www.linkedin.com/posts/dangardner_finally-have-a-second-to-share-some-thoughts-activity-7288892995876106240-g792" rel="noopener noreferrer" target="_blank">LinkedIn post</a> he wrote about his trip to scrutinize the level of discourse about AI transformation. The key takeaway: no one knows what happens next.</p><br><p>Details in the show:</p><ul><li>Innovation vs Integration</li><li>The future of the workforce</li><li>What is creativity</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><br><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Dan returns to the podcast to talk about the off-the-record conversations he had at Davos. Toby and Chmiel used the <a href="https://www.linkedin.com/posts/dangardner_finally-have-a-second-to-share-some-thoughts-activity-7288892995876106240-g792" rel="noopener noreferrer" target="_blank">LinkedIn post</a> he wrote about his trip to scrutinize the level of discourse about AI transformation. The key takeaway: no one knows what happens next.</p><br><p>Details in the show:</p><ul><li>Innovation vs Integration</li><li>The future of the workforce</li><li>What is creativity</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><br><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>The Management Track</title>
+			<itunes:title>The Management Track</itunes:title>
+			<pubDate>Thu, 30 Jan 2025 16:27:43 GMT</pubDate>
+			<itunes:duration>29:00</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/679ba87f6ad29b7937100843/media.mp3" length="42686609" type="audio/mpeg"/>
+			<guid isPermaLink="false">679ba87f6ad29b7937100843</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/the-management-track</link>
+			<acast:episodeId>679ba87f6ad29b7937100843</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>the-management-track</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYFB3tqujYIPlX2FdVImosUFDrmvplBL3C1K8pwwhlGYKidJ51JmgBroRG+VsDftcNraTZQo9pliX+y9rcPePJ2N]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby and Chmiel reflect on the future of managers. They ponder the value of the role and whether AI can enhance or replace it. All of the perspectives you will hear come from a recent Group Chat they hosted that was shaped and sharpened by ON_Discourse member Katherine von Jan, founder of <a href="https://www.tough.day/" rel="noopener noreferrer" target="_blank">tough.day</a>, an employee resilience AI tool. Her exploration of the future of management is revealing a new set of opportunities to help employees and organizations thrive in the AI era.</p><br><p>Details of the show:</p><p><br></p><ul><li>What do managers really do?</li><li>The emotional labor involved</li><li>Why the word 'interesting' is banned</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/about/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby and Chmiel reflect on the future of managers. They ponder the value of the role and whether AI can enhance or replace it. All of the perspectives you will hear come from a recent Group Chat they hosted that was shaped and sharpened by ON_Discourse member Katherine von Jan, founder of <a href="https://www.tough.day/" rel="noopener noreferrer" target="_blank">tough.day</a>, an employee resilience AI tool. Her exploration of the future of management is revealing a new set of opportunities to help employees and organizations thrive in the AI era.</p><br><p>Details of the show:</p><p><br></p><ul><li>What do managers really do?</li><li>The emotional labor involved</li><li>Why the word 'interesting' is banned</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/about/" rel="noopener noreferrer" target="_blank">ON_Discourse</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Boardy</title>
+			<itunes:title>Boardy</itunes:title>
+			<pubDate>Wed, 22 Jan 2025 15:14:17 GMT</pubDate>
+			<itunes:duration>41:26</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/67910b4a455ab42f9dc393eb/media.mp3" length="62920834" type="audio/mpeg"/>
+			<guid isPermaLink="false">67910b4a455ab42f9dc393eb</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/boardy</link>
+			<acast:episodeId>67910b4a455ab42f9dc393eb</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>boardy</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYGIXV/eZnbBB2UhxroNCEjWXzhZ1s4EgNoXr4h+RxxtkfjbEbl+h0fqx+eE0vcR2bqNyouqH+M/amNZ38HBe+yO]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby, Dan, and Chmiel argue about Boardy, an AI-bot that crawls LinkedIn, calls you on the phone, asks you personal and probing questions, listens and interprets your answers, and then makes contextual introductions to similar strangers from different networks. Is this what we are talking about when we talk about the future of AI?</p><br><p>Details in the Show:</p><ul><li>How do we define a good AI innovation?</li><li>Is Boardy good?</li><li>Does the internet need a new philosphy?</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse.</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby, Dan, and Chmiel argue about Boardy, an AI-bot that crawls LinkedIn, calls you on the phone, asks you personal and probing questions, listens and interprets your answers, and then makes contextual introductions to similar strangers from different networks. Is this what we are talking about when we talk about the future of AI?</p><br><p>Details in the Show:</p><ul><li>How do we define a good AI innovation?</li><li>Is Boardy good?</li><li>Does the internet need a new philosphy?</li></ul><p><br></p><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse.</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>CES 2025</title>
+			<itunes:title>CES 2025</itunes:title>
+			<pubDate>Wed, 15 Jan 2025 19:02:18 GMT</pubDate>
+			<itunes:duration>32:38</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/6788063b3b6e600d69ab50a8/media.mp3" length="50748282" type="audio/mpeg"/>
+			<guid isPermaLink="false">6788063b3b6e600d69ab50a8</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/ces-2025</link>
+			<acast:episodeId>6788063b3b6e600d69ab50a8</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>ces-2025</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYG+GjIso/578QDZ61DAc0EqmxIDYFehToPbs5oC099St1z3ZBiSctX5KyC9ca/TJb2iDdT1ol9OtUHE8cD2Weyz]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby and Chmiel break down their trip to CES, where ON_Discourse hosted multiple tours of of the exhibition floor. They talk about the "Agentic Era" on display at the show and how a new audience of industry executives responded to their discourse method.</p><br><p>Details in the show:</p><ul><li>AI Agents - the Agentic Era</li><li>Small Language Models</li><li>LG and agents at home</li></ul><p><br></p><br><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a> </p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby and Chmiel break down their trip to CES, where ON_Discourse hosted multiple tours of of the exhibition floor. They talk about the "Agentic Era" on display at the show and how a new audience of industry executives responded to their discourse method.</p><br><p>Details in the show:</p><ul><li>AI Agents - the Agentic Era</li><li>Small Language Models</li><li>LG and agents at home</li></ul><p><br></p><br><p>Learn more about <a href="https://ondiscourse.com/" rel="noopener noreferrer" target="_blank">ON_Discourse</a> </p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>The Internet Sucks</title>
+			<itunes:title>The Internet Sucks</itunes:title>
+			<pubDate>Wed, 27 Nov 2024 15:22:00 GMT</pubDate>
+			<itunes:duration>38:14</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/6747391874eb04a4dbf55995/media.mp3" length="60911207" type="audio/mpeg"/>
+			<guid isPermaLink="false">6747391874eb04a4dbf55995</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ondiscourse/episodes/the-internet-sucks</link>
+			<acast:episodeId>6747391874eb04a4dbf55995</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>the-internet-sucks</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYFmXqM4BLDo2l0nWTUvjPr2CGC/lqz04foFV8YVNBPP2uGjVjH2nJurMNVnLGHqRvB69WmJG6eesI7Dr+EDyzBv]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>Toby and Dan talk about their trip to Lisbon for Web Summit, legal protections for agents, and why the internet sucks (and how it could be better).</p><br><p>We talk about:</p><p><br></p><ul><li>AI Startups</li><li>The Colorado AI Act</li><li>Why the internet sucks</li></ul><p><br></p><p>Interested in becoming an ON_Discourse member? Learn about membership <a href="https://ondiscourse.com/about/" rel="noopener noreferrer" target="_blank">here</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Toby and Dan talk about their trip to Lisbon for Web Summit, legal protections for agents, and why the internet sucks (and how it could be better).</p><br><p>We talk about:</p><p><br></p><ul><li>AI Startups</li><li>The Colorado AI Act</li><li>Why the internet sucks</li></ul><p><br></p><p>Interested in becoming an ON_Discourse member? Learn about membership <a href="https://ondiscourse.com/about/" rel="noopener noreferrer" target="_blank">here</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>The Home is an Interface</title>
+			<itunes:title>The Home is an Interface</itunes:title>
+			<pubDate>Fri, 01 Nov 2024 16:46:47 GMT</pubDate>
+			<itunes:duration>44:39</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6712aef6e21e2bb3149f1fd5/e/6724f914e4fa0260051fd617/media.mp3" length="73305769" type="audio/mpeg"/>
+			<guid isPermaLink="false">6724f914e4fa0260051fd617</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://www.ondiscourse.com</link>
+			<acast:episodeId>6724f914e4fa0260051fd617</acast:episodeId>
+			<acast:showId>6712aef6e21e2bb3149f1fd5</acast:showId>
+			<acast:episodeUrl>the-home-is-an-interface</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsZicVukn0feRtQAlh5VF2LVtWdx/JJuWLzXCy/rgyPYEbTj4/TaZ99i2JiPbQabbuDGDYKzDgBjT6wfMxUJ+4Cy4mSstpPVsJEbgl2OuhaX00oLoiq1MIV7BFfWIvr3Uz]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/6712aef6e21e2bb3149f1fd5/1730478537757-cc73fe75-ef66-49b9-a537-dc13b0d47d39.jpeg"/>
+			<description><![CDATA[<p>The team preps for an upcoming enterprise summit about the future of the connected home. Can tech bring families together or will smart-toasters rule the home?</p><br><p>We talk about:</p><ul><li>emotional AI</li><li>smart tech vs intelligent tech</li><li>Bill and Ted's Bogus Adventure</li></ul><p><br></p><p>Interested in becoming an ON_Discourse member? Learn about membership <a href="https://ondiscourse.com/about/" rel="noopener noreferrer" target="_blank">here</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>The team preps for an upcoming enterprise summit about the future of the connected home. Can tech bring families together or will smart-toasters rule the home?</p><br><p>We talk about:</p><ul><li>emotional AI</li><li>smart tech vs intelligent tech</li><li>Bill and Ted's Bogus Adventure</li></ul><p><br></p><p>Interested in becoming an ON_Discourse member? Learn about membership <a href="https://ondiscourse.com/about/" rel="noopener noreferrer" target="_blank">here</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+    	<itunes:category text="Business"/>
+    	<itunes:category text="Technology"/>
+    </channel>
+</rss>

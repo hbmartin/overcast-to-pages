@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://podcastindex.org/namespace/1.0"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="https://passion2knowledge.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>Data &amp; Impact - a Passion2Knowledge Experience</title>
+		<pubDate>Thu, 07 Nov 2024 19:38:00 +0000</pubDate>
+		<lastBuildDate>Thu, 05 Jun 2025 00:00:11 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>https://passion2knowledge.com</link>
+		<language>en</language>
+		<copyright><![CDATA[All rights reserved]]></copyright>
+		<docs>https://passion2knowledge.com</docs>
+		<managingEditor>csteinert18@alumni.uwosh.edu (csteinert18@alumni.uwosh.edu)</managingEditor>
+		<itunes:summary><![CDATA[Data & Impact - a Passion2Knowledge Experience strives to add valuable, real-world data career insights to our audience. We promise to deliver passionate, industry-specific, perspectives about analytics from a broad range of functional business area experts.]]></itunes:summary>
+		<image>
+			<url>https://static.libsyn.com/p/assets/b/2/9/3/b293b5704e694619e55e3c100dce7605/0001-1904589076_20210526_064146_0000.png</url>
+			<title>Data &amp; Impact - a Passion2Knowledge Experience</title>
+			<link><![CDATA[https://passion2knowledge.com]]></link>
+		</image>
+		<itunes:author>Christian Steinert</itunes:author>
+		<itunes:keywords>Ai,Business,MachineLearning,businessintelligence,data,datascience,entrepreneurship</itunes:keywords>
+		<itunes:category text="Technology">
+		</itunes:category>
+		<itunes:category text="Business">
+		</itunes:category>
+		<itunes:image href="https://static.libsyn.com/p/assets/b/2/9/3/b293b5704e694619e55e3c100dce7605/0001-1904589076_20210526_064146_0000.png" />
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Data & Impact]]></itunes:name>
+			<itunes:email>csteinert18@alumni.uwosh.edu</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[Data & Impact - a Passion2Knowledge Experience strives to add valuable, real-world data career insights to our audience. We promise to deliver passionate, industry-specific, perspectives about analytics from a broad range of functional business area experts.]]></description>
+		<itunes:type>episodic</itunes:type>
+		<!-- START CHANNEL EXTRA TAGS -->
+<itunes:new-feed-url>https://passion2knowledge.libsyn.com/rss</itunes:new-feed-url><!-- CLOSE CHANNEL EXTRA TAGS -->
+
+
+
+		<podcast:locked owner="csteinert18@alumni.uwosh.edu">no</podcast:locked>
+		
+		<item>
+			<title>Stephen Bailey | Insights and Trends From a Data Platform Engineer and Leader</title>
+			<itunes:title>Stephen Bailey | Insights and Trends From a Data Platform Engineer and Leader</itunes:title>
+			<pubDate>Thu, 07 Nov 2024 19:38:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2ad12fd3-3d4e-4c5e-a2c7-8c51d8bc5036]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/stephen-bailey-insights-and-trends-from-a-data-platform-engineer-and-leader]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/a/3/3/da33ce14a4f6061227a2322813b393ee/Data__Impact_Episode_20_20241107_143549_0000.png" />
+			<description><![CDATA[<p dir="ltr">Stephen Bailey, a seasoned data leader and experienced data engineer, joins us to discuss his journey in data and tech. From his academic background in neuroscience to his current role at Whatnot, Bailey has consistently pushed the boundaries of data-driven innovation.</p> <p dir="ltr">We delve into his insights on the challenges and opportunities in the modern data landscape, including details into the problem solving skills developed in his PhD program, how he got his start in technology, a fascination with low tech problems in non-profits and the impact of AI on data engineering roles. Bailey shares his thoughts on how to navigate the complexities of AI in the workforce and how to remain relevant in the ever-evolving data space.</p> <p dir="ltr">Throughout the conversation, Bailey emphasizes the significance of human-centered approaches to data, emphasizing the need for strong collaboration between data teams and business stakeholders.</p> <p dir="ltr">He even discusses why the CEO is like “the best analyst in the business” which is an enlightening part of the discussion, and a refreshing perspective.</p> <p dir="ltr">As a prolific writer, Bailey shares his motivations for blogging and how he uses it to explore the intersection of data, technology, and society. His Substack, "Data, People, Etc.," offers insightful commentary on a range of topics, from data ethics to the future of work.</p> <p dir="ltr">Ultimately, this episode provides valuable insights for data professionals seeking to navigate the complexities of modern data landscapes, embrace emerging technologies, and build strong, data-driven organizations.</p> <p><strong id= "docs-internal-guid-58592756-7fff-ae1f-00a4-745474f38c03"><br /></strong>Find Stephen on his Substack: <a href= "https://stkbailey.substack.com/">https://stkbailey.substack.com/</a></p>]]></description>
+			<content:encoded><![CDATA[<p dir="ltr">Stephen Bailey, a seasoned data leader and experienced data engineer, joins us to discuss his journey in data and tech. From his academic background in neuroscience to his current role at Whatnot, Bailey has consistently pushed the boundaries of data-driven innovation.</p> <p dir="ltr">We delve into his insights on the challenges and opportunities in the modern data landscape, including details into the problem solving skills developed in his PhD program, how he got his start in technology, a fascination with low tech problems in non-profits and the impact of AI on data engineering roles. Bailey shares his thoughts on how to navigate the complexities of AI in the workforce and how to remain relevant in the ever-evolving data space.</p> <p dir="ltr">Throughout the conversation, Bailey emphasizes the significance of human-centered approaches to data, emphasizing the need for strong collaboration between data teams and business stakeholders.</p> <p dir="ltr">He even discusses why the CEO is like “the best analyst in the business” which is an enlightening part of the discussion, and a refreshing perspective.</p> <p dir="ltr">As a prolific writer, Bailey shares his motivations for blogging and how he uses it to explore the intersection of data, technology, and society. His Substack, "Data, People, Etc.," offers insightful commentary on a range of topics, from data ethics to the future of work.</p> <p dir="ltr">Ultimately, this episode provides valuable insights for data professionals seeking to navigate the complexities of modern data landscapes, embrace emerging technologies, and build strong, data-driven organizations.</p> <p>Find Stephen on his Substack: <a href= "https://stkbailey.substack.com/">https://stkbailey.substack.com/</a></p>]]></content:encoded>
+			<enclosure length="94448563" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_20_-_11724_2.29_PM.mp3?dest-id=1548626" />
+			<itunes:duration>48:39</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Technology,Business,Data Science,data engineering,data platform</itunes:keywords>
+			<itunes:subtitle><![CDATA[Stephen Bailey, a seasoned data leader and experienced data engineer, joins us to discuss his journey in data and tech. From his academic background in neuroscience to his current role at Whatnot, Bailey has consistently pushed the boundaries of...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Zack Ober | The Intersection of Business Leadership &amp; Operations in Data</title>
+			<itunes:title>Zack Ober | The Intersection of Business Leadership &amp; Operations in Data</itunes:title>
+			<pubDate>Fri, 28 Jun 2024 11:21:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d71ba783-6bdc-4b35-ad4b-08accdd7c176]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/zack-ober-the-intersection-of-business-leadership-operations-in-data]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/4/4/4/044467638315243127a2322813b393ee/Data__Impact_Episode_19.png" />
+			<description><![CDATA[<p dir="ltr">In this episode, we delve into the dynamic intersection of business leadership, operations, and data analytics. We introduce our guest, Zack Ober, founder of Simple Data Solutions LLC, highlighting his extensive background in analytics and entrepreneurship. We begin with Zack’s professional journey, from his early days as a Data Analyst at TV Time to founding his own company, We also chat about his blog - https://www.theyrecounting.com/. </p> <p><strong> </strong></p> <p dir="ltr">We explore his key roles at HourWork, Better, and Fair.com, and his educational background in Ethics and Public Policy at UC Santa Barbara. We discuss current trends in business leadership and data analytics, examining how businesses are using data for strategic decision-making.</p> <p dir="ltr"> </p> <p dir="ltr">Zack shares his entrepreneurial insights, discussing the challenges and rewards of founding Simple Data Solutions LLC and offering advice for data consultants. We also cover his experience as a dbt developer certified professional and predictions for the future of data analytics. </p> <p><strong> </strong></p> <p dir="ltr">We conclude with key insights from the episode, final thoughts from Zack, and encourage users to connect with Zack on LinkedIn and check out his blog!</p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p dir="ltr">In this episode, we delve into the dynamic intersection of business leadership, operations, and data analytics. We introduce our guest, Zack Ober, founder of Simple Data Solutions LLC, highlighting his extensive background in analytics and entrepreneurship. We begin with Zack’s professional journey, from his early days as a Data Analyst at TV Time to founding his own company, We also chat about his blog - https://www.theyrecounting.com/. </p> <p> </p> <p dir="ltr">We explore his key roles at HourWork, Better, and Fair.com, and his educational background in Ethics and Public Policy at UC Santa Barbara. We discuss current trends in business leadership and data analytics, examining how businesses are using data for strategic decision-making.</p> <p dir="ltr"> </p> <p dir="ltr">Zack shares his entrepreneurial insights, discussing the challenges and rewards of founding Simple Data Solutions LLC and offering advice for data consultants. We also cover his experience as a dbt developer certified professional and predictions for the future of data analytics. </p> <p> </p> <p dir="ltr">We conclude with key insights from the episode, final thoughts from Zack, and encourage users to connect with Zack on LinkedIn and check out his blog!</p> <p> </p>]]></content:encoded>
+			<enclosure length="94561265" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_19_-_62624_5.49_PM.mp3?dest-id=1548626" />
+			<itunes:duration>48:42</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>consulting,Ai,Data Analytics,Data Science,data engineering,data consulting,analytics engineering</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this episode, we delve into the dynamic intersection of business leadership, operations, and data analytics. We introduce our guest, Zack Ober, founder of Simple Data Solutions LLC, highlighting his extensive background in analytics and...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Nash Bober | The Ins and Outs of Data Leadership</title>
+			<itunes:title>Nash Bober | The Ins and Outs of Data Leadership</itunes:title>
+			<pubDate>Fri, 31 May 2024 10:51:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e7be089e-7ae2-4a26-9717-56cadf43c407]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/nash-bober-the-ins-and-outs-of-data-leadership]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/d/b/2/7db27132544e0142e55e3c100dce7605/Data__Impact_Episode_18.png" />
+			<description><![CDATA[<p dir="ltr">Ever wondered what it takes to be a data leader? </p> <p><strong> </strong></p> <p dir="ltr">In episode 18 of Data & Impact, we dive deep with Nash Bober, local Columbus, Ohio Area data leader. Interestingly, Nash and Christian share a similar background academically and have oriented their careers in a similar manner: Marketing, IS, data strategy and leadership as a core focus. We explore the contrasting worlds of consulting vs. in-house and dissect the evolving role of the data team. Furthermore, we discuss and debate the emerging role of analytics engineering, and explore the impact of AI on Business Intelligence. </p> <p><strong> </strong></p> <p dir="ltr">Nash will also share his insights on the qualities that make a great data leader and offer predictions for the future of the field. Join us for an information-packed episode that will equip you to navigate the exciting world of data leadership by placing an emphasis on the soft skills.</p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p dir="ltr">Ever wondered what it takes to be a data leader? </p> <p> </p> <p dir="ltr">In episode 18 of Data & Impact, we dive deep with Nash Bober, local Columbus, Ohio Area data leader. Interestingly, Nash and Christian share a similar background academically and have oriented their careers in a similar manner: Marketing, IS, data strategy and leadership as a core focus. We explore the contrasting worlds of consulting vs. in-house and dissect the evolving role of the data team. Furthermore, we discuss and debate the emerging role of analytics engineering, and explore the impact of AI on Business Intelligence. </p> <p> </p> <p dir="ltr">Nash will also share his insights on the qualities that make a great data leader and offer predictions for the future of the field. Join us for an information-packed episode that will equip you to navigate the exciting world of data leadership by placing an emphasis on the soft skills.</p> <p> </p>]]></content:encoded>
+			<enclosure length="77890043" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_18.mp3?dest-id=1548626" />
+			<itunes:duration>39:41</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Data Analytics,Data Science,business intelligence</itunes:keywords>
+			<itunes:subtitle><![CDATA[Ever wondered what it takes to be a data leader?    In episode 18 of Data & Impact, we dive deep with Nash Bober, local Columbus, Ohio Area data leader. Interestingly, Nash and Christian share a similar background academically and have...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Tim Kühn | Unlocking Data Integration at Lightspeed with Keboola</title>
+			<itunes:title>Tim Kühn | Unlocking Data Integration at Lightspeed with Keboola</itunes:title>
+			<pubDate>Fri, 26 Apr 2024 11:23:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4d4b8dd6-d78d-417f-956b-21945751f81d]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/tim-khn-unlocking-data-integration-at-lightspeed-with-keboola]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/1/a/a/01aa939edfea2db488c4a68c3ddbc4f2/Data__Impact_Episode_17.png" />
+			<description><![CDATA[<p dir="ltr">On episode 17 of Data & Impact, we dive into data integration automation with Tim Kühn, Solutions Architect at Keboola.  Learn how Keboola tackles the challenges of managing complex data pipelines from various sources.</p> <p dir="ltr">Discover how Keboola's low-code/no-code approach, pre-built connectors, and automation features can streamline your ETL processes, ensure data quality, and empower you to generate valuable business insights.</p> <p dir="ltr">Tim also discusses Keboola's competitive advantages and how it helps businesses achieve data-driven success. Listen and learn how Keboola can democratize data access and reduce the need for a large data engineering team.</p> <p dir="ltr"><br /> Check out keboola.com and steinertanalytics.com</p> <p dir="ltr"> </p> <p dir="ltr">Tim's Linkedin - https://www.linkedin.com/in/twkuhn/</p> <p dir="ltr"> </p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p dir="ltr">On episode 17 of Data & Impact, we dive into data integration automation with Tim Kühn, Solutions Architect at Keboola.  Learn how Keboola tackles the challenges of managing complex data pipelines from various sources.</p> <p dir="ltr">Discover how Keboola's low-code/no-code approach, pre-built connectors, and automation features can streamline your ETL processes, ensure data quality, and empower you to generate valuable business insights.</p> <p dir="ltr">Tim also discusses Keboola's competitive advantages and how it helps businesses achieve data-driven success. Listen and learn how Keboola can democratize data access and reduce the need for a large data engineering team.</p> <p dir="ltr"> Check out keboola.com and steinertanalytics.com</p> <p dir="ltr"> </p> <p dir="ltr">Tim's Linkedin - https://www.linkedin.com/in/twkuhn/</p> <p dir="ltr"> </p> <p> </p>]]></content:encoded>
+			<enclosure length="81097358" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_17_-_42624_7.18_AM.mp3?dest-id=1548626" />
+			<itunes:duration>41:27</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>ETL,Artificial Intelligence,Data Analytics,data engineering,data integration,analytics engineering</itunes:keywords>
+			<itunes:subtitle><![CDATA[On episode 17 of Data & Impact, we dive into data integration automation with Tim Kühn, Solutions Architect at Keboola.  Learn how Keboola tackles the challenges of managing complex data pipelines from various sources. Discover how Keboola's...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Andi Hila | AI Revolutionizing Healthcare</title>
+			<itunes:title>Andi Hila | AI Revolutionizing Healthcare</itunes:title>
+			<pubDate>Wed, 27 Mar 2024 11:43:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9da0ff4e-349c-415e-8015-0292d4cfd024]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/andi-hila-ai-revolutionizing-healthcare]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/c/9/c/1/c9c1be6e05cf4cc288c4a68c3ddbc4f2/Data__Impact_Episode_16.png" />
+			<description><![CDATA[<p>In episode 16, we dive into the transformative power of Artificial Intelligence (AI) in healthcare. We welcome back Columbus's own Andi Hila, VP of Product at Genome Medical, to discuss the current state of AI adoption, its impact on diagnostics, drug discovery, and patient care. We explore the challenges, like data privacy and regulations, and delve into how AI can empower patients through telehealth and personalized care models. We'll also discuss the ethical considerations of using patient data and the future of AI in healthcare.</p> <p> </p> <p>This episode is packed with insights on:</p> <ul> <li>The most promising areas for AI in healthcare (e.g., diagnostics, drug discovery, administrative tasks) </li> <li>How AI enhances remote patient care and telehealth experiences Real-world benefits for patients and providers (e.g., 24/7 access to virtual care, improved efficiency)</li> <li>The ethical considerations of using patient data for AI development</li> <li>The potential long-term impacts of AI on healthcare delivery (e.g., cost reduction, improved access) </li> </ul> <p> </p> <p>Join us for a fascinating conversation about AI's potential to transform healthcare! </p> <p> </p> <p>Available on all major podcast streaming platforms.</p> <p> </p> <p>If you're looking to save money and time, while maximizing revenue opportunity in the central Ohio area, check out steinertanalytics.com</p>]]></description>
+			<content:encoded><![CDATA[<p>In episode 16, we dive into the transformative power of Artificial Intelligence (AI) in healthcare. We welcome back Columbus's own Andi Hila, VP of Product at Genome Medical, to discuss the current state of AI adoption, its impact on diagnostics, drug discovery, and patient care. We explore the challenges, like data privacy and regulations, and delve into how AI can empower patients through telehealth and personalized care models. We'll also discuss the ethical considerations of using patient data and the future of AI in healthcare.</p> <p> </p> <p>This episode is packed with insights on:</p> <ul> <li>The most promising areas for AI in healthcare (e.g., diagnostics, drug discovery, administrative tasks) </li> <li>How AI enhances remote patient care and telehealth experiences Real-world benefits for patients and providers (e.g., 24/7 access to virtual care, improved efficiency)</li> <li>The ethical considerations of using patient data for AI development</li> <li>The potential long-term impacts of AI on healthcare delivery (e.g., cost reduction, improved access) </li> </ul> <p> </p> <p>Join us for a fascinating conversation about AI's potential to transform healthcare! </p> <p> </p> <p>Available on all major podcast streaming platforms.</p> <p> </p> <p>If you're looking to save money and time, while maximizing revenue opportunity in the central Ohio area, check out steinertanalytics.com</p>]]></content:encoded>
+			<enclosure length="87807191" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_16_-_32624_6.40_PM.mp3?dest-id=1548626" />
+			<itunes:duration>44:56</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>consulting,HealthTech,Artificial Intelligence,product management,Data Analytics,healthcare technology,Data Science,data engineering</itunes:keywords>
+			<itunes:subtitle><![CDATA[In episode 16, we dive into the transformative power of Artificial Intelligence (AI) in healthcare. We welcome back Columbus's own Andi Hila, VP of Product at Genome Medical, to discuss the current state of AI adoption, its impact on diagnostics, drug...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Nick Woo | AI Adoption and Governance</title>
+			<itunes:title>Nick Woo | AI Adoption and Governance</itunes:title>
+			<pubDate>Thu, 29 Feb 2024 16:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5362251d-fdfb-4a08-9db1-8e45a7c91272]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/nick-woo-ai-adoption-and-governance]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/d/e/3/ede31f69d7e796aee5bbc093207a2619/Data__Impact_Episode_15.png" />
+			<description><![CDATA[<p>In episode 15, we're diving headfirst into the ever-evolving world of AI, and this time, we're bringing in an expert to guide the way.</p> <p> </p> <p>Buckle up as we welcome Nick Woo, Head of Customer Experience and Growth at AlignAI, to the Data & Impact stage. Nick's background is a fascinating blend of industrial and systems engineering with a touch of psychology, making him a true champion of bridging the gap between data and human impact. From his experience at Boeing to leading product and analytics teams, Nick brings a wealth of knowledge to the table.</p> <p> </p> <p>But what truly excites us in this episode is Nick's current role at AlignAI. This company is on a mission to revolutionize how organizations integrate and leverage AI solutions. Their platform acts as an AI adoption and governance powerhouse, helping businesses balance value, feasibility, and risk in their data-driven endeavors.</p> <p> </p> <p>Tune in for an episode packed with insights on: Navigating the complexities of AI implementation within organizations. Unlocking the true potential of data while ensuring responsible and ethical usage. The future of AI and how it can shape a more impactful and sustainable world. Join us as we explore the power of AI alignment with Nick Woo! This episode promises to be an information-packed journey, leaving you equipped to tackle your own data and AI challenges with newfound confidence.</p>]]></description>
+			<content:encoded><![CDATA[<p>In episode 15, we're diving headfirst into the ever-evolving world of AI, and this time, we're bringing in an expert to guide the way.</p> <p> </p> <p>Buckle up as we welcome Nick Woo, Head of Customer Experience and Growth at AlignAI, to the Data & Impact stage. Nick's background is a fascinating blend of industrial and systems engineering with a touch of psychology, making him a true champion of bridging the gap between data and human impact. From his experience at Boeing to leading product and analytics teams, Nick brings a wealth of knowledge to the table.</p> <p> </p> <p>But what truly excites us in this episode is Nick's current role at AlignAI. This company is on a mission to revolutionize how organizations integrate and leverage AI solutions. Their platform acts as an AI adoption and governance powerhouse, helping businesses balance value, feasibility, and risk in their data-driven endeavors.</p> <p> </p> <p>Tune in for an episode packed with insights on: Navigating the complexities of AI implementation within organizations. Unlocking the true potential of data while ensuring responsible and ethical usage. The future of AI and how it can shape a more impactful and sustainable world. Join us as we explore the power of AI alignment with Nick Woo! This episode promises to be an information-packed journey, leaving you equipped to tackle your own data and AI challenges with newfound confidence.</p>]]></content:encoded>
+			<enclosure length="80797472" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_15_-_22924_11.31_AM.mp3?dest-id=1548626" />
+			<itunes:duration>41:03</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Analytics,Ai,Artificial Intelligence,Data Analytics,Data Science,Data governance,data engineering</itunes:keywords>
+			<itunes:subtitle><![CDATA[In episode 15, we're diving headfirst into the ever-evolving world of AI, and this time, we're bringing in an expert to guide the way.   Buckle up as we welcome Nick Woo, Head of Customer Experience and Growth at AlignAI, to the Data & Impact...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Mike Alvarez | Fortune 20 Data Leader to AI Startup Founder</title>
+			<itunes:title>Mike Alvarez | Fortune 20 Data Leader to AI Startup Founder</itunes:title>
+			<pubDate>Tue, 30 Jan 2024 13:20:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[22fd6974-9810-482e-8575-ccfbb71f5b0d]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/mike-alvarez-fortune-20-data-leader-to-ai-startup-founder]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/a/9/b/8/a9b8f8639987b9b2e5bbc093207a2619/Data__Impact_Episode_14.png" />
+			<description><![CDATA[<p dir="ltr">Get ready for an inspiring conversation on data, leadership, and the future of work! Episode 14 of Data & Impact features a remarkable guest: Mike Alvarez, former healthcare VP of Machine Learning and Enterprise Architecture at a Fortune 20 healthcare company, now revolutionizing the world as a project management automation software founder and CTO.</p> <p><strong> </strong></p> <p dir="ltr">Dive deep with us as we explore:</p> <p><strong> </strong></p> <p dir="ltr">The pivotal shift from hands-on data work to leading a data-driven organization. What are the essential skills and mindsets every aspiring data leader needs?</p> <p dir="ltr">Deconstructing the architect's role. Is it all about blueprints and servers, or is there a deeper, more human element to being the architect of an organization's data strategy?</p> <p dir="ltr">AI's transformative power. How is artificial intelligence reshaping the working world and the data landscape itself? What opportunities and challenges lie ahead?</p> <p dir="ltr">This is more than just a podcast; it's a Passion2Knowledge Experience. You'll gain invaluable insights from a seasoned leader who's seen the data world from both sides – the corporate behemoth and the agile startup. Get ready to be challenged, inspired, and equipped to navigate the data-driven future with confidence.</p> <p><strong> </strong></p> <p dir="ltr">So, tune in, fire up your curiosity, and join us on this Data & Impact journey!</p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p dir="ltr">Get ready for an inspiring conversation on data, leadership, and the future of work! Episode 14 of Data & Impact features a remarkable guest: Mike Alvarez, former healthcare VP of Machine Learning and Enterprise Architecture at a Fortune 20 healthcare company, now revolutionizing the world as a project management automation software founder and CTO.</p> <p> </p> <p dir="ltr">Dive deep with us as we explore:</p> <p> </p> <p dir="ltr">The pivotal shift from hands-on data work to leading a data-driven organization. What are the essential skills and mindsets every aspiring data leader needs?</p> <p dir="ltr">Deconstructing the architect's role. Is it all about blueprints and servers, or is there a deeper, more human element to being the architect of an organization's data strategy?</p> <p dir="ltr">AI's transformative power. How is artificial intelligence reshaping the working world and the data landscape itself? What opportunities and challenges lie ahead?</p> <p dir="ltr">This is more than just a podcast; it's a Passion2Knowledge Experience. You'll gain invaluable insights from a seasoned leader who's seen the data world from both sides – the corporate behemoth and the agile startup. Get ready to be challenged, inspired, and equipped to navigate the data-driven future with confidence.</p> <p> </p> <p dir="ltr">So, tune in, fire up your curiosity, and join us on this Data & Impact journey!</p> <p> </p>]]></content:encoded>
+			<enclosure length="111909331" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_14.mp3?dest-id=1548626" />
+			<itunes:duration>57:27</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Business,automation,healthcare,architecture,entrepreneurship,startup,Artificial Intelligence,future of work,project management,data leadership,Fortune 20</itunes:keywords>
+			<itunes:subtitle><![CDATA[Get ready for an inspiring conversation on data, leadership, and the future of work! Episode 14 of Data & Impact features a remarkable guest: Mike Alvarez, former healthcare VP of Machine Learning and Enterprise Architecture at a Fortune 20...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Zack Pike | Data Consulting &amp; The Importance of a Niche</title>
+			<itunes:title>Zack Pike | Data Consulting &amp; The Importance of a Niche</itunes:title>
+			<pubDate>Fri, 01 Sep 2023 15:29:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[63389dd3-6c14-431a-bb5b-d96f5cba197a]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/zack-pike-data-consulting-the-importance-of-a-niche]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/d/7/d/5d7da9f17c4e19c9bafc7308ab683e82/Data__Impact_Episode_13.png" />
+			<description><![CDATA[<p>In episode 13 of Data & Impact, Zack Pike brings the heat about the journey from corporate data leadership to running a retail-focused data consulting company. We dive into Zack's career journey, his natural and unique transition from corporate leadership to running his own consulting firm and the importance of ultimately establishing a niche.</p> <p> </p> <p>Zack's data consultancy, Magnetic Data Science, focuses on the omnichannel selling environment and covers every area of data from extraction all the way through to analysis and advanced analytics. </p> <p> </p> <p>Follow on LinkedIn:</p> <p>Zack Pike - https://www.linkedin.com/in/zackpike/</p> <p>Magnetic Data Science - https://www.linkedin.com/company/magnetic-data-science/</p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p>In episode 13 of Data & Impact, Zack Pike brings the heat about the journey from corporate data leadership to running a retail-focused data consulting company. We dive into Zack's career journey, his natural and unique transition from corporate leadership to running his own consulting firm and the importance of ultimately establishing a niche.</p> <p> </p> <p>Zack's data consultancy, Magnetic Data Science, focuses on the omnichannel selling environment and covers every area of data from extraction all the way through to analysis and advanced analytics. </p> <p> </p> <p>Follow on LinkedIn:</p> <p>Zack Pike - https://www.linkedin.com/in/zackpike/</p> <p>Magnetic Data Science - https://www.linkedin.com/company/magnetic-data-science/</p> <p> </p>]]></content:encoded>
+			<enclosure length="91753604" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_13_-_9123_11.22_AM.mp3?dest-id=1548626" />
+			<itunes:duration>46:51</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>marketing,data,sales,consulting,Data Analytics,Data Science,data consulting</itunes:keywords>
+			<itunes:subtitle><![CDATA[In episode 13 of Data & Impact, Zack Pike brings the heat about the journey from corporate data leadership to running a retail-focused data consulting company. We dive into Zack's career journey, his natural and unique transition from corporate...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Rehgan Avon | Organizational Data Talent Investment</title>
+			<itunes:title>Rehgan Avon | Organizational Data Talent Investment</itunes:title>
+			<pubDate>Tue, 28 Feb 2023 12:32:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f84f77c9-4d44-42fe-8042-65675d4f4c40]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/rehgan-avon-organizational-data-talent-investment]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/9/c/6/59c6d0c57ce1cd6a40be95ea3302a6a1/DI_Episode_12.png" />
+			<description><![CDATA[<p dir="ltr">On episode 12 of Data & Impact, we had the pleasure of sitting down with Rehgan Avon, CEO of AlignAI and Co-Founder of Women in Analytics, to discuss organizations investing in their data talent. </p> <p dir="ltr">Diving into Rehgan’s background, we learn how she developed her passion for analytics during the rise of big data analytics. Christian begs the question about the advantages of being a STEM major in the data science space versus someone who may have studied business administration or another non-STEM degree. Also ensuring that you think about how a company’s ecosystem will be conducive to obtaining and actually utilizing a certification to upskill.</p> <p dir="ltr">The conversation also goes deep into AlignAI’s program development for organizations and how they can help fine-tune the culture around data literacy and management.<strong><br /></strong></p> <p dir="ltr"> </p> <p dir="ltr">We also touch on Women in Analytics and upskill offerings through their annual global event DataConnect Conference!</p> <p dir="ltr"> </p> <p dir="ltr">Follow Rehgan on LinkedIn: <a href= "https://www.linkedin.com/in/rehganavon/">https://www.linkedin.com/in/rehganavon/</a></p> <p><strong> </strong></p> <p dir="ltr">Follow AlignAI on LinkedIn: <a href= "https://www.linkedin.com/company/alignai/">https://www.linkedin.com/company/alignai/</a></p> <p><strong> </strong></p> <p dir="ltr">Data & Impact is available on Apple Podcasts, Google Podcasts, Stitcher, Spotify, Pandora Radio & iHeart Radio</p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p dir="ltr">On episode 12 of Data & Impact, we had the pleasure of sitting down with Rehgan Avon, CEO of AlignAI and Co-Founder of Women in Analytics, to discuss organizations investing in their data talent. </p> <p dir="ltr">Diving into Rehgan’s background, we learn how she developed her passion for analytics during the rise of big data analytics. Christian begs the question about the advantages of being a STEM major in the data science space versus someone who may have studied business administration or another non-STEM degree. Also ensuring that you think about how a company’s ecosystem will be conducive to obtaining and actually utilizing a certification to upskill.</p> <p dir="ltr">The conversation also goes deep into AlignAI’s program development for organizations and how they can help fine-tune the culture around data literacy and management.</p> <p dir="ltr"> </p> <p dir="ltr">We also touch on Women in Analytics and upskill offerings through their annual global event DataConnect Conference!</p> <p dir="ltr"> </p> <p dir="ltr">Follow Rehgan on LinkedIn: <a href= "https://www.linkedin.com/in/rehganavon/">https://www.linkedin.com/in/rehganavon/</a></p> <p> </p> <p dir="ltr">Follow AlignAI on LinkedIn: <a href= "https://www.linkedin.com/company/alignai/">https://www.linkedin.com/company/alignai/</a></p> <p> </p> <p dir="ltr">Data & Impact is available on Apple Podcasts, Google Podcasts, Stitcher, Spotify, Pandora Radio & iHeart Radio</p> <p> </p>]]></content:encoded>
+			<enclosure length="49324155" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data___Impact_-_Episode_12_V3_Adv.mp3?dest-id=1548626" />
+			<itunes:duration>49:24</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>women in stem,Data Analytics,Data Science,business intelligence,alignai</itunes:keywords>
+			<itunes:subtitle><![CDATA[On episode 12 of Data & Impact, we had the pleasure of sitting down with Rehgan Avon, CEO of AlignAI and Co-Founder of Women in Analytics, to discuss organizations investing in their data talent.  Diving into Rehgan’s background, we learn how...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Martin Fiser | Keboola, Data Management &amp; Reverse ETL</title>
+			<itunes:title>Martin Fiser | Keboola, Data Management &amp; Reverse ETL</itunes:title>
+			<pubDate>Fri, 30 Sep 2022 16:55:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[dbba1fd1-2ebf-4098-b3f1-2f810591ebd4]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/martin-fiser-keboola-data-management-reverse-etl]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/1/c/5/3/1c531232e50e4d17a04421dee9605cbd/Data__Impact_Episode_11.png" />
+			<description><![CDATA[<p>In Data & Impact episode 11, Martin Fiser, Head of Professional Services at Keboola, joins us to dive into the platform as a premiere all-in-one data engineering platform and its role in data management, data governance and reverse ETL.</p> <p>Data & Impact is available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p> <p>Follow Martin on LinkedIn: <a href= "https://www.linkedin.com/in/fisermartin/">https://www.linkedin.com/in/fisermartin/</a></p> <p>Follow Keboola on LinkedIn: <a href= "https://www.linkedin.com/company/keboola/">https://www.linkedin.com/company/keboola/</a></p> <p>Check out their website: https://www.keboola.com/</p>]]></description>
+			<content:encoded><![CDATA[<p>In Data & Impact episode 11, Martin Fiser, Head of Professional Services at Keboola, joins us to dive into the platform as a premiere all-in-one data engineering platform and its role in data management, data governance and reverse ETL.</p> <p>Data & Impact is available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p> <p>Follow Martin on LinkedIn: <a href= "https://www.linkedin.com/in/fisermartin/">https://www.linkedin.com/in/fisermartin/</a></p> <p>Follow Keboola on LinkedIn: <a href= "https://www.linkedin.com/company/keboola/">https://www.linkedin.com/company/keboola/</a></p> <p>Check out their website: https://www.keboola.com/</p>]]></content:encoded>
+			<enclosure length="64632291" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_11.mp3?dest-id=1548626" />
+			<itunes:duration>33:40</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In Data & Impact episode 11, Martin Fiser, Head of Professional Services at Keboola, joins us to dive into the platform as a premiere all-in-one data engineering platform and its role in data management, data governance and reverse ETL. Data & Impact...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Megan Lieu | A Journey From Finance to Data Science</title>
+			<itunes:title>Megan Lieu | A Journey From Finance to Data Science</itunes:title>
+			<pubDate>Wed, 10 Aug 2022 21:04:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3462508f-cd52-4ead-a6c5-d879ed4c063f]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/megan-lieu-a-journey-from-finance-to-data-science]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/c/e/f/7cefad92c43ce2bc27a2322813b393ee/Data__Impact_Episode_10.png" />
+			<description><![CDATA[<span style="font-weight: 400;">We are honored to welcome Megan Lieu onto Data & Impact for episode 10! As an Insights Data Scientist at Narrator.ai, a top LinkedIn Data Content Creator and trending woman in data, we are honored to have Megan on the show. We delve into Megan’s academic background and journey from her career beginnings in finance to her impressive transition into data science & analytics!</span> <p> </p> <p><span style="font-weight: 400;">This episode covers topics such as</span></p> <ul> <li style="font-weight: 400;" aria-level="1"><span style= "font-weight: 400;">breaking into the field with limited analytics experience</span></li> <li style="font-weight: 400;" aria-level="1"><span style= "font-weight: 400;">Upskilling in Python</span></li> <li style="font-weight: 400;" aria-level="1"><span style= "font-weight: 400;">Startups vs. Large Corporations</span></li> <li style="font-weight: 400;" aria-level="1"><span style= "font-weight: 400;">A day in the life of a data scientist: expectation vs. reality</span></li> <li style="font-weight: 400;" aria-level="1"><span style= "font-weight: 400;">Building your LinkedIn brand as a data professional</span></li> </ul> <p> </p> <p><span style="font-weight: 400;">Don’t forget to check out Megan’s LinkedIn profile and give her a follow at https://www.linkedin.com/in/meganlieu/</span></p>]]></description>
+			<content:encoded><![CDATA[We are honored to welcome Megan Lieu onto Data & Impact for episode 10! As an Insights Data Scientist at Narrator.ai, a top LinkedIn Data Content Creator and trending woman in data, we are honored to have Megan on the show. We delve into Megan’s academic background and journey from her career beginnings in finance to her impressive transition into data science & analytics! <p> </p> <p>This episode covers topics such as</p> <ul> <li style="font-weight: 400;" aria-level="1">breaking into the field with limited analytics experience</li> <li style="font-weight: 400;" aria-level="1">Upskilling in Python</li> <li style="font-weight: 400;" aria-level="1">Startups vs. Large Corporations</li> <li style="font-weight: 400;" aria-level="1">A day in the life of a data scientist: expectation vs. reality</li> <li style="font-weight: 400;" aria-level="1">Building your LinkedIn brand as a data professional</li> </ul> <p> </p> <p>Don’t forget to check out Megan’s LinkedIn profile and give her a follow at https://www.linkedin.com/in/meganlieu/</p>]]></content:encoded>
+			<enclosure length="84780477" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_10_-_8922_7.53_PM.mp3?dest-id=1548626" />
+			<itunes:duration>43:20</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Technology,Business,startup,dataengineering,Data Analytics,Data Science,data visualization</itunes:keywords>
+			<itunes:subtitle><![CDATA[We are honored to welcome Megan Lieu onto Data & Impact for episode 10! As an Insights Data Scientist at Narrator.ai, a top LinkedIn Data Content Creator and trending woman in data, we are honored to have Megan on the show. We delve into Megan’s...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Dustin Schimek | Impactful Leadership in Data</title>
+			<itunes:title>Dustin Schimek | Impactful Leadership in Data</itunes:title>
+			<pubDate>Mon, 13 Jun 2022 21:34:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[548d8e5d-f148-48bb-8696-cb7af3f7f0e1]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/dustin-schimek-impactful-leadership-in-data]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/f/a/5/e/fa5e2f614e93d31988c4a68c3ddbc4f2/DataImpact_Episode_9.png" />
+			<description><![CDATA[<p>Join our conversation with Dustin Schimek, Data Science & Analytics Thought-Leader, Founder of Data Ideas and former Director of Analytics.  We dive into the beginnings of Dustin's data career as an analyst and his transition to data leadership. Focusing on his technical and management skills, leadership and how he has successfully driven data initiatives in sales and operations departments.  Leveraging his background in data leadership, he recently founded Data Ideas. Data Ideas shows what analytics makes possible through contests, examples & live events.</p> <p>Connect with Dustin: </p> <p>LinkedIn - <a href= "https://www.linkedin.com/in/dustinschimek/">https://www.linkedin.com/in/dustinschimek/</a></p> <p>YouTube - youtube.com/channel/UCCSt9lzW-cyRuTLtyfvArPg</p> <p>DataIdeas.co</p>]]></description>
+			<content:encoded><![CDATA[<p>Join our conversation with Dustin Schimek, Data Science & Analytics Thought-Leader, Founder of Data Ideas and former Director of Analytics.  We dive into the beginnings of Dustin's data career as an analyst and his transition to data leadership. Focusing on his technical and management skills, leadership and how he has successfully driven data initiatives in sales and operations departments.  Leveraging his background in data leadership, he recently founded Data Ideas. Data Ideas shows what analytics makes possible through contests, examples & live events.</p> <p>Connect with Dustin: </p> <p>LinkedIn - <a href= "https://www.linkedin.com/in/dustinschimek/">https://www.linkedin.com/in/dustinschimek/</a></p> <p>YouTube - youtube.com/channel/UCCSt9lzW-cyRuTLtyfvArPg</p> <p>DataIdeas.co</p>]]></content:encoded>
+			<enclosure length="75807684" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_9_-_61322_5.39_PM.mp3?dest-id=1548626" />
+			<itunes:duration>39:29</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join our conversation with Dustin Schimek, Data Science & Analytics Thought-Leader, Founder of Data Ideas and former Director of Analytics.  We dive into the beginnings of Dustin's data career as an analyst and his transition to data leadership....]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Brad Ploch - Co-Founder of WRK Marketing &amp; Digital Marketing Consultant</title>
+			<itunes:title>Brad Ploch - Co-Founder of WRK Marketing &amp; Digital Marketing Consultant</itunes:title>
+			<pubDate>Tue, 15 Feb 2022 22:23:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3f7cbc9b-67a6-419c-8b55-6674d9da1db9]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/brad-ploch-co-founder-of-wrk-marketing-digital-marketing-consultant]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/1/4/9/d/149d2dbae90aa729e55e3c100dce7605/Data__Impact_Episode_8.png" />
+			<description><![CDATA[<p>Join us as we dive into the world of marketing analytics, social media and data visualization as a marketer! Brad is the co-founder of WRK Marketing and a veteran digital marketing consultant managing 7+ figures of annual spend on Facebook, Instagram, Snapchat, and Google.  A few things we cover are Brad's marketing analytics toolstack, calculating customer attribution, e-commerce metrics and his process for storytelling insights to clients!  Follow Brad on LinkedIn: www.linkedin.com/in/bradploch/</p>]]></description>
+			<content:encoded><![CDATA[<p>Join us as we dive into the world of marketing analytics, social media and data visualization as a marketer! Brad is the co-founder of WRK Marketing and a veteran digital marketing consultant managing 7+ figures of annual spend on Facebook, Instagram, Snapchat, and Google.  A few things we cover are Brad's marketing analytics toolstack, calculating customer attribution, e-commerce metrics and his process for storytelling insights to clients!  Follow Brad on LinkedIn: www.linkedin.com/in/bradploch/</p>]]></content:encoded>
+			<enclosure length="61922244" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_8_-_21522_5.44_PM.mp3?dest-id=1548626" />
+			<itunes:duration>32:15</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us as we dive into the world of marketing analytics, social media and data visualization as a marketer! Brad is the co-founder of WRK Marketing and a veteran digital marketing consultant managing 7+ figures of annual spend on Facebook, Instagram,...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Four Worst Looker Practices</title>
+			<itunes:title>Four Worst Looker Practices</itunes:title>
+			<pubDate>Wed, 26 Jan 2022 01:34:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8dfc2a6f-0ecd-41ba-afe9-b8ee30e32c8c]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/four-worst-looker-practices]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/3/f/a/a/3faa27a116736bd15f2e77a3093c12a1/Data__Impact_Episode_7.png" />
+			<description><![CDATA[<p>Join Christian as he discusses his four worst Looker development and user practices he's seen throughout the course of his career in BI and data engineering. </p> <p>Looker is a business intelligence tool owned by Google Cloud Platform. </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio and iHeart Radio</p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p>Join Christian as he discusses his four worst Looker development and user practices he's seen throughout the course of his career in BI and data engineering. </p> <p>Looker is a business intelligence tool owned by Google Cloud Platform. </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio and iHeart Radio</p> <p> </p>]]></content:encoded>
+			<enclosure length="62070371" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_7_-_12522_8.26_PM.mp3?dest-id=1548626" />
+			<itunes:duration>32:17</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>google,Analytics,reporting,Looker,businessintelligence,tipsandtricks</itunes:keywords>
+			<itunes:subtitle><![CDATA[Join Christian as he discusses his four worst Looker development and user practices he's seen throughout the course of his career in BI and data engineering.  Looker is a business intelligence tool owned by Google Cloud Platform.  Available...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Update &amp; Christian's SnowPro Core Certification Journey</title>
+			<itunes:title>Update &amp; Christian's SnowPro Core Certification Journey</itunes:title>
+			<pubDate>Thu, 18 Nov 2021 23:04:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e65da52c-52f0-4df3-acf0-d5b35728c85d]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/update-christians-snowpro-core-certification-journey]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/a/d/4/5ad46ef1de48f555d959afa2a1bf1c87/Data__Impact_Episode_6.png" />
+			<description><![CDATA[<p>Join Christian as he chats about his Snowflake SnowPro Core Certification journey of failures and lessons learned while also providing an update to the Data & Impact Community! </p>]]></description>
+			<content:encoded><![CDATA[<p>Join Christian as he chats about his Snowflake SnowPro Core Certification journey of failures and lessons learned while also providing an update to the Data & Impact Community! </p>]]></content:encoded>
+			<enclosure length="38129250" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_6_-_111821_5.57_PM.mp3?dest-id=1548626" />
+			<itunes:duration>19:49</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Technology,data,Engineering,certification,Snowflake,snowpro</itunes:keywords>
+			<itunes:subtitle><![CDATA[Join Christian as he chats about his Snowflake SnowPro Core Certification journey of failures and lessons learned while also providing an update to the Data & Impact Community! ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Harpreet Sahota - Creating Impact In &amp; Beyond an Enterprise</title>
+			<itunes:title>Harpreet Sahota - Creating Impact In &amp; Beyond an Enterprise</itunes:title>
+			<pubDate>Wed, 13 Oct 2021 21:14:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d659668a-712f-4207-96b8-201c8741eeef]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/harpreet-sahota-creating-impact-in-beyond-an-enterprise]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/f/b/8/f/fb8fa5e16519f16fa04421dee9605cbd/Data__Impact_Episode_5.png" />
+			<description><![CDATA[<p>Harpreet Sahota is a philosopher, data scientist and the host of The Artists of Data Science podcast. Join us as we dive into Harpreet's journey to becoming a data scientist, a multitude of operational topics in data science, and his side hustles in data mentoring and podcasting and personal development.</p> <p>Available on Apple Podcasts, Spotify, Google Podcasts, Stitcher, Pandora Radio, & iHeart Radio</p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p>Harpreet Sahota is a philosopher, data scientist and the host of The Artists of Data Science podcast. Join us as we dive into Harpreet's journey to becoming a data scientist, a multitude of operational topics in data science, and his side hustles in data mentoring and podcasting and personal development.</p> <p>Available on Apple Podcasts, Spotify, Google Podcasts, Stitcher, Pandora Radio, & iHeart Radio</p> <p> </p>]]></content:encoded>
+			<enclosure length="79690423" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_5_-_101321_5.21_PM.mp3?dest-id=1548626" />
+			<itunes:duration>41:13</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Philosophy,python,Analytics,MachineLearning,datascience</itunes:keywords>
+			<itunes:subtitle><![CDATA[Harpreet Sahota is a philosopher, data scientist and the host of The Artists of Data Science podcast. Join us as we dive into Harpreet's journey to becoming a data scientist, a multitude of operational topics in data science, and his side hustles in...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Heath Rittler - Leadership in Business Intelligence</title>
+			<itunes:title>Heath Rittler - Leadership in Business Intelligence</itunes:title>
+			<pubDate>Mon, 13 Sep 2021 22:02:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[09c70120-128a-4451-993e-c1eb307bd3e1]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/heath-rittler-leadership-in-business-intelligence]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/f/8/4/4/f84418d69388b3d716c3140a3186d450/Data__Impact_Episode_4.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">In Data & Impact episode four, we dive into data leadership and maximizing impact with Heath Rittler, Vice President of Analytics at Updox and start-up cofounder in the healthcare industry. Heath currently guides strategic decision-making for Updox and AlertMD based on supporting data, analytics and actionable insights. His expertise in business intelligence and analytics is founded in experience across the multidisciplinary healthcare delivery system, including provider, carrier, and consumer. With a background in healthcare economics, Heath curates data delivery and leads the technical development and strategy of business intelligence. He volunteers with Women in Analytics and participates in the Rev1 mentorship program.</span></p> <p><span style="font-weight: 400;">Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</span></p> <p>Follow Heath on LinkedIn: <a href= "https://www.linkedin.com/in/heathrittler/">https://www.linkedin.com/in/heathrittler/</a></p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p>In Data & Impact episode four, we dive into data leadership and maximizing impact with Heath Rittler, Vice President of Analytics at Updox and start-up cofounder in the healthcare industry. Heath currently guides strategic decision-making for Updox and AlertMD based on supporting data, analytics and actionable insights. His expertise in business intelligence and analytics is founded in experience across the multidisciplinary healthcare delivery system, including provider, carrier, and consumer. With a background in healthcare economics, Heath curates data delivery and leads the technical development and strategy of business intelligence. He volunteers with Women in Analytics and participates in the Rev1 mentorship program.</p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p> <p>Follow Heath on LinkedIn: <a href= "https://www.linkedin.com/in/heathrittler/">https://www.linkedin.com/in/heathrittler/</a></p> <p> </p>]]></content:encoded>
+			<enclosure length="74899232" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_4.mp3?dest-id=1548626" />
+			<itunes:duration>38:54</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>leadership,entrepreneurship,executive,vicepresident,businessintelligence,DataAnalytics</itunes:keywords>
+			<itunes:subtitle><![CDATA[In Data & Impact episode four, we dive into data leadership and maximizing impact with Heath Rittler, Vice President of Analytics at Updox and start-up cofounder in the healthcare industry. Heath currently guides strategic decision-making for...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Kim Herrington - Data Journalist &amp; Communicator </title>
+			<itunes:title>Kim Herrington - Data Journalist &amp; Communicator </itunes:title>
+			<pubDate>Mon, 16 Aug 2021 21:54:14 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2f22d355-1cdf-42aa-a7c4-3e0926a49576]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/kim-herrington-data-journalist-communicator]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/f/2/1/2f21a1b7bb180b4ebafc7308ab683e82/Data__Impact_Episode_3.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">Kim Herrington is a Data Journalist, Creator of #BuffaloBusinessIntelligence & #WNYWifiWarriors and expert data communicator. She has extensive experience translating data for use in business execution through storytelling and data visualization. Kim currently holds the world-wide title of "2020 Data Literacy Advocate of the Year" and has also been recognized as one of 20 Emerging Influencers in 2020 for Big Data, Data Science, & Analytics. Furthermore, Kim uses data to drive game-changing impact during the pandemic with WNYWifiWarriors and exploiting the digital divide in her community. Listen as we discuss her background, the fundamental concept of data storytelling, navigating data processes in business environments, and interpersonal communications for data professionals. </span></p> <p> </p> <p><span style="font-weight: 400;">Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</span></p> <p> </p> <p><span style="font-weight: 400;">Kim’s Links -</span> <a href= "https://wnydigitalequity.org/"><span style= "font-weight: 400;">https://wnydigitalequity.org/</span></a><span style="font-weight: 400;">,</span> <a href= "https://www.eventbrite.com/e/buffalo-business-intelligence-bi-work-group-tickets-157501492203?aff=ebdssbdestsearch"> <span style= "font-weight: 400;">https://www.eventbrite.com/e/buffalo-business-intelligence-bi-work-group-tickets-157501492203?aff=ebdssbdestsearch</span></a></p> <p><br /> <span style="font-weight: 400;">Follow her on LinkedIn:</span> <a href= "https://www.linkedin.com/in/kimberlyherrington/"><span style= "font-weight: 400;">https://www.linkedin.com/in/kimberlyherrington/</span></a></p>]]></description>
+			<content:encoded><![CDATA[<p>Kim Herrington is a Data Journalist, Creator of #BuffaloBusinessIntelligence & #WNYWifiWarriors and expert data communicator. She has extensive experience translating data for use in business execution through storytelling and data visualization. Kim currently holds the world-wide title of "2020 Data Literacy Advocate of the Year" and has also been recognized as one of 20 Emerging Influencers in 2020 for Big Data, Data Science, & Analytics. Furthermore, Kim uses data to drive game-changing impact during the pandemic with WNYWifiWarriors and exploiting the digital divide in her community. Listen as we discuss her background, the fundamental concept of data storytelling, navigating data processes in business environments, and interpersonal communications for data professionals. </p> <p> </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p> <p> </p> <p>Kim’s Links - <a href= "https://wnydigitalequity.org/">https://wnydigitalequity.org/</a>, <a href= "https://www.eventbrite.com/e/buffalo-business-intelligence-bi-work-group-tickets-157501492203?aff=ebdssbdestsearch"> https://www.eventbrite.com/e/buffalo-business-intelligence-bi-work-group-tickets-157501492203?aff=ebdssbdestsearch</a></p> <p> Follow her on LinkedIn: <a href= "https://www.linkedin.com/in/kimberlyherrington/">https://www.linkedin.com/in/kimberlyherrington/</a></p>]]></content:encoded>
+			<enclosure length="102979110" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_3_-_81421_9.37_AM.mp3?dest-id=1548626" />
+			<itunes:duration>53:19</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>communication,data,storytelling,Analytics,businessintelligence,datascience</itunes:keywords>
+			<itunes:subtitle><![CDATA[Kim Herrington is a Data Journalist, Creator of #BuffaloBusinessIntelligence & #WNYWifiWarriors and expert data communicator. She has extensive experience translating data for use in business execution through storytelling and data visualization....]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Andi Hila - Data-Driven Product Management in Telehealth</title>
+			<itunes:title>Andi Hila - Data-Driven Product Management in Telehealth</itunes:title>
+			<pubDate>Tue, 13 Jul 2021 21:57:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[744fbb00-bfb4-438c-a4e8-065c9e6ad28b]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/andi-hila-data-driven-product-management-in-telehealth]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/2/d/4/b2d419079b15980b5f2e77a3093c12a1/Data__Impact_Episode_2.png" />
+			<description><![CDATA[<p>Andi Hila is the Vice President of Product at a cutting-edge genetics telehealth start-up called GeneMatters. Andi has extensive product management leadership experience, bringing tier 1 data engineering & BI processes and telehealth products to scale at start-ups & healthcare software companies Explorys, IBM Watson, and Updox. He is a Columbus Comspark 30 Under 30 winner and alumnus of The Ohio State University. </p> <p>Data & Impact is available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p> <p> </p> <p>Follow us on LinkedIn, Instagram, Twitter, and Facebook @dataandimpact</p>]]></description>
+			<content:encoded><![CDATA[<p>Andi Hila is the Vice President of Product at a cutting-edge genetics telehealth start-up called GeneMatters. Andi has extensive product management leadership experience, bringing tier 1 data engineering & BI processes and telehealth products to scale at start-ups & healthcare software companies Explorys, IBM Watson, and Updox. He is a Columbus Comspark 30 Under 30 winner and alumnus of The Ohio State University. </p> <p>Data & Impact is available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p> <p> </p> <p>Follow us on LinkedIn, Instagram, Twitter, and Facebook @dataandimpact</p>]]></content:encoded>
+			<enclosure length="86511267" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_2.mp3?dest-id=1548626" />
+			<itunes:duration>44:38</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Technology,software,data,healthcare,entrepreneurship,startup,productmanagement</itunes:keywords>
+			<itunes:subtitle><![CDATA[Andi Hila is the Vice President of Product at a cutting-edge genetics telehealth start-up called GeneMatters. Andi has extensive product management leadership experience, bringing tier 1 data engineering & BI processes and telehealth products to...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Kurtis Pykes, Self-Taught ML Engineer &amp; Towards Data Science Top Contributor</title>
+			<itunes:title>Kurtis Pykes, Self-Taught ML Engineer &amp; Towards Data Science Top Contributor</itunes:title>
+			<pubDate>Mon, 14 Jun 2021 22:09:14 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[17e32799-2cd9-4be0-83b2-4a5a55694619]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/kurtis-pykes-self-taught-ml-engineer-towards-data-science-top-contributor]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/2/d/f/72df02d1352448f3e55e3c100dce7605/Data__Impact_1.png" />
+			<description><![CDATA[<p>The first episode of Data & Impact, a Passion2Knowledge Experience features Kurtis Pykes! Kurtis is a self-taught ML engineer & data scientist with a strong interest in freelance data analytics and blogging. Kurtis has been awarded a top contributor on Towards Data Science on Medium with publications succeeding 100,000 readers per month. </p> <p>Join us as we dive into his background and discuss freelance data science, ML, data engineering vs. data science and much more!</p>]]></description>
+			<content:encoded><![CDATA[<p>The first episode of Data & Impact, a Passion2Knowledge Experience features Kurtis Pykes! Kurtis is a self-taught ML engineer & data scientist with a strong interest in freelance data analytics and blogging. Kurtis has been awarded a top contributor on Towards Data Science on Medium with publications succeeding 100,000 readers per month. </p> <p>Join us as we dive into his background and discuss freelance data science, ML, data engineering vs. data science and much more!</p>]]></content:encoded>
+			<enclosure length="101722808" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Data__Impact_Episode_1.mp3?dest-id=1548626" />
+			<itunes:duration>52:55</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>data,Business,research,Analytics,Ai,MachineLearning,datascience</itunes:keywords>
+			<itunes:subtitle><![CDATA[The first episode of Data & Impact, a Passion2Knowledge Experience features Kurtis Pykes! Kurtis is a self-taught ML engineer & data scientist with a strong interest in freelance data analytics and blogging. Kurtis has been awarded a top...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Jake Akin - Regional Vice President, Outplacement &amp; Sales</title>
+			<itunes:title>Jake Akin - Regional Vice President, Outplacement &amp; Sales</itunes:title>
+			<pubDate>Sun, 16 May 2021 14:27:27 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[615482a9-660f-45ec-82ee-a1d012eb4f82]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/jake-akin-regional-vice-president-outplacement-sales]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/0/0/5/0005f59927508e6b16c3140a3186d450/The_Performance_Motivation_Experience_1.png" />
+			<description><![CDATA[<p>Join us on the final episode of Passion2Knowledge - The Performance Motivation Experience as we sit down with Jake Akin, talent mobility & outplacement expert. The conversation highlights how Jake strategically aligned his network during college to set him up for fast career trajectory living in Silicon Valley. Coming from Wisconsin, his story is unique and exciting, filled with critical takeaways for future job candidates, dealing with the hard knocks of life, and persevering by leveraging your network. Feel the energy, P2K Community! </p> <p> </p> <p>Starting in June 2021, Data & Impact, A Passion2Knowledge Experience will begin. Thank you for an amazing three years of P2K! </p>]]></description>
+			<content:encoded><![CDATA[<p>Join us on the final episode of Passion2Knowledge - The Performance Motivation Experience as we sit down with Jake Akin, talent mobility & outplacement expert. The conversation highlights how Jake strategically aligned his network during college to set him up for fast career trajectory living in Silicon Valley. Coming from Wisconsin, his story is unique and exciting, filled with critical takeaways for future job candidates, dealing with the hard knocks of life, and persevering by leveraging your network. Feel the energy, P2K Community! </p> <p> </p> <p>Starting in June 2021, Data & Impact, A Passion2Knowledge Experience will begin. Thank you for an amazing three years of P2K! </p>]]></content:encoded>
+			<enclosure length="84127562" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_49_-_51621_9.59_AM.mp3?dest-id=1548626" />
+			<itunes:duration>43:45</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sales,HR,hustle,Outplacement,vicepresident,talentmobility</itunes:keywords>
+			<itunes:subtitle><![CDATA[Join us on the final episode of Passion2Knowledge - The Performance Motivation Experience as we sit down with Jake Akin, talent mobility & outplacement expert. The conversation highlights how Jake strategically aligned his network during college...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Passion2Knowledge Announcement: Data &amp; Impact</title>
+			<itunes:title>Passion2Knowledge Announcement: Data &amp; Impact</itunes:title>
+			<pubDate>Thu, 15 Apr 2021 21:57:25 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[dcc92f3b-e28d-419e-92bd-2517ab422e7f]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/passion2knowledge-announcement-data-impact]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/3/d/f/c/3dfcc5901c06624d40be95ea3302a6a1/IMG_20190930_210536_997.jpg" />
+			<description><![CDATA[<p>Hey P2K Community! A very exciting and short announcement that after mid-May's final P2K episode, the show/RSS feed will be changing to Data & Impact - A Passion2Knowledge Experience. Christian dives in and explains why the change! </p>]]></description>
+			<content:encoded><![CDATA[<p>Hey P2K Community! A very exciting and short announcement that after mid-May's final P2K episode, the show/RSS feed will be changing to Data & Impact - A Passion2Knowledge Experience. Christian dives in and explains why the change! </p>]]></content:encoded>
+			<enclosure length="6925015" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_48.m4a?dest-id=1548626" />
+			<itunes:duration>07:04</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>data,Engineering,pivot,announcement,influence</itunes:keywords>
+			<itunes:subtitle><![CDATA[Hey P2K Community! A very exciting and short announcement that after mid-May's final P2K episode, the show/RSS feed will be changing to Data & Impact - A Passion2Knowledge Experience. Christian dives in and explains why the change! ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Payne White, Columbus-based Men's Hair Stylist</title>
+			<itunes:title>Payne White, Columbus-based Men's Hair Stylist</itunes:title>
+			<pubDate>Tue, 23 Mar 2021 19:07:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a439b839-cdad-434b-9bd5-3808d22989ae]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/payne-white-columbus-based-mens-hair-stylist]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/d/6/b/ed6b7dd8cc1d5c6c/P2K_Episode_47.png" />
+			<description><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 47, Payne White tells his background and how his twists and turn led to an unrivaled passion for hair & style. Not only do we dive into his failures and learning moments, but how he has channeled his energy and focus in a COVID world to perform full-time entrepreneurship in his niche craft of men's hair styling (using Instagram). Furthermore, learn about Payne's influences that have tailored his unique brand experience for men's hair. </p> <p>Connect with Payne or book an appointment:</p> <p>IG - payne_white & 614mezmer </p> <p>Website: https://www.paynewhite.com/</p> <div class="nZSzR"> <div class=" Igw0E IwRSH eGOV_ ybXk5 _4EzTm"> <div class=" Igw0E IwRSH eGOV_ ybXk5 _4EzTm"> <div class=""> <div class=" Igw0E IwRSH eGOV_ _4EzTm"> <div class="OfoBO"> <div class="_5fEvj coreSpriteDropdownArrowGrey9"> </div> </div> </div> </div> </div> </div> <div class="AFWDX"> </div> </div>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 47, Payne White tells his background and how his twists and turn led to an unrivaled passion for hair & style. Not only do we dive into his failures and learning moments, but how he has channeled his energy and focus in a COVID world to perform full-time entrepreneurship in his niche craft of men's hair styling (using Instagram). Furthermore, learn about Payne's influences that have tailored his unique brand experience for men's hair. </p> <p>Connect with Payne or book an appointment:</p> <p>IG - payne_white & 614mezmer </p> <p>Website: https://www.paynewhite.com/</p>                ]]></content:encoded>
+			<enclosure length="77571558" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Episode_47_-_32321_3.00_PM.mp3?dest-id=1548626" />
+			<itunes:duration>40:11</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Ohio,Men,Inspiration,hair,Columbus,stylist,Instagram</itunes:keywords>
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 47, Payne White tells his background and how his twists and turn led to an unrivaled passion for hair & style. Not only do we dive into his failures and learning moments, but how he has...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Nicholas Lowthorpe, Data Visualization &amp; Communication in Data Science</title>
+			<itunes:title>Nicholas Lowthorpe, Data Visualization &amp; Communication in Data Science</itunes:title>
+			<pubDate>Sun, 21 Feb 2021 23:18:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8866d050-7ee7-4068-a043-6a3cf1372b31]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/nicholas-lowthorpe-data-visualization-communication-in-data-science]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/c/a/8/7ca85053331db834/P2K_Episode_46.png" />
+			<description><![CDATA[<p>Nicholas Lowthorpe is a data visualization & communication expert with extensive experience in engineering & data science while holding advanced degrees in astrophysics, mechanical & systems engineering, and analytics. He is currently a Research & Enterprise Analyst at the University of Hull. Learn about Nicholas's rise to data success, overcoming adversity and prospering to the next level of execution in data! Another fun fact is that Nicholas is currently pursuing a second master's degree in analytics from the Quantic School of Business and Technology. You're not going to want to miss this one, data nerds & beyond! Feel the energy, P2K Community!</p> <p> </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio, & iHeart Radio</p>]]></description>
+			<content:encoded><![CDATA[<p>Nicholas Lowthorpe is a data visualization & communication expert with extensive experience in engineering & data science while holding advanced degrees in astrophysics, mechanical & systems engineering, and analytics. He is currently a Research & Enterprise Analyst at the University of Hull. Learn about Nicholas's rise to data success, overcoming adversity and prospering to the next level of execution in data! Another fun fact is that Nicholas is currently pursuing a second master's degree in analytics from the Quantic School of Business and Technology. You're not going to want to miss this one, data nerds & beyond! Feel the energy, P2K Community!</p> <p> </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio, & iHeart Radio</p>]]></content:encoded>
+			<enclosure length="91283797" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_46_-_22121_5.57_PM.mp3?dest-id=1548626" />
+			<itunes:duration>47:12</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>data,Business,businessintelligence,MachineLearning,datascience,DataAnalytics</itunes:keywords>
+			<itunes:subtitle><![CDATA[Nicholas Lowthorpe is a data visualization & communication expert with extensive experience in engineering & data science while holding advanced degrees in astrophysics, mechanical & systems engineering, and analytics. He is currently a...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The Return of Diet Lite</title>
+			<itunes:title>The Return of Diet Lite</itunes:title>
+			<pubDate>Sat, 09 Jan 2021 18:53:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a6cf041f-00a0-4861-88b2-835894be7e19]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/the-return-of-diet-lite]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/3/6/0/0360d9b5111d851a/P2K_Episode_45.png" />
+			<description><![CDATA[<p class="p1">P2K - The Performance Motivation Experience - In episode 45, alternative punk rock band Diet Lite returns for an episode tackling their musical evolution and experiences since joining P2K in January 2019. Hailing from the Milwaukee/Chicago Areas, Diet Lite is spicing the alternative scene with their comedic approach to content, intricate lyrics and passion that has created their unique sound. Feel the energy as we dive into their band’s process during the pandemic, best memories thus far, and their enhanced band chemistry as they’ve gone deeper into music writing & performing.</p> <p class="p4"> </p> <p class="p4">P2K is Available On Apple Podcasts, Google Podcasts, Stitcher, Spotify, Pandora Radio & iHeart Radio</p>]]></description>
+			<content:encoded><![CDATA[<p class="p1">P2K - The Performance Motivation Experience - In episode 45, alternative punk rock band Diet Lite returns for an episode tackling their musical evolution and experiences since joining P2K in January 2019. Hailing from the Milwaukee/Chicago Areas, Diet Lite is spicing the alternative scene with their comedic approach to content, intricate lyrics and passion that has created their unique sound. Feel the energy as we dive into their band’s process during the pandemic, best memories thus far, and their enhanced band chemistry as they’ve gone deeper into music writing & performing.</p> <p class="p4"> </p> <p class="p4">P2K is Available On Apple Podcasts, Google Podcasts, Stitcher, Spotify, Pandora Radio & iHeart Radio</p>]]></content:encoded>
+			<enclosure length="72276057" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_45_-_1921_1.42_PM.mp3?dest-id=1548626" />
+			<itunes:duration>37:36</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>music,punk,performance,band,wisconsin,creativity,Milwaukee,ALTERNATIVEROCK</itunes:keywords>
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 45, alternative punk rock band Diet Lite returns for an episode tackling their musical evolution and experiences since joining P2K in January 2019. Hailing from the Milwaukee/Chicago Areas, Diet...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Zak's Air Force Training </title>
+			<itunes:title>Zak's Air Force Training </itunes:title>
+			<pubDate>Mon, 21 Dec 2020 01:15:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[492df63a-2511-49d1-a658-2823f22e9edc]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/zaks-air-force-training]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/8/5/2/e852847fbf91de6f/P2K_Episode_44.png" />
+			<description><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 44, Zak is back to discuss his Air Force Academy training and the idea of approaching life goals one check box at a time. Furthermore, we discuss the importance of teamwork & collaboration. Combining all of these elements, this episode dives deep into a Medal of Honor winner's insights on these points and how building a foundation before execution is critical. Feel the energy, P2K Community!</p> <p> </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p> <p> </p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 44, Zak is back to discuss his Air Force Academy training and the idea of approaching life goals one check box at a time. Furthermore, we discuss the importance of teamwork & collaboration. Combining all of these elements, this episode dives deep into a Medal of Honor winner's insights on these points and how building a foundation before execution is critical. Feel the energy, P2K Community!</p> <p> </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p> <p> </p> <p> </p>]]></content:encoded>
+			<enclosure length="72548274" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Episode_44_-_122020_8.10_PM.mp3?dest-id=1548626" />
+			<itunes:duration>37:44</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>training,goals,Military,Business,leadership,entrepreneurship,Analytics,airforce,medalofhonor</itunes:keywords>
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 44, Zak is back to discuss his Air Force Academy training and the idea of approaching life goals one check box at a time. Furthermore, we discuss the importance of teamwork & collaboration....]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>David Blakely, Custom Clothier - Vincent &amp; West</title>
+			<itunes:title>David Blakely, Custom Clothier - Vincent &amp; West</itunes:title>
+			<pubDate>Sat, 21 Nov 2020 17:36:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fa8a8126-28b3-41f3-972d-f63b1a701a81]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/david-blakely-custom-clothier-vincent-west]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/3/6/1/0/36102c13997d4932/P2K_Episode_43.png" />
+			<description><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 43, David Blakely, custom clothier at Vincent & West, joins us to discuss his passion for men’s luxury fashion, relationship selling, digital marketing, and Vincent & West’s brand mission for product differentiation. </p> <div>Available On Apple Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio #FeelTheEnergy</div>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 43, David Blakely, custom clothier at Vincent & West, joins us to discuss his passion for men’s luxury fashion, relationship selling, digital marketing, and Vincent & West’s brand mission for product differentiation. </p> Available On Apple Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio #FeelTheEnergy]]></content:encoded>
+			<enclosure length="34457562" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Episode_43_-_112120_12.29_PM.mp3?dest-id=1548626" />
+			<itunes:duration>17:49</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>marketing,Business,sales,fashion,luxury,entrepreneurship</itunes:keywords>
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 43, David Blakely, custom clothier at Vincent & West, joins us to discuss his passion for men’s luxury fashion, relationship selling, digital marketing, and Vincent & West’s brand...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Andamo H. Part II</title>
+			<itunes:title>Andamo H. Part II</itunes:title>
+			<pubDate>Thu, 29 Oct 2020 23:16:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c61aec78-aba5-4cf6-9fdc-2cc882412daa]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/andamo-h-part-ii-0]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/8/8/d/b88de9e45bb1b05e/P2K_Episode_42.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">P2K - The Performance Motivation Experience - In episode 42, Andamo H., founder & CEO of GridLock Media, returns to discuss all the pivots and changes 2020 has brought on for his digital marketing agency. Furthermore, we delve into purpose-driven marketing, compassion and intention for those around you and creating good habits. Feel the energy, P2K Community! </span></p> <p> </p> <p><span style="font-weight: 400;">Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</span></p>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 42, Andamo H., founder & CEO of GridLock Media, returns to discuss all the pivots and changes 2020 has brought on for his digital marketing agency. Furthermore, we delve into purpose-driven marketing, compassion and intention for those around you and creating good habits. Feel the energy, P2K Community! </p> <p> </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p>]]></content:encoded>
+			<enclosure length="59100458" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_42_-_102920_7.03_PM.mp3?dest-id=1548626" />
+			<itunes:duration>30:39</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>marketing,Business,entrepreneurship,digitalmarketing</itunes:keywords>
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 42, Andamo H., founder & CEO of GridLock Media, returns to discuss all the pivots and changes 2020 has brought on for his digital marketing agency. Furthermore, we delve into purpose-driven...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Andamo H. Part II</title>
+			<itunes:title>Andamo H. Part II</itunes:title>
+			<pubDate>Thu, 29 Oct 2020 23:16:51 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d37688cf-dd41-4681-9150-9677b83af33a]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/andamo-h-part-ii]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/8/8/d/b88de9e45bb1b05e/P2K_Episode_42.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">P2K - The Performance Motivation Experience - In episode 42, Andamo H., founder & CEO of GridLock Media, returns to discuss all the pivots and changes 2020 has brought on for his digital marketing agency. Furthermore, we delve into purpose-driven marketing, compassion and intention for those around you and creating good habits. Feel the energy, P2K Community! </span></p> <p> </p> <p><span style="font-weight: 400;">Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</span></p>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 42, Andamo H., founder & CEO of GridLock Media, returns to discuss all the pivots and changes 2020 has brought on for his digital marketing agency. Furthermore, we delve into purpose-driven marketing, compassion and intention for those around you and creating good habits. Feel the energy, P2K Community! </p> <p> </p> <p>Available on Apple Podcasts, Google Podcasts, Spotify, Stitcher, Pandora Radio & iHeart Radio</p>]]></content:encoded>
+			<itunes:keywords>marketing,Business,entrepreneurship,digitalmarketing</itunes:keywords>
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 42, Andamo H., founder & CEO of GridLock Media, returns to discuss all the pivots and changes 2020 has brought on for his digital marketing agency. Furthermore, we delve into purpose-driven...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The Return of Evan Freimuth</title>
+			<itunes:title>The Return of Evan Freimuth</itunes:title>
+			<pubDate>Sun, 18 Oct 2020 17:16:14 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[51e7b76a-df22-41ed-8c3f-0f33a38653f6]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/the-return-of-evan-freimuth]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/3/5/2/7/352727ff5fd483bf/P2K_Episode_41.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">In episode 41, Evan Freimuth returns to discuss all the pivots & changes he has made with Venture Wisconsin throughout the pandemic. In one of the most open & honest conversations we’ve had, the discussion brings up the necessity of failure when “doing” and how you should frame your mindset around it. Feel the energy, P2K Community!</span></p> <p><span style="font-weight: 400;">P2K - The Performance Motivation Experience - </span></p> <p><span style="font-weight: 400;">Follow us on Instagram, Facebook, Twitter & LinkedIn</span></p>]]></description>
+			<content:encoded><![CDATA[<p>In episode 41, Evan Freimuth returns to discuss all the pivots & changes he has made with Venture Wisconsin throughout the pandemic. In one of the most open & honest conversations we’ve had, the discussion brings up the necessity of failure when “doing” and how you should frame your mindset around it. Feel the energy, P2K Community!</p> <p>P2K - The Performance Motivation Experience - </p> <p>Follow us on Instagram, Facebook, Twitter & LinkedIn</p>]]></content:encoded>
+			<enclosure length="85512595" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_41_-_101820_11.48_AM.mp3?dest-id=1548626" />
+			<itunes:duration>44:19</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>marketing,Business,Media,entrepreneurship,digitalmarketing,performancemotivation</itunes:keywords>
+			<itunes:subtitle><![CDATA[In episode 41, Evan Freimuth returns to discuss all the pivots & changes he has made with Venture Wisconsin throughout the pandemic. In one of the most open & honest conversations we’ve had, the discussion brings up the necessity of failure...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>SMART Goal Setting &amp; Meditation</title>
+			<itunes:title>SMART Goal Setting &amp; Meditation</itunes:title>
+			<pubDate>Sun, 27 Sep 2020 18:04:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f9b3ac75-c068-47c6-a936-e3f292a9624b]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/smart-goal-setting-meditation]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/9/3/6/a/936a9db23fc9b744/P2K_Episode_40.png" />
+			<description><![CDATA[<p>In episode 40, Christian runs through a few tips to "create your stability" in the tail end of 2020. This year has been brutal for all of us and we thought we'd be doing you a disservice not to share the power of SMART goal setting and meditation Christian learned about in his mastermind group. These two critical pieces will revitalize, motivate and center you amidst all this craziness and uncertainty. </p>]]></description>
+			<content:encoded><![CDATA[<p>In episode 40, Christian runs through a few tips to "create your stability" in the tail end of 2020. This year has been brutal for all of us and we thought we'd be doing you a disservice not to share the power of SMART goal setting and meditation Christian learned about in his mastermind group. These two critical pieces will revitalize, motivate and center you amidst all this craziness and uncertainty. </p>]]></content:encoded>
+			<enclosure length="42353104" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_40_-_92720_1.56_PM.mp3?dest-id=1548626" />
+			<itunes:duration>21:45</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>goals,Business,meditation,entrepreneurship,goalsetting</itunes:keywords>
+			<itunes:subtitle><![CDATA[In episode 40, Christian runs through a few tips to "create your stability" in the tail end of 2020. This year has been brutal for all of us and we thought we'd be doing you a disservice not to share the power of SMART goal setting and meditation...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>if found - Melodic Bass &amp; Midtempo Producer</title>
+			<itunes:title>if found - Melodic Bass &amp; Midtempo Producer</itunes:title>
+			<pubDate>Sun, 16 Aug 2020 14:13:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2e9ff411-06ed-4dde-817e-678f17d0b488]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/if-found-melodic-bass-midtempo-producer]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/c/f/3/0cf358bb1a8f4adc/P2K_39.png" />
+			<description><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 39 we had the privilege of talking with Carson, known by his stage name if found, a rising Melodic Bass & Midtempo producer based out of Austin, Texas. Coming onto the scene in early 2019, his debut remix of "Morgin Madison - Count On You" eclipsed 400,000 plays and with his continued success is actively writing, producing and deploying his new singles in 2020 to the masses. This is the first inside look into his creative process and music journey. We also dive into discussing technical backgrounds and how it relates to producing top quality EDM music. This one is off the charts, literally! #FeelTheEnergy</p> <p>Passion2Knowledge is available on Apple Podcasts, Google Podcasts, Stitcher, Spotify, Pandora Radio & iHeart Radio</p>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 39 we had the privilege of talking with Carson, known by his stage name if found, a rising Melodic Bass & Midtempo producer based out of Austin, Texas. Coming onto the scene in early 2019, his debut remix of "Morgin Madison - Count On You" eclipsed 400,000 plays and with his continued success is actively writing, producing and deploying his new singles in 2020 to the masses. This is the first inside look into his creative process and music journey. We also dive into discussing technical backgrounds and how it relates to producing top quality EDM music. This one is off the charts, literally! #FeelTheEnergy</p> <p>Passion2Knowledge is available on Apple Podcasts, Google Podcasts, Stitcher, Spotify, Pandora Radio & iHeart Radio</p>]]></content:encoded>
+			<enclosure length="66704348" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_39_-_81620_9.46_AM.mp3?dest-id=1548626" />
+			<itunes:duration>34:35</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 39 we had the privilege of talking with Carson, known by his stage name if found, a rising Melodic Bass & Midtempo producer based out of Austin, Texas. Coming onto the scene in early 2019,...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The Return of KEAG</title>
+			<itunes:title>The Return of KEAG</itunes:title>
+			<pubDate>Wed, 22 Jul 2020 21:56:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b7a7072f-9f58-40a5-bd6d-332a30180dfa]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/the-return-of-keag]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/c/8/2/3/c82320240201cd8c/The_Return_of_KEAG.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">P2K - The Performance Motivation Experience - In episode 38, KEAG joins us for an epic follow up to episode 8! We discuss his travels to Thailand, his break away from music, and diving deep into his creative process for writing music! #FeelTheEnergy</span></p> <p> </p> <p><span style="font-weight: 400;">KEAG’s 2020 single releases are “Summer Fling” and “Join the Team” - check him out on Spotify -</span> <a href= "https://open.spotify.com/artist/56IZPpiDMuwTZmScP8weev?si=KCKfz77SRluNWVl9zt6Zqg"> <span style= "font-weight: 400;">https://open.spotify.com/artist/56IZPpiDMuwTZmScP8weev?si=KCKfz77SRluNWVl9zt6Zqg</span></a></p> <p> </p> <p><span style="font-weight: 400;">Instagram - @imkeag</span></p> <p><br /> <br /> <br /> <br /> <br /></p>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 38, KEAG joins us for an epic follow up to episode 8! We discuss his travels to Thailand, his break away from music, and diving deep into his creative process for writing music! #FeelTheEnergy</p> <p> </p> <p>KEAG’s 2020 single releases are “Summer Fling” and “Join the Team” - check him out on Spotify - <a href= "https://open.spotify.com/artist/56IZPpiDMuwTZmScP8weev?si=KCKfz77SRluNWVl9zt6Zqg"> https://open.spotify.com/artist/56IZPpiDMuwTZmScP8weev?si=KCKfz77SRluNWVl9zt6Zqg</a></p> <p> </p> <p>Instagram - @imkeag</p> <p>    </p>]]></content:encoded>
+			<enclosure length="67418264" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_38_-_72220_5.53_PM.mp3?dest-id=1548626" />
+			<itunes:duration>33:58</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Business,HipHop,artist,rapper,performancemotivation</itunes:keywords>
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 38, KEAG joins us for an epic follow up to episode 8! We discuss his travels to Thailand, his break away from music, and diving deep into his creative process for writing music! #FeelTheEnergy...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Lily Proudman - Relationship Building &amp; Impactful Work in Education and Digital Strategy</title>
+			<itunes:title>Lily Proudman - Relationship Building &amp; Impactful Work in Education and Digital Strategy</itunes:title>
+			<pubDate>Sun, 14 Jun 2020 16:56:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c62f97fd-ba67-45a1-a628-50c11368e07e]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/lily-proudman-relationship-building-impactful-work-in-education-and-digital-strategy]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/a/3/2/2a320ff1c31456f7/P2K_Episode_37.png" />
+			<description><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 37, we dive into digital content strategy, education & highly intentional non-profit work by Lily Proudman. Lily graduated from American University in 2016 and has a diverse range of global experiences in digital content strategy, marketing & education-based relationship building. We delve into her experience with Outward Bound and City Year and discuss her interests for working in digital strategy, education & building relationships with a student body. Follow P2K on Instagram, Facebook, Twitter & LinkedIn @Passion2Knowledge #FeelTheEnergy</p>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - In episode 37, we dive into digital content strategy, education & highly intentional non-profit work by Lily Proudman. Lily graduated from American University in 2016 and has a diverse range of global experiences in digital content strategy, marketing & education-based relationship building. We delve into her experience with Outward Bound and City Year and discuss her interests for working in digital strategy, education & building relationships with a student body. Follow P2K on Instagram, Facebook, Twitter & LinkedIn @Passion2Knowledge #FeelTheEnergy</p>]]></content:encoded>
+			<enclosure length="63654750" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_37_-_61420_12.33_PM.mp3?dest-id=1548626" />
+			<itunes:duration>33:06</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - In episode 37, we dive into digital content strategy, education & highly intentional non-profit work by Lily Proudman. Lily graduated from American University in 2016 and has a diverse range of global...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Quarantine Conversation w/ Christian &amp; Zak</title>
+			<itunes:title>Quarantine Conversation w/ Christian &amp; Zak</itunes:title>
+			<pubDate>Thu, 21 May 2020 02:42:09 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1019fdcd-9937-4ec9-a2f9-e4169a50d231]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/quarantine-conversation-w-christian-zak]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/5/c/3/85c3d74c9db27e29/Quarantine_Conversation_w__Christian__Zak.png" />
+			<description><![CDATA[<p>Passion2Knowledge – The Performance Motivation Experience – Christian & Zak sit down to discuss quarantine and the lessons learned during this trying time. Take action now and frequently ask yourself what you are taking for granted. Feel The Energy!</p>]]></description>
+			<content:encoded><![CDATA[<p>Passion2Knowledge – The Performance Motivation Experience – Christian & Zak sit down to discuss quarantine and the lessons learned during this trying time. Take action now and frequently ask yourself what you are taking for granted. Feel The Energy!</p>]]></content:encoded>
+			<enclosure length="57065331" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_36_.mp3?dest-id=1548626" />
+			<itunes:duration>29:41</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Passion2Knowledge – The Performance Motivation Experience – Christian & Zak sit down to discuss quarantine and the lessons learned during this trying time. Take action now and frequently ask yourself what you are taking for granted. Feel The...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Jordan Robinson - Start-up Strategy &amp; Operations</title>
+			<itunes:title>Jordan Robinson - Start-up Strategy &amp; Operations</itunes:title>
+			<pubDate>Mon, 13 Apr 2020 23:01:16 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6f99046d-1ce4-4b07-a4fd-a23b5e9d3a01]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/jordan-robinson-start-up-strategy-operations]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/8/c/4/08c4adc7a3800cc7/P2K_Episode_35.png" />
+			<description><![CDATA[<p>On episode 35 of The Performance Motivation Experience, Jordan Robinson - Director of Strategy & Operations at Updox takes us through the start of his career in nonprofits and his transition into the Silicon Valley start-up environment. Learn about the differences between non-profits and a start up environment. Furthermore, we delve into the complexities of organizational operations, automation and resource management. Follow Passion2Knowledge on Instagram, Facebook, Twitter & LinkedIn. #FeelTheEnergy</p>]]></description>
+			<content:encoded><![CDATA[<p>On episode 35 of The Performance Motivation Experience, Jordan Robinson - Director of Strategy & Operations at Updox takes us through the start of his career in nonprofits and his transition into the Silicon Valley start-up environment. Learn about the differences between non-profits and a start up environment. Furthermore, we delve into the complexities of organizational operations, automation and resource management. Follow Passion2Knowledge on Instagram, Facebook, Twitter & LinkedIn. #FeelTheEnergy</p>]]></content:encoded>
+			<enclosure length="70006411" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_35.mp3?dest-id=1548626" />
+			<itunes:duration>36:28</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On episode 35 of The Performance Motivation Experience, Jordan Robinson - Director of Strategy & Operations at Updox takes us through the start of his career in nonprofits and his transition into the Silicon Valley start-up environment. Learn...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Michael McGovern - Columbus-based Real Estate Investor &amp; Body Builder</title>
+			<itunes:title>Michael McGovern - Columbus-based Real Estate Investor &amp; Body Builder</itunes:title>
+			<pubDate>Sun, 15 Mar 2020 15:58:25 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d771f4c6-cc68-4bd5-af67-78de6b9b7770]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/michael-mcgovern-columbus-based-real-estate-investor-body-builder]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/c/c/9/5cc9177a73e4946e/The_Performance_Motivation_Experience.png" />
+			<description><![CDATA[<p>P2K  –  The Performance Motivation Experience – In episode 34, we have a passionate conversation with Michael McGovern, Columbus-based real estate investor and body builder. Mike dives into his come up, career path and future aspirations with tremendous energy and authenticity. He brings a large amount of adversity and variety to his storytelling that makes this episode truly inspiring. Mike also talks about his start in body building and current goals to become an IFBB Pro in the next few years. We know you’ll love this one, P2K Community! #FeelTheEnergy</p> <p>Follow Mike on Instagram @mcgovern19</p>]]></description>
+			<content:encoded><![CDATA[<p>P2K  –  The Performance Motivation Experience – In episode 34, we have a passionate conversation with Michael McGovern, Columbus-based real estate investor and body builder. Mike dives into his come up, career path and future aspirations with tremendous energy and authenticity. He brings a large amount of adversity and variety to his storytelling that makes this episode truly inspiring. Mike also talks about his start in body building and current goals to become an IFBB Pro in the next few years. We know you’ll love this one, P2K Community! #FeelTheEnergy</p> <p>Follow Mike on Instagram @mcgovern19</p>]]></content:encoded>
+			<enclosure length="87514870" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Episode_34_-_31520_11.47_AM.mp3?dest-id=1548626" />
+			<itunes:duration>44:58</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[P2K  –  The Performance Motivation Experience – In episode 34, we have a passionate conversation with Michael McGovern, Columbus-based real estate investor and body builder. Mike dives into his come up, career path and future aspirations...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Dominic Ryan Brogsdale - Power Builder, Certified Trainer &amp; Writer</title>
+			<itunes:title>Dominic Ryan Brogsdale - Power Builder, Certified Trainer &amp; Writer</itunes:title>
+			<pubDate>Tue, 18 Feb 2020 02:28:16 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a379dd89-87b5-4838-ab78-49c266eea335]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/dominic-ryan-brogsdale-power-builder-certified-trainer-writer]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/b/2/d/7b2da2fca063d18e/The_Performance_Motivation_Experience.png" />
+			<description><![CDATA[<p>P2K – The Performance Motivation Experience - Episode 33 highlights Dominic Brogsdale - Power Builder, Certified Trainer & Writer. Dom’s upbringing was nothing short of intense and full of hardships growing up in the Columbus, Ohio projects. He has channeled his personal childhood experiences into a life vision that entails an unrivaled work ethic, positive energy and creativity that has taken his physical fitness and storytelling to the next level. #FeelTheEnergy BIG TIME in this one, P2K Community!</p>]]></description>
+			<content:encoded><![CDATA[<p>P2K – The Performance Motivation Experience - Episode 33 highlights Dominic Brogsdale - Power Builder, Certified Trainer & Writer. Dom’s upbringing was nothing short of intense and full of hardships growing up in the Columbus, Ohio projects. He has channeled his personal childhood experiences into a life vision that entails an unrivaled work ethic, positive energy and creativity that has taken his physical fitness and storytelling to the next level. #FeelTheEnergy BIG TIME in this one, P2K Community!</p>]]></content:encoded>
+			<enclosure length="61076548" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Episode_33_-_21720_9.19_PM.mp3?dest-id=1548626" />
+			<itunes:duration>31:29</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[P2K – The Performance Motivation Experience - Episode 33 highlights Dominic Brogsdale - Power Builder, Certified Trainer & Writer. Dom’s upbringing was nothing short of intense and full of hardships growing up in the Columbus, Ohio projects....]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Transitions</title>
+			<itunes:title>Transitions</itunes:title>
+			<pubDate>Fri, 31 Jan 2020 23:52:55 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c6ffbd19-a5aa-498b-a9c6-430877bc8686]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/transitions]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/3/0/7/8307cc7e35beeb17/P2K_Episode_32.png" />
+			<description><![CDATA[<p>P2K - The Performance Motivation Experience - Christian briefs on his major life changes in the last few months. He discusses his challenges, learning and getting out of his comfort zone to inspire the P2K Community and inform! #FeelTheEnergy</p>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - Christian briefs on his major life changes in the last few months. He discusses his challenges, learning and getting out of his comfort zone to inspire the P2K Community and inform! #FeelTheEnergy</p>]]></content:encoded>
+			<enclosure length="34198783" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/Episode_32_1.mp3?dest-id=1548626" />
+			<itunes:duration>17:48</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - Christian briefs on his major life changes in the last few months. He discusses his challenges, learning and getting out of his comfort zone to inspire the P2K Community and inform! #FeelTheEnergy]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Dan Rosu - Founder of State of Mine Apparel and Restaurant Owner</title>
+			<itunes:title>Dan Rosu - Founder of State of Mine Apparel and Restaurant Owner</itunes:title>
+			<pubDate>Thu, 19 Dec 2019 01:15:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2673d5a2-5d1e-4acc-ae3e-a75b62c503f8]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/dan-rosu-founder-of-state-of-mine-apparel-and-restaurant-owner]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/6/f/9/f/6f9f6885034a2ccd/P2K_Episode_31.png" />
+			<description><![CDATA[<p>In episode 31, we focus on being intentional in everyday life with Dan Rosu, Founder of State of Mine apparel and co-owner of Ringside Café, a legendary local Columbus-based burger joint. Our conversation focuses on the importance of intentionality and the complexities of being in a quality hospitality business. Furthermore, we dive into Dan’s creative process for his Ohio-based apparel company State of Mine.</p> <p>P2K is available on Apple Podcasts, Google Podcasts, Spotify, & Stitcher</p> <p>Feel The Energy on Instagram, Twitter, Facebook and LinkedIn</p>]]></description>
+			<content:encoded><![CDATA[<p>In episode 31, we focus on being intentional in everyday life with Dan Rosu, Founder of State of Mine apparel and co-owner of Ringside Café, a legendary local Columbus-based burger joint. Our conversation focuses on the importance of intentionality and the complexities of being in a quality hospitality business. Furthermore, we dive into Dan’s creative process for his Ohio-based apparel company State of Mine.</p> <p>P2K is available on Apple Podcasts, Google Podcasts, Spotify, & Stitcher</p> <p>Feel The Energy on Instagram, Twitter, Facebook and LinkedIn</p>]]></content:encoded>
+			<enclosure length="95966340" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_31.mp3?dest-id=1548626" />
+			<itunes:duration>49:42</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>performance,entrepreneurship,creativity,Motivation,intentionality</itunes:keywords>
+			<itunes:subtitle><![CDATA[In episode 31, we focus on being intentional in everyday life with Dan Rosu, Founder of State of Mine apparel and co-owner of Ringside Café, a legendary local Columbus-based burger joint. Our conversation focuses on the importance of intentionality...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Christian Steinert &amp; Zak Giese</itunes:author>
+		</item>
+		<item>
+			<title>Andy Spessard - Columbus-based Architectural Photographer &amp; Entrepreneur</title>
+			<itunes:title>Andy Spessard - Columbus-based Architectural Photographer &amp; Entrepreneur</itunes:title>
+			<pubDate>Wed, 06 Nov 2019 23:39:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[28e7649483004427b8532342093f9be4]]></guid>
+			<link><![CDATA[https://passion2knowledge.libsyn.com/andy-spessard-columbus-based-architectural-photographer-entrepreneur]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/7/8/a/b78aaff085757ee3/P2K_Episode_30_Cover_Art.png" />
+			<description><![CDATA[<p>P2K - The Performance Motivation Experience - Andy Spessard is a Columbus-based photographer and entrepreneur, graduate of Columbus College of Art & Design, and an award winning nationally recognized architectural photographer. Feel the energy as we dive into his academic background, business come up, and passion for the arts and photography. You will learn how Andy blends his creative skills with business acumen that is a pertinent combination for any aspiring entrepreneur. </p>]]></description>
+			<content:encoded><![CDATA[<p>P2K - The Performance Motivation Experience - Andy Spessard is a Columbus-based photographer and entrepreneur, graduate of Columbus College of Art & Design, and an award winning nationally recognized architectural photographer. Feel the energy as we dive into his academic background, business come up, and passion for the arts and photography. You will learn how Andy blends his creative skills with business acumen that is a pertinent combination for any aspiring entrepreneur. </p>]]></content:encoded>
+			<enclosure length="73964111" type="audio/mpeg" url="https://traffic.libsyn.com/secure/passion2knowledge/P2K_Episode_30_.mp3?dest-id=1548626" />
+			<itunes:duration>37:51</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>Art,photography,Business,entrepreneurship,Columbus</itunes:keywords>
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - Andy Spessard is a Columbus-based photographer and entrepreneur, graduate of Columbus College of Art & Design, and an award winning nationally recognized architectural photographer. Feel the energy as...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Inside Out vs Outside In</title>
+			<pubDate>Mon, 02 Sep 2019 16:06:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/674813414]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/674813414-passion2knowledge-inside-out-vs-outside-in.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/9/a/e/89aec2d8122ceca5/artworks-000591349850-b4vo7b-original.jpg" />
+			<description><![CDATA[P2K - The Performance Motivation Experience - A few months back, Christian became inspired at 4 AM laying in bed unable to fall asleep and decided to record an episode. After a scary and adverse family health scare - this episode touches on gratitude and trying to live life from the inside out. Feel the energy!]]></description>
+			<content:encoded><![CDATA[P2K - The Performance Motivation Experience - A few months back, Christian became inspired at 4 AM laying in bed unable to fall asleep and decided to record an episode. After a scary and adverse family health scare - this episode touches on gratitude and trying to live life from the inside out. Feel the energy!]]></content:encoded>
+			<enclosure length="20150613" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/674813414-passion2knowledge-inside-out-vs-outside-in.m4a?dest-id=1548626" />
+			<itunes:duration>10:10</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[P2K - The Performance Motivation Experience - A f…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Perfection vs. Excellence</title>
+			<pubDate>Tue, 13 Aug 2019 22:10:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/665392217]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/665392217-passion2knowledge-perfection-vs-excellence.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/3/1/e/e31e0365659a85d2/artworks-000582070583-oxd17m-original.jpg" />
+			<description><![CDATA[Episode 28 is here! P2K – The Performance Motivation Experience – Enjoy this deep conversation about the idea of perfection versus execution with Zak and Christian. Let this Passion2Knowledge episode serve as today’s reminder that perfection is impossible and the ultimate limiter in life. Focus on what you can control, do your absolute best, and strive for excellence in everything you do. You do not have to be perfect! #FeelTheEnergy!]]></description>
+			<content:encoded><![CDATA[Episode 28 is here! P2K – The Performance Motivation Experience – Enjoy this deep conversation about the idea of perfection versus execution with Zak and Christian. Let this Passion2Knowledge episode serve as today’s reminder that perfection is impossible and the ultimate limiter in life. Focus on what you can control, do your absolute best, and strive for excellence in everything you do. You do not have to be perfect! #FeelTheEnergy!]]></content:encoded>
+			<enclosure length="66140906" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/665392217-passion2knowledge-perfection-vs-excellence.m4a?dest-id=1548626" />
+			<itunes:duration>35:27</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Episode 28 is here! P2K – The Performance Motivat…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Alex Redmond, MBA: Fitness Influencer &amp; Body Builder</title>
+			<pubDate>Sun, 07 Jul 2019 23:18:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/647648379]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/647648379-passion2knowledge-alex-redmond-mba-fitness.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/6/f/c/5/6fc5b0996c8d34b6/artworks-000562842864-seld3y-original.jpg" />
+			<description><![CDATA[Passion2Knowledge: The Performance Motivation Experience - P2K Community, we are proud to release episode 27 featuring Instagram fitness influencer & body builder Alexandra Redmond, MBA! Join us as we dive into her backstory on getting into fitness, her training regimen, nutrition, the challenges she faces being a full time sales professional while training extensively, and how she executes content marketing to create an engaging social media following. #FeelTheEnergy in this episode as Alex takes us on an experience into the fitness world!]]></description>
+			<content:encoded><![CDATA[Passion2Knowledge: The Performance Motivation Experience - P2K Community, we are proud to release episode 27 featuring Instagram fitness influencer & body builder Alexandra Redmond, MBA! Join us as we dive into her backstory on getting into fitness, her training regimen, nutrition, the challenges she faces being a full time sales professional while training extensively, and how she executes content marketing to create an engaging social media following. #FeelTheEnergy in this episode as Alex takes us on an experience into the fitness world!]]></content:encoded>
+			<enclosure length="39996162" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/647648379-passion2knowledge-alex-redmond-mba-fitness.m4a?dest-id=1548626" />
+			<itunes:duration>19:57</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Passion2Knowledge: The Performance Motivation Exp…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>AndamoH: CEO &amp; Founder of MyDNAMedia</title>
+			<pubDate>Sun, 23 Jun 2019 14:00:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/640895022]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/640895022-passion2knowledge-andamoh-ceo-founder-of.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/a/a/b/0/aab023afdc8f5ec7/artworks-000556390032-l1p2rb-original.jpg" />
+			<description><![CDATA[Episode 26 is here, P2K Community! Andamo Hondo is a multi-faceted entrepreneur. CEO/Director of MyDNA Media, a full-service creative agency. Accomplished photographer & videographer. And Social Media Marketer. Christian and AndamoH discuss his background, the process of starting an agency, client success stories, and we even dive into how social media analytics drive conversion. For anyone looking to freelance social media marketing or work for an agency, this episode will be your ticket to getting the insight needed for massive success! #FeelTheEnergy!]]></description>
+			<content:encoded><![CDATA[Episode 26 is here, P2K Community! Andamo Hondo is a multi-faceted entrepreneur. CEO/Director of MyDNA Media, a full-service creative agency. Accomplished photographer & videographer. And Social Media Marketer. Christian and AndamoH discuss his background, the process of starting an agency, client success stories, and we even dive into how social media analytics drive conversion. For anyone looking to freelance social media marketing or work for an agency, this episode will be your ticket to getting the insight needed for massive success! #FeelTheEnergy!]]></content:encoded>
+			<enclosure length="58315757" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/640895022-passion2knowledge-andamoh-ceo-founder-of.m4a?dest-id=1548626" />
+			<itunes:duration>30:37</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Episode 26 is here, P2K Community! Andamo Hondo i…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Kyle Harris, Social Media Marketer and Vlogger Joins P2K</title>
+			<pubDate>Thu, 30 May 2019 22:09:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/629230338]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/629230338-passion2knowledge-kyle-harris-social-media.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/2/9/a/029a670140025bb8/artworks-000544240959-g4isox-original.jpg" />
+			<description><![CDATA[Episode 25 is here, P2K Community! We had the privilege of bringing Kyle Harris on. Kyle is a social media marketer, vlogger, entrepreneur, and branding expert who has a large following on Twitter at about 29,000 followers. Being a verified Twitter user, Kyle discusses the challenges that come with it, the process of taking his following to the next level, and the importance of being authentic and grateful. We also dive into vlogging, the importance of non-profit and value-added work, and a multitude of digital marketing topics. We are thrilled Kyle got to #FeelTheEnergy and we can’t wait for you to experience it!]]></description>
+			<content:encoded><![CDATA[Episode 25 is here, P2K Community! We had the privilege of bringing Kyle Harris on. Kyle is a social media marketer, vlogger, entrepreneur, and branding expert who has a large following on Twitter at about 29,000 followers. Being a verified Twitter user, Kyle discusses the challenges that come with it, the process of taking his following to the next level, and the importance of being authentic and grateful. We also dive into vlogging, the importance of non-profit and value-added work, and a multitude of digital marketing topics. We are thrilled Kyle got to #FeelTheEnergy and we can’t wait for you to experience it!]]></content:encoded>
+			<enclosure length="62532347" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/629230338-passion2knowledge-kyle-harris-social-media.m4a?dest-id=1548626" />
+			<itunes:duration>34:14</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Episode 25 is here, P2K Community! We had the pri…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>The Return of Alex Goodman - CEO &amp; Founder of Franklin Morrow Exclusive Mens Fashion</title>
+			<pubDate>Thu, 09 May 2019 23:11:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/618316407]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/618316407-passion2knowledge-the-return-of-alex-goodman-ceo.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/b/c/d/dbcda98e3e2b0a4e/artworks-000532542132-2q2tz6-original.jpg" />
+			<description><![CDATA[A milestone episode is here, P2K Community! Episode 24 is the first to feature our new studio microphone! More importantly, Alex Goodman joins us for @Passion2Knowledge’s first ever follow up episode. Back in August 2018, we featured Alex and his men’s luxury clothing brand @Franklin.Morrow. This episode channels the progress he has made and we get dive into the company’s growth, pivots, and value-added mission that has already changed the lives of THOUSANDS of people in the community. #FeelTheEnergy!]]></description>
+			<content:encoded><![CDATA[A milestone episode is here, P2K Community! Episode 24 is the first to feature our new studio microphone! More importantly, Alex Goodman joins us for @Passion2Knowledge’s first ever follow up episode. Back in August 2018, we featured Alex and his men’s luxury clothing brand @Franklin.Morrow. This episode channels the progress he has made and we get dive into the company’s growth, pivots, and value-added mission that has already changed the lives of THOUSANDS of people in the community. #FeelTheEnergy!]]></content:encoded>
+			<enclosure length="60140024" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/618316407-passion2knowledge-the-return-of-alex-goodman-ceo.m4a?dest-id=1548626" />
+			<itunes:duration>30:17</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A milestone episode is here, P2K Community! Episo…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Phillip Leibham: Sports Analyst &amp; Founder of Analytics4Athletes</title>
+			<pubDate>Sun, 28 Apr 2019 22:02:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/612829155]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/612829155-passion2knowledge-phillip-leibham-sports-analyst.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/c/e/f/7/cef7533fca3082a8/artworks-000527234376-9li5qu-original.jpg" />
+			<description><![CDATA[Passion2Knowledge proudly presents our 23rd episode! Join us as we discuss sports analytics and entrepreneurship with Phil Leibham, Founder of Analytics4Athletes. Phil is an experienced NCAA D1 sports analyst and we dive into a plethora of different analytics projects he works on with the NCAA and NBA. P2K Available on Spotify, Stitcher, SoundCloud, Apple Podcasts, and Google Podcasts]]></description>
+			<content:encoded><![CDATA[Passion2Knowledge proudly presents our 23rd episode! Join us as we discuss sports analytics and entrepreneurship with Phil Leibham, Founder of Analytics4Athletes. Phil is an experienced NCAA D1 sports analyst and we dive into a plethora of different analytics projects he works on with the NCAA and NBA. P2K Available on Spotify, Stitcher, SoundCloud, Apple Podcasts, and Google Podcasts]]></content:encoded>
+			<enclosure length="89365793" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/612829155-passion2knowledge-phillip-leibham-sports-analyst.m4a?dest-id=1548626" />
+			<itunes:duration>44:58</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Passion2Knowledge proudly presents our 23rd episo…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>A Perspective on the Wright Brothers Beyond the History Textbooks</title>
+			<pubDate>Thu, 04 Apr 2019 02:17:11 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/600649083]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/600649083-passion2knowledge-a-perspective-on-the-wright.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/a/7/f/5/a7f5128fe192d0d1/artworks-000514765473-yisi9d-original.jpg" />
+			<description><![CDATA[Last week Zak had the privilege of touring the Henry Ford Museum in Detroit, Michigan. Join Zak and Christian as they discuss the innovative story of the Wright Brothers and gain a perspective about the Wright Brothers and their entrepreneurship that isn’t ever talked about. This episode is a classic P2K podcast with Zak and Christian going back and forth about this fascinating and inspiring story. We are sure you will feel the energy in this one!]]></description>
+			<content:encoded><![CDATA[Last week Zak had the privilege of touring the Henry Ford Museum in Detroit, Michigan. Join Zak and Christian as they discuss the innovative story of the Wright Brothers and gain a perspective about the Wright Brothers and their entrepreneurship that isn’t ever talked about. This episode is a classic P2K podcast with Zak and Christian going back and forth about this fascinating and inspiring story. We are sure you will feel the energy in this one!]]></content:encoded>
+			<enclosure length="86010093" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/600649083-passion2knowledge-a-perspective-on-the-wright.m4a?dest-id=1548626" />
+			<itunes:duration>43:17</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Last week Zak had the privilege of touring the He…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Christian's Trip to the California Bay Area &amp; Silicon Valley</title>
+			<pubDate>Wed, 27 Mar 2019 23:03:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/596997987]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/596997987-passion2knowledge-christians-trip-to-the.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/e/7/f/be7fc8509434619e/artworks-000511188312-gxjt5p-original.jpg" />
+			<description><![CDATA[Join Christian as he recalls his ultimate 4 day trip to California from March 14-18, 2019! His experience in the California Bay Area and Silicon Valley is filled with interesting stories and perspectives about California as a business hub and cultural phenomenon in the United States. #FeelTheEnergy!]]></description>
+			<content:encoded><![CDATA[Join Christian as he recalls his ultimate 4 day trip to California from March 14-18, 2019! His experience in the California Bay Area and Silicon Valley is filled with interesting stories and perspectives about California as a business hub and cultural phenomenon in the United States. #FeelTheEnergy!]]></content:encoded>
+			<enclosure length="39149389" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/596997987-passion2knowledge-christians-trip-to-the.m4a?dest-id=1548626" />
+			<itunes:duration>19:42</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join Christian as he recalls his ultimate 4 day t…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Christian's Fascination with the Automotive Industry</title>
+			<pubDate>Sun, 24 Feb 2019 19:31:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/580608507]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/580608507-passion2knowledge-christians-fascination-with.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/0/7/9/80794c145c76c271/artworks-000494113674-tqfqtr-original.jpg" />
+			<description><![CDATA[Christian updates the P2K Community and delves into his passion for the automotive industry. Learn some things about exotic cars and hear some epic stories from Christian’s experiences in the car culture. Feel the energy, P2K Community!]]></description>
+			<content:encoded><![CDATA[Christian updates the P2K Community and delves into his passion for the automotive industry. Learn some things about exotic cars and hear some epic stories from Christian’s experiences in the car culture. Feel the energy, P2K Community!]]></content:encoded>
+			<enclosure length="77618332" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/580608507-passion2knowledge-christians-fascination-with.m4a?dest-id=1548626" />
+			<itunes:duration>39:00</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Christian updates the P2K Community and delves in…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Max Hauser: Wisconsin-based Film Director &amp; Cinematographer</title>
+			<pubDate>Sun, 27 Jan 2019 16:12:47 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/565396692]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/565396692-passion2knowledge-max-hauser-wisconsin-based.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/c/f/2/8/cf28cec3cd3ecb2d/artworks-000478520370-xmvsez-original.jpg" />
+			<description><![CDATA[P2K sits down with Max Hauser, a Wisconsin-based Director & Cinematographer, that has a large breadth of experience in film with his direction of the WIFF 2017 award winning short "So We Bowl" and leading many music videos & wedding film productions. If you are interested in the Radio, TV, & Film industry, you are not going to want to miss this one! Don't forget to follow P2K on social media @Passion2Knowledge & listen on Stitcher, SoundCloud, Spotify, Google Podcasts, & Apple Podcasts!]]></description>
+			<content:encoded><![CDATA[P2K sits down with Max Hauser, a Wisconsin-based Director & Cinematographer, that has a large breadth of experience in film with his direction of the WIFF 2017 award winning short "So We Bowl" and leading many music videos & wedding film productions. If you are interested in the Radio, TV, & Film industry, you are not going to want to miss this one! Don't forget to follow P2K on social media @Passion2Knowledge & listen on Stitcher, SoundCloud, Spotify, Google Podcasts, & Apple Podcasts!]]></content:encoded>
+			<enclosure length="61189551" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/565396692-passion2knowledge-max-hauser-wisconsin-based.m4a?dest-id=1548626" />
+			<itunes:duration>30:48</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[P2K sits down with Max Hauser, a Wisconsin-based …]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Up and coming alternative rock band Diet Lite absolutely sucks</title>
+			<pubDate>Mon, 21 Jan 2019 23:20:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/562653978]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/562653978-passion2knowledge-up-and-coming-alternative-rock.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/0/1/8/8018f38e59e4859f/artworks-000475872186-me39z2-original.jpg" />
+			<description><![CDATA[In this episode of P2K, Zak and Christian interview Kelson Kuzdas & Evan Marsalli of Diet Lite, a band that is a new "alternative to alternative rock" and "absolutely sucks". We delve into the band's origin story, discuss the process for writing music, their upcoming music video launch featuring their hit single "The Remedy" on February 6, and a little behind the scenes of their production process for their first and upcoming 2019 album. They are now available on Spotify. Check their EP out and enjoy this episode, P2K Community!]]></description>
+			<content:encoded><![CDATA[In this episode of P2K, Zak and Christian interview Kelson Kuzdas & Evan Marsalli of Diet Lite, a band that is a new "alternative to alternative rock" and "absolutely sucks". We delve into the band's origin story, discuss the process for writing music, their upcoming music video launch featuring their hit single "The Remedy" on February 6, and a little behind the scenes of their production process for their first and upcoming 2019 album. They are now available on Spotify. Check their EP out and enjoy this episode, P2K Community!]]></content:encoded>
+			<enclosure length="94111577" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/562653978-passion2knowledge-up-and-coming-alternative-rock.m4a?dest-id=1548626" />
+			<itunes:duration>47:23</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode of P2K, Zak and Christian intervi…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Christian's Trip to Thailand</title>
+			<pubDate>Tue, 18 Dec 2018 22:59:07 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/547001259]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/547001259-passion2knowledge-christians-trip-to-thailand.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/4/2/a/d/42adeac8fe9b9835/artworks-000460503882-wcuqmf-original.jpg" />
+			<description><![CDATA[Christian discusses his incredible trip to Thailand back in May 2018 after he has had some time to digest it all and appreciate the life lessons provided from his week in an exotic foreign country. He details some highlights of the trip and the travel stories as well. Enjoy his perspective about this fascinating country and the Thai culture. Feel the energy!]]></description>
+			<content:encoded><![CDATA[Christian discusses his incredible trip to Thailand back in May 2018 after he has had some time to digest it all and appreciate the life lessons provided from his week in an exotic foreign country. He details some highlights of the trip and the travel stories as well. Enjoy his perspective about this fascinating country and the Thai culture. Feel the energy!]]></content:encoded>
+			<enclosure length="48051761" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/547001259-passion2knowledge-christians-trip-to-thailand.m4a?dest-id=1548626" />
+			<itunes:duration>23:50</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Christian discusses his incredible trip to Thaila…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Young, Curious, and Considering a Career in Marketing? Listen in.</title>
+			<pubDate>Thu, 22 Nov 2018 17:32:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/533967534]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/533967534-passion2knowledge-young-curious-and-considering.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/9/f/f/7/9ff7ca4df02c508e/artworks-000444882273-0w2jn4-original.jpg" />
+			<description><![CDATA[In this episode, Christian gives a detailed overview about starting a career in marketing and what experience he has at this early stage of his career. He adds value by providing insight and aspects of the field not normally talked about by most people. Give this a listen if you're an aspiring marketer and/or want to learn something about this broad and complicated facet of business and how to best break into the field right out of college. Feel the energy!]]></description>
+			<content:encoded><![CDATA[In this episode, Christian gives a detailed overview about starting a career in marketing and what experience he has at this early stage of his career. He adds value by providing insight and aspects of the field not normally talked about by most people. Give this a listen if you're an aspiring marketer and/or want to learn something about this broad and complicated facet of business and how to best break into the field right out of college. Feel the energy!]]></content:encoded>
+			<enclosure length="82635102" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/533967534-passion2knowledge-young-curious-and-considering.m4a?dest-id=1548626" />
+			<itunes:duration>40:45</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, Christian gives a detailed overv…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Ken Steinert, Co-Founder of the Steinert Printing Company, Shares His American Dream Story</title>
+			<pubDate>Wed, 07 Nov 2018 00:59:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/525907617]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/525907617-passion2knowledge-ken-steinert-co-founder-of-the.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/a/7/9/5a79362b39ae0e5e/artworks-000435154176-q9wnxv-original.jpg" />
+			<description><![CDATA[Ken Steinert, Christian’s Grandfather and entrepreneur, co-founded the multi-million dollar Steinert Printing Company in 1947 with his older brother Warren. Together, the brothers executed and succeeded in growing their passion from the basement of their childhood home to a national printing corporation based out of Oshkosh, Wisconsin. Enjoy this passionate discussion as Ken dives deep into the founding and growth of the business. Get an inside look at a real-life American Dream story and become inspired by Ken’s unrivaled impact and focus on making a difference in other’s lives with his career. Furthermore, enjoy the discussions we have regarding the challenges and successes of his career being an entrepreneur and salesman, the shift to the digital age of printing, and the importance of balancing your passion with all areas of life. This episode means the world to Christian as his Grandfather has inspired him tremendously throughout his time in business school at UW Oshkosh and learning about the entrepreneurial lifestyle and what it is truly all about. Feel the energy, P2K Community! You’re not going to want to miss this extremely special story.]]></description>
+			<content:encoded><![CDATA[Ken Steinert, Christian’s Grandfather and entrepreneur, co-founded the multi-million dollar Steinert Printing Company in 1947 with his older brother Warren. Together, the brothers executed and succeeded in growing their passion from the basement of their childhood home to a national printing corporation based out of Oshkosh, Wisconsin. Enjoy this passionate discussion as Ken dives deep into the founding and growth of the business. Get an inside look at a real-life American Dream story and become inspired by Ken’s unrivaled impact and focus on making a difference in other’s lives with his career. Furthermore, enjoy the discussions we have regarding the challenges and successes of his career being an entrepreneur and salesman, the shift to the digital age of printing, and the importance of balancing your passion with all areas of life. This episode means the world to Christian as his Grandfather has inspired him tremendously throughout his time in business school at UW Oshkosh and learning about the entrepreneurial lifestyle and what it is truly all about. Feel the energy, P2K Community! You’re not going to want to miss this extremely special story.]]></content:encoded>
+			<enclosure length="80165457" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/525907617-passion2knowledge-ken-steinert-co-founder-of-the.m4a?dest-id=1548626" />
+			<itunes:duration>43:08</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Ken Steinert, Christian’s Grandfather and entrepr…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Ben Leibham: Colorado-based Product Designer, Freelancer &amp; Entrepreneur</title>
+			<pubDate>Thu, 01 Nov 2018 00:57:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/522982023]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/522982023-passion2knowledge-ben-leibham-colorado-based.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/7/0/f/870fcaca71c4e9a2/artworks-000431917422-oil24t-original.jpg" />
+			<description><![CDATA[Ben Leibham is a Colorado-based product designer and serial entrepreneur (founder of VL Mountaineering) that brings an incredible amount of insight to P2K regarding the technicalities of creating, designing, and bringing a differentiated product to market. Furthermore, learn about Ben’s entrepreneurial upbringing and how starting small is the sure-fire way to consistent success as you continue to build and grow your creations. There is so much value in this one because Ben gives you a look inside what it is actually like to execute on your ideas and the challenges and joys of doing that. To any of my listeners that are thinking about product design and/or freelancing as a potential hustle, you are NOT going to want to miss this episode! Feel the energy, P2K Community!]]></description>
+			<content:encoded><![CDATA[Ben Leibham is a Colorado-based product designer and serial entrepreneur (founder of VL Mountaineering) that brings an incredible amount of insight to P2K regarding the technicalities of creating, designing, and bringing a differentiated product to market. Furthermore, learn about Ben’s entrepreneurial upbringing and how starting small is the sure-fire way to consistent success as you continue to build and grow your creations. There is so much value in this one because Ben gives you a look inside what it is actually like to execute on your ideas and the challenges and joys of doing that. To any of my listeners that are thinking about product design and/or freelancing as a potential hustle, you are NOT going to want to miss this episode! Feel the energy, P2K Community!]]></content:encoded>
+			<enclosure length="84067234" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/522982023-passion2knowledge-ben-leibham-colorado-based.m4a?dest-id=1548626" />
+			<itunes:duration>42:39</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Ben Leibham is a Colorado-based product designer …]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Christian's Cousin &amp; Columbia University GSAPP Grad &amp; NYC Architect Educates &amp; Cultures P2K</title>
+			<pubDate>Wed, 24 Oct 2018 01:32:55 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/518963199]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/518963199-passion2knowledge-columbia-university-gsapp-grad.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/a/1/3/e/a13e21c2ef95f0fb/artworks-000427293159-ai0sea-original.jpg" />
+			<description><![CDATA[In this episode, my cousin Matt, an Ivy League Columbia University GSAPP graduate and New York City Architect, disseminates a diverse range of knowledge about his passion for the arts, global travel & culture, architecture, and business. He has toured all over the world, lived in China for a year, and has incredible academic & professional credentials. Enjoy our deep conversation regarding racial segregation in city architecture, context & analysis of every situation we are in, and his incredibly complex and unique profession living in Downtown Manhattan. I guarantee you will feel the energy in this one!]]></description>
+			<content:encoded><![CDATA[In this episode, my cousin Matt, an Ivy League Columbia University GSAPP graduate and New York City Architect, disseminates a diverse range of knowledge about his passion for the arts, global travel & culture, architecture, and business. He has toured all over the world, lived in China for a year, and has incredible academic & professional credentials. Enjoy our deep conversation regarding racial segregation in city architecture, context & analysis of every situation we are in, and his incredibly complex and unique profession living in Downtown Manhattan. I guarantee you will feel the energy in this one!]]></content:encoded>
+			<enclosure length="100218666" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/518963199-passion2knowledge-columbia-university-gsapp-grad.m4a?dest-id=1548626" />
+			<itunes:duration>51:46</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, my cousin Matt, an Ivy League Co…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Don't Rush Your Vision, Trust Your Vision</title>
+			<pubDate>Wed, 10 Oct 2018 11:23:10 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/512226474]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/512226474-passion2knowledge-dont-rush-your-vision-trust.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/4/7/3/2473c5aa9efa4fcf/artworks-000417777123-gvgjsv-original.jpg" />
+			<description><![CDATA[Just a quick message about trusting yourself, goals, and lifestyle without rushing because it can create an extremely stressful and unnecessarily urgent environment for your life. Realize you have time and that nothing good can be rushed. Have a beautiful Wednesday! Available on Spotify, Apple Podcasts, Google Podcasts, Stitcher, & SoundCloud]]></description>
+			<content:encoded><![CDATA[Just a quick message about trusting yourself, goals, and lifestyle without rushing because it can create an extremely stressful and unnecessarily urgent environment for your life. Realize you have time and that nothing good can be rushed. Have a beautiful Wednesday! Available on Spotify, Apple Podcasts, Google Podcasts, Stitcher, & SoundCloud]]></content:encoded>
+			<enclosure length="12207037" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/512226474-passion2knowledge-dont-rush-your-vision-trust.m4a?dest-id=1548626" />
+			<itunes:duration>06:09</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Just a quick message about trusting yourself, goa…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Zak's Return: Deep, detailed, and analytical as hell</title>
+			<pubDate>Tue, 09 Oct 2018 00:14:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/511551945]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/511551945-passion2knowledge-zaks-return-deep-detailed-and.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/3/0/6/8306c4c83d083391/artworks-000416854407-k8po4w-original.jpg" />
+			<description><![CDATA[Zak finally makes his return as a Passion2Knowledge co-host! Enjoy the conversation about his transition from small-town Wisconsin to a big city and university. Zak dives deep into many topics such as the shift from studying business administration to computational mathematics to his “just show up” mentality that drives his success and how it can help you in all areas of life, too. Furthermore, Zak discusses an inspiring story of an immigrant that made a fortune in America long ago by sticking to a positive attitude and always being grateful. Christian listens and adds his input while Zak leads this deep, passionate, and interesting conversation. Feel the energy, P2K community! P2K is Now Available on Spotify, Apple Podcasts, Google Podcasts, Stitcher, & SoundCloud. Thank you.]]></description>
+			<content:encoded><![CDATA[Zak finally makes his return as a Passion2Knowledge co-host! Enjoy the conversation about his transition from small-town Wisconsin to a big city and university. Zak dives deep into many topics such as the shift from studying business administration to computational mathematics to his “just show up” mentality that drives his success and how it can help you in all areas of life, too. Furthermore, Zak discusses an inspiring story of an immigrant that made a fortune in America long ago by sticking to a positive attitude and always being grateful. Christian listens and adds his input while Zak leads this deep, passionate, and interesting conversation. Feel the energy, P2K community! P2K is Now Available on Spotify, Apple Podcasts, Google Podcasts, Stitcher, & SoundCloud. Thank you.]]></content:encoded>
+			<enclosure length="56572280" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/511551945-passion2knowledge-zaks-return-deep-detailed-and.m4a?dest-id=1548626" />
+			<itunes:duration>28:15</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Zak finally makes his return as a Passion2Knowled…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Evan Freimuth, Founder of Venture Wisconsin, Crushes It on P2K</title>
+			<pubDate>Thu, 27 Sep 2018 23:37:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/506241837]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/506241837-passion2knowledge-evan-freimuth-founder-of.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/9/c/8/9/9c89500e07803569/artworks-000411911733-23jxv9-original.jpg" />
+			<description><![CDATA[It was an absolute pleasure having Evan Freimuth, Venture Wisconsin Founder, on Passion2Knowledge for our tenth episode! Evan, a UW Oshkosh College of Business Interactive Web Management graduate, created a content-based events company from scratch and has transformed the Fox Valley, Wisconsin area through his company’s innovative events, informative and value-added content, and being the definitive guide to Northeastern Wisconsin’s lifestyle appeal. Enjoy our discussions on pivoting his business from a mobile application to this unique concept, social media marketing, content creation, branding, marketing, getting over 22,000 views on his videos, and the dedication to the entrepreneurial grind needed to run a company with as many working parts as Venture Wisconsin! We at P2K are beyond grateful that Evan was so willing to sit down and chat with us about his interesting journey growing this Wisconsin-based company and brand! I guarantee if you haven’t been to the State of Wisconsin yet, this company will draw you in! Feel the energy! Enjoy.]]></description>
+			<content:encoded><![CDATA[It was an absolute pleasure having Evan Freimuth, Venture Wisconsin Founder, on Passion2Knowledge for our tenth episode! Evan, a UW Oshkosh College of Business Interactive Web Management graduate, created a content-based events company from scratch and has transformed the Fox Valley, Wisconsin area through his company’s innovative events, informative and value-added content, and being the definitive guide to Northeastern Wisconsin’s lifestyle appeal. Enjoy our discussions on pivoting his business from a mobile application to this unique concept, social media marketing, content creation, branding, marketing, getting over 22,000 views on his videos, and the dedication to the entrepreneurial grind needed to run a company with as many working parts as Venture Wisconsin! We at P2K are beyond grateful that Evan was so willing to sit down and chat with us about his interesting journey growing this Wisconsin-based company and brand! I guarantee if you haven’t been to the State of Wisconsin yet, this company will draw you in! Feel the energy! Enjoy.]]></content:encoded>
+			<enclosure length="118105850" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/506241837-passion2knowledge-evan-freimuth-founder-of.m4a?dest-id=1548626" />
+			<itunes:duration>59:27</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[It was an absolute pleasure having Evan Freimuth,…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Nostalgic Saturday #001: The Garbage Pail Kids TAKE OVER P2K!</title>
+			<pubDate>Sat, 22 Sep 2018 14:46:24 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/503560896]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/503560896-passion2knowledge-nostalgic-saturday-001-the.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/4/3/f/c/43fc0224b5fbacad/artworks-000409459416-txsw9s-original.jpg" />
+			<description><![CDATA[What’s up P2K community?! Christian is FIRED UP for this episode! Trying out something new, Christian gives a proper run down on an incredibly interesting piece of pop culture nostalgia that originated in the 1980’s and still exists today! Get ready to delve into the history of the Garbage Pail Kids and how they took the market BY STORM in the 1980’s and beyond. Topps Company Inc.’s artists are truly SO entrepreneurial and world class and Christian is extremely passionate about this weird fad and niche audience of collectors. We hope you learn something new and gain value by understanding that people find ALL SORTS of things interesting and highly valuable. Our hope is that you gain some business value out of this as well. Find something you’re passionate about that is niche. Buy low and sell high, my friends! Although, Christian isn’t selling any of these cards. Far too much value from a childhood standpoint, but you get the idea! Feel the energy and have a great freakin’ weekend, ladies and gentlemen! Also, go check out GeePeeKay.com and related social media to get the full spectrum of what these unique cards have to offer! Thank you so much.]]></description>
+			<content:encoded><![CDATA[What’s up P2K community?! Christian is FIRED UP for this episode! Trying out something new, Christian gives a proper run down on an incredibly interesting piece of pop culture nostalgia that originated in the 1980’s and still exists today! Get ready to delve into the history of the Garbage Pail Kids and how they took the market BY STORM in the 1980’s and beyond. Topps Company Inc.’s artists are truly SO entrepreneurial and world class and Christian is extremely passionate about this weird fad and niche audience of collectors. We hope you learn something new and gain value by understanding that people find ALL SORTS of things interesting and highly valuable. Our hope is that you gain some business value out of this as well. Find something you’re passionate about that is niche. Buy low and sell high, my friends! Although, Christian isn’t selling any of these cards. Far too much value from a childhood standpoint, but you get the idea! Feel the energy and have a great freakin’ weekend, ladies and gentlemen! Also, go check out GeePeeKay.com and related social media to get the full spectrum of what these unique cards have to offer! Thank you so much.]]></content:encoded>
+			<enclosure length="42322622" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/503560896-passion2knowledge-nostalgic-saturday-001-the.m4a?dest-id=1548626" />
+			<itunes:duration>21:14</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[What’s up P2K community?! Christian is FIRED UP f…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>EPISODE #008: Wisconsin Hip Hop Artist KEAG (ImKEAG.com) Lights It Up on P2K</title>
+			<pubDate>Sat, 15 Sep 2018 12:03:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/500234628]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/500234628-passion2knowledge-episode-008-wisconsin-hip-hop.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/7/2/2/7722628910873ccd/artworks-000405796323-vzd4ma-original.jpg" />
+			<description><![CDATA[In this episode of P2K, we had the privilege of sitting down with KEAG, a Wisconsin Hip-Hop artist based out of Oshkosh! KEAG has toured all over the state of Wisconsin and gained quite an impressive following through SoundCloud, Spotify, and social media. KEAG has opened for famous artists such as T-Pain and Curren$y! He recently dropped his 2018 album “Problematic Art” and has been gaining massive momentum in the Wisconsin Hip-Hop scene! His hit single “Ok!” featuring IshDARR has OVER 115,000 hits on Spotify! He averages anywhere between 5,000 to over 7,000 monthly listens on Spotify. Please do him a favor and give his album a listen. We at P2K strongly believe you will not be disappointed with his music and the content this episode has to offer. Whether you’re an aspiring musician or P2K weekly listener, this episode has a lot of value to offer anyone looking to do their own thing and put themselves out there. Listen, feel the energy, and enjoy!]]></description>
+			<content:encoded><![CDATA[In this episode of P2K, we had the privilege of sitting down with KEAG, a Wisconsin Hip-Hop artist based out of Oshkosh! KEAG has toured all over the state of Wisconsin and gained quite an impressive following through SoundCloud, Spotify, and social media. KEAG has opened for famous artists such as T-Pain and Curren$y! He recently dropped his 2018 album “Problematic Art” and has been gaining massive momentum in the Wisconsin Hip-Hop scene! His hit single “Ok!” featuring IshDARR has OVER 115,000 hits on Spotify! He averages anywhere between 5,000 to over 7,000 monthly listens on Spotify. Please do him a favor and give his album a listen. We at P2K strongly believe you will not be disappointed with his music and the content this episode has to offer. Whether you’re an aspiring musician or P2K weekly listener, this episode has a lot of value to offer anyone looking to do their own thing and put themselves out there. Listen, feel the energy, and enjoy!]]></content:encoded>
+			<enclosure length="62423385" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/500234628-passion2knowledge-episode-008-wisconsin-hip-hop.m4a?dest-id=1548626" />
+			<itunes:duration>31:26</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode of P2K, we had the privilege of s…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>EPISODE #007: DR. PETER J. STEINERT, DDS EXPLAINS THE KEY ISSUES WITH CORPORATE DENTISTRY</title>
+			<pubDate>Sun, 09 Sep 2018 16:16:57 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/497479785]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/497479785-passion2knowledge-episode-007-dr-peter-j.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/c/c/b/7/ccb7e81dfbb7600c/artworks-000402492177-nsnr8p-original.jpg" />
+			<description><![CDATA[Here at Passion2Knowledge we strongly believe this is one of the most applicable, relevant, and important podcast episodes P2K has dropped to date! Dr. Peter J. Steinert, D.D.S. joins us on this episode for an enlightening take on the current dental and healthcare practices in the United States. We are so excited for you to learn more about the state of dentistry as it relates to the corporate, disease-centered, model and what YOU can do to improve your overall health and dental experience as either a patient or practicing dentist. Furthermore, if you are or are aspiring to be a dental/medical student this conversation comes at an incredibly relevant time! Whether you’re a weekly listener or in the medical field this episode surfaces some of the key issues in today’s modern medicine that can benefit your health mentally & physically. Feel the energy!]]></description>
+			<content:encoded><![CDATA[Here at Passion2Knowledge we strongly believe this is one of the most applicable, relevant, and important podcast episodes P2K has dropped to date! Dr. Peter J. Steinert, D.D.S. joins us on this episode for an enlightening take on the current dental and healthcare practices in the United States. We are so excited for you to learn more about the state of dentistry as it relates to the corporate, disease-centered, model and what YOU can do to improve your overall health and dental experience as either a patient or practicing dentist. Furthermore, if you are or are aspiring to be a dental/medical student this conversation comes at an incredibly relevant time! Whether you’re a weekly listener or in the medical field this episode surfaces some of the key issues in today’s modern medicine that can benefit your health mentally & physically. Feel the energy!]]></content:encoded>
+			<enclosure length="95205512" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/497479785-passion2knowledge-episode-007-dr-peter-j.m4a?dest-id=1548626" />
+			<itunes:duration>47:55</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Here at Passion2Knowledge we strongly believe thi…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>P2K EPISODE #006: ALEX GOODMAN FOUNDER OF FRANKLIN MORROW - A COMPANY WITH AN INSPIRING MISSION</title>
+			<pubDate>Wed, 29 Aug 2018 00:10:29 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/492055818]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/492055818-passion2knowledge-p2k-episode-006-alex-goodman.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/5/a/6/b5a66669c4c0e926/artworks-000396278841-phy0i2-original.jpg" />
+			<description><![CDATA[On this week’s episode of P2K Christian conducts our first in person discussion with Alex Goodman, Founder and CEO of Franklin Morrow – Exclusive Men’s Fashion. We have a great discussion about the logistics of starting a fashion brand and the brand’s inspiring mission and societal impact Franklin Morrow makes on the City of Columbus and beyond! Additionally, Alex gives the P2K Community some tips and recommendations for bringing your potential up a level in whatever it is you are doing. Feel the energy!]]></description>
+			<content:encoded><![CDATA[On this week’s episode of P2K Christian conducts our first in person discussion with Alex Goodman, Founder and CEO of Franklin Morrow – Exclusive Men’s Fashion. We have a great discussion about the logistics of starting a fashion brand and the brand’s inspiring mission and societal impact Franklin Morrow makes on the City of Columbus and beyond! Additionally, Alex gives the P2K Community some tips and recommendations for bringing your potential up a level in whatever it is you are doing. Feel the energy!]]></content:encoded>
+			<enclosure length="47941394" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/492055818-passion2knowledge-p2k-episode-006-alex-goodman.m4a?dest-id=1548626" />
+			<itunes:duration>23:57</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this week’s episode of P2K Christian conducts …]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>P2K EPISODE #005: 2X CO-FOUNDER &amp; DIGITAL MARKETING FREELANCER BRAD PLOCH FEELS THE ENERGY PART 2</title>
+			<pubDate>Tue, 21 Aug 2018 00:34:48 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/488341371]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/488341371-passion2knowledge-p2k-episode-004-2x-co.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/6/8/9/2689d4de5703e805/artworks-000392020743-ntyntp-original.jpg" />
+			<description><![CDATA[In the second half of our conversation with Brad, we discuss what it means to be an entrepreneur, the work mandated by this professional decision, and how the media falsely portrays the entrepreneurial lifestyle.]]></description>
+			<content:encoded><![CDATA[In the second half of our conversation with Brad, we discuss what it means to be an entrepreneur, the work mandated by this professional decision, and how the media falsely portrays the entrepreneurial lifestyle.]]></content:encoded>
+			<enclosure length="62084547" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/488341371-passion2knowledge-p2k-episode-004-2x-co.m4a?dest-id=1548626" />
+			<itunes:duration>31:11</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In the second half of our conversation with Brad,…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>P2K EPISODE #004: 2X CO-FOUNDER &amp; DIGITAL MARKETING FREELANCER BRAD PLOCH FEELS THE ENERGY PART 1</title>
+			<pubDate>Mon, 20 Aug 2018 23:59:14 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/488329350]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/488329350-passion2knowledge-p2k-episode-004-2x-co-founder.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/1/1/e/c/11ece1686d16f2fd/artworks-000392000991-1ucxeo-original.jpg" />
+			<description><![CDATA[In Part 1 of the Brad Ploch series, P2K dives into Brad's interesting life dealing with his digital marketing freelance and entrepreneurial ventures. Furthermore, Zak infuses the discussion regarding academia compared to real-world execution into the conversation. Listen and learn about a genuine self-starter and our take on the true value of a college education. #FeelTheEnergy!]]></description>
+			<content:encoded><![CDATA[In Part 1 of the Brad Ploch series, P2K dives into Brad's interesting life dealing with his digital marketing freelance and entrepreneurial ventures. Furthermore, Zak infuses the discussion regarding academia compared to real-world execution into the conversation. Listen and learn about a genuine self-starter and our take on the true value of a college education. #FeelTheEnergy!]]></content:encoded>
+			<enclosure length="48905258" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/488329350-passion2knowledge-p2k-episode-004-2x-co-founder.m4a?dest-id=1548626" />
+			<itunes:duration>24:35</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In Part 1 of the Brad Ploch series, P2K dives int…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>PASSION2KNOWLEDGE EPISODE #003: PLANE FLIGHT AA3476 CHANGED MY PERSPECTIVE</title>
+			<pubDate>Mon, 20 Aug 2018 23:46:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/488325030]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/488325030-passion2knowledge-passion2knowledge-episode.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/c/a/0/f/ca0f65cc0de4c89b/artworks-000391995252-h7ias5-original.jpg" />
+			<description><![CDATA[P2K takes a turn as Christian spontaneously documents his travel troubles over a weekend heading home to Wisconsin. While enjoying an early morning on paid time off away from work, Christian had a rather unsettling connecting plane flight from Columbus to Chicago. In a matter of minutes, his life went from everything in order and going well to being at risk. Enjoy the story and keep an open mind as Christian takes you on this journey of fear, frustration, logic, and gratitude. Carpe diem. Get ready to feel the energy!]]></description>
+			<content:encoded><![CDATA[P2K takes a turn as Christian spontaneously documents his travel troubles over a weekend heading home to Wisconsin. While enjoying an early morning on paid time off away from work, Christian had a rather unsettling connecting plane flight from Columbus to Chicago. In a matter of minutes, his life went from everything in order and going well to being at risk. Enjoy the story and keep an open mind as Christian takes you on this journey of fear, frustration, logic, and gratitude. Carpe diem. Get ready to feel the energy!]]></content:encoded>
+			<enclosure length="21882270" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/488325030-passion2knowledge-passion2knowledge-episode.m4a?dest-id=1548626" />
+			<itunes:duration>10:51</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[P2K takes a turn as Christian spontaneously docum…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Mr. Zak Giese's Welcome to P2K: Perfectionism &amp; Execution</title>
+			<pubDate>Tue, 24 Jul 2018 00:39:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/475837131]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/475837131-passion2knowledge-mr-zak-gieses-welcome-to-p2k.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/9/c/3/d9c3e215477b3419/artworks-000378443079-jzfjpm-original.jpg" />
+			<description><![CDATA[Zak has a tremendous introduction to the podcast and we discuss perfectionism and its limiting effects on us at our young and inexperienced ages. Feel the energy, P2K community! Bear with us as we progress!]]></description>
+			<content:encoded><![CDATA[Zak has a tremendous introduction to the podcast and we discuss perfectionism and its limiting effects on us at our young and inexperienced ages. Feel the energy, P2K community! Bear with us as we progress!]]></content:encoded>
+			<enclosure length="46303496" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/475837131-passion2knowledge-mr-zak-gieses-welcome-to-p2k.m4a?dest-id=1548626" />
+			<itunes:duration>31:53</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Zak has a tremendous introduction to the podcast …]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+		<item>
+			<title>Filling in the Gaps (Welcome to P2K)</title>
+			<pubDate>Sat, 07 Jul 2018 13:47:48 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/468521586]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/passion2knowledge/468521586-passion2knowledge-filling-in-the-gaps-welcome-to.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/7/0/4/d704c64f21a7e42f/artworks-000376530006-wm6hky-original.jpg" />
+			<description><![CDATA[Filling in the Gaps (Welcome to P2K) by Christian & Zak]]></description>
+			<content:encoded><![CDATA[Filling in the Gaps (Welcome to P2K) by Christian & Zak]]></content:encoded>
+			<enclosure length="24214938" type="audio/mp4" url="https://traffic.libsyn.com/secure/passion2knowledge/468521586-passion2knowledge-filling-in-the-gaps-welcome-to.m4a?dest-id=1548626" />
+			<itunes:duration>12:09</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Filling in the Gaps (Welcome to P2K) by Christian…]]></itunes:subtitle>
+			<itunes:author>Christian &amp; Zak</itunes:author>
+		</item>
+
+	</channel>
+</rss>

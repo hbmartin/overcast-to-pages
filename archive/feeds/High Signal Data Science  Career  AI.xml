@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
+  <channel>
+    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
+    <fireside:genDate>Thu, 29 May 2025 10:46:13 -0500</fireside:genDate>
+    <generator>Fireside (https://fireside.fm)</generator>
+    <title>High Signal: Data Science | Career | AI</title>
+    <link>https://highsignal.fireside.fm</link>
+    <pubDate>Thu, 29 May 2025 11:45:57 -0400</pubDate>
+    <description>Welcome to High Signal, the podcast for data science, AI, and machine learning professionals.
+High Signal brings you the best from the best in data science, machine learning, and AI. Hosted by Hugo Bowne-Anderson and produced by Delphina, each episode features deep conversations with leading experts, such as Michael Jordan (UC Berkeley), Andrew Gelman (Columbia) and Chiara Farranato (HBS).
+Join us for practical insights from the best to help you advance your career and make an impact in these rapidly evolving fields.
+More on our website: https://high-signal.delphina.ai/
+</description>
+    <language>en-us</language>
+    <copyright>© 2025 Delphina</copyright>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>Welcome to High Signal, where you’ll hear the best from the best in data science, machine learning, and AI. The goal of this podcast is to bring high signal, to help you advance your careers in data science, ML, and AI.</itunes:subtitle>
+    <itunes:author>Delphina</itunes:author>
+    <itunes:summary>Welcome to High Signal, the podcast for data science, AI, and machine learning professionals.
+High Signal brings you the best from the best in data science, machine learning, and AI. Hosted by Hugo Bowne-Anderson and produced by Delphina, each episode features deep conversations with leading experts, such as Michael Jordan (UC Berkeley), Andrew Gelman (Columbia) and Chiara Farranato (HBS).
+Join us for practical insights from the best to help you advance your career and make an impact in these rapidly evolving fields.
+More on our website: https://high-signal.delphina.ai/
+</itunes:summary>
+    <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>data, data science, machine learning, AI</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Delphina</itunes:name>
+      <itunes:email>hugobowne@gmail.com</itunes:email>
+    </itunes:owner>
+<itunes:category text="Technology"/>
+<itunes:category text="Business"/>
+    <item>
+      <title>Episode 17: The Incentive Problem in Shipping AI Products — and How to Change It</title>
+      <link>https://highsignal.fireside.fm/17</link>
+      <guid isPermaLink="false">cbd4221e-6ad5-4be3-88a7-e8696d8d47ad</guid>
+      <pubDate>Thu, 29 May 2025 11:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/cbd4221e-6ad5-4be3-88a7-e8696d8d47ad.mp3" length="105247336" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Roberto Medri, VP of Data Science at Instagram, explains why most experiments fail, how misaligned incentives warp product development, and what it takes to drive real impact with data science. He shares what teams get wrong about launches, why ego gets in the way of learning, and how Instagram turned Reels from a struggling product into a global success. A candid look at product, data, and decision-making inside one of the world’s most influential platforms.</itunes:subtitle>
+      <itunes:duration>53:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/c/cbd4221e-6ad5-4be3-88a7-e8696d8d47ad/transcript.txt" type="text/plain"/>
+      <description>Roberto Medri, VP of Data Science at Instagram, explains why most experiments fail, how misaligned incentives warp product development, and what it takes to drive real impact with data science. He shares what teams get wrong about launches, why ego gets in the way of learning, and how Instagram turned Reels from a struggling product into a global success. A candid look at product, data, and decision-making inside one of the world’s most influential platforms.
+LINKS
+Roberto on LinkedIn (https://www.linkedin.com/in/robertomedri/)
+High Signal podcast (https://high-signal.delphina.ai/)
+Delphina's Newsletter (https://delphinaai.substack.com/)
+</description>
+      <itunes:keywords>data science, machine learning, AI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Roberto Medri, VP of Data Science at Instagram, explains why most experiments fail, how misaligned incentives warp product development, and what it takes to drive real impact with data science. He shares what teams get wrong about launches, why ego gets in the way of learning, and how Instagram turned Reels from a struggling product into a global success. A candid look at product, data, and decision-making inside one of the world’s most influential platforms.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/robertomedri/" rel="nofollow">Roberto on LinkedIn</a></li>
+<li><a href="https://high-signal.delphina.ai/" rel="nofollow">High Signal podcast</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Roberto Medri, VP of Data Science at Instagram, explains why most experiments fail, how misaligned incentives warp product development, and what it takes to drive real impact with data science. He shares what teams get wrong about launches, why ego gets in the way of learning, and how Instagram turned Reels from a struggling product into a global success. A candid look at product, data, and decision-making inside one of the world’s most influential platforms.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/robertomedri/" rel="nofollow">Roberto on LinkedIn</a></li>
+<li><a href="https://high-signal.delphina.ai/" rel="nofollow">High Signal podcast</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+B5QWjMXK</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+B5QWjMXK" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 16: How Human-Centered AI Actually Gets Built</title>
+      <link>https://highsignal.fireside.fm/16</link>
+      <guid isPermaLink="false">d958ce1f-b476-4d3f-ad61-613669286f22</guid>
+      <pubDate>Tue, 13 May 2025 02:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/d958ce1f-b476-4d3f-ad61-613669286f22.mp3" length="45478223" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Fei-Fei Li—co-director of Stanford’s Human-Centered AI Institute and one of the most respected voices in the field—reflects on AI’s evolution from the early days of ImageNet to the rise of foundation models. She explains why spatial intelligence may be the next major shift, how human-centered design applies in practice, and why AI should be understood as a civilizational technology—one that shapes individuals, communities, and society at large.</itunes:subtitle>
+      <itunes:duration>47:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/d/d958ce1f-b476-4d3f-ad61-613669286f22/transcript.txt" type="text/plain"/>
+      <description>Fei-Fei Li—co-director of Stanford’s Human-Centered AI Institute and one of the most respected voices in the field—reflects on AI’s evolution from the early days of ImageNet to the rise of foundation models. She explains why spatial intelligence may be the next major shift, how human-centered design applies in practice, and why AI should be understood as a civilizational technology—one that shapes individuals, communities, and society at large.
+LINKS
+Stanford HAI (https://hai.stanford.edu/)
+World Labs (https://www.worldlabs.ai/about)
+"The World I See", Fei-Fei's book (a must read!) (https://us.macmillan.com/books/9781250897930/theworldsisee/)
+Fei-Fei on X (https://x.com/drfeifei)
+Fei-Fei on LinkedIn (https://www.linkedin.com/in/fei-fei-li-4541247/)
+High Signal podcast (https://high-signal.delphina.ai/)
+Delphina's Newsletter (https://delphinaai.substack.com/) 
+</description>
+      <itunes:keywords>data science, machine learning, AI, LLMs</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Fei-Fei Li—co-director of Stanford’s Human-Centered AI Institute and one of the most respected voices in the field—reflects on AI’s evolution from the early days of ImageNet to the rise of foundation models. She explains why spatial intelligence may be the next major shift, how human-centered design applies in practice, and why AI should be understood as a civilizational technology—one that shapes individuals, communities, and society at large.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://hai.stanford.edu/" rel="nofollow">Stanford HAI</a></li>
+<li><a href="https://www.worldlabs.ai/about" rel="nofollow">World Labs</a></li>
+<li><a href="https://us.macmillan.com/books/9781250897930/theworldsisee/" rel="nofollow">&quot;The World I See&quot;, Fei-Fei&#39;s book (a must read!)</a></li>
+<li><a href="https://x.com/drfeifei" rel="nofollow">Fei-Fei on X</a></li>
+<li><a href="https://www.linkedin.com/in/fei-fei-li-4541247/" rel="nofollow">Fei-Fei on LinkedIn</a></li>
+<li><a href="https://high-signal.delphina.ai/" rel="nofollow">High Signal podcast</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Fei-Fei Li—co-director of Stanford’s Human-Centered AI Institute and one of the most respected voices in the field—reflects on AI’s evolution from the early days of ImageNet to the rise of foundation models. She explains why spatial intelligence may be the next major shift, how human-centered design applies in practice, and why AI should be understood as a civilizational technology—one that shapes individuals, communities, and society at large.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://hai.stanford.edu/" rel="nofollow">Stanford HAI</a></li>
+<li><a href="https://www.worldlabs.ai/about" rel="nofollow">World Labs</a></li>
+<li><a href="https://us.macmillan.com/books/9781250897930/theworldsisee/" rel="nofollow">&quot;The World I See&quot;, Fei-Fei&#39;s book (a must read!)</a></li>
+<li><a href="https://x.com/drfeifei" rel="nofollow">Fei-Fei on X</a></li>
+<li><a href="https://www.linkedin.com/in/fei-fei-li-4541247/" rel="nofollow">Fei-Fei on LinkedIn</a></li>
+<li><a href="https://high-signal.delphina.ai/" rel="nofollow">High Signal podcast</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+moX-2gm_</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+moX-2gm_" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 15: Why Good Metrics Still Lead to Bad Decisions — and How to Fix It</title>
+      <link>https://highsignal.fireside.fm/15</link>
+      <guid isPermaLink="false">77774df9-3464-4d8c-a491-ff06643766f7</guid>
+      <pubDate>Thu, 24 Apr 2025 01:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/77774df9-3464-4d8c-a491-ff06643766f7.mp3" length="106730461" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Eoin O'Mahony—data science partner at Lightspeed, former Uber science lead, and co-designer of the system that kept NYC’s Citi Bikes available across the city—argues that positive metrics are meaningless if you don’t understand the mechanism behind them. At Uber, he was careful to make sure his launches both looked good on paper and made sense in practice. Now in venture, he’s applying that same rigor to unstructured data—using GenAI to scale a kind of work that’s long resisted systematization.</itunes:subtitle>
+      <itunes:duration>54:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/7/77774df9-3464-4d8c-a491-ff06643766f7/transcript.txt" type="text/plain"/>
+      <description>Eoin O'Mahony—data science partner at Lightspeed, former Uber science lead, and one of the early architects of the system that kept NYC’s Citi Bikes available across the city—argues that positive metrics are meaningless if you don’t understand the mechanism behind them. At Uber, he was careful to make sure his launches both looked good on paper and made sense in practice. Now in venture, he’s applying that same rigor to unstructured data—using GenAI to scale a kind of work that’s long resisted systematization.
+LINKS
+Eoin's page at Lightspeed Ventures (https://lsvp.com/team-member/eoin-omahony/)
+Ramesh Johari on How to Build an Experimentation Machine and Where Most Go Wrong (https://high-signal.delphina.ai/episode/ramesh-johari-on-how-to-build-an-experimentation-machine-and-where-most-go-wrong)
+Chiara Farronato on Data Science Meets Management: Teamwork, Experimentation, and Decision-Making (https://high-signal.delphina.ai/episode/data-science-meets-management)
+Delphina's Newsletter (https://delphinaai.substack.com/) 
+</description>
+      <itunes:keywords>data science, machine learning, AI, LLMs</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Eoin O&#39;Mahony—data science partner at Lightspeed, former Uber science lead, and one of the early architects of the system that kept NYC’s Citi Bikes available across the city—argues that positive metrics are meaningless if you don’t understand the mechanism behind them. At Uber, he was careful to make sure his launches both looked good on paper and made sense in practice. Now in venture, he’s applying that same rigor to unstructured data—using GenAI to scale a kind of work that’s long resisted systematization.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://lsvp.com/team-member/eoin-omahony/" rel="nofollow">Eoin&#39;s page at Lightspeed Ventures</a></li>
+<li><a href="https://high-signal.delphina.ai/episode/ramesh-johari-on-how-to-build-an-experimentation-machine-and-where-most-go-wrong" rel="nofollow">Ramesh Johari on How to Build an Experimentation Machine and Where Most Go Wrong</a></li>
+<li><a href="https://high-signal.delphina.ai/episode/data-science-meets-management" rel="nofollow">Chiara Farronato on Data Science Meets Management: Teamwork, Experimentation, and Decision-Making</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Eoin O&#39;Mahony—data science partner at Lightspeed, former Uber science lead, and one of the early architects of the system that kept NYC’s Citi Bikes available across the city—argues that positive metrics are meaningless if you don’t understand the mechanism behind them. At Uber, he was careful to make sure his launches both looked good on paper and made sense in practice. Now in venture, he’s applying that same rigor to unstructured data—using GenAI to scale a kind of work that’s long resisted systematization.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://lsvp.com/team-member/eoin-omahony/" rel="nofollow">Eoin&#39;s page at Lightspeed Ventures</a></li>
+<li><a href="https://high-signal.delphina.ai/episode/ramesh-johari-on-how-to-build-an-experimentation-machine-and-where-most-go-wrong" rel="nofollow">Ramesh Johari on How to Build an Experimentation Machine and Where Most Go Wrong</a></li>
+<li><a href="https://high-signal.delphina.ai/episode/data-science-meets-management" rel="nofollow">Chiara Farronato on Data Science Meets Management: Teamwork, Experimentation, and Decision-Making</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+KqB-omJZ</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+KqB-omJZ" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 14: Why Most Companies Aren’t Actually AI Ready (and What to Do About It)</title>
+      <link>https://highsignal.fireside.fm/14</link>
+      <guid isPermaLink="false">d36785d0-49f4-46bd-af46-9bd7a69c82dd</guid>
+      <pubDate>Wed, 09 Apr 2025 23:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/d36785d0-49f4-46bd-af46-9bd7a69c82dd.mp3" length="49888116" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Barr Moses—co-founder and CEO of Monte Carlo—thinks we’re headed for an AI reckoning. Companies are building fast, but most are still managing data like it’s 2015. In this episode, she shares high-stakes failure stories (like a $100M schema change), explains why full-stack observability is becoming essential, and breaks down how LLM agents are already transforming data debugging. From culture to tooling, this is a sharp look at what real AI readiness requires—and why so few teams have it.</itunes:subtitle>
+      <itunes:duration>51:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/d/d36785d0-49f4-46bd-af46-9bd7a69c82dd/transcript.txt" type="text/plain"/>
+      <description>Barr Moses—co-founder and CEO of Monte Carlo—thinks we’re headed for an AI reckoning. Companies are building fast, but most are still managing data like it’s 2015. In this episode, she shares high-stakes failure stories (like a $100M schema change), explains why full-stack observability is becoming essential, and breaks down how LLM agents are already transforming data debugging. From culture to tooling, this is a sharp look at what real AI readiness requires—and why so few teams have it.
+LINKS
+2024 State of Reliable AI Survey – Monte Carlo (https://www.montecarlodata.com/blog-2024-state-of-reliable-ai-survey/)
+Delphina's Newsletter (https://delphinaai.substack.com/)
+Unity’s $100M Data Error – Schema Change Gone Wrong (https://www.theregister.com/2021/11/11/unity_stock_plunge/)
+Citibank’s $400M Fine for Risk Management Failures (https://www.reuters.com/article/us-citigroup-fine-idUSKBN26T0BK)
+Google’s AI Recommends Adding Glue to Pizza (https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza)
+Chevy Dealer’s AI Chatbot Agrees to Sell Tahoe for $1 (https://incidentdatabase.ai/cite/622/)
+The AI Hierarchy of Needs by Monica Rogati (HackerNoon) (https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
+Data Quality Fundamentals by Barr Moses, Lior Gavish, and Molly Vorwerck (O’Reilly) (https://www.oreilly.com/library/view/data-quality-fundamentals/9781098112035/)
+Delphina's Newsletter (https://delphinaai.substack.com/) 
+</description>
+      <itunes:keywords>AI, LLMs, data science, machine learning, data science, GenAI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Barr Moses—co-founder and CEO of Monte Carlo—thinks we’re headed for an AI reckoning. Companies are building fast, but most are still managing data like it’s 2015. In this episode, she shares high-stakes failure stories (like a $100M schema change), explains why full-stack observability is becoming essential, and breaks down how LLM agents are already transforming data debugging. From culture to tooling, this is a sharp look at what real AI readiness requires—and why so few teams have it.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.montecarlodata.com/blog-2024-state-of-reliable-ai-survey/" rel="nofollow">2024 State of Reliable AI Survey – Monte Carlo</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+<li><a href="https://www.theregister.com/2021/11/11/unity_stock_plunge/" rel="nofollow">Unity’s $100M Data Error – Schema Change Gone Wrong</a></li>
+<li><a href="https://www.reuters.com/article/us-citigroup-fine-idUSKBN26T0BK" rel="nofollow">Citibank’s $400M Fine for Risk Management Failures</a></li>
+<li><a href="https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza" rel="nofollow">Google’s AI Recommends Adding Glue to Pizza</a></li>
+<li><a href="https://incidentdatabase.ai/cite/622/" rel="nofollow">Chevy Dealer’s AI Chatbot Agrees to Sell Tahoe for $1</a></li>
+<li><a href="https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007" rel="nofollow"><em>The AI Hierarchy of Needs</em> by Monica Rogati (HackerNoon)</a></li>
+<li><a href="https://www.oreilly.com/library/view/data-quality-fundamentals/9781098112035/" rel="nofollow"><em>Data Quality Fundamentals</em> by Barr Moses, Lior Gavish, and Molly Vorwerck (O’Reilly)</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Barr Moses—co-founder and CEO of Monte Carlo—thinks we’re headed for an AI reckoning. Companies are building fast, but most are still managing data like it’s 2015. In this episode, she shares high-stakes failure stories (like a $100M schema change), explains why full-stack observability is becoming essential, and breaks down how LLM agents are already transforming data debugging. From culture to tooling, this is a sharp look at what real AI readiness requires—and why so few teams have it.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.montecarlodata.com/blog-2024-state-of-reliable-ai-survey/" rel="nofollow">2024 State of Reliable AI Survey – Monte Carlo</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+<li><a href="https://www.theregister.com/2021/11/11/unity_stock_plunge/" rel="nofollow">Unity’s $100M Data Error – Schema Change Gone Wrong</a></li>
+<li><a href="https://www.reuters.com/article/us-citigroup-fine-idUSKBN26T0BK" rel="nofollow">Citibank’s $400M Fine for Risk Management Failures</a></li>
+<li><a href="https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza" rel="nofollow">Google’s AI Recommends Adding Glue to Pizza</a></li>
+<li><a href="https://incidentdatabase.ai/cite/622/" rel="nofollow">Chevy Dealer’s AI Chatbot Agrees to Sell Tahoe for $1</a></li>
+<li><a href="https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007" rel="nofollow"><em>The AI Hierarchy of Needs</em> by Monica Rogati (HackerNoon)</a></li>
+<li><a href="https://www.oreilly.com/library/view/data-quality-fundamentals/9781098112035/" rel="nofollow"><em>Data Quality Fundamentals</em> by Barr Moses, Lior Gavish, and Molly Vorwerck (O’Reilly)</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+FXt4AZmo</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+FXt4AZmo" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 13: The End of Programming As We Know It</title>
+      <link>https://highsignal.fireside.fm/13</link>
+      <guid isPermaLink="false">a660c513-d0cd-4f78-84f5-8375dd557adf</guid>
+      <pubDate>Thu, 27 Mar 2025 01:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/a660c513-d0cd-4f78-84f5-8375dd557adf.mp3" length="79826952" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Tim O’Reilly—founder of O’Reilly Media and one of the most influential voices in tech—argues we’re not witnessing the end of programming, but the beginning of something far bigger. He draws on past computing revolutions to explore how AI is reshaping what it means to build software, why real breakthroughs come from the edge—not incumbents—and what it takes to learn, teach, and build responsibly in the age of AI.</itunes:subtitle>
+      <itunes:duration>1:23:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/a/a660c513-d0cd-4f78-84f5-8375dd557adf/transcript.txt" type="text/plain"/>
+      <description>Tim O’Reilly—founder of O’Reilly Media and one of the most influential voices in tech—argues we’re not witnessing the end of programming, but the beginning of something far bigger. He draws on past computing revolutions to explore how AI is reshaping what it means to build software, why real breakthroughs come from the edge—not incumbents—and what it takes to learn, teach, and build responsibly in the age of AI.
+LINKS
+The End of Programming as We Know It by Tim &lt;--- Read this! (https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
+WTF? What’s the Future and Why It’s Up to Us (https://www.oreilly.com/tim/wtf-book.html)
+The fundamental problem with Silicon Valley’s favorite growth strategy (https://qz.com/1540608/the-problem-with-silicon-valleys-obsession-with-blitzscaling-growth)
+AI Engineering by Chip Huyen (https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
+Delphina's Newsletter (https://delphinaai.substack.com/) 
+</description>
+      <itunes:keywords>data science, machine learning, AI, LLMs</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Tim O’Reilly—founder of O’Reilly Media and one of the most influential voices in tech—argues we’re not witnessing the end of programming, but the beginning of something far bigger. He draws on past computing revolutions to explore how AI is reshaping what it means to build software, why real breakthroughs come from the edge—not incumbents—and what it takes to learn, teach, and build responsibly in the age of AI.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/" rel="nofollow">The End of Programming as We Know It by Tim &lt;--- Read this!</a></li>
+<li><a href="https://www.oreilly.com/tim/wtf-book.html" rel="nofollow">WTF? What’s the Future and Why It’s Up to Us</a></li>
+<li><a href="https://qz.com/1540608/the-problem-with-silicon-valleys-obsession-with-blitzscaling-growth" rel="nofollow">The fundamental problem with Silicon Valley’s favorite growth strategy</a></li>
+<li><a href="https://www.oreilly.com/library/view/ai-engineering/9781098166298/" rel="nofollow">AI Engineering by Chip Huyen</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Tim O’Reilly—founder of O’Reilly Media and one of the most influential voices in tech—argues we’re not witnessing the end of programming, but the beginning of something far bigger. He draws on past computing revolutions to explore how AI is reshaping what it means to build software, why real breakthroughs come from the edge—not incumbents—and what it takes to learn, teach, and build responsibly in the age of AI.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/" rel="nofollow">The End of Programming as We Know It by Tim &lt;--- Read this!</a></li>
+<li><a href="https://www.oreilly.com/tim/wtf-book.html" rel="nofollow">WTF? What’s the Future and Why It’s Up to Us</a></li>
+<li><a href="https://qz.com/1540608/the-problem-with-silicon-valleys-obsession-with-blitzscaling-growth" rel="nofollow">The fundamental problem with Silicon Valley’s favorite growth strategy</a></li>
+<li><a href="https://www.oreilly.com/library/view/ai-engineering/9781098166298/" rel="nofollow">AI Engineering by Chip Huyen</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+i-0wUnV2</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+i-0wUnV2" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 12: Your Machine Learning Solves The Wrong Problem</title>
+      <link>https://highsignal.fireside.fm/12</link>
+      <guid isPermaLink="false">0be37662-1184-4a3f-bfcd-d65909a0eeec</guid>
+      <pubDate>Thu, 13 Mar 2025 15:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/0be37662-1184-4a3f-bfcd-d65909a0eeec.mp3" length="106915804" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Stefan Wager—Professor at Stanford and expert on causal machine learning—has worked with leading tech companies including Dropbox, Facebook, Google, and Uber. He challenges the widespread assumption that better predictions mean better decisions. Traditional machine learning excels at prediction, but is prediction really what your business needs? Stefan explores why predictive models alone often fail to answer critical “what-if” questions, how causal machine learning bridges this gap, and provides practical advice for how you can start applying causal ML at work.</itunes:subtitle>
+      <itunes:duration>54:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/0/0be37662-1184-4a3f-bfcd-d65909a0eeec/transcript.txt" type="text/plain"/>
+      <description>Stefan Wager—Professor at Stanford and expert on causal machine learning—has worked with leading tech companies including Dropbox, Facebook, Google, and Uber. He challenges the widespread assumption that better predictions mean better decisions. Traditional machine learning excels at prediction, but is prediction really what your business needs? Stefan explores why predictive models alone often fail to answer critical “what-if” questions, how causal machine learning bridges this gap, and provides practical advice for how you can start applying causal ML at work.
+LINKS
+Stefan's Stanford Website (https://www.gsb.stanford.edu/faculty-research/faculty/stefan-wager)
+Machine Learning and Economics, Stefan and Susan Athey's lectures for the Stanford Graduate School of Business (https://www.youtube.com/@stanfordgsb)
+Causal Inference: A Statistical Learning Approach (WIP!) (https://web.stanford.edu/~swager/causal_inf_book.pdf)
+Mastering ‘Metrics: The Path from Cause to Effect by Angrist &amp; Pischke (https://www.masteringmetrics.com/)
+The Book of Why: The New Science of Cause and Effect by Judea Pearl and Dana Mackenzie (https://en.wikipedia.org/wiki/The_Book_of_Why)
+Causal Inference: The Mixtape by Scott Cunningham (https://mixtape.scunning.com/)
+A Technical Primer On Causality by Adam Kelleher (https://medium.com/@akelleh/a-technical-primer-on-causality-181db2575e41)
+What Is Causal Inference? An Introduction for Data Scientists by Hugo Bowne-Anderson and Mike Loukides (https://www.oreilly.com/radar/what-is-causal-inference/)
+The Episode on YouTube (https://www.youtube.com/watch?v=f9_Lt5p8avU&amp;feature=youtu.be)
+Delphina's Newsletter (https://delphinaai.substack.com/)
+</description>
+      <itunes:keywords>data science, machine learning, causal inference, causal ML</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Stefan Wager—Professor at Stanford and expert on causal machine learning—has worked with leading tech companies including Dropbox, Facebook, Google, and Uber. He challenges the widespread assumption that better predictions mean better decisions. Traditional machine learning excels at prediction, but is prediction really what your business needs? Stefan explores why predictive models alone often fail to answer critical “what-if” questions, how causal machine learning bridges this gap, and provides practical advice for how you can start applying causal ML at work.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.gsb.stanford.edu/faculty-research/faculty/stefan-wager" rel="nofollow">Stefan&#39;s Stanford Website</a></li>
+<li><a href="https://www.youtube.com/@stanfordgsb" rel="nofollow">Machine Learning and Economics, Stefan and Susan Athey&#39;s lectures for the Stanford Graduate School of Business</a></li>
+<li><a href="https://web.stanford.edu/%7Eswager/causal_inf_book.pdf" rel="nofollow">Causal Inference: A Statistical Learning Approach (WIP!)</a></li>
+<li><a href="https://www.masteringmetrics.com/" rel="nofollow">Mastering ‘Metrics: The Path from Cause to Effect by Angrist &amp; Pischke</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Book_of_Why" rel="nofollow">The Book of Why: The New Science of Cause and Effect by Judea Pearl and Dana Mackenzie</a></li>
+<li><a href="https://mixtape.scunning.com/" rel="nofollow">Causal Inference: The Mixtape by Scott Cunningham</a></li>
+<li><a href="https://medium.com/@akelleh/a-technical-primer-on-causality-181db2575e41" rel="nofollow">A Technical Primer On Causality by Adam Kelleher</a></li>
+<li><a href="https://www.oreilly.com/radar/what-is-causal-inference/" rel="nofollow">What Is Causal Inference? An Introduction for Data Scientists by Hugo Bowne-Anderson and Mike Loukides</a></li>
+<li><a href="https://www.youtube.com/watch?v=f9_Lt5p8avU&feature=youtu.be" rel="nofollow">The Episode on YouTube</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Stefan Wager—Professor at Stanford and expert on causal machine learning—has worked with leading tech companies including Dropbox, Facebook, Google, and Uber. He challenges the widespread assumption that better predictions mean better decisions. Traditional machine learning excels at prediction, but is prediction really what your business needs? Stefan explores why predictive models alone often fail to answer critical “what-if” questions, how causal machine learning bridges this gap, and provides practical advice for how you can start applying causal ML at work.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.gsb.stanford.edu/faculty-research/faculty/stefan-wager" rel="nofollow">Stefan&#39;s Stanford Website</a></li>
+<li><a href="https://www.youtube.com/@stanfordgsb" rel="nofollow">Machine Learning and Economics, Stefan and Susan Athey&#39;s lectures for the Stanford Graduate School of Business</a></li>
+<li><a href="https://web.stanford.edu/%7Eswager/causal_inf_book.pdf" rel="nofollow">Causal Inference: A Statistical Learning Approach (WIP!)</a></li>
+<li><a href="https://www.masteringmetrics.com/" rel="nofollow">Mastering ‘Metrics: The Path from Cause to Effect by Angrist &amp; Pischke</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Book_of_Why" rel="nofollow">The Book of Why: The New Science of Cause and Effect by Judea Pearl and Dana Mackenzie</a></li>
+<li><a href="https://mixtape.scunning.com/" rel="nofollow">Causal Inference: The Mixtape by Scott Cunningham</a></li>
+<li><a href="https://medium.com/@akelleh/a-technical-primer-on-causality-181db2575e41" rel="nofollow">A Technical Primer On Causality by Adam Kelleher</a></li>
+<li><a href="https://www.oreilly.com/radar/what-is-causal-inference/" rel="nofollow">What Is Causal Inference? An Introduction for Data Scientists by Hugo Bowne-Anderson and Mike Loukides</a></li>
+<li><a href="https://www.youtube.com/watch?v=f9_Lt5p8avU&feature=youtu.be" rel="nofollow">The Episode on YouTube</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+Abi-I1qh</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+Abi-I1qh" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 11: What Comes After Code? The Role of Engineers in an AI-Driven Future</title>
+      <link>https://highsignal.fireside.fm/11</link>
+      <guid isPermaLink="false">e5dd654b-0f0b-44f4-a232-cdd533e6bc88</guid>
+      <pubDate>Thu, 27 Feb 2025 01:00:00 -0500</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/e5dd654b-0f0b-44f4-a232-cdd533e6bc88.mp3" length="63118188" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Peter Wang—Chief AI Officer at Anaconda and a driving force behind PyData—challenges conventional thinking about AI’s role in software development. As AI reshapes engineering, are we moving beyond writing code to orchestrating intelligence? Peter explores why companies are fixated on models instead of integration, how AI is breaking traditional software workflows, and what this shift means for open source. He also shares insights on the evolving role of engineers, the commoditization of AI models, and the deeper questions we should be asking about the future of software.</itunes:subtitle>
+      <itunes:duration>1:05:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/e/e5dd654b-0f0b-44f4-a232-cdd533e6bc88/transcript.txt" type="text/plain"/>
+      <description>Peter Wang—Chief AI Officer at Anaconda and a driving force behind PyData—challenges conventional thinking about AI’s role in software development. As AI reshapes engineering, are we moving beyond writing code to orchestrating intelligence? Peter explores why companies are fixated on models instead of integration, how AI is breaking traditional software workflows, and what this shift means for open source. He also shares insights on the evolving role of engineers, the commoditization of AI models, and the deeper questions we should be asking about the future of software.
+LINKS
+Peter Wang on LinkedIn (https://www.linkedin.com/in/pzwang/)
+Anaconda (https://www.anaconda.com/)
+Mistral Saba (https://mistral.ai/news/mistral-saba)
+Peter chatting with Hugo several years ago about the beginnings of PyData, NUMFOCUS, and Python for Data Science (https://vanishinggradients.fireside.fm/7)
+Delphina's Newsletter (https://delphinaai.substack.com/) 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Peter Wang—Chief AI Officer at Anaconda and a driving force behind PyData—challenges conventional thinking about AI’s role in software development. As AI reshapes engineering, are we moving beyond writing code to orchestrating intelligence? Peter explores why companies are fixated on models instead of integration, how AI is breaking traditional software workflows, and what this shift means for open source. He also shares insights on the evolving role of engineers, the commoditization of AI models, and the deeper questions we should be asking about the future of software.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/pzwang/" rel="nofollow">Peter Wang on LinkedIn</a></li>
+<li><a href="https://www.anaconda.com/" rel="nofollow">Anaconda</a></li>
+<li><a href="https://mistral.ai/news/mistral-saba" rel="nofollow">Mistral Saba</a></li>
+<li><a href="https://vanishinggradients.fireside.fm/7" rel="nofollow">Peter chatting with Hugo several years ago about the beginnings of PyData, NUMFOCUS, and Python for Data Science</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Peter Wang—Chief AI Officer at Anaconda and a driving force behind PyData—challenges conventional thinking about AI’s role in software development. As AI reshapes engineering, are we moving beyond writing code to orchestrating intelligence? Peter explores why companies are fixated on models instead of integration, how AI is breaking traditional software workflows, and what this shift means for open source. He also shares insights on the evolving role of engineers, the commoditization of AI models, and the deeper questions we should be asking about the future of software.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/pzwang/" rel="nofollow">Peter Wang on LinkedIn</a></li>
+<li><a href="https://www.anaconda.com/" rel="nofollow">Anaconda</a></li>
+<li><a href="https://mistral.ai/news/mistral-saba" rel="nofollow">Mistral Saba</a></li>
+<li><a href="https://vanishinggradients.fireside.fm/7" rel="nofollow">Peter chatting with Hugo several years ago about the beginnings of PyData, NUMFOCUS, and Python for Data Science</a></li>
+<li><a href="https://delphinaai.substack.com/" rel="nofollow">Delphina&#39;s Newsletter</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+JuTvM1Vo</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+JuTvM1Vo" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 10: AI Won't Save You But Data Intelligence Will</title>
+      <link>https://highsignal.fireside.fm/10</link>
+      <guid isPermaLink="false">2fe6cf02-566b-443b-aee3-0efdebceac69</guid>
+      <pubDate>Wed, 12 Feb 2025 18:15:00 -0500</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/2fe6cf02-566b-443b-aee3-0efdebceac69.mp3" length="116670417" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Ari Kaplan—Global Head of Evangelism at Databricks and a pioneer in sports analytics—explains why businesses fixated on AI often overlook the real advantage: making better decisions with their own data. He shares lessons from his work building analytics teams for Major League Baseball, advising McLaren’s F1 strategy, and helping companies apply AI where it actually works—without falling into hype-driven traps.</itunes:subtitle>
+      <itunes:duration>59:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/2/2fe6cf02-566b-443b-aee3-0efdebceac69/transcript.txt" type="text/plain"/>
+      <description>Ari Kaplan—Global Head of Evangelism at Databricks and a pioneer in sports analytics—explains why businesses fixated on AI often overlook the real advantage: making better decisions with their own data. He shares lessons from his work building analytics teams for Major League Baseball, advising McLaren’s F1 strategy, and helping companies apply AI where it actually works—without falling into hype-driven traps.
+SHOW NOTES
+Ari on LinkedIn (https://www.linkedin.com/in/arikaplan/)
+The Data Intelligence Platform For Dummies by Ari and Stephanie Diamond (https://www.databricks.com/resources/ebook/maximize-your-organizations-potential-data-and-ai)
+Databricks' AI/BI: Intelligent analytics for real-world data (https://www.databricks.com/product/ai-bi)
+That time Ari spoke with Travis Kelce  about how Travis and the Kansas City Chiefs use data and analytics! (https://www.linkedin.com/posts/arikaplan_wiley-databricks-genai-activity-7221214362575724545-RZwc/)
+</description>
+      <itunes:keywords>data science, machine learning, AI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Ari Kaplan—Global Head of Evangelism at Databricks and a pioneer in sports analytics—explains why businesses fixated on AI often overlook the real advantage: making better decisions with their own data. He shares lessons from his work building analytics teams for Major League Baseball, advising McLaren’s F1 strategy, and helping companies apply AI where it actually works—without falling into hype-driven traps.</p>
+
+<p><strong>SHOW NOTES</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/arikaplan/" rel="nofollow">Ari on LinkedIn</a></li>
+<li><a href="https://www.databricks.com/resources/ebook/maximize-your-organizations-potential-data-and-ai" rel="nofollow">The Data Intelligence Platform For Dummies by Ari and Stephanie Diamond</a></li>
+<li><a href="https://www.databricks.com/product/ai-bi" rel="nofollow">Databricks&#39; AI/BI: Intelligent analytics for real-world data</a></li>
+<li><a href="https://www.linkedin.com/posts/arikaplan_wiley-databricks-genai-activity-7221214362575724545-RZwc/" rel="nofollow">That time Ari spoke with Travis Kelce  about how Travis and the Kansas City Chiefs use data and analytics!</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Ari Kaplan—Global Head of Evangelism at Databricks and a pioneer in sports analytics—explains why businesses fixated on AI often overlook the real advantage: making better decisions with their own data. He shares lessons from his work building analytics teams for Major League Baseball, advising McLaren’s F1 strategy, and helping companies apply AI where it actually works—without falling into hype-driven traps.</p>
+
+<p><strong>SHOW NOTES</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/arikaplan/" rel="nofollow">Ari on LinkedIn</a></li>
+<li><a href="https://www.databricks.com/resources/ebook/maximize-your-organizations-potential-data-and-ai" rel="nofollow">The Data Intelligence Platform For Dummies by Ari and Stephanie Diamond</a></li>
+<li><a href="https://www.databricks.com/product/ai-bi" rel="nofollow">Databricks&#39; AI/BI: Intelligent analytics for real-world data</a></li>
+<li><a href="https://www.linkedin.com/posts/arikaplan_wiley-databricks-genai-activity-7221214362575724545-RZwc/" rel="nofollow">That time Ari spoke with Travis Kelce  about how Travis and the Kansas City Chiefs use data and analytics!</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+ZemsYZBP</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+ZemsYZBP" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 9: Why 90% of Data Science Fails—And How to Fix It -- With Eric Colson</title>
+      <link>https://highsignal.fireside.fm/9</link>
+      <guid isPermaLink="false">20a1123f-33fc-4849-a13f-55c4c3a5fbdb</guid>
+      <pubDate>Thu, 30 Jan 2025 15:00:00 -0500</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/20a1123f-33fc-4849-a13f-55c4c3a5fbdb.mp3" length="66885686" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Eric Colson—former Chief Algorithms Officer at Stitch Fix and VP of Data Science and Machine Learning at Netflix—explains why most companies fail to fully leverage their data science teams. Drawing on his experience leading data functions at top tech companies, he shares how organizations can move beyond treating data science as a support function and instead empower data scientists to drive strategic impact through experimentation, iteration, and algorithmic decision-making.</itunes:subtitle>
+      <itunes:duration>1:09:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/2/20a1123f-33fc-4849-a13f-55c4c3a5fbdb/transcript.txt" type="text/plain"/>
+      <description>In this episode of High Signal, Eric Colson—former Chief Algorithms Officer at Stitch Fix and VP of Data Science and Machine Learning at Netflix—breaks down why most companies fail to unlock the full potential of their data science teams. Drawing from years of experience leading data functions at top tech companies, Eric shares how organizations can shift from treating data scientists as a service function to empowering them as strategic drivers of business impact.  
+Key topics from the conversation include:  
+Data Science as a Strategic Function: Why many companies limit their data teams to answering business requests instead of leveraging their ideas for competitive advantage.  
+Beyond Skills—The Power of Cognitive Repertoires: How data scientists' unique ways of framing problems can lead to breakthrough innovations.  
+Trial and Error as a Competitive Advantage: Why most experiments fail—but scaling experimentation is the key to big wins.  
+Decoupling Algorithms from Applications: How separating data science from engineering enables rapid iteration and direct business impact.  
+Shifting from Cost Center to Revenue Generator: Practical steps for structuring data teams to drive measurable value and long-term success.  
+💡 Tune in to learn how leading companies structure their data teams for impact, why experimentation beats rigid planning, and how treating data science as a strategic function can unlock new business opportunities.  
+You can find more on our website: https://high-signal.delphina.ai/ (https://high-signal.delphina.ai/)
+SHOW NOTES
+Eric on LinkedIn (https://www.linkedin.com/in/ecolson/)
+Beyond Skills: Unlocking the Full Potential of Data Scientists by Eric Colson (https://www.oreilly.com/radar/beyond-skills-unlocking-the-full-potential-of-data-scientists/)
+MultiThreaded: Technology at StitchFix (https://multithreaded.stitchfix.com/)
+A/B Testing with Fat Tails by Azevedo et al. (https://eduardomazevedo.github.io/papers/azevedo-et-al-ab.pdf) 
+</description>
+      <itunes:keywords>data science, machine learning, AI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>In this episode of High Signal</strong>, Eric Colson—former Chief Algorithms Officer at Stitch Fix and VP of Data Science and Machine Learning at Netflix—breaks down why most companies fail to unlock the full potential of their data science teams. Drawing from years of experience leading data functions at top tech companies, Eric shares how organizations can shift from treating data scientists as a service function to empowering them as strategic drivers of business impact.  </p>
+
+<p><strong>Key topics from the conversation include:</strong>  </p>
+
+<ul>
+<li><strong>Data Science as a Strategic Function</strong>: Why many companies limit their data teams to answering business requests instead of leveraging their ideas for competitive advantage.<br></li>
+<li><strong>Beyond Skills—The Power of Cognitive Repertoires</strong>: How data scientists&#39; unique ways of framing problems can lead to breakthrough innovations.<br></li>
+<li><strong>Trial and Error as a Competitive Advantage</strong>: Why most experiments fail—but scaling experimentation is the key to big wins.<br></li>
+<li><strong>Decoupling Algorithms from Applications</strong>: How separating data science from engineering enables rapid iteration and direct business impact.<br></li>
+<li><strong>Shifting from Cost Center to Revenue Generator</strong>: Practical steps for structuring data teams to drive measurable value and long-term success.<br></li>
+</ul>
+
+<p>💡 <em>Tune in to learn how leading companies structure their data teams for impact, why experimentation beats rigid planning, and how treating data science as a strategic function can unlock new business opportunities.</em>  </p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>
+
+<p><strong>SHOW NOTES</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/ecolson/" rel="nofollow">Eric on LinkedIn</a></li>
+<li><a href="https://www.oreilly.com/radar/beyond-skills-unlocking-the-full-potential-of-data-scientists/" rel="nofollow">Beyond Skills: Unlocking the Full Potential of Data Scientists by Eric Colson</a></li>
+<li><a href="https://multithreaded.stitchfix.com/" rel="nofollow">MultiThreaded: Technology at StitchFix</a></li>
+<li><a href="https://eduardomazevedo.github.io/papers/azevedo-et-al-ab.pdf" rel="nofollow">A/B Testing with Fat Tails by Azevedo et al.</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>In this episode of High Signal</strong>, Eric Colson—former Chief Algorithms Officer at Stitch Fix and VP of Data Science and Machine Learning at Netflix—breaks down why most companies fail to unlock the full potential of their data science teams. Drawing from years of experience leading data functions at top tech companies, Eric shares how organizations can shift from treating data scientists as a service function to empowering them as strategic drivers of business impact.  </p>
+
+<p><strong>Key topics from the conversation include:</strong>  </p>
+
+<ul>
+<li><strong>Data Science as a Strategic Function</strong>: Why many companies limit their data teams to answering business requests instead of leveraging their ideas for competitive advantage.<br></li>
+<li><strong>Beyond Skills—The Power of Cognitive Repertoires</strong>: How data scientists&#39; unique ways of framing problems can lead to breakthrough innovations.<br></li>
+<li><strong>Trial and Error as a Competitive Advantage</strong>: Why most experiments fail—but scaling experimentation is the key to big wins.<br></li>
+<li><strong>Decoupling Algorithms from Applications</strong>: How separating data science from engineering enables rapid iteration and direct business impact.<br></li>
+<li><strong>Shifting from Cost Center to Revenue Generator</strong>: Practical steps for structuring data teams to drive measurable value and long-term success.<br></li>
+</ul>
+
+<p>💡 <em>Tune in to learn how leading companies structure their data teams for impact, why experimentation beats rigid planning, and how treating data science as a strategic function can unlock new business opportunities.</em>  </p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>
+
+<p><strong>SHOW NOTES</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/ecolson/" rel="nofollow">Eric on LinkedIn</a></li>
+<li><a href="https://www.oreilly.com/radar/beyond-skills-unlocking-the-full-potential-of-data-scientists/" rel="nofollow">Beyond Skills: Unlocking the Full Potential of Data Scientists by Eric Colson</a></li>
+<li><a href="https://multithreaded.stitchfix.com/" rel="nofollow">MultiThreaded: Technology at StitchFix</a></li>
+<li><a href="https://eduardomazevedo.github.io/papers/azevedo-et-al-ab.pdf" rel="nofollow">A/B Testing with Fat Tails by Azevedo et al.</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+IYzIDwbX</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+IYzIDwbX" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 8: From Zero to Scale: Lessons from Airbnb and Beyond</title>
+      <link>https://highsignal.fireside.fm/8</link>
+      <guid isPermaLink="false">59303699-9397-42d7-b581-75f3a71a0c3f</guid>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 -0500</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/59303699-9397-42d7-b581-75f3a71a0c3f.mp3" length="130239957" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Elena Grewal—former Head of Data Science at Airbnb, political consultant, professor at Yale, and ice cream shop owner—shares her journey of building data teams that scale across vastly different contexts. Drawing on her experiences in tech, consulting, and brick-and-mortar, Elena offers practical lessons on leadership, trust, and experimentation.</itunes:subtitle>
+      <itunes:duration>1:06:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/5/59303699-9397-42d7-b581-75f3a71a0c3f/transcript.txt" type="text/plain"/>
+      <description>In this episode of High Signal, Elena Grewal—former Head of Data Science at Airbnb, political consultant, professor at Yale, and ice cream shop owner—shares her journey of building data teams that scale across vastly different contexts. Drawing on her experiences in tech, consulting, and brick-and-mortar, Elena offers practical lessons on leadership, trust, and experimentation.  
+Key topics from the conversation include:
+From Zero to Scale: How Elena built Airbnb’s data science function from the ground up, scaling it to a 200-person team while driving impact across the organization.  
+Trust and Team Culture: Why trust is foundational for building effective teams, fostering creativity, and empowering data scientists to drive results.  
+Applying Data Science Across Contexts: Lessons learned from using data to inform decisions in politics, academia, and even running an ice cream shop.  
+Experimentation and Iteration: Insights into tailoring experimentation methods to fit different scales, from small businesses to tech giants.  
+Critical Thinking and Data: How Elena equips the next generation of leaders at Yale to ask better questions, assess data quality, and think critically about evidence.  
+💡 Tune in to explore how data science principles can scale across industries, the leadership skills required to build impactful teams, and why experimentation is as relevant to ice cream as it is to AI systems.  
+You can find more on our website: https://high-signal.delphina.ai/ (https://high-signal.delphina.ai/)
+SHOW NOTES
+Elena's website (https://www.elenagrewal.com/)
+Elena on LinkedIn (https://www.linkedin.com/in/elena-grewal)
+Real World Environmental Data Science, Elena's course at Yale (https://resources.environment.yale.edu/courses/detail/617?_gl=1*afq82v*_ga*MTcxODQ0NjM2Mi4xNzM2NDA1MzI1*_ga_THKV4HP9QY*MTczNjQwNTMyNC4xLjAuMTczNjQwNTMyNC4wLjAuMA..*_ga_G9Q7CGGC6Y*MTczNjQwNTMyNC4xLjAuMTczNjQwNTMyNC4wLjAuMA..)
+Elena's on Orange! (https://www.elenasonorange.com/) 
+</description>
+      <itunes:keywords>data science, machine learning, AI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>In this episode of High Signal</strong>, Elena Grewal—former Head of Data Science at Airbnb, political consultant, professor at Yale, and ice cream shop owner—shares her journey of building data teams that scale across vastly different contexts. Drawing on her experiences in tech, consulting, and brick-and-mortar, Elena offers practical lessons on leadership, trust, and experimentation.  </p>
+
+<p>Key topics from the conversation include:</p>
+
+<ul>
+<li><strong>From Zero to Scale</strong>: How Elena built Airbnb’s data science function from the ground up, scaling it to a 200-person team while driving impact across the organization.<br></li>
+<li><strong>Trust and Team Culture</strong>: Why trust is foundational for building effective teams, fostering creativity, and empowering data scientists to drive results.<br></li>
+<li><strong>Applying Data Science Across Contexts</strong>: Lessons learned from using data to inform decisions in politics, academia, and even running an ice cream shop.<br></li>
+<li><strong>Experimentation and Iteration</strong>: Insights into tailoring experimentation methods to fit different scales, from small businesses to tech giants.<br></li>
+<li><strong>Critical Thinking and Data</strong>: How Elena equips the next generation of leaders at Yale to ask better questions, assess data quality, and think critically about evidence.<br></li>
+</ul>
+
+<p>💡 <em>Tune in to explore how data science principles can scale across industries, the leadership skills required to build impactful teams, and why experimentation is as relevant to ice cream as it is to AI systems.</em>  </p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>
+
+<p><strong>SHOW NOTES</strong></p>
+
+<ul>
+<li><a href="https://www.elenagrewal.com/" rel="nofollow">Elena&#39;s website</a></li>
+<li><a href="https://www.linkedin.com/in/elena-grewal" rel="nofollow">Elena on LinkedIn</a></li>
+<li><a href="https://resources.environment.yale.edu/courses/detail/617?_gl=1*afq82v*_ga*MTcxODQ0NjM2Mi4xNzM2NDA1MzI1*_ga_THKV4HP9QY*MTczNjQwNTMyNC4xLjAuMTczNjQwNTMyNC4wLjAuMA..*_ga_G9Q7CGGC6Y*MTczNjQwNTMyNC4xLjAuMTczNjQwNTMyNC4wLjAuMA.." rel="nofollow">Real World Environmental Data Science, Elena&#39;s course at Yale</a></li>
+<li><a href="https://www.elenasonorange.com/" rel="nofollow">Elena&#39;s on Orange!</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>In this episode of High Signal</strong>, Elena Grewal—former Head of Data Science at Airbnb, political consultant, professor at Yale, and ice cream shop owner—shares her journey of building data teams that scale across vastly different contexts. Drawing on her experiences in tech, consulting, and brick-and-mortar, Elena offers practical lessons on leadership, trust, and experimentation.  </p>
+
+<p>Key topics from the conversation include:</p>
+
+<ul>
+<li><strong>From Zero to Scale</strong>: How Elena built Airbnb’s data science function from the ground up, scaling it to a 200-person team while driving impact across the organization.<br></li>
+<li><strong>Trust and Team Culture</strong>: Why trust is foundational for building effective teams, fostering creativity, and empowering data scientists to drive results.<br></li>
+<li><strong>Applying Data Science Across Contexts</strong>: Lessons learned from using data to inform decisions in politics, academia, and even running an ice cream shop.<br></li>
+<li><strong>Experimentation and Iteration</strong>: Insights into tailoring experimentation methods to fit different scales, from small businesses to tech giants.<br></li>
+<li><strong>Critical Thinking and Data</strong>: How Elena equips the next generation of leaders at Yale to ask better questions, assess data quality, and think critically about evidence.<br></li>
+</ul>
+
+<p>💡 <em>Tune in to explore how data science principles can scale across industries, the leadership skills required to build impactful teams, and why experimentation is as relevant to ice cream as it is to AI systems.</em>  </p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>
+
+<p><strong>SHOW NOTES</strong></p>
+
+<ul>
+<li><a href="https://www.elenagrewal.com/" rel="nofollow">Elena&#39;s website</a></li>
+<li><a href="https://www.linkedin.com/in/elena-grewal" rel="nofollow">Elena on LinkedIn</a></li>
+<li><a href="https://resources.environment.yale.edu/courses/detail/617?_gl=1*afq82v*_ga*MTcxODQ0NjM2Mi4xNzM2NDA1MzI1*_ga_THKV4HP9QY*MTczNjQwNTMyNC4xLjAuMTczNjQwNTMyNC4wLjAuMA..*_ga_G9Q7CGGC6Y*MTczNjQwNTMyNC4xLjAuMTczNjQwNTMyNC4wLjAuMA.." rel="nofollow">Real World Environmental Data Science, Elena&#39;s course at Yale</a></li>
+<li><a href="https://www.elenasonorange.com/" rel="nofollow">Elena&#39;s on Orange!</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+JFsDInwI</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+JFsDInwI" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 7: What Lies Beyond Machine Learning and AI: Decision Systems and the Future of Data Teams</title>
+      <link>https://highsignal.fireside.fm/7</link>
+      <guid isPermaLink="false">ee1d663f-7a1f-4e4f-b7ef-20c9146f0810</guid>
+      <pubDate>Wed, 18 Dec 2024 22:00:00 -0500</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/ee1d663f-7a1f-4e4f-b7ef-20c9146f0810.mp3" length="153949486" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>In this episode of High Signal, Chris Wiggins—Chief Data Scientist at The New York Times, Professor at Columbia University, and co-author of How Data Happened—shares how organizations can move beyond prediction to actionable decision systems. Drawing on his work at The New York Times and in academia, Chris explains how to scale data teams, optimize systems, and align data science with organizational impact.</itunes:subtitle>
+      <itunes:duration>1:18:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/e/ee1d663f-7a1f-4e4f-b7ef-20c9146f0810/transcript.txt" type="text/plain"/>
+      <description>In this episode of High Signal, Chris Wiggins—Chief Data Scientist at The New York Times, Professor at Columbia University, and co-author of How Data Happened—shares how organizations can move beyond prediction to actionable decision systems. Drawing on his work at The New York Times and in academia, Chris explains how to scale data teams, optimize systems, and align data science with organizational impact.
+Key topics from the conversation include:
+    • From Prediction to Prescription: Why organizations need to focus on interventions that drive outcomes, illustrated with insights like, “Imagine a hospital prescribing treatments instead of just diagnosing conditions.”
+    • The AI Hierarchy of Needs: Foundational practices, such as data logging and engineering, that enable advanced machine learning and AI.
+    • Personalization and Optimization: How reinforcement learning and exploration-exploitation methods help optimize KPIs and adapt to user context.
+    • Scaling Data Teams: Strategies for attracting and retaining talent by emphasizing autonomy, mastery, and purpose.
+    • Empathy as a Data Science Skill: The importance of collaborating with other teams and understanding their goals to drive adoption and success.
+🎧 Tune in to learn how to build decision systems, integrate causality into workflows, and develop scalable data science teams for real-world impact.
+You can find more on our website: https://high-signal.delphina.ai/
+LINKS
+- Chris Wiggins' Website (https://datascience.columbia.edu/people/chris-h-wiggins/)
+- Chris Wiggins on LinkedIn (https://www.linkedin.com/in/wiggins/)
+- How Data Happened: A History from the Age of Reason to the Age of Algorithms (https://en.wikipedia.org/wiki/How_Data_Happened)
+- The AI Hierarchy of Needs by Monica Rogati (https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
+- The Book of Why by Judea Pearl (https://en.wikipedia.org/wiki/The_Book_of_Why) 
+</description>
+      <itunes:keywords>AI, LLMs, data science, machine learning, data science, GenAI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>In this episode of High Signal, Chris Wiggins—Chief Data Scientist at The New York Times, Professor at Columbia University, and co-author of How Data Happened—shares how organizations can move beyond prediction to actionable decision systems. Drawing on his work at The New York Times and in academia, Chris explains how to scale data teams, optimize systems, and align data science with organizational impact.</p>
+
+<p>Key topics from the conversation include:<br>
+    • From Prediction to Prescription: Why organizations need to focus on interventions that drive outcomes, illustrated with insights like, “Imagine a hospital prescribing treatments instead of just diagnosing conditions.”<br>
+    • The AI Hierarchy of Needs: Foundational practices, such as data logging and engineering, that enable advanced machine learning and AI.<br>
+    • Personalization and Optimization: How reinforcement learning and exploration-exploitation methods help optimize KPIs and adapt to user context.<br>
+    • Scaling Data Teams: Strategies for attracting and retaining talent by emphasizing autonomy, mastery, and purpose.<br>
+    • Empathy as a Data Science Skill: The importance of collaborating with other teams and understanding their goals to drive adoption and success.</p>
+
+<p>🎧 Tune in to learn how to build decision systems, integrate causality into workflows, and develop scalable data science teams for real-world impact.</p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://datascience.columbia.edu/people/chris-h-wiggins/" rel="nofollow">Chris Wiggins&#39; Website</a></li>
+<li><a href="https://www.linkedin.com/in/wiggins/" rel="nofollow">Chris Wiggins on LinkedIn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/How_Data_Happened" rel="nofollow">How Data Happened: A History from the Age of Reason to the Age of Algorithms</a></li>
+<li><a href="https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007" rel="nofollow">The AI Hierarchy of Needs by Monica Rogati</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Book_of_Why" rel="nofollow">The Book of Why by Judea Pearl</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of High Signal, Chris Wiggins—Chief Data Scientist at The New York Times, Professor at Columbia University, and co-author of How Data Happened—shares how organizations can move beyond prediction to actionable decision systems. Drawing on his work at The New York Times and in academia, Chris explains how to scale data teams, optimize systems, and align data science with organizational impact.</p>
+
+<p>Key topics from the conversation include:<br>
+    • From Prediction to Prescription: Why organizations need to focus on interventions that drive outcomes, illustrated with insights like, “Imagine a hospital prescribing treatments instead of just diagnosing conditions.”<br>
+    • The AI Hierarchy of Needs: Foundational practices, such as data logging and engineering, that enable advanced machine learning and AI.<br>
+    • Personalization and Optimization: How reinforcement learning and exploration-exploitation methods help optimize KPIs and adapt to user context.<br>
+    • Scaling Data Teams: Strategies for attracting and retaining talent by emphasizing autonomy, mastery, and purpose.<br>
+    • Empathy as a Data Science Skill: The importance of collaborating with other teams and understanding their goals to drive adoption and success.</p>
+
+<p>🎧 Tune in to learn how to build decision systems, integrate causality into workflows, and develop scalable data science teams for real-world impact.</p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://datascience.columbia.edu/people/chris-h-wiggins/" rel="nofollow">Chris Wiggins&#39; Website</a></li>
+<li><a href="https://www.linkedin.com/in/wiggins/" rel="nofollow">Chris Wiggins on LinkedIn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/How_Data_Happened" rel="nofollow">How Data Happened: A History from the Age of Reason to the Age of Algorithms</a></li>
+<li><a href="https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007" rel="nofollow">The AI Hierarchy of Needs by Monica Rogati</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Book_of_Why" rel="nofollow">The Book of Why by Judea Pearl</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+1hbkWUwJ</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+1hbkWUwJ" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 6: What Happens to Data Science in the Age of AI?</title>
+      <link>https://highsignal.fireside.fm/6</link>
+      <guid isPermaLink="false">7cb9e213-8fe3-41d0-9632-522a6ce6a0e9</guid>
+      <pubDate>Wed, 04 Dec 2024 13:00:00 -0500</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/7cb9e213-8fe3-41d0-9632-522a6ce6a0e9.mp3" length="153447858" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>In this episode of High Signal, Hilary Mason—renowned data scientist, entrepreneur, and co-founder of Hidden Door—shares her unique insights into the evolving world of data science and generative AI. Drawing from her pioneering work at Fast Forward Labs, Bitly, and Hidden Door, Hilary explores how creativity, judgment, and empathy are reshaping the data landscape.</itunes:subtitle>
+      <itunes:duration>1:18:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/7/7cb9e213-8fe3-41d0-9632-522a6ce6a0e9/transcript.txt" type="text/plain"/>
+      <description>In this episode of High Signal, Hilary Mason—renowned data scientist, entrepreneur, and co-founder of Hidden Door—shares her unique insights into the evolving world of data science and generative AI. Drawing from her pioneering work at Fast Forward Labs, Bitly, and Hidden Door, Hilary explores how creativity, judgment, and empathy are reshaping the data landscape.
+Highlights from the discussion include:
+- Judgment as a Competitive Edge: Hilary emphasizes the enduring importance of human judgment in framing problems and evaluating AI outputs.
+- The Future of Generative AI: She discusses its transformative potential while cautioning against over-reliance on prompts, advocating for systems rooted in rich context.
+- Building for Creativity with Hidden Door: Hilary shares how her company turns generative AI’s liabilities into assets, creating immersive, bias-aware storytelling experiences.
+- The Shifting Role of Data Science Careers: With automation redefining entry-level roles, Hilary outlines how data professionals can focus on transferable skills to stay ahead.
+- Navigating AI Strategy in Leadership: She offers pragmatic advice on balancing the hype of AI with practical business impact, aligning leadership expectations with achievable goals.
+The conversation concludes with Hilary’s optimistic take on how the data science community can continue to thrive by embracing creativity, empathy, and interdisciplinary collaboration.
+🎧 Tune in to gain practical insights into building robust AI systems, navigating career shifts, and leveraging generative AI for meaningful innovation.
+You can find more on our website: https://high-signal.delphina.ai/
+LINKS
+Hilary Mason on LinkedIn (https://www.linkedin.com/in/hilarymason/)
+Hidden Door (https://www.hiddendoor.co/)
+Fast Forward Labs Reports (https://blog.fastforwardlabs.com/reports)
+Of Oaths and Checklists By DJ Patil, Hilary Mason and Mike Loukides (https://www.oreilly.com/radar/of-oaths-and-checklists/) 
+</description>
+      <itunes:keywords>data science, machine learning, AI, LLMs</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>In this episode of High Signal, Hilary Mason—renowned data scientist, entrepreneur, and co-founder of Hidden Door—shares her unique insights into the evolving world of data science and generative AI. Drawing from her pioneering work at Fast Forward Labs, Bitly, and Hidden Door, Hilary explores how creativity, judgment, and empathy are reshaping the data landscape.</p>
+
+<p>Highlights from the discussion include:</p>
+
+<ul>
+<li>Judgment as a Competitive Edge: Hilary emphasizes the enduring importance of human judgment in framing problems and evaluating AI outputs.</li>
+<li>The Future of Generative AI: She discusses its transformative potential while cautioning against over-reliance on prompts, advocating for systems rooted in rich context.</li>
+<li>Building for Creativity with Hidden Door: Hilary shares how her company turns generative AI’s liabilities into assets, creating immersive, bias-aware storytelling experiences.</li>
+<li>The Shifting Role of Data Science Careers: With automation redefining entry-level roles, Hilary outlines how data professionals can focus on transferable skills to stay ahead.</li>
+<li>Navigating AI Strategy in Leadership: She offers pragmatic advice on balancing the hype of AI with practical business impact, aligning leadership expectations with achievable goals.</li>
+</ul>
+
+<p>The conversation concludes with Hilary’s optimistic take on how the data science community can continue to thrive by embracing creativity, empathy, and interdisciplinary collaboration.</p>
+
+<p>🎧 Tune in to gain practical insights into building robust AI systems, navigating career shifts, and leveraging generative AI for meaningful innovation.</p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/hilarymason/" rel="nofollow">Hilary Mason on LinkedIn</a></li>
+<li><a href="https://www.hiddendoor.co/" rel="nofollow">Hidden Door</a></li>
+<li><a href="https://blog.fastforwardlabs.com/reports" rel="nofollow">Fast Forward Labs Reports</a></li>
+<li><a href="https://www.oreilly.com/radar/of-oaths-and-checklists/" rel="nofollow">Of Oaths and Checklists By DJ Patil, Hilary Mason and Mike Loukides</a></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of High Signal, Hilary Mason—renowned data scientist, entrepreneur, and co-founder of Hidden Door—shares her unique insights into the evolving world of data science and generative AI. Drawing from her pioneering work at Fast Forward Labs, Bitly, and Hidden Door, Hilary explores how creativity, judgment, and empathy are reshaping the data landscape.</p>
+
+<p>Highlights from the discussion include:</p>
+
+<ul>
+<li>Judgment as a Competitive Edge: Hilary emphasizes the enduring importance of human judgment in framing problems and evaluating AI outputs.</li>
+<li>The Future of Generative AI: She discusses its transformative potential while cautioning against over-reliance on prompts, advocating for systems rooted in rich context.</li>
+<li>Building for Creativity with Hidden Door: Hilary shares how her company turns generative AI’s liabilities into assets, creating immersive, bias-aware storytelling experiences.</li>
+<li>The Shifting Role of Data Science Careers: With automation redefining entry-level roles, Hilary outlines how data professionals can focus on transferable skills to stay ahead.</li>
+<li>Navigating AI Strategy in Leadership: She offers pragmatic advice on balancing the hype of AI with practical business impact, aligning leadership expectations with achievable goals.</li>
+</ul>
+
+<p>The conversation concludes with Hilary’s optimistic take on how the data science community can continue to thrive by embracing creativity, empathy, and interdisciplinary collaboration.</p>
+
+<p>🎧 Tune in to gain practical insights into building robust AI systems, navigating career shifts, and leveraging generative AI for meaningful innovation.</p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/hilarymason/" rel="nofollow">Hilary Mason on LinkedIn</a></li>
+<li><a href="https://www.hiddendoor.co/" rel="nofollow">Hidden Door</a></li>
+<li><a href="https://blog.fastforwardlabs.com/reports" rel="nofollow">Fast Forward Labs Reports</a></li>
+<li><a href="https://www.oreilly.com/radar/of-oaths-and-checklists/" rel="nofollow">Of Oaths and Checklists By DJ Patil, Hilary Mason and Mike Loukides</a></li>
+</ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+2aHQzIQR</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+2aHQzIQR" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 5: The Hard Truth About Building AI Systems and What Most Leaders Miss About AI</title>
+      <link>https://highsignal.fireside.fm/5</link>
+      <guid isPermaLink="false">ca3782d4-c7a4-44d6-a7c3-176201c14f69</guid>
+      <pubDate>Wed, 20 Nov 2024 16:00:00 -0500</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/ca3782d4-c7a4-44d6-a7c3-176201c14f69.mp3" length="121731903" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>In this episode of High Signal,  Gabriel Weintraub (the Amman Professor of Operations, Information, and Technology at Stanford Graduate School of Business),  brings his expertise in market design, data science, and operations, enriched by his experience with global platforms like Uber and Mercado Libre, to a conversation that spans practical strategies, cultural insights, and global perspectives on data and AI.</itunes:subtitle>
+      <itunes:duration>1:02:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/c/ca3782d4-c7a4-44d6-a7c3-176201c14f69/transcript.txt" type="text/plain"/>
+      <description>In this episode of High Signal,  Gabriel Weintraub (the Amman Professor of Operations, Information, and Technology at Stanford Graduate School of Business),  brings his expertise in market design, data science, and operations, enriched by his experience with global platforms like Uber and Mercado Libre, to a conversation that spans practical strategies, cultural insights, and global perspectives on data and AI.
+Highlights from the discussion include:
+-  Bridging the C-Level and Technical Divide: Gabriel emphasizes the importance of aligning leadership with on-the-ground teams to build effective, data-driven organizations.
+- Starting with the Basics: From building pipelines to identifying high-ROI projects, Gabriel outlines foundational steps for companies adopting data science and AI.
+- Cultural Transformation for Experimentation: He explains why fostering an experimentation culture, where negative results are valued for learning, is essential for success.
+- Opportunities in Latin America: Gabriel shares insights on the unique challenges and immense potential of the Latin American tech ecosystem, including the critical role of startups and the need for local innovation systems.
+- Generative AI’s Role in Driving Impact: Discussing generative AI’s transformative potential, Gabriel highlights its capacity to lower barriers for smaller teams while emphasizing the importance of problem-first approaches.
+The conversation concludes with a forward-looking exploration of opportunities in government, education, and healthcare, and Gabriel’s optimism about building ecosystems where startups and local talent thrive.
+🎧 Tune in to learn from Gabriel’s thoughtful perspectives on navigating the complexities of building data-driven cultures, the global AI landscape, and how to leverage data for impactful change.
+You can find more on our website: https://high-signal.delphina.ai/ 
+</description>
+      <itunes:keywords>data science, machine learning, AI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>In this episode of High Signal,  Gabriel Weintraub (the Amman Professor of Operations, Information, and Technology at Stanford Graduate School of Business),  brings his expertise in market design, data science, and operations, enriched by his experience with global platforms like Uber and Mercado Libre, to a conversation that spans practical strategies, cultural insights, and global perspectives on data and AI.</p>
+
+<p>Highlights from the discussion include:</p>
+
+<ul>
+<li> Bridging the C-Level and Technical Divide: Gabriel emphasizes the importance of aligning leadership with on-the-ground teams to build effective, data-driven organizations.</li>
+<li>Starting with the Basics: From building pipelines to identifying high-ROI projects, Gabriel outlines foundational steps for companies adopting data science and AI.</li>
+<li>Cultural Transformation for Experimentation: He explains why fostering an experimentation culture, where negative results are valued for learning, is essential for success.</li>
+<li>Opportunities in Latin America: Gabriel shares insights on the unique challenges and immense potential of the Latin American tech ecosystem, including the critical role of startups and the need for local innovation systems.</li>
+<li>Generative AI’s Role in Driving Impact: Discussing generative AI’s transformative potential, Gabriel highlights its capacity to lower barriers for smaller teams while emphasizing the importance of problem-first approaches.</li>
+</ul>
+
+<p>The conversation concludes with a forward-looking exploration of opportunities in government, education, and healthcare, and Gabriel’s optimism about building ecosystems where startups and local talent thrive.</p>
+
+<p>🎧 Tune in to learn from Gabriel’s thoughtful perspectives on navigating the complexities of building data-driven cultures, the global AI landscape, and how to leverage data for impactful change.</p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of High Signal,  Gabriel Weintraub (the Amman Professor of Operations, Information, and Technology at Stanford Graduate School of Business),  brings his expertise in market design, data science, and operations, enriched by his experience with global platforms like Uber and Mercado Libre, to a conversation that spans practical strategies, cultural insights, and global perspectives on data and AI.</p>
+
+<p>Highlights from the discussion include:</p>
+
+<ul>
+<li> Bridging the C-Level and Technical Divide: Gabriel emphasizes the importance of aligning leadership with on-the-ground teams to build effective, data-driven organizations.</li>
+<li>Starting with the Basics: From building pipelines to identifying high-ROI projects, Gabriel outlines foundational steps for companies adopting data science and AI.</li>
+<li>Cultural Transformation for Experimentation: He explains why fostering an experimentation culture, where negative results are valued for learning, is essential for success.</li>
+<li>Opportunities in Latin America: Gabriel shares insights on the unique challenges and immense potential of the Latin American tech ecosystem, including the critical role of startups and the need for local innovation systems.</li>
+<li>Generative AI’s Role in Driving Impact: Discussing generative AI’s transformative potential, Gabriel highlights its capacity to lower barriers for smaller teams while emphasizing the importance of problem-first approaches.</li>
+</ul>
+
+<p>The conversation concludes with a forward-looking exploration of opportunities in government, education, and healthcare, and Gabriel’s optimism about building ecosystems where startups and local talent thrive.</p>
+
+<p>🎧 Tune in to learn from Gabriel’s thoughtful perspectives on navigating the complexities of building data-driven cultures, the global AI landscape, and how to leverage data for impactful change.</p>
+
+<p>You can find more on our website: <a href="https://high-signal.delphina.ai/" rel="nofollow">https://high-signal.delphina.ai/</a></p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+HtCsUJKR</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+HtCsUJKR" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 4: How to Build an Experimentation Machine and Where Most Go Wrong</title>
+      <link>https://highsignal.fireside.fm/4</link>
+      <guid isPermaLink="false">1dedb130-8a6b-4a8d-890a-8d8b41cbd651</guid>
+      <pubDate>Thu, 07 Nov 2024 07:00:00 -0500</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/1dedb130-8a6b-4a8d-890a-8d8b41cbd651.mp3" length="49230246" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Ramesh Johari (Stanford, Uber, Airbnb, and more) explores the art and science of online experimentation, especially in the context of marketplaces and tech companies.</itunes:subtitle>
+      <itunes:duration>51:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/1/1dedb130-8a6b-4a8d-890a-8d8b41cbd651/transcript.txt" type="text/plain"/>
+      <description>Ramesh Johari (Stanford, Uber, Airbnb, and more) explores the art and science of online experimentation, especially in the context of marketplaces and tech companies.
+Ramesh shares insights on how organizations evolve from basic experimentation practices to becoming fast, adaptive, and self learning organizations. We dive into challenges like the risk aversion trap, the importance of learning from negative results, and how generative AI is reshaping the experimentation landscape.
+We also talk about common failure modes and the types of things you're probably doing wrong, along with strategies to avoid these pitfalls.  Plus, we discussed the role of incentives, the necessity of data driven decision making, and what it means to experiment in high stakes environments. 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Ramesh Johari (Stanford, Uber, Airbnb, and more) explores the art and science of online experimentation, especially in the context of marketplaces and tech companies.</p>
+
+<p>Ramesh shares insights on how organizations evolve from basic experimentation practices to becoming fast, adaptive, and self learning organizations. We dive into challenges like the risk aversion trap, the importance of learning from negative results, and how generative AI is reshaping the experimentation landscape.</p>
+
+<p>We also talk about common failure modes and the types of things you&#39;re probably doing wrong, along with strategies to avoid these pitfalls.  Plus, we discussed the role of incentives, the necessity of data driven decision making, and what it means to experiment in high stakes environments.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Ramesh Johari (Stanford, Uber, Airbnb, and more) explores the art and science of online experimentation, especially in the context of marketplaces and tech companies.</p>
+
+<p>Ramesh shares insights on how organizations evolve from basic experimentation practices to becoming fast, adaptive, and self learning organizations. We dive into challenges like the risk aversion trap, the importance of learning from negative results, and how generative AI is reshaping the experimentation landscape.</p>
+
+<p>We also talk about common failure modes and the types of things you&#39;re probably doing wrong, along with strategies to avoid these pitfalls.  Plus, we discussed the role of incentives, the necessity of data driven decision making, and what it means to experiment in high stakes environments.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+UkHArV7R</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+UkHArV7R" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 3: Data Science Meets Management: Teamwork, Experimentation, and Decision-Making</title>
+      <link>https://highsignal.fireside.fm/3</link>
+      <guid isPermaLink="false">c6ce415b-4f49-41ae-b3db-700040f0674d</guid>
+      <pubDate>Sat, 19 Oct 2024 12:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/c6ce415b-4f49-41ae-b3db-700040f0674d.mp3" length="50126181" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Chiara Farronato (Harvard Business School) discusses how digital platforms like Airbnb and Uber have transformed industries. She explores the challenges of fostering collaboration between managers and data scientists, bridging communication gaps, and building data-driven cultures. Chiara also delves into the complexities of managing peer-to-peer marketplaces and the evolving role of data in decision-making. This episode offers key insights for business leaders working with technical teams and navigating platform-based innovation.</itunes:subtitle>
+      <itunes:duration>52:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <description>Chiara Farronato (Harvard Business School) discusses how digital platforms like Airbnb and Uber have transformed industries. She explores the challenges of fostering collaboration between managers and data scientists, bridging communication gaps, and building data-driven cultures. Chiara also delves into the complexities of managing peer-to-peer marketplaces and the evolving role of data in decision-making. This episode offers key insights for business leaders working with technical teams and navigating platform-based innovation. 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Chiara Farronato (Harvard Business School) discusses how digital platforms like Airbnb and Uber have transformed industries. She explores the challenges of fostering collaboration between managers and data scientists, bridging communication gaps, and building data-driven cultures. Chiara also delves into the complexities of managing peer-to-peer marketplaces and the evolving role of data in decision-making. This episode offers key insights for business leaders working with technical teams and navigating platform-based innovation.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Chiara Farronato (Harvard Business School) discusses how digital platforms like Airbnb and Uber have transformed industries. She explores the challenges of fostering collaboration between managers and data scientists, bridging communication gaps, and building data-driven cultures. Chiara also delves into the complexities of managing peer-to-peer marketplaces and the evolving role of data in decision-making. This episode offers key insights for business leaders working with technical teams and navigating platform-based innovation.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+cC20LuDa</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+cC20LuDa" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 2: Fooling Yourself Less: The Art of Statistical Thinking in AI</title>
+      <link>https://highsignal.fireside.fm/2</link>
+      <guid isPermaLink="false">44cfa4bc-192f-4325-90d2-13b7b9e1d781</guid>
+      <pubDate>Sat, 19 Oct 2024 11:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/44cfa4bc-192f-4325-90d2-13b7b9e1d781.mp3" length="58426015" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Hugo Bowne-Anderson welcomes Andrew Gelman, professor at Columbia University, to discuss the practical side of statistics and data science. They explore the importance of high-quality data, computational skills, and using simulation to avoid misleading results. Andrew dives into real-world applications like election predictions and highlights causal inference’s critical role in decision-making. This episode offers insights into balancing statistical theory with applied data analysis, making it a must-listen for both data practitioners and those interested in how statistics shapes our world.</itunes:subtitle>
+      <itunes:duration>1:00:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <description>Hugo Bowne-Anderson welcomes Andrew Gelman, professor at Columbia University, to discuss the practical side of statistics and data science. They explore the importance of high-quality data, computational skills, and using simulation to avoid misleading results. Andrew dives into real-world applications like election predictions and highlights causal inference’s critical role in decision-making. This episode offers insights into balancing statistical theory with applied data analysis, making it a must-listen for both data practitioners and those interested in how statistics shapes our world. 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Hugo Bowne-Anderson welcomes Andrew Gelman, professor at Columbia University, to discuss the practical side of statistics and data science. They explore the importance of high-quality data, computational skills, and using simulation to avoid misleading results. Andrew dives into real-world applications like election predictions and highlights causal inference’s critical role in decision-making. This episode offers insights into balancing statistical theory with applied data analysis, making it a must-listen for both data practitioners and those interested in how statistics shapes our world.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Hugo Bowne-Anderson welcomes Andrew Gelman, professor at Columbia University, to discuss the practical side of statistics and data science. They explore the importance of high-quality data, computational skills, and using simulation to avoid misleading results. Andrew dives into real-world applications like election predictions and highlights causal inference’s critical role in decision-making. This episode offers insights into balancing statistical theory with applied data analysis, making it a must-listen for both data practitioners and those interested in how statistics shapes our world.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+ciZi2YGl</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+ciZi2YGl" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Episode 1: The Next Evolution of AI: Markets, Uncertainty, and Engineering Intelligence at Scale</title>
+      <link>https://highsignal.fireside.fm/1</link>
+      <guid isPermaLink="false">c4068f54-90b5-4e7a-b036-07a08ac9e813</guid>
+      <pubDate>Sat, 19 Oct 2024 09:00:00 -0400</pubDate>
+      <author>Delphina</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7dfbb66c-ee57-4196-9f73-43348bd083a5/c4068f54-90b5-4e7a-b036-07a08ac9e813.mp3" length="72201950" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Delphina</itunes:author>
+      <itunes:subtitle>Michael Jordan (UC Berkeley) on the future of machine learning as it extends to a planetary scale in "The Next Evolution of AI: Markets, Uncertainty, and Engineering Intelligence at Scale." In this episode, Mike speaks with Hugo about the evolution of AI, the importance of integrating machine learning, computer science, and economics, and how AI can scale to address planetary-level challenges.</itunes:subtitle>
+      <itunes:duration>1:15:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/7/7dfbb66c-ee57-4196-9f73-43348bd083a5/episodes/c/c4068f54-90b5-4e7a-b036-07a08ac9e813/transcript.txt" type="text/plain"/>
+      <description>Michael Jordan (UC Berkeley) on the future of machine learning as it extends to a planetary scale in "The Next Evolution of AI: Markets, Uncertainty, and Engineering Intelligence at Scale." In this episode, Mike speaks with Hugo about the evolution of AI, the importance of integrating machine learning, computer science, and economics, and how AI can scale to address planetary-level challenges. 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Michael Jordan (UC Berkeley) on the future of machine learning as it extends to a planetary scale in &quot;The Next Evolution of AI: Markets, Uncertainty, and Engineering Intelligence at Scale.&quot; In this episode, Mike speaks with Hugo about the evolution of AI, the importance of integrating machine learning, computer science, and economics, and how AI can scale to address planetary-level challenges.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Michael Jordan (UC Berkeley) on the future of machine learning as it extends to a planetary scale in &quot;The Next Evolution of AI: Markets, Uncertainty, and Engineering Intelligence at Scale.&quot; In this episode, Mike speaks with Hugo about the evolution of AI, the importance of integrating machine learning, computer science, and economics, and how AI can scale to address planetary-level challenges.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/l27Jx_CL+B1kEA9Rr</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/l27Jx_CL+B1kEA9Rr" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+  </channel>
+</rss>

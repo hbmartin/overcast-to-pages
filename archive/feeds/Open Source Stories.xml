@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Open Source Stories</title>
+		<link>https://archive.storycorps.org/communities/open-source-stories/</link>
+		<language>en-us</language>
+		<copyright>&#8471; &amp; &#xA9; 2003-2022 StoryCorps, Inc. All rights reserved.</copyright>
+		
+<itunes:subtitle>Exploring open source narratives</itunes:subtitle>
+		<itunes:author>StoryCorps</itunes:author>
+		<itunes:summary>Open source is more than what we find in a repository.
+
+Open source is collaboration, communication, community, and more.
+
+The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
+
+Our goal is to make the people of open source and their lived experiences more visible.</itunes:summary>
+		<description>Open source is more than what we find in a repository.
+
+Open source is collaboration, communication, community, and more.
+
+The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
+
+Our goal is to make the people of open source and their lived experiences more visible.</description>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Open Source Stories</itunes:name>
+			<itunes:email>contactus@storycorps.org</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://archive.storycorps.org/uploads/2021/11/6189c468d232b__Twitter_Dp_Icon-only-1400x1400.png"/>
+		<itunes:category text="Kids &amp; Family" />
+		<itunes:explicit>no</itunes:explicit>
+
+				<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>How we show up in open source with Julia Silge</itunes:title>
+			<title>How we show up in open source with Julia Silge</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Ever wonder if you're the only one who feels like open source is a mystery? Julia Silge shares how she went from thinking it was just "some person alone in a room" to realizing it's a whole world of collaboration and community! Plus, find out why being wrong on the internet isn't so bad after all.</itunes:subtitle>
+			<itunes:summary>Ever wonder if you're the only one who feels like open source is a mystery? Julia Silge shares how she went from thinking it was just "some person alone in a room" to realizing it's a whole world of collaboration and community! Plus, find out why being wrong on the internet isn't so bad after all.</itunes:summary>
+			<description>Ever wonder if you're the only one who feels like open source is a mystery? Julia Silge shares how she went from thinking it was just "some person alone in a room" to realizing it's a whole world of collaboration and community! Plus, find out why being wrong on the internet isn't so bad after all.</description>
+			<enclosure length="34145266" type="audio/mpeg" url="https://archive.storycorps.org/interviews/how-we-show-up-in-open-source-with-julia-silge/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/how-we-show-up-in-open-source-with-julia-silge/</guid>
+			<pubDate>Thu, 13 Mar 2025 11:00:38 GMT-0400</pubDate>
+			<itunes:duration>2135</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>The Open Source Eras Tour with Erin McKean</itunes:title>
+			<title>The Open Source Eras Tour with Erin McKean</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Dive into a whimsical view of open source with Erin McKean as she examines it through the lens of Taylor Swift's Eras. From the "Inventor Era" to the "Responsibility Era," Erin explores how the focus of open source has changed over time. Discover why you need napkins and what "fully automated luxury space communism" might have to do with it all!</itunes:subtitle>
+			<itunes:summary>Dive into a whimsical view of open source with Erin McKean as she examines it through the lens of Taylor Swift's Eras. From the "Inventor Era" to the "Responsibility Era," Erin explores how the focus of open source has changed over time. Discover why you need napkins and what "fully automated luxury space communism" might have to do with it all!</itunes:summary>
+			<description>Dive into a whimsical view of open source with Erin McKean as she examines it through the lens of Taylor Swift's Eras. From the "Inventor Era" to the "Responsibility Era," Erin explores how the focus of open source has changed over time. Discover why you need napkins and what "fully automated luxury space communism" might have to do with it all!</description>
+			<enclosure length="25526530" type="audio/mpeg" url="https://archive.storycorps.org/interviews/the-open-source-eras-tour-with-erin-mckean/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/the-open-source-eras-tour-with-erin-mckean/</guid>
+			<pubDate>Wed, 05 Mar 2025 22:04:12 GMT-0400</pubDate>
+			<itunes:duration>1596</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Focus and feedback in the tidyverse</itunes:title>
+			<title>Focus and feedback in the tidyverse</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Hadley Wickham takes Tracy Teal through the evolution of the tidyverse, starting with a box of rocks all the way through to a thriving community of data scientists. Join them on the Open Source Story of the tidyverse!</itunes:subtitle>
+			<itunes:summary>Hadley Wickham takes Tracy Teal through the evolution of the tidyverse, starting with a box of rocks all the way through to a thriving community of data scientists. Join them on the Open Source Story of the tidyverse!</itunes:summary>
+			<description>Hadley Wickham takes Tracy Teal through the evolution of the tidyverse, starting with a box of rocks all the way through to a thriving community of data scientists. Join them on the Open Source Story of the tidyverse!</description>
+			<enclosure length="28529149" type="audio/mpeg" url="https://archive.storycorps.org/interviews/focus-and-feedback-in-the-tidyverse/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/focus-and-feedback-in-the-tidyverse/</guid>
+			<pubDate>Mon, 20 Jan 2025 14:49:56 GMT-0400</pubDate>
+			<itunes:duration>1784</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Changing communities have changing needs with Andy Piper</itunes:title>
+			<title>Changing communities have changing needs with Andy Piper</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>In this conversation between Andy Piper and amanda casari, Andy talks about their work in open source communities, specifically highlighting how communities differ, have different needs, and how these needs change and evolve over time. Additionally the discussion covers the “non-glamourous” work that needs to be done, and how difficult it can be to know what sort of help to ask for as a project.</itunes:subtitle>
+			<itunes:summary>In this conversation between Andy Piper and amanda casari, Andy talks about their work in open source communities, specifically highlighting how communities differ, have different needs, and how these needs change and evolve over time. Additionally the discussion covers the “non-glamourous” work that needs to be done, and how difficult it can be to know what sort of help to ask for as a project.</itunes:summary>
+			<description>In this conversation between Andy Piper and amanda casari, Andy talks about their work in open source communities, specifically highlighting how communities differ, have different needs, and how these needs change and evolve over time. Additionally the discussion covers the “non-glamourous” work that needs to be done, and how difficult it can be to know what sort of help to ask for as a project.</description>
+			<enclosure length="32113149" type="audio/mpeg" url="https://archive.storycorps.org/interviews/changing-communities-have-changing-needs-with-andy-piper/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/changing-communities-have-changing-needs-with-andy-piper/</guid>
+			<pubDate>Sun, 13 Oct 2024 19:41:30 GMT-0400</pubDate>
+			<itunes:duration>2008</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>&#034;Why do we code?&#034; and other musings with Carol Willing</itunes:title>
+			<title>&#034;Why do we code?&#034; and other musings with Carol Willing</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Carol Willing, a veteran programmer with a passion for making technology accessible, shares her journey from mainframe computers to the world of Python and Jupyter Notebooks. She emphasizes the importance of generalist skills, critical thinking, and building up the next generation of engineers.</itunes:subtitle>
+			<itunes:summary>Carol Willing, a veteran programmer with a passion for making technology accessible, shares her journey from mainframe computers to the world of Python and Jupyter Notebooks. She emphasizes the importance of generalist skills, critical thinking, and building up the next generation of engineers.</itunes:summary>
+			<description>Carol Willing, a veteran programmer with a passion for making technology accessible, shares her journey from mainframe computers to the world of Python and Jupyter Notebooks. She emphasizes the importance of generalist skills, critical thinking, and building up the next generation of engineers.</description>
+			<enclosure length="18360620" type="audio/mpeg" url="https://archive.storycorps.org/interviews/why-do-we-code-and-other-musings-with-carol-willing/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/why-do-we-code-and-other-musings-with-carol-willing/</guid>
+			<pubDate>Sun, 23 Jun 2024 14:55:55 GMT-0400</pubDate>
+			<itunes:duration>1148</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Rethinking the meaning of governance with Shauna Gordon-McKeon</itunes:title>
+			<title>Rethinking the meaning of governance with Shauna Gordon-McKeon</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>In a conversation looking at multiple meanings of open source governance and project health, Shauna Gordon-McKeon shares with Open Source Stories views of how investing in project culture can build virtuous cycles of inclusion and contribution. From reducing the number of roles that a maintainer might have to fill to lowering the barriers for user participation - this conversation looks to build from crisis management in 2017 to continuing improvements into the future with the ways open source projects get done.</itunes:subtitle>
+			<itunes:summary>In a conversation looking at multiple meanings of open source governance and project health, Shauna Gordon-McKeon shares with Open Source Stories views of how investing in project culture can build virtuous cycles of inclusion and contribution. From reducing the number of roles that a maintainer might have to fill to lowering the barriers for user participation - this conversation looks to build from crisis management in 2017 to continuing improvements into the future with the ways open source projects get done.</itunes:summary>
+			<description>In a conversation looking at multiple meanings of open source governance and project health, Shauna Gordon-McKeon shares with Open Source Stories views of how investing in project culture can build virtuous cycles of inclusion and contribution. From reducing the number of roles that a maintainer might have to fill to lowering the barriers for user participation - this conversation looks to build from crisis management in 2017 to continuing improvements into the future with the ways open source projects get done.</description>
+			<enclosure length="29696989" type="audio/mpeg" url="https://archive.storycorps.org/interviews/rethinking-the-meaning-of-governance-with-shauna-gordon-mckeon/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/rethinking-the-meaning-of-governance-with-shauna-gordon-mckeon/</guid>
+			<pubDate>Sun, 12 Nov 2023 19:02:16 GMT-0400</pubDate>
+			<itunes:duration>1857</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>The power and joy in collaboration with Clare Dillon</itunes:title>
+			<title>The power and joy in collaboration with Clare Dillon</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Why should open source have all the fun? Clare Dillon shares her experience in the wonderful world of innersource, the application of open source practices within organizations. Collaboration is just too exciting not to share!</itunes:subtitle>
+			<itunes:summary>Why should open source have all the fun? Clare Dillon shares her experience in the wonderful world of innersource, the application of open source practices within organizations. Collaboration is just too exciting not to share!</itunes:summary>
+			<description>Why should open source have all the fun? Clare Dillon shares her experience in the wonderful world of innersource, the application of open source practices within organizations. Collaboration is just too exciting not to share!</description>
+			<enclosure length="21281365" type="audio/mpeg" url="https://archive.storycorps.org/interviews/the-power-and-joy-in-collaboration/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/the-power-and-joy-in-collaboration/</guid>
+			<pubDate>Wed, 25 Oct 2023 20:18:20 GMT-0400</pubDate>
+			<itunes:duration>1331</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Community health and belonging with Anita Ihuman</itunes:title>
+			<title>Community health and belonging with Anita Ihuman</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Measuring community health reveals challenges people experience in contributing. Anita Ihuman explains how to build awareness and leverage existing solutions for greater belonging in open source. What you measure, you can see and change!</itunes:subtitle>
+			<itunes:summary>Measuring community health reveals challenges people experience in contributing. Anita Ihuman explains how to build awareness and leverage existing solutions for greater belonging in open source. What you measure, you can see and change!</itunes:summary>
+			<description>Measuring community health reveals challenges people experience in contributing. Anita Ihuman explains how to build awareness and leverage existing solutions for greater belonging in open source. What you measure, you can see and change!</description>
+			<enclosure length="25553324" type="audio/mpeg" url="https://archive.storycorps.org/interviews/anitas-story-2/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/anitas-story-2/</guid>
+			<pubDate>Mon, 31 Jul 2023 12:25:16 GMT-0400</pubDate>
+			<itunes:duration>1598</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>The peculiarities of security maintainership with Filippo Valsorda</itunes:title>
+			<title>The peculiarities of security maintainership with Filippo Valsorda</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>What changes when the projects you maintain are cornerstones of security? Filippo Valsorda elaborates on his experience as a cryptographer, his work in Go, and how his approach to maintainership might be a bit different from the average maintainer.</itunes:subtitle>
+			<itunes:summary>What changes when the projects you maintain are cornerstones of security? Filippo Valsorda elaborates on his experience as a cryptographer, his work in Go, and how his approach to maintainership might be a bit different from the average maintainer.</itunes:summary>
+			<description>What changes when the projects you maintain are cornerstones of security? Filippo Valsorda elaborates on his experience as a cryptographer, his work in Go, and how his approach to maintainership might be a bit different from the average maintainer.</description>
+			<enclosure length="37931650" type="audio/mpeg" url="https://archive.storycorps.org/interviews/the-peculiarities-of-security-maintainership-with-filippo-valsodra/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/the-peculiarities-of-security-maintainership-with-filippo-valsodra/</guid>
+			<pubDate>Mon, 29 May 2023 18:05:40 GMT-0400</pubDate>
+			<itunes:duration>2371</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>The journey to becoming a maintainer with Jessica Tegner</itunes:title>
+			<title>The journey to becoming a maintainer with Jessica Tegner</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>How does one pick up the maintainership baton? Turns out that you can ask for it! Jessica Tegner tells the story of how she went from contributing to pypandoc to being the maintainer of it, and the pressures that come from maintaining a widely used project.</itunes:subtitle>
+			<itunes:summary>How does one pick up the maintainership baton? Turns out that you can ask for it! Jessica Tegner tells the story of how she went from contributing to pypandoc to being the maintainer of it, and the pressures that come from maintaining a widely used project.</itunes:summary>
+			<description>How does one pick up the maintainership baton? Turns out that you can ask for it! Jessica Tegner tells the story of how she went from contributing to pypandoc to being the maintainer of it, and the pressures that come from maintaining a widely used project.</description>
+			<enclosure length="25329302" type="audio/mpeg" url="https://archive.storycorps.org/interviews/the-journey-to-becoming-a-maintainer-with-jessica-tegner/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/the-journey-to-becoming-a-maintainer-with-jessica-tegner/</guid>
+			<pubDate>Tue, 16 May 2023 19:49:38 GMT-0400</pubDate>
+			<itunes:duration>1584</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>The critical human infrastructure of open source with Duane O&#039;Brien</itunes:title>
+			<title>The critical human infrastructure of open source with Duane O&#039;Brien</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Open source is people and people are open source. Duane O'Brien talks about what he's learned about supporting, connecting with, and caring for the critical human infrastructure of open source.</itunes:subtitle>
+			<itunes:summary>Open source is people and people are open source. Duane O'Brien talks about what he's learned about supporting, connecting with, and caring for the critical human infrastructure of open source.</itunes:summary>
+			<description>Open source is people and people are open source. Duane O'Brien talks about what he's learned about supporting, connecting with, and caring for the critical human infrastructure of open source.</description>
+			<enclosure length="34577076" type="audio/mpeg" url="https://archive.storycorps.org/interviews/julia-ferraioli-3/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/julia-ferraioli-3/</guid>
+			<pubDate>Tue, 09 May 2023 22:06:00 GMT-0400</pubDate>
+			<itunes:duration>2162</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Open Hardware and Finding Your People with Thea Flowers</itunes:title>
+			<title>Open Hardware and Finding Your People with Thea Flowers</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>If you find yourself curious about what’s running your software, then you’re in good company! Many Makers before you have cultivated our current open hardware opportunities to make it easier to start. Python Software Foundation Fellow Thea Flowers invites us to think beyond open source software to the vibrant community of open hardware. Bodge your way to greatness! In this episode, explore the right to repair, mid-scale manufacturing, and vinyl for video game soundtracks. Join Open Source Stories in finding your people.</itunes:subtitle>
+			<itunes:summary>If you find yourself curious about what’s running your software, then you’re in good company! Many Makers before you have cultivated our current open hardware opportunities to make it easier to start. Python Software Foundation Fellow Thea Flowers invites us to think beyond open source software to the vibrant community of open hardware. Bodge your way to greatness! In this episode, explore the right to repair, mid-scale manufacturing, and vinyl for video game soundtracks. Join Open Source Stories in finding your people.</itunes:summary>
+			<description>If you find yourself curious about what’s running your software, then you’re in good company! Many Makers before you have cultivated our current open hardware opportunities to make it easier to start. Python Software Foundation Fellow Thea Flowers invites us to think beyond open source software to the vibrant community of open hardware. Bodge your way to greatness! In this episode, explore the right to repair, mid-scale manufacturing, and vinyl for video game soundtracks. Join Open Source Stories in finding your people.</description>
+			<enclosure length="23148808" type="audio/mpeg" url="https://archive.storycorps.org/interviews/thea-flowers-on-open-hardware/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/thea-flowers-on-open-hardware/</guid>
+			<pubDate>Wed, 22 Mar 2023 17:51:00 GMT-0400</pubDate>
+			<itunes:duration>1447</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>VM Brasseur on free and open source ecosystems and culture</itunes:title>
+			<title>VM Brasseur on free and open source ecosystems and culture</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Free and open source software is, or can be, a public good. But, VM Brasseur finds that for some, it may have gotten disconnected from its open culture roots. In this open source story, VM talks about motivations behind FOSS, how they have shifted, and how those who work in free and open source software can help recenter principles of openness.</itunes:subtitle>
+			<itunes:summary>Free and open source software is, or can be, a public good. But, VM Brasseur finds that for some, it may have gotten disconnected from its open culture roots. In this open source story, VM talks about motivations behind FOSS, how they have shifted, and how those who work in free and open source software can help recenter principles of openness.</itunes:summary>
+			<description>Free and open source software is, or can be, a public good. But, VM Brasseur finds that for some, it may have gotten disconnected from its open culture roots. In this open source story, VM talks about motivations behind FOSS, how they have shifted, and how those who work in free and open source software can help recenter principles of openness.</description>
+			<enclosure length="29681114" type="audio/mpeg" url="https://archive.storycorps.org/interviews/vm-brasseur-on-free-and-open-source-ecosystems-and-culture/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/vm-brasseur-on-free-and-open-source-ecosystems-and-culture/</guid>
+			<pubDate>Tue, 14 Mar 2023 14:44:59 GMT-0400</pubDate>
+			<itunes:duration>1856</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Alex Cabal and the Standard Ebooks “saga”</itunes:title>
+			<title>Alex Cabal and the Standard Ebooks “saga”</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Open source, the public domain, and various freedoms take center stage in the story behind Standard Ebooks. Learn about Standard Ebooks, a project founded by Alex Cabal to solve one particular problem, and how it brought together contributors with diverse sets of talents to make public domain literature works of art.</itunes:subtitle>
+			<itunes:summary>Open source, the public domain, and various freedoms take center stage in the story behind Standard Ebooks. Learn about Standard Ebooks, a project founded by Alex Cabal to solve one particular problem, and how it brought together contributors with diverse sets of talents to make public domain literature works of art.</itunes:summary>
+			<description>Open source, the public domain, and various freedoms take center stage in the story behind Standard Ebooks. Learn about Standard Ebooks, a project founded by Alex Cabal to solve one particular problem, and how it brought together contributors with diverse sets of talents to make public domain literature works of art.</description>
+			<enclosure length="24949787" type="audio/mpeg" url="https://archive.storycorps.org/interviews/alex-cabal-and-the-standard-ebooks-saga/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/alex-cabal-and-the-standard-ebooks-saga/</guid>
+			<pubDate>Sat, 28 Jan 2023 20:54:10 GMT-0400</pubDate>
+			<itunes:duration>1560</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>John Minnihan and the genesis of hosted source control</itunes:title>
+			<title>John Minnihan and the genesis of hosted source control</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>John Minnihan walks through the creation of Freepository, the first hosted source control service, how it paved the way for lowering the barrier to participation in open source, and evolution of version control systems.</itunes:subtitle>
+			<itunes:summary>John Minnihan walks through the creation of Freepository, the first hosted source control service, how it paved the way for lowering the barrier to participation in open source, and evolution of version control systems.</itunes:summary>
+			<description>John Minnihan walks through the creation of Freepository, the first hosted source control service, how it paved the way for lowering the barrier to participation in open source, and evolution of version control systems.</description>
+			<enclosure length="42657005" type="audio/mpeg" url="https://archive.storycorps.org/interviews/john-minnihan-and-the-genesis-of-hosted-source-control/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/john-minnihan-and-the-genesis-of-hosted-source-control/</guid>
+			<pubDate>Tue, 27 Dec 2022 13:29:00 GMT-0400</pubDate>
+			<itunes:duration>2667</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Richard Littauer on birds, hats, and commitments</itunes:title>
+			<title>Richard Littauer on birds, hats, and commitments</title>
+			<itunes:author>675260</itunes:author>
+			<itunes:subtitle>When you focus more on connections than commit-ments in open source, what do you say yes to? Richard talks about open source as an evolving collective and commons unbounded by strict definitions, working in the open with creativity and joy, and the practices which allow him to sustain himself as a collaborator.</itunes:subtitle>
+			<itunes:summary>When you focus more on connections than commit-ments in open source, what do you say yes to? Richard talks about open source as an evolving collective and commons unbounded by strict definitions, working in the open with creativity and joy, and the practices which allow him to sustain himself as a collaborator.</itunes:summary>
+			<description>When you focus more on connections than commit-ments in open source, what do you say yes to? Richard talks about open source as an evolving collective and commons unbounded by strict definitions, working in the open with creativity and joy, and the practices which allow him to sustain himself as a collaborator.</description>
+			<enclosure length="27425374" type="audio/mpeg" url="https://archive.storycorps.org/interviews/richard-littauer-on-birds-hats-and-commitments/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/richard-littauer-on-birds-hats-and-commitments/</guid>
+			<pubDate>Tue, 14 Jun 2022 10:05:33 GMT-0400</pubDate>
+			<itunes:duration>1715</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Eriol Fox on open source design</itunes:title>
+			<title>Eriol Fox on open source design</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>What is open source design? Eriol dives into how designers contribute to open source, resources for designers looking to contribute to open source, and how incorporating design work into open source projects benefits the contributors and community using it.</itunes:subtitle>
+			<itunes:summary>What is open source design? Eriol dives into how designers contribute to open source, resources for designers looking to contribute to open source, and how incorporating design work into open source projects benefits the contributors and community using it.</itunes:summary>
+			<description>What is open source design? Eriol dives into how designers contribute to open source, resources for designers looking to contribute to open source, and how incorporating design work into open source projects benefits the contributors and community using it.</description>
+			<enclosure length="37949976" type="audio/mpeg" url="https://archive.storycorps.org/interviews/eriol-fox-on-open-source-design/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/eriol-fox-on-open-source-design/</guid>
+			<pubDate>Sun, 12 Jun 2022 15:14:12 GMT-0400</pubDate>
+			<itunes:duration>2372</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Dawn Wages on being an ethical open source engineer</itunes:title>
+			<title>Dawn Wages on being an ethical open source engineer</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>How do we incorporate ethics into open source and software development at large? Dawn Wages describes some of the ways that she embraces ethical open source engineering, including exploring her guiding principles around how she makes technology decisions. Learn about how she works to bring anti-racist practices to the open source ecosystem.</itunes:subtitle>
+			<itunes:summary>How do we incorporate ethics into open source and software development at large? Dawn Wages describes some of the ways that she embraces ethical open source engineering, including exploring her guiding principles around how she makes technology decisions. Learn about how she works to bring anti-racist practices to the open source ecosystem.</itunes:summary>
+			<description>How do we incorporate ethics into open source and software development at large? Dawn Wages describes some of the ways that she embraces ethical open source engineering, including exploring her guiding principles around how she makes technology decisions. Learn about how she works to bring anti-racist practices to the open source ecosystem.</description>
+			<enclosure length="22001107" type="audio/mpeg" url="https://archive.storycorps.org/interviews/dawn-wages-on-being-an-ethical-open-source-engineer/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/dawn-wages-on-being-an-ethical-open-source-engineer/</guid>
+			<pubDate>Fri, 06 May 2022 21:45:13 GMT-0400</pubDate>
+			<itunes:duration>1376</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Open source maintainership with Emma Irwin</itunes:title>
+			<title>Open source maintainership with Emma Irwin</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Emma Irwin explores a nuanced view of open source maintainership in today’s landscape, digging into what characteristics good maintainers cultivate, what role mentoring plays in maintainership, and how history influences who becomes a maintainer.</itunes:subtitle>
+			<itunes:summary>Emma Irwin explores a nuanced view of open source maintainership in today’s landscape, digging into what characteristics good maintainers cultivate, what role mentoring plays in maintainership, and how history influences who becomes a maintainer.</itunes:summary>
+			<description>Emma Irwin explores a nuanced view of open source maintainership in today’s landscape, digging into what characteristics good maintainers cultivate, what role mentoring plays in maintainership, and how history influences who becomes a maintainer.</description>
+			<enclosure length="18465163" type="audio/mpeg" url="https://archive.storycorps.org/interviews/julia-ferraioli-5/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/julia-ferraioli-5/</guid>
+			<pubDate>Wed, 20 Apr 2022 20:05:00 GMT-0400</pubDate>
+			<itunes:duration>1155</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Nicolas Steenhout explores the intersection of accessibility and open source</itunes:title>
+			<title>Nicolas Steenhout explores the intersection of accessibility and open source</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Nic Steenhout recounts how barriers to access led him to getting involved in the open source community, reflects on challenges that accessibility advocates face in the ecosystem, and gives some advice to projects on how to prove their commitment to accessibility.</itunes:subtitle>
+			<itunes:summary>Nic Steenhout recounts how barriers to access led him to getting involved in the open source community, reflects on challenges that accessibility advocates face in the ecosystem, and gives some advice to projects on how to prove their commitment to accessibility.</itunes:summary>
+			<description>Nic Steenhout recounts how barriers to access led him to getting involved in the open source community, reflects on challenges that accessibility advocates face in the ecosystem, and gives some advice to projects on how to prove their commitment to accessibility.</description>
+			<enclosure length="35377094" type="audio/mpeg" url="https://archive.storycorps.org/interviews/nicolas-steenhout-on-accessibility-in-open-source-and-beyond/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/nicolas-steenhout-on-accessibility-in-open-source-and-beyond/</guid>
+			<pubDate>Thu, 03 Mar 2022 00:07:00 GMT-0400</pubDate>
+			<itunes:duration>2212</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Elana Hashman on the evolution of open source</itunes:title>
+			<title>Elana Hashman on the evolution of open source</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Elana Hashman recounts her first contribution to open source, the ecosystem’s potential, how norms have changed over the years, and what keeps her involved and contributing.</itunes:subtitle>
+			<itunes:summary>Elana Hashman recounts her first contribution to open source, the ecosystem’s potential, how norms have changed over the years, and what keeps her involved and contributing.</itunes:summary>
+			<description>Elana Hashman recounts her first contribution to open source, the ecosystem’s potential, how norms have changed over the years, and what keeps her involved and contributing.</description>
+			<enclosure length="39424462" type="audio/mpeg" url="https://archive.storycorps.org/interviews/elana-hashman-on-the-evolution-of-open-source/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/elana-hashman-on-the-evolution-of-open-source/</guid>
+			<pubDate>Sat, 05 Feb 2022 17:35:37 GMT-0400</pubDate>
+			<itunes:duration>2464</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Joe Beda on open source as a positive sum game</itunes:title>
+			<title>Joe Beda on open source as a positive sum game</title>
+			<itunes:author>675260</itunes:author>
+			<itunes:subtitle>Joe Beda shares with Julia and Amanda about his multigenerational family history with computers, his changing experience with open source since submitting the first commit to Kubernetes, and how the future of open source contains both 'danger and opportunity'.</itunes:subtitle>
+			<itunes:summary>Joe Beda shares with Julia and Amanda about his multigenerational family history with computers, his changing experience with open source since submitting the first commit to Kubernetes, and how the future of open source contains both 'danger and opportunity'.</itunes:summary>
+			<description>Joe Beda shares with Julia and Amanda about his multigenerational family history with computers, his changing experience with open source since submitting the first commit to Kubernetes, and how the future of open source contains both 'danger and opportunity'.</description>
+			<enclosure length="35927157" type="audio/mpeg" url="https://archive.storycorps.org/interviews/joe-beda-on-open-source-as-a-positive-sum-game/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/joe-beda-on-open-source-as-a-positive-sum-game/</guid>
+			<pubDate>Sun, 07 Nov 2021 20:36:43 GMT-0400</pubDate>
+			<itunes:duration>2246</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Samson Goddy on the power of centering open source on community needs</itunes:title>
+			<title>Samson Goddy on the power of centering open source on community needs</title>
+			<itunes:author>675260</itunes:author>
+			<itunes:subtitle>Samson talks with Amanda about his lifelong journey in open source, why growing a culture of sharing is so important, and how his early experiences influenced where and how he has directed his energy into re-centering the nexus of open source.</itunes:subtitle>
+			<itunes:summary>Samson talks with Amanda about his lifelong journey in open source, why growing a culture of sharing is so important, and how his early experiences influenced where and how he has directed his energy into re-centering the nexus of open source.</itunes:summary>
+			<description>Samson talks with Amanda about his lifelong journey in open source, why growing a culture of sharing is so important, and how his early experiences influenced where and how he has directed his energy into re-centering the nexus of open source.</description>
+			<enclosure length="37547825" type="audio/mpeg" url="https://archive.storycorps.org/interviews/amanda-casari-2/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/amanda-casari-2/</guid>
+			<pubDate>Sat, 23 Oct 2021 12:18:51 GMT-0400</pubDate>
+			<itunes:duration>2347</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Josh Simmons and open source diplomacy</itunes:title>
+			<title>Josh Simmons and open source diplomacy</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Josh Simmons, Amanda Casari, and Julia Ferraioli talk about open source representation, transformative moments that led to increased participation, and hopes for the future.</itunes:subtitle>
+			<itunes:summary>Josh Simmons, Amanda Casari, and Julia Ferraioli talk about open source representation, transformative moments that led to increased participation, and hopes for the future.</itunes:summary>
+			<description>Josh Simmons, Amanda Casari, and Julia Ferraioli talk about open source representation, transformative moments that led to increased participation, and hopes for the future.</description>
+			<enclosure length="36601565" type="audio/mpeg" url="https://archive.storycorps.org/interviews/josh-simmons-amanda-casari-and-julia-ferraioli/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/josh-simmons-amanda-casari-and-julia-ferraioli/</guid>
+			<pubDate>Tue, 19 Oct 2021 19:14:58 GMT-0400</pubDate>
+			<itunes:duration>2288</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Aaron Patterson, Amanda Casari, and Julia Ferraioli</itunes:title>
+			<title>Aaron Patterson, Amanda Casari, and Julia Ferraioli</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Aaron Patterson talks with Julia and Amanda about installing Linux for the first time, the story behind first patch, initial hesitancy around forking, and shares some advice for fellow programmers. Features plenty of bad puns from everyone.
+
+Transcript: https://www.opensourcestories.org/stories/2021/aaron-patterson/</itunes:subtitle>
+			<itunes:summary>Aaron Patterson talks with Julia and Amanda about installing Linux for the first time, the story behind first patch, initial hesitancy around forking, and shares some advice for fellow programmers. Features plenty of bad puns from everyone.
+
+Transcript: https://www.opensourcestories.org/stories/2021/aaron-patterson/</itunes:summary>
+			<description>Aaron Patterson talks with Julia and Amanda about installing Linux for the first time, the story behind first patch, initial hesitancy around forking, and shares some advice for fellow programmers. Features plenty of bad puns from everyone.
+
+Transcript: https://www.opensourcestories.org/stories/2021/aaron-patterson/</description>
+			<enclosure length="38309764" type="audio/mpeg" url="https://archive.storycorps.org/interviews/aaron-patterson-amanda-casari-and-julia-ferraioli/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/aaron-patterson-amanda-casari-and-julia-ferraioli/</guid>
+			<pubDate>Thu, 14 Oct 2021 18:47:18 GMT-0400</pubDate>
+			<itunes:duration>2395</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>Open Source Stories with Russell Keith-Magee</itunes:title>
+			<title>Open Source Stories with Russell Keith-Magee</title>
+			<itunes:author>675233</itunes:author>
+			<itunes:subtitle>Russell talks with julia about his open source origin story, how he became involved in his first project, and what he sees as current issues with maintainership in open source.</itunes:subtitle>
+			<itunes:summary>Russell talks with julia about his open source origin story, how he became involved in his first project, and what he sees as current issues with maintainership in open source.</itunes:summary>
+			<description>Russell talks with julia about his open source origin story, how he became involved in his first project, and what he sees as current issues with maintainership in open source.</description>
+			<enclosure length="37945722" type="audio/mpeg" url="https://archive.storycorps.org/interviews/julia-ferraioli-2/audio/"/>
+			<guid>https://archive.storycorps.org/interviews/julia-ferraioli-2/</guid>
+			<pubDate>Tue, 05 Oct 2021 23:06:18 GMT-0400</pubDate>
+			<itunes:duration>2372</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	</channel>
+</rss>

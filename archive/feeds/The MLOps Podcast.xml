@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[The MLOps Podcast]]></title>
+		<description><![CDATA[A podcast from DagsHub about bringing machine learning into the real world. Each episode features a conversation with top data science and machine learning practitioners, who'll share their thoughts, best practices, and tips for promoting machine learning to production]]></description>
+		<link>https://dagshub.com</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Mon, 09 Jun 2025 14:06:14 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/58cdbb8c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Dean Pleban @ DagsHub]]></author>
+		<copyright><![CDATA[Dean Pleban @ DagsHub]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Dean Pleban @ DagsHub</itunes:author>
+		<itunes:summary>A podcast from DagsHub about bringing machine learning into the real world. Each episode features a conversation with top data science and machine learning practitioners, who&apos;ll share their thoughts, best practices, and tips for promoting machine learning to production</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Dean Pleban @ DagsHub</itunes:name>
+			<itunes:email>podcasts60+58cdbb8c@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14798779/14798779-1707741979584-dcaee57e3fb99.jpg"/>
+		<item>
+			<title><![CDATA[👏 A Practical Approach to Building LLM Applications with Liron Itzhaki Allerhand]]></title>
+			<description><![CDATA[<p>Dean Pleban and Liron Itzhakhi Allerhand explore what it really takes to move LLMs into production. They cover how to define clear requirements, prep data for RAG, engineer effective prompts, and evaluate model performance using concrete metrics. The conversation dives into managing sensitive data, avoiding leakage, and why crisp outputs and clear user intent matter. Plus: future trends like in-context learning and the decoupling of foundation models from vertical apps.</p><p>Join our Discord community:</p><p>https://discord.gg/tEYvqxwhah </p><p>---</p><p>Timestamps:</p><ul><li>00:00 Introduction</li><li>01:48 Phases of LLM Project Development</li><li>03:32 Defining the Problem</li><li>09:35 Data Preparation and Understanding</li><li>23:59 Multimodal RAG</li><li>26:28 Prompt Engineering &amp; Model Selection</li><li>27:58 Model Fine-tuning &amp; Customization</li><li>33:18 LLM as a Judge</li><li>38:58 Evaluating Model Performance and Handling Hallucinations</li><li>41:02 Using LLMs with sensitive data</li><li>45:24 Other ideas for model evaluation and guardrails</li><li>49:28 Recommendations for the audience</li></ul><p><br /></p><p>➡️ Liron Itzhaki Allerhand on LinkedIn – https://www.linkedin.com/in/liron-izhaki-allerhand-16579b4/</p><p>🌐 Check Out Our Website! https://dagshub.com Social </p><p>Links: </p><p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub </p><p>➡️ Twitter: https://x.com/TheRealDAGsHub </p><p>➡️ Dean Pleban: https://x.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/A-Practical-Approach-to-Building-LLM-Applications-with-Liron-Itzhaki-Allerhand-e32ibt3</link>
+			<guid isPermaLink="false">7d41bff5-d8b0-4a3f-915d-7287b904471c</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Tue, 13 May 2025 08:27:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/102362467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-8%2F399851679-44100-2-657015346a374.mp3" length="49958660" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Dean Pleban and Liron Itzhakhi Allerhand explore what it really takes to move LLMs into production. They cover how to define clear requirements, prep data for RAG, engineer effective prompts, and evaluate model performance using concrete metrics. The conversation dives into managing sensitive data, avoiding leakage, and why crisp outputs and clear user intent matter. Plus: future trends like in-context learning and the decoupling of foundation models from vertical apps.&lt;/p&gt;&lt;p&gt;Join our Discord community:&lt;/p&gt;&lt;p&gt;https://discord.gg/tEYvqxwhah &lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt;Timestamps:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;00:00 Introduction&lt;/li&gt;&lt;li&gt;01:48 Phases of LLM Project Development&lt;/li&gt;&lt;li&gt;03:32 Defining the Problem&lt;/li&gt;&lt;li&gt;09:35 Data Preparation and Understanding&lt;/li&gt;&lt;li&gt;23:59 Multimodal RAG&lt;/li&gt;&lt;li&gt;26:28 Prompt Engineering &amp;amp; Model Selection&lt;/li&gt;&lt;li&gt;27:58 Model Fine-tuning &amp;amp; Customization&lt;/li&gt;&lt;li&gt;33:18 LLM as a Judge&lt;/li&gt;&lt;li&gt;38:58 Evaluating Model Performance and Handling Hallucinations&lt;/li&gt;&lt;li&gt;41:02 Using LLMs with sensitive data&lt;/li&gt;&lt;li&gt;45:24 Other ideas for model evaluation and guardrails&lt;/li&gt;&lt;li&gt;49:28 Recommendations for the audience&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;➡️ Liron Itzhaki Allerhand on LinkedIn – https://www.linkedin.com/in/liron-izhaki-allerhand-16579b4/&lt;/p&gt;&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com Social &lt;/p&gt;&lt;p&gt;Links: &lt;/p&gt;&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub &lt;/p&gt;&lt;p&gt;➡️ Twitter: https://x.com/TheRealDAGsHub &lt;/p&gt;&lt;p&gt;➡️ Dean Pleban: https://x.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:52:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1747124866177-1dee873377973.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[📡 Building Scalable ML Models with Natanel Davidovits]]></title>
+			<description><![CDATA[<p>
+In this episode, Dean and Natanel Davidovits explore the intricacies of AI and machine learning, focusing on model efficiency, the use of APIs versus self-hosting, and the importance of defining success metrics in real-world applications. They discuss the challenges of data quality and labeling, the evolving role of data scientists in the age of LLMs, and the significance of effective communication between data science and product teams. The conversation also touches on the future of robotics in AI and the need for specialization in a rapidly changing landscape.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction to Natanel Davidovits
+02:10 Optimizing AI Models for Real-World Tasks
+03:47 Success Metrics in Industry vs. Academia
+07:52 The Importance of Communication Between Teams
+11:33 Handling Data Quality and Labeling Challenges
+12:11 The Impact of LLMs on Data Science Careers
+16:29 Navigating Specialized Domain Data 
+22:15 Trends in Machine Learning and AI
+27:27 The Future of AI and Robotics
+28:28 The Role of AI in Physics
+33:36 Controversial Views on AI and Machine Learning
+34:05 Final Thoughts and Recommendations
+
+➡️ Natanel Davidovits on LinkedIn – https://www.linkedin.com/in/natanel-davidovits-28695312/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://x.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://x.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Building-Scalable-ML-Models-with-Natanel-Davidovits-e2scqvc</link>
+			<guid isPermaLink="false">3708323d-00f1-4979-a7e0-2a58eb60e749</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 16 Dec 2024 11:55:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/95889836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-16%2F391630025-44100-2-d3ab57071ebdc.mp3" length="34131381" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;
+In this episode, Dean and Natanel Davidovits explore the intricacies of AI and machine learning, focusing on model efficiency, the use of APIs versus self-hosting, and the importance of defining success metrics in real-world applications. They discuss the challenges of data quality and labeling, the evolving role of data scientists in the age of LLMs, and the significance of effective communication between data science and product teams. The conversation also touches on the future of robotics in AI and the need for specialization in a rapidly changing landscape.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction to Natanel Davidovits
+02:10 Optimizing AI Models for Real-World Tasks
+03:47 Success Metrics in Industry vs. Academia
+07:52 The Importance of Communication Between Teams
+11:33 Handling Data Quality and Labeling Challenges
+12:11 The Impact of LLMs on Data Science Careers
+16:29 Navigating Specialized Domain Data 
+22:15 Trends in Machine Learning and AI
+27:27 The Future of AI and Robotics
+28:28 The Role of AI in Physics
+33:36 Controversial Views on AI and Machine Learning
+34:05 Final Thoughts and Recommendations
+
+➡️ Natanel Davidovits on LinkedIn – https://www.linkedin.com/in/natanel-davidovits-28695312/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://x.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://x.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1734350098766-ae49df2e352a4.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[💼 AI in the Enterprise with Jeremie Dreyfuss]]></title>
+			<description><![CDATA[<p>In this episode, Dean speaks with Jeremie Dreyfuss, Head of AI Research and Development at Intel, about the evolving role of AI in the enterprise. Jeremie shares insights into scaling machine learning solutions, the challenges of building AI infrastructure, and the future of AI-driven innovation in large organizations. Learn how enterprises are leveraging AI for efficiency, the latest advancements in AI research, and the strategies for staying competitive in a rapidly changing landscape.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction and Overview
+00:55 Challenges of Data Collection and Infrastructure
+05:00 Optimizing Test Recommendations
+14:42 Tips for Deploying Entire ML Pipelines
+21:19 The Impact of Large Language Models (LLMs)
+25:30 How to Decide About LLM Investment in the Enterprise
+29:29 Evaluating Models and Using Synthetic Data
+35:34 Choosing the Right Tools for ML and LLM Projects
+45:21 The Beauty of Small Data in Machine Learning
+48:22 Recommendations for the Audience
+
+➡️ Jeremie Dreyfuss on LinkedIn – https://www.linkedin.com/in/jeremie-dreyfuss/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://x.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://x.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/AI-in-the-Enterprise-with-Jeremie-Dreyfuss-e2p1hht</link>
+			<guid isPermaLink="false">05f429a3-b8a2-4379-9246-8dcffac47727</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Thu, 31 Oct 2024 09:36:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/92374013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387274060-44100-2-ef64a13e3ca7e.mp3" length="48617847" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Dean speaks with Jeremie Dreyfuss, Head of AI Research and Development at Intel, about the evolving role of AI in the enterprise. Jeremie shares insights into scaling machine learning solutions, the challenges of building AI infrastructure, and the future of AI-driven innovation in large organizations. Learn how enterprises are leveraging AI for efficiency, the latest advancements in AI research, and the strategies for staying competitive in a rapidly changing landscape.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction and Overview
+00:55 Challenges of Data Collection and Infrastructure
+05:00 Optimizing Test Recommendations
+14:42 Tips for Deploying Entire ML Pipelines
+21:19 The Impact of Large Language Models (LLMs)
+25:30 How to Decide About LLM Investment in the Enterprise
+29:29 Evaluating Models and Using Synthetic Data
+35:34 Choosing the Right Tools for ML and LLM Projects
+45:21 The Beauty of Small Data in Machine Learning
+48:22 Recommendations for the Audience
+
+➡️ Jeremie Dreyfuss on LinkedIn – https://www.linkedin.com/in/jeremie-dreyfuss/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://x.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://x.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1727685457354-57fbe6bbc81da.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🌲 Machine Learning in Agriculture: Scaling AI for Crop Management with Dror Haor]]></title>
+			<description><![CDATA[<p>
+In this episode, Dean speaks with Dror Haor, CTO at SeeTree, about the challenges of deploying AI in agriculture at scale. They explore how SeeTree integrates AI and sensor fusion to manage vast amounts of remote sensing data, helping farmers improve crop yields with high accuracy at low costs. Dror shares insights on handling data drift, customizing models for different regions, and balancing the trade-offs between cost and performance. This conversation dives deep into practical machine learning applications in agriculture, offering valuable lessons for anyone working with large-scale data and AI.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction 
+00:32 Production in machine learning at SeeTree
+07:34 Sensor fusion in machine learning
+16:26 Balancing accuracy and cost in agriculture
+20:09 Customizing models for different customers and crops
+24:19 Dealing with data in different domains
+30:10 Tools and processes for ML at SeeTree
+35:58 Building for scale
+40:17 Collecting user feedback and self-improving products
+42:45 Exciting developments in ML &amp; AI
+45:12 Hot takes in ML - Overfitting is good
+46:34 Recommendations for the Audience
+
+➡️ Dror Haor on LinkedIn – https://www.linkedin.com/in/dror-haor-phd-77152322/
+➡️ Dror Haor on Twitter – https://x.com/DrorHaor
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://x.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://x.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Machine-Learning-in-Agriculture-Scaling-AI-for-Crop-Management-with-Dror-Haor-e2n23s3</link>
+			<guid isPermaLink="false">8919f780-b3e0-4c15-ade6-a822dbc16b77</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Sun, 15 Sep 2024 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/90295619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-11%2F384598900-44100-2-fe47e3da68852.mp3" length="48750758" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;
+In this episode, Dean speaks with Dror Haor, CTO at SeeTree, about the challenges of deploying AI in agriculture at scale. They explore how SeeTree integrates AI and sensor fusion to manage vast amounts of remote sensing data, helping farmers improve crop yields with high accuracy at low costs. Dror shares insights on handling data drift, customizing models for different regions, and balancing the trade-offs between cost and performance. This conversation dives deep into practical machine learning applications in agriculture, offering valuable lessons for anyone working with large-scale data and AI.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction 
+00:32 Production in machine learning at SeeTree
+07:34 Sensor fusion in machine learning
+16:26 Balancing accuracy and cost in agriculture
+20:09 Customizing models for different customers and crops
+24:19 Dealing with data in different domains
+30:10 Tools and processes for ML at SeeTree
+35:58 Building for scale
+40:17 Collecting user feedback and self-improving products
+42:45 Exciting developments in ML &amp;amp; AI
+45:12 Hot takes in ML - Overfitting is good
+46:34 Recommendations for the Audience
+
+➡️ Dror Haor on LinkedIn – https://www.linkedin.com/in/dror-haor-phd-77152322/
+➡️ Dror Haor on Twitter – https://x.com/DrorHaor
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://x.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://x.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1723458009139-67ef5937b2312.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[📊 Data-Driven Decisions: ML in E-Commerce Forecasting with Federico Bacci]]></title>
+			<description><![CDATA[<p>In this episode, Dean speaks with Federico Bacci, a data scientist and ML engineer at Bol, the largest e-commerce company in the Netherlands and Belgium. Federico shares valuable insights into the intricacies of deploying machine learning models in production, particularly for forecasting problems. He discusses the challenges of model explainability, the importance of feature engineering over model complexity, and the critical role of stakeholder feedback in improving ML systems. Federico also offers a compelling perspective on why LLMs aren&#39;t always the answer in AI applications, emphasizing the need for tailored solutions. This conversation provides a wealth of practical knowledge for data scientists and ML engineers looking to enhance their understanding of real-world ML operations and challenges in e-commerce.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction and Background
+01:59 Owning the ML Pipeline
+02:56 Deployment Process
+05:58 Testing and Feedback
+07:40 Different Deployment Strategies
+11:19 Explainability and Feature Importance
+13:46 Challenges in Forecasting
+22:33 ML Stack and Tools
+26:47 Orchestrating Data Pipelines with Airflow
+31:27 Exciting Developments in ML
+35:58 Recommendations and Closing 
+
+Links
+Dwarkesh podcast with Anthropic and Gemini team members – https://www.dwarkeshpatel.com/p/sholto-douglas-trenton-bricken
+
+➡️ Federico Bacci on LinkedIn – https://www.linkedin.com/in/federico-bacci/
+➡️ Federico Bacci on Twitter – https://x.com/fedebyes
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://x.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://x.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Data-Driven-Decisions-ML-in-E-Commerce-Forecasting-with-Federico-Bacci-e2n22ud</link>
+			<guid isPermaLink="false">41f985fb-05d8-4693-a7c0-24f437ebeb6c</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Thu, 15 Aug 2024 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/90294669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-11%2F384597867-44100-2-a272afa6a501c.mp3" length="38024671" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Dean speaks with Federico Bacci, a data scientist and ML engineer at Bol, the largest e-commerce company in the Netherlands and Belgium. Federico shares valuable insights into the intricacies of deploying machine learning models in production, particularly for forecasting problems. He discusses the challenges of model explainability, the importance of feature engineering over model complexity, and the critical role of stakeholder feedback in improving ML systems. Federico also offers a compelling perspective on why LLMs aren&amp;#39;t always the answer in AI applications, emphasizing the need for tailored solutions. This conversation provides a wealth of practical knowledge for data scientists and ML engineers looking to enhance their understanding of real-world ML operations and challenges in e-commerce.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction and Background
+01:59 Owning the ML Pipeline
+02:56 Deployment Process
+05:58 Testing and Feedback
+07:40 Different Deployment Strategies
+11:19 Explainability and Feature Importance
+13:46 Challenges in Forecasting
+22:33 ML Stack and Tools
+26:47 Orchestrating Data Pipelines with Airflow
+31:27 Exciting Developments in ML
+35:58 Recommendations and Closing 
+
+Links
+Dwarkesh podcast with Anthropic and Gemini team members – https://www.dwarkeshpatel.com/p/sholto-douglas-trenton-bricken
+
+➡️ Federico Bacci on LinkedIn – https://www.linkedin.com/in/federico-bacci/
+➡️ Federico Bacci on Twitter – https://x.com/fedebyes
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://x.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://x.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1723363422114-8afbc2e7f146b.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🚗 Driving Innovation: Machine Learning in Auto Claims Processing]]></title>
+			<description><![CDATA[<p>In this episode, Dean speaks with Michał Oleszak, an ML engineering manager at Solera. Michał shares insights into how his team is using machine learning to transform the automotive claims process, from recognizing vehicle damages in images to estimating repair costs. The conversation covers the challenges of deploying ML pipelines in production, managing data quality for computer vision tasks, and balancing technical implementation with business needs. Michał also discusses his approach to model evaluation, the benefits of monorepo architecture, and his views on exciting developments in self-supervised learning for computer vision.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction
+00:42 Production for Machine Learning at Solera
+03:49 Transitioning from Images to Structured Data
+04:58 Combining Deep Learning and Non-Deep Learning Models
+05:15 Deployment Process for Machine Learning Models
+08:01 Challenges and Solutions in Monorepo Adoption
+12:57 Evaluating Model and Pipeline Versions
+21:57 Tools for ML Projects: Monorepo, Pants, GitHub Actions
+24:04 Data Management and Data Quality
+30:14 Challenges in ML Efforts: Data Quality
+30:37 Excitement about Self-Supervised Learning and JEPA Architectures
+34:45 Controversial Opinion: Importance of Statistics for ML
+36:40 Recommendations
+
+
+Links
+🌎Prisoners of Geography by Tim Marshall: https://www.amazon.com/Prisoners-Geography-Explain-Everything-Politics/dp/1501121472
+
+➡️ Michał Oleszak on LinkedIn – https://www.linkedin.com/in/michal-oleszak/
+➡️ Michał Oleszak on Twitter – https://x.com/MichalOleszak
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Driving-Innovation-Machine-Learning-in-Auto-Claims-Processing-e2lo4vc</link>
+			<guid isPermaLink="false">fa003b16-daf4-43a9-9809-69b89ca5a08e</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 15 Jul 2024 16:14:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/88920492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-7%2F382621051-44100-2-8f5bbaadfb9e9.mp3" length="37855816" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Dean speaks with Michał Oleszak, an ML engineering manager at Solera. Michał shares insights into how his team is using machine learning to transform the automotive claims process, from recognizing vehicle damages in images to estimating repair costs. The conversation covers the challenges of deploying ML pipelines in production, managing data quality for computer vision tasks, and balancing technical implementation with business needs. Michał also discusses his approach to model evaluation, the benefits of monorepo architecture, and his views on exciting developments in self-supervised learning for computer vision.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction
+00:42 Production for Machine Learning at Solera
+03:49 Transitioning from Images to Structured Data
+04:58 Combining Deep Learning and Non-Deep Learning Models
+05:15 Deployment Process for Machine Learning Models
+08:01 Challenges and Solutions in Monorepo Adoption
+12:57 Evaluating Model and Pipeline Versions
+21:57 Tools for ML Projects: Monorepo, Pants, GitHub Actions
+24:04 Data Management and Data Quality
+30:14 Challenges in ML Efforts: Data Quality
+30:37 Excitement about Self-Supervised Learning and JEPA Architectures
+34:45 Controversial Opinion: Importance of Statistics for ML
+36:40 Recommendations
+
+
+Links
+🌎Prisoners of Geography by Tim Marshall: https://www.amazon.com/Prisoners-Geography-Explain-Everything-Politics/dp/1501121472
+
+➡️ Michał Oleszak on LinkedIn – https://www.linkedin.com/in/michal-oleszak/
+➡️ Michał Oleszak on Twitter – https://x.com/MichalOleszak
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1720333331767-89a3e4a48de8f.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🚑 ML in the Emergency Room with Ljubomir Buturovic]]></title>
+			<description><![CDATA[<p>In this episode, I chat with Ljubomir Buturovic, VP of ML and Informatics at Inflammatix. We discuss using ML to diagnose infections and blood tests in the emergency room. We dive into the challenges of building diagnostic (classification) and prognostic (predictive) modes, with takeaways related to building datasets for production use cases.
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 What is Inflammatix and how do they use ML7:32 Edge Device Deployment: The Future of Model Deployment21:16 Navigating Regulatory Submission for Medical Products 
+26:01 Evolution of Regulatory Processes in ML for Medical Applications30:18 Challenges and Solutions in ML for Medical Applications
+34:00 The Future of AI in Clinical Care40:25 The Overrated Concept of Interpretability in AI and ML45:32 Recommendations<strong>Links
+</strong>🌎📈 Our world in data: https://ourworldindata.org/ 🚀 Profiles of the future: https://www.amazon.com/Profiles-Future-Arthur-C-Clarke-ebook/dp/B00BY7GITK
+
+➡️ Ljubomir Buturovic on LinkedIn – https://www.linkedin.com/in/ljubomir-buturovic-798156/
+➡️ Ljubomir Buturovic on Twitter – https://x.com/ljbuturovic
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/ML-in-the-Emergency-Room-with-Ljubomir-Buturovic-e2keeum</link>
+			<guid isPermaLink="false">770d3484-ae93-47ca-bf54-dcb15b70bbeb</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 10 Jun 2024 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/87554454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-3%2F379593284-44100-2-25f173495c5b4.mp3" length="48431855" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, I chat with Ljubomir Buturovic, VP of ML and Informatics at Inflammatix. We discuss using ML to diagnose infections and blood tests in the emergency room. We dive into the challenges of building diagnostic (classification) and prognostic (predictive) modes, with takeaways related to building datasets for production use cases.
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 What is Inflammatix and how do they use ML7:32 Edge Device Deployment: The Future of Model Deployment21:16 Navigating Regulatory Submission for Medical Products 
+26:01 Evolution of Regulatory Processes in ML for Medical Applications30:18 Challenges and Solutions in ML for Medical Applications
+34:00 The Future of AI in Clinical Care40:25 The Overrated Concept of Interpretability in AI and ML45:32 Recommendations&lt;strong&gt;Links
+&lt;/strong&gt;🌎📈 Our world in data: https://ourworldindata.org/ 🚀 Profiles of the future: https://www.amazon.com/Profiles-Future-Arthur-C-Clarke-ebook/dp/B00BY7GITK
+
+➡️ Ljubomir Buturovic on LinkedIn – https://www.linkedin.com/in/ljubomir-buturovic-798156/
+➡️ Ljubomir Buturovic on Twitter – https://x.com/ljbuturovic
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1717420185562-7c625d71ab8be.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🌊 AI-Native with Idan Gazit – The future of AI products and interfaces + Getting AI to production]]></title>
+			<description><![CDATA[<p>In this episode, Idan Gazit, Senior Director of Research at GitHub Next, discusses his role in exploring strategic technologies and incubating long bet projects. He explains how the GitHub Next team chooses research projects and the process of exploration and theme selection. Idan also shares insights into the ML focus at GitHub Next and the challenges of evaluating the impact of AI products. He reflects on his journey into the AI space and provides advice for testing AI products in smaller organizations. Finally, he shares his thoughts on the future of AI interfaces.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction and Background
+00:56 Choosing Research Projects at GitHub Next
+06:09 ML Focus in GitHub Next
+10:52 ML Work and the Leaky Abstraction
+13:16 Idan&#39;s Journey into the AI Space
+17:54 Evaluating the Impact of AI Products
+24:36 Testing AI Products in Smaller Organizations
+32:52 The Future of AI Interfaces
+40:01 Transitioning from Prototype to Product
+46:45 Challenges in the ML/AI Space
+56:03 Recommendations
+
+➡️ Idan Gazit on LinkedIn – https://www.linkedin.com/in/idangazit/
+➡️ Idan Gazit on Twitter – https://twitter.com/idangazit
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/AI-Native-with-Idan-Gazit--The-future-of-AI-products-and-interfaces--Getting-AI-to-production-e2jm6jf</link>
+			<guid isPermaLink="false">2078f62f-bfc0-4c11-bac1-2bcd801efa58</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Thu, 16 May 2024 12:58:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/86759471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377658953-44100-2-be857d11bc828.mp3" length="60421850" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Idan Gazit, Senior Director of Research at GitHub Next, discusses his role in exploring strategic technologies and incubating long bet projects. He explains how the GitHub Next team chooses research projects and the process of exploration and theme selection. Idan also shares insights into the ML focus at GitHub Next and the challenges of evaluating the impact of AI products. He reflects on his journey into the AI space and provides advice for testing AI products in smaller organizations. Finally, he shares his thoughts on the future of AI interfaces.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction and Background
+00:56 Choosing Research Projects at GitHub Next
+06:09 ML Focus in GitHub Next
+10:52 ML Work and the Leaky Abstraction
+13:16 Idan&amp;#39;s Journey into the AI Space
+17:54 Evaluating the Impact of AI Products
+24:36 Testing AI Products in Smaller Organizations
+32:52 The Future of AI Interfaces
+40:01 Transitioning from Prototype to Product
+46:45 Challenges in the ML/AI Space
+56:03 Recommendations
+
+➡️ Idan Gazit on LinkedIn – https://www.linkedin.com/in/idangazit/
+➡️ Idan Gazit on Twitter – https://twitter.com/idangazit
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:02:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1715757494974-a6f945843c704.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🍪 Machine Learning in the cookie-less era with Uri Goren]]></title>
+			<description><![CDATA[<p>In this episode, I chatted with Uri Goren, founder and CEO of Argmax, about Machine Learning and the future of digital advertising in a world moving away from cookies due to privacy laws like GDPR and CCPA. We chat about challenges in maintaining personalized ads while respecting user privacy, and new methods like probabilistic models and contextual features to cover some of the gap left by removing cookies.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction
+00:35 The Rise of Privacy Regulations
+1:40 The Impact of Losing Cookies 
+2:48 Understanding Cookies
+4:33 Reasons for the Decline of Cookies
+8:47 ML Leveraging Cookies in Advertising
+10:32 The Shift to Contextual Features
+12:53 The Future of ML without Cookies
+15:23 New and Old Ways of Generating Contextual Features
+20:33 Regulatory Conspiracies
+22:33 Unsolved Problems in ML and AI
+24:39 Predictions for the Next Year in AI and ML
+26:17 Controversial Take: Overuse of LLMs
+28:03 Recommendations
+
+➡️ Uri Goren on LinkedIn – https://www.linkedin.com/in/ugoren/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Machine-Learning-in-the-cookie-less-era-with-Uri-Goren-e2i8m21</link>
+			<guid isPermaLink="false">b4a0cbf1-48af-49b3-98c1-e54be7a366d2</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Thu, 18 Apr 2024 15:09:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/85267969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F373941009-44100-2-1c01a811f5faa.mp3" length="31484446" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, I chatted with Uri Goren, founder and CEO of Argmax, about Machine Learning and the future of digital advertising in a world moving away from cookies due to privacy laws like GDPR and CCPA. We chat about challenges in maintaining personalized ads while respecting user privacy, and new methods like probabilistic models and contextual features to cover some of the gap left by removing cookies.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction
+00:35 The Rise of Privacy Regulations
+1:40 The Impact of Losing Cookies 
+2:48 Understanding Cookies
+4:33 Reasons for the Decline of Cookies
+8:47 ML Leveraging Cookies in Advertising
+10:32 The Shift to Contextual Features
+12:53 The Future of ML without Cookies
+15:23 New and Old Ways of Generating Contextual Features
+20:33 Regulatory Conspiracies
+22:33 Unsolved Problems in ML and AI
+24:39 Predictions for the Next Year in AI and ML
+26:17 Controversial Take: Overuse of LLMs
+28:03 Recommendations
+
+➡️ Uri Goren on LinkedIn – https://www.linkedin.com/in/ugoren/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:32:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1712817057715-0460a0fdacd08.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🛰️ Modern & Realistic MLOps with Han-chung Lee]]></title>
+			<description><![CDATA[<p>In this episode, I speak with Han-Chung Lee, a machine learning engineer with a lot of interesting takes on ML and AI. We dive into the buzz around natural language processing and the big waves in generative AI. They chat about how newcomers are racing through NLP’s history, mixing old school and new tech, and the shift towards smarter databases. Han-Chung breaks it down with his straightforward takes, making complex AI trends feel like coffee chat topics. It’s a perfect listen for anyone keen on where AI’s headed, minus the jargon.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Intro
+0:41 State of NLP and LLMs
+1:33 Repeating the past in NLP
+3:29 Vector databases vs. classical databases
+8:49 Choosing the right LLM for an application
+12:13 Advantages and disadvantages of LLMs
+16:10 Where LLMs are most useful
+21:13 The dark side of LLMs and can we detect it?
+25:19 Thoughts on LLM leaderboard metrics
+31:19 Using LLMs in regulated industries
+36:40 Creating a moat in the LLM world
+40:20 Evaluating LLMs
+44:20 Impact of LLM on non-english languages
+48:35 Thoughts on MLOps and getting ML into production
+56:48 The Hardest Unsolved Problem in ML and AI
+59:09 Predictions for the Future of ML and AI
+1:03:25 Recommendations and Conclusion
+
+➡️ Han Lee on Twitter – https://twitter.com/HanchungLee
+➡️ Han Lee on LinkedIn – https://www.linkedin.com/in/hanchunglee/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Modern--Realistic-MLOps-with-Han-chung-Lee-e2h69lk</link>
+			<guid isPermaLink="false">679f5e51-b0f0-4186-8176-b85371f22b7b</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 18 Mar 2024 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/84141172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-17%2F371192229-44100-2-7a2f727f19b1f.mp3" length="63086758" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, I speak with Han-Chung Lee, a machine learning engineer with a lot of interesting takes on ML and AI. We dive into the buzz around natural language processing and the big waves in generative AI. They chat about how newcomers are racing through NLP’s history, mixing old school and new tech, and the shift towards smarter databases. Han-Chung breaks it down with his straightforward takes, making complex AI trends feel like coffee chat topics. It’s a perfect listen for anyone keen on where AI’s headed, minus the jargon.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Intro
+0:41 State of NLP and LLMs
+1:33 Repeating the past in NLP
+3:29 Vector databases vs. classical databases
+8:49 Choosing the right LLM for an application
+12:13 Advantages and disadvantages of LLMs
+16:10 Where LLMs are most useful
+21:13 The dark side of LLMs and can we detect it?
+25:19 Thoughts on LLM leaderboard metrics
+31:19 Using LLMs in regulated industries
+36:40 Creating a moat in the LLM world
+40:20 Evaluating LLMs
+44:20 Impact of LLM on non-english languages
+48:35 Thoughts on MLOps and getting ML into production
+56:48 The Hardest Unsolved Problem in ML and AI
+59:09 Predictions for the Future of ML and AI
+1:03:25 Recommendations and Conclusion
+
+➡️ Han Lee on Twitter – https://twitter.com/HanchungLee
+➡️ Han Lee on LinkedIn – https://www.linkedin.com/in/hanchunglee/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:05:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1710660345011-ebbd87c384d24.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🩻 AI in Medical Devices & Medicine with Mila Orlovsky]]></title>
+			<description><![CDATA[<p>In this episode, I had the pleasure of speaking with Mila Orlovsky, a pioneer in medical AI. We delve into practical applications, overcoming data challenges, and the intricacies of developing AI tools that meet regulatory standards. Mila discusses her experiences with predictive analytics in patient care, offering tips on navigating the complexities of AI implementation in medical environments. This episode is packed with actionable advice and forward-thinking strategies, making it essential listening for professionals looking to impact healthcare through AI.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction and Background
+4:03 Early Days of Machine Learning in Medicine 
+5:19 Challenges in Building Medical AI Systems
+6:54 Differences Between Medical ML and Other ML Domains
+15:36 Unique Challenges of Medical Data in ML 
+24:01 Counterintuitive Learnings on the Business Side
+28:07 Impact and Value of ML Models in Medicine
+29:41 The Role of Doctors in the Age of AI
+38:44 Explainability in Medical ML
+44:31 The FDA and Compliance in Medical ML
+48:56 Feedback and Iteration in Medical ML 
+52:25 Predictions for the Future of ML and AI
+53:59 Controversial Predictions in the Field of ML
+56:02 Recommendations
+57:58 Conclusion
+
+➡️ Mila Orlovsky on LinkedIn – https://www.linkedin.com/in/milaorlovsky/
+🩺MeDS – Medical Data Science Israel Community – https://www.facebook.com/groups/452832939966464/
+
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/AI-in-Medical-Devices--Medicine-with-Mila-Orlovsky-e2fberf</link>
+			<guid isPermaLink="false">da9a6291-d095-4717-8d83-26d6427f4485</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Thu, 15 Feb 2024 12:04:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/82213167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-4%2F366192942-44100-2-501b6e70d38bc.mp3" length="56453328" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, I had the pleasure of speaking with Mila Orlovsky, a pioneer in medical AI. We delve into practical applications, overcoming data challenges, and the intricacies of developing AI tools that meet regulatory standards. Mila discusses her experiences with predictive analytics in patient care, offering tips on navigating the complexities of AI implementation in medical environments. This episode is packed with actionable advice and forward-thinking strategies, making it essential listening for professionals looking to impact healthcare through AI.
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+---
+Timestamps:
+00:00 Introduction and Background
+4:03 Early Days of Machine Learning in Medicine 
+5:19 Challenges in Building Medical AI Systems
+6:54 Differences Between Medical ML and Other ML Domains
+15:36 Unique Challenges of Medical Data in ML 
+24:01 Counterintuitive Learnings on the Business Side
+28:07 Impact and Value of ML Models in Medicine
+29:41 The Role of Doctors in the Age of AI
+38:44 Explainability in Medical ML
+44:31 The FDA and Compliance in Medical ML
+48:56 Feedback and Iteration in Medical ML 
+52:25 Predictions for the Future of ML and AI
+53:59 Controversial Predictions in the Field of ML
+56:02 Recommendations
+57:58 Conclusion
+
+➡️ Mila Orlovsky on LinkedIn – https://www.linkedin.com/in/milaorlovsky/
+🩺MeDS – Medical Data Science Israel Community – https://www.facebook.com/groups/452832939966464/
+
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:58:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1708345687235-b68c2036679fa.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[⏪ Making LLMs Backwards Compatible with Jason Liu]]></title>
+			<description><![CDATA[<p>In this episode, I had the pleasure of speaking with Jason Liu, an applied AI consultant and the creator of Instructor – an open-source tool for extracting structured data from LLM outputs. We chat about LLM applications, their challenges, and how to overcome them. We also dive into Instructor, making LLMs interact with existing systems and a bunch of other cool things. 
+
+Join our Discord community: <a href="https://discord.gg/tEYvqxwhah " target="_blank" rel="noopener noreferer">https://discord.gg/tEYvqxwhah </a>
+
+
+➡️ Jason Liu on Twitter – <a href="https://twitter.com/jxnlco" target="_blank" rel="noopener noreferer">https://twitter.com/jxnlco</a>
+🤖 Instructor Blog – <a href="https://jxnl.github.io/instructor/" target="_blank" rel="noopener noreferer">https://jxnl.github.io/instructor/</a>
+
+🌐 Check Out Our Website! <a href="https://dagshub.com " target="_blank" rel="noopener noreferer">https://dagshub.com </a>
+
+Social Links: 
+➡️ LinkedIn: <a href="https://www.linkedin.com/company/dagshub " target="_blank" rel="noopener noreferer">https://www.linkedin.com/company/dagshub </a>
+➡️ Twitter: <a href="https://twitter.com/TheRealDAGsHub " target="_blank" rel="noopener noreferer">https://twitter.com/TheRealDAGsHub </a>
+➡️ Dean Pleban: <a href="https://twitter.com/DeanPlbn" target="_blank" rel="noopener noreferer">https://twitter.com/DeanPlbn</a></p>
+<p>
+Timestamps:
+00:00 Introduction
+02:18 Excitement about Machine Learning and AI
+03:28 Using LLMs as Backend Developers
+04:22 Building Applications with LLMs
+07:07 Building Instructor
+09:30 Thinking in Logic and Design
+10:33 Validating Data and Building Systems with Instructor
+11:49 Thoughts About Product and UX in LLMs
+17:51 Future of Instructor
+20:25 Misconceptions and Unsolved Problems in LLMs
+24:57 Improving LLM Applications
+26:14 RAG as Recommendation Systems
+29:32 Fine-tuning Embedding Models
+32:32 Beyond Vector Similarity in RAG
+39:32 Predictions for the Next Year in AI and ML
+45:26 Measuring Impact on Business Outcomes
+47:06 The Continuous Cycle of Machine Learning
+48:38 Unlocking Economic Value through Structured Data Extraction
+50:52 Questioning the Status Quo and Making an Impact
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Making-LLMs-Backwards-Compatible-with-Jason-Liu-e2e5c1n</link>
+			<guid isPermaLink="false">2d2b8726-8f7f-47c6-8ec9-7a40625d1ae2</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 15 Jan 2024 14:15:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/80965111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-8%2F4caac380-fda3-3dbd-a29c-feb0fb487b46.mp3" length="51546488" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, I had the pleasure of speaking with Jason Liu, an applied AI consultant and the creator of Instructor – an open-source tool for extracting structured data from LLM outputs. We chat about LLM applications, their challenges, and how to overcome them. We also dive into Instructor, making LLMs interact with existing systems and a bunch of other cool things. 
+
+Join our Discord community: &lt;a href=&quot;https://discord.gg/tEYvqxwhah &quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://discord.gg/tEYvqxwhah &lt;/a&gt;
+
+
+➡️ Jason Liu on Twitter – &lt;a href=&quot;https://twitter.com/jxnlco&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://twitter.com/jxnlco&lt;/a&gt;
+🤖 Instructor Blog – &lt;a href=&quot;https://jxnl.github.io/instructor/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://jxnl.github.io/instructor/&lt;/a&gt;
+
+🌐 Check Out Our Website! &lt;a href=&quot;https://dagshub.com &quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://dagshub.com &lt;/a&gt;
+
+Social Links: 
+➡️ LinkedIn: &lt;a href=&quot;https://www.linkedin.com/company/dagshub &quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.linkedin.com/company/dagshub &lt;/a&gt;
+➡️ Twitter: &lt;a href=&quot;https://twitter.com/TheRealDAGsHub &quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://twitter.com/TheRealDAGsHub &lt;/a&gt;
+➡️ Dean Pleban: &lt;a href=&quot;https://twitter.com/DeanPlbn&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://twitter.com/DeanPlbn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+Timestamps:
+00:00 Introduction
+02:18 Excitement about Machine Learning and AI
+03:28 Using LLMs as Backend Developers
+04:22 Building Applications with LLMs
+07:07 Building Instructor
+09:30 Thinking in Logic and Design
+10:33 Validating Data and Building Systems with Instructor
+11:49 Thoughts About Product and UX in LLMs
+17:51 Future of Instructor
+20:25 Misconceptions and Unsolved Problems in LLMs
+24:57 Improving LLM Applications
+26:14 RAG as Recommendation Systems
+29:32 Fine-tuning Embedding Models
+32:32 Beyond Vector Similarity in RAG
+39:32 Predictions for the Next Year in AI and ML
+45:26 Measuring Impact on Business Outcomes
+47:06 The Continuous Cycle of Machine Learning
+48:38 Unlocking Economic Value through Structured Data Extraction
+50:52 Questioning the Status Quo and Making an Impact
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:53:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1708345653872-e10ca72ffb693.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🔴 Live MLOps Podcast – Building, Deploying and Monitoring Large Language Models with Jinen Setpal]]></title>
+			<description><![CDATA[<p>In this live episode, I&#39;m speaking with Jinen Setpal, ML Engineer at DagsHub about actually building, deploying, and monitoring large language model applications.
+
+We discuss DPT, a chatbot project that is live in production on the DagsHub Discord server and helps answer support questions and the process and challenges involved in building it. We dive into evaluation methods, ways to reduce hallucinations and much more.
+
+We also answer the audience&#39;s great questions.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Live-MLOps-Podcast--Building--Deploying-and-Monitoring-Large-Language-Models-with-Jinen-Setpal-e2904oq</link>
+			<guid isPermaLink="false">85c393ad-b354-4c71-88de-cd9ecc8fd033</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Wed, 06 Sep 2023 14:45:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/75550938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-6%2F345951906-44100-2-fd8646eec03d8.m4a" length="69503239" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this live episode, I&amp;#39;m speaking with Jinen Setpal, ML Engineer at DagsHub about actually building, deploying, and monitoring large language model applications.
+
+We discuss DPT, a chatbot project that is live in production on the DagsHub Discord server and helps answer support questions and the process and challenges involved in building it. We dive into evaluation methods, ways to reduce hallucinations and much more.
+
+We also answer the audience&amp;#39;s great questions.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:11:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1694011535188-20eee24dd6d6b.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Live MLOps Podcast Episode!]]></title>
+			<description><![CDATA[<p>Join now to take part in our first live MLOps Podcast episode.</p>
+<p>I&#39;ll be chatting with Jinen Setpal, ML Engineer at DagsHub about his work building LLM applications and getting LLMs into production.</p>
+<p><br></p>
+<p>Sign up for the event at the link here:</p>
+<p>https://www.linkedin.com/events/7098968036782596096/comments/</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Live-MLOps-Podcast-Episode-e28k15j</link>
+			<guid isPermaLink="false">83173d45-5a11-4bc0-b8df-34884518de31</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 28 Aug 2023 06:54:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/75154035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F75154035%2Ff558a9ca63d646868eac8239e9c44e69.m4a" length="469335" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Join now to take part in our first live MLOps Podcast episode.&lt;/p&gt;
+&lt;p&gt;I&amp;#39;ll be chatting with Jinen Setpal, ML Engineer at DagsHub about his work building LLM applications and getting LLMs into production.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Sign up for the event at the link here:&lt;/p&gt;
+&lt;p&gt;https://www.linkedin.com/events/7098968036782596096/comments/&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:00:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14798779/14798779-1707741979584-dcaee57e3fb99.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[⛹️‍♂️ Large Scale Video ML at WSC Sports with Yuval Gabay]]></title>
+			<description><![CDATA[<p><br></p>
+<p>In this episode, I had the pleasure of speaking with Yuval Gabay, MLOps Engineer at WSC Sports. Yuval builds better infrastructure and automation for developing, training, and deploying machine learning models at scale, with a focus on video data. We talk about MLOps methodologies, standardizing deployment in the organization, and closing the loop back from production into training.</p>
+<p><br></p>
+<p>Watch the video: https://youtu.be/3m__nRuifsQ
+
+Join our Discord community: https://discord.gg/tEYvqxwhah </p>
+<p>
+➡️ Yuval Gabbay on LinkedIn – https://www.linkedin.com/in/yuval-gabay-68963253/
+➡️ WSC Sports – https://wsc-sports.com/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Large-Scale-Video-ML-at-WSC-Sports-with-Yuval-Gabay-e27ilt2</link>
+			<guid isPermaLink="false">f11e900a-3965-488a-a9c2-768a15f1d58d</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 07 Aug 2023 11:25:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/74061154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F74061154%2Fd341d1bde67b9836fee6561cbd981182.m4a" length="60312796" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In this episode, I had the pleasure of speaking with Yuval Gabay, MLOps Engineer at WSC Sports. Yuval builds better infrastructure and automation for developing, training, and deploying machine learning models at scale, with a focus on video data. We talk about MLOps methodologies, standardizing deployment in the organization, and closing the loop back from production into training.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video: https://youtu.be/3m__nRuifsQ
+
+Join our Discord community: https://discord.gg/tEYvqxwhah &lt;/p&gt;
+&lt;p&gt;
+➡️ Yuval Gabbay on LinkedIn – https://www.linkedin.com/in/yuval-gabay-68963253/
+➡️ WSC Sports – https://wsc-sports.com/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:02:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1690792901084-38ad4db2a4d05.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🤖 GPTs & Large Language Models in production with Hamel Husain]]></title>
+			<description><![CDATA[<p>In this episode, I had the pleasure of speaking with Hamel Husain. Hamel is a machine learning and MLOps extraordinaire, he was one of the core maintainers of Fast.ai and has worked on ML and MLOps in places like Data Robot, Airbnb, and GitHub. We talk about Large Language Models, the future role of data scientists in the world of LLMs, and Hamel&#39;s approach to solving MLOps problems.
+
+Watch the video: https://www.youtube.com/watch?v=3oElMXPkaVs
+
+Relevant Links: 
+🐦 Hamel&#39;s Twitter – https://twitter.com/HamelHusain
+🟦 Hamel&#39;s Linkedin – https://www.linkedin.com/in/hamelhusain/
+✍️ Hamel&#39;s amazing blog: https://hamel.dev/blog/posts/nbdev/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/GPTs--Large-Language-Models-in-production-with-Hamel-Husain-e25omam</link>
+			<guid isPermaLink="false">63a4cbd4-b296-4d64-ba06-0812c0bf79ea</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Tue, 20 Jun 2023 12:06:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/72161046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F72161046%2Fc0c22264bbe4f98ead376bda69805cdb.m4a" length="63778856" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I had the pleasure of speaking with Hamel Husain. Hamel is a machine learning and MLOps extraordinaire, he was one of the core maintainers of Fast.ai and has worked on ML and MLOps in places like Data Robot, Airbnb, and GitHub. We talk about Large Language Models, the future role of data scientists in the world of LLMs, and Hamel&amp;#39;s approach to solving MLOps problems.
+
+Watch the video: https://www.youtube.com/watch?v=3oElMXPkaVs
+
+Relevant Links: 
+🐦 Hamel&amp;#39;s Twitter – https://twitter.com/HamelHusain
+🟦 Hamel&amp;#39;s Linkedin – https://www.linkedin.com/in/hamelhusain/
+✍️ Hamel&amp;#39;s amazing blog: https://hamel.dev/blog/posts/nbdev/
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:05:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1686819575616-1de44065a1a7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🫣 Is Data Science a dying job? with Almog Baku]]></title>
+			<description><![CDATA[<p>
+In this episode, I had the pleasure of speaking with Almog Baku, a serial entrepreneur, consultant in Cloud, AI Infrastructure and Foundational models. We talk about Kubernetes, Large Language Models (LLMs), how to get them into production, and how data is becoming a more central piece of the ML landscape. We also Discuss Almog&#39;s newest project, Raptor ML, which helps ML teams productionize ML pipelines.</p>
+<p><br></p>
+<p>Watch the video: https://www.youtube.com/watch?v=DCApRXhXD_w&amp;feature=youtu.be
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+</p>
+<p>Relevant Links: 
+🦅 Check out Raptor for ML productionization – https://github.com/raptor-ml/raptor
+👫 Join the Open AI &amp; Gen AI TLV meetup group – https://www.meetup.com/openai-genai-tlv/
+📄 Read a very cool LLM paper – https://react-lm.github.io/
+
+➡️ Almog Baku on LinkedIn – https://www.linkedin.com/in/almogbaku/
+➡️ Almog Baku on Twitter – https://twitter.com/almogbaku
+
+Recommendation Links:
+Watch &quot;Foundation&quot; – https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Is-Data-Science-a-dying-job--with-Almog-Baku-e24i558</link>
+			<guid isPermaLink="false">7c84c491-227e-47dc-aa18-1ad2234f84b1</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Tue, 23 May 2023 13:31:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/70898280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F70898280%2Fcf962aff5d262e166fd3de35a1cca84c.m4a" length="54480682" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;
+In this episode, I had the pleasure of speaking with Almog Baku, a serial entrepreneur, consultant in Cloud, AI Infrastructure and Foundational models. We talk about Kubernetes, Large Language Models (LLMs), how to get them into production, and how data is becoming a more central piece of the ML landscape. We also Discuss Almog&amp;#39;s newest project, Raptor ML, which helps ML teams productionize ML pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video: https://www.youtube.com/watch?v=DCApRXhXD_w&amp;amp;feature=youtu.be
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+&lt;/p&gt;
+&lt;p&gt;Relevant Links: 
+🦅 Check out Raptor for ML productionization – https://github.com/raptor-ml/raptor
+👫 Join the Open AI &amp;amp; Gen AI TLV meetup group – https://www.meetup.com/openai-genai-tlv/
+📄 Read a very cool LLM paper – https://react-lm.github.io/
+
+➡️ Almog Baku on LinkedIn – https://www.linkedin.com/in/almogbaku/
+➡️ Almog Baku on Twitter – https://twitter.com/almogbaku
+
+Recommendation Links:
+Watch &amp;quot;Foundation&amp;quot; – https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:56:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1684848331593-85f309af15402.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🏃‍♀️Moving Fast and Breaking Data with Shreya Shankar]]></title>
+			<description><![CDATA[<p>
+In this episode, I had the pleasure of speaking with Shreya Shankar, Ph.D. student at Berkeley RISELab. We chat about auto data validation and MLOps. Shreya shares her insights on several interesting topics, including the challenges of automating the data validation process and how to overcome them. We also discuss what makes organizations able to iterate faster in machine learning, and some predictions about the future of machine learning and MLOps.</p>
+<p><br></p>
+<p>Watch the video: https://youtu.be/_hi6--H2Hug
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+
+Relevant Links: 
+📃 Moving Fast with Broken Data – https://arxiv.org/abs/2303.06094v1
+🤖 Operationalizing machine learning https://arxiv.org/pdf/2209.09125.pdf 
+📒 Operationalizing notebooks https://smacke.net/papers/nbslicer.pdf 
+
+➡️ Shreya Shankar on LinkedIn – https://www.linkedin.com/in/shrshnk/ 
+➡️ Shreya Shankar on Twitter – https://twitter.com/sh_reya
+
+Recommendation Links:
+📺 The Glory – A Korean Revenge Drama – https://www.netflix.com/title/81519223
+⛷️ Go Skiing!
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Moving-Fast-and-Breaking-Data-with-Shreya-Shankar-e2181ad</link>
+			<guid isPermaLink="false">e3b279d0-ea6f-41b2-9a15-97889a87e09f</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Thu, 30 Mar 2023 14:03:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/67420941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F67420941%2F3d5c7d845eae14b6b75541a692e75043.m4a" length="55254431" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;
+In this episode, I had the pleasure of speaking with Shreya Shankar, Ph.D. student at Berkeley RISELab. We chat about auto data validation and MLOps. Shreya shares her insights on several interesting topics, including the challenges of automating the data validation process and how to overcome them. We also discuss what makes organizations able to iterate faster in machine learning, and some predictions about the future of machine learning and MLOps.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video: https://youtu.be/_hi6--H2Hug
+
+Join our Discord community: https://discord.gg/tEYvqxwhah 
+
+
+Relevant Links: 
+📃 Moving Fast with Broken Data – https://arxiv.org/abs/2303.06094v1
+🤖 Operationalizing machine learning https://arxiv.org/pdf/2209.09125.pdf 
+📒 Operationalizing notebooks https://smacke.net/papers/nbslicer.pdf 
+
+➡️ Shreya Shankar on LinkedIn – https://www.linkedin.com/in/shrshnk/ 
+➡️ Shreya Shankar on Twitter – https://twitter.com/sh_reya
+
+Recommendation Links:
+📺 The Glory – A Korean Revenge Drama – https://www.netflix.com/title/81519223
+⛷️ Go Skiing!
+
+🌐 Check Out Our Website! https://dagshub.com 
+
+Social Links: 
+➡️ LinkedIn: https://www.linkedin.com/company/dagshub 
+➡️ Twitter: https://twitter.com/TheRealDAGsHub 
+➡️ Dean Pleban: https://twitter.com/DeanPlbn
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:56:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14798779/14798779-1679937491561-b99e1ffd18358.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🚴‍♀️ Quick & Dirty Machine Learning with Noa Weiss]]></title>
+			<description><![CDATA[<p>In this episode, Dean speaks with Noa Weiss, the wonderful AI &amp; ML consultant. They dive into Deep Learning research for marine mammal sounds, abstractions for machine learning projects and some of the unspoken challenges she's seen in the ML development process. Also prediction markets and Harry Potter.&nbsp;</p>
+<p><br></p>
+<p>Watch the video: https://www.youtube.com/watch?v=uQrR0KPq3RQ</p>
+<p>&nbsp;Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p><br></p>
+<p>&nbsp;Relevant Links: &nbsp;</p>
+<p>Noa's talks:&nbsp;</p>
+<p>🎥 The Quick &amp; Dirty AI Startup: https://www.youtube.com/watch?v=HZ_LRxP3ep0</p>
+<p>🎥 Choosing the Right Machine Learning Abstraction for your Business Needs – https://www.youtube.com/watch?v=C0gN47H91HM&nbsp;</p>
+<p><br></p>
+<p>➡️ Noa Weiss on LinkedIn – https://www.linkedin.com/in/noa-weiss/</p>
+<p>➡️ Noa Weiss on Twitter – https://twitter.com/NWeiss &nbsp;</p>
+<p>🌐 Noa's website: https://www.weissnoa.com&nbsp;</p>
+<p><br></p>
+<p>Recommendation Links:&nbsp;</p>
+<p>- Unsong – https://unsongbook.com/</p>
+<p>- Harry Potter &amp; The Methods of Rationality – https://www.hpmor.com/&nbsp;</p>
+<p><br></p>
+<p>🌐 Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p><br></p>
+<p>Social Links: &nbsp;</p>
+<p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub &nbsp;</p>
+<p>➡️ Twitter: https://twitter.com/TheRealDAGsHub &nbsp;</p>
+<p>➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Quick--Dirty-Machine-Learning-with-Noa-Weiss-e1v8et1</link>
+			<guid isPermaLink="false">c485d95f-c06a-476d-9f15-2e7d900882ac</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Tue, 21 Feb 2023 13:04:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/65337697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F65337697%2F637733692ae47f40cf4c78dc361db1bc.m4a" length="48750652" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, Dean speaks with Noa Weiss, the wonderful AI &amp;amp; ML consultant. They dive into Deep Learning research for marine mammal sounds, abstractions for machine learning projects and some of the unspoken challenges she&apos;s seen in the ML development process. Also prediction markets and Harry Potter.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video: https://www.youtube.com/watch?v=uQrR0KPq3RQ&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Relevant Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Noa&apos;s talks:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🎥 The Quick &amp;amp; Dirty AI Startup: https://www.youtube.com/watch?v=HZ_LRxP3ep0&lt;/p&gt;
+&lt;p&gt;🎥 Choosing the Right Machine Learning Abstraction for your Business Needs – https://www.youtube.com/watch?v=C0gN47H91HM&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;➡️ Noa Weiss on LinkedIn – https://www.linkedin.com/in/noa-weiss/&lt;/p&gt;
+&lt;p&gt;➡️ Noa Weiss on Twitter – https://twitter.com/NWeiss &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🌐 Noa&apos;s website: https://www.weissnoa.com&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Recommendation Links:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Unsong – https://unsongbook.com/&lt;/p&gt;
+&lt;p&gt;- Harry Potter &amp;amp; The Methods of Rationality – https://www.hpmor.com/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Social Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1676896291065-43c5138151167.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[✍️ Building ML Teams and Platforms with Assaf Pinhasi]]></title>
+			<description><![CDATA[<p>In this episode, I speak with Assaf Pinhasi, ML engineering and MLOps consultant extraordinaire! Assaf was the VP R&amp;D at Zebra Medical Vision, and built the PayPal Risk organization's Big Data Platform. We dive into building ML infrastructure from scratch 10 years ago vs. today, best practices involved in building teams to support machine learning models in production, and the future of generative models. &nbsp;</p>
+<p><br></p>
+<p>Watch the video: https://youtu.be/tSbuDA5tMxQ</p>
+<p><br></p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p><br></p>
+<p>➡️ Assaf Pinhasi on LinkedIn – https://www.linkedin.com/in/assafpinhasi/&nbsp;</p>
+<p>🌐 Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p><br></p>
+<p>Social Links: &nbsp;</p>
+<p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub &nbsp;</p>
+<p>➡️ Twitter: https://twitter.com/TheRealDAGsHub &nbsp;</p>
+<p>➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Building-ML-Teams-and-Platforms-with-Assaf-Pinhasi-e1tmuda</link>
+			<guid isPermaLink="false">a096c69d-14ad-4d17-927d-ac156a823b2f</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 23 Jan 2023 16:49:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/63715178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F63715178%2F40334ca65c5b9368d1be7bd0ce135feb.m4a" length="75872561" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I speak with Assaf Pinhasi, ML engineering and MLOps consultant extraordinaire! Assaf was the VP R&amp;amp;D at Zebra Medical Vision, and built the PayPal Risk organization&apos;s Big Data Platform. We dive into building ML infrastructure from scratch 10 years ago vs. today, best practices involved in building teams to support machine learning models in production, and the future of generative models. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video: https://youtu.be/tSbuDA5tMxQ&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;➡️ Assaf Pinhasi on LinkedIn – https://www.linkedin.com/in/assafpinhasi/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Social Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:18:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1674117927436-9de80cdcfea71.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🎨 Stable Diffusion and generative models with David Marx]]></title>
+			<description><![CDATA[<p>In this episode, I speak with David Marx, Distinguished Engineer at Stability AI. This talk dives into how David got into machine learning, open-source software, and Stability AI. &nbsp;&nbsp;We discuss following your curiosity, and what it takes to deploy a model like Stable Diffusion to production. &nbsp;</p>
+<p><br></p>
+<p>Watch the video: https://youtu.be/49dsoDK1KCA</p>
+<p><br></p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p><br></p>
+<p>Relevant Links: &nbsp;</p>
+<p>🛌 Big Sleep by Ryan Murdock – https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing (Author – https://sigmoid.social/@Adverb) &nbsp;</p>
+<p><br></p>
+<p>➡️ David Marx on LinkedIn – https://www.linkedin.com/in/david-marx-b0a5bb14/</p>
+<p>➡️ David Marx on Twitter – https://twitter.com/DigThatData&nbsp;</p>
+<p><br></p>
+<p>Recommendation Links:&nbsp;</p>
+<p>📚 Guerrilla Analytics – https://guerrilla-analytics.net/</p>
+<p>💿 Contribute to open source!&nbsp;</p>
+<p>🧱 Build lego! It's awesome &nbsp;</p>
+<p><br></p>
+<p>🌐 Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p><br></p>
+<p>Social Links: &nbsp;</p>
+<p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub &nbsp;</p>
+<p>➡️ Twitter: https://twitter.com/TheRealDAGsHub &nbsp;</p>
+<p>➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Stable-Diffusion-and-generative-models-with-David-Marx-e1s494t</link>
+			<guid isPermaLink="false">2306473d-c58a-41a0-bde9-b06184b1dde2</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Thu, 19 Jan 2023 17:59:49 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/62055005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F62055005%2F82b2f09cd54f34f1225dc1445b5408ab.m4a" length="72097575" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I speak with David Marx, Distinguished Engineer at Stability AI. This talk dives into how David got into machine learning, open-source software, and Stability AI. &amp;nbsp;&amp;nbsp;We discuss following your curiosity, and what it takes to deploy a model like Stable Diffusion to production. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video: https://youtu.be/49dsoDK1KCA&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Relevant Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🛌 Big Sleep by Ryan Murdock – https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing (Author – https://sigmoid.social/@Adverb) &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;➡️ David Marx on LinkedIn – https://www.linkedin.com/in/david-marx-b0a5bb14/&lt;/p&gt;
+&lt;p&gt;➡️ David Marx on Twitter – https://twitter.com/DigThatData&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Recommendation Links:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;📚 Guerrilla Analytics – https://guerrilla-analytics.net/&lt;/p&gt;
+&lt;p&gt;💿 Contribute to open source!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🧱 Build lego! It&apos;s awesome &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Social Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:14:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1670831685905-2f6843b91607b.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🔴🟢🟣Julia Language in Production with Logan Kilpatrick]]></title>
+			<description><![CDATA[<p>In this episode, I speak with Logan Kilpatrick, Julia Language Developer Community Advocate. We talk about machine learning at NASA and how he discovered Julia as a student, the age-old Julia vs. Python debate, and how to get into a new scientific and technical field. &nbsp;It was absolutely awesome! Check it out. &nbsp;</p>
+<p><br></p>
+<p>Watch the video: https://www.youtube.com/watch?v=3kgRN8hJIro</p>
+<p><br></p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p><br></p>
+<p>Relevant Links: &nbsp;</p>
+<p>➡️ Logan Kilpatrick on LinkedIn – https://www.linkedin.com/in/logankilpatrick/</p>
+<p>➡️ Logan Kilpatrick on Twitter – https://twitter.com/OfficialLoganK</p>
+<p>➡️ Julia Language on Twitter – https://twitter.com/JuliaLanguage&nbsp;</p>
+<p><br></p>
+<p>Recommendation Links:&nbsp;</p>
+<p>📚 Three-Body Problem Series: https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032</p>
+<p>📹 13 Lives on IMDB: https://www.imdb.com/title/tt12262116/ &nbsp;&nbsp;</p>
+<p><br></p>
+<p>🌐 Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p><br></p>
+<p>Social Links: &nbsp;</p>
+<p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub &nbsp;</p>
+<p>➡️ Twitter: https://twitter.com/TheRealDAGsHub &nbsp;</p>
+<p>➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Julia-Language-in-Production-with-Logan-Kilpatrick-e1r1n95</link>
+			<guid isPermaLink="false">7aa22421-ea8b-4b79-a280-966d0f9d100c</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 21 Nov 2022 12:22:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/60922597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F60922597%2F92f95480aec12dd7a04ce1fb8ad12ab9.m4a" length="59254392" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I speak with Logan Kilpatrick, Julia Language Developer Community Advocate. We talk about machine learning at NASA and how he discovered Julia as a student, the age-old Julia vs. Python debate, and how to get into a new scientific and technical field. &amp;nbsp;It was absolutely awesome! Check it out. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video: https://www.youtube.com/watch?v=3kgRN8hJIro&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Relevant Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Logan Kilpatrick on LinkedIn – https://www.linkedin.com/in/logankilpatrick/&lt;/p&gt;
+&lt;p&gt;➡️ Logan Kilpatrick on Twitter – https://twitter.com/OfficialLoganK&lt;/p&gt;
+&lt;p&gt;➡️ Julia Language on Twitter – https://twitter.com/JuliaLanguage&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Recommendation Links:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;📚 Three-Body Problem Series: https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032&lt;/p&gt;
+&lt;p&gt;📹 13 Lives on IMDB: https://www.imdb.com/title/tt12262116/ &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Social Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:01:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1668931484529-6af6d7f5d3e7a.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🛠 Building tools for MLOps with Guy Smoilovsky]]></title>
+			<description><![CDATA[<p>In this episode, I speak with Guy Smoilovsky, my friend, Co-Founder, and the CTO of DagsHub. We talk about quantum computing and AGI, concrete approaches for automating ML deployment, and how DagsHub came to be. &nbsp;</p>
+<p><br></p>
+<p>Watch the video: https://www.youtube.com/watch?v=67dByhXPT5g</p>
+<p><br></p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah&nbsp;</p>
+<p><br></p>
+<p>Relevant Links: &nbsp;</p>
+<p>➡️ Guy Smoilovsky on LinkedIn – https://www.linkedin.com/in/guy-smoilovsky/</p>
+<p>➡️ Guy Smoilovsky on Twitter – https://twitter.com/Guy_T_Sky/</p>
+<p>TDD in machine learning – https://towardsdatascience.com/tdd-datascience-689c98492fcc&nbsp;</p>
+<p><br></p>
+<p>Recommendation Links:&nbsp;</p>
+<p>Astral Codex Ten – https://astralcodexten.substack.com/</p>
+<p>Don't Worry About the Vase –&nbsp;https://thezvi.wordpress.com/</p>
+<p>The Sandman – https://www.imdb.com/title/tt1751634/</p>
+<p>Lady Silver –&nbsp;https://www.ladysilverband.com/&nbsp;</p>
+<p><br></p>
+<p>🌐 Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p><br></p>
+<p>Social Links: &nbsp;</p>
+<p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub&nbsp;</p>
+<p>➡️ Twitter: https://twitter.com/TheRealDAGsHub &nbsp;</p>
+<p>➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Building-tools-for-MLOps-with-Guy-Smoilovsky-e1pb3c7</link>
+			<guid isPermaLink="false">9ac9172c-706a-46ed-a81c-fc004d917704</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Tue, 18 Oct 2022 11:01:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/59132743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F59132743%2F32fd205de77447b730339d8133aeb8b0.m4a" length="78533692" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I speak with Guy Smoilovsky, my friend, Co-Founder, and the CTO of DagsHub. We talk about quantum computing and AGI, concrete approaches for automating ML deployment, and how DagsHub came to be. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video: https://www.youtube.com/watch?v=67dByhXPT5g&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Relevant Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Guy Smoilovsky on LinkedIn – https://www.linkedin.com/in/guy-smoilovsky/&lt;/p&gt;
+&lt;p&gt;➡️ Guy Smoilovsky on Twitter – https://twitter.com/Guy_T_Sky/&lt;/p&gt;
+&lt;p&gt;TDD in machine learning – https://towardsdatascience.com/tdd-datascience-689c98492fcc&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Recommendation Links:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Astral Codex Ten – https://astralcodexten.substack.com/&lt;/p&gt;
+&lt;p&gt;Don&apos;t Worry About the Vase –&amp;nbsp;https://thezvi.wordpress.com/&lt;/p&gt;
+&lt;p&gt;The Sandman – https://www.imdb.com/title/tt1751634/&lt;/p&gt;
+&lt;p&gt;Lady Silver –&amp;nbsp;https://www.ladysilverband.com/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Social Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:20:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1665913634629-4773e2d9fe14f.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[📈 You Have Too Much Data with Dean Langsam]]></title>
+			<description><![CDATA[<p>In this episode, I speak with Dean Langsam, Data Scientist at SentinelOne and one of the organizers of PyData in Israel. We chat about imposter syndrome, the best field in machine learning, why XGBoost is the best model, and the fact that most organizations have too much data. &nbsp;It was fascinating for me, so I hope you enjoy it too. &nbsp;</p>
+<p><br></p>
+<p>🎬 Watch the video: https://www.youtube.com/watch?v=Akz_PpDdLlQ</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p><br></p>
+<p>Relevant Links:&nbsp;</p>
+<p>⭐️ Join PyData Tel Aviv: https://pydata.org/telaviv2022/ ⭐️</p>
+<p>➡️ Dean Langsam on LinkedIn – https://www.linkedin.com/in/deanla/</p>
+<p>➡️ Dean Langsam on Twitter – https://twitter.com/dean_la&nbsp;</p>
+<p><br></p>
+<p>Recommendation Links: &nbsp;</p>
+<p>🌐 Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p><br></p>
+<p>Social Links: &nbsp;</p>
+<p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub &nbsp;</p>
+<p>➡️ Twitter: https://twitter.com/TheRealDAGsHub &nbsp;</p>
+<p>➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/You-Have-Too-Much-Data-with-Dean-Langsam-e1nspp1</link>
+			<guid isPermaLink="false">511c0831-d5c2-4ce6-9657-bb61bc6af271</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Fri, 16 Sep 2022 12:00:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/57615585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F57615585%2F7d2b9913fcdb38b26db9f1c590a34bdc.m4a" length="68914187" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I speak with Dean Langsam, Data Scientist at SentinelOne and one of the organizers of PyData in Israel. We chat about imposter syndrome, the best field in machine learning, why XGBoost is the best model, and the fact that most organizations have too much data. &amp;nbsp;It was fascinating for me, so I hope you enjoy it too. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🎬 Watch the video: https://www.youtube.com/watch?v=Akz_PpDdLlQ&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Relevant Links:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;⭐️ Join PyData Tel Aviv: https://pydata.org/telaviv2022/ ⭐️&lt;/p&gt;
+&lt;p&gt;➡️ Dean Langsam on LinkedIn – https://www.linkedin.com/in/deanla/&lt;/p&gt;
+&lt;p&gt;➡️ Dean Langsam on Twitter – https://twitter.com/dean_la&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Recommendation Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Social Links: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:11:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1663250896299-67d2f7769cf5d.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🏗 Reasonable Scale MLOps with Jacopo Tagliabue]]></title>
+			<description><![CDATA[<p>In this episode, I had the pleasure of speaking with Jacopo Tagliabue, Director of AI at Coveo. We talk about Reasonable Scale MLOps, how to approach building your ML platform, and how quickly you might hit the limits of model deployment (hint: it's pretty surprising)</p>
+<p><br></p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p><br></p>
+<p>Relevant Links:</p>
+<p>➡️ Jacopo on LinkedIn – https://www.linkedin.com/in/jacopotagliabue/</p>
+<p>➡️ Jacopo on Twitter – https://twitter.com/jacopotagliabue</p>
+<p><br></p>
+<p>Recommendation Links:</p>
+<p>📺The Boys – https://www.imdb.com/title/tt1190634/</p>
+<p>📚Gödel, Escher, Bach –&nbsp;https://www.goodreads.com/book/show/24113.G_del_Escher_Bach</p>
+<p>📚The Three-Body Problem – https://www.goodreads.com/book/show/20518872-the-three-body-problem</p>
+<p><br></p>
+<p>🌐 Check Out Our Website! https://dagshub.com</p>
+<p><br></p>
+<p>Social Links:</p>
+<p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub</p>
+<p>➡️ Twitter: https://twitter.com/TheRealDAGsHub</p>
+<p>➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Reasonable-Scale-MLOps-with-Jacopo-Tagliabue-e1mlfe1</link>
+			<guid isPermaLink="false">2684b518-8cc4-4113-940f-665ec5a7d184</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 22 Aug 2022 12:42:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/56327041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F56327041%2Fa227f8956bf98d497f9d9e21c923eadf.m4a" length="78416425" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I had the pleasure of speaking with Jacopo Tagliabue, Director of AI at Coveo. We talk about Reasonable Scale MLOps, how to approach building your ML platform, and how quickly you might hit the limits of model deployment (hint: it&apos;s pretty surprising)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Relevant Links:&lt;/p&gt;
+&lt;p&gt;➡️ Jacopo on LinkedIn – https://www.linkedin.com/in/jacopotagliabue/&lt;/p&gt;
+&lt;p&gt;➡️ Jacopo on Twitter – https://twitter.com/jacopotagliabue&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Recommendation Links:&lt;/p&gt;
+&lt;p&gt;📺The Boys – https://www.imdb.com/title/tt1190634/&lt;/p&gt;
+&lt;p&gt;📚Gödel, Escher, Bach –&amp;nbsp;https://www.goodreads.com/book/show/24113.G_del_Escher_Bach&lt;/p&gt;
+&lt;p&gt;📚The Three-Body Problem – https://www.goodreads.com/book/show/20518872-the-three-body-problem&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Social Links:&lt;/p&gt;
+&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub&lt;/p&gt;
+&lt;p&gt;➡️ Twitter: https://twitter.com/TheRealDAGsHub&lt;/p&gt;
+&lt;p&gt;➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:20:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1660810971460-fbc3d4118501e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🦾 Made With ML - Learning How to Apply MLOps with Goku Mohandas]]></title>
+			<description><![CDATA[<p>In this episode, I had the pleasure of speaking with Goku Mohandas, founder of Made With ML. Goku has an incredible amount of experience building and teaching the community about machine learning and MLOps systems. We dive into system thinking and solving for ML workflows, his journey in the machine learning world, and how he chooses what to learn next. We discuss the most common mistakes he's seen in productionizing ML models and why building models no one will use is not necessarily bad. &nbsp;</p>
+<p><br></p>
+<p><strong>Join our Discord community: </strong>https://discord.gg/tEYvqxwhah</p>
+<p><br></p>
+<p><strong>Relevant Links: &nbsp;</strong></p>
+<p>🤩 Check out Made With ML and thank us later – https://madewithml.com/</p>
+<p>➡️ Goku on LinkedIn – https://www.linkedin.com/in/goku/</p>
+<p>➡️ Goku on Twitter – https://twitter.com/gokumohandas&nbsp;</p>
+<p><br></p>
+<p>🌐 Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p><br></p>
+<p><strong>Social Links: &nbsp;</strong></p>
+<p>➡️ LinkedIn: https://www.linkedin.com/company/dagshub &nbsp;</p>
+<p>➡️ Twitter: https://twitter.com/TheRealDAGsHub &nbsp;</p>
+<p>➡️ Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Made-With-ML---Learning-How-to-Apply-MLOps-with-Goku-Mohandas-e1l7fpl</link>
+			<guid isPermaLink="false">63e43a5e-984e-40b0-a489-6753036fd788</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 18 Jul 2022 13:23:48 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/54820085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F54820085%2Ff0ad3fb902a32cdc14a67b8c1f4e746b.m4a" length="85735487" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I had the pleasure of speaking with Goku Mohandas, founder of Made With ML. Goku has an incredible amount of experience building and teaching the community about machine learning and MLOps systems. We dive into system thinking and solving for ML workflows, his journey in the machine learning world, and how he chooses what to learn next. We discuss the most common mistakes he&apos;s seen in productionizing ML models and why building models no one will use is not necessarily bad. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Join our Discord community: &lt;/strong&gt;https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Relevant Links: &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🤩 Check out Made With ML and thank us later – https://madewithml.com/&lt;/p&gt;
+&lt;p&gt;➡️ Goku on LinkedIn – https://www.linkedin.com/in/goku/&lt;/p&gt;
+&lt;p&gt;➡️ Goku on Twitter – https://twitter.com/gokumohandas&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Social Links: &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;➡️ LinkedIn: https://www.linkedin.com/company/dagshub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;➡️ Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:28:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1658061727179-e5aabe4bb13f1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🤹‍♀️ Building models that actually perform with Kyle Gallatin]]></title>
+			<description><![CDATA[<p>In this episode, I had the pleasure of speaking with Kyle Gallatin, a Machine Learning Software Engineer at Etsy. We talk about how he built the machine learning platform at Etsy, experimentation in production (yes, you heard right), and how to optimize model performance at very large scales. &nbsp;It was awesome, and I'm sure many of you can learn a ton from this one! &nbsp;</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p><strong>Relevant Links: &nbsp;<br>
+</strong>➡️ Kyle on LinkedIn – https://www.linkedin.com/in/kylegallatin/&nbsp;</p>
+<p>🌐Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p><strong>Social Links: &nbsp;<br>
+</strong>LinkedIn: https://www.linkedin.com/company/dagshub &nbsp;<br>
+Twitter: https://twitter.com/TheRealDAGsHub &nbsp;<br>
+Dean Pleban: https://twitter.com/DeanPlbn</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Building-models-that-actually-perform-with-Kyle-Gallatin-e1k59fb</link>
+			<guid isPermaLink="false">ff5b49b2-c319-4ef5-9e3f-8e239072993e</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 20 Jun 2022 12:44:57 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/53699499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F53699499%2Fcd03cb6d76942f64a38adccc4c64b489.m4a" length="56628688" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I had the pleasure of speaking with Kyle Gallatin, a Machine Learning Software Engineer at Etsy. We talk about how he built the machine learning platform at Etsy, experimentation in production (yes, you heard right), and how to optimize model performance at very large scales. &amp;nbsp;It was awesome, and I&apos;m sure many of you can learn a ton from this one! &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Relevant Links: &amp;nbsp;&lt;br&gt;
+&lt;/strong&gt;➡️ Kyle on LinkedIn – https://www.linkedin.com/in/kylegallatin/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🌐Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Social Links: &amp;nbsp;&lt;br&gt;
+&lt;/strong&gt;LinkedIn: https://www.linkedin.com/company/dagshub &amp;nbsp;&lt;br&gt;
+Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;br&gt;
+Dean Pleban: https://twitter.com/DeanPlbn&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:58:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1655652575667-9c408a7ffc5ce.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[💬 MLOps for NLP Systems with Charlene Chambliss]]></title>
+			<description><![CDATA[<p>In this episode, I'm speaking with Charlene Chambliss, Software Engineer at Aquarium. Charlene has vast experience getting NLP models to production. We dive into the intricacies of these models and how they differ from other ML subfields, the challenges in productionizing them, and how to get excited about data quality issues. &nbsp;</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p>Relevant Links:&nbsp;</p>
+<ul>
+ <li>➡️Charlene on LinkedIn – https://www.linkedin.com/in/charlenechambliss/</li>
+ <li>➡️Charlene on Twitter – https://twitter.com/blissfulchar&nbsp;</li>
+</ul>
+<p>Recommendations:&nbsp;</p>
+<ul>
+ <li>🎬3blue1brown – Awesome YouTube channel about math &amp; science: https://www.youtube.com/c/3blue1brown&nbsp;</li>
+ <li>🎙NLP Highlights – Allen AI Insititute podcast about NLP research: https://soundcloud.com/nlp-highlights&nbsp;</li>
+ <li>🎙Software engineering daily: https://softwareengineeringdaily.com/&nbsp;</li>
+ <li>🎙TWiML – Another great podcast about machine learning and AI: https://twimlai.com/&nbsp;</li>
+ <li>📰Sebastian Ruder's blog and newsletter about NLP and ML: https://ruder.io/&nbsp;</li>
+ <li>📰Taming the Tail: Adventures in Improving AI Economics: https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/&nbsp;</li>
+  <li>📰State of AI report (2021): https://www.stateof.ai/&nbsp;</li>
+  <li>📕Learn to learn –&nbsp;Ultralearning by Scott Young: https://www.scotthyoung.com/&nbsp;</li>
+</ul>
+<p><br></p>
+<p>🌐Check Out Our Website! https://dagshub.com &nbsp;&nbsp;</p>
+<p>Social Links:&nbsp;</p>
+<ul>
+  <li>🟦LinkedIn: https://www.linkedin.com/company/dagshub &nbsp;</li>
+  <li>🐦Twitter: https://twitter.com/TheRealDAGsHub &nbsp;</li>
+  <li>🐦Dean Pleban: https://twitter.com/DeanPlbn</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/MLOps-for-NLP-Systems-with-Charlene-Chambliss-e1ii6i5</link>
+			<guid isPermaLink="false">2d2b8c89-704f-4790-9f07-d85f916dbb99</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 16 May 2022 12:57:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/52025349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F52025349%2F9b06fb5defda22e30d7a3b195ca561fd.m4a" length="59317923" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I&apos;m speaking with Charlene Chambliss, Software Engineer at Aquarium. Charlene has vast experience getting NLP models to production. We dive into the intricacies of these models and how they differ from other ML subfields, the challenges in productionizing them, and how to get excited about data quality issues. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;Relevant Links:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;➡️Charlene on LinkedIn – https://www.linkedin.com/in/charlenechambliss/&lt;/li&gt;
+ &lt;li&gt;➡️Charlene on Twitter – https://twitter.com/blissfulchar&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recommendations:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;🎬3blue1brown – Awesome YouTube channel about math &amp;amp; science: https://www.youtube.com/c/3blue1brown&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;🎙NLP Highlights – Allen AI Insititute podcast about NLP research: https://soundcloud.com/nlp-highlights&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;🎙Software engineering daily: https://softwareengineeringdaily.com/&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;🎙TWiML – Another great podcast about machine learning and AI: https://twimlai.com/&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;📰Sebastian Ruder&apos;s blog and newsletter about NLP and ML: https://ruder.io/&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;📰Taming the Tail: Adventures in Improving AI Economics: https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;📰State of AI report (2021): https://www.stateof.ai/&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;📕Learn to learn –&amp;nbsp;Ultralearning by Scott Young: https://www.scotthyoung.com/&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🌐Check Out Our Website! https://dagshub.com &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Social Links:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;🟦LinkedIn: https://www.linkedin.com/company/dagshub &amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;🐦Twitter: https://twitter.com/TheRealDAGsHub &amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;🐦Dean Pleban: https://twitter.com/DeanPlbn&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:01:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1652616216905-5d96b32ccef5f.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🧩 Simplifying Complex Ideas with Yannic Kilcher]]></title>
+			<description><![CDATA[<p>In this episode, I'm speaking with the one and only, Yannic Kilcher! We talk about sunglasses 😎, the value and methodologies behind taking complex machine learning research, and making the idea accessible and digestible. We also discuss reproducibility in machine learning and the moving between research and entrepreneurship. &nbsp;</p>
+<p>If you haven't seen his videos you should definitely check them out on his YouTube channel (https://www.youtube.com/c/YannicKilcher). &nbsp;</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p>---&nbsp;</p>
+<p>Relevant Links:&nbsp;</p>
+<ul>
+ <li>➡️Yannics's amazing YouTube channel – https://www.youtube.com/c/YannicKilcher</li>
+ <li>➡️Yannic on LinkedIn – https://www.linkedin.com/in/ykilcher/</li>
+ <li>➡️Yannic on Twitter – https://twitter.com/ykilcher&nbsp;</li>
+</ul>
+<p>Recommendations:&nbsp;</p>
+<ul>
+ <li>🎬Veritasium –&nbsp;YouTube channel about science with really good explanations about complex topics: https://www.youtube.com/c/veritasium</li>
+ <li>📖The Fifth Season – Good sci-fi fantasy book: https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296&nbsp;</li>
+</ul>
+<p>🌐Check Out Our Website! https://dagshub.com Social&nbsp;</p>
+<p>Links:&nbsp;</p>
+<ul>
+ <li>➡️LinkedIn: https://www.linkedin.com/company/dagshub</li>
+ <li>➡️Twitter: https://twitter.com/TheRealDAGsHub</li>
+ <li>➡️Dean PlbnTwitter: https://twitter.com/DeanPlbn</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Simplifying-Complex-Ideas-with-Yannic-Kilcher-e1grtsr</link>
+			<guid isPermaLink="false">4426b253-a85f-4584-9ef5-2cc4460be6d5</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 18 Apr 2022 08:59:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/50247003/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F58cdbb8c%2F50247003%2F51e18a3c9ee79445f7855339a6095218.m4a" length="61842950" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I&apos;m speaking with the one and only, Yannic Kilcher! We talk about sunglasses 😎, the value and methodologies behind taking complex machine learning research, and making the idea accessible and digestible. We also discuss reproducibility in machine learning and the moving between research and entrepreneurship. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If you haven&apos;t seen his videos you should definitely check them out on his YouTube channel (https://www.youtube.com/c/YannicKilcher). &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;---&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Relevant Links:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;➡️Yannics&apos;s amazing YouTube channel – https://www.youtube.com/c/YannicKilcher&lt;/li&gt;
+ &lt;li&gt;➡️Yannic on LinkedIn – https://www.linkedin.com/in/ykilcher/&lt;/li&gt;
+ &lt;li&gt;➡️Yannic on Twitter – https://twitter.com/ykilcher&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recommendations:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;🎬Veritasium –&amp;nbsp;YouTube channel about science with really good explanations about complex topics: https://www.youtube.com/c/veritasium&lt;/li&gt;
+ &lt;li&gt;📖The Fifth Season – Good sci-fi fantasy book: https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🌐Check Out Our Website! https://dagshub.com Social&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Links:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;➡️LinkedIn: https://www.linkedin.com/company/dagshub&lt;/li&gt;
+ &lt;li&gt;➡️Twitter: https://twitter.com/TheRealDAGsHub&lt;/li&gt;
+ &lt;li&gt;➡️Dean PlbnTwitter: https://twitter.com/DeanPlbn&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:03:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/14798779/14798779-1650271738748-4dd245a67d5e9.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🔥 Getting Data Scientists to Write Better Code with Laszlo Sragner]]></title>
+			<description><![CDATA[<p>In this episode, we dive into the challenging but very important topic of getting data scientists to write better code. How to approach complex machine learning projects and break them down, and why growing unicorns 🦄 is better than hunting them. Check out this is an awesome conversation with Laszlo Sragner, Founder at 🔥 Hypergolic. &nbsp;</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p>---&nbsp;</p>
+<p><strong>Timestamps:</strong>&nbsp;</p>
+<ul>
+ <li>00:00 Podcast intro&nbsp;</li>
+ <li>01:00 Guest introduction&nbsp;</li>
+ <li>02:34 Why is writing better code important for data scientists? &nbsp;</li>
+ <li>03:40 How to improve your code&nbsp;</li>
+ <li>08:17 Don't be afraid of your code.&nbsp;</li>
+ <li>10:42 Breaking experiments into manageable pieces&nbsp;</li>
+  <li>12:35 How did your past experiences teach you to strive for better code?&nbsp;</li>
+  <li>15:21 Proving better code is worth it&nbsp;</li>
+  <li>18:07 What could be adopted from software development&nbsp;</li>
+  <li>23:06 What's the most interesting/challenging part of taking models to production?&nbsp;</li>
+  <li>27:12 What is the hardest part about building a machine learning model?&nbsp;</li>
+  <li>29:30 How it looks when it works well – a detailed example&nbsp;</li>
+  <li>36:23 The difference in writing better code in smaller startups compared to larger organizations&nbsp;</li>
+  <li>39:18 Laszlo's process for the first iteration in a machine learning project&nbsp;</li>
+  <li>44:33 Breaking data problems down into vertical slices&nbsp;</li>
+  <li>47:55 End-To-End Platforms vs. Best-of-breed tools&nbsp;</li>
+  <li>50:30 Obligatory job title discussion...&nbsp;</li>
+  <li>53:30 Hunting for data science unicorns&nbsp;</li>
+  <li>56:33 Traits to look for when building a data science team&nbsp;</li>
+  <li>58:30 Build vs. Buy? What's better?&nbsp;</li>
+  <li>59:56 What is the most exciting trend in ML and MLOps?&nbsp;</li>
+  <li>1:00:47 How do you stay up to date?&nbsp;</li>
+  <li>1:01:40 Recommendations for the audience</li>
+</ul>
+<p>---&nbsp;</p>
+<p><strong>Relevant Links:</strong>&nbsp;</p>
+<ul>
+  <li>➡️Laszlo's awesome substack – https://laszlo.substack.com/</li>
+  <li>➡️Laszlo's LinkedIn – https://www.linkedin.com/in/laszlosragner/</li>
+  <li>➡️Laszlo's Twitter – https://twitter.com/xLaszlo&nbsp;</li>
+</ul>
+<p><strong>Recommendations:</strong></p>
+<ul>
+  <li>👀Explore/Expand/Extract by Kent Beck: https://www.youtube.com/watch?v=FlJN6_4yI2A</li>
+  <li>👩‍💻Code Quality – Refactoring by Martin Fowler: https://martinfowler.com/books/refactoring.html</li>
+  <li>📐Geometric Deep Learning by Bronstein/Velickovic: https://www.youtube.com/watch?v=5h6MbQ_65-o &nbsp;</li>
+  <li>✍️Online Writing by Nicolas Cole: https://www.youtube.com/watch?v=Od5J2V-Lmlg</li>
+  <li>📕The Last Shadow by Orson Scott Card: https://www.goodreads.com/en/book/show/7108926-the-last-shadow</li>
+  <li>🎬7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development: https://www.youtube.com/watch?v=WSes_PexXcA&nbsp;</li>
+</ul>
+<p>🌐Check Out Our Website! https://dagshub.com&nbsp;</p>
+<p><strong>Social Links:</strong></p>
+<ul>
+  <li>➡️LinkedIn: https://www.linkedin.com/company/dagshub</li>
+  <li>➡️Twitter: https://twitter.com/TheRealDAGsHub</li>
+  <li>➡️Dean PlbnTwitter: https://twitter.com/DeanPlbn</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Getting-Data-Scientists-to-Write-Better-Code-with-Laszlo-Sragner-e1ec848</link>
+			<guid isPermaLink="false">f9a0d5dd-2bb6-4856-b685-9570cf0172c8</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 14 Feb 2022 14:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/47636040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-14%2Fad2853de-6324-21c3-4000-e46f2b82f8ef.mp3" length="62889797" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, we dive into the challenging but very important topic of getting data scientists to write better code. How to approach complex machine learning projects and break them down, and why growing unicorns 🦄 is better than hunting them. Check out this is an awesome conversation with Laszlo Sragner, Founder at 🔥 Hypergolic. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;---&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 Podcast intro&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;01:00 Guest introduction&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;02:34 Why is writing better code important for data scientists? &amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;03:40 How to improve your code&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;08:17 Don&apos;t be afraid of your code.&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;10:42 Breaking experiments into manageable pieces&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;12:35 How did your past experiences teach you to strive for better code?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;15:21 Proving better code is worth it&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;18:07 What could be adopted from software development&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;23:06 What&apos;s the most interesting/challenging part of taking models to production?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;27:12 What is the hardest part about building a machine learning model?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;29:30 How it looks when it works well – a detailed example&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;36:23 The difference in writing better code in smaller startups compared to larger organizations&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;39:18 Laszlo&apos;s process for the first iteration in a machine learning project&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;44:33 Breaking data problems down into vertical slices&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;47:55 End-To-End Platforms vs. Best-of-breed tools&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;50:30 Obligatory job title discussion...&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;53:30 Hunting for data science unicorns&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;56:33 Traits to look for when building a data science team&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;58:30 Build vs. Buy? What&apos;s better?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;59:56 What is the most exciting trend in ML and MLOps?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;1:00:47 How do you stay up to date?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;1:01:40 Recommendations for the audience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;---&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Relevant Links:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;➡️Laszlo&apos;s awesome substack – https://laszlo.substack.com/&lt;/li&gt;
+  &lt;li&gt;➡️Laszlo&apos;s LinkedIn – https://www.linkedin.com/in/laszlosragner/&lt;/li&gt;
+  &lt;li&gt;➡️Laszlo&apos;s Twitter – https://twitter.com/xLaszlo&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Recommendations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;👀Explore/Expand/Extract by Kent Beck: https://www.youtube.com/watch?v=FlJN6_4yI2A&lt;/li&gt;
+  &lt;li&gt;👩‍💻Code Quality – Refactoring by Martin Fowler: https://martinfowler.com/books/refactoring.html&lt;/li&gt;
+  &lt;li&gt;📐Geometric Deep Learning by Bronstein/Velickovic: https://www.youtube.com/watch?v=5h6MbQ_65-o &amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;✍️Online Writing by Nicolas Cole: https://www.youtube.com/watch?v=Od5J2V-Lmlg&lt;/li&gt;
+  &lt;li&gt;📕The Last Shadow by Orson Scott Card: https://www.goodreads.com/en/book/show/7108926-the-last-shadow&lt;/li&gt;
+  &lt;li&gt;🎬7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development: https://www.youtube.com/watch?v=WSes_PexXcA&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🌐Check Out Our Website! https://dagshub.com&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Social Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;➡️LinkedIn: https://www.linkedin.com/company/dagshub&lt;/li&gt;
+  &lt;li&gt;➡️Twitter: https://twitter.com/TheRealDAGsHub&lt;/li&gt;
+  &lt;li&gt;➡️Dean PlbnTwitter: https://twitter.com/DeanPlbn&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:05:29</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14798779/14798779-1619550594419-ae6e6840a2eaa.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🎓 MLOps lessons learned helping companies build their ML systems with Lee Harper, Lead DS at Catapult]]></title>
+			<description><![CDATA[<p>In this episode, I'm speaking with Lee Harper, Principal Data Scientist at Catapult Systems. Lee holds a Ph.D. in Physical and Theoretical Chemistry. Lee is a teacher-turned-data scientist. We cover the various entry paths into the world of data science, the value of background diversity, security in ML production, and even AI fairness. &nbsp;</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah&nbsp;</p>
+<p>---&nbsp;</p>
+<p>Timestamps:&nbsp;</p>
+<ul>
+ <li>00:00 Podcast intro&nbsp;</li>
+ <li>01:00 Guest introduction&nbsp;</li>
+ <li>01:39 How did you get into the fields of data science and machine learning?&nbsp;</li>
+ <li>05:04 Coding boot camps vs. academia &amp; diversity of backgrounds in ML&nbsp;</li>
+  <li>09:37 How does the process of bringing your work into production change over the years?&nbsp;</li>
+  <li>13:02 How has the change in the languages used for data science affected production processes?&nbsp;</li>
+  <li>16:01 How do you accelerate the timeframes for getting from POC to production in ML?&nbsp;</li>
+  <li>18:19 Do data scientists reinvent the wheel more often than software developers, and why?&nbsp;</li>
+  <li>22:14 The value of learning how to Google&nbsp;</li>
+  <li>23:00 Recurring themes, challenges, and common issues in data science&nbsp;</li>
+  <li>27:50 Solving for security in ML in production&nbsp;</li>
+  <li>31:57 ML security considerations for startups&nbsp;</li>
+  <li>34:30 Data security considerations in ML&nbsp;</li>
+  <li>35:18 What is the most interesting topic in machine learning right now?&nbsp;</li>
+  <li>38:05 ML fairness, bias, and responsible AI&nbsp;</li>
+  <li>41:44 What does it mean to build a fair or unbiased model?&nbsp;</li>
+  <li>47:15 If you had to choose one challenge in bringing models to production, what would it be?&nbsp;</li>
+  <li>51:00 What are the tools and processes that you use to make the transition to production easier?&nbsp;</li>
+  <li>55:35 About "vendor lock-in"&nbsp;</li>
+  <li>58:00 Your favorite tool recommendations&nbsp;</li>
+  <li>1:03:35 Recommendations for the audience&nbsp;</li>
+</ul>
+<p>---&nbsp;</p>
+<p>Relevant Links:&nbsp;</p>
+<ul>
+  <li>Linux Command Line and Shell Scripting Bible – https://www.amazon.com/Linux-Command-Shell-Scripting-Bible/dp/1119700914</li>
+  <li>Project Hail Mary – https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202&nbsp;</li>
+</ul>
+<p>Social Links:&nbsp;</p>
+<ul>
+  <li>https://www.linkedin.com/company/dagshub/</li>
+  <li>https://www.linkedin.com/company/catapult-systems/<br>
+</li>
+  <li>https://www.linkedin.com/in/leeharper2425/</li>
+  <li>https://twitter.com/DeanPlbn</li>
+  <li>https://twitter.com/TheRealDAGsHub</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/MLOps-lessons-learned-helping-companies-build-their-ML-systems-with-Lee-Harper--Lead-DS-at-Catapult-e19oltd</link>
+			<guid isPermaLink="false">7f4c6128-6a94-403d-8e92-6f36ef9066e4</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Thu, 04 Nov 2021 12:15:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/42800493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-4%2F2054de90-fc7b-3f61-b92f-e6819f5a09bb.mp3" length="66617138" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, I&apos;m speaking with Lee Harper, Principal Data Scientist at Catapult Systems. Lee holds a Ph.D. in Physical and Theoretical Chemistry. Lee is a teacher-turned-data scientist. We cover the various entry paths into the world of data science, the value of background diversity, security in ML production, and even AI fairness. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;---&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Timestamps:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 Podcast intro&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;01:00 Guest introduction&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;01:39 How did you get into the fields of data science and machine learning?&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;05:04 Coding boot camps vs. academia &amp;amp; diversity of backgrounds in ML&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;09:37 How does the process of bringing your work into production change over the years?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;13:02 How has the change in the languages used for data science affected production processes?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;16:01 How do you accelerate the timeframes for getting from POC to production in ML?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;18:19 Do data scientists reinvent the wheel more often than software developers, and why?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;22:14 The value of learning how to Google&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;23:00 Recurring themes, challenges, and common issues in data science&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;27:50 Solving for security in ML in production&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;31:57 ML security considerations for startups&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;34:30 Data security considerations in ML&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;35:18 What is the most interesting topic in machine learning right now?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;38:05 ML fairness, bias, and responsible AI&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;41:44 What does it mean to build a fair or unbiased model?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;47:15 If you had to choose one challenge in bringing models to production, what would it be?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;51:00 What are the tools and processes that you use to make the transition to production easier?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;55:35 About &quot;vendor lock-in&quot;&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;58:00 Your favorite tool recommendations&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;1:03:35 Recommendations for the audience&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;---&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Relevant Links:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Linux Command Line and Shell Scripting Bible – https://www.amazon.com/Linux-Command-Shell-Scripting-Bible/dp/1119700914&lt;/li&gt;
+  &lt;li&gt;Project Hail Mary – https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Social Links:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://www.linkedin.com/company/dagshub/&lt;/li&gt;
+  &lt;li&gt;https://www.linkedin.com/company/catapult-systems/&lt;br&gt;
+&lt;/li&gt;
+  &lt;li&gt;https://www.linkedin.com/in/leeharper2425/&lt;/li&gt;
+  &lt;li&gt;https://twitter.com/DeanPlbn&lt;/li&gt;
+  &lt;li&gt;https://twitter.com/TheRealDAGsHub&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:08:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14798779/14798779-1619550594419-ae6e6840a2eaa.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🧠 Algorithmic challenges in bringing ML models into production with Roey Mechrez, CTO at BeyondMinds]]></title>
+			<description><![CDATA[<p>In this episode, I'm speaking with Roey Mechrez from BeyondMinds. Roey holds a Ph.D. in Electrical Engineering, with vast experience in computer vision and deep learning research. We discuss the challenges of gluing together infrastructure solutions for an end-to-end ML platform, as well as generating monitoring insights for non-technical stakeholders and combating catastrophic forgetting.</p>
+<p>Join our Discord community: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEk4RW1XSUEtX0tIOUV1S0IxUDdlQl9ZRlVWd3xBQ3Jtc0trZHVwSEdPMThoUFZvaVBnY0FEZkVOY1RzVkRvWWNLdlg4eHlGbWNCdEg1LVNPMFVURVpJY0JkQmpFRDV2MXJvb3o0Mml4ZWpRNGdabTVfbXRRcjhybUtQMHFoaVBMNWhLbDgwSmVsdDRkLWRvWDVSUQ&amp;q=https%3A%2F%2Fdiscord.gg%2FtEYvqxwhah" rel="nofollow" target="_blank">https://discord.gg/tEYvqxwhah</a></p>
+<p>---&nbsp;</p>
+<p><strong>Timestamps:&nbsp;</strong></p>
+<ul>
+ <li>00:00 Podcast intro</li>
+ <li>01:00 Guest intro&nbsp;</li>
+ <li>01:49 What does BeyondMinds do?&nbsp;</li>
+ <li>06:24 Audience for an end-to-end ML platform&nbsp;</li>
+  <li>12:14 Communicating with non-technical stakeholders/users&nbsp;</li>
+  <li>15:03 The future of "AI-powered tools", and human-machine collaboration&nbsp;</li>
+  <li>20:04 On complex system orchestration, generating insights from monitoring, and catastrophic forgetting – Biggest challenges in production ML&nbsp;</li>
+  <li>25:23 Why is catastrophic forgetting a hard problem and how do you deal with it?&nbsp;</li>
+  <li>30:02 "Secret" tips on how to get started with automating the retraining process&nbsp;</li>
+  <li>33:30 Generating monitoring insights and observations in a user-friendly format&nbsp;</li>
+  <li>38:12 Making data labeling issues explainable (automatically)&nbsp;</li>
+  <li>45:07 Customizing complex systems per user – Orchestrating an ML platform&nbsp;</li>
+  <li>52:58 API design in ML platform components&nbsp;</li>
+  <li>55:45 Measuring success for researchers, ML engineers, and software developers – can ML work fit into the Agile workflow.&nbsp;</li>
+  <li>1:02:22 Is "time to production" a good metric? Gains in time to production in the real world&nbsp;</li>
+  <li>1:06:02 How do you divide the work between ML researchers and engineers?&nbsp;</li>
+  <li>1:08:39 Recommendations for the audience</li>
+</ul>
+<p>---&nbsp;</p>
+<p><strong>Relevant Links:&nbsp;</strong></p>
+<ul>
+  <li><a href="https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/">A16z blog about AI</a></li>
+  <li><a href="https://www.youtube.com/watch?v=6R2PKJ0RD_s">Data Science work in an agile environment – &nbsp;A talk by Dima Goldenberg</a></li>
+  <li><a href="https://open.spotify.com/show/44Mg6W7BrmDtJuuWF7H4b2?si=Oqp0DPjXSKqOS9G91q9Nxw">Hayot Kis (Hebrew Podcast) חיות כיס</a></li>
+  <li><a href="https://open.spotify.com/show/2iLvljRGVVIGlJshT5vNDS?si=rfHdHiDqTS2G5FPdBVQf2w">Data Engineering Podcast</a></li>
+  <li><a href="https://open.spotify.com/show/5FEwz047DHuxiJnhq3Qjkg?si=iHT2-d82RLy1Z6a57tHpmw">ACX Podcast</a></li>
+</ul>
+<p><strong>Social Links:</strong></p>
+<ul>
+  <li><a href="https://www.linkedin.com/company/beyondminds/">https://www.linkedin.com/company/beyondminds/</a></li>
+  <li><a href="https://www.linkedin.com/company/dagshub/">https://www.linkedin.com/company/dagshub/</a></li>
+  <li><a href="https://twitter.com/roeyme">https://twitter.com/roeyme</a></li>
+  <li><a href="https://twitter.com/DeanPlbn">https://twitter.com/DeanPlbn</a></li>
+  <li><a href="https://twitter.com/TheRealDAGsHub">https://twitter.com/TheRealDAGsHub</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Algorithmic-challenges-in-bringing-ML-models-into-production-with-Roey-Mechrez--CTO-at-BeyondMinds-e17k5oi</link>
+			<guid isPermaLink="false">c57ec218-2e2b-4740-9a8b-806298f6a9c4</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Mon, 20 Sep 2021 15:22:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/40555730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-20%2F219501611-44100-2-72449e22d4538.m4a" length="71448917" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I&apos;m speaking with Roey Mechrez from BeyondMinds. Roey holds a Ph.D. in Electrical Engineering, with vast experience in computer vision and deep learning research. We discuss the challenges of gluing together infrastructure solutions for an end-to-end ML platform, as well as generating monitoring insights for non-technical stakeholders and combating catastrophic forgetting.&lt;/p&gt;
+&lt;p&gt;Join our Discord community: &lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqbEk4RW1XSUEtX0tIOUV1S0IxUDdlQl9ZRlVWd3xBQ3Jtc0trZHVwSEdPMThoUFZvaVBnY0FEZkVOY1RzVkRvWWNLdlg4eHlGbWNCdEg1LVNPMFVURVpJY0JkQmpFRDV2MXJvb3o0Mml4ZWpRNGdabTVfbXRRcjhybUtQMHFoaVBMNWhLbDgwSmVsdDRkLWRvWDVSUQ&amp;amp;q=https%3A%2F%2Fdiscord.gg%2FtEYvqxwhah&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://discord.gg/tEYvqxwhah&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;---&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 Podcast intro&lt;/li&gt;
+ &lt;li&gt;01:00 Guest intro&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;01:49 What does BeyondMinds do?&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;06:24 Audience for an end-to-end ML platform&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;12:14 Communicating with non-technical stakeholders/users&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;15:03 The future of &quot;AI-powered tools&quot;, and human-machine collaboration&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;20:04 On complex system orchestration, generating insights from monitoring, and catastrophic forgetting – Biggest challenges in production ML&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;25:23 Why is catastrophic forgetting a hard problem and how do you deal with it?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;30:02 &quot;Secret&quot; tips on how to get started with automating the retraining process&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;33:30 Generating monitoring insights and observations in a user-friendly format&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;38:12 Making data labeling issues explainable (automatically)&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;45:07 Customizing complex systems per user – Orchestrating an ML platform&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;52:58 API design in ML platform components&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;55:45 Measuring success for researchers, ML engineers, and software developers – can ML work fit into the Agile workflow.&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;1:02:22 Is &quot;time to production&quot; a good metric? Gains in time to production in the real world&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;1:06:02 How do you divide the work between ML researchers and engineers?&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;1:08:39 Recommendations for the audience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;---&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Relevant Links:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/&quot;&gt;A16z blog about AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6R2PKJ0RD_s&quot;&gt;Data Science work in an agile environment – &amp;nbsp;A talk by Dima Goldenberg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/44Mg6W7BrmDtJuuWF7H4b2?si=Oqp0DPjXSKqOS9G91q9Nxw&quot;&gt;Hayot Kis (Hebrew Podcast) חיות כיס&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/2iLvljRGVVIGlJshT5vNDS?si=rfHdHiDqTS2G5FPdBVQf2w&quot;&gt;Data Engineering Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/5FEwz047DHuxiJnhq3Qjkg?si=iHT2-d82RLy1Z6a57tHpmw&quot;&gt;ACX Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Social Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/company/beyondminds/&quot;&gt;https://www.linkedin.com/company/beyondminds/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/company/dagshub/&quot;&gt;https://www.linkedin.com/company/dagshub/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/roeyme&quot;&gt;https://twitter.com/roeyme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/DeanPlbn&quot;&gt;https://twitter.com/DeanPlbn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/TheRealDAGsHub&quot;&gt;https://twitter.com/TheRealDAGsHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:13:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14798779/14798779-1619550594419-ae6e6840a2eaa.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🐤 Feature stores and CI/CD for machine learning with Qwak.ai VP Engineering, Ran Romano]]></title>
+			<description><![CDATA[<p>In this episode, I'm speaking with Ran Romano from Qwak.ai. Ran built the ML platform at Wix, and we discuss the various data roles, when organizations should focus on ML infrastructure, solving the hard problems of features stores, and one approach to building an end-to-end ML platform.</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah<br>
+<br>
+---<br>
+Timestamps:<br>
+00:00 Podcast intro<br>
+01:00 Guest intro<br>
+01:30 Getting into the world of ML and ML Engineering<br>
+02:25 The line between Data Engineer, ML Engineer, and Data Scientist<br>
+03:50 The future of data roles – what are the trends?<br>
+07:21 The most exciting part about taking ML models into production<br>
+09:45 Jupyter notebooks in production (again??)<br>
+10:41 Signs that notebook productionization might not work<br>
+11:42 Building ML-focused CI/CD systems<br>
+15:32 Early days of building out the Wix ML platform<br>
+16:22 Signs that you might need to focus on ML infrastructure in your organization, and how to convince other stakeholders.<br>
+19:21 What part of the platform that you built are you most proud of?<br>
+23:51 Defining a feature store and the training/serving skew<br>
+27:24 Onboarding data scientists to using a feature store<br>
+33:49 When is it too early to build an ML platform?<br>
+35:33 Open source components – What parts of your platform did you choose not to build yourself?<br>
+40:16 Qwak.ai – What are you working on currently?<br>
+41:07 How do you define an "end-to-end" platform in the case of Qwak<br>
+44:25 End-to-end vs. Integrated – Advantages and disadvantages &nbsp;<br>
+<br>
+---<br>
+Relevant Links:<br>
+- Qwak.ai: https://www.qwak.ai<br>
+- Wix ML Platform presentation by Ran: https://www.youtube.com/watch?v=E8839ENL-WY<br>
+<br>
+- https://www.linkedin.com/company/dagshub<br>
+- https://www.linkedin.com/company/qwak-ai/<br>
+<br>
+- https://twitter.com/TheRealDAGsHub<br>
+- https://twitter.com/DeanPlbn<br>
+- https://twitter.com/ranvromano</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Feature-stores-and-CICD-for-machine-learning-with-Qwak-ai-VP-Engineering--Ran-Romano-e15oprt</link>
+			<guid isPermaLink="false">40263272-530f-4a67-bc55-1ac14c09cc2a</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Wed, 11 Aug 2021 09:45:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/38610237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-11%2F211713842-44100-2-cffca12e9c42e.m4a" length="44873033" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I&apos;m speaking with Ran Romano from Qwak.ai. Ran built the ML platform at Wix, and we discuss the various data roles, when organizations should focus on ML infrastructure, solving the hard problems of features stores, and one approach to building an end-to-end ML platform.&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;br&gt;
+&lt;br&gt;
+---&lt;br&gt;
+Timestamps:&lt;br&gt;
+00:00 Podcast intro&lt;br&gt;
+01:00 Guest intro&lt;br&gt;
+01:30 Getting into the world of ML and ML Engineering&lt;br&gt;
+02:25 The line between Data Engineer, ML Engineer, and Data Scientist&lt;br&gt;
+03:50 The future of data roles – what are the trends?&lt;br&gt;
+07:21 The most exciting part about taking ML models into production&lt;br&gt;
+09:45 Jupyter notebooks in production (again??)&lt;br&gt;
+10:41 Signs that notebook productionization might not work&lt;br&gt;
+11:42 Building ML-focused CI/CD systems&lt;br&gt;
+15:32 Early days of building out the Wix ML platform&lt;br&gt;
+16:22 Signs that you might need to focus on ML infrastructure in your organization, and how to convince other stakeholders.&lt;br&gt;
+19:21 What part of the platform that you built are you most proud of?&lt;br&gt;
+23:51 Defining a feature store and the training/serving skew&lt;br&gt;
+27:24 Onboarding data scientists to using a feature store&lt;br&gt;
+33:49 When is it too early to build an ML platform?&lt;br&gt;
+35:33 Open source components – What parts of your platform did you choose not to build yourself?&lt;br&gt;
+40:16 Qwak.ai – What are you working on currently?&lt;br&gt;
+41:07 How do you define an &quot;end-to-end&quot; platform in the case of Qwak&lt;br&gt;
+44:25 End-to-end vs. Integrated – Advantages and disadvantages &amp;nbsp;&lt;br&gt;
+&lt;br&gt;
+---&lt;br&gt;
+Relevant Links:&lt;br&gt;
+- Qwak.ai: https://www.qwak.ai&lt;br&gt;
+- Wix ML Platform presentation by Ran: https://www.youtube.com/watch?v=E8839ENL-WY&lt;br&gt;
+&lt;br&gt;
+- https://www.linkedin.com/company/dagshub&lt;br&gt;
+- https://www.linkedin.com/company/qwak-ai/&lt;br&gt;
+&lt;br&gt;
+- https://twitter.com/TheRealDAGsHub&lt;br&gt;
+- https://twitter.com/DeanPlbn&lt;br&gt;
+- https://twitter.com/ranvromano&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14798779/14798779-1619550594419-ae6e6840a2eaa.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🤗 Large ML models in production with HuggingFace CTO Julien Chaumond]]></title>
+			<description><![CDATA[<p>In this episode, I'm speaking with Julien Chaumond from 🤗 HuggingFace, about how they got started, getting large language models to production in millisecond inference times, and the CERN for machine learning.</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p>---</p>
+<p>Timestamps:&nbsp;</p>
+<ul>
+ <li>01:00 - Guest intro</li>
+ <li>02:14 - Origin of HuggingFace</li>
+ <li>05:37 - Why the focus on NLP?</li>
+ <li>07:45 - The success of the HuggingFace community</li>
+  <li>13:14 - Reproducing models and scaling for the community</li>
+  <li>18:14 - Enabling large models in production</li>
+  <li>23:14 - How HuggingFace scales so many models</li>
+  <li>27:34 - The biggest challenge HuggingFace solved in MLOps</li>
+  <li>32:02 - How HuggingFace transitions from research to production</li>
+  <li>34:44 - Using notebooks vs python modules</li>
+  <li>38:27 - The most interesting topic in ML production</li>
+  <li>40:10 - Fascinating ML research</li>
+  <li>45:24 - Learning new things</li>
+  <li>51:14 - Something that is true but most people disagree with</li>
+  <li>56:54 - Tips to organize research teams</li>
+  <li>1:00:05 - New features for accelerated inference</li>
+  <li>1:01:35 - Most common use case of HuggingFace</li>
+  <li>1:04:17 - Integrating search algorithms into transformer library</li>
+  <li>1:05:09 - Integrating vision models</li>
+  <li>1:06:06 - Long term business model</li>
+  <li>1:10:55 - Automation and simplification of the process of building models</li>
+  <li>1:13:02 - Support for real-time inference</li>
+  <li>1:14:40 - Recommendations for the audience</li>
+</ul>
+<p>---</p>
+<p>Relevant Links:</p>
+<ul>
+  <li>FastDS: <a href="https://github.com/DAGsHub/fds">https://github.com/DAGsHub/fds</a></li>
+  <li>BigScience: <a href="https://bigscience.huggingface.co">https://bigscience.huggingface.co</a><br>
+</li>
+  <li><a href="https://www.linkedin.com/company/dagshub/">https://www.linkedin.com/company/dagshub/</a></li>
+  <li><a href="https://www.linkedin.com/company/huggingface/">https://www.linkedin.com/company/huggingface/<br>
+</a></li>
+  <li><a href="https://twitter.com/TheRealDAGsHub">https://twitter.com/TheRealDAGsHub</a></li>
+  <li><a href="https://twitter.com/huggingface">https://twitter.com/huggingface</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Large-ML-models-in-production-with-HuggingFace-CTO-Julien-Chaumond-e13t4re</link>
+			<guid isPermaLink="false">3f71abf0-2c6f-43c7-9c7c-a0061ecfb450</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Sun, 04 Jul 2021 08:07:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/36655406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-4%2F202715718-44100-2-4679651a5d86.m4a" length="76889982" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I&apos;m speaking with Julien Chaumond from 🤗 HuggingFace, about how they got started, getting large language models to production in millisecond inference times, and the CERN for machine learning.&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Timestamps:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;01:00 - Guest intro&lt;/li&gt;
+ &lt;li&gt;02:14 - Origin of HuggingFace&lt;/li&gt;
+ &lt;li&gt;05:37 - Why the focus on NLP?&lt;/li&gt;
+ &lt;li&gt;07:45 - The success of the HuggingFace community&lt;/li&gt;
+  &lt;li&gt;13:14 - Reproducing models and scaling for the community&lt;/li&gt;
+  &lt;li&gt;18:14 - Enabling large models in production&lt;/li&gt;
+  &lt;li&gt;23:14 - How HuggingFace scales so many models&lt;/li&gt;
+  &lt;li&gt;27:34 - The biggest challenge HuggingFace solved in MLOps&lt;/li&gt;
+  &lt;li&gt;32:02 - How HuggingFace transitions from research to production&lt;/li&gt;
+  &lt;li&gt;34:44 - Using notebooks vs python modules&lt;/li&gt;
+  &lt;li&gt;38:27 - The most interesting topic in ML production&lt;/li&gt;
+  &lt;li&gt;40:10 - Fascinating ML research&lt;/li&gt;
+  &lt;li&gt;45:24 - Learning new things&lt;/li&gt;
+  &lt;li&gt;51:14 - Something that is true but most people disagree with&lt;/li&gt;
+  &lt;li&gt;56:54 - Tips to organize research teams&lt;/li&gt;
+  &lt;li&gt;1:00:05 - New features for accelerated inference&lt;/li&gt;
+  &lt;li&gt;1:01:35 - Most common use case of HuggingFace&lt;/li&gt;
+  &lt;li&gt;1:04:17 - Integrating search algorithms into transformer library&lt;/li&gt;
+  &lt;li&gt;1:05:09 - Integrating vision models&lt;/li&gt;
+  &lt;li&gt;1:06:06 - Long term business model&lt;/li&gt;
+  &lt;li&gt;1:10:55 - Automation and simplification of the process of building models&lt;/li&gt;
+  &lt;li&gt;1:13:02 - Support for real-time inference&lt;/li&gt;
+  &lt;li&gt;1:14:40 - Recommendations for the audience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Relevant Links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;FastDS: &lt;a href=&quot;https://github.com/DAGsHub/fds&quot;&gt;https://github.com/DAGsHub/fds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;BigScience: &lt;a href=&quot;https://bigscience.huggingface.co&quot;&gt;https://bigscience.huggingface.co&lt;/a&gt;&lt;br&gt;
+&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/company/dagshub/&quot;&gt;https://www.linkedin.com/company/dagshub/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/company/huggingface/&quot;&gt;https://www.linkedin.com/company/huggingface/&lt;br&gt;
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/TheRealDAGsHub&quot;&gt;https://twitter.com/TheRealDAGsHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/huggingface&quot;&gt;https://twitter.com/huggingface&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:19:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14798779/14798779-1619550594419-ae6e6840a2eaa.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[🛣 Finding your path in ML with NLP Engineer Urszula Czerwinska]]></title>
+			<description><![CDATA[<p>In this episode, I'm speaking with Urszula Czerwinska about her path as a data scientist, the projects she worked on, experiences gained as a data scientist, as well as the challenges she's overcome in bringing her machine learning (ML) into production.</p>
+<p>Join our Discord community: https://discord.gg/tEYvqxwhah</p>
+<p><br>
+---<br>
+<br>
+Timestamps:<br>
+0:00 - Podcast intro<br>
+1:15 - Guest intro and how you got into data science<br>
+3:48 - Finding your fit – research or industry and when to transition<br>
+7:23 - What types of ML projects do you specialize in<br>
+10:41 - ML explainability and interpretability<br>
+15:26 - ML explainability with non-technical stakeholders<br>
+17:13 - What problems does your team solve within the organization<br>
+20:56 - ML in production – how to bring your ML projects from research to production<br>
+25:17 - The tools you can't live without<br>
+28:11 - Do you have a set process for productizing ML projects<br>
+30:08 - Team structures and communication for data science teams<br>
+33:42 - Who's in charge of setting up infrastructure for a project and job title discussion<br>
+36:29 - Interesting tools and repositories you work with<br>
+39:30 - How do you stay up to date<br>
+42:00 - Biggest challenges for you in ML<br>
+45:12 - Favorite and least favorite thing about being a data scientist<br>
+49:52 - Handling a workplace that doesn't understand what a data scientist is<br>
+53:07 - Data scientists are 🦄 53:30 Good papers you read recently<br>
+58:12 - Tips to improve the data science workflow &nbsp;<br>
+<br>
+Relevant Links:<br>
+- flair: https://github.com/flairNLP/flair<br>
+- AllenNLP: https://github.com/allenai/allennlp<br>
+- Papers with Code: https://paperswithcode.com/<br>
+- Dair.ai newsletter: https://dair.ai/newsletter/<br>
+- HuggingFace: https://huggingface.co/blog</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/mlops-podcast/episodes/Finding-your-path-in-ML-with-NLP-Engineer-Urszula-Czerwinska-evpi8r</link>
+			<guid isPermaLink="false">e54160ca-4e3e-4f3f-ab90-b0c1b6676a48</guid>
+			<dc:creator><![CDATA[Dean Pleban @ DagsHub]]></dc:creator>
+			<pubDate>Tue, 27 Apr 2021 19:29:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/58cdbb8c/podcast/play/32343771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-27%2F180220198-44100-2-21bf2a35ff002.m4a" length="60365536" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, I&apos;m speaking with Urszula Czerwinska about her path as a data scientist, the projects she worked on, experiences gained as a data scientist, as well as the challenges she&apos;s overcome in bringing her machine learning (ML) into production.&lt;/p&gt;
+&lt;p&gt;Join our Discord community: https://discord.gg/tEYvqxwhah&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+---&lt;br&gt;
+&lt;br&gt;
+Timestamps:&lt;br&gt;
+0:00 - Podcast intro&lt;br&gt;
+1:15 - Guest intro and how you got into data science&lt;br&gt;
+3:48 - Finding your fit – research or industry and when to transition&lt;br&gt;
+7:23 - What types of ML projects do you specialize in&lt;br&gt;
+10:41 - ML explainability and interpretability&lt;br&gt;
+15:26 - ML explainability with non-technical stakeholders&lt;br&gt;
+17:13 - What problems does your team solve within the organization&lt;br&gt;
+20:56 - ML in production – how to bring your ML projects from research to production&lt;br&gt;
+25:17 - The tools you can&apos;t live without&lt;br&gt;
+28:11 - Do you have a set process for productizing ML projects&lt;br&gt;
+30:08 - Team structures and communication for data science teams&lt;br&gt;
+33:42 - Who&apos;s in charge of setting up infrastructure for a project and job title discussion&lt;br&gt;
+36:29 - Interesting tools and repositories you work with&lt;br&gt;
+39:30 - How do you stay up to date&lt;br&gt;
+42:00 - Biggest challenges for you in ML&lt;br&gt;
+45:12 - Favorite and least favorite thing about being a data scientist&lt;br&gt;
+49:52 - Handling a workplace that doesn&apos;t understand what a data scientist is&lt;br&gt;
+53:07 - Data scientists are 🦄 53:30 Good papers you read recently&lt;br&gt;
+58:12 - Tips to improve the data science workflow &amp;nbsp;&lt;br&gt;
+&lt;br&gt;
+Relevant Links:&lt;br&gt;
+- flair: https://github.com/flairNLP/flair&lt;br&gt;
+- AllenNLP: https://github.com/allenai/allennlp&lt;br&gt;
+- Papers with Code: https://paperswithcode.com/&lt;br&gt;
+- Dair.ai newsletter: https://dair.ai/newsletter/&lt;br&gt;
+- HuggingFace: https://huggingface.co/blog&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:01:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14798779/14798779-1619550594419-ae6e6840a2eaa.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

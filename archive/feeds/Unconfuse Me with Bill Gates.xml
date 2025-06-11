@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Unconfuse Me with Bill Gates</title>
+    <link>https://www.gatesnotes.com/Podcast</link>
+    <pubDate>Thu, 01 Feb 2024 09:00:00 -0000</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2024 09:00:11 -0000</lastBuildDate>
+    <ttl>60</ttl>
+    <language>en-us</language>
+    <copyright>Gates Notes, LLC</copyright>
+    <webMaster>help@prx.org (PRX)</webMaster>
+    <description>
+      <![CDATA[<p>What do you do when you can’t solve a problem? I like to talk to smart people who can help me understand the subject better. I call this process “getting unconfused”—and I think it is one of the best ways to learn something new. In my new podcast, I try to get unconfused about some of the things that fascinate me. Join me on my learning journey as I talk to brilliant guests about Alzheimer’s disease, marijuana, plant-based meat, the evolution of language, and more. </p>]]>
+    </description>
+    <managingEditor>podcasts@gatesnotes.com ()</managingEditor>
+    <generator>PRX Feeder v1.0.0</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <image>
+      <url>https://f.prxu.org/4383/images/f1d079c8-b0d3-4885-b56c-d611a0eb8403/Cover_UnconfuseMe_3000x3000.png</url>
+      <title>Unconfuse Me with Bill Gates</title>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <width>3000</width>
+      <height>3000</height>
+      <description>What do you do when you can’t solve a problem? I like to talk to smart people who can help me understand the subject better. I call this process “getting unconfused”—and I think it is one of the best ways to learn something new. In my new podcast, I try to get unconfused about some of the things that fascinate me. Join me on my learning journey as I talk to brilliant guests about Alzheimer’s disease, marijuana, plant-based meat, the evolution of language, and more. </description>
+    </image>
+    <atom:link href="https://feed.unconfuseme.com/" rel="self" type="application/rss+xml"/>
+    <itunes:author>Gates Notes</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="https://f.prxu.org/4383/images/a281b725-e64f-4bec-80f0-97e498f4f589/Cover_UnconfuseMe_3000x3000.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:email>KJ.Sherman@gatesventures.com</itunes:email>
+      <itunes:name>Gates Notes</itunes:name>
+    </itunes:owner>
+    <itunes:subtitle>What do you do when you can’t solve a problem? I like to talk to smart people who can help me understand the subject better. I call this process “getting unconfused”—and I think it is one of the best ways to learn something new. In my new podcast, I try to get unconfused about some of the things that fascinate me. Join me on my learning journey as I talk to brilliant guests about Alzheimer’s disease, marijuana, plant-based meat, the evolution of language, and more. </itunes:subtitle>
+    <itunes:summary>
+      <![CDATA[What do you do when you can’t solve a problem? I like to talk to smart people who can help me understand the subject better. I call this process “getting unconfused”—and I think it is one of the best ways to learn something new. In my new podcast, I try to get unconfused about some of the things that fascinate me. Join me on my learning journey as I talk to brilliant guests about Alzheimer’s disease, marijuana, plant-based meat, the evolution of language, and more. ]]>
+    </itunes:summary>
+    <media:copyright>Gates Notes, LLC</media:copyright>
+    <media:thumbnail url="https://f.prxu.org/4383/images/f1d079c8-b0d3-4885-b56c-d611a0eb8403/Cover_UnconfuseMe_3000x3000.png"/>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Society &amp; Culture</media:category>
+    <item>
+      <guid isPermaLink="false">prx_4383_390f7cda-5c5a-489c-b694-2837f58048f6</guid>
+      <title>Episode 7: Hannah Ritchie</title>
+      <pubDate>Thu, 01 Feb 2024 09:00:00 -0000</pubDate>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <description>
+        <![CDATA[<p>When I start to feel overwhelmed by the climate challenges we face, I turn to Hannah Ritchie, a researcher at <a href="https://ourworldindata.org/" rel="nofollow" target="_blank">Our World in Data</a>. Her data-driven approach is an essential antidote to environmental doomsday-ism and provides some much-needed optimism about humanity’s ability to tackle big problems. I recently sat down with Hannah to talk about her terrific new book <em><a href="https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/" rel="nofollow" target="_blank">Not the End of the World</a></em>, why it’s so hard to wrap our minds around human progress, what we would ask a time traveler about the future, and more.</p>
+
+<ul>
+<li><p><em>Not the End of the World</em>: <a href="https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/" rel="nofollow" target="_blank">https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/</a></p></li>
+<li><p>Hannah’s TED talk: <a href="https://www.youtube.com/watch?v=Kl3VVrggKz4" rel="nofollow" target="_blank">https://www.youtube.com/watch?v=Kl3VVrggKz4</a></p></li>
+<li><p>Our World in Data: <a href="https://ourworldindata.org/" rel="nofollow" target="_blank">https://ourworldindata.org/</a></p></li>
+<li><p>Environmental Kuznets curve: <a href="https://en.wikipedia.org/wiki/Kuznets_curve#Environmental_Kuznets_curve" rel="nofollow" target="_blank">https://en.wikipedia.org/wiki/Kuznets_curve#Environmental_Kuznets_curve</a></p></li>
+<li><p>Prolific Machines: <a href="https://www.prolific-machines.com/" rel="nofollow" target="_blank">https://www.prolific-machines.com/</a></p></li>
+<li><p>Life is Grand by Camper Van Beethoven: <a href="https://www.youtube.com/watch?v=0axoVpNadYM&amp;ab_channel=indieitunes" rel="nofollow" target="_blank">https://www.youtube.com/watch?v=0axoVpNadYM&amp;ab_channel=indieitunes</a></p></li>
+</ul>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/390f7cda-5c5a-489c-b694-2837f58048f6/GN_PODCAST_HANNAH_RITCHIE_FINAL_REVISED_011824_DG.mp3" type="audio/mpeg" length="73199522"/>
+      <itunes:title>Hannah Ritchie</itunes:title>
+      <itunes:subtitle>When I start to feel overwhelmed by the climate challenges we face, I turn to Hannah Ritchie, a researcher at Our World in Data. Her data-driven approach is an essential antidote to environmental doomsday-ism and provides some much-needed optimism about humanity’s ability to tackle big problems. I recently sat down with Hannah to talk about her terrific new book Not the End of the World, why it’s so hard to wrap our minds around human progress, what we would ask a time traveler about the future, and more. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>30:18</itunes:duration>
+      <author>KJ.Sherman@gatesventures.com (Gates Notes)</author>
+      <category>
+        <![CDATA[carbon emissions]]>
+      </category>
+      <category>
+        <![CDATA[climate]]>
+      </category>
+      <category>
+        <![CDATA[climate change]]>
+      </category>
+      <category>
+        <![CDATA[climate trends]]>
+      </category>
+      <category>
+        <![CDATA[environment]]>
+      </category>
+      <category>
+        <![CDATA[environmental science]]>
+      </category>
+      <category>
+        <![CDATA[society & culture]]>
+      </category>
+      <itunes:author>Gates Notes</itunes:author>
+      <itunes:summary>
+        <![CDATA[When I start to feel overwhelmed by the climate challenges we face, I turn to Hannah Ritchie, a researcher at <a href="https://ourworldindata.org/" target="_blank">Our World in Data</a>. Her data-driven approach is an essential antidote to environmental doomsday-ism and provides some much-needed optimism about humanity’s ability to tackle big problems. I recently sat down with Hannah to talk about her terrific new book <a href="https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/" target="_blank">Not the End of the World</a>, why it’s so hard to wrap our minds around human progress, what we would ask a time traveler about the future, and more.
+
+
+Not the End of the World: <a href="https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/" target="_blank">https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/</a>
+Hannah’s TED talk: <a href="https://www.youtube.com/watch?v=Kl3VVrggKz4" target="_blank">https://www.youtube.com/watch?v=Kl3VVrggKz4</a>
+Our World in Data: <a href="https://ourworldindata.org/" target="_blank">https://ourworldindata.org/</a>
+Environmental Kuznets curve: <a href="https://en.wikipedia.org/wiki/Kuznets_curve#Environmental_Kuznets_curve" target="_blank">https://en.wikipedia.org/wiki/Kuznets_curve#Environmental_Kuznets_curve</a>
+Prolific Machines: <a href="https://www.prolific-machines.com/" target="_blank">https://www.prolific-machines.com/</a>
+Life is Grand by Camper Van Beethoven: <a href="https://www.youtube.com/watch?v=0axoVpNadYM&amp;ab_channel=indieitunes" target="_blank">https://www.youtube.com/watch?v=0axoVpNadYM&amp;ab_channel=indieitunes</a>
+]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/4383/390f7cda-5c5a-489c-b694-2837f58048f6/images/5c646d11-c062-4b77-9eba-67a5feec55b5/UnconfuseMe_2024_Ep7_Cover_Image_3000x3000.png"/>
+      <media:content fileSize="73199522" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/390f7cda-5c5a-489c-b694-2837f58048f6/GN_PODCAST_HANNAH_RITCHIE_FINAL_REVISED_011824_DG.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>When I start to feel overwhelmed by the climate challenges we face, I turn to Hannah Ritchie, a researcher at <a href="https://ourworldindata.org/" rel="nofollow" target="_blank">Our World in Data</a>. Her data-driven approach is an essential antidote to environmental doomsday-ism and provides some much-needed optimism about humanity’s ability to tackle big problems. I recently sat down with Hannah to talk about her terrific new book <em><a href="https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/" rel="nofollow" target="_blank">Not the End of the World</a></em>, why it’s so hard to wrap our minds around human progress, what we would ask a time traveler about the future, and more.</p>
+
+<ul>
+<li><p><em>Not the End of the World</em>: <a href="https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/" rel="nofollow" target="_blank">https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/</a></p></li>
+<li><p>Hannah’s TED talk: <a href="https://www.youtube.com/watch?v=Kl3VVrggKz4" rel="nofollow" target="_blank">https://www.youtube.com/watch?v=Kl3VVrggKz4</a></p></li>
+<li><p>Our World in Data: <a href="https://ourworldindata.org/" rel="nofollow" target="_blank">https://ourworldindata.org/</a></p></li>
+<li><p>Environmental Kuznets curve: <a href="https://en.wikipedia.org/wiki/Kuznets_curve#Environmental_Kuznets_curve" rel="nofollow" target="_blank">https://en.wikipedia.org/wiki/Kuznets_curve#Environmental_Kuznets_curve</a></p></li>
+<li><p>Prolific Machines: <a href="https://www.prolific-machines.com/" rel="nofollow" target="_blank">https://www.prolific-machines.com/</a></p></li>
+<li><p>Life is Grand by Camper Van Beethoven: <a href="https://www.youtube.com/watch?v=0axoVpNadYM&amp;ab_channel=indieitunes" rel="nofollow" target="_blank">https://www.youtube.com/watch?v=0axoVpNadYM&amp;ab_channel=indieitunes</a></p></li>
+</ul>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">prx_4383_a96b6957-2cee-418f-a73c-e1bdd845a3e1</guid>
+      <title>Episode 6: Sam Altman</title>
+      <pubDate>Thu, 11 Jan 2024 06:00:00 -0000</pubDate>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <description>
+        <![CDATA[<p>If you ask people to name leaders in artificial intelligence, there’s one name you’ll probably hear more than any other: Sam Altman. His team at <a href="https://openai.com/" rel="nofollow" target="_blank">OpenAI</a> is pushing the boundaries of what AI can do with <a href="https://chat.openai.com/" rel="nofollow" target="_blank">ChatGPT</a>, and I loved getting to talk to him about what’s next. Our conversation covered why today’s AI models are the stupidest they’ll ever be, how societies adapt to technological change, and even where humanity will find purpose once we’ve perfected artificial intelligence.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>OpenAI: <a href="https://openai.com/" rel="nofollow" target="_blank">OpenAI</a></p></li>
+<li><p>ChatGPT: <a href="https://chat.openai.com/" rel="nofollow" target="_blank">https://chat.openai.com/</a></p></li>
+<li><p>Riemann Hypothesis: <a href="https://en.wikipedia.org/wiki/Riemann_hypothesis" rel="nofollow" target="_blank">https://en.wikipedia.org/wiki/Riemann_hypothesis</a></p></li>
+<li><p>International Atomic Energy Agency: <a href="https://www.iaea.org/" rel="nofollow" target="_blank">https://www.iaea.org/</a></p></li>
+<li><p>Recomposed by Max Richter: Vivaldi, the Four Seasons: <a href="https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw?si=43658d01cf754579" rel="nofollow" target="_blank">https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw?si=43658d01cf754579</a></p></li>
+</ul>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/a96b6957-2cee-418f-a73c-e1bdd845a3e1/GN_Podcast_ALTMAN_Edit14_122823_DG.mp3" type="audio/mpeg" length="64068442"/>
+      <itunes:title>Sam Altman</itunes:title>
+      <itunes:subtitle>If you ask people to name leaders in artificial intelligence, there’s one name you’ll probably hear more than any other: Sam Altman. His team at OpenAI is pushing the boundaries of what AI can do with ChatGPT, and I loved getting to talk to him about what’s next. Our conversation covered why today’s AI models are the stupidest they’ll ever be, how societies adapt to technological change, and even where humanity will find purpose once we’ve perfected artificial intelligence.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>33:06</itunes:duration>
+      <author>KJ.Sherman@gatesventures.com (Gates Notes)</author>
+      <category>
+        <![CDATA[AI]]>
+      </category>
+      <category>
+        <![CDATA[Artificial intelligence]]>
+      </category>
+      <category>
+        <![CDATA[ChapGPT]]>
+      </category>
+      <category>
+        <![CDATA[OpenAI]]>
+      </category>
+      <category>
+        <![CDATA[society & culture]]>
+      </category>
+      <category>
+        <![CDATA[technology]]>
+      </category>
+      <itunes:author>Gates Notes</itunes:author>
+      <itunes:summary>
+        <![CDATA[If you ask people to name leaders in artificial intelligence, there’s one name you’ll probably hear more than any other: Sam Altman. His team at <a href="https://openai.com/" target="_blank">OpenAI</a> is pushing the boundaries of what AI can do with <a href="https://chat.openai.com/" target="_blank">ChatGPT</a>, and I loved getting to talk to him about what’s next. Our conversation covered why today’s AI models are the stupidest they’ll ever be, how societies adapt to technological change, and even where humanity will find purpose once we’ve perfected artificial intelligence.
+
+Show notes:
+
+
+OpenAI: <a href="https://openai.com/" target="_blank">OpenAI</a>
+ChatGPT: <a href="https://chat.openai.com/" target="_blank">https://chat.openai.com/</a>
+Riemann Hypothesis: <a href="https://en.wikipedia.org/wiki/Riemann_hypothesis" target="_blank">https://en.wikipedia.org/wiki/Riemann_hypothesis</a>
+International Atomic Energy Agency: <a href="https://www.iaea.org/" target="_blank">https://www.iaea.org/</a>
+Recomposed by Max Richter: Vivaldi, the Four Seasons: <a href="https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw?si=43658d01cf754579" target="_blank">https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw?si=43658d01cf754579</a>
+]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/4383/a96b6957-2cee-418f-a73c-e1bdd845a3e1/images/7b5e43ce-6ad1-439b-8063-841a7b30d3d0/UnconfuseMe_2023_Ep6_Thumbnail_3000x3000.png"/>
+      <media:content fileSize="64068442" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/a96b6957-2cee-418f-a73c-e1bdd845a3e1/GN_Podcast_ALTMAN_Edit14_122823_DG.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>If you ask people to name leaders in artificial intelligence, there’s one name you’ll probably hear more than any other: Sam Altman. His team at <a href="https://openai.com/" rel="nofollow" target="_blank">OpenAI</a> is pushing the boundaries of what AI can do with <a href="https://chat.openai.com/" rel="nofollow" target="_blank">ChatGPT</a>, and I loved getting to talk to him about what’s next. Our conversation covered why today’s AI models are the stupidest they’ll ever be, how societies adapt to technological change, and even where humanity will find purpose once we’ve perfected artificial intelligence.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>OpenAI: <a href="https://openai.com/" rel="nofollow" target="_blank">OpenAI</a></p></li>
+<li><p>ChatGPT: <a href="https://chat.openai.com/" rel="nofollow" target="_blank">https://chat.openai.com/</a></p></li>
+<li><p>Riemann Hypothesis: <a href="https://en.wikipedia.org/wiki/Riemann_hypothesis" rel="nofollow" target="_blank">https://en.wikipedia.org/wiki/Riemann_hypothesis</a></p></li>
+<li><p>International Atomic Energy Agency: <a href="https://www.iaea.org/" rel="nofollow" target="_blank">https://www.iaea.org/</a></p></li>
+<li><p>Recomposed by Max Richter: Vivaldi, the Four Seasons: <a href="https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw?si=43658d01cf754579" rel="nofollow" target="_blank">https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw?si=43658d01cf754579</a></p></li>
+</ul>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">prx_4383_a4af5ff8-5bf6-4622-93a2-c578d7fbc1ed</guid>
+      <title>Episode 5: Yejin Choi</title>
+      <pubDate>Thu, 16 Nov 2023 09:01:00 -0000</pubDate>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <description>
+        <![CDATA[<p>Few people are better at explaining the science of artificial intelligence than Yejin Choi. She’s a computer science professor at the University of Washington, senior resource manager at the Allen Institute for AI, and the recipient of a MacArthur Fellowship. I thought her recent <a href="https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en" rel="nofollow" target="_blank">TED talk</a> was terrific, and I was thrilled to talk to her about how you train a large language model, why it’s so hard for robots to pick tools out of a box, and why universities must play a key role in the future of AI research.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>Yejin’s TED talk: <a href="https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en" rel="nofollow" target="_blank">https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en</a></p></li>
+<li><p>Moravec’s paradox: <a href="https://en.wikipedia.org/wiki/Moravec%27s_paradox" rel="nofollow" target="_blank">https://en.wikipedia.org/wiki/Moravec%27s_paradox</a></p></li>
+<li><p>Virtual Insanity by Jamiroquai: <a href="https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn?si=b290674d2791460d" rel="nofollow" target="_blank">https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn?si=b290674d2791460d</a></p></li>
+</ul>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/a4af5ff8-5bf6-4622-93a2-c578d7fbc1ed/GN_Podcast_CHOI_Edit10_110323_DG.mp3" type="audio/mpeg" length="60947861"/>
+      <itunes:title>Yejin Choi</itunes:title>
+      <itunes:subtitle>Few people are better at explaining the science of artificial intelligence than Yejin Choi. She’s a computer science professor at the University of Washington, senior resource manager at the Allen Institute for AI, and the recipient of a MacArthur Fellowship. I thought her recent TED talk was terrific, and I was thrilled to talk to her about how you train a large language model, why it’s so hard for robots to pick tools out of a box, and why universities must play a key role in the future of AI research.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>31:30</itunes:duration>
+      <author>KJ.Sherman@gatesventures.com (Gates Notes)</author>
+      <category>
+        <![CDATA[AI large language model]]>
+      </category>
+      <category>
+        <![CDATA[AI training systems]]>
+      </category>
+      <category>
+        <![CDATA[ai]]>
+      </category>
+      <category>
+        <![CDATA[artificial intelligence]]>
+      </category>
+      <category>
+        <![CDATA[computer science]]>
+      </category>
+      <category>
+        <![CDATA[society & culture]]>
+      </category>
+      <category>
+        <![CDATA[technology]]>
+      </category>
+      <itunes:author>Gates Notes</itunes:author>
+      <itunes:summary>
+        <![CDATA[Few people are better at explaining the science of artificial intelligence than Yejin Choi. She’s a computer science professor at the University of Washington, senior resource manager at the Allen Institute for AI, and the recipient of a MacArthur Fellowship. I thought her recent <a href="https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en" target="_blank">TED talk</a> was terrific, and I was thrilled to talk to her about how you train a large language model, why it’s so hard for robots to pick tools out of a box, and why universities must play a key role in the future of AI research.
+
+Show notes:
+
+
+Yejin’s TED talk: <a href="https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en" target="_blank">https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en</a>
+Moravec’s paradox: <a href="https://en.wikipedia.org/wiki/Moravec%27s_paradox" target="_blank">https://en.wikipedia.org/wiki/Moravec%27s_paradox</a>
+Virtual Insanity by Jamiroquai: <a href="https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn?si=b290674d2791460d" target="_blank">https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn?si=b290674d2791460d</a>
+]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/4383/a4af5ff8-5bf6-4622-93a2-c578d7fbc1ed/images/5b09a8be-6549-43b1-9a44-68716b95d0e6/UnconfuseMe_2023_Ep5_Thumbnail_3000x3000.png"/>
+      <media:content fileSize="60947861" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/a4af5ff8-5bf6-4622-93a2-c578d7fbc1ed/GN_Podcast_CHOI_Edit10_110323_DG.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>Few people are better at explaining the science of artificial intelligence than Yejin Choi. She’s a computer science professor at the University of Washington, senior resource manager at the Allen Institute for AI, and the recipient of a MacArthur Fellowship. I thought her recent <a href="https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en" rel="nofollow" target="_blank">TED talk</a> was terrific, and I was thrilled to talk to her about how you train a large language model, why it’s so hard for robots to pick tools out of a box, and why universities must play a key role in the future of AI research.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>Yejin’s TED talk: <a href="https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en" rel="nofollow" target="_blank">https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?language=en</a></p></li>
+<li><p>Moravec’s paradox: <a href="https://en.wikipedia.org/wiki/Moravec%27s_paradox" rel="nofollow" target="_blank">https://en.wikipedia.org/wiki/Moravec%27s_paradox</a></p></li>
+<li><p>Virtual Insanity by Jamiroquai: <a href="https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn?si=b290674d2791460d" rel="nofollow" target="_blank">https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn?si=b290674d2791460d</a></p></li>
+</ul>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">prx_4383_2a08dd10-8adb-4e2d-ab3e-61be04700685</guid>
+      <title>Episode 4: John McWhorter</title>
+      <pubDate>Thu, 07 Sep 2023 08:00:00 -0000</pubDate>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <description>
+        <![CDATA[<p>I recently started learning French, and the process has made one thing clear to me: There’s a lot I don’t understand about how languages work. So, I turned to John McWhorter, a linguist who has dedicated his career to demystifying the roughly 7,000 languages spoken around the world. When he isn’t busy <a href="https://www.goodreads.com/author/list/17151107.John_McWhorter" rel="nofollow" target="_blank">writing books</a>, John is a professor at Columbia University, host of his own <a href="https://slate.com/podcasts/lexicon-valley" rel="nofollow" target="_blank">podcast</a>, and frequent lecturer for <a href="https://www.thegreatcourses.com/professors/john-mcwhorter/" rel="nofollow" target="_blank">Great Courses</a>. He helped me understand why English is so irregular, what the ideal language would look like, why all dialects are created equal, and more.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>John’s books: <a href="https://www.goodreads.com/author/list/17151107.John_McWhorter" rel="nofollow" target="_blank">Books by John McWhorter (Author of Our Magnificent Bastard Tongue) (goodreads.com)</a></p></li>
+<li><p>Lexicon Valley: <a href="https://slate.com/podcasts/lexicon-valley" rel="nofollow" target="_blank">Lexicon Valley with John McWhorter. (slate.com)</a></p></li>
+<li><p>John’s Great Courses: <a href="https://www.thegreatcourses.com/professors/john-mcwhorter" rel="nofollow" target="_blank">John McWhorter (thegreatcourses.com)</a></p></li>
+<li><p>Pronoun Trouble from Looney Tunes: <a href="https://www.youtube.com/watch?v=6e1hZGDaqIw&amp;ab_channel=ariel141" rel="nofollow" target="_blank">Rabbit Seasoning - Pronoun Problem - YouTube</a></p></li>
+<li><p>Muldoon the Bassoon from A Child’s Introduction to the Orchestra: <a href="https://youtu.be/C_ipa4JzNNc?t=545" rel="nofollow" target="_blank">https://youtu.be/C_ipa4JzNNc?t=545</a></p></li>
+</ul>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/2a08dd10-8adb-4e2d-ab3e-61be04700685/GN_PodcastS2_MCWHORTER_FINAL_Revised_082923_DG.mp3" type="audio/mpeg" length="58549201"/>
+      <itunes:title>John McWhorter</itunes:title>
+      <itunes:subtitle>I recently started learning French, and the process has made one thing clear to me: There’s a lot I don’t understand about how languages work. So, I turned to John McWhorter, a linguist who has dedicated his career to demystifying the roughly 7,000 languages spoken around the world. When he isn’t busy writing books, John is a professor at Columbia University, host of his own podcast, and frequent lecturer for Great Courses. He helped me understand why English is so irregular, what the ideal language would look like, why all dialects are created equal, and more.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>30:13</itunes:duration>
+      <author>KJ.Sherman@gatesventures.com (Gates Notes)</author>
+      <category>
+        <![CDATA[language]]>
+      </category>
+      <category>
+        <![CDATA[linguist]]>
+      </category>
+      <category>
+        <![CDATA[society & culture]]>
+      </category>
+      <itunes:author>Gates Notes</itunes:author>
+      <itunes:summary>
+        <![CDATA[I recently started learning French, and the process has made one thing clear to me: There’s a lot I don’t understand about how languages work. So, I turned to John McWhorter, a linguist who has dedicated his career to demystifying the roughly 7,000 languages spoken around the world. When he isn’t busy <a href="https://www.goodreads.com/author/list/17151107.John_McWhorter" target="_blank">writing books</a>, John is a professor at Columbia University, host of his own <a href="https://slate.com/podcasts/lexicon-valley" target="_blank">podcast</a>, and frequent lecturer for <a href="https://www.thegreatcourses.com/professors/john-mcwhorter/" target="_blank">Great Courses</a>. He helped me understand why English is so irregular, what the ideal language would look like, why all dialects are created equal, and more.
+
+Show notes:
+
+
+John’s books: <a href="https://www.goodreads.com/author/list/17151107.John_McWhorter" target="_blank">Books by John McWhorter (Author of Our Magnificent Bastard Tongue) (goodreads.com)</a>
+Lexicon Valley: <a href="https://slate.com/podcasts/lexicon-valley" target="_blank">Lexicon Valley with John McWhorter. (slate.com)</a>
+John’s Great Courses: <a href="https://www.thegreatcourses.com/professors/john-mcwhorter" target="_blank">John McWhorter (thegreatcourses.com)</a>
+Pronoun Trouble from Looney Tunes: <a href="https://www.youtube.com/watch?v=6e1hZGDaqIw&amp;ab_channel=ariel141" target="_blank">Rabbit Seasoning - Pronoun Problem - YouTube</a>
+Muldoon the Bassoon from A Child’s Introduction to the Orchestra: <a href="https://youtu.be/C_ipa4JzNNc?t=545" target="_blank">https://youtu.be/C_ipa4JzNNc?t=545</a>
+]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/4383/2a08dd10-8adb-4e2d-ab3e-61be04700685/images/08fe6ff4-3106-4028-afb1-db0fa9353658/UnconfuseMe_2023_Episode_Art_Ep4_3000x3000.png"/>
+      <media:content fileSize="58549201" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/2a08dd10-8adb-4e2d-ab3e-61be04700685/GN_PodcastS2_MCWHORTER_FINAL_Revised_082923_DG.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>I recently started learning French, and the process has made one thing clear to me: There’s a lot I don’t understand about how languages work. So, I turned to John McWhorter, a linguist who has dedicated his career to demystifying the roughly 7,000 languages spoken around the world. When he isn’t busy <a href="https://www.goodreads.com/author/list/17151107.John_McWhorter" rel="nofollow" target="_blank">writing books</a>, John is a professor at Columbia University, host of his own <a href="https://slate.com/podcasts/lexicon-valley" rel="nofollow" target="_blank">podcast</a>, and frequent lecturer for <a href="https://www.thegreatcourses.com/professors/john-mcwhorter/" rel="nofollow" target="_blank">Great Courses</a>. He helped me understand why English is so irregular, what the ideal language would look like, why all dialects are created equal, and more.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>John’s books: <a href="https://www.goodreads.com/author/list/17151107.John_McWhorter" rel="nofollow" target="_blank">Books by John McWhorter (Author of Our Magnificent Bastard Tongue) (goodreads.com)</a></p></li>
+<li><p>Lexicon Valley: <a href="https://slate.com/podcasts/lexicon-valley" rel="nofollow" target="_blank">Lexicon Valley with John McWhorter. (slate.com)</a></p></li>
+<li><p>John’s Great Courses: <a href="https://www.thegreatcourses.com/professors/john-mcwhorter" rel="nofollow" target="_blank">John McWhorter (thegreatcourses.com)</a></p></li>
+<li><p>Pronoun Trouble from Looney Tunes: <a href="https://www.youtube.com/watch?v=6e1hZGDaqIw&amp;ab_channel=ariel141" rel="nofollow" target="_blank">Rabbit Seasoning - Pronoun Problem - YouTube</a></p></li>
+<li><p>Muldoon the Bassoon from A Child’s Introduction to the Orchestra: <a href="https://youtu.be/C_ipa4JzNNc?t=545" rel="nofollow" target="_blank">https://youtu.be/C_ipa4JzNNc?t=545</a></p></li>
+</ul>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">prx_4383_e6cef8a5-0f86-4ac0-8e76-a2f3bbc15c31</guid>
+      <title>Episode 3: Questlove</title>
+      <pubDate>Thu, 24 Aug 2023 08:00:00 -0000</pubDate>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <description>
+        <![CDATA[<p>Ahmir “Questlove” Thompson is the ultimate multi-hyphenate: He’s a musician, filmmaker, author, entrepreneur, and more. The Grammy and Oscar winner is also a plant-based foods advocate, so when I had some questions about the future of food, I knew I had to sit down with him. We had a blast talking about why he made a <a href="https://www.goldbelly.com/quest-loves-food?ref=category" rel="nofollow" target="_blank">meatless Philly cheesesteak</a>, how we make healthy food accessible to more people, Questlove’s insane record collection, how we got our nicknames, and our Wordle strategies.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>Quest Loves Food plant-based cheesesteak: <a href="https://www.goldbelly.com/quest-loves-food?ref=category" rel="nofollow" target="_blank">Quest Loves Food (goldbelly.com)</a></p></li>
+<li><p>Summer of Soul: <a href="https://www.youtube.com/watch?v=U1Eg-vtSABE&amp;ab_channel=SearchlightPictures" rel="nofollow" target="_blank">SUMMER OF SOUL | Official Teaser - YouTube</a></p></li>
+<li><p>Impossible Foods: <a href="https://impossiblefoods.com/" rel="nofollow" target="_blank">Impossible Foods: Meat made from plants</a></p></li>
+<li><p>NotCo: <a href="https://notco.com/us" rel="nofollow" target="_blank">NotCo - Why Not - NotCo</a></p></li>
+<li><p>Eat Just: <a href="https://www.ju.st/" rel="nofollow" target="_blank">JUST Egg</a></p></li>
+<li><p>Right Rice: <a href="https://www.rightrice.com/" rel="nofollow" target="_blank">RightRice – Planting Hope Brands</a></p></li>
+<li><p>Magic Spoon: <a href="https://magicspoon.com/" rel="nofollow" target="_blank">Magic Spoon</a></p></li>
+<li><p>Food and Finance High School: <a href="https://www.foodfinancehs.org/" rel="nofollow" target="_blank">Food and Finance High School</a></p></li>
+<li><p>Get Out of My Life, Woman by Thad Jones and Mel Lewis: <a href="https://open.spotify.com/track/4D3YSqzakGAveLKCBMd2vh?si=de078c96a1694d8c" rel="nofollow" target="_blank">https://open.spotify.com/track/4D3YSqzakGAveLKCBMd2vh?si=de078c96a1694d8c</a></p></li>
+</ul>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/e6cef8a5-0f86-4ac0-8e76-a2f3bbc15c31/GN_PodcastS2_QUESTLOVE_FINAL_48khz.mp3" type="audio/mpeg" length="60231359"/>
+      <itunes:title>Questlove</itunes:title>
+      <itunes:subtitle>Ahmir “Questlove” Thompson is the ultimate multi-hyphenate: He’s a musician, filmmaker, author, entrepreneur, and more. The Grammy and Oscar winner is also a plant-based foods advocate, so when I had some questions about the future of food, I knew I had to sit down with him. We had a blast talking about why he made a meatless Philly cheesesteak, how we make healthy food accessible to more people, Questlove’s insane record collection, how we got our nicknames, and our Wordle strategies.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>31:21</itunes:duration>
+      <author>KJ.Sherman@gatesventures.com (Gates Notes)</author>
+      <itunes:author>Gates Notes</itunes:author>
+      <itunes:summary>
+        <![CDATA[Ahmir “Questlove” Thompson is the ultimate multi-hyphenate: He’s a musician, filmmaker, author, entrepreneur, and more. The Grammy and Oscar winner is also a plant-based foods advocate, so when I had some questions about the future of food, I knew I had to sit down with him. We had a blast talking about why he made a <a href="https://www.goldbelly.com/quest-loves-food?ref=category" target="_blank">meatless Philly cheesesteak</a>, how we make healthy food accessible to more people, Questlove’s insane record collection, how we got our nicknames, and our Wordle strategies.
+
+Show notes:
+
+
+Quest Loves Food plant-based cheesesteak: <a href="https://www.goldbelly.com/quest-loves-food?ref=category" target="_blank">Quest Loves Food (goldbelly.com)</a>
+Summer of Soul: <a href="https://www.youtube.com/watch?v=U1Eg-vtSABE&amp;ab_channel=SearchlightPictures" target="_blank">SUMMER OF SOUL | Official Teaser - YouTube</a>
+Impossible Foods: <a href="https://impossiblefoods.com/" target="_blank">Impossible Foods: Meat made from plants</a>
+NotCo: <a href="https://notco.com/us" target="_blank">NotCo - Why Not - NotCo</a>
+Eat Just: <a href="https://www.ju.st/" target="_blank">JUST Egg</a>
+Right Rice: <a href="https://www.rightrice.com/" target="_blank">RightRice – Planting Hope Brands</a>
+Magic Spoon: <a href="https://magicspoon.com/" target="_blank">Magic Spoon</a>
+Food and Finance High School: <a href="https://www.foodfinancehs.org/" target="_blank">Food and Finance High School</a>
+Get Out of My Life, Woman by Thad Jones and Mel Lewis: <a href="https://open.spotify.com/track/4D3YSqzakGAveLKCBMd2vh?si=de078c96a1694d8c" target="_blank">https://open.spotify.com/track/4D3YSqzakGAveLKCBMd2vh?si=de078c96a1694d8c</a>
+]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/4383/e6cef8a5-0f86-4ac0-8e76-a2f3bbc15c31/images/55dfd753-e7b9-43dd-903f-d556393229cd/UnconfuseMe_2023_Episode_Art_Ep3_3000x3000.png"/>
+      <media:content fileSize="60231359" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/e6cef8a5-0f86-4ac0-8e76-a2f3bbc15c31/GN_PodcastS2_QUESTLOVE_FINAL_48khz.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>Ahmir “Questlove” Thompson is the ultimate multi-hyphenate: He’s a musician, filmmaker, author, entrepreneur, and more. The Grammy and Oscar winner is also a plant-based foods advocate, so when I had some questions about the future of food, I knew I had to sit down with him. We had a blast talking about why he made a <a href="https://www.goldbelly.com/quest-loves-food?ref=category" rel="nofollow" target="_blank">meatless Philly cheesesteak</a>, how we make healthy food accessible to more people, Questlove’s insane record collection, how we got our nicknames, and our Wordle strategies.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>Quest Loves Food plant-based cheesesteak: <a href="https://www.goldbelly.com/quest-loves-food?ref=category" rel="nofollow" target="_blank">Quest Loves Food (goldbelly.com)</a></p></li>
+<li><p>Summer of Soul: <a href="https://www.youtube.com/watch?v=U1Eg-vtSABE&amp;ab_channel=SearchlightPictures" rel="nofollow" target="_blank">SUMMER OF SOUL | Official Teaser - YouTube</a></p></li>
+<li><p>Impossible Foods: <a href="https://impossiblefoods.com/" rel="nofollow" target="_blank">Impossible Foods: Meat made from plants</a></p></li>
+<li><p>NotCo: <a href="https://notco.com/us" rel="nofollow" target="_blank">NotCo - Why Not - NotCo</a></p></li>
+<li><p>Eat Just: <a href="https://www.ju.st/" rel="nofollow" target="_blank">JUST Egg</a></p></li>
+<li><p>Right Rice: <a href="https://www.rightrice.com/" rel="nofollow" target="_blank">RightRice – Planting Hope Brands</a></p></li>
+<li><p>Magic Spoon: <a href="https://magicspoon.com/" rel="nofollow" target="_blank">Magic Spoon</a></p></li>
+<li><p>Food and Finance High School: <a href="https://www.foodfinancehs.org/" rel="nofollow" target="_blank">Food and Finance High School</a></p></li>
+<li><p>Get Out of My Life, Woman by Thad Jones and Mel Lewis: <a href="https://open.spotify.com/track/4D3YSqzakGAveLKCBMd2vh?si=de078c96a1694d8c" rel="nofollow" target="_blank">https://open.spotify.com/track/4D3YSqzakGAveLKCBMd2vh?si=de078c96a1694d8c</a></p></li>
+</ul>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">prx_4383_f99e9f15-fb55-49e5-b312-484e717555d8</guid>
+      <title>Episode 2: Sal Khan</title>
+      <pubDate>Thu, 10 Aug 2023 08:00:00 -0000</pubDate>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <description>
+        <![CDATA[<p>Sal Khan is a true pioneer of harnessing the power of technology to help kids learn. So, when I wanted to learn more about how artificial intelligence will transform education, I knew I had to talk to the founder of <a href="https://www.khanacademy.org/" rel="nofollow" target="_blank">Khan Academy</a>. I loved chatting with Sal about why tutoring is so important, how his new service <a href="https://www.khanacademy.org/khan-labs" rel="nofollow" target="_blank">Khanmigo</a> is making the most of ChatGPT, and how we can keep teachers at the center of the classroom in the age of AI. We even found time to talk about our favorite teachers and the subject we wish we’d studied in school.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>Khan Academy: <a href="https://www.khanacademy.org/" rel="nofollow" target="_blank">Khan Academy | Free Online Courses, Lessons &amp; Practice</a></p></li>
+<li><p>E-Rate: <a href="https://www.fcc.gov/consumers/guides/universal-service-program-schools-and-libraries-e-rate" rel="nofollow" target="_blank">E-Rate: Universal Service Program for Schools and Libraries | Federal Communications Commission (fcc.gov)</a></p></li>
+<li><p>Khanmigo: <a href="https://www.khanacademy.org/khan-labs" rel="nofollow" target="_blank">Khan Academy</a></p></li>
+<li><p>Schoolhouse World: <a href="https://schoolhouse.world/" rel="nofollow" target="_blank">Free Online Tutoring — Schoolhouse</a></p></li>
+<li><p>Redemption Song by Bob Marley: <a href="https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3?si=2d1391ac7c024a59" rel="nofollow" target="_blank">https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3?si=2d1391ac7c024a59</a></p></li>
+<li><p>Sal Khan meets Salman Khan: <a href="https://www.youtube.com/watch?v=Dax3C8HlWFM&amp;ab_channel=NDTV" rel="nofollow" target="_blank">Walk The Talk with Khanacademy.org's Salman Khan - YouTube</a></p></li>
+</ul>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/f99e9f15-fb55-49e5-b312-484e717555d8/GN_PodcastS2_KHAN_Edit18_073123_DG.mp3" type="audio/mpeg" length="58781027"/>
+      <itunes:title>Sal Khan</itunes:title>
+      <itunes:subtitle>Sal Khan is a true pioneer of harnessing the power of technology to help kids learn. So, when I wanted to learn more about how artificial intelligence will transform education, I knew I had to talk to the founder of Khan Academy. I loved chatting with Sal about why tutoring is so important, how his new service Khanmigo is making the most of ChatGPT, and how we can keep teachers at the center of the classroom in the age of AI. We even found time to talk about our favorite teachers and the subject we wish we’d studied in school.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>30:17</itunes:duration>
+      <author>KJ.Sherman@gatesventures.com (Gates Notes)</author>
+      <category>
+        <![CDATA[AI]]>
+      </category>
+      <category>
+        <![CDATA[ChatGPT]]>
+      </category>
+      <category>
+        <![CDATA[artificial intelligence]]>
+      </category>
+      <category>
+        <![CDATA[education]]>
+      </category>
+      <category>
+        <![CDATA[math]]>
+      </category>
+      <category>
+        <![CDATA[online learning]]>
+      </category>
+      <category>
+        <![CDATA[society & culture]]>
+      </category>
+      <category>
+        <![CDATA[technology]]>
+      </category>
+      <category>
+        <![CDATA[tutoring]]>
+      </category>
+      <itunes:author>Gates Notes</itunes:author>
+      <itunes:summary>
+        <![CDATA[Sal Khan is a true pioneer of harnessing the power of technology to help kids learn. So, when I wanted to learn more about how artificial intelligence will transform education, I knew I had to talk to the founder of <a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>. I loved chatting with Sal about why tutoring is so important, how his new service <a href="https://www.khanacademy.org/khan-labs" target="_blank">Khanmigo</a> is making the most of ChatGPT, and how we can keep teachers at the center of the classroom in the age of AI. We even found time to talk about our favorite teachers and the subject we wish we’d studied in school.
+
+Show notes:
+
+
+Khan Academy: <a href="https://www.khanacademy.org/" target="_blank">Khan Academy | Free Online Courses, Lessons &amp; Practice</a>
+E-Rate: <a href="https://www.fcc.gov/consumers/guides/universal-service-program-schools-and-libraries-e-rate" target="_blank">E-Rate: Universal Service Program for Schools and Libraries | Federal Communications Commission (fcc.gov)</a>
+Khanmigo: <a href="https://www.khanacademy.org/khan-labs" target="_blank">Khan Academy</a>
+Schoolhouse World: <a href="https://schoolhouse.world/" target="_blank">Free Online Tutoring — Schoolhouse</a>
+Redemption Song by Bob Marley: <a href="https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3?si=2d1391ac7c024a59" target="_blank">https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3?si=2d1391ac7c024a59</a>
+Sal Khan meets Salman Khan: <a href="https://www.youtube.com/watch?v=Dax3C8HlWFM&amp;ab_channel=NDTV" target="_blank">Walk The Talk with Khanacademy.org's Salman Khan - YouTube</a>
+]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/4383/f99e9f15-fb55-49e5-b312-484e717555d8/images/cefb6c6b-1b53-4eb9-bd45-62823b980b32/UnconfuseMe_2023_Episode_Art_Ep2_3000x3000.png"/>
+      <media:content fileSize="58781027" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/f99e9f15-fb55-49e5-b312-484e717555d8/GN_PodcastS2_KHAN_Edit18_073123_DG.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>Sal Khan is a true pioneer of harnessing the power of technology to help kids learn. So, when I wanted to learn more about how artificial intelligence will transform education, I knew I had to talk to the founder of <a href="https://www.khanacademy.org/" rel="nofollow" target="_blank">Khan Academy</a>. I loved chatting with Sal about why tutoring is so important, how his new service <a href="https://www.khanacademy.org/khan-labs" rel="nofollow" target="_blank">Khanmigo</a> is making the most of ChatGPT, and how we can keep teachers at the center of the classroom in the age of AI. We even found time to talk about our favorite teachers and the subject we wish we’d studied in school.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>Khan Academy: <a href="https://www.khanacademy.org/" rel="nofollow" target="_blank">Khan Academy | Free Online Courses, Lessons &amp; Practice</a></p></li>
+<li><p>E-Rate: <a href="https://www.fcc.gov/consumers/guides/universal-service-program-schools-and-libraries-e-rate" rel="nofollow" target="_blank">E-Rate: Universal Service Program for Schools and Libraries | Federal Communications Commission (fcc.gov)</a></p></li>
+<li><p>Khanmigo: <a href="https://www.khanacademy.org/khan-labs" rel="nofollow" target="_blank">Khan Academy</a></p></li>
+<li><p>Schoolhouse World: <a href="https://schoolhouse.world/" rel="nofollow" target="_blank">Free Online Tutoring — Schoolhouse</a></p></li>
+<li><p>Redemption Song by Bob Marley: <a href="https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3?si=2d1391ac7c024a59" rel="nofollow" target="_blank">https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3?si=2d1391ac7c024a59</a></p></li>
+<li><p>Sal Khan meets Salman Khan: <a href="https://www.youtube.com/watch?v=Dax3C8HlWFM&amp;ab_channel=NDTV" rel="nofollow" target="_blank">Walk The Talk with Khanacademy.org's Salman Khan - YouTube</a></p></li>
+</ul>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">prx_4383_2c7e067f-c403-462a-81a9-27aa1aca16c8</guid>
+      <title>Episode 1: Seth Rogen &amp; Lauren Miller Rogen</title>
+      <pubDate>Thu, 27 Jul 2023 08:00:00 -0000</pubDate>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <description>
+        <![CDATA[<p>Can Alzheimer’s disease be funny? I was skeptical, especially given the devastating experience my family had watching my dad suffer from it. So, I asked two experts in using humor to raise awareness—Seth Rogen and Lauren Miller Rogen—to help me see the light. We had a great conversation about their organization <a href="https://www.wearehfc.org/" rel="nofollow" target="_blank">Hilarity for Charity</a>, <a href="https://www.gatesnotes.com/New-breakthroughs-in-Alzheimers-diagnostics" rel="nofollow" target="_blank">hope for the future of Alzheimer’s research</a>, the <a href="https://www.hilarityforcharity.org/5-brain-health-habits" rel="nofollow" target="_blank">importance of a good night’s sleep</a>, and why Seth started a <a href="https://www.houseplant.com/" rel="nofollow" target="_blank">cannabis lifestyle company</a>.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>Hilarity for Charity: <a href="https://www.wearehfc.org/" rel="nofollow" target="_blank">Hilarity For Charity (wearehfc.org)</a></p></li>
+<li><p>Alzheimer’s Association: <a href="https://www.alz.org/" rel="nofollow" target="_blank">Alzheimer's Association | Alzheimer's Disease &amp; Dementia Help</a></p></li>
+<li><p>Why I’m hopeful about the future of Alzheimer’s research: <a href="https://www.gatesnotes.com/New-breakthroughs-in-Alzheimers-diagnostics" rel="nofollow" target="_blank">hope for the future of Alzheimer’s research</a></p></li>
+<li><p>HFC’s 5 Brain Healthy Habits: <a href="https://www.hilarityforcharity.org/5-brain-health-habits" rel="nofollow" target="_blank">5 Brain Health Habits | Hilarity For Charity</a></p></li>
+<li><p>Houseplant: <a href="https://www.houseplant.com/" rel="nofollow" target="_blank">https://www.houseplant.com/</a></p></li>
+<li><p>Oogum Boogum Song by Brenton Wood: <a href="https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1?si=E6kxhw1RS92r8fumctr_oQ&amp;nd=1" rel="nofollow" target="_blank">Oogum Boogum Song</a></p></li>
+<li><p>Seth’s testimony about Alzheimer’s to Congress: <a href="https://www.youtube.com/watch?v=UHqx3-mfHAY&amp;ab_channel=C-SPAN" rel="nofollow" target="_blank">Seth Rogen Opening Statement (C-SPAN) - YouTube</a></p></li>
+</ul>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/2c7e067f-c403-462a-81a9-27aa1aca16c8/ROGENS_ZM_MIX3_MASTER.mp3" type="audio/mpeg" length="67676699"/>
+      <itunes:title>Seth Rogen &amp; Lauren Miller Rogen</itunes:title>
+      <itunes:subtitle>Can Alzheimer’s disease be funny? I was skeptical, especially given the devastating experience my family had watching my dad suffer from it. So, I asked two experts in using humor to raise awareness—Seth Rogen and Lauren Miller Rogen—to help me see the light. We had a great conversation about their organization Hilarity for Charity, hope for the future of Alzheimer’s research, the importance of a good night’s sleep, and why Seth started a cannabis lifestyle company. </itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>35:14</itunes:duration>
+      <author>KJ.Sherman@gatesventures.com (Gates Notes)</author>
+      <category>
+        <![CDATA[Alzheimer's ]]>
+      </category>
+      <category>
+        <![CDATA[Alzheimer's research]]>
+      </category>
+      <category>
+        <![CDATA[Lauren Miller Rogen]]>
+      </category>
+      <category>
+        <![CDATA[Seth Rogen]]>
+      </category>
+      <category>
+        <![CDATA[brain health]]>
+      </category>
+      <category>
+        <![CDATA[cannabis]]>
+      </category>
+      <category>
+        <![CDATA[caregiving]]>
+      </category>
+      <category>
+        <![CDATA[celebrity charity]]>
+      </category>
+      <category>
+        <![CDATA[society & culture]]>
+      </category>
+      <itunes:author>Gates Notes</itunes:author>
+      <itunes:summary>
+        <![CDATA[Can Alzheimer’s disease be funny? I was skeptical, especially given the devastating experience my family had watching my dad suffer from it. So, I asked two experts in using humor to raise awareness—Seth Rogen and Lauren Miller Rogen—to help me see the light. We had a great conversation about their organization <a href="https://www.wearehfc.org/" target="_blank">Hilarity for Charity</a>, <a href="https://www.gatesnotes.com/New-breakthroughs-in-Alzheimers-diagnostics" target="_blank">hope for the future of Alzheimer’s research</a>, the <a href="https://www.hilarityforcharity.org/5-brain-health-habits" target="_blank">importance of a good night’s sleep</a>, and why Seth started a <a href="https://www.houseplant.com/" target="_blank">cannabis lifestyle company</a>.
+
+Show notes:
+
+
+Hilarity for Charity: <a href="https://www.wearehfc.org/" target="_blank">Hilarity For Charity (wearehfc.org)</a>
+Alzheimer’s Association: <a href="https://www.alz.org/" target="_blank">Alzheimer's Association | Alzheimer's Disease &amp; Dementia Help</a>
+Why I’m hopeful about the future of Alzheimer’s research: <a href="https://www.gatesnotes.com/New-breakthroughs-in-Alzheimers-diagnostics" target="_blank">hope for the future of Alzheimer’s research</a>
+HFC’s 5 Brain Healthy Habits: <a href="https://www.hilarityforcharity.org/5-brain-health-habits" target="_blank">5 Brain Health Habits | Hilarity For Charity</a>
+Houseplant: <a href="https://www.houseplant.com/" target="_blank">https://www.houseplant.com/</a>
+Oogum Boogum Song by Brenton Wood: <a href="https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1?si=E6kxhw1RS92r8fumctr_oQ&amp;nd=1" target="_blank">Oogum Boogum Song</a>
+Seth’s testimony about Alzheimer’s to Congress: <a href="https://www.youtube.com/watch?v=UHqx3-mfHAY&amp;ab_channel=C-SPAN" target="_blank">Seth Rogen Opening Statement (C-SPAN) - YouTube</a>
+]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/4383/2c7e067f-c403-462a-81a9-27aa1aca16c8/images/ee62443f-f30f-48b8-8d2b-6aff8ba38e33/UnconfuseMe_Rogens_Thumbnail_3000x3000.png"/>
+      <media:content fileSize="67676699" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/2c7e067f-c403-462a-81a9-27aa1aca16c8/ROGENS_ZM_MIX3_MASTER.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>Can Alzheimer’s disease be funny? I was skeptical, especially given the devastating experience my family had watching my dad suffer from it. So, I asked two experts in using humor to raise awareness—Seth Rogen and Lauren Miller Rogen—to help me see the light. We had a great conversation about their organization <a href="https://www.wearehfc.org/" rel="nofollow" target="_blank">Hilarity for Charity</a>, <a href="https://www.gatesnotes.com/New-breakthroughs-in-Alzheimers-diagnostics" rel="nofollow" target="_blank">hope for the future of Alzheimer’s research</a>, the <a href="https://www.hilarityforcharity.org/5-brain-health-habits" rel="nofollow" target="_blank">importance of a good night’s sleep</a>, and why Seth started a <a href="https://www.houseplant.com/" rel="nofollow" target="_blank">cannabis lifestyle company</a>.</p>
+
+<p>Show notes:</p>
+
+<ul>
+<li><p>Hilarity for Charity: <a href="https://www.wearehfc.org/" rel="nofollow" target="_blank">Hilarity For Charity (wearehfc.org)</a></p></li>
+<li><p>Alzheimer’s Association: <a href="https://www.alz.org/" rel="nofollow" target="_blank">Alzheimer's Association | Alzheimer's Disease &amp; Dementia Help</a></p></li>
+<li><p>Why I’m hopeful about the future of Alzheimer’s research: <a href="https://www.gatesnotes.com/New-breakthroughs-in-Alzheimers-diagnostics" rel="nofollow" target="_blank">hope for the future of Alzheimer’s research</a></p></li>
+<li><p>HFC’s 5 Brain Healthy Habits: <a href="https://www.hilarityforcharity.org/5-brain-health-habits" rel="nofollow" target="_blank">5 Brain Health Habits | Hilarity For Charity</a></p></li>
+<li><p>Houseplant: <a href="https://www.houseplant.com/" rel="nofollow" target="_blank">https://www.houseplant.com/</a></p></li>
+<li><p>Oogum Boogum Song by Brenton Wood: <a href="https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1?si=E6kxhw1RS92r8fumctr_oQ&amp;nd=1" rel="nofollow" target="_blank">Oogum Boogum Song</a></p></li>
+<li><p>Seth’s testimony about Alzheimer’s to Congress: <a href="https://www.youtube.com/watch?v=UHqx3-mfHAY&amp;ab_channel=C-SPAN" rel="nofollow" target="_blank">Seth Rogen Opening Statement (C-SPAN) - YouTube</a></p></li>
+</ul>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">prx_4383_c82ae61a-885a-455d-b2a3-4e44544da40f</guid>
+      <title>Unconfuse Me with Bill Gates | Trailer</title>
+      <pubDate>Wed, 28 Jun 2023 03:03:48 -0000</pubDate>
+      <link>https://www.gatesnotes.com/Podcast</link>
+      <description>
+        <![CDATA[<p>What do you do when you can’t solve a problem? I like to talk to smart people who can help me understand the subject better. I call this process “getting unconfused”—and I think it is one of the best ways to learn something new. In my new podcast, I try to get unconfused about some of the things that fascinate me. Join me on my learning journey as I talk to brilliant guests about Alzheimer’s disease, marijuana, plant-based meat, the evolution of language, and more. Episode 1 with Seth Rogen and Lauren Miller Rogen will be available starting on July 27, 2023.</p>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/c82ae61a-885a-455d-b2a3-4e44544da40f/TEASER_ZM_MIX1.mp3" type="audio/mpeg" length="2099106"/>
+      <itunes:subtitle>What do you do when you can’t solve a problem? I like to talk to smart people who can help me understand the subject better. I call this process “getting unconfused”—and I think it is one of the best ways to learn something new. In my new podcast, I try to get unconfused about some of the things that fascinate me. Join me on my learning journey as I talk to brilliant guests about Alzheimer’s disease, marijuana, plant-based meat, the evolution of language, and more. Episode 1 with Seth Rogen and Lauren Miller Rogan will be available starting on July 27, 2023. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>01:27</itunes:duration>
+      <author>KJ.Sherman@gatesventures.com (Gates Notes)</author>
+      <category>
+        <![CDATA[adfree]]>
+      </category>
+      <itunes:author>Gates Notes</itunes:author>
+      <itunes:summary>
+        <![CDATA[What do you do when you can’t solve a problem? I like to talk to smart people who can help me understand the subject better. I call this process “getting unconfused”—and I think it is one of the best ways to learn something new. In my new podcast, I try to get unconfused about some of the things that fascinate me. Join me on my learning journey as I talk to brilliant guests about Alzheimer’s disease, marijuana, plant-based meat, the evolution of language, and more. Episode 1 with Seth Rogen and Lauren Miller Rogen will be available starting on July 27, 2023.]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/4383/c82ae61a-885a-455d-b2a3-4e44544da40f/images/f3bfcdbd-e011-4eaa-bfc0-11997943fa60/Cover_UnconfuseMe_3000x3000.png"/>
+      <media:content fileSize="2099106" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/4383/c82ae61a-885a-455d-b2a3-4e44544da40f/TEASER_ZM_MIX1.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>What do you do when you can’t solve a problem? I like to talk to smart people who can help me understand the subject better. I call this process “getting unconfused”—and I think it is one of the best ways to learn something new. In my new podcast, I try to get unconfused about some of the things that fascinate me. Join me on my learning journey as I talk to brilliant guests about Alzheimer’s disease, marijuana, plant-based meat, the evolution of language, and more. Episode 1 with Seth Rogen and Lauren Miller Rogen will be available starting on July 27, 2023.</p>]]>
+      </content:encoded>
+    </item>
+  </channel>
+</rss>

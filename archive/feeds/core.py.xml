@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[core.py]]></title>
+		<description><![CDATA[We talk about Python internals, because we work on Python internals. We joke about stuff, because we’re jokers. Episodes between 60 and 90 minutes in length. We’ve done more than a few so far and it doesn’t seem like we’ll be stopping any time soon!
+
+Hi Loren!]]></description>
+		<link>https://podcasters.spotify.com/pod/show/corepy</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 10 Jun 2025 08:13:23 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/eb6edc3c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Pablo Galindo and Łukasz Langa]]></author>
+		<copyright><![CDATA[Pablo Galindo and Łukasz Langa]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Pablo Galindo and Łukasz Langa</itunes:author>
+		<itunes:summary>We talk about Python internals, because we work on Python internals. We joke about stuff, because we’re jokers. Episodes between 60 and 90 minutes in length. We’ve done more than a few so far and it doesn’t seem like we’ll be stopping any time soon!
+
+Hi Loren!</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Pablo Galindo and Łukasz Langa</itunes:name>
+			<itunes:email>pablogsal@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="News">
+			<itunes:category text="Tech News"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+		<item>
+			<title><![CDATA[Beta Frenzy]]></title>
+			<description><![CDATA[<p>Python 3.14 Beta 1 is coming! And that means we reach feature freeze. BUT QUICK, there’s still time to squeeze in one last thing!</p><p><br /></p><p>## Timestamps</p><p><br /></p><p>(00:00:00) INTRO</p><p>(00:01:58) PART 1: Template strings</p><p>(00:07:10) PART 2: Asyncio Introspection</p><p>(00:29:07) PART 3: Syntax highlighting</p><p>(00:43:00) PART 4: Color themes</p><p>(00:50:56) PART 5: Debugging a remote process with pdb</p><p>(01:01:35) PART 6: Python Installation Manager for Windows</p><p>(01:05:29) PART 7: Worship</p><p>(01:08:53) PART 8: What else is happening?</p><p>(01:16:03) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Beta-Frenzy-e32fe2m</link>
+			<guid isPermaLink="false">acf19b12-8f44-4234-b6cf-c5d7124280a3</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Tue, 06 May 2025 15:52:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/102266390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-6%2Fc4f214a2-a3fc-153c-b1d5-d2061d26923c.mp3" length="152243523" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Python 3.14 Beta 1 is coming! And that means we reach feature freeze. BUT QUICK, there’s still time to squeeze in one last thing!&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;## Timestamps&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;&lt;p&gt;(00:01:58) PART 1: Template strings&lt;/p&gt;&lt;p&gt;(00:07:10) PART 2: Asyncio Introspection&lt;/p&gt;&lt;p&gt;(00:29:07) PART 3: Syntax highlighting&lt;/p&gt;&lt;p&gt;(00:43:00) PART 4: Color themes&lt;/p&gt;&lt;p&gt;(00:50:56) PART 5: Debugging a remote process with pdb&lt;/p&gt;&lt;p&gt;(01:01:35) PART 6: Python Installation Manager for Windows&lt;/p&gt;&lt;p&gt;(01:05:29) PART 7: Worship&lt;/p&gt;&lt;p&gt;(01:08:53) PART 8: What else is happening?&lt;/p&gt;&lt;p&gt;(01:16:03) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:19:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 21: A Garbage Episode]]></title>
+			<description><![CDATA[<p>We talked about this episode for months now, and it&#39;s finally here. Garbage collection in its full glory. Classic and free-threaded. Generational and single-pass. With eager and delayed untracking. We cover it all! Explicitly.</p><p><br></p><p>## Timestamps</p><p><br></p><p>(00:00:00) THE FUCKING INTRO</p><p>(00:02:03) PART 0: SPORTS NEWS</p><p>(00:03:19) PART 1: GARBAGE COLLECTION</p><p>(00:03:57) The big problem with refcounting</p><p>(00:08:35) Solving reference cycles through PyGC_Head</p><p>(00:11:45) 64 bits ought to be enough for anybody</p><p>(00:17:30) Why a doubly-linked list?</p><p>(00:21:15) How reference counting makes finding cycles easier</p><p>(00:26:25) Roots bloody roots</p><p>(00:30:17) How are objects in the cycle destroyed?</p><p>(00:31:58) Object resurrection</p><p>(00:43:21) Why do you need &quot;generations&quot;?</p><p>(00:52:26) Delayed untracking</p><p>(00:54:46) Weak references, strong problems</p><p>(00:59:19) GC in free threading</p><p>(01:03:27) Reference counting in free-threading builds</p><p>(01:10:08) Incremental GC talk is DEFERRED</p><p>(01:11:00) PART 2: PR OF THE WEEK</p><p>(01:17:15) Type checking the standard library itself?</p><p>(01:29:51) PART 3: WHAT&#39;S GOING ON IN CPYTHON?</p><p>(01:30:15) Free-threading changes</p><p>(01:32:54) Performance updates</p><p>(01:36:11) http.server supports HTTPS!</p><p>(01:37:01) PEP 768 and 758 landed</p><p>(01:37:34) HACL*</p><p>(01:38:24) fnmatch.filterfalse()</p><p>(01:38:54) Bugfixes</p><p>(01:42:46) Curiosities</p><p>(01:54:49) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-21-A-Garbage-Episode-e31lbg6</link>
+			<guid isPermaLink="false">3c481480-dd62-45ae-8bf2-944df4a99648</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Thu, 17 Apr 2025 10:55:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/101411782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-17%2F52f68e0f-8cd6-4bab-c016-c605f226174a.mp3" length="225950836" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;We talked about this episode for months now, and it&amp;#39;s finally here. Garbage collection in its full glory. Classic and free-threaded. Generational and single-pass. With eager and delayed untracking. We cover it all! Explicitly.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;## Timestamps&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00:00) THE FUCKING INTRO&lt;/p&gt;&lt;p&gt;(00:02:03) PART 0: SPORTS NEWS&lt;/p&gt;&lt;p&gt;(00:03:19) PART 1: GARBAGE COLLECTION&lt;/p&gt;&lt;p&gt;(00:03:57) The big problem with refcounting&lt;/p&gt;&lt;p&gt;(00:08:35) Solving reference cycles through PyGC_Head&lt;/p&gt;&lt;p&gt;(00:11:45) 64 bits ought to be enough for anybody&lt;/p&gt;&lt;p&gt;(00:17:30) Why a doubly-linked list?&lt;/p&gt;&lt;p&gt;(00:21:15) How reference counting makes finding cycles easier&lt;/p&gt;&lt;p&gt;(00:26:25) Roots bloody roots&lt;/p&gt;&lt;p&gt;(00:30:17) How are objects in the cycle destroyed?&lt;/p&gt;&lt;p&gt;(00:31:58) Object resurrection&lt;/p&gt;&lt;p&gt;(00:43:21) Why do you need &amp;quot;generations&amp;quot;?&lt;/p&gt;&lt;p&gt;(00:52:26) Delayed untracking&lt;/p&gt;&lt;p&gt;(00:54:46) Weak references, strong problems&lt;/p&gt;&lt;p&gt;(00:59:19) GC in free threading&lt;/p&gt;&lt;p&gt;(01:03:27) Reference counting in free-threading builds&lt;/p&gt;&lt;p&gt;(01:10:08) Incremental GC talk is DEFERRED&lt;/p&gt;&lt;p&gt;(01:11:00) PART 2: PR OF THE WEEK&lt;/p&gt;&lt;p&gt;(01:17:15) Type checking the standard library itself?&lt;/p&gt;&lt;p&gt;(01:29:51) PART 3: WHAT&amp;#39;S GOING ON IN CPYTHON?&lt;/p&gt;&lt;p&gt;(01:30:15) Free-threading changes&lt;/p&gt;&lt;p&gt;(01:32:54) Performance updates&lt;/p&gt;&lt;p&gt;(01:36:11) http.server supports HTTPS!&lt;/p&gt;&lt;p&gt;(01:37:01) PEP 768 and 758 landed&lt;/p&gt;&lt;p&gt;(01:37:34) HACL*&lt;/p&gt;&lt;p&gt;(01:38:24) fnmatch.filterfalse()&lt;/p&gt;&lt;p&gt;(01:38:54) Bugfixes&lt;/p&gt;&lt;p&gt;(01:42:46) Curiosities&lt;/p&gt;&lt;p&gt;(01:54:49) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:57:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 20: Remote Code Execution By Design ]]></title>
+			<description><![CDATA[<p>In this episode, Pablo&#39;s avoiding the topic of garbage collection by talking about his latest PEP, which allows unprecedented interaction with a running Python process. We also resolve the bet about reference counting semantics, mention some notable changes in Python since the last episode, and discuss syntax highlighting in PyREPL and why it&#39;s bad, actually.</p><p><br></p><p>## Timestamps</p><p><br></p><p>(00:00:00) INTRO</p><p>(00:02:16) PART 1: PABLO&#39;S LATEST PEP</p><p>(00:04:34) gdb is IMPOSSIBLE</p><p>(00:12:49) Make the process run code for you</p><p>(00:14:14) This already works on PyPy</p><p>(00:15:13) How does it work?</p><p>(00:25:38) Why a file?</p><p>(00:31:15) What if you don&#39;t trust Pablo?</p><p>(00:32:57) sys.remote_exec()</p><p>(00:36:09) Less obvious use cases</p><p>(00:46:56) PART 2: BETS</p><p>(00:55:44) PART 3: PR OF THE WEEK</p><p>(00:55:50) Łukasz: syntax highlighting in PyREPL</p><p>(01:10:14) Pablo&#39;s PR: allow the parser to activate future imports on the fly</p><p>(01:20:11) PART 4: WHAT&#39;S GOING ON IN CPYTHON</p><p>(01:20:22) Free threading</p><p>(01:23:30) Performance</p><p>(01:34:41) PEP 765 implemented</p><p>(01:36:08) concurrent.futures.Executor.map(buffersize=)</p><p>(01:36:57) io.Reader and io.Writer</p><p>(01:38:40) Pabluco&#39;s linecache fetching interactive source code</p><p>(01:41:25) ast.unparse() roundtrip with semicolons</p><p>(01:41:59) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-20-Remote-Code-Execution-By-Design-e30j8hi</link>
+			<guid isPermaLink="false">f7f32acc-2b6a-4360-a683-942fee64a28a</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Mon, 24 Mar 2025 11:53:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/100294642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-24%2Febf9f075-b70a-6281-0f82-062c7cf108d8.mp3" length="200542274" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Pablo&amp;#39;s avoiding the topic of garbage collection by talking about his latest PEP, which allows unprecedented interaction with a running Python process. We also resolve the bet about reference counting semantics, mention some notable changes in Python since the last episode, and discuss syntax highlighting in PyREPL and why it&amp;#39;s bad, actually.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;## Timestamps&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;&lt;p&gt;(00:02:16) PART 1: PABLO&amp;#39;S LATEST PEP&lt;/p&gt;&lt;p&gt;(00:04:34) gdb is IMPOSSIBLE&lt;/p&gt;&lt;p&gt;(00:12:49) Make the process run code for you&lt;/p&gt;&lt;p&gt;(00:14:14) This already works on PyPy&lt;/p&gt;&lt;p&gt;(00:15:13) How does it work?&lt;/p&gt;&lt;p&gt;(00:25:38) Why a file?&lt;/p&gt;&lt;p&gt;(00:31:15) What if you don&amp;#39;t trust Pablo?&lt;/p&gt;&lt;p&gt;(00:32:57) sys.remote_exec()&lt;/p&gt;&lt;p&gt;(00:36:09) Less obvious use cases&lt;/p&gt;&lt;p&gt;(00:46:56) PART 2: BETS&lt;/p&gt;&lt;p&gt;(00:55:44) PART 3: PR OF THE WEEK&lt;/p&gt;&lt;p&gt;(00:55:50) Łukasz: syntax highlighting in PyREPL&lt;/p&gt;&lt;p&gt;(01:10:14) Pablo&amp;#39;s PR: allow the parser to activate future imports on the fly&lt;/p&gt;&lt;p&gt;(01:20:11) PART 4: WHAT&amp;#39;S GOING ON IN CPYTHON&lt;/p&gt;&lt;p&gt;(01:20:22) Free threading&lt;/p&gt;&lt;p&gt;(01:23:30) Performance&lt;/p&gt;&lt;p&gt;(01:34:41) PEP 765 implemented&lt;/p&gt;&lt;p&gt;(01:36:08) concurrent.futures.Executor.map(buffersize=)&lt;/p&gt;&lt;p&gt;(01:36:57) io.Reader and io.Writer&lt;/p&gt;&lt;p&gt;(01:38:40) Pabluco&amp;#39;s linecache fetching interactive source code&lt;/p&gt;&lt;p&gt;(01:41:25) ast.unparse() roundtrip with semicolons&lt;/p&gt;&lt;p&gt;(01:41:59) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:44:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 19: Async hacks, unicorns and velociraptors]]></title>
+			<description><![CDATA[<p>In this asynchronous episode we're interviewing a fellow core developer Yury Selivanov to talk about asyncio's past and future, composable design, immutability, and databases you'd actually like using. We also broke the 2-hour episode barrier!</p><p><br /></p><p>## Timestamps</p><p><br /></p><p>(00:00:00) INTRO</p><p>(00:01:33) PART 1: INTERVIEW</p><p>(00:02:27) What drives you?</p><p>(00:04:47) How do you choose what to work on?</p><p>(00:08:10) Hyperfocus</p><p>(00:09:28) Things from Rust that Python could use</p><p>(00:14:50) Nothing is sacred when you depend on glibc</p><p>(00:18:47) TypeScript typing is god-tier</p><p>(00:22:04) Adding async and await to Python</p><p>(00:34:11) Adding new keywords to the language</p><p>(00:41:17) Jumping into a new codebase</p><p>(00:49:22) Any design regrets?</p><p>(00:58:46) Contextvars</p><p>(01:10:40) Is the frozenmap PEP happening?</p><p>(01:19:21) uvloop</p><p>(01:23:25) What makes Gel lovable?</p><p>(01:39:57) PART 2: PR OF THE WEEK</p><p>(01:47:08) Saturday talks at PyCon should be fun</p><p>(01:50:35) PART 3: WHAT'S GOING ON IN CPYTHON</p><p>(01:50:47) Ken Jin's tail-call interpreter</p><p>(01:55:05) Barney Gale's glob.glob() optimization</p><p>(01:55:43) Brandt's boolean guards to narrow types to values in the JIT</p><p>(01:56:33) Mark Shannon's stack limits implemented with addresses, not counters</p><p>(01:58:34) Brandt's removal of _DYNAMIC_EXIT</p><p>(01:58:53) Mark Shannon's async for branches instrumented</p><p>(01:59:36) Free-threading changes</p><p>(01:59:58) Sam Gross' regression tests can now run in --parallel-threads</p><p>(02:00:34) Tomasz Pytel's thread safety crusade</p><p>(02:01:01) Xuanteng Huang's __annotations__ race fix</p><p>(02:01:11) Kumar's per-thread linked lists for tasks</p><p>(02:02:54) Serhiy's crashes related to PySys_GetObject() fixed</p><p>(02:03:22) Sam's usage of stack pointers in thread stack traversal</p><p>(02:03:38) Dino Viehland's lock avoidance during object cleanup</p><p>(02:04:23) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-19-Async-hacks--unicorns-and-velociraptors-e2vs6gp</link>
+			<guid isPermaLink="false">c13edf63-f350-423b-8008-7d71cd3b6886</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Sat, 08 Mar 2025 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/99538905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-8%2F3252af2b-4c9a-3840-c4f0-c98a8edb8720.mp3" length="244729543" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this asynchronous episode we&apos;re interviewing a fellow core developer Yury Selivanov to talk about asyncio&apos;s past and future, composable design, immutability, and databases you&apos;d actually like using. We also broke the 2-hour episode barrier!&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;## Timestamps&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;&lt;p&gt;(00:01:33) PART 1: INTERVIEW&lt;/p&gt;&lt;p&gt;(00:02:27) What drives you?&lt;/p&gt;&lt;p&gt;(00:04:47) How do you choose what to work on?&lt;/p&gt;&lt;p&gt;(00:08:10) Hyperfocus&lt;/p&gt;&lt;p&gt;(00:09:28) Things from Rust that Python could use&lt;/p&gt;&lt;p&gt;(00:14:50) Nothing is sacred when you depend on glibc&lt;/p&gt;&lt;p&gt;(00:18:47) TypeScript typing is god-tier&lt;/p&gt;&lt;p&gt;(00:22:04) Adding async and await to Python&lt;/p&gt;&lt;p&gt;(00:34:11) Adding new keywords to the language&lt;/p&gt;&lt;p&gt;(00:41:17) Jumping into a new codebase&lt;/p&gt;&lt;p&gt;(00:49:22) Any design regrets?&lt;/p&gt;&lt;p&gt;(00:58:46) Contextvars&lt;/p&gt;&lt;p&gt;(01:10:40) Is the frozenmap PEP happening?&lt;/p&gt;&lt;p&gt;(01:19:21) uvloop&lt;/p&gt;&lt;p&gt;(01:23:25) What makes Gel lovable?&lt;/p&gt;&lt;p&gt;(01:39:57) PART 2: PR OF THE WEEK&lt;/p&gt;&lt;p&gt;(01:47:08) Saturday talks at PyCon should be fun&lt;/p&gt;&lt;p&gt;(01:50:35) PART 3: WHAT&apos;S GOING ON IN CPYTHON&lt;/p&gt;&lt;p&gt;(01:50:47) Ken Jin&apos;s tail-call interpreter&lt;/p&gt;&lt;p&gt;(01:55:05) Barney Gale&apos;s glob.glob() optimization&lt;/p&gt;&lt;p&gt;(01:55:43) Brandt&apos;s boolean guards to narrow types to values in the JIT&lt;/p&gt;&lt;p&gt;(01:56:33) Mark Shannon&apos;s stack limits implemented with addresses, not counters&lt;/p&gt;&lt;p&gt;(01:58:34) Brandt&apos;s removal of _DYNAMIC_EXIT&lt;/p&gt;&lt;p&gt;(01:58:53) Mark Shannon&apos;s async for branches instrumented&lt;/p&gt;&lt;p&gt;(01:59:36) Free-threading changes&lt;/p&gt;&lt;p&gt;(01:59:58) Sam Gross&apos; regression tests can now run in --parallel-threads&lt;/p&gt;&lt;p&gt;(02:00:34) Tomasz Pytel&apos;s thread safety crusade&lt;/p&gt;&lt;p&gt;(02:01:01) Xuanteng Huang&apos;s __annotations__ race fix&lt;/p&gt;&lt;p&gt;(02:01:11) Kumar&apos;s per-thread linked lists for tasks&lt;/p&gt;&lt;p&gt;(02:02:54) Serhiy&apos;s crashes related to PySys_GetObject() fixed&lt;/p&gt;&lt;p&gt;(02:03:22) Sam&apos;s usage of stack pointers in thread stack traversal&lt;/p&gt;&lt;p&gt;(02:03:38) Dino Viehland&apos;s lock avoidance during object cleanup&lt;/p&gt;&lt;p&gt;(02:04:23) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>02:07:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 18: Reference Counting]]></title>
+			<description><![CDATA[<p>After we talked about memory allocation in Python back in Episode 16, we&#39;re ready to complain, uh, explain reference counting. Or at least throw a bunch of reference counting facts at you. Plus a big assortment of recent Python changes. You ready?</p>
+<p><br></p>
+<p>## Timestamps</p>
+<p><br></p>
+<p>(00:00:00) INTRO</p>
+<p>(00:04:17) PART 0: SPORTS NEWS</p>
+<p>(00:06:53) PART 1: REFERENCE COUNTING</p>
+<p>(00:08:28) New segment of 2025</p>
+<p>(00:13:54) C++ is asymptotic Python</p>
+<p>(00:15:37) Is Rust game yet?</p>
+<p>(00:18:01) Names</p>
+<p>(00:20:25) Breaking the law</p>
+<p>(00:23:08) sys.getrefcount()</p>
+<p>(00:25:21) Pedantic Pablo</p>
+<p>(00:26:06) sys.gettotalrefcount()</p>
+<p>(00:31:24) TraceRefs</p>
+<p>(00:33:28) Advantages of refcounting</p>
+<p>(00:36:16) Disadvantages of refcounting</p>
+<p>(00:38:40) Reference cycles</p>
+<p>(00:40:39) Multithreading</p>
+<p>(00:41:25) When refcounting goes wrong</p>
+<p>(00:44:05) Freeing memory in Python doesn&#39;t return it to the OS</p>
+<p>(00:45:42) Leaks and cycles redux</p>
+<p>(00:50:29) Double free</p>
+<p>(00:53:05) Avoiding reference counting</p>
+<p>(00:54:59) Immortal objects</p>
+<p>(01:00:40) PART 2: WHAT&#39;S GOING ON IN CPYTHON</p>
+<p>(01:02:43) New features</p>
+<p>(01:04:11) Assorted interesting changes</p>
+<p>(01:15:23) Performance</p>
+<p>(01:18:09) Free-threading changes galore</p>
+<p>(01:27:02) AsyncIO</p>
+<p>(01:34:25) Windows changes</p>
+<p>(01:36:45) Security</p>
+<p>(01:37:20) OUTRO</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-18-Reference-Counting-e2tuqnq</link>
+			<guid isPermaLink="false">af4ecc03-6306-4d51-bc74-e625cc0d0e99</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Fri, 24 Jan 2025 21:26:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/97527994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-24%2Fe461f41c-02fa-7005-794b-af9421d4a4d3.mp3" length="190510580" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;After we talked about memory allocation in Python back in Episode 16, we&amp;#39;re ready to complain, uh, explain reference counting. Or at least throw a bunch of reference counting facts at you. Plus a big assortment of recent Python changes. You ready?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;## Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;
+&lt;p&gt;(00:04:17) PART 0: SPORTS NEWS&lt;/p&gt;
+&lt;p&gt;(00:06:53) PART 1: REFERENCE COUNTING&lt;/p&gt;
+&lt;p&gt;(00:08:28) New segment of 2025&lt;/p&gt;
+&lt;p&gt;(00:13:54) C++ is asymptotic Python&lt;/p&gt;
+&lt;p&gt;(00:15:37) Is Rust game yet?&lt;/p&gt;
+&lt;p&gt;(00:18:01) Names&lt;/p&gt;
+&lt;p&gt;(00:20:25) Breaking the law&lt;/p&gt;
+&lt;p&gt;(00:23:08) sys.getrefcount()&lt;/p&gt;
+&lt;p&gt;(00:25:21) Pedantic Pablo&lt;/p&gt;
+&lt;p&gt;(00:26:06) sys.gettotalrefcount()&lt;/p&gt;
+&lt;p&gt;(00:31:24) TraceRefs&lt;/p&gt;
+&lt;p&gt;(00:33:28) Advantages of refcounting&lt;/p&gt;
+&lt;p&gt;(00:36:16) Disadvantages of refcounting&lt;/p&gt;
+&lt;p&gt;(00:38:40) Reference cycles&lt;/p&gt;
+&lt;p&gt;(00:40:39) Multithreading&lt;/p&gt;
+&lt;p&gt;(00:41:25) When refcounting goes wrong&lt;/p&gt;
+&lt;p&gt;(00:44:05) Freeing memory in Python doesn&amp;#39;t return it to the OS&lt;/p&gt;
+&lt;p&gt;(00:45:42) Leaks and cycles redux&lt;/p&gt;
+&lt;p&gt;(00:50:29) Double free&lt;/p&gt;
+&lt;p&gt;(00:53:05) Avoiding reference counting&lt;/p&gt;
+&lt;p&gt;(00:54:59) Immortal objects&lt;/p&gt;
+&lt;p&gt;(01:00:40) PART 2: WHAT&amp;#39;S GOING ON IN CPYTHON&lt;/p&gt;
+&lt;p&gt;(01:02:43) New features&lt;/p&gt;
+&lt;p&gt;(01:04:11) Assorted interesting changes&lt;/p&gt;
+&lt;p&gt;(01:15:23) Performance&lt;/p&gt;
+&lt;p&gt;(01:18:09) Free-threading changes galore&lt;/p&gt;
+&lt;p&gt;(01:27:02) AsyncIO&lt;/p&gt;
+&lt;p&gt;(01:34:25) Windows changes&lt;/p&gt;
+&lt;p&gt;(01:36:45) Security&lt;/p&gt;
+&lt;p&gt;(01:37:20) OUTRO&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:39:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 17: Argparse, JIT, and balloons with Savannah Ostrowski]]></title>
+			<description><![CDATA[<p>Meet our newest member of the core developer team, Savannah! Currently at Snowflake, she also worked with development tools at Docker and Microsoft, but also flew drones over forests. In terms of CPython, Savannah works on argparse and the JIT, but that's not her last word.</p>
+<p><br /></p>
+<p># Timestamps</p>
+<p><br /></p>
+<p>(00:00:00) INTRO</p>
+<p>(00:01:26) PART 1: INTERVIEW WITH SAVANNAH OSTROWSKI</p>
+<p>(00:02:12) Beginnings as a Python user</p>
+<p>(00:04:14) Carol Willing's nudge</p>
+<p>(00:06:55) First PR</p>
+<p>(00:08:56) Psychological damage from asyncio</p>
+<p>(00:11:51) Savannah at ***** Maps</p>
+<p>(00:14:04) Chipotle Claim to Fame</p>
+<p>(00:16:14) The most funky CPython discoveries</p>
+<p>(00:19:06) What if you could break backwards compatibility in argparse?</p>
+<p>(00:23:51) How do the JIT internals look to new eyes?</p>
+<p>(00:27:33) Is Savannah team typing?</p>
+<p>(00:33:55) Somebody's jealous</p>
+<p>(00:37:29) Favorite PEP and least favorite PEP</p>
+<p>(00:42:10) Big Fish</p>
+<p>(00:52:58) Hard conversations</p>
+<p>(01:02:31) Polska</p>
+<p>(01:06:37) Do it scared</p>
+<p>(01:08:14) PART 2: PR OF THE WEEK</p>
+<p>(01:08:22) Łukasz</p>
+<p>(01:12:01) Pabluco</p>
+<p>(01:14:46) Savannah</p>
+<p>(01:18:27) PART 3: WHAT'S GOING ON IN CPYTHON</p>
+<p>(01:21:21) Features</p>
+<p>(01:29:59) Bug fixes</p>
+<p>(01:33:42) Performance</p>
+<p>(01:40:12) Security</p>
+<p>(01:43:23) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-17-Argparse--JIT--and-balloons-with-Savannah-Ostrowski-e2r61lh</link>
+			<guid isPermaLink="false">ac35a75f-dc01-4265-8977-721dd42f9157</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/94618737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-18%2F9cb9c0d7-2b51-f4b2-46ce-f619ae928adb.mp3" length="202000597" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Meet our newest member of the core developer team, Savannah! Currently at Snowflake, she also worked with development tools at Docker and Microsoft, but also flew drones over forests. In terms of CPython, Savannah works on argparse and the JIT, but that&apos;s not her last word.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;# Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;
+&lt;p&gt;(00:01:26) PART 1: INTERVIEW WITH SAVANNAH OSTROWSKI&lt;/p&gt;
+&lt;p&gt;(00:02:12) Beginnings as a Python user&lt;/p&gt;
+&lt;p&gt;(00:04:14) Carol Willing&apos;s nudge&lt;/p&gt;
+&lt;p&gt;(00:06:55) First PR&lt;/p&gt;
+&lt;p&gt;(00:08:56) Psychological damage from asyncio&lt;/p&gt;
+&lt;p&gt;(00:11:51) Savannah at ***** Maps&lt;/p&gt;
+&lt;p&gt;(00:14:04) Chipotle Claim to Fame&lt;/p&gt;
+&lt;p&gt;(00:16:14) The most funky CPython discoveries&lt;/p&gt;
+&lt;p&gt;(00:19:06) What if you could break backwards compatibility in argparse?&lt;/p&gt;
+&lt;p&gt;(00:23:51) How do the JIT internals look to new eyes?&lt;/p&gt;
+&lt;p&gt;(00:27:33) Is Savannah team typing?&lt;/p&gt;
+&lt;p&gt;(00:33:55) Somebody&apos;s jealous&lt;/p&gt;
+&lt;p&gt;(00:37:29) Favorite PEP and least favorite PEP&lt;/p&gt;
+&lt;p&gt;(00:42:10) Big Fish&lt;/p&gt;
+&lt;p&gt;(00:52:58) Hard conversations&lt;/p&gt;
+&lt;p&gt;(01:02:31) Polska&lt;/p&gt;
+&lt;p&gt;(01:06:37) Do it scared&lt;/p&gt;
+&lt;p&gt;(01:08:14) PART 2: PR OF THE WEEK&lt;/p&gt;
+&lt;p&gt;(01:08:22) Łukasz&lt;/p&gt;
+&lt;p&gt;(01:12:01) Pabluco&lt;/p&gt;
+&lt;p&gt;(01:14:46) Savannah&lt;/p&gt;
+&lt;p&gt;(01:18:27) PART 3: WHAT&apos;S GOING ON IN CPYTHON&lt;/p&gt;
+&lt;p&gt;(01:21:21) Features&lt;/p&gt;
+&lt;p&gt;(01:29:59) Bug fixes&lt;/p&gt;
+&lt;p&gt;(01:33:42) Performance&lt;/p&gt;
+&lt;p&gt;(01:40:12) Security&lt;/p&gt;
+&lt;p&gt;(01:43:23) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:45:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 16: Memory Allocation]]></title>
+			<description><![CDATA[<p>How does Python handle memory? Why does it need to perform custom forms of memory allocation? We talk about all that in this episode. We don't talk about Easter eggs, and we never mention Brandt by name, as promised last time!</p>
+<p><br /></p>
+<p>## Timestamps</p>
+<p><br /></p>
+<p>(00:00:00) INTRO</p>
+<p>(00:00:22) PART 0: SPORTS NEWS</p>
+<p>(00:01:57) PART 1: MEMORY ALLOCATION</p>
+<p>(00:03:46) If you write C correctly, it manages memory for you</p>
+<p>(00:05:38) malloc and the heap</p>
+<p>(00:09:31) High-level allocators</p>
+<p>(00:10:48) pymalloc</p>
+<p>(00:11:15) 512 is a good number</p>
+<p>(00:12:43) Memory domains in pymalloc</p>
+<p>(00:15:09) Why is pymalloc faster than just using malloc?</p>
+<p>(00:20:16) To free or not to free</p>
+<p>(00:26:35) User-facing features of pymalloc</p>
+<p>(00:30:40) Łukasz replaced by an LLM Sim... almost</p>
+<p>(00:32:58) Debugging help with marked memory</p>
+<p>(00:39:24) 8-byte alignment</p>
+<p>(00:42:27) cymem</p>
+<p>(00:45:08) tracemalloc</p>
+<p>(00:49:12) memray</p>
+<p>(00:50:47) Coding like an ultravillain</p>
+<p>(00:55:22) Complaining about Apple</p>
+<p>(01:01:45) PART 2: PR OF THE WEEK</p>
+<p>(01:13:46) Pablo's buildbot release status page</p>
+<p>(01:18:26) PART 3: WHAT'S GOING ON IN CPYTHON</p>
+<p>(01:18:52) PEP 762</p>
+<p>(01:22:30) PEP 758</p>
+<p>(01:26:10) Performance updates</p>
+<p>(01:29:14) Argparse suggests correct spelling</p>
+<p>(01:30:13) Fraction.from_number() and Decimal.from_number()</p>
+<p>(01:30:39) switched in contextvars</p>
+<p>(01:31:42) Better type annotations in pydoc signatures</p>
+<p>(01:33:33) Fixes in TaskGroup and _PyFuture ref cycles</p>
+<p>(01:34:03) Data race in ZoneInfo</p>
+<p>(01:35:53) Testing certificates set to expire far in the future</p>
+<p>(01:36:32) InternalDocs</p>
+<p>(01:40:22) There are no Easter eggs</p>
+<p>(01:40:42) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-16-Memory-Allocation-e2qai66</link>
+			<guid isPermaLink="false">bf5dbcd9-5b2f-44d2-8bf7-cc2ecc0cdbb3</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Tue, 29 Oct 2024 23:41:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/93718150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-29%2F2f12e874-c0ec-7d6f-66f2-b866029fca43.mp3" length="203474429" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;How does Python handle memory? Why does it need to perform custom forms of memory allocation? We talk about all that in this episode. We don&apos;t talk about Easter eggs, and we never mention Brandt by name, as promised last time!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;## Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;
+&lt;p&gt;(00:00:22) PART 0: SPORTS NEWS&lt;/p&gt;
+&lt;p&gt;(00:01:57) PART 1: MEMORY ALLOCATION&lt;/p&gt;
+&lt;p&gt;(00:03:46) If you write C correctly, it manages memory for you&lt;/p&gt;
+&lt;p&gt;(00:05:38) malloc and the heap&lt;/p&gt;
+&lt;p&gt;(00:09:31) High-level allocators&lt;/p&gt;
+&lt;p&gt;(00:10:48) pymalloc&lt;/p&gt;
+&lt;p&gt;(00:11:15) 512 is a good number&lt;/p&gt;
+&lt;p&gt;(00:12:43) Memory domains in pymalloc&lt;/p&gt;
+&lt;p&gt;(00:15:09) Why is pymalloc faster than just using malloc?&lt;/p&gt;
+&lt;p&gt;(00:20:16) To free or not to free&lt;/p&gt;
+&lt;p&gt;(00:26:35) User-facing features of pymalloc&lt;/p&gt;
+&lt;p&gt;(00:30:40) Łukasz replaced by an LLM Sim... almost&lt;/p&gt;
+&lt;p&gt;(00:32:58) Debugging help with marked memory&lt;/p&gt;
+&lt;p&gt;(00:39:24) 8-byte alignment&lt;/p&gt;
+&lt;p&gt;(00:42:27) cymem&lt;/p&gt;
+&lt;p&gt;(00:45:08) tracemalloc&lt;/p&gt;
+&lt;p&gt;(00:49:12) memray&lt;/p&gt;
+&lt;p&gt;(00:50:47) Coding like an ultravillain&lt;/p&gt;
+&lt;p&gt;(00:55:22) Complaining about Apple&lt;/p&gt;
+&lt;p&gt;(01:01:45) PART 2: PR OF THE WEEK&lt;/p&gt;
+&lt;p&gt;(01:13:46) Pablo&apos;s buildbot release status page&lt;/p&gt;
+&lt;p&gt;(01:18:26) PART 3: WHAT&apos;S GOING ON IN CPYTHON&lt;/p&gt;
+&lt;p&gt;(01:18:52) PEP 762&lt;/p&gt;
+&lt;p&gt;(01:22:30) PEP 758&lt;/p&gt;
+&lt;p&gt;(01:26:10) Performance updates&lt;/p&gt;
+&lt;p&gt;(01:29:14) Argparse suggests correct spelling&lt;/p&gt;
+&lt;p&gt;(01:30:13) Fraction.from_number() and Decimal.from_number()&lt;/p&gt;
+&lt;p&gt;(01:30:39) switched in contextvars&lt;/p&gt;
+&lt;p&gt;(01:31:42) Better type annotations in pydoc signatures&lt;/p&gt;
+&lt;p&gt;(01:33:33) Fixes in TaskGroup and _PyFuture ref cycles&lt;/p&gt;
+&lt;p&gt;(01:34:03) Data race in ZoneInfo&lt;/p&gt;
+&lt;p&gt;(01:35:53) Testing certificates set to expire far in the future&lt;/p&gt;
+&lt;p&gt;(01:36:32) InternalDocs&lt;/p&gt;
+&lt;p&gt;(01:40:22) There are no Easter eggs&lt;/p&gt;
+&lt;p&gt;(01:40:42) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:45:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 15: Core sprint at Meta]]></title>
+			<description><![CDATA[<p>Over 40 core developers spent a week in Bellevue WA putting finishing touches on Python 3.13, planning, prototyping, and implementing features for Python 3.14. We talked to half of them. We laughed, we cried. We were happy watching graphs go up, and sad watching them go down. It was intense. There was even cake, no joke!</p><p><br></p><p>## Timestamps</p><p><br></p><p>(00:00:00) INTRO</p><p>(00:02:05) PART 1: THE CAKE IS NOT A LIE</p><p>(00:04:09) Interview with sprint organizer Itamar Oren</p><p>(00:07:48) Surprise waffle machine</p><p>(00:08:36) PART 2: DEVELOPERS IN THEIR OWN WORDS</p><p>(00:08:47) Brandt Bucher</p><p>(00:10:49) Tian Gao</p><p>(00:12:31) Hugo van Kemenade</p><p>(00:16:35) Thomas Wow-ters</p><p>(00:24:08) Yury Selivanov</p><p>(00:29:33) Mark Shannon</p><p>(00:30:56) Raymond Hettinger</p><p>(00:32:06) Russell Keith-Magee</p><p>(00:33:18) Mariatta</p><p>(00:41:41) Larry Hastings</p><p>(00:46:07) Barry Warsaw</p><p>(00:53:10) Jelle Zijlstra</p><p>(00:56:20) Alex Waygood</p><p>(00:57:39) Gregory P. Smith</p><p>(01:04:08) Petr Viktorin</p><p>(01:04:49) Emily Morehouse-Valcarcel</p><p>(01:08:27) Interlude: Łukasz was right for once</p><p>(01:09:28) Lysandros Nikolaou</p><p>(01:17:38) Dino Viehland</p><p>(01:23:22) Carl Meyer</p><p>(01:24:29) Eric Smith</p><p>(01:32:00) Eric Snow</p><p>(01:41:46) Janitor 1</p><p>(01:50:01) Janitor 2</p><p>(01:53:03) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-15-Core-sprint-at-Meta-e2p64tc</link>
+			<guid isPermaLink="false">e362f9ac-62d5-4f69-91d0-bc17d6f196a9</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Thu, 03 Oct 2024 09:42:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/92524908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-3%2F6007765b-8d7a-8eba-fff5-8c6280a1ddfa.mp3" length="223040817" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Over 40 core developers spent a week in Bellevue WA putting finishing touches on Python 3.13, planning, prototyping, and implementing features for Python 3.14. We talked to half of them. We laughed, we cried. We were happy watching graphs go up, and sad watching them go down. It was intense. There was even cake, no joke!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;## Timestamps&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;&lt;p&gt;(00:02:05) PART 1: THE CAKE IS NOT A LIE&lt;/p&gt;&lt;p&gt;(00:04:09) Interview with sprint organizer Itamar Oren&lt;/p&gt;&lt;p&gt;(00:07:48) Surprise waffle machine&lt;/p&gt;&lt;p&gt;(00:08:36) PART 2: DEVELOPERS IN THEIR OWN WORDS&lt;/p&gt;&lt;p&gt;(00:08:47) Brandt Bucher&lt;/p&gt;&lt;p&gt;(00:10:49) Tian Gao&lt;/p&gt;&lt;p&gt;(00:12:31) Hugo van Kemenade&lt;/p&gt;&lt;p&gt;(00:16:35) Thomas Wow-ters&lt;/p&gt;&lt;p&gt;(00:24:08) Yury Selivanov&lt;/p&gt;&lt;p&gt;(00:29:33) Mark Shannon&lt;/p&gt;&lt;p&gt;(00:30:56) Raymond Hettinger&lt;/p&gt;&lt;p&gt;(00:32:06) Russell Keith-Magee&lt;/p&gt;&lt;p&gt;(00:33:18) Mariatta&lt;/p&gt;&lt;p&gt;(00:41:41) Larry Hastings&lt;/p&gt;&lt;p&gt;(00:46:07) Barry Warsaw&lt;/p&gt;&lt;p&gt;(00:53:10) Jelle Zijlstra&lt;/p&gt;&lt;p&gt;(00:56:20) Alex Waygood&lt;/p&gt;&lt;p&gt;(00:57:39) Gregory P. Smith&lt;/p&gt;&lt;p&gt;(01:04:08) Petr Viktorin&lt;/p&gt;&lt;p&gt;(01:04:49) Emily Morehouse-Valcarcel&lt;/p&gt;&lt;p&gt;(01:08:27) Interlude: Łukasz was right for once&lt;/p&gt;&lt;p&gt;(01:09:28) Lysandros Nikolaou&lt;/p&gt;&lt;p&gt;(01:17:38) Dino Viehland&lt;/p&gt;&lt;p&gt;(01:23:22) Carl Meyer&lt;/p&gt;&lt;p&gt;(01:24:29) Eric Smith&lt;/p&gt;&lt;p&gt;(01:32:00) Eric Snow&lt;/p&gt;&lt;p&gt;(01:41:46) Janitor 1&lt;/p&gt;&lt;p&gt;(01:50:01) Janitor 2&lt;/p&gt;&lt;p&gt;(01:53:03) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:56:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 14: Integration Events]]></title>
+			<description><![CDATA[<p>We’ve been gone all Summer, visiting two European conferences in the mean time. In this episode we’re talking about them both, talks we liked, as well as our own talks at those events. In a rare turn of events, this one was recorded in person at Łukasz’s home studio in Poznań!</p>
+<p><br></p>
+<p>## Outline</p>
+<p><br></p>
+<p>(00:00:00) INTRO</p>
+<p>(00:01:30) PART 1: EuroPython highlights</p>
+<p>(00:02:03) Maintaining pyrepl forward with pypy</p>
+<p>(00:05:51) Mai Giménez and her keynote</p>
+<p>(00:09:30) Yuliia Barabash and Laysa Uchoa talk memory management</p>
+<p>(00:11:03) Core developer panel and sprints</p>
+<p>(00:11:56) The abyss stares back at Pablo</p>
+<p>(00:18:21) Disappointing</p>
+<p>(00:25:50) Łukasz and the all-singing all-dancing pyrepl</p>
+<p>(00:33:52) Hackable REPL = new contributors</p>
+<p>(00:40:24) PART 2: PyCon PL</p>
+<p>(00:42:24) An integration event</p>
+<p>(00:44:45) Say No To Notebooks</p>
+<p>(00:48:32) Pablo&#39;s grandfather&#39;s axe</p>
+<p>(00:56:00) LL1 made Python easy to read for humans, too</p>
+<p>(00:59:29) Python and triangles in the browser</p>
+<p>(01:06:16) PART 3: PR OF THE WEEK</p>
+<p>(01:13:08) PART 4: WHAT&#39;S GOING ON IN CPYTHON</p>
+<p>(01:13:32) HACL* blake2</p>
+<p>(01:15:29) New methods on pathlib.Path objects</p>
+<p>(01:16:28) PyIter_GetNext</p>
+<p>(01:17:20) PyLong_FromInt64</p>
+<p>(01:18:07) CALL_ALLOC_AND_ENTER_INIT suitable for Tier 2</p>
+<p>(01:19:09) Tier 2 support for BINARY_SUBSCR_GETITEM</p>
+<p>(01:19:26) Removal of the CHECK_EVAL_BREAKER macro</p>
+<p>(01:20:11) Don&#39;t be a jerk on GitHub</p>
+<p>(01:21:30) Per-thread heap type refcounts</p>
+<p>(01:22:29) Pickling by name for object without __module__ is now faster</p>
+<p>(01:23:12) CVE-2024-7592 fixed</p>
+<p>(01:24:11) Free threading memory leaks at interpreter shutdown</p>
+<p>(01:25:34) The &quot;What&#39;s New in 3.13&quot; document getting some love</p>
+<p>(01:26:32) Recursion-guarding code improved in the compiler</p>
+<p>(01:27:13) A new Android test script for running with emulators</p>
+<p>(01:27:28) Core sprint week at Meta coming up!</p>
+<p>(01:29:53) OUTRO</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-14-Integration-Events-e2nuru6</link>
+			<guid isPermaLink="false">9612feef-cd96-4947-9328-30b0201ac2fc</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Tue, 03 Sep 2024 13:39:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/91237766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-3%2Fdccb3c88-811c-87b1-fa92-f55ebae8e939.mp3" length="174613566" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;We’ve been gone all Summer, visiting two European conferences in the mean time. In this episode we’re talking about them both, talks we liked, as well as our own talks at those events. In a rare turn of events, this one was recorded in person at Łukasz’s home studio in Poznań!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;## Outline&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;
+&lt;p&gt;(00:01:30) PART 1: EuroPython highlights&lt;/p&gt;
+&lt;p&gt;(00:02:03) Maintaining pyrepl forward with pypy&lt;/p&gt;
+&lt;p&gt;(00:05:51) Mai Giménez and her keynote&lt;/p&gt;
+&lt;p&gt;(00:09:30) Yuliia Barabash and Laysa Uchoa talk memory management&lt;/p&gt;
+&lt;p&gt;(00:11:03) Core developer panel and sprints&lt;/p&gt;
+&lt;p&gt;(00:11:56) The abyss stares back at Pablo&lt;/p&gt;
+&lt;p&gt;(00:18:21) Disappointing&lt;/p&gt;
+&lt;p&gt;(00:25:50) Łukasz and the all-singing all-dancing pyrepl&lt;/p&gt;
+&lt;p&gt;(00:33:52) Hackable REPL = new contributors&lt;/p&gt;
+&lt;p&gt;(00:40:24) PART 2: PyCon PL&lt;/p&gt;
+&lt;p&gt;(00:42:24) An integration event&lt;/p&gt;
+&lt;p&gt;(00:44:45) Say No To Notebooks&lt;/p&gt;
+&lt;p&gt;(00:48:32) Pablo&amp;#39;s grandfather&amp;#39;s axe&lt;/p&gt;
+&lt;p&gt;(00:56:00) LL1 made Python easy to read for humans, too&lt;/p&gt;
+&lt;p&gt;(00:59:29) Python and triangles in the browser&lt;/p&gt;
+&lt;p&gt;(01:06:16) PART 3: PR OF THE WEEK&lt;/p&gt;
+&lt;p&gt;(01:13:08) PART 4: WHAT&amp;#39;S GOING ON IN CPYTHON&lt;/p&gt;
+&lt;p&gt;(01:13:32) HACL* blake2&lt;/p&gt;
+&lt;p&gt;(01:15:29) New methods on pathlib.Path objects&lt;/p&gt;
+&lt;p&gt;(01:16:28) PyIter_GetNext&lt;/p&gt;
+&lt;p&gt;(01:17:20) PyLong_FromInt64&lt;/p&gt;
+&lt;p&gt;(01:18:07) CALL_ALLOC_AND_ENTER_INIT suitable for Tier 2&lt;/p&gt;
+&lt;p&gt;(01:19:09) Tier 2 support for BINARY_SUBSCR_GETITEM&lt;/p&gt;
+&lt;p&gt;(01:19:26) Removal of the CHECK_EVAL_BREAKER macro&lt;/p&gt;
+&lt;p&gt;(01:20:11) Don&amp;#39;t be a jerk on GitHub&lt;/p&gt;
+&lt;p&gt;(01:21:30) Per-thread heap type refcounts&lt;/p&gt;
+&lt;p&gt;(01:22:29) Pickling by name for object without __module__ is now faster&lt;/p&gt;
+&lt;p&gt;(01:23:12) CVE-2024-7592 fixed&lt;/p&gt;
+&lt;p&gt;(01:24:11) Free threading memory leaks at interpreter shutdown&lt;/p&gt;
+&lt;p&gt;(01:25:34) The &amp;quot;What&amp;#39;s New in 3.13&amp;quot; document getting some love&lt;/p&gt;
+&lt;p&gt;(01:26:32) Recursion-guarding code improved in the compiler&lt;/p&gt;
+&lt;p&gt;(01:27:13) A new Android test script for running with emulators&lt;/p&gt;
+&lt;p&gt;(01:27:28) Core sprint week at Meta coming up!&lt;/p&gt;
+&lt;p&gt;(01:29:53) OUTRO&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:30:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 13: A Legit Episode]]></title>
+			<description><![CDATA[<p>In this lucky episode we&#39;re interviewing fellow core developer Brandt Bucher to talk about Justin, Swedish warships, and the n-body benchmark. We&#39;re also breaking the duration record with this one. We promise we&#39;ll get faster in future releases!</p>
+<p><br></p>
+<p>## Outline</p>
+<p><br></p>
+<p>(00:00:00) INTRO</p>
+<p>(00:01:43) PART 1: BRANDT BUCHER INTERVIEW</p>
+<p>(00:03:04) Beginnings of contribution</p>
+<p>(00:06:29) Sticking around</p>
+<p>(00:09:38) PEP work: pattern matching, dict unions, weird decorators</p>
+<p>(00:13:07) Implementing pattern matching, we like parsers</p>
+<p>(00:19:41) First tasks with the Faster Python team</p>
+<p>(00:20:59) It&#39;s always pytest with these things</p>
+<p>(00:28:55) Pepe Silvia and generators</p>
+<p>(00:30:12) The paper that inspired the JIT</p>
+<p>(00:32:01) The n-body benchmark is a joke</p>
+<p>(00:35:33) What even is a JIT?</p>
+<p>(00:38:11) Advantages of copy &amp; patch</p>
+<p>(00:40:27) The Vasa Question</p>
+<p>(00:45:30) When are we getting faster?</p>
+<p>(00:49:09) Using pure Python versions of libraries... for speed?</p>
+<p>(00:52:18) The weirdest bug so far</p>
+<p>(00:55:12) How did removal of the GIL complicate your life?</p>
+<p>(00:57:53) Naming things is hard</p>
+<p>(00:59:55) Collaborating and mentoring others</p>
+<p>(01:06:19) The Linker Connoisseur Question</p>
+<p>(01:08:53) PART 2: PR OF THE WEEK</p>
+<p>(01:14:04) PART 3: WHAT&#39;S GOING ON IN CPYTHON</p>
+<p>(01:14:40) Jelle is implementing PEP 649 and PEP 749</p>
+<p>(01:15:08) Petr&#39;s battle with string interning</p>
+<p>(01:16:24) Ruben Vorderman makes str.count 2X faster</p>
+<p>(01:16:54) Ken Jin folds constants in entire attribute loads</p>
+<p>(01:18:07) neonene and Eric Snow make datetime work better with subinterpreters</p>
+<p>(01:20:18) pickle protocol 5 will be the default in 3.14</p>
+<p>(01:21:58) Tian Gao improves pdb</p>
+<p>(01:23:42) Free-threading changes galore</p>
+<p>(01:27:34) Victor exposes PyUnicodeWriter in the C API</p>
+<p>(01:28:18) PyREPL changes &amp; going off the rails</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-13-A-Legit-Episode-e2lepe4</link>
+			<guid isPermaLink="false">332f6aba-d19c-4ad8-8eab-f591382f6318</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Sat, 29 Jun 2024 08:53:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/88613764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-29%2F643595b2-50ef-aef7-d065-e2f907a54151.mp3" length="215078510" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this lucky episode we&amp;#39;re interviewing fellow core developer Brandt Bucher to talk about Justin, Swedish warships, and the n-body benchmark. We&amp;#39;re also breaking the duration record with this one. We promise we&amp;#39;ll get faster in future releases!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;## Outline&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;
+&lt;p&gt;(00:01:43) PART 1: BRANDT BUCHER INTERVIEW&lt;/p&gt;
+&lt;p&gt;(00:03:04) Beginnings of contribution&lt;/p&gt;
+&lt;p&gt;(00:06:29) Sticking around&lt;/p&gt;
+&lt;p&gt;(00:09:38) PEP work: pattern matching, dict unions, weird decorators&lt;/p&gt;
+&lt;p&gt;(00:13:07) Implementing pattern matching, we like parsers&lt;/p&gt;
+&lt;p&gt;(00:19:41) First tasks with the Faster Python team&lt;/p&gt;
+&lt;p&gt;(00:20:59) It&amp;#39;s always pytest with these things&lt;/p&gt;
+&lt;p&gt;(00:28:55) Pepe Silvia and generators&lt;/p&gt;
+&lt;p&gt;(00:30:12) The paper that inspired the JIT&lt;/p&gt;
+&lt;p&gt;(00:32:01) The n-body benchmark is a joke&lt;/p&gt;
+&lt;p&gt;(00:35:33) What even is a JIT?&lt;/p&gt;
+&lt;p&gt;(00:38:11) Advantages of copy &amp;amp; patch&lt;/p&gt;
+&lt;p&gt;(00:40:27) The Vasa Question&lt;/p&gt;
+&lt;p&gt;(00:45:30) When are we getting faster?&lt;/p&gt;
+&lt;p&gt;(00:49:09) Using pure Python versions of libraries... for speed?&lt;/p&gt;
+&lt;p&gt;(00:52:18) The weirdest bug so far&lt;/p&gt;
+&lt;p&gt;(00:55:12) How did removal of the GIL complicate your life?&lt;/p&gt;
+&lt;p&gt;(00:57:53) Naming things is hard&lt;/p&gt;
+&lt;p&gt;(00:59:55) Collaborating and mentoring others&lt;/p&gt;
+&lt;p&gt;(01:06:19) The Linker Connoisseur Question&lt;/p&gt;
+&lt;p&gt;(01:08:53) PART 2: PR OF THE WEEK&lt;/p&gt;
+&lt;p&gt;(01:14:04) PART 3: WHAT&amp;#39;S GOING ON IN CPYTHON&lt;/p&gt;
+&lt;p&gt;(01:14:40) Jelle is implementing PEP 649 and PEP 749&lt;/p&gt;
+&lt;p&gt;(01:15:08) Petr&amp;#39;s battle with string interning&lt;/p&gt;
+&lt;p&gt;(01:16:24) Ruben Vorderman makes str.count 2X faster&lt;/p&gt;
+&lt;p&gt;(01:16:54) Ken Jin folds constants in entire attribute loads&lt;/p&gt;
+&lt;p&gt;(01:18:07) neonene and Eric Snow make datetime work better with subinterpreters&lt;/p&gt;
+&lt;p&gt;(01:20:18) pickle protocol 5 will be the default in 3.14&lt;/p&gt;
+&lt;p&gt;(01:21:58) Tian Gao improves pdb&lt;/p&gt;
+&lt;p&gt;(01:23:42) Free-threading changes galore&lt;/p&gt;
+&lt;p&gt;(01:27:34) Victor exposes PyUnicodeWriter in the C API&lt;/p&gt;
+&lt;p&gt;(01:28:18) PyREPL changes &amp;amp; going off the rails&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:51:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 12: WTF Python]]></title>
+			<description><![CDATA[You think you know Python? We thought so, too. Join us for an episode of surprises. You might know some of those, but you sure don't know all of them.
+
+## Outline
+
+(00:00:00) INTRO
+(00:02:22) Integer interning with a twist
+(00:10:58) Return in finally
+(00:15:32) all([[]])
+(00:20:06) Lists, iterators and hashing shenanigans
+(00:27:08) hash(-1)
+(00:31:30) String interning
+(00:34:23) PR OF THE WEEK
+(00:34:56) asyncio REPL now uses pyrepl, too
+(00:44:06) PyOS_InputHook
+(00:51:56) WHAT'S GOING ON IN CPYTHON
+(00:52:05) New core developers!
+(00:55:10) 3.13 beta 2 & 3.12.4 released
+(00:56:04) Pablo's top 3 favorite pyrepl improvements in Beta 2
+(00:59:50) PEP 667 implemented!
+(01:02:42) Tian Gao's improvements to pdb
+(01:06:31) Uncle Tim's crusade to make int(some_string) asymptotically faster
+(01:08:50) datetime now uses interpreter-local static types
+(01:09:55) PEP 749 enters the chat, paving the way to a PEP 649 future
+(01:11:35) os.fwalk, os.walk, shutil.rmtree now support arbitrary depth directory trees
+(01:14:13) Free-threading changes
+(01:22:15) OUTRO
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-12-WTF-Python-e2kn1rj</link>
+			<guid isPermaLink="false">0ee9991c-2631-4718-90e0-dad7434cd3aa</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Mon, 10 Jun 2024 11:15:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/87835955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-10%2F2a870e96-1fab-1ead-b6ff-de00612cee0d.mp3" length="163258891" type="audio/mpeg"/>
+			<itunes:summary>You think you know Python? We thought so, too. Join us for an episode of surprises. You might know some of those, but you sure don&apos;t know all of them.
+
+## Outline
+
+(00:00:00) INTRO
+(00:02:22) Integer interning with a twist
+(00:10:58) Return in finally
+(00:15:32) all([[]])
+(00:20:06) Lists, iterators and hashing shenanigans
+(00:27:08) hash(-1)
+(00:31:30) String interning
+(00:34:23) PR OF THE WEEK
+(00:34:56) asyncio REPL now uses pyrepl, too
+(00:44:06) PyOS_InputHook
+(00:51:56) WHAT&apos;S GOING ON IN CPYTHON
+(00:52:05) New core developers!
+(00:55:10) 3.13 beta 2 &amp; 3.12.4 released
+(00:56:04) Pablo&apos;s top 3 favorite pyrepl improvements in Beta 2
+(00:59:50) PEP 667 implemented!
+(01:02:42) Tian Gao&apos;s improvements to pdb
+(01:06:31) Uncle Tim&apos;s crusade to make int(some_string) asymptotically faster
+(01:08:50) datetime now uses interpreter-local static types
+(01:09:55) PEP 749 enters the chat, paving the way to a PEP 649 future
+(01:11:35) os.fwalk, os.walk, shutil.rmtree now support arbitrary depth directory trees
+(01:14:13) Free-threading changes
+(01:22:15) OUTRO
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:24:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>140</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 11: Live from PyCon 2024]]></title>
+			<description><![CDATA[<p>Who says we can&#39;t do short episodes? Well, it was a challenge! But with the help of some gentle conference schedule pressure, here&#39;s our first sub-hour episode. We&#39;re discussing the language summit, answering audience questions, and behaving like serious professionals, as usual.</p>
+<p><br></p>
+<p>## Outline</p>
+<p><br></p>
+<p>(00:00:00) INTRO</p>
+<p>(00:02:01) PEP 602 tweaks: 2 years of bug fix releases</p>
+<p>(00:02:45) CalVer for Python versions?</p>
+<p>(00:04:51) In Python there&#39;s this thing called the C API</p>
+<p>(00:08:51) More about PyREPL</p>
+<p>(00:12:17) Evolving pdb</p>
+<p>(00:14:49) Memhive</p>
+<p>(00:16:18) The boring 3.13</p>
+<p>(00:18:16) Q&amp;A</p>
+<p>(00:18:43) Fashion + favorite bug</p>
+<p>(00:22:12) What happens in 2100 with CalVer?</p>
+<p>(00:23:02) Subinterpreters or free-threading?</p>
+<p>(00:23:41) Where else to find information on current development?</p>
+<p>(00:25:40) Will distros provide free-threading builds?</p>
+<p>(00:26:23) Will the podcast run out of content?</p>
+<p>(00:28:37) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-11-Live-from-PyCon-2024-e2k75mc</link>
+			<guid isPermaLink="false">d3a40df1-8c77-4234-9da9-cd7ce8dc81b4</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Tue, 28 May 2024 15:25:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/87315596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-28%2F124ede78-4b5c-b238-35d1-e41fd528457a.mp3" length="58755349" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Who says we can&amp;#39;t do short episodes? Well, it was a challenge! But with the help of some gentle conference schedule pressure, here&amp;#39;s our first sub-hour episode. We&amp;#39;re discussing the language summit, answering audience questions, and behaving like serious professionals, as usual.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;## Outline&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;
+&lt;p&gt;(00:02:01) PEP 602 tweaks: 2 years of bug fix releases&lt;/p&gt;
+&lt;p&gt;(00:02:45) CalVer for Python versions?&lt;/p&gt;
+&lt;p&gt;(00:04:51) In Python there&amp;#39;s this thing called the C API&lt;/p&gt;
+&lt;p&gt;(00:08:51) More about PyREPL&lt;/p&gt;
+&lt;p&gt;(00:12:17) Evolving pdb&lt;/p&gt;
+&lt;p&gt;(00:14:49) Memhive&lt;/p&gt;
+&lt;p&gt;(00:16:18) The boring 3.13&lt;/p&gt;
+&lt;p&gt;(00:18:16) Q&amp;amp;A&lt;/p&gt;
+&lt;p&gt;(00:18:43) Fashion + favorite bug&lt;/p&gt;
+&lt;p&gt;(00:22:12) What happens in 2100 with CalVer?&lt;/p&gt;
+&lt;p&gt;(00:23:02) Subinterpreters or free-threading?&lt;/p&gt;
+&lt;p&gt;(00:23:41) Where else to find information on current development?&lt;/p&gt;
+&lt;p&gt;(00:25:40) Will distros provide free-threading builds?&lt;/p&gt;
+&lt;p&gt;(00:26:23) Will the podcast run out of content?&lt;/p&gt;
+&lt;p&gt;(00:28:37) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:30:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 10: The Interactive REPL]]></title>
+			<description><![CDATA[<p>Oof, no episode in April, huh? Yeah, we&#39;re getting close to Python 3.13 beta 1. PyCon US is also coming up real soon. Let&#39;s use this opportunity then to talk about a feature we&#39;re teaming up on: a better interactive interpreter!</p>
+<p><br></p>
+<p>## Outline</p>
+<p><br></p>
+<p>(00:00:00)  INTRO</p>
+<p>(00:01:53)  PART 1: History of Terminals</p>
+<p>(00:03:20)  /dev/tty</p>
+<p>(00:04:51)  The first cool word</p>
+<p>(00:05:45)  Chrząszcz</p>
+<p>(00:06:20)  Control code characters in ASCII</p>
+<p>(00:11:54)  PART 2: Python REPL Today</p>
+<p>(00:12:34)  There is no REPL</p>
+<p>(00:15:28)  So what is there instead?</p>
+<p>(00:19:13)  readline</p>
+<p>(00:25:38)  Source in the REPL</p>
+<p>(00:31:13)  Implementing a REPL from scratch? Prepare to support arg: 5</p>
+<p>(00:36:09)  PART 3: PR OF THE WEEK</p>
+<p>(00:37:09)  Introducing: Complaining Pablo</p>
+<p>(00:38:23)  Tests are always green if you skip them</p>
+<p>(00:39:57)  Getting dirty with escape sequences</p>
+<p>(00:41:28)  Typing finds bugs</p>
+<p>(00:42:29)  Shiny new features of the new REPL</p>
+<p>(00:45:55)  Contributing back to PyPy</p>
+<p>(00:48:10)  We still have two weeks, right?</p>
+<p>(00:49:59)  Is Python synthwave enough?</p>
+<p>(00:51:57)  Do we have a bug?</p>
+<p>(00:55:31)  What&#39;s lurking in pydoc?</p>
+<p>(00:59:38)  PART 4: WHAT&#39;S HAPPENING IN CPYTHON?</p>
+<p>(01:02:39)  PEP 744: The JIT</p>
+<p>(01:06:05)  Incremental GC is now actually in</p>
+<p>(01:08:21)  Tier 2 interpreter updates</p>
+<p>(01:10:29)  Python supported on iOS with PEP 730</p>
+<p>(01:13:11)  Better error messages for name shadowing</p>
+<p>(01:15:17)  Queue.shutdown()</p>
+<p>(01:17:14)  ctypes adopts heap types</p>
+<p>(01:18:26)  Free-threading updates</p>
+<p>(01:20:14)  Dataclass creation is faster</p>
+<p>(01:20:44)  OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-10-The-Interactive-REPL-e2j788i</link>
+			<guid isPermaLink="false">5afafa80-dc18-4245-ac30-da1db6afedaf</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Fri, 03 May 2024 15:08:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/86269650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-3%2Fe9c4ad28-de5d-9f38-5ad5-fd1c5be5b2d2.mp3" length="159274307" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Oof, no episode in April, huh? Yeah, we&amp;#39;re getting close to Python 3.13 beta 1. PyCon US is also coming up real soon. Let&amp;#39;s use this opportunity then to talk about a feature we&amp;#39;re teaming up on: a better interactive interpreter!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;## Outline&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00)  INTRO&lt;/p&gt;
+&lt;p&gt;(00:01:53)  PART 1: History of Terminals&lt;/p&gt;
+&lt;p&gt;(00:03:20)  /dev/tty&lt;/p&gt;
+&lt;p&gt;(00:04:51)  The first cool word&lt;/p&gt;
+&lt;p&gt;(00:05:45)  Chrząszcz&lt;/p&gt;
+&lt;p&gt;(00:06:20)  Control code characters in ASCII&lt;/p&gt;
+&lt;p&gt;(00:11:54)  PART 2: Python REPL Today&lt;/p&gt;
+&lt;p&gt;(00:12:34)  There is no REPL&lt;/p&gt;
+&lt;p&gt;(00:15:28)  So what is there instead?&lt;/p&gt;
+&lt;p&gt;(00:19:13)  readline&lt;/p&gt;
+&lt;p&gt;(00:25:38)  Source in the REPL&lt;/p&gt;
+&lt;p&gt;(00:31:13)  Implementing a REPL from scratch? Prepare to support arg: 5&lt;/p&gt;
+&lt;p&gt;(00:36:09)  PART 3: PR OF THE WEEK&lt;/p&gt;
+&lt;p&gt;(00:37:09)  Introducing: Complaining Pablo&lt;/p&gt;
+&lt;p&gt;(00:38:23)  Tests are always green if you skip them&lt;/p&gt;
+&lt;p&gt;(00:39:57)  Getting dirty with escape sequences&lt;/p&gt;
+&lt;p&gt;(00:41:28)  Typing finds bugs&lt;/p&gt;
+&lt;p&gt;(00:42:29)  Shiny new features of the new REPL&lt;/p&gt;
+&lt;p&gt;(00:45:55)  Contributing back to PyPy&lt;/p&gt;
+&lt;p&gt;(00:48:10)  We still have two weeks, right?&lt;/p&gt;
+&lt;p&gt;(00:49:59)  Is Python synthwave enough?&lt;/p&gt;
+&lt;p&gt;(00:51:57)  Do we have a bug?&lt;/p&gt;
+&lt;p&gt;(00:55:31)  What&amp;#39;s lurking in pydoc?&lt;/p&gt;
+&lt;p&gt;(00:59:38)  PART 4: WHAT&amp;#39;S HAPPENING IN CPYTHON?&lt;/p&gt;
+&lt;p&gt;(01:02:39)  PEP 744: The JIT&lt;/p&gt;
+&lt;p&gt;(01:06:05)  Incremental GC is now actually in&lt;/p&gt;
+&lt;p&gt;(01:08:21)  Tier 2 interpreter updates&lt;/p&gt;
+&lt;p&gt;(01:10:29)  Python supported on iOS with PEP 730&lt;/p&gt;
+&lt;p&gt;(01:13:11)  Better error messages for name shadowing&lt;/p&gt;
+&lt;p&gt;(01:15:17)  Queue.shutdown()&lt;/p&gt;
+&lt;p&gt;(01:17:14)  ctypes adopts heap types&lt;/p&gt;
+&lt;p&gt;(01:18:26)  Free-threading updates&lt;/p&gt;
+&lt;p&gt;(01:20:14)  Dataclass creation is faster&lt;/p&gt;
+&lt;p&gt;(01:20:44)  OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:22:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 9: Py Day with Emily Morehouse-Valcarcel]]></title>
+			<description><![CDATA[<p>Let&#39;s talk about the Steering Council, running a small consultancy business, the Walrus, and pet peeves with our special guest today!</p>
+<p><br></p>
+<p>## Outline</p>
+<p><br></p>
+<p>(00:00:00)  INTRO</p>
+<p>(00:00:56)  PART 1: Emily Morehouse</p>
+<p>(00:02:15)  Running a small consultancy business</p>
+<p>(00:04:39)  What features of JS do you miss in Python?</p>
+<p>(00:05:50)  Łukasz outnumbered in a world of Steering Council members</p>
+<p>(00:06:12)  Upgrading to new Python versions</p>
+<p>(00:07:00)  It depends on who deployed the project</p>
+<p>(00:09:44)  Second term as a Steering Council member</p>
+<p>(00:11:33)  Barry, play some bass for us</p>
+<p>(00:13:04)  Let&#39;s hear a recent war story</p>
+<p>(00:15:17)  Is this progress bar even working?</p>
+<p>(00:17:40)  The Villain Origin Story</p>
+<p>(00:21:37)  Emily, The Bringer of Doom</p>
+<p>(00:22:37)  Consensus within the Steering Council</p>
+<p>(00:25:52)  Syntax changes in Python are rare, right? Right?</p>
+<p>(00:28:22)  On implementing PEP 572</p>
+<p>(00:32:52)  How would PyCon 2020 in Pittsburgh feel?</p>
+<p>(00:34:18)  How can you be mad about the Walrus?</p>
+<p>(00:36:10)  Favorite parts of the standard library</p>
+<p>(00:38:10)  Is hacking on Python a good experience to newcomers?</p>
+<p>(00:40:26)  Emily&#39;s pet peeve about Python, take 1</p>
+<p>(00:42:17)  Emily&#39;s favorite change in Python in recent years</p>
+<p>(00:44:34)  Emily&#39;s pet peeve about Python, take 2</p>
+<p>(00:46:34)  Łukasz&#39;s pet peeve</p>
+<p>(00:48:25)  Surprise extra question</p>
+<p>(00:49:42)  At core.py we are professionals</p>
+<p>(00:51:00)  PART 2: PR of the Week</p>
+<p>(00:54:00)  CALL TO ACTION: Upgrade Python.org to Django 4!</p>
+<p>(00:56:22)  PART 3: What&#39;s Going On in CPython?</p>
+<p>(00:56:38)  Faster Python updates</p>
+<p>(01:00:10)  Free threading: GIL can be disabled but we&#39;re not done yet!</p>
+<p>(01:04:17)  New defaults for SSL context flags</p>
+<p>(01:05:39)  python -m asyncio and sys.__interactivehook__</p>
+<p>(01:06:24)  Surprise question: what is sys.__interactivehook__ even doing?</p>
+<p>(01:08:11)  OUTRO</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-9-Py-Day-with-Emily-Morehouse-Valcarcel-e2h2tt9</link>
+			<guid isPermaLink="false">7f53a9c3-f559-4085-b954-c6fb0d528ddf</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Thu, 14 Mar 2024 13:19:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/84030825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F539bdd2d-8cee-bd09-870d-4a7fad535a06.mp3" length="134111250" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Let&amp;#39;s talk about the Steering Council, running a small consultancy business, the Walrus, and pet peeves with our special guest today!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;## Outline&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00)  INTRO&lt;/p&gt;
+&lt;p&gt;(00:00:56)  PART 1: Emily Morehouse&lt;/p&gt;
+&lt;p&gt;(00:02:15)  Running a small consultancy business&lt;/p&gt;
+&lt;p&gt;(00:04:39)  What features of JS do you miss in Python?&lt;/p&gt;
+&lt;p&gt;(00:05:50)  Łukasz outnumbered in a world of Steering Council members&lt;/p&gt;
+&lt;p&gt;(00:06:12)  Upgrading to new Python versions&lt;/p&gt;
+&lt;p&gt;(00:07:00)  It depends on who deployed the project&lt;/p&gt;
+&lt;p&gt;(00:09:44)  Second term as a Steering Council member&lt;/p&gt;
+&lt;p&gt;(00:11:33)  Barry, play some bass for us&lt;/p&gt;
+&lt;p&gt;(00:13:04)  Let&amp;#39;s hear a recent war story&lt;/p&gt;
+&lt;p&gt;(00:15:17)  Is this progress bar even working?&lt;/p&gt;
+&lt;p&gt;(00:17:40)  The Villain Origin Story&lt;/p&gt;
+&lt;p&gt;(00:21:37)  Emily, The Bringer of Doom&lt;/p&gt;
+&lt;p&gt;(00:22:37)  Consensus within the Steering Council&lt;/p&gt;
+&lt;p&gt;(00:25:52)  Syntax changes in Python are rare, right? Right?&lt;/p&gt;
+&lt;p&gt;(00:28:22)  On implementing PEP 572&lt;/p&gt;
+&lt;p&gt;(00:32:52)  How would PyCon 2020 in Pittsburgh feel?&lt;/p&gt;
+&lt;p&gt;(00:34:18)  How can you be mad about the Walrus?&lt;/p&gt;
+&lt;p&gt;(00:36:10)  Favorite parts of the standard library&lt;/p&gt;
+&lt;p&gt;(00:38:10)  Is hacking on Python a good experience to newcomers?&lt;/p&gt;
+&lt;p&gt;(00:40:26)  Emily&amp;#39;s pet peeve about Python, take 1&lt;/p&gt;
+&lt;p&gt;(00:42:17)  Emily&amp;#39;s favorite change in Python in recent years&lt;/p&gt;
+&lt;p&gt;(00:44:34)  Emily&amp;#39;s pet peeve about Python, take 2&lt;/p&gt;
+&lt;p&gt;(00:46:34)  Łukasz&amp;#39;s pet peeve&lt;/p&gt;
+&lt;p&gt;(00:48:25)  Surprise extra question&lt;/p&gt;
+&lt;p&gt;(00:49:42)  At core.py we are professionals&lt;/p&gt;
+&lt;p&gt;(00:51:00)  PART 2: PR of the Week&lt;/p&gt;
+&lt;p&gt;(00:54:00)  CALL TO ACTION: Upgrade Python.org to Django 4!&lt;/p&gt;
+&lt;p&gt;(00:56:22)  PART 3: What&amp;#39;s Going On in CPython?&lt;/p&gt;
+&lt;p&gt;(00:56:38)  Faster Python updates&lt;/p&gt;
+&lt;p&gt;(01:00:10)  Free threading: GIL can be disabled but we&amp;#39;re not done yet!&lt;/p&gt;
+&lt;p&gt;(01:04:17)  New defaults for SSL context flags&lt;/p&gt;
+&lt;p&gt;(01:05:39)  python -m asyncio and sys.__interactivehook__&lt;/p&gt;
+&lt;p&gt;(01:06:24)  Surprise question: what is sys.__interactivehook__ even doing?&lt;/p&gt;
+&lt;p&gt;(01:08:11)  OUTRO&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:09:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 8: The New Parser]]></title>
+			<description><![CDATA[<p>The suspense was killing us! OK, the old parser was then... but what about NOW? We&#39;re finally answering this question... in more detail than you dared to ask for. PEG, memoization, funky secrets, and how a certain auto-formatter self-inflicted an existential crisis on itself. It&#39;s all there, told in barely 100 minutes! Can you believe it?</p>
+<p><br></p>
+<p># Timestamps</p>
+<p><br></p>
+<p>(00:00:00)  INTRO</p>
+<p>(00:00:54)  PART 1: What even is PEG?</p>
+<p>(00:04:02)  You can&#39;t prove anything!</p>
+<p>(00:05:03)  What&#39;s a &quot;parsing expression&quot;?</p>
+<p>(00:08:23)  Our old LL1 parser wasn&#39;t doing its job</p>
+<p>(00:09:37)  &quot;Soft keywords&quot; in LL1: A Horror Story</p>
+<p>(00:13:16)  PART 2: How PEG was adopted by Python</p>
+<p>(00:17:10)  Why not LALR?</p>
+<p>(00:22:11)  The PEG paper wasn&#39;t enough either, if we&#39;re honest</p>
+<p>(00:26:26)  Less obvious advantages of the new parser</p>
+<p>(00:31:28)  Black is stuck with LL1, can it cope?</p>
+<p>(00:36:24)  Hedging against Łukasz, the bringer of doom</p>
+<p>(00:41:14)  PART 3: How does the PEG parser of CPython work?</p>
+<p>(00:44:30)  Pedantic Pablo on &quot;exponential&quot;</p>
+<p>(00:45:14)  Fresh news from literally yesterday last week</p>
+<p>(00:46:39)  Pedantic Pablo on &quot;infinite&quot;</p>
+<p>(00:47:32)  Memoization in the PEG parser</p>
+<p>(00:50:41)  Parse once, and if it fails, try again!</p>
+<p>(00:52:14)  How to model a grammar of programming mistakes?</p>
+<p>(00:56:36)  Why is there C code in my grammar file?</p>
+<p>(00:59:57)  Bro, do you even lift?</p>
+<p>(01:01:45)  How soft keywords work today: it&#39;s not free lunch</p>
+<p>(01:04:29)  Funky grammar secrets</p>
+<p>(01:09:07)  PART 4: PR OF THE WEEK</p>
+<p>(01:09:15)  audioop.c license shenanigans</p>
+<p>(01:14:56)  The secret profiler inside CPython (tests)</p>
+<p>(01:22:45)  PART 5: WHAT&#39;S GOING ON IN CPYTHON?</p>
+<p>(01:23:30)  Free-threading changes</p>
+<p>(01:28:15)  Faster Python changes</p>
+<p>(01:35:39)  End of an era: docs get rid of Python 2 migration info</p>
+<p>(01:36:45)  Python --help output is now nicer</p>
+<p>(01:38:43) SQLite as a dbm backend</p>
+<p>(01:41:08)  OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-8-The-New-Parser-e2ggih4</link>
+			<guid isPermaLink="false">33e871a4-ebdc-4c20-bc4d-ae0c6e7955e4</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Fri, 01 Mar 2024 14:59:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/83429348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-1%2F36e7862c-ac39-7e83-220f-90220fb85900.mp3" length="197202072" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;The suspense was killing us! OK, the old parser was then... but what about NOW? We&amp;#39;re finally answering this question... in more detail than you dared to ask for. PEG, memoization, funky secrets, and how a certain auto-formatter self-inflicted an existential crisis on itself. It&amp;#39;s all there, told in barely 100 minutes! Can you believe it?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00)  INTRO&lt;/p&gt;
+&lt;p&gt;(00:00:54)  PART 1: What even is PEG?&lt;/p&gt;
+&lt;p&gt;(00:04:02)  You can&amp;#39;t prove anything!&lt;/p&gt;
+&lt;p&gt;(00:05:03)  What&amp;#39;s a &amp;quot;parsing expression&amp;quot;?&lt;/p&gt;
+&lt;p&gt;(00:08:23)  Our old LL1 parser wasn&amp;#39;t doing its job&lt;/p&gt;
+&lt;p&gt;(00:09:37)  &amp;quot;Soft keywords&amp;quot; in LL1: A Horror Story&lt;/p&gt;
+&lt;p&gt;(00:13:16)  PART 2: How PEG was adopted by Python&lt;/p&gt;
+&lt;p&gt;(00:17:10)  Why not LALR?&lt;/p&gt;
+&lt;p&gt;(00:22:11)  The PEG paper wasn&amp;#39;t enough either, if we&amp;#39;re honest&lt;/p&gt;
+&lt;p&gt;(00:26:26)  Less obvious advantages of the new parser&lt;/p&gt;
+&lt;p&gt;(00:31:28)  Black is stuck with LL1, can it cope?&lt;/p&gt;
+&lt;p&gt;(00:36:24)  Hedging against Łukasz, the bringer of doom&lt;/p&gt;
+&lt;p&gt;(00:41:14)  PART 3: How does the PEG parser of CPython work?&lt;/p&gt;
+&lt;p&gt;(00:44:30)  Pedantic Pablo on &amp;quot;exponential&amp;quot;&lt;/p&gt;
+&lt;p&gt;(00:45:14)  Fresh news from literally yesterday last week&lt;/p&gt;
+&lt;p&gt;(00:46:39)  Pedantic Pablo on &amp;quot;infinite&amp;quot;&lt;/p&gt;
+&lt;p&gt;(00:47:32)  Memoization in the PEG parser&lt;/p&gt;
+&lt;p&gt;(00:50:41)  Parse once, and if it fails, try again!&lt;/p&gt;
+&lt;p&gt;(00:52:14)  How to model a grammar of programming mistakes?&lt;/p&gt;
+&lt;p&gt;(00:56:36)  Why is there C code in my grammar file?&lt;/p&gt;
+&lt;p&gt;(00:59:57)  Bro, do you even lift?&lt;/p&gt;
+&lt;p&gt;(01:01:45)  How soft keywords work today: it&amp;#39;s not free lunch&lt;/p&gt;
+&lt;p&gt;(01:04:29)  Funky grammar secrets&lt;/p&gt;
+&lt;p&gt;(01:09:07)  PART 4: PR OF THE WEEK&lt;/p&gt;
+&lt;p&gt;(01:09:15)  audioop.c license shenanigans&lt;/p&gt;
+&lt;p&gt;(01:14:56)  The secret profiler inside CPython (tests)&lt;/p&gt;
+&lt;p&gt;(01:22:45)  PART 5: WHAT&amp;#39;S GOING ON IN CPYTHON?&lt;/p&gt;
+&lt;p&gt;(01:23:30)  Free-threading changes&lt;/p&gt;
+&lt;p&gt;(01:28:15)  Faster Python changes&lt;/p&gt;
+&lt;p&gt;(01:35:39)  End of an era: docs get rid of Python 2 migration info&lt;/p&gt;
+&lt;p&gt;(01:36:45)  Python --help output is now nicer&lt;/p&gt;
+&lt;p&gt;(01:38:43) SQLite as a dbm backend&lt;/p&gt;
+&lt;p&gt;(01:41:08)  OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:42:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 7: The Old Parser]]></title>
+			<description><![CDATA[<p>Context-free grammars, non-deterministic finite automatons, left-to-right leftmost derivations... what even is all that?! Today we&#39;re talking about how Python parses your source code. We start gently with how this worked in the past. Come listen to Łukasz&#39;s high-level explanations and Pedantic Pablo&#39;s &quot;well actuallys&quot;.</p>
+<p><br></p>
+<p># Timestamps</p>
+<p><br></p>
+<p>(00:00:00) INTRO</p>
+<p>(00:01:35) You can still download Python 1.0!</p>
+<p>(00:02:19) The original tokenizer</p>
+<p>(00:03:10) What even is a tokenizer?</p>
+<p>(00:04:08) FUN FACTS ABOUT THE TOKENIZER</p>
+<p>(00:04:34) Circumflex</p>
+<p>(00:05:16) Python&#39;s invisible braces</p>
+<p>(00:08:29) Backticks in the syntax</p>
+<p>(00:11:00) Where are the comments stored?</p>
+<p>(00:12:27) GRAMMAR</p>
+<p>(00:13:37) What is a grammar?</p>
+<p>(00:16:25) The long-forgotten &#39;access&#39; keyword</p>
+<p>(00:20:25) Making LL1 do things it wasn&#39;t meant to do</p>
+<p>(00:23:24) SURPRISE QUESTION 1: soft keywords</p>
+<p>(00:24:46) What&#39;s a context-free grammar?</p>
+<p>(00:26:51) A note about backslashes</p>
+<p>(00:29:33) The Dragon Book(s)</p>
+<p>(00:31:27) PARSING: What is it?</p>
+<p>(00:35:23) How to generate a parser?</p>
+<p>(00:39:00) LL Cool Parser</p>
+<p>(00:41:15) What if we used LR?</p>
+<p>(00:44:01) Let&#39;s have three tokenizers!</p>
+<p>(00:47:50) 2to3 and its legacy</p>
+<p>(00:52:38) Black and its blib2to3</p>
+<p>(00:54:04) The pesky &#39;with&#39; statement and the death of LL1</p>
+<p>(01:00:05) PR OF THE WEEK: GH-113745</p>
+<p>(01:05:41) SURPRISE QUESTION 2: Subclasses of SyntaxError</p>
+<p>(01:07:02) WHAT&#39;S GOING ON IN CPYTHON?</p>
+<p>(01:09:16) Sam Gross nominated as a core dev</p>
+<p>(01:10:13) Free-threading progress</p>
+<p>(01:13:11) Faster CPython changes</p>
+<p>(01:17:29) ntpath.isreserved()</p>
+<p>(01:20:11) Pablo and the DWARF</p>
+<p>(01:22:02) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-7-The-Old-Parser-e2f6qmj</link>
+			<guid isPermaLink="false">a36797ba-9a4a-416e-8a65-e544cb1c297b</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Wed, 31 Jan 2024 21:13:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/82061459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-31%2Fc82ce83e-c06e-d9af-8ae1-137c02a23854.mp3" length="160352911" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Context-free grammars, non-deterministic finite automatons, left-to-right leftmost derivations... what even is all that?! Today we&amp;#39;re talking about how Python parses your source code. We start gently with how this worked in the past. Come listen to Łukasz&amp;#39;s high-level explanations and Pedantic Pablo&amp;#39;s &amp;quot;well actuallys&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;
+&lt;p&gt;(00:01:35) You can still download Python 1.0!&lt;/p&gt;
+&lt;p&gt;(00:02:19) The original tokenizer&lt;/p&gt;
+&lt;p&gt;(00:03:10) What even is a tokenizer?&lt;/p&gt;
+&lt;p&gt;(00:04:08) FUN FACTS ABOUT THE TOKENIZER&lt;/p&gt;
+&lt;p&gt;(00:04:34) Circumflex&lt;/p&gt;
+&lt;p&gt;(00:05:16) Python&amp;#39;s invisible braces&lt;/p&gt;
+&lt;p&gt;(00:08:29) Backticks in the syntax&lt;/p&gt;
+&lt;p&gt;(00:11:00) Where are the comments stored?&lt;/p&gt;
+&lt;p&gt;(00:12:27) GRAMMAR&lt;/p&gt;
+&lt;p&gt;(00:13:37) What is a grammar?&lt;/p&gt;
+&lt;p&gt;(00:16:25) The long-forgotten &amp;#39;access&amp;#39; keyword&lt;/p&gt;
+&lt;p&gt;(00:20:25) Making LL1 do things it wasn&amp;#39;t meant to do&lt;/p&gt;
+&lt;p&gt;(00:23:24) SURPRISE QUESTION 1: soft keywords&lt;/p&gt;
+&lt;p&gt;(00:24:46) What&amp;#39;s a context-free grammar?&lt;/p&gt;
+&lt;p&gt;(00:26:51) A note about backslashes&lt;/p&gt;
+&lt;p&gt;(00:29:33) The Dragon Book(s)&lt;/p&gt;
+&lt;p&gt;(00:31:27) PARSING: What is it?&lt;/p&gt;
+&lt;p&gt;(00:35:23) How to generate a parser?&lt;/p&gt;
+&lt;p&gt;(00:39:00) LL Cool Parser&lt;/p&gt;
+&lt;p&gt;(00:41:15) What if we used LR?&lt;/p&gt;
+&lt;p&gt;(00:44:01) Let&amp;#39;s have three tokenizers!&lt;/p&gt;
+&lt;p&gt;(00:47:50) 2to3 and its legacy&lt;/p&gt;
+&lt;p&gt;(00:52:38) Black and its blib2to3&lt;/p&gt;
+&lt;p&gt;(00:54:04) The pesky &amp;#39;with&amp;#39; statement and the death of LL1&lt;/p&gt;
+&lt;p&gt;(01:00:05) PR OF THE WEEK: GH-113745&lt;/p&gt;
+&lt;p&gt;(01:05:41) SURPRISE QUESTION 2: Subclasses of SyntaxError&lt;/p&gt;
+&lt;p&gt;(01:07:02) WHAT&amp;#39;S GOING ON IN CPYTHON?&lt;/p&gt;
+&lt;p&gt;(01:09:16) Sam Gross nominated as a core dev&lt;/p&gt;
+&lt;p&gt;(01:10:13) Free-threading progress&lt;/p&gt;
+&lt;p&gt;(01:13:11) Faster CPython changes&lt;/p&gt;
+&lt;p&gt;(01:17:29) ntpath.isreserved()&lt;/p&gt;
+&lt;p&gt;(01:20:11) Pablo and the DWARF&lt;/p&gt;
+&lt;p&gt;(01:22:02) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:23:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 6 - An Exceptional Episode]]></title>
+			<description><![CDATA[<p>Happy New Year! In this episode we&#39;re talking about exceptions, how they work, and how they evolved. Expect the unexpected.</p>
+<p><br></p>
+<p># Timestamps</p>
+<p><br></p>
+<p>(00:00:00)  INTRO</p>
+<p>(00:01:43)  How does a &#39;try&#39; block work?</p>
+<p>(00:04:00)  How many &#39;try&#39; blocks can you fit on a bus?</p>
+<p>(00:05:56)  How does Python store the current exception?</p>
+<p>(00:09:30)  Pre-history: exceptions as strings</p>
+<p>(00:12:59)  Try out string exceptions with CentOS 5</p>
+<p>(00:14:28)  PEP 341: Combining &#39;finally&#39; and &#39;except&#39; in one &#39;try&#39; block</p>
+<p>(00:16:15)  Core Hacker in Residence</p>
+<p>(00:16:51)  PEP 3109: Raising exceptions in Python 3K</p>
+<p>(00:19:17)  Automatic tuple unpacking for raised exceptions?!</p>
+<p>(00:21:55)  PEP 3110: Catching exceptions in Python 3K</p>
+<p>(00:26:00)  Foreshadowing: exception groups</p>
+<p>(00:27:10)  PEP 3134: Exception chaining</p>
+<p>(00:29:12)  __cause__, __context__, __traceback__</p>
+<p>(00:31:50)  Back in the day we had to walk uphill both ways</p>
+<p>(00:32:56)  PEP 409: Suppressing exception chaining</p>
+<p>(00:34:44)  Raise from None? Or raise from Ellipsis?</p>
+<p>(00:37:11)  __supress_context__</p>
+<p>(00:38:13)  Semantic difference between &#39;pass&#39;, &#39;None&#39;, and &#39;....&#39;</p>
+<p>(00:41:02)  NotImplemented vs NotImplementedError</p>
+<p>(00:43:02)  Zero-cost exceptions in Python 3.11</p>
+<p>(00:51:12)  Reconstructing exception table entries dynamically</p>
+<p>(00:52:51)  Objects/exception_handling_notes.txt</p>
+<p>(00:54:19)  PEP 654: Historical context</p>
+<p>(00:56:58)  PEP 654: BaseExceptionGroup and ExceptionGroup</p>
+<p>(00:58:29)  PEP 654: except*</p>
+<p>(01:03:23)  PEP 678: Exception notes</p>
+<p>(01:06:09)  PEP 657: Cooler Errors</p>
+<p>(01:08:36)  A message to language implementers</p>
+<p>(01:09:15)  Fine-grained error locations in tracebacks</p>
+<p>(01:12:05)  This is useful for tracing coverage and Specializator</p>
+<p>(01:13:50)  Hacker in Residence fired?</p>
+<p>(01:16:25)  WHAT&#39;S GOING ON IN CPYTHON</p>
+<p>(01:16:58)  Copy&amp;patch JIT PR open</p>
+<p>(01:21:30)  Free-threading progress: GC split, stop-the-world</p>
+<p>(01:24:22)  The buildbots are red</p>
+<p>(01:25:27)  Faster CPython changes: interpreter code generator refactors</p>
+<p>(01:26:27)  Eval Game crash fix</p>
+<p>(01:28:41)  Three developers in residence!</p>
+<p>(01:29:54)  OUTRO</p>
+<p><br></p>
+<p># Links</p>
+<p><br></p>
+<p><a href="https://compilercrim.es/rust-np/">https://compilercrim.es/rust-np/</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-6---An-Exceptional-Episode-e2e5pkk</link>
+			<guid isPermaLink="false">e8d4a815-6ff7-4b01-bc23-98f9f4753a67</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Mon, 08 Jan 2024 17:35:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/80979028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-8%2Fe98148b7-c8cd-916f-1538-dc51b6319280.mp3" length="175735839" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Happy New Year! In this episode we&amp;#39;re talking about exceptions, how they work, and how they evolved. Expect the unexpected.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00)  INTRO&lt;/p&gt;
+&lt;p&gt;(00:01:43)  How does a &amp;#39;try&amp;#39; block work?&lt;/p&gt;
+&lt;p&gt;(00:04:00)  How many &amp;#39;try&amp;#39; blocks can you fit on a bus?&lt;/p&gt;
+&lt;p&gt;(00:05:56)  How does Python store the current exception?&lt;/p&gt;
+&lt;p&gt;(00:09:30)  Pre-history: exceptions as strings&lt;/p&gt;
+&lt;p&gt;(00:12:59)  Try out string exceptions with CentOS 5&lt;/p&gt;
+&lt;p&gt;(00:14:28)  PEP 341: Combining &amp;#39;finally&amp;#39; and &amp;#39;except&amp;#39; in one &amp;#39;try&amp;#39; block&lt;/p&gt;
+&lt;p&gt;(00:16:15)  Core Hacker in Residence&lt;/p&gt;
+&lt;p&gt;(00:16:51)  PEP 3109: Raising exceptions in Python 3K&lt;/p&gt;
+&lt;p&gt;(00:19:17)  Automatic tuple unpacking for raised exceptions?!&lt;/p&gt;
+&lt;p&gt;(00:21:55)  PEP 3110: Catching exceptions in Python 3K&lt;/p&gt;
+&lt;p&gt;(00:26:00)  Foreshadowing: exception groups&lt;/p&gt;
+&lt;p&gt;(00:27:10)  PEP 3134: Exception chaining&lt;/p&gt;
+&lt;p&gt;(00:29:12)  __cause__, __context__, __traceback__&lt;/p&gt;
+&lt;p&gt;(00:31:50)  Back in the day we had to walk uphill both ways&lt;/p&gt;
+&lt;p&gt;(00:32:56)  PEP 409: Suppressing exception chaining&lt;/p&gt;
+&lt;p&gt;(00:34:44)  Raise from None? Or raise from Ellipsis?&lt;/p&gt;
+&lt;p&gt;(00:37:11)  __supress_context__&lt;/p&gt;
+&lt;p&gt;(00:38:13)  Semantic difference between &amp;#39;pass&amp;#39;, &amp;#39;None&amp;#39;, and &amp;#39;....&amp;#39;&lt;/p&gt;
+&lt;p&gt;(00:41:02)  NotImplemented vs NotImplementedError&lt;/p&gt;
+&lt;p&gt;(00:43:02)  Zero-cost exceptions in Python 3.11&lt;/p&gt;
+&lt;p&gt;(00:51:12)  Reconstructing exception table entries dynamically&lt;/p&gt;
+&lt;p&gt;(00:52:51)  Objects/exception_handling_notes.txt&lt;/p&gt;
+&lt;p&gt;(00:54:19)  PEP 654: Historical context&lt;/p&gt;
+&lt;p&gt;(00:56:58)  PEP 654: BaseExceptionGroup and ExceptionGroup&lt;/p&gt;
+&lt;p&gt;(00:58:29)  PEP 654: except*&lt;/p&gt;
+&lt;p&gt;(01:03:23)  PEP 678: Exception notes&lt;/p&gt;
+&lt;p&gt;(01:06:09)  PEP 657: Cooler Errors&lt;/p&gt;
+&lt;p&gt;(01:08:36)  A message to language implementers&lt;/p&gt;
+&lt;p&gt;(01:09:15)  Fine-grained error locations in tracebacks&lt;/p&gt;
+&lt;p&gt;(01:12:05)  This is useful for tracing coverage and Specializator&lt;/p&gt;
+&lt;p&gt;(01:13:50)  Hacker in Residence fired?&lt;/p&gt;
+&lt;p&gt;(01:16:25)  WHAT&amp;#39;S GOING ON IN CPYTHON&lt;/p&gt;
+&lt;p&gt;(01:16:58)  Copy&amp;amp;patch JIT PR open&lt;/p&gt;
+&lt;p&gt;(01:21:30)  Free-threading progress: GC split, stop-the-world&lt;/p&gt;
+&lt;p&gt;(01:24:22)  The buildbots are red&lt;/p&gt;
+&lt;p&gt;(01:25:27)  Faster CPython changes: interpreter code generator refactors&lt;/p&gt;
+&lt;p&gt;(01:26:27)  Eval Game crash fix&lt;/p&gt;
+&lt;p&gt;(01:28:41)  Three developers in residence!&lt;/p&gt;
+&lt;p&gt;(01:29:54)  OUTRO&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# Links&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://compilercrim.es/rust-np/&quot;&gt;https://compilercrim.es/rust-np/&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:31:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 5 - Cinder with Carl Meyer]]></title>
+			<description><![CDATA[<p>This time we&#39;re hosting a special guest: Carl Meyer from Meta. What is Cinder, how does it work, and how does it intersect with the future of Python 3? Find out in today&#39;s episode. 100% serious stuff!</p>
+<p><br></p>
+<p># Timestamps</p>
+<p><br></p>
+<p>(00:00:00)  INTRO</p>
+<p>(00:00:53)  Carl Meyer&#39;s war story</p>
+<p>(00:02:27)  CINDER</p>
+<p>(00:03:22)  Static Python makes things significantly faster</p>
+<p>(00:08:15)  Cinder JIT and how it&#39;s tuned for Instagram</p>
+<p>(00:11:57)  Strict Python and the joy of import side effects</p>
+<p>(00:16:35)  The static typing controversy</p>
+<p>(00:18:52)  Upstreaming changes from Cinder?</p>
+<p>(00:22:53)  PEP 709: Comprehension inlining</p>
+<p>(00:28:35)  pip install CinderX</p>
+<p>(00:31:19)  Immortal instances</p>
+<p>(00:35:15)  asyncio.eager_task_factory()</p>
+<p>(00:39:39)  Carl&#39;s pet peeve with Python</p>
+<p>(00:44:49)  PR OF THE WEEK: PyPy&#39;s REPL in CPython</p>
+<p>(00:52:07)  WHAT&#39;S GOING ON IN CPYTHON</p>
+<p>(00:52:22)  Python 3.12.1</p>
+<p>(00:53:17)  Python 3.11.7</p>
+<p>(00:54:45)  multiprocessing.SharedMemory track</p>
+<p>(00:56:49)  Fine-grained error locations for multi-line expressions</p>
+<p>(01:00:03)  libedit tab completion is fixed</p>
+<p>(01:02:14)  Colored exception tracebacks</p>
+<p>(01:05:11)  Removing testing modules from sys.modules, correctly</p>
+<p>(01:06:47)  SBOMs are a very serious matter</p>
+<p>(01:09:08)  Arrays by value on ARM</p>
+<p>(01:12:24)  Remove development environments and CAPS LOCK</p>
+<p>(01:15:30)  Interpreter cases generator refactored</p>
+<p>(01:16:17)  Free-threading news</p>
+<p>(01:20:01)  OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-5---Cinder-with-Carl-Meyer-e2d2m7l</link>
+			<guid isPermaLink="false">f54410aa-6a46-4b32-8186-3d391fc03384</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Mon, 11 Dec 2023 12:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/79828661/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-10%2Fa6c8187d-6327-7c82-4cc8-a451b8cab1d6.mp3" length="156353131" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This time we&amp;#39;re hosting a special guest: Carl Meyer from Meta. What is Cinder, how does it work, and how does it intersect with the future of Python 3? Find out in today&amp;#39;s episode. 100% serious stuff!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00)  INTRO&lt;/p&gt;
+&lt;p&gt;(00:00:53)  Carl Meyer&amp;#39;s war story&lt;/p&gt;
+&lt;p&gt;(00:02:27)  CINDER&lt;/p&gt;
+&lt;p&gt;(00:03:22)  Static Python makes things significantly faster&lt;/p&gt;
+&lt;p&gt;(00:08:15)  Cinder JIT and how it&amp;#39;s tuned for Instagram&lt;/p&gt;
+&lt;p&gt;(00:11:57)  Strict Python and the joy of import side effects&lt;/p&gt;
+&lt;p&gt;(00:16:35)  The static typing controversy&lt;/p&gt;
+&lt;p&gt;(00:18:52)  Upstreaming changes from Cinder?&lt;/p&gt;
+&lt;p&gt;(00:22:53)  PEP 709: Comprehension inlining&lt;/p&gt;
+&lt;p&gt;(00:28:35)  pip install CinderX&lt;/p&gt;
+&lt;p&gt;(00:31:19)  Immortal instances&lt;/p&gt;
+&lt;p&gt;(00:35:15)  asyncio.eager_task_factory()&lt;/p&gt;
+&lt;p&gt;(00:39:39)  Carl&amp;#39;s pet peeve with Python&lt;/p&gt;
+&lt;p&gt;(00:44:49)  PR OF THE WEEK: PyPy&amp;#39;s REPL in CPython&lt;/p&gt;
+&lt;p&gt;(00:52:07)  WHAT&amp;#39;S GOING ON IN CPYTHON&lt;/p&gt;
+&lt;p&gt;(00:52:22)  Python 3.12.1&lt;/p&gt;
+&lt;p&gt;(00:53:17)  Python 3.11.7&lt;/p&gt;
+&lt;p&gt;(00:54:45)  multiprocessing.SharedMemory track&lt;/p&gt;
+&lt;p&gt;(00:56:49)  Fine-grained error locations for multi-line expressions&lt;/p&gt;
+&lt;p&gt;(01:00:03)  libedit tab completion is fixed&lt;/p&gt;
+&lt;p&gt;(01:02:14)  Colored exception tracebacks&lt;/p&gt;
+&lt;p&gt;(01:05:11)  Removing testing modules from sys.modules, correctly&lt;/p&gt;
+&lt;p&gt;(01:06:47)  SBOMs are a very serious matter&lt;/p&gt;
+&lt;p&gt;(01:09:08)  Arrays by value on ARM&lt;/p&gt;
+&lt;p&gt;(01:12:24)  Remove development environments and CAPS LOCK&lt;/p&gt;
+&lt;p&gt;(01:15:30)  Interpreter cases generator refactored&lt;/p&gt;
+&lt;p&gt;(01:16:17)  Free-threading news&lt;/p&gt;
+&lt;p&gt;(01:20:01)  OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:21:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 4 - Frame Evaluation]]></title>
+			<description><![CDATA[<p>What makes Python an interpreter? Today we&#39;re talking about ceval.c, the wonders of frame evaluation, and how it changed over the years.</p>
+<p><br></p>
+<p># Timestamps</p>
+<p><br></p>
+<p>(00:00:00)  INTRO</p>
+<p>(00:00:59)  BACK TO PYTHON 2.6</p>
+<p>(00:02:53)  Stack virtual machine</p>
+<p>(00:04:41)  First encounter with opcodes</p>
+<p>(00:08:06)  What even is frame evaluation?</p>
+<p>(00:12:51)  Stack! Which stack?</p>
+<p>(00:15:46)  PRESENT DAY</p>
+<p>(00:16:41)  Computed gotos</p>
+<p>(00:21:22)  PEP 523: JIT me, maybe</p>
+<p>(00:26:53)  Let&#39;s generate the interpreter</p>
+<p>(00:29:08)  The JIT is coming</p>
+<p>(00:33:13)  Python function call inlining</p>
+<p>(00:37:23)  Instrumentation: DTrace, PEP 669</p>
+<p>(00:41:50)  lltrace and pystats</p>
+<p>(00:44:02)  Eval breaker</p>
+<p>(00:47:54)  Signal handling</p>
+<p>(00:50:47)  Recursion limits</p>
+<p>(00:54:27)  String concatenation special case</p>
+<p>(00:58:24)  WHAT&#39;S GOING ON IN CPYTHON?</p>
+<p>(00:58:42)  3.12.0a2</p>
+<p>(00:59:12)  Critical section API adoption</p>
+<p>(00:59:34)  PyOnceFlag</p>
+<p>(01:00:28)  PyDict_GetItemRef()</p>
+<p>(01:03:36)  PyList_Extend() and PyDict_Pop()</p>
+<p>(01:04:18)  Parser: better error messages for non-matching elif/else</p>
+<p>(01:05:39)  glob.translate()</p>
+<p>(01:07:22)  TLS-PSK in the ssl module</p>
+<p>(01:08:35)  IDLE debugger improvements</p>
+<p>(01:10:50)  First micro-op in the Tier 2 interpreter</p>
+<p>(01:11:18)  OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-4---Frame-Evaluation-e2cjdrn</link>
+			<guid isPermaLink="false">f88445f6-7af9-436f-9322-d50f21165054</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Wed, 29 Nov 2023 21:44:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/79328567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2Fb8940936-0147-715c-92a5-89c2f34d0762.mp3" length="141022653" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;What makes Python an interpreter? Today we&amp;#39;re talking about ceval.c, the wonders of frame evaluation, and how it changed over the years.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00)  INTRO&lt;/p&gt;
+&lt;p&gt;(00:00:59)  BACK TO PYTHON 2.6&lt;/p&gt;
+&lt;p&gt;(00:02:53)  Stack virtual machine&lt;/p&gt;
+&lt;p&gt;(00:04:41)  First encounter with opcodes&lt;/p&gt;
+&lt;p&gt;(00:08:06)  What even is frame evaluation?&lt;/p&gt;
+&lt;p&gt;(00:12:51)  Stack! Which stack?&lt;/p&gt;
+&lt;p&gt;(00:15:46)  PRESENT DAY&lt;/p&gt;
+&lt;p&gt;(00:16:41)  Computed gotos&lt;/p&gt;
+&lt;p&gt;(00:21:22)  PEP 523: JIT me, maybe&lt;/p&gt;
+&lt;p&gt;(00:26:53)  Let&amp;#39;s generate the interpreter&lt;/p&gt;
+&lt;p&gt;(00:29:08)  The JIT is coming&lt;/p&gt;
+&lt;p&gt;(00:33:13)  Python function call inlining&lt;/p&gt;
+&lt;p&gt;(00:37:23)  Instrumentation: DTrace, PEP 669&lt;/p&gt;
+&lt;p&gt;(00:41:50)  lltrace and pystats&lt;/p&gt;
+&lt;p&gt;(00:44:02)  Eval breaker&lt;/p&gt;
+&lt;p&gt;(00:47:54)  Signal handling&lt;/p&gt;
+&lt;p&gt;(00:50:47)  Recursion limits&lt;/p&gt;
+&lt;p&gt;(00:54:27)  String concatenation special case&lt;/p&gt;
+&lt;p&gt;(00:58:24)  WHAT&amp;#39;S GOING ON IN CPYTHON?&lt;/p&gt;
+&lt;p&gt;(00:58:42)  3.12.0a2&lt;/p&gt;
+&lt;p&gt;(00:59:12)  Critical section API adoption&lt;/p&gt;
+&lt;p&gt;(00:59:34)  PyOnceFlag&lt;/p&gt;
+&lt;p&gt;(01:00:28)  PyDict_GetItemRef()&lt;/p&gt;
+&lt;p&gt;(01:03:36)  PyList_Extend() and PyDict_Pop()&lt;/p&gt;
+&lt;p&gt;(01:04:18)  Parser: better error messages for non-matching elif/else&lt;/p&gt;
+&lt;p&gt;(01:05:39)  glob.translate()&lt;/p&gt;
+&lt;p&gt;(01:07:22)  TLS-PSK in the ssl module&lt;/p&gt;
+&lt;p&gt;(01:08:35)  IDLE debugger improvements&lt;/p&gt;
+&lt;p&gt;(01:10:50)  First micro-op in the Tier 2 interpreter&lt;/p&gt;
+&lt;p&gt;(01:11:18)  OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:13:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 3 - Imports, frozen modules, Python news]]></title>
+			<description><![CDATA[<p>What happens when you type “import abc”? Why does it say the module is frozen? What significant changes landed in Python in the past two weeks? And why does the “PR of the Week” jingle go so hard? Find out in this week’s episode!</p>
+<p><br></p>
+<p># Timestamps</p>
+<p><br></p>
+<p>(00:00:00)  INTRO</p>
+<p>(00:01:12)  IMPORTS</p>
+<p>(00:02:21)  Here be dragons</p>
+<p>(00:02:42)  High level summary</p>
+<p>(00:05:12)  Finders and Loaders</p>
+<p>(00:06:29)  Loading encrypted modules</p>
+<p>(00:08:13)  Debugging by altering someone else&#39;s code</p>
+<p>(00:10:08)  Support for site-packages</p>
+<p>(00:14:22)  Nefarious uses of imports</p>
+<p>(00:17:28)  Tagged strings?</p>
+<p>(00:21:00)  FROZEN MODULES</p>
+<p>(00:23:38)  Deepfreeze origins: importlib</p>
+<p>(00:26:01)  Deepfreeze evolution</p>
+<p>(00:31:32)  First world problems with build speed</p>
+<p>(00:33:05)  WHAT&#39;S GOING ON IN CPYTHON</p>
+<p>(00:34:16)  Biased reference counts landed, buildbots</p>
+<p>(00:35:51)  There is no nogil, there is only free-threaded</p>
+<p>(00:36:54)  mimalloc landed</p>
+<p>(00:42:29)  Critical sections landed</p>
+<p>(00:45:04)  Tuples can now be shared across subinterpreters</p>
+<p>(00:48:31)  JIT beginnings: Tier 2 interpreter merged with Tier 1</p>
+<p>(00:50:54)  perf support with DWARF: look ma, no frame pointers</p>
+<p>(00:55:05)  Yo DAWG, I herd you liked codepoints</p>
+<p>(00:58:46)  Thread.join() waits for the OS thread now</p>
+<p>(01:01:04)  PR OF THE WEEK</p>
+<p>(01:02:06)  Pablo: gh-109181 -- traceback object creation is now lazy = much faster</p>
+<p>(01:05:25)  Łukasz: gh-111710 -- stdlib coverage now gathered with sys.monitoring</p>
+<p>(01:10:20)  WRAP UP</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-3---Imports--frozen-modules--Python-news-e2bs56d</link>
+			<guid isPermaLink="false">c0d3b87d-ee69-48d1-9f3d-e686b1cd0365</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Mon, 13 Nov 2023 16:09:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/78566029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2Fc590f8d3-6d5f-5054-46bd-e53562b3ef55.mp3" length="145127491" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;What happens when you type “import abc”? Why does it say the module is frozen? What significant changes landed in Python in the past two weeks? And why does the “PR of the Week” jingle go so hard? Find out in this week’s episode!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00)  INTRO&lt;/p&gt;
+&lt;p&gt;(00:01:12)  IMPORTS&lt;/p&gt;
+&lt;p&gt;(00:02:21)  Here be dragons&lt;/p&gt;
+&lt;p&gt;(00:02:42)  High level summary&lt;/p&gt;
+&lt;p&gt;(00:05:12)  Finders and Loaders&lt;/p&gt;
+&lt;p&gt;(00:06:29)  Loading encrypted modules&lt;/p&gt;
+&lt;p&gt;(00:08:13)  Debugging by altering someone else&amp;#39;s code&lt;/p&gt;
+&lt;p&gt;(00:10:08)  Support for site-packages&lt;/p&gt;
+&lt;p&gt;(00:14:22)  Nefarious uses of imports&lt;/p&gt;
+&lt;p&gt;(00:17:28)  Tagged strings?&lt;/p&gt;
+&lt;p&gt;(00:21:00)  FROZEN MODULES&lt;/p&gt;
+&lt;p&gt;(00:23:38)  Deepfreeze origins: importlib&lt;/p&gt;
+&lt;p&gt;(00:26:01)  Deepfreeze evolution&lt;/p&gt;
+&lt;p&gt;(00:31:32)  First world problems with build speed&lt;/p&gt;
+&lt;p&gt;(00:33:05)  WHAT&amp;#39;S GOING ON IN CPYTHON&lt;/p&gt;
+&lt;p&gt;(00:34:16)  Biased reference counts landed, buildbots&lt;/p&gt;
+&lt;p&gt;(00:35:51)  There is no nogil, there is only free-threaded&lt;/p&gt;
+&lt;p&gt;(00:36:54)  mimalloc landed&lt;/p&gt;
+&lt;p&gt;(00:42:29)  Critical sections landed&lt;/p&gt;
+&lt;p&gt;(00:45:04)  Tuples can now be shared across subinterpreters&lt;/p&gt;
+&lt;p&gt;(00:48:31)  JIT beginnings: Tier 2 interpreter merged with Tier 1&lt;/p&gt;
+&lt;p&gt;(00:50:54)  perf support with DWARF: look ma, no frame pointers&lt;/p&gt;
+&lt;p&gt;(00:55:05)  Yo DAWG, I herd you liked codepoints&lt;/p&gt;
+&lt;p&gt;(00:58:46)  Thread.join() waits for the OS thread now&lt;/p&gt;
+&lt;p&gt;(01:01:04)  PR OF THE WEEK&lt;/p&gt;
+&lt;p&gt;(01:02:06)  Pablo: gh-109181 -- traceback object creation is now lazy = much faster&lt;/p&gt;
+&lt;p&gt;(01:05:25)  Łukasz: gh-111710 -- stdlib coverage now gathered with sys.monitoring&lt;/p&gt;
+&lt;p&gt;(01:10:20)  WRAP UP&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:11:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 2 - PEP 703: Removing the GIL]]></title>
+			<description><![CDATA[<p>We&#39;ve read the PEP on making the Global Interpreter Lock optional so you don&#39;t have to.</p>
+<p><br></p>
+<p>Timestamps</p>
+<p><br></p>
+<p>(00:00:00) Intro</p>
+<p>(00:00:50) CURRENT STATE OF THINGS</p>
+<p>(00:00:58) Reference counting</p>
+<p>(00:01:35) Garbage collection</p>
+<p>(00:02:33) What is the Global Interpreter Lock?</p>
+<p>(00:03:57) The GIL and threading</p>
+<p>(00:07:24) Current ways around the GIL</p>
+<p>(00:09:26) HISTORICAL ATTEMPTS TO REMOVE THE GIL</p>
+<p>(00:09:46) 1999: Greg Stein&#39;s attempt at Python 1.6</p>
+<p>(00:10:46) Jython doesn&#39;t have the GIL</p>
+<p>(00:11:19) 2015: Larry Hastings&#39; Gilectomy at Python 3.5</p>
+<p>(00:12:34) Pablo says removing the GIL is actually very easy</p>
+<p>(00:13:24) Łukasz is skeptical</p>
+<p>(00:14:20) 2021: Sam Gross&#39; nogil at Python 3.9</p>
+<p>(00:18:22) 2023: PEP 703 for Python 3.13</p>
+<p>(00:20:05) PEP 703 IN DETAIL</p>
+<p>(00:20:20) Biased Reference Counting</p>
+<p>(00:25:19) Other needed speedups: deferred refcounts, immortalization, GC</p>
+<p>(00:28:41) mimalloc</p>
+<p>(00:34:46) More GC changes</p>
+<p>(00:38:20) eval breaker</p>
+<p>(00:42:08) Thread-safe standard collections</p>
+<p>(00:45:26) Fast paths vs. slow paths</p>
+<p>(00:49:47) Reading freed memory with mimalloc is kinda okay?</p>
+<p>(00:58:06) Specializations become harder to implement without the GIL</p>
+<p>(01:01:27) PEP 703 terms of acceptance</p>
+<p>(01:04:08) No free lunch</p>
+<p>(01:09:25) It&#39;s now or never</p>
+<p>(01:11:59) Outro</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi</link>
+			<guid isPermaLink="false">100ff6af-7d5f-4241-beb2-f6742aa52aaf</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Mon, 30 Oct 2023 16:20:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/77920210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-30%2Fd19337c2-7234-2df4-ee69-84912b1b5ad7.mp3" length="179196814" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;We&amp;#39;ve read the PEP on making the Global Interpreter Lock optional so you don&amp;#39;t have to.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Intro&lt;/p&gt;
+&lt;p&gt;(00:00:50) CURRENT STATE OF THINGS&lt;/p&gt;
+&lt;p&gt;(00:00:58) Reference counting&lt;/p&gt;
+&lt;p&gt;(00:01:35) Garbage collection&lt;/p&gt;
+&lt;p&gt;(00:02:33) What is the Global Interpreter Lock?&lt;/p&gt;
+&lt;p&gt;(00:03:57) The GIL and threading&lt;/p&gt;
+&lt;p&gt;(00:07:24) Current ways around the GIL&lt;/p&gt;
+&lt;p&gt;(00:09:26) HISTORICAL ATTEMPTS TO REMOVE THE GIL&lt;/p&gt;
+&lt;p&gt;(00:09:46) 1999: Greg Stein&amp;#39;s attempt at Python 1.6&lt;/p&gt;
+&lt;p&gt;(00:10:46) Jython doesn&amp;#39;t have the GIL&lt;/p&gt;
+&lt;p&gt;(00:11:19) 2015: Larry Hastings&amp;#39; Gilectomy at Python 3.5&lt;/p&gt;
+&lt;p&gt;(00:12:34) Pablo says removing the GIL is actually very easy&lt;/p&gt;
+&lt;p&gt;(00:13:24) Łukasz is skeptical&lt;/p&gt;
+&lt;p&gt;(00:14:20) 2021: Sam Gross&amp;#39; nogil at Python 3.9&lt;/p&gt;
+&lt;p&gt;(00:18:22) 2023: PEP 703 for Python 3.13&lt;/p&gt;
+&lt;p&gt;(00:20:05) PEP 703 IN DETAIL&lt;/p&gt;
+&lt;p&gt;(00:20:20) Biased Reference Counting&lt;/p&gt;
+&lt;p&gt;(00:25:19) Other needed speedups: deferred refcounts, immortalization, GC&lt;/p&gt;
+&lt;p&gt;(00:28:41) mimalloc&lt;/p&gt;
+&lt;p&gt;(00:34:46) More GC changes&lt;/p&gt;
+&lt;p&gt;(00:38:20) eval breaker&lt;/p&gt;
+&lt;p&gt;(00:42:08) Thread-safe standard collections&lt;/p&gt;
+&lt;p&gt;(00:45:26) Fast paths vs. slow paths&lt;/p&gt;
+&lt;p&gt;(00:49:47) Reading freed memory with mimalloc is kinda okay?&lt;/p&gt;
+&lt;p&gt;(00:58:06) Specializations become harder to implement without the GIL&lt;/p&gt;
+&lt;p&gt;(01:01:27) PEP 703 terms of acceptance&lt;/p&gt;
+&lt;p&gt;(01:04:08) No free lunch&lt;/p&gt;
+&lt;p&gt;(01:09:25) It&amp;#39;s now or never&lt;/p&gt;
+&lt;p&gt;(01:11:59) Outro&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:14:39</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 1 - Core Sprint in Brno & Python 3.13.0 alpha 1]]></title>
+			<description><![CDATA[<p>In this first episode Pablo and Łukasz talk about what happened in at the 2023 Cpython Core Developer sprint. Join us and learn from our ramblings about a possible new CPython new JIT compiler, how we are making the REPL easier, what in the world is a memory hive, and how we are trying to make a new C API without making everyone mad.</p>
+<p><br></p>
+<p>Timestamps</p>
+<p><br></p>
+<p>(00:00:00) Intro</p>
+<p>(00:01:02) Cpython core developer sprint</p>
+<p>(00:04:54) Pablo&#39;s highlights</p>
+<p>(00:06:09) Łukasz&#39;s highlights</p>
+<p>(00:08:08) Coverage in the standard library</p>
+<p>(00:12:20) Improving CPython&#39;s REPL</p>
+<p>(00:20:38) Copy and patch JIT compiler prototype</p>
+<p>(00:28:16) Tier1 and Tier2 interpreter</p>
+<p>(00:41:25) Python 3.13.0 alpha 1 and doing CPython releases</p>
+<p>(00:52:08) C-API improvements</p>
+<p>(00:58:28) Sprint experience and tourism</p>
+<p>(01:01:49) Steering council Q&amp;A</p>
+<p>(01:08:19) Closing thoughts</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-1---Core-Sprint-in-Brno--Python-3-13-0-alpha-1-e2apebk</link>
+			<guid isPermaLink="false">422bbdba-a4d7-4f76-b3f7-ee8dfaa1baaf</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Mon, 30 Oct 2023 16:20:26 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/77428532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-19%2F351808790-44100-2-f58d5f9bf50b8.m4a" length="69864405" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this first episode Pablo and Łukasz talk about what happened in at the 2023 Cpython Core Developer sprint. Join us and learn from our ramblings about a possible new CPython new JIT compiler, how we are making the REPL easier, what in the world is a memory hive, and how we are trying to make a new C API without making everyone mad.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Timestamps&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Intro&lt;/p&gt;
+&lt;p&gt;(00:01:02) Cpython core developer sprint&lt;/p&gt;
+&lt;p&gt;(00:04:54) Pablo&amp;#39;s highlights&lt;/p&gt;
+&lt;p&gt;(00:06:09) Łukasz&amp;#39;s highlights&lt;/p&gt;
+&lt;p&gt;(00:08:08) Coverage in the standard library&lt;/p&gt;
+&lt;p&gt;(00:12:20) Improving CPython&amp;#39;s REPL&lt;/p&gt;
+&lt;p&gt;(00:20:38) Copy and patch JIT compiler prototype&lt;/p&gt;
+&lt;p&gt;(00:28:16) Tier1 and Tier2 interpreter&lt;/p&gt;
+&lt;p&gt;(00:41:25) Python 3.13.0 alpha 1 and doing CPython releases&lt;/p&gt;
+&lt;p&gt;(00:52:08) C-API improvements&lt;/p&gt;
+&lt;p&gt;(00:58:28) Sprint experience and tourism&lt;/p&gt;
+&lt;p&gt;(01:01:49) Steering council Q&amp;amp;A&lt;/p&gt;
+&lt;p&gt;(01:08:19) Closing thoughts&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:11:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

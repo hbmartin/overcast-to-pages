@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+>
+<channel>
+	<title>Thinking Spatially</title>
+	<atom:link href="https://www.josephkerski.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://www.josephkerski.com/</link>
+	<description>Spatial Thinking in Education</description>
+	<lastBuildDate>Mon, 09 Jun 2025 21:58:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://www.josephkerski.com/wp-content/uploads/2024/12/cropped-jkerski-web-32x32.png</url>
+	<title>Thinking Spatially</title>
+	<link>https://www.josephkerski.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>Why does thinking spatially and geographically still matter in our 21st Century world?  Join geographer Joseph Kerski as we explore natural hazards, population trends, biodiversity, energy, water, and other important issues, how geotechnologies and maps can serve as tools for investigation, and dig into issues of location privacy and data quality along the way.</itunes:summary>
+	<itunes:author>Joseph Kerski</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="https://josephkerski.com/images/thinking-spatially-w-joseph-kerski.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Joseph Kerski</itunes:name>
+	</itunes:owner>
+	<podcast:medium>podcast</podcast:medium>
+	<itunes:subtitle>Adventures in Space, Place, Maps, and Geotechnology</itunes:subtitle>
+	<image>
+		<title>Thinking Spatially</title>
+		<url>https://josephkerski.com/images/thinking-spatially-w-joseph-kerski.jpg</url>
+		<link>https://www.josephkerski.com</link>
+	</image>
+	<itunes:category text="Education" />
+	<podcast:podping usesPodping="true" />
+	<podcast:guid>06a34c63-ac48-5aee-b360-05ecef59411c</podcast:guid>
+	<rawvoice:subscribe feed="https://www.josephkerski.com/feed/podcast/" itunes="https://itunes.apple.com/us/podcast/thinking-spatially/id1441426924"></rawvoice:subscribe>
+	<item>
+		<title>Malthus:  Forecasting the future through Demography</title>
+		<link>https://www.josephkerski.com/malthus-forecasting-the-future-through-demography/</link>
+		<pubDate>Sun, 01 Jun 2025 16:52:22 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=2883</guid>
+		<comments>https://www.josephkerski.com/malthus-forecasting-the-future-through-demography/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/malthus-forecasting-the-future-through-demography/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;This episode discusses Thomas Robert Malthus: Forecasting the future through Demography.  &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/malthus-forecasting-the-future-through-demography/&quot;&gt;Malthus:  Forecasting the future through Demography&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/malthus.mp3" length="22618076" type="audio/mpeg" />
+		<itunes:subtitle>This episode discusses Thomas Robert Malthus: Forecasting the future through Demography.  </itunes:subtitle>
+		<itunes:summary>This episode discusses Thomas Robert Malthus: Forecasting the future through Demography.  </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:47</itunes:duration>
+	</item>
+	<item>
+		<title>Time:  How it is embedded in geography, and how standardization and time zones impacted our world</title>
+		<link>https://www.josephkerski.com/time-how-it-is-embedded-in-geography-and-how-standardization-and-time-zones-impacted-our-world/</link>
+		<pubDate>Thu, 01 May 2025 16:49:26 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=2880</guid>
+		<comments>https://www.josephkerski.com/time-how-it-is-embedded-in-geography-and-how-standardization-and-time-zones-impacted-our-world/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/time-how-it-is-embedded-in-geography-and-how-standardization-and-time-zones-impacted-our-world/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;This episode investigates Time: How it is embedded in geography, and how standardization and time zones impacted our world. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/time-how-it-is-embedded-in-geography-and-how-standardization-and-time-zones-impacted-our-world/&quot;&gt;Time:  How it is embedded in geography, and how standardization and time zones impacted our world&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/time.mp3" length="25092181" type="audio/mpeg" />
+		<itunes:subtitle>This episode investigates Time: How it is embedded in geography, and how standardization and time zones impacted our world. </itunes:subtitle>
+		<itunes:summary>This episode investigates Time: How it is embedded in geography, and how standardization and time zones impacted our world. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:04</itunes:duration>
+	</item>
+	<item>
+		<title>UAVs:  Unmanned or Uncrewed Aerial Vehicles, or Drones, and their impact on geography and geotechnologies</title>
+		<link>https://www.josephkerski.com/uavs-unmanned-or-uncrewed-aerial-vehicles-or-drones-and-their-impact-on-geography-and-geotechnologies/</link>
+		<pubDate>Tue, 01 Apr 2025 16:47:52 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=2878</guid>
+		<comments>https://www.josephkerski.com/uavs-unmanned-or-uncrewed-aerial-vehicles-or-drones-and-their-impact-on-geography-and-geotechnologies/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/uavs-unmanned-or-uncrewed-aerial-vehicles-or-drones-and-their-impact-on-geography-and-geotechnologies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;This episode discusses UAVs: Unmanned or Uncrewed Aerial Vehicles, or Drones, and their impact on geography and geotechnologies. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/uavs-unmanned-or-uncrewed-aerial-vehicles-or-drones-and-their-impact-on-geography-and-geotechnologies/&quot;&gt;UAVs:  Unmanned or Uncrewed Aerial Vehicles, or Drones, and their impact on geography and geotechnologies&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/uav.mp3" length="24571141" type="audio/mpeg" />
+		<itunes:subtitle>This episode discusses UAVs: Unmanned or Uncrewed Aerial Vehicles, or Drones, and their impact on geography and geotechnologies. </itunes:subtitle>
+		<itunes:summary>This episode discusses UAVs: Unmanned or Uncrewed Aerial Vehicles, or Drones, and their impact on geography and geotechnologies. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:48</itunes:duration>
+	</item>
+	<item>
+		<title>The Treaty of Tordesillas:  Its Impact on Exploration and Settlement, Past and Present</title>
+		<link>https://www.josephkerski.com/the-treaty-of-tordesillas-its-impact-on-exploration-and-settlement-past-and-present/</link>
+		<pubDate>Sat, 01 Mar 2025 16:44:15 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=2874</guid>
+		<comments>https://www.josephkerski.com/the-treaty-of-tordesillas-its-impact-on-exploration-and-settlement-past-and-present/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/the-treaty-of-tordesillas-its-impact-on-exploration-and-settlement-past-and-present/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;This episode investigates The Treaty of Tordesillas and Its Impact on Exploration and Settlement, Past and Present.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/the-treaty-of-tordesillas-its-impact-on-exploration-and-settlement-past-and-present/&quot;&gt;The Treaty of Tordesillas:  Its Impact on Exploration and Settlement, Past and Present&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/treaty_of_tordesillas.mp3" length="21463271" type="audio/mpeg" />
+		<itunes:subtitle>This episode investigates The Treaty of Tordesillas and Its Impact on Exploration and Settlement, Past and Present.</itunes:subtitle>
+		<itunes:summary>This episode investigates The Treaty of Tordesillas and Its Impact on Exploration and Settlement, Past and Present.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:11</itunes:duration>
+	</item>
+	<item>
+		<title>Using childhood memory maps to foster spatial thinking</title>
+		<link>https://www.josephkerski.com/using-childhood-memory-maps-to-foster-spatial-thinking/</link>
+		<pubDate>Sat, 01 Feb 2025 16:40:38 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=2871</guid>
+		<comments>https://www.josephkerski.com/using-childhood-memory-maps-to-foster-spatial-thinking/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/using-childhood-memory-maps-to-foster-spatial-thinking/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Why use childhood memory maps to foster spatial thinking?  This episode discusses how and why to use this powerful and easily implementable activity across a wide ranges of educational levels and courses. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/using-childhood-memory-maps-to-foster-spatial-thinking/&quot;&gt;Using childhood memory maps to foster spatial thinking&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/childhood_memory_maps.mp3" length="33685504" type="audio/mpeg" />
+		<itunes:subtitle>Why use childhood memory maps to foster spatial thinking?  This episode discusses how and why to use this powerful and easily implementable activity across a wide ranges of educational levels and courses. </itunes:subtitle>
+		<itunes:summary>Why use childhood memory maps to foster spatial thinking?  This episode discusses how and why to use this powerful and easily implementable activity across a wide ranges of educational levels and courses. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17:33</itunes:duration>
+	</item>
+	<item>
+		<title>Alexander Von Humboldt:  Kosmos:  Studying the Earth and Its People</title>
+		<link>https://www.josephkerski.com/alexander-von-humboldt-kosmos-studying-the-earth-and-its-people/</link>
+		<pubDate>Wed, 01 Jan 2025 16:29:28 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=2868</guid>
+		<comments>https://www.josephkerski.com/alexander-von-humboldt-kosmos-studying-the-earth-and-its-people/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/alexander-von-humboldt-kosmos-studying-the-earth-and-its-people/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast examines the life, exploration, and impact that Alexander Von Humboldt had on sciences, with an emphasis on geography. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/alexander-von-humboldt-kosmos-studying-the-earth-and-its-people/&quot;&gt;Alexander Von Humboldt:  Kosmos:  Studying the Earth and Its People&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/von_humboldt.mp3" length="22626426" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast examines the life, exploration, and impact that Alexander Von Humboldt had on sciences, with an emphasis on geography. </itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast examines the life, exploration, and impact that Alexander Von Humboldt had on sciences, with an emphasis on geography. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:47</itunes:duration>
+	</item>
+	<item>
+		<title>Surveying:  Measuring the Earth</title>
+		<link>https://www.josephkerski.com/surveying-measuring-the-earth/</link>
+		<pubDate>Sun, 01 Dec 2024 07:53:26 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1744</guid>
+		<comments>https://www.josephkerski.com/surveying-measuring-the-earth/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/surveying-measuring-the-earth/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<description>&lt;p&gt;This episode focuses on surveying, and how measuring the Earth was important through ancient times to our modern times, with an emphasis on the geographic implications.  &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/surveying-measuring-the-earth/&quot;&gt;Surveying:  Measuring the Earth&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/surveying.mp3" length="25628428" type="audio/mpeg" />
+		<itunes:subtitle>This episode focuses on surveying, and how measuring the Earth was important through ancient times to our modern times, with an emphasis on the geographic implications.  </itunes:subtitle>
+		<itunes:summary>This episode focuses on surveying, and how measuring the Earth was important through ancient times to our modern times, with an emphasis on the geographic implications.  </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:21</itunes:duration>
+	</item>
+	<item>
+		<title>Universalis Cosmographia:  Waldseemullers America and the World</title>
+		<link>https://www.josephkerski.com/universalis-cosmographia-waldseemullers-america-and-the-world/</link>
+		<pubDate>Fri, 01 Nov 2024 07:50:13 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1741</guid>
+		<comments>https://www.josephkerski.com/universalis-cosmographia-waldseemullers-america-and-the-world/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/universalis-cosmographia-waldseemullers-america-and-the-world/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<description>&lt;p&gt;This episode investigates Universalis Cosmographia: Waldseemuller’s map showing America and the World, and the impact it had on its time in 1507 and on to today’s modern web maps.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/universalis-cosmographia-waldseemullers-america-and-the-world/&quot;&gt;Universalis Cosmographia:  Waldseemullers America and the World&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/universalis_cosmographia.mp3" length="22685996" type="audio/mpeg" />
+		<itunes:subtitle>This episode investigates Universalis Cosmographia: Waldseemuller’s map showing America and the World, and the impact it had on its time in 1507 and on to today’s modern web maps.</itunes:subtitle>
+		<itunes:summary>This episode investigates Universalis Cosmographia: Waldseemuller’s map showing America and the World, and the impact it had on its time in 1507 and on to today’s modern web maps.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:49</itunes:duration>
+	</item>
+	<item>
+		<title>Posidonius:  Uniting Geography with Science and Philosophy</title>
+		<link>https://www.josephkerski.com/posidonius-uniting-geography-with-science-and-philosophy/</link>
+		<pubDate>Sun, 01 Sep 2024 07:43:19 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1736</guid>
+		<comments>https://www.josephkerski.com/posidonius-uniting-geography-with-science-and-philosophy/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/posidonius-uniting-geography-with-science-and-philosophy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<description>&lt;p&gt;This podcast episode focuses on Posidonius, who untied geography with science and philosophy, and the impact it had on thought in his time (135-51 BC) and thereafter.   &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/posidonius-uniting-geography-with-science-and-philosophy/&quot;&gt;Posidonius:  Uniting Geography with Science and Philosophy&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/posidonius.mp3" length="18973682" type="audio/mpeg" />
+		<itunes:subtitle>This podcast episode focuses on Posidonius, who untied geography with science and philosophy, and the impact it had on thought in his time (135-51 BC) and thereafter.   </itunes:subtitle>
+		<itunes:summary>This podcast episode focuses on Posidonius, who untied geography with science and philosophy, and the impact it had on thought in his time (135-51 BC) and thereafter.   </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:53</itunes:duration>
+	</item>
+	<item>
+		<title>Mercator: Mapping the World in a New Way</title>
+		<link>https://www.josephkerski.com/mercator-mapping-the-world-in-a-new-way/</link>
+		<pubDate>Mon, 01 Jul 2024 07:37:21 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1728</guid>
+		<comments>https://www.josephkerski.com/mercator-mapping-the-world-in-a-new-way/#respond</comments>
+		<wfw:commentRss>https://www.josephkerski.com/mercator-mapping-the-world-in-a-new-way/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<description>&lt;p&gt;This podcast focuses on the life and work of Gerardus Mercator (1512-1594), who mapped the world in a new way, and the geographic implications of his life and work.   &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/mercator-mapping-the-world-in-a-new-way/&quot;&gt;Mercator: Mapping the World in a New Way&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/mercator.mp3" length="26202704" type="audio/mpeg" />
+		<itunes:subtitle>This podcast focuses on the life and work of Gerardus Mercator (1512-1594), who mapped the world in a new way, and the geographic implications of his life and work.   </itunes:subtitle>
+		<itunes:summary>This podcast focuses on the life and work of Gerardus Mercator (1512-1594), who mapped the world in a new way, and the geographic implications of his life and work.   </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:39</itunes:duration>
+	</item>
+	<item>
+		<title>Topophilia:  Affinity to Place</title>
+		<link>https://www.josephkerski.com/topophilia-affinity-to-place/</link>
+		<pubDate>Sat, 01 Jun 2024 07:35:29 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1724</guid>
+		<description>&lt;p&gt;This podcast defines and explains the concept of topophilia–that we as humans are fundamentally attached to place, and why it matters. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/topophilia-affinity-to-place/&quot;&gt;Topophilia:  Affinity to Place&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/topophilia.mp3" length="29956793" type="audio/mpeg" />
+		<itunes:subtitle>This podcast defines and explains the concept of topophilia–that we as humans are fundamentally attached to place, and why it matters. </itunes:subtitle>
+		<itunes:summary>This podcast defines and explains the concept of topophilia–that we as humans are fundamentally attached to place, and why it matters. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>15:36</itunes:duration>
+	</item>
+	<item>
+		<title>Pei Xiu:  Advancing Cartography in China</title>
+		<link>https://www.josephkerski.com/pei-xiu-advancing-cartography-in-china/</link>
+		<pubDate>Wed, 01 May 2024 07:00:54 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1719</guid>
+		<description>&lt;p&gt;This podcast discusses the cartographic and geographic advances of Pei Xiu in China from 224 to 271 AD or CE.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/pei-xiu-advancing-cartography-in-china/&quot;&gt;Pei Xiu:  Advancing Cartography in China&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/pei_xiu.mp3" length="21069330" type="audio/mpeg" />
+		<itunes:subtitle>This podcast discusses the cartographic and geographic advances of Pei Xiu in China from 224 to 271 AD or CE.</itunes:subtitle>
+		<itunes:summary>This podcast discusses the cartographic and geographic advances of Pei Xiu in China from 224 to 271 AD or CE.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:58</itunes:duration>
+	</item>
+	<item>
+		<title>Observatories:  Monitors of the Earth and Beyond</title>
+		<link>https://www.josephkerski.com/observatories-monitors-of-the-earth-and-beyond/</link>
+		<pubDate>Mon, 01 Apr 2024 07:00:44 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1715</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast discusses the geographic implications of observatories from ancient times to our modern times. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/observatories-monitors-of-the-earth-and-beyond/&quot;&gt;Observatories:  Monitors of the Earth and Beyond&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/observatories.mp3" length="22451938" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast discusses the geographic implications of observatories from ancient times to our modern times. </itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast discusses the geographic implications of observatories from ancient times to our modern times. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:41</itunes:duration>
+	</item>
+	<item>
+		<title>Magellan: Launching Global Exploration</title>
+		<link>https://www.josephkerski.com/magellan-launching-global-exploration/</link>
+		<pubDate>Fri, 01 Mar 2024 07:00:54 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1712</guid>
+		<description>&lt;p&gt;This podcast focuses on Ferdinand Magellan (1480-1521) and the impact his 1519-1521 voyage had on geography, cartography, exploration, and much more, during its time and down to our present age.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/magellan-launching-global-exploration/&quot;&gt;Magellan: Launching Global Exploration&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/magellan.mp3" length="27675806" type="audio/mpeg" />
+		<itunes:subtitle>This podcast focuses on Ferdinand Magellan (1480-1521) and the impact his 1519-1521 voyage had on geography, cartography, exploration, and much more, during its time and down to our present age.</itunes:subtitle>
+		<itunes:summary>This podcast focuses on Ferdinand Magellan (1480-1521) and the impact his 1519-1521 voyage had on geography, cartography, exploration, and much more, during its time and down to our present age.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:25</itunes:duration>
+	</item>
+	<item>
+		<title>Proximity and Adjacency:  Why they matter, and how to teach them through mathematics, maps, and geography</title>
+		<link>https://www.josephkerski.com/proximity-and-adjacency-why-they-matter-and-how-to-teach-them-through-mathematics-maps-and-geography/</link>
+		<pubDate>Thu, 01 Feb 2024 07:00:06 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1708</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially Podcast focuses on the concepts of Proximity and Adjacency: Why they matter, and how to teach them through mathematics, maps, and geography.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/proximity-and-adjacency-why-they-matter-and-how-to-teach-them-through-mathematics-maps-and-geography/&quot;&gt;Proximity and Adjacency:  Why they matter, and how to teach them through mathematics, maps, and geography&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/proximity_and_adjacency_bridges_and_rivers.mp3" length="32687759" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially Podcast focuses on the concepts of Proximity and Adjacency: Why they matter, and how to teach them through mathematics, maps, and geography.</itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially Podcast focuses on the concepts of Proximity and Adjacency: Why they matter, and how to teach them through mathematics, maps, and geography.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17:01</itunes:duration>
+	</item>
+	<item>
+		<title>Political Boundaries along Lines of Latitude and Longitude</title>
+		<link>https://www.josephkerski.com/political-boundaries-along-lines-of-latitude-and-longitude/</link>
+		<pubDate>Mon, 01 Jan 2024 07:00:27 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1704</guid>
+		<description>&lt;p&gt;The podcast Political Boundaries along lines of latitude and longitude explores the geographic implications of the history and development of political boundaries, why they matter, and which political boundaries are rarely but rather interestingly along full degree lines of latitude and longitude.  &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/political-boundaries-along-lines-of-latitude-and-longitude/&quot;&gt;Political Boundaries along Lines of Latitude and Longitude&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/political_boundaries_along_lines_of_lat_long.mp3" length="28115285" type="audio/mpeg" />
+		<itunes:subtitle>The podcast Political Boundaries along lines of latitude and longitude explores the geographic implications of the history and development of political boundaries, why they matter, and which political boundaries are rarely but rather interestingly alon...</itunes:subtitle>
+		<itunes:summary>The podcast Political Boundaries along lines of latitude and longitude explores the geographic implications of the history and development of political boundaries, why they matter, and which political boundaries are rarely but rather interestingly along full degree lines of latitude and longitude.  </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:38</itunes:duration>
+	</item>
+	<item>
+		<title>Northwest Ordinance Act:  Surveying and Settling the Land</title>
+		<link>https://www.josephkerski.com/northwest-ordinance-act-surveying-and-settling-the-land/</link>
+		<pubDate>Fri, 01 Dec 2023 14:43:40 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1644</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast examines how the Northwest Ordinance Act in the USA impacted surveying and settling of the land, geographic thought, and geotechnologies. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/northwest-ordinance-act-surveying-and-settling-the-land/&quot;&gt;Northwest Ordinance Act:  Surveying and Settling the Land&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/northwest_ordinance.mp3" length="22092523" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast examines how the Northwest Ordinance Act in the USA impacted surveying and settling of the land, geographic thought, and geotechnologies. </itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast examines how the Northwest Ordinance Act in the USA impacted surveying and settling of the land, geographic thought, and geotechnologies. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:30</itunes:duration>
+	</item>
+	<item>
+		<title>The Earths Magnetic Field:  Impacting Geography from the Ground Up</title>
+		<link>https://www.josephkerski.com/the-earths-magnetic-field-impacting-geography-from-the-ground-up/</link>
+		<pubDate>Wed, 01 Nov 2023 14:41:45 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1640</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast explores how the investigation and discovery of the Earth’s magnetic field influenced geography and our everyday lives.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/the-earths-magnetic-field-impacting-geography-from-the-ground-up/&quot;&gt;The Earths Magnetic Field:  Impacting Geography from the Ground Up&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/magnetic_field.mp3" length="20288611" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast explores how the investigation and discovery of the Earth’s magnetic field influenced geography and our everyday lives.</itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast explores how the investigation and discovery of the Earth’s magnetic field influenced geography and our everyday lives.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:34</itunes:duration>
+	</item>
+	<item>
+		<title>Columbus:  Permanently Altering Global Relationships</title>
+		<link>https://www.josephkerski.com/columbus-permanently-altering-global-relationships/</link>
+		<pubDate>Sun, 01 Oct 2023 14:39:48 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1637</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast focuses on the controversial figure of Columbus and how his exploration and voyages permanently Altered Global Relationships to the present day.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/columbus-permanently-altering-global-relationships/&quot;&gt;Columbus:  Permanently Altering Global Relationships&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/columbus.mp3" length="24137179" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast focuses on the controversial figure of Columbus and how his exploration and voyages permanently Altered Global Relationships to the present day.</itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast focuses on the controversial figure of Columbus and how his exploration and voyages permanently Altered Global Relationships to the present day.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:34</itunes:duration>
+	</item>
+	<item>
+		<title>The French Geodesic Mission:  1 degree of Latitude</title>
+		<link>https://www.josephkerski.com/the-french-geodesic-mission-1-degree-of-latitude/</link>
+		<pubDate>Fri, 01 Sep 2023 14:39:02 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1633</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast examines the French Geodesic Mission of 1730 and its impact on our understanding of the Earth, including elements of geotechnologies, political geography, and more.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/the-french-geodesic-mission-1-degree-of-latitude/&quot;&gt;The French Geodesic Mission:  1 degree of Latitude&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/french_geodesic_mission.mp3" length="22706087" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast examines the French Geodesic Mission of 1730 and its impact on our understanding of the Earth, including elements of geotechnologies, political geography, and more.</itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast examines the French Geodesic Mission of 1730 and its impact on our understanding of the Earth, including elements of geotechnologies, political geography, and more.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:49</itunes:duration>
+	</item>
+	<item>
+		<title>Lewis and Clark:  Researching, Mapping, and Exploring to the Coast</title>
+		<link>https://www.josephkerski.com/lewis-and-clark-researching-mapping-and-exploring-to-the-coast/</link>
+		<pubDate>Tue, 01 Aug 2023 14:36:37 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1630</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast focuses on the impact that Lewis and Clark had on geographic tools, geographic thinking, settlement patterns, the relationship to Native Americans, and more, to the present day.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/lewis-and-clark-researching-mapping-and-exploring-to-the-coast/&quot;&gt;Lewis and Clark:  Researching, Mapping, and Exploring to the Coast&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/lewis_and_clark.mp3" length="23185904" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast focuses on the impact that Lewis and Clark had on geographic tools, geographic thinking, settlement patterns, the relationship to Native Americans, and more, to the present day.</itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast focuses on the impact that Lewis and Clark had on geographic tools, geographic thinking, settlement patterns, the relationship to Native Americans, and more, to the present day.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:04</itunes:duration>
+	</item>
+	<item>
+		<title>The Earth in Space:  Seeing the World as it Truly Is</title>
+		<link>https://www.josephkerski.com/the-earth-in-space-seeing-the-world-as-it-truly-is/</link>
+		<pubDate>Sat, 01 Jul 2023 14:31:08 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1627</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast focuses on how space exploration helped us understand our own Earth and how it influenced geographic thinking.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/the-earth-in-space-seeing-the-world-as-it-truly-is/&quot;&gt;The Earth in Space:  Seeing the World as it Truly Is&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/astronauts.mp3" length="23502717" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast focuses on how space exploration helped us understand our own Earth and how it influenced geographic thinking.</itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast focuses on how space exploration helped us understand our own Earth and how it influenced geographic thinking.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:14</itunes:duration>
+	</item>
+	<item>
+		<title>Brunel:  Modifying the Landscape in the Industrial Revolution</title>
+		<link>https://www.josephkerski.com/brunel-modifying-the-landscape-in-the-industrial-revolution/</link>
+		<pubDate>Thu, 01 Jun 2023 14:00:47 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1624</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast focuses on Brunel and how his work led to the modification of the Landscape in the Industrial Revolution and to the present day.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/brunel-modifying-the-landscape-in-the-industrial-revolution/&quot;&gt;Brunel:  Modifying the Landscape in the Industrial Revolution&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/brunel.mp3" length="17668007" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast focuses on Brunel and how his work led to the modification of the Landscape in the Industrial Revolution and to the present day.</itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast focuses on Brunel and how his work led to the modification of the Landscape in the Industrial Revolution and to the present day.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:12</itunes:duration>
+	</item>
+	<item>
+		<title>Aryabhata and Brahmagupta:  Using Mathematics to Explain Geography</title>
+		<link>https://www.josephkerski.com/aryabhata-and-brahmagupta-using-mathematics-to-explain-geography/</link>
+		<pubDate>Mon, 01 May 2023 15:06:02 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1621</guid>
+		<description>&lt;p&gt;This episode in the Thinking Spatially podcast series focuses on Indian mathematicians Aryabhata and Brahmagupta:  How their advancements in Mathematics greatly aided the discipline of Geography and geographic technology.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/aryabhata-and-brahmagupta-using-mathematics-to-explain-geography/&quot;&gt;Aryabhata and Brahmagupta:  Using Mathematics to Explain Geography&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/aryabhata.mp3" length="22869091" type="audio/mpeg" />
+		<itunes:subtitle>This episode in the Thinking Spatially podcast series focuses on Indian mathematicians Aryabhata and Brahmagupta:  How their advancements in Mathematics greatly aided the discipline of Geography and geographic technology.</itunes:subtitle>
+		<itunes:summary>This episode in the Thinking Spatially podcast series focuses on Indian mathematicians Aryabhata and Brahmagupta:  How their advancements in Mathematics greatly aided the discipline of Geography and geographic technology.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:54</itunes:duration>
+	</item>
+	<item>
+		<title>The Environmental Movement:  Connecting Geography to a Higher Purpose</title>
+		<link>https://www.josephkerski.com/the-environmental-movement-connecting-geography-to-a-higher-purpose/</link>
+		<pubDate>Sat, 01 Apr 2023 14:59:16 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1617</guid>
+		<description>&lt;p&gt;This episode in the Thinking Spatially podcast series discusses the environmental movement:  How it began, what it is, and its impact on geographic thinking.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/the-environmental-movement-connecting-geography-to-a-higher-purpose/&quot;&gt;The Environmental Movement:  Connecting Geography to a Higher Purpose&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/environmental_movement.mp3" length="24977277" type="audio/mpeg" />
+		<itunes:subtitle>This episode in the Thinking Spatially podcast series discusses the environmental movement:  How it began, what it is, and its impact on geographic thinking.</itunes:subtitle>
+		<itunes:summary>This episode in the Thinking Spatially podcast series discusses the environmental movement:  How it began, what it is, and its impact on geographic thinking.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:00</itunes:duration>
+	</item>
+	<item>
+		<title>Teaching GeoEthics</title>
+		<link>https://www.josephkerski.com/teaching-geoethics/</link>
+		<pubDate>Wed, 01 Mar 2023 14:57:17 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1614</guid>
+		<description>&lt;p&gt;This episode of the Thinking Spatially podcast series describes why ethics is central to work in geography and mapping, and discusses strategies on how and why to teach geo-ethics.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/teaching-geoethics/&quot;&gt;Teaching GeoEthics&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/geoethics.mp3" length="29155197" type="audio/mpeg" />
+		<itunes:subtitle>This episode of the Thinking Spatially podcast series describes why ethics is central to work in geography and mapping, and discusses strategies on how and why to teach geo-ethics.</itunes:subtitle>
+		<itunes:summary>This episode of the Thinking Spatially podcast series describes why ethics is central to work in geography and mapping, and discusses strategies on how and why to teach geo-ethics.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>15:11</itunes:duration>
+	</item>
+	<item>
+		<title>Antarctica:  To the End of Earth</title>
+		<link>https://www.josephkerski.com/antarctica-to-the-end-of-earth/</link>
+		<pubDate>Wed, 01 Feb 2023 14:55:17 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1611</guid>
+		<description>&lt;p&gt;Antarctica: To the End of Earth:  This podcast describes the exploration of Antarctica and its impact on science and on geographic thinking.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/antarctica-to-the-end-of-earth/&quot;&gt;Antarctica:  To the End of Earth&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/antarctica.mp3" length="28613743" type="audio/mpeg" />
+		<itunes:subtitle>Antarctica: To the End of Earth:  This podcast describes the exploration of Antarctica and its impact on science and on geographic thinking.</itunes:subtitle>
+		<itunes:summary>Antarctica: To the End of Earth:  This podcast describes the exploration of Antarctica and its impact on science and on geographic thinking.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:54</itunes:duration>
+	</item>
+	<item>
+		<title>Al Biruni:  Laying the Geodetic Foundations</title>
+		<link>https://www.josephkerski.com/al-biruni-laying-the-geodetic-foundations/</link>
+		<pubDate>Sun, 01 Jan 2023 15:00:39 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1608</guid>
+		<description>&lt;p&gt;This episode describes the life and discoveries of Al-Biruni, who laid the geodetic foundations for what we understand about the Earth.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/al-biruni-laying-the-geodetic-foundations/&quot;&gt;Al Biruni:  Laying the Geodetic Foundations&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/al-biruni.mp3" length="20408322" type="audio/mpeg" />
+		<itunes:subtitle>This episode describes the life and discoveries of Al-Biruni, who laid the geodetic foundations for what we understand about the Earth.</itunes:subtitle>
+		<itunes:summary>This episode describes the life and discoveries of Al-Biruni, who laid the geodetic foundations for what we understand about the Earth.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:38</itunes:duration>
+	</item>
+	<item>
+		<title>Spatial Citizenship Education: What it is and why it matters</title>
+		<link>https://www.josephkerski.com/spatial-citizenship-education-what-it-is-and-why-it-matters/</link>
+		<pubDate>Thu, 01 Dec 2022 06:34:56 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1555</guid>
+		<description>&lt;p&gt;Join me for a chat about:  Spatial Citizenship Education: What it is and why it matters.  &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/spatial-citizenship-education-what-it-is-and-why-it-matters/&quot;&gt;Spatial Citizenship Education: What it is and why it matters&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/spatial_citizenship_education.mp3" length="43067410" type="audio/mpeg" />
+		<itunes:subtitle>Join me for a chat about:  Spatial Citizenship Education: What it is and why it matters.  </itunes:subtitle>
+		<itunes:summary>Join me for a chat about:  Spatial Citizenship Education: What it is and why it matters.  </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>22:26</itunes:duration>
+	</item>
+	<item>
+		<title>Marco Polo:  From West to East and Back Again</title>
+		<link>https://www.josephkerski.com/marco-polo-from-west-to-east-and-back-again/</link>
+		<pubDate>Tue, 01 Nov 2022 07:26:38 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1552</guid>
+		<description>&lt;p&gt;Join me as we discuss the life, exploration, and impact that Marco Polo’s journey from Italy to China and back again had.   &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/marco-polo-from-west-to-east-and-back-again/&quot;&gt;Marco Polo:  From West to East and Back Again&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/marco_polo.mp3" length="20441608" type="audio/mpeg" />
+		<itunes:subtitle>Join me as we discuss the life, exploration, and impact that Marco Polo’s journey from Italy to China and back again had.   </itunes:subtitle>
+		<itunes:summary>Join me as we discuss the life, exploration, and impact that Marco Polo’s journey from Italy to China and back again had.   </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:39</itunes:duration>
+	</item>
+	<item>
+		<title>What are the 10 most important educational benefits to GIS?</title>
+		<link>https://www.josephkerski.com/what-are-the-10-most-important-educational-benefits-to-gis/</link>
+		<pubDate>Sat, 01 Oct 2022 06:23:57 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1550</guid>
+		<description>&lt;p&gt;Join me as we discuss the 10 most important educational benefits that GIS (Geographic Information Systems) offers. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/what-are-the-10-most-important-educational-benefits-to-gis/&quot;&gt;What are the 10 most important educational benefits to GIS?&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/10_most_important_gis_benefits_education.mp3" length="31239165" type="audio/mpeg" />
+		<itunes:subtitle>Join me as we discuss the 10 most important educational benefits that GIS (Geographic Information Systems) offers. </itunes:subtitle>
+		<itunes:summary>Join me as we discuss the 10 most important educational benefits that GIS (Geographic Information Systems) offers. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16:16</itunes:duration>
+	</item>
+	<item>
+		<title>David Livingstone:  A European with a Heart for Africa</title>
+		<link>https://www.josephkerski.com/david-livingstone-a-european-with-a-heart-for-africa/</link>
+		<pubDate>Thu, 01 Sep 2022 06:21:23 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1547</guid>
+		<description>&lt;p&gt;Join me as we discuss the life and impact of David Livingstone of the 19th Century:  A European with a heart for Africa.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/david-livingstone-a-european-with-a-heart-for-africa/&quot;&gt;David Livingstone:  A European with a Heart for Africa&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/livingstone_africa.mp3" length="15935172" type="audio/mpeg" />
+		<itunes:subtitle>Join me as we discuss the life and impact of David Livingstone of the 19th Century:  A European with a heart for Africa.</itunes:subtitle>
+		<itunes:summary>Join me as we discuss the life and impact of David Livingstone of the 19th Century:  A European with a heart for Africa.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:18</itunes:duration>
+	</item>
+	<item>
+		<title>What is GIS and why teach with it?</title>
+		<link>https://www.josephkerski.com/what-is-gis-and-why-teach-with-it/</link>
+		<pubDate>Mon, 01 Aug 2022 06:18:19 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1544</guid>
+		<description>&lt;p&gt;Join me as we discuss what is Geographic Information Systems (GIS), and why teach with this important framework, data sets, and tools?&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/what-is-gis-and-why-teach-with-it/&quot;&gt;What is GIS and why teach with it?&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/what_is_gis_and_why_teach_with_it.mp3" length="43915867" type="audio/mpeg" />
+		<itunes:subtitle>Join me as we discuss what is Geographic Information Systems (GIS), and why teach with this important framework, data sets, and tools?</itunes:subtitle>
+		<itunes:summary>Join me as we discuss what is Geographic Information Systems (GIS), and why teach with this important framework, data sets, and tools?</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>22:52</itunes:duration>
+	</item>
+	<item>
+		<title>Pliny the Elder:  Creating the First Encyclopedia of Geography</title>
+		<link>https://www.josephkerski.com/pliny-the-elder-creating-the-first-encyclopedia-of-geography/</link>
+		<pubDate>Fri, 01 Jul 2022 06:15:25 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1541</guid>
+		<description>&lt;p&gt;Join me as we discuss the amazing feat of Pliny the Elder’s encyclopedia, his life, his spectacular death, and the impact his work had. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/pliny-the-elder-creating-the-first-encyclopedia-of-geography/&quot;&gt;Pliny the Elder:  Creating the First Encyclopedia of Geography&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/pliny_encyclopedia.mp3" length="20155724" type="audio/mpeg" />
+		<itunes:subtitle>Join me as we discuss the amazing feat of Pliny the Elder’s encyclopedia, his life, his spectacular death, and the impact his work had. </itunes:subtitle>
+		<itunes:summary>Join me as we discuss the amazing feat of Pliny the Elder’s encyclopedia, his life, his spectacular death, and the impact his work had. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:30</itunes:duration>
+	</item>
+	<item>
+		<title>What are the 10 key strategies for teaching GIS?</title>
+		<link>https://www.josephkerski.com/what-are-the-10-key-strategies-for-teaching-gis/</link>
+		<pubDate>Wed, 01 Jun 2022 07:12:30 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1538</guid>
+		<description>&lt;p&gt;Join me as we discuss the 10 key strategies for teaching GIS–Geographic Information Systems.  Many choices exist, and this chat will help you navigate those choices and make informed ones. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/what-are-the-10-key-strategies-for-teaching-gis/&quot;&gt;What are the 10 key strategies for teaching GIS?&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/10_most_important_gis_strategies.mp3" length="36170248" type="audio/mpeg" />
+		<itunes:subtitle>Join me as we discuss the 10 key strategies for teaching GIS–Geographic Information Systems.  Many choices exist, and this chat will help you navigate those choices and make informed ones. </itunes:subtitle>
+		<itunes:summary>Join me as we discuss the 10 key strategies for teaching GIS–Geographic Information Systems.  Many choices exist, and this chat will help you navigate those choices and make informed ones. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>18:50</itunes:duration>
+	</item>
+	<item>
+		<title>Aerial Photography: Examining the Earth from Above</title>
+		<link>https://www.josephkerski.com/aerial_photography_examining_earth_m22/</link>
+		<pubDate>Sun, 01 May 2022 23:07:25 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1534</guid>
+		<description>&lt;p&gt;Aerial Photography: Examining the Earth from Above.  Think spatially as we examine the development and influence that aerial photography has had since the mid 19th Century, and its impact on how we understand our world. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/aerial_photography_examining_earth_m22/&quot;&gt;Aerial Photography: Examining the Earth from Above&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/aerial_photography.mp3" length="26227781" type="audio/mpeg" />
+		<itunes:subtitle>Aerial Photography: Examining the Earth from Above.  Think spatially as we examine the development and influence that aerial photography has had since the mid 19th Century, and its impact on how we understand our world. </itunes:subtitle>
+		<itunes:summary>Aerial Photography: Examining the Earth from Above.  Think spatially as we examine the development and influence that aerial photography has had since the mid 19th Century, and its impact on how we understand our world. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:40</itunes:duration>
+	</item>
+	<item>
+		<title>On becoming a GISP GIS Professional</title>
+		<link>https://www.josephkerski.com/on-becoming-a-gisp-gis-professional/</link>
+		<pubDate>Fri, 01 Apr 2022 07:04:29 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1531</guid>
+		<description>&lt;p&gt;My story of becoming a GISP – a GIS professional as certified by the GIS Certification Institute, and why you should consider becoming one as well.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/on-becoming-a-gisp-gis-professional/&quot;&gt;On becoming a GISP GIS Professional&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/on_becoming_a_gisp.mp3" length="10107985" type="audio/mpeg" />
+		<itunes:subtitle>My story of becoming a GISP – a GIS professional as certified by the GIS Certification Institute, and why you should consider becoming one as well.</itunes:subtitle>
+		<itunes:summary>My story of becoming a GISP – a GIS professional as certified by the GIS Certification Institute, and why you should consider becoming one as well.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:16</itunes:duration>
+	</item>
+	<item>
+		<title>George Perkins Marsh:  Humans as Change Agents</title>
+		<link>https://www.josephkerski.com/george-perkins-marsh-humans-as-change-agents/</link>
+		<pubDate>Tue, 01 Mar 2022 07:01:04 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1528</guid>
+		<description>&lt;p&gt;Join me as we chat about George Perkins Marsh, who pioneered the concept of humans as change agents:  His life and legacy, and why it all matters.  &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/george-perkins-marsh-humans-as-change-agents/&quot;&gt;George Perkins Marsh:  Humans as Change Agents&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/marsh_humans_as_change_agents.mp3" length="20585386" type="audio/mpeg" />
+		<itunes:subtitle>Join me as we chat about George Perkins Marsh, who pioneered the concept of humans as change agents:  His life and legacy, and why it all matters.  </itunes:subtitle>
+		<itunes:summary>Join me as we chat about George Perkins Marsh, who pioneered the concept of humans as change agents:  His life and legacy, and why it all matters.  </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:43</itunes:duration>
+	</item>
+	<item>
+		<title>What are the 10 most important GIS skills in education?</title>
+		<link>https://www.josephkerski.com/what-are-the-10-most-important-gis-skills-in-education/</link>
+		<pubDate>Tue, 01 Feb 2022 07:00:41 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1526</guid>
+		<description>&lt;p&gt;Let’s chat about the 10 most important GIS (Geographic Information Systems) skills to focus on and foster in education. I contend that if you and your students gain confidence in these 10, you can do anything. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/what-are-the-10-most-important-gis-skills-in-education/&quot;&gt;What are the 10 most important GIS skills in education?&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/10_most_important_gis_skills.mp3" length="17718186" type="audio/mpeg" />
+		<itunes:subtitle>Let’s chat about the 10 most important GIS (Geographic Information Systems) skills to focus on and foster in education. I contend that if you and your students gain confidence in these 10, you can do anything. </itunes:subtitle>
+		<itunes:summary>Let’s chat about the 10 most important GIS (Geographic Information Systems) skills to focus on and foster in education. I contend that if you and your students gain confidence in these 10, you can do anything. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:14</itunes:duration>
+	</item>
+	<item>
+		<title>Leif Eriksson:  Visiting North America in 1001</title>
+		<link>https://www.josephkerski.com/leif-eriksson-visiting-north-america-in-1001/</link>
+		<pubDate>Sat, 01 Jan 2022 07:00:37 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1523</guid>
+		<description>&lt;p&gt;Lets chat about Leif Eriksson’s life, voyages to North America and elsewhere, and the impact it all had on exploration, history, and geography.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/leif-eriksson-visiting-north-america-in-1001/&quot;&gt;Leif Eriksson:  Visiting North America in 1001&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/leif_eriksson.mp3" length="19383335" type="audio/mpeg" />
+		<itunes:subtitle>Lets chat about Leif Eriksson’s life, voyages to North America and elsewhere, and the impact it all had on exploration, history, and geography.</itunes:subtitle>
+		<itunes:summary>Lets chat about Leif Eriksson’s life, voyages to North America and elsewhere, and the impact it all had on exploration, history, and geography.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:06</itunes:duration>
+	</item>
+	<item>
+		<title>Copernicus:  Establishing correct Earth-Sun Relationships</title>
+		<link>https://www.josephkerski.com/copernicus-establishing-correct-earth-sun-relationships/</link>
+		<pubDate>Wed, 01 Dec 2021 06:02:12 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1481</guid>
+		<description>&lt;p&gt;Copernicus: Establishing correct Earth-Sun Relationships.  Think spatially as we examine Copernicus’ life and impact, and why it matters on down to today.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/copernicus-establishing-correct-earth-sun-relationships/&quot;&gt;Copernicus:  Establishing correct Earth-Sun Relationships&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/copernicus.mp3" length="21624426" type="audio/mpeg" />
+		<itunes:subtitle>Copernicus: Establishing correct Earth-Sun Relationships.  Think spatially as we examine Copernicus’ life and impact, and why it matters on down to today.</itunes:subtitle>
+		<itunes:summary>Copernicus: Establishing correct Earth-Sun Relationships.  Think spatially as we examine Copernicus’ life and impact, and why it matters on down to today.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:16</itunes:duration>
+	</item>
+	<item>
+		<title>Cross-staffs, astrolabes, and other devices:  Determining Positions on the Planet</title>
+		<link>https://www.josephkerski.com/cross-staffs-astrolabes-and-other-devices-determining-positions-on-the-planet/</link>
+		<pubDate>Mon, 01 Nov 2021 06:59:14 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1478</guid>
+		<description>&lt;p&gt;Cross-staffs, astrolabes, and other devices: Determining Positions on the Planet, and paving the way for GPS.  Think spatially as we consider these devices, how they were used, and the impact they had.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/cross-staffs-astrolabes-and-other-devices-determining-positions-on-the-planet/&quot;&gt;Cross-staffs, astrolabes, and other devices:  Determining Positions on the Planet&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/cross_staffs.mp3" length="24890946" type="audio/mpeg" />
+		<itunes:subtitle>Cross-staffs, astrolabes, and other devices: Determining Positions on the Planet, and paving the way for GPS.  Think spatially as we consider these devices, how they were used, and the impact they had.</itunes:subtitle>
+		<itunes:summary>Cross-staffs, astrolabes, and other devices: Determining Positions on the Planet, and paving the way for GPS.  Think spatially as we consider these devices, how they were used, and the impact they had.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:58</itunes:duration>
+	</item>
+	<item>
+		<title>Smith:  Breaking New Ground with Stratigraphy</title>
+		<link>https://www.josephkerski.com/smith-breaking-new-ground-with-stratigraphy/</link>
+		<pubDate>Fri, 01 Oct 2021 06:56:56 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1475</guid>
+		<description>&lt;p&gt;Smith: Breaking New Ground with Stratigraphy:  Think spatially on the life and impact of William Smith, creator of the world’s first modern geologic map.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/smith-breaking-new-ground-with-stratigraphy/&quot;&gt;Smith:  Breaking New Ground with Stratigraphy&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/smith.mp3" length="23565801" type="audio/mpeg" />
+		<itunes:subtitle>Smith: Breaking New Ground with Stratigraphy:  Think spatially on the life and impact of William Smith, creator of the world’s first modern geologic map.</itunes:subtitle>
+		<itunes:summary>Smith: Breaking New Ground with Stratigraphy:  Think spatially on the life and impact of William Smith, creator of the world’s first modern geologic map.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:16</itunes:duration>
+	</item>
+	<item>
+		<title>10 Useful and Amazing Web Mapping Applications</title>
+		<link>https://www.josephkerski.com/10-useful-and-amazing-web-mapping-applications/</link>
+		<pubDate>Wed, 01 Sep 2021 06:53:43 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1472</guid>
+		<description>&lt;p&gt;Think spatially as we examine 10 amazing web mapping applications that I have used in a wide variety of research and teaching settings, and you can do the same, including the Urban Observatory, the Wayback Esri Imagery, the Living Atlas Water Balance app, and much more.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/10-useful-and-amazing-web-mapping-applications/&quot;&gt;10 Useful and Amazing Web Mapping Applications&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/webmapping_apps.mp3" length="65234806" type="audio/mpeg" />
+		<itunes:subtitle>Think spatially as we examine 10 amazing web mapping applications that I have used in a wide variety of research and teaching settings, and you can do the same, including the Urban Observatory, the Wayback Esri Imagery,</itunes:subtitle>
+		<itunes:summary>Think spatially as we examine 10 amazing web mapping applications that I have used in a wide variety of research and teaching settings, and you can do the same, including the Urban Observatory, the Wayback Esri Imagery, the Living Atlas Water Balance app, and much more.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>33:59</itunes:duration>
+	</item>
+	<item>
+		<title>Harrison:  Solving the Longitude Problem</title>
+		<link>https://www.josephkerski.com/harrison-solving-the-longitude-problem/</link>
+		<pubDate>Sun, 01 Aug 2021 06:01:42 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1468</guid>
+		<description>&lt;p&gt;Harrison: Solving the Longitude Problem:  Think spatially as we examine how the hard work, tenacity, and innovations of John Harrison’s longitude clock transformed the world and our understanding of it. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/harrison-solving-the-longitude-problem/&quot;&gt;Harrison:  Solving the Longitude Problem&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/harrison_clock.mp3" length="22203916" type="audio/mpeg" />
+		<itunes:subtitle>Harrison: Solving the Longitude Problem:  Think spatially as we examine how the hard work, tenacity, and innovations of John Harrison’s longitude clock transformed the world and our understanding of it. </itunes:subtitle>
+		<itunes:summary>Harrison: Solving the Longitude Problem:  Think spatially as we examine how the hard work, tenacity, and innovations of John Harrison’s longitude clock transformed the world and our understanding of it. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:34</itunes:duration>
+	</item>
+	<item>
+		<title>National Mapping Agencies:  Mapping the Nations</title>
+		<link>https://www.josephkerski.com/national-mapping-agencies-mapping-the-nations/</link>
+		<pubDate>Thu, 01 Jul 2021 06:47:53 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1465</guid>
+		<description>&lt;p&gt;National Mapping Agencies: Mapping the Nations:  Think spatially as you consider the history and mission of national mapping agencies around the world, and the impact they had and continue to have in our digital age. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/national-mapping-agencies-mapping-the-nations/&quot;&gt;National Mapping Agencies:  Mapping the Nations&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/national_mapping_agencies.mp3" length="23590016" type="audio/mpeg" />
+		<itunes:subtitle>National Mapping Agencies: Mapping the Nations:  Think spatially as you consider the history and mission of national mapping agencies around the world, and the impact they had and continue to have in our digital age. </itunes:subtitle>
+		<itunes:summary>National Mapping Agencies: Mapping the Nations:  Think spatially as you consider the history and mission of national mapping agencies around the world, and the impact they had and continue to have in our digital age. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:17</itunes:duration>
+	</item>
+	<item>
+		<title>Zheng He:  Sailing from East to West</title>
+		<link>https://www.josephkerski.com/zheng-he-sailing-from-east-to-west/</link>
+		<pubDate>Tue, 01 Jun 2021 06:45:40 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1462</guid>
+		<description>&lt;p&gt;Zheng He: Sailing from East to West:  Think spatially as you consider the life and voyages of Zheng He of China and the impact they made. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/zheng-he-sailing-from-east-to-west/&quot;&gt;Zheng He:  Sailing from East to West&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/zheng_he.mp3" length="22012701" type="audio/mpeg" />
+		<itunes:subtitle>Zheng He: Sailing from East to West:  Think spatially as you consider the life and voyages of Zheng He of China and the impact they made. </itunes:subtitle>
+		<itunes:summary>Zheng He: Sailing from East to West:  Think spatially as you consider the life and voyages of Zheng He of China and the impact they made. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:28</itunes:duration>
+	</item>
+	<item>
+		<title>Wegener:  On Solid Ground?  Not so much.</title>
+		<link>https://www.josephkerski.com/wegener-on-solid-ground-not-so-much/</link>
+		<pubDate>Sat, 01 May 2021 06:41:03 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1459</guid>
+		<description>&lt;p&gt;Think spatially as we examine the life, theories, and challenges faced by Alfred Wegener, and his influence through plate tectonics on how we understand our planet. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/wegener-on-solid-ground-not-so-much/&quot;&gt;Wegener:  On Solid Ground?  Not so much.&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/wegener.mp3" length="23702741" type="audio/mpeg" />
+		<itunes:subtitle>Think spatially as we examine the life, theories, and challenges faced by Alfred Wegener, and his influence through plate tectonics on how we understand our planet. </itunes:subtitle>
+		<itunes:summary>Think spatially as we examine the life, theories, and challenges faced by Alfred Wegener, and his influence through plate tectonics on how we understand our planet. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:21</itunes:duration>
+	</item>
+	<item>
+		<title>Eratosthenes:  Calculating the Earth&#8217;s Circumference</title>
+		<link>https://www.josephkerski.com/eratosthenes-calculating-the-earths-circumference/</link>
+		<pubDate>Thu, 01 Apr 2021 06:36:33 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1456</guid>
+		<description>&lt;p&gt;Eratosthenes: Calculating the Earth’s Circumference:  Think spatially as we examine the work and influence that Eratosthenes had on our understanding of the planet’s size, and much more.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/eratosthenes-calculating-the-earths-circumference/&quot;&gt;Eratosthenes:  Calculating the Earth’s Circumference&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/eratosthenes.mp3" length="21269551" type="audio/mpeg" />
+		<itunes:subtitle>Eratosthenes: Calculating the Earth’s Circumference:  Think spatially as we examine the work and influence that Eratosthenes had on our understanding of the planet’s size, and much more.</itunes:subtitle>
+		<itunes:summary>Eratosthenes: Calculating the Earth’s Circumference:  Think spatially as we examine the work and influence that Eratosthenes had on our understanding of the planet’s size, and much more.</itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:05</itunes:duration>
+	</item>
+	<item>
+		<title>Burnham:  Make no Small Plans</title>
+		<link>https://www.josephkerski.com/burnham-make-no-small-plans/</link>
+		<pubDate>Mon, 01 Mar 2021 07:31:39 +0000</pubDate>
+		<guid isPermaLink="false">https://www.josephkerski.com/?p=1452</guid>
+		<description>&lt;p&gt;Think spatially as we examine the life and influence of architect Daniel Burnham, and the impact his ideas had on buildings and cities. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.josephkerski.com/burnham-make-no-small-plans/&quot;&gt;Burnham:  Make no Small Plans&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.josephkerski.com&quot;&gt;Joseph Kerski, Ph.D. GISP&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/thinking_spatially/josephkerski.com/podcast/burnham.mp3" length="21092531" type="audio/mpeg" />
+		<itunes:subtitle>Think spatially as we examine the life and influence of architect Daniel Burnham, and the impact his ideas had on buildings and cities. </itunes:subtitle>
+		<itunes:summary>Think spatially as we examine the life and influence of architect Daniel Burnham, and the impact his ideas had on buildings and cities. </itunes:summary>
+		<itunes:author>Joseph Kerski</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:59</itunes:duration>
+	</item>
+</channel>
+</rss>

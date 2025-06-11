@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://feeds.megaphone.fm/autopilot" rel="self" type="application/rss+xml"/>
+    <title>"Autopilot" with Will Summerlin</title>
+    <link>https://www.podpage.com/autopilot/</link>
+    <language>en</language>
+    <copyright>2024</copyright>
+    <description>The podcast discusses the past, present, and future of automation and its impact on our biggest industries. Guests include Sergiy Nesterenko of Quilter, Aaron Slodov from Atomic, and Jordan Domash from Responsiv. Host Will Summerlin is the Founder and Managing Partner at Autopilot.
+This podcast is part of the Turpentine podcast network. Learn more: turpentine.co</description>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/a6294fbc-e873-11ee-b51b-9f1222fca336/image/35cd360d2fd51bfd4753afa395c446cf.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>"Autopilot" with Will Summerlin</title>
+      <link>https://www.podpage.com/autopilot/</link>
+    </image>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>The past, present, and future of automation and its impact on our biggest industries. </itunes:subtitle>
+    <itunes:author>Will Summerlin | Turpentine</itunes:author>
+    <itunes:summary>The podcast discusses the past, present, and future of automation and its impact on our biggest industries. Guests include Sergiy Nesterenko of Quilter, Aaron Slodov from Atomic, and Jordan Domash from Responsiv. Host Will Summerlin is the Founder and Managing Partner at Autopilot.
+This podcast is part of the Turpentine podcast network. Learn more: turpentine.co</itunes:summary>
+    <content:encoded>
+      <![CDATA[<p>The podcast discusses the past, present, and future of automation and its impact on our biggest industries. Guests include Sergiy Nesterenko of Quilter, Aaron Slodov from Atomic, and Jordan Domash from Responsiv. Host Will Summerlin is the Founder and Managing Partner at Autopilot.</p><p>This podcast is part of the Turpentine podcast network. Learn more: <a href="https://www.turpentine.co/">turpentine.co</a></p>]]>
+    </content:encoded>
+    <itunes:owner>
+      <itunes:name>Natalie Toren</itunes:name>
+      <itunes:email>Natalie@turpentine.co</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/a6294fbc-e873-11ee-b51b-9f1222fca336/image/35cd360d2fd51bfd4753afa395c446cf.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:category text="Technology">
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <item>
+      <title>James Kaplan, Chief Technology Officer of McKinsey &amp; Company’s Technology Practice on AI Adoption</title>
+      <description>In this episode of the Autopilot podcast, James Kaplan, Chief Technology Officer of McKinsey &amp; Company’s Technology practice shares his unique career journey from a history major to a tech leader, discussing the evolution of technology from the .com era to modern AI implementations. James also shares the challenges enterprises face in adopting AI, evolving dynamics between startups and incumbents, and provides valuable advice for navigating a successful career in technology.
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+--
+RECOMMENDED PODCAST:
+Check out Modern Relationships, where Erik Torenberg interviews tech power couples and leading thinkers to explore how ambitious people actually make partnerships work. Founders Fund's Delian Asparouhov and researcher Nadia Asparouhova kick off the series with an unfiltered conversation about their relationship evolution.
+Apple: https://podcasts.apple.com/us/podcast/id1786227593
+Spotify: https://open.spotify.com/show/5hJzs0gDg6lRT6r10mdpVg
+YouTube: https://www.youtube.com/@ModernRelationshipsPod
+
+🎙️ Unpack Pricing - Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.
+Apple: https://podcasts.apple.com/us/podcast/id1765716600
+Spotify: https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg
+--
+
+--
+LINKS:
+http://www.mckinsey.com (McKinsey)
+--
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@jmk37 (James)
+--
+TIMESTAMPS:
+(00:00) Preview
+(01:40) Intro
+(04:20) Lessons from the dot-com era
+(07:39) AI adoption in enterprises
+(12:50) Value of generative AI
+(18:07) Inefficiency in law firms
+(21:31) Future of ontologies and knowledge graphs
+(24:50) Incumbents vs. Startups: Who will win?
+(30:13) Role of gen AI in software development
+(41:16) Adoption cycle of AI in enterprises
+(44:15) Reflecting on a successful career
+(45:12) Wrap</description>
+      <pubDate>Tue, 15 Oct 2024 11:15:00 -0000</pubDate>
+      <itunes:title>James Kaplan, Chief Technology Officer of McKinsey &amp; Company’s Technology Practice on AI Adoption</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/fa964388-8ae5-11ef-95bd-cf82173f20fc/image/d7a78f0ce850c3877b6a03f086127605.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode of the Autopilot podcast, James Kaplan, Chief Technology Officer of McKinsey shares his unique career journey from a history major to a tech leader, discussing the evolution of technology from the .com era to modern AI implementations.</itunes:subtitle>
+      <itunes:summary>In this episode of the Autopilot podcast, James Kaplan, Chief Technology Officer of McKinsey &amp; Company’s Technology practice shares his unique career journey from a history major to a tech leader, discussing the evolution of technology from the .com era to modern AI implementations. James also shares the challenges enterprises face in adopting AI, evolving dynamics between startups and incumbents, and provides valuable advice for navigating a successful career in technology.
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+--
+RECOMMENDED PODCAST:
+Check out Modern Relationships, where Erik Torenberg interviews tech power couples and leading thinkers to explore how ambitious people actually make partnerships work. Founders Fund's Delian Asparouhov and researcher Nadia Asparouhova kick off the series with an unfiltered conversation about their relationship evolution.
+Apple: https://podcasts.apple.com/us/podcast/id1786227593
+Spotify: https://open.spotify.com/show/5hJzs0gDg6lRT6r10mdpVg
+YouTube: https://www.youtube.com/@ModernRelationshipsPod
+
+🎙️ Unpack Pricing - Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.
+Apple: https://podcasts.apple.com/us/podcast/id1765716600
+Spotify: https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg
+--
+
+--
+LINKS:
+http://www.mckinsey.com (McKinsey)
+--
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@jmk37 (James)
+--
+TIMESTAMPS:
+(00:00) Preview
+(01:40) Intro
+(04:20) Lessons from the dot-com era
+(07:39) AI adoption in enterprises
+(12:50) Value of generative AI
+(18:07) Inefficiency in law firms
+(21:31) Future of ontologies and knowledge graphs
+(24:50) Incumbents vs. Startups: Who will win?
+(30:13) Role of gen AI in software development
+(41:16) Adoption cycle of AI in enterprises
+(44:15) Reflecting on a successful career
+(45:12) Wrap</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode of the Autopilot podcast, James Kaplan, Chief Technology Officer of McKinsey &amp; Company’s Technology practice shares his unique career journey from a history major to a tech leader, discussing the evolution of technology from the .com era to modern AI implementations. James also shares the challenges enterprises face in adopting AI, evolving dynamics between startups and incumbents, and provides valuable advice for navigating a successful career in technology.</p><p><br></p><p>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj</p><p><br></p><p>--</p><p><strong>RECOMMENDED PODCAST:</strong></p><p>Check out <strong>Modern Relationships</strong>, where Erik Torenberg interviews tech power couples and leading thinkers to explore how ambitious people actually make partnerships work. Founders Fund's Delian Asparouhov and researcher Nadia Asparouhova kick off the series with an unfiltered conversation about their relationship evolution.</p><p>Apple: <a href="https://podcasts.apple.com/us/podcast/id1786227593">https://podcasts.apple.com/us/podcast/id1786227593</a></p><p>Spotify: <a href="https://open.spotify.com/show/5hJzs0gDg6lRT6r10mdpVg">https://open.spotify.com/show/5hJzs0gDg6lRT6r10mdpVg</a></p><p>YouTube: <a href="https://www.youtube.com/@ModernRelationshipsPod">https://www.youtube.com/@ModernRelationshipsPod</a></p><p><br></p><p>🎙️ <strong>Unpack Pricing </strong>- Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.</p><p>Apple:<a href="https://podcasts.apple.com/us/podcast/id1765716600"> https://podcasts.apple.com/us/podcast/id1765716600</a></p><p>Spotify:<a href="https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg"> https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg</a></p><p><strong>--</strong></p><p><br></p><p>--</p><p>LINKS:</p><p><a href="http://www.mckinsey.com">http://www.mckinsey.com</a> (McKinsey)</p><p>--</p><p>X/SOCIAL:</p><p>@WillSummerlinAI (Will)</p><p>@jmk37 (James)</p><p>--</p><p>TIMESTAMPS:</p><p>(00:00) Preview</p><p>(01:40) Intro</p><p>(04:20) Lessons from the dot-com era</p><p>(07:39) AI adoption in enterprises</p><p>(12:50) Value of generative AI</p><p>(18:07) Inefficiency in law firms</p><p>(21:31) Future of ontologies and knowledge graphs</p><p>(24:50) Incumbents vs. Startups: Who will win?</p><p>(30:13) Role of gen AI in software development</p><p>(41:16) Adoption cycle of AI in enterprises</p><p>(44:15) Reflecting on a successful career</p><p>(45:12) Wrap</p>]]>
+      </content:encoded>
+      <itunes:duration>2839</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[fa964388-8ae5-11ef-95bd-cf82173f20fc]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP9156666635.mp3?updated=1735435671" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Agentic AI Employees You Can Hire Today with Surojit Chatterjee, Founder of Ema, ex-Coinbase / Google</title>
+      <description>In this episode of the Autopilot podcast, Surojit Chatterjee, founder of Ema AI, former Chief Product Officer at Coinbase and ex-Google VP, discusses the future of AI employees in enterprise. He explores how Ema's AI employees can boost productivity for any role and any company by automating mundane tasks. Surojit draws parallels to past technological shifts, emphasizing the current phase shift as an opportunity for startups to overtake incumbents, and shares his vision for a more productive and imaginative future.
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+--
+RECOMMENDED PODCAST:
+Check out Modern Relationships, where Erik Torenberg interviews tech power couples and leading thinkers to explore how ambitious people actually make partnerships work. Founders Fund's Delian Asparouhov and researcher Nadia Asparouhova kick off the series with an unfiltered conversation about their relationship evolution.
+Apple: https://podcasts.apple.com/us/podcast/id1786227593
+Spotify: https://open.spotify.com/show/5hJzs0gDg6lRT6r10mdpVg
+YouTube: https://www.youtube.com/@ModernRelationshipsPod
+
+🎙️ Unpack Pricing - Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.
+Apple: https://podcasts.apple.com/us/podcast/id1765716600
+Spotify: https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg
+--
+
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+--
+LINKS:
+https://ema.co/
+--
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@surojit (Surojit)
+--
+TIMESTAMPS:
+(01:13) Intro
+(01:24) Journey to building Emma
+(03:31) Will Google be enriched or threatened by AI?
+(06:01) Ema: The AI Employee
+(09:38) Horizontal vs Vertical approach in AI
+(13:40) Use cases and value creation with Emq
+(16:01) Measuring the productivity boosts
+(18:02) Pricing model
+(20:15) AI’s impact on the labor force
+(25:30) Advice for starting a career
+(27:43) Wrap</description>
+      <pubDate>Tue, 06 Aug 2024 07:00:00 -0000</pubDate>
+      <itunes:title>Agentic AI Employees You Can Hire Today with Surojit Chatterjee, Founder of Ema, ex-Coinbase / Google</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/631f25cc-532e-11ef-bfa0-03511eeaf1ca/image/e793d88f896771509d607b54e862f018.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode of the Autopilot podcast, Surojit Chatterjee, founder of Ema AI, former Chief Product Officer at Coinbase and ex-Google VP, discusses the future of AI employees in enterprise. </itunes:subtitle>
+      <itunes:summary>In this episode of the Autopilot podcast, Surojit Chatterjee, founder of Ema AI, former Chief Product Officer at Coinbase and ex-Google VP, discusses the future of AI employees in enterprise. He explores how Ema's AI employees can boost productivity for any role and any company by automating mundane tasks. Surojit draws parallels to past technological shifts, emphasizing the current phase shift as an opportunity for startups to overtake incumbents, and shares his vision for a more productive and imaginative future.
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+--
+RECOMMENDED PODCAST:
+Check out Modern Relationships, where Erik Torenberg interviews tech power couples and leading thinkers to explore how ambitious people actually make partnerships work. Founders Fund's Delian Asparouhov and researcher Nadia Asparouhova kick off the series with an unfiltered conversation about their relationship evolution.
+Apple: https://podcasts.apple.com/us/podcast/id1786227593
+Spotify: https://open.spotify.com/show/5hJzs0gDg6lRT6r10mdpVg
+YouTube: https://www.youtube.com/@ModernRelationshipsPod
+
+🎙️ Unpack Pricing - Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.
+Apple: https://podcasts.apple.com/us/podcast/id1765716600
+Spotify: https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg
+--
+
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+--
+LINKS:
+https://ema.co/
+--
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@surojit (Surojit)
+--
+TIMESTAMPS:
+(01:13) Intro
+(01:24) Journey to building Emma
+(03:31) Will Google be enriched or threatened by AI?
+(06:01) Ema: The AI Employee
+(09:38) Horizontal vs Vertical approach in AI
+(13:40) Use cases and value creation with Emq
+(16:01) Measuring the productivity boosts
+(18:02) Pricing model
+(20:15) AI’s impact on the labor force
+(25:30) Advice for starting a career
+(27:43) Wrap</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode of the Autopilot podcast, Surojit Chatterjee, founder of Ema AI, former Chief Product Officer at Coinbase and ex-Google VP, discusses the future of AI employees in enterprise. He explores how Ema's AI employees can boost productivity for any role and any company by automating mundane tasks. Surojit draws parallels to past technological shifts, emphasizing the current phase shift as an opportunity for startups to overtake incumbents, and shares his vision for a more productive and imaginative future.</p><p><br></p><p>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj</p><p><br></p><p>--</p><p><strong>RECOMMENDED PODCAST:</strong></p><p>Check out <strong>Modern Relationships</strong>, where Erik Torenberg interviews tech power couples and leading thinkers to explore how ambitious people actually make partnerships work. Founders Fund's Delian Asparouhov and researcher Nadia Asparouhova kick off the series with an unfiltered conversation about their relationship evolution.</p><p>Apple: <a href="https://podcasts.apple.com/us/podcast/id1786227593">https://podcasts.apple.com/us/podcast/id1786227593</a></p><p>Spotify: <a href="https://open.spotify.com/show/5hJzs0gDg6lRT6r10mdpVg">https://open.spotify.com/show/5hJzs0gDg6lRT6r10mdpVg</a></p><p>YouTube: <a href="https://www.youtube.com/@ModernRelationshipsPod">https://www.youtube.com/@ModernRelationshipsPod</a></p><p><br></p><p>🎙️ <strong>Unpack Pricing </strong>- Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.</p><p>Apple:<a href="https://podcasts.apple.com/us/podcast/id1765716600"> https://podcasts.apple.com/us/podcast/id1765716600</a></p><p>Spotify:<a href="https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg"> https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg</a></p><p>--</p><p><br></p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p>--</p><p>LINKS:</p><p><a href="https://ema.co/">https://ema.co/</a></p><p>--</p><p>X/SOCIAL:</p><p>@WillSummerlinAI (Will)</p><p>@surojit (Surojit)</p><p>--</p><p>TIMESTAMPS:</p><p>(01:13) Intro</p><p>(01:24) Journey to building Emma</p><p>(03:31) Will Google be enriched or threatened by AI?</p><p>(06:01) Ema: The AI Employee</p><p>(09:38) Horizontal vs Vertical approach in AI</p><p>(13:40) Use cases and value creation with Emq</p><p>(16:01) Measuring the productivity boosts</p><p>(18:02) Pricing model</p><p>(20:15) AI’s impact on the labor force</p><p>(25:30) Advice for starting a career</p><p>(27:43) Wrap</p>]]>
+      </content:encoded>
+      <itunes:duration>1801</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[631f25cc-532e-11ef-bfa0-03511eeaf1ca]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP7699793745.mp3?updated=1735435684" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How LiveKit is Giving OpenAI's GPT 4.0 Voice in Real-Time with Russell d'Sa, Founder</title>
+      <description>In this episode of the Autopilot podcast, host Will Summerlin interviews Russell D'Sa, the founder of LiveKit, a company building critical infrastructure for real-time audio and video communication, used by OpenAI to voice ChatGPT.
+
+Russ shares his journey from growing up surrounded by technology in Silicon Valley to founding LiveKit, and discusses the complex challenges of delivering reliable, high-quality audio and video at scale. They discuss the future of multimodal interactions and explore how technologies like LiveKit are enabling more natural human-AI interfaces.
+-
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+--
+RECOMMENDED PODCAST:
+🎙️ Unpack Pricing - Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.
+Apple: https://podcasts.apple.com/us/podcast/id1765716600
+Spotify: https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg
+--
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@dsa (Russel)
+
+--
+TIMESTAMPS:
+(00:00:00) Episode Preview
+(01:51) Early career and Silicon Valley influence
+(03:46) First foray into entrepreneurship
+(08:06) Lessons from Y Combinator
+(10:41) Founding LiveKit: The vision and challenges
+(17:01) The role of LiveKit in AI and real-time communication
+(20:41) Technical challenges in real-time audio and video
+(25:22) Handling high traffic and failures
+(27:54) The buy vs build dilemma
+(28:15) LiveKit's open source and commercial offerings
+(29:34) Scaling and deployment strategies
+(32:51) AI infrastructure challenges
+(37:48) Future of multimodal AI
+(43:52) Vision Pro and AR/VR future
+(47:49) Closing thoughts and contact information</description>
+      <pubDate>Tue, 16 Jul 2024 07:00:00 -0000</pubDate>
+      <itunes:title>How LiveKit is Giving OpenAI's GPT 4.0 Voice in Real-Time with Russell d'Sa, Founder</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/b5b6ec66-4299-11ef-9c34-b3423fc32470/image/91b3dc6608807a492f66f85091a20251.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode of the Autopilot podcast, host Will Summerlin interviews Russell D'Sa, the founder of LiveKit, a company building critical infrastructure for real-time audio and video communication, used by OpenAI to voice ChatGPT.</itunes:subtitle>
+      <itunes:summary>In this episode of the Autopilot podcast, host Will Summerlin interviews Russell D'Sa, the founder of LiveKit, a company building critical infrastructure for real-time audio and video communication, used by OpenAI to voice ChatGPT.
+
+Russ shares his journey from growing up surrounded by technology in Silicon Valley to founding LiveKit, and discusses the complex challenges of delivering reliable, high-quality audio and video at scale. They discuss the future of multimodal interactions and explore how technologies like LiveKit are enabling more natural human-AI interfaces.
+-
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+--
+RECOMMENDED PODCAST:
+🎙️ Unpack Pricing - Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.
+Apple: https://podcasts.apple.com/us/podcast/id1765716600
+Spotify: https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg
+--
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@dsa (Russel)
+
+--
+TIMESTAMPS:
+(00:00:00) Episode Preview
+(01:51) Early career and Silicon Valley influence
+(03:46) First foray into entrepreneurship
+(08:06) Lessons from Y Combinator
+(10:41) Founding LiveKit: The vision and challenges
+(17:01) The role of LiveKit in AI and real-time communication
+(20:41) Technical challenges in real-time audio and video
+(25:22) Handling high traffic and failures
+(27:54) The buy vs build dilemma
+(28:15) LiveKit's open source and commercial offerings
+(29:34) Scaling and deployment strategies
+(32:51) AI infrastructure challenges
+(37:48) Future of multimodal AI
+(43:52) Vision Pro and AR/VR future
+(47:49) Closing thoughts and contact information</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode of the Autopilot podcast, host Will Summerlin interviews Russell D'Sa, the founder of LiveKit, a company building critical infrastructure for real-time audio and video communication, used by OpenAI to voice ChatGPT.</p><p><br></p><p>Russ shares his journey from growing up surrounded by technology in Silicon Valley to founding LiveKit, and discusses the complex challenges of delivering reliable, high-quality audio and video at scale. They discuss the future of multimodal interactions and explore how technologies like LiveKit are enabling more natural human-AI interfaces.</p><p>-</p><p><br></p><p>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj</p><p><br></p><p>--</p><p><strong>RECOMMENDED PODCAST:</strong></p><p>🎙️ <strong>Unpack Pricing </strong>- Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today's biggest companies like Snowflake, Cockroach Labs, Dropbox and more.</p><p>Apple:<a href="https://podcasts.apple.com/us/podcast/id1765716600"> </a><a href="https://podcasts.apple.com/us/podcast/id1765716600">https://podcasts.apple.com/us/podcast/id1765716600</a></p><p>Spotify:<a href="https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg"> </a><a href="https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg">https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFg</a></p><p>--</p><p><br></p><p>X/SOCIAL:</p><p>@WillSummerlinAI (Will)</p><p>@dsa (Russel)</p><p><br></p><p>--</p><p>TIMESTAMPS:</p><p>(00:00:00) Episode Preview</p><p>(01:51) Early career and Silicon Valley influence</p><p>(03:46) First foray into entrepreneurship</p><p>(08:06) Lessons from Y Combinator</p><p>(10:41) Founding LiveKit: The vision and challenges</p><p>(17:01) The role of LiveKit in AI and real-time communication</p><p>(20:41) Technical challenges in real-time audio and video</p><p>(25:22) Handling high traffic and failures</p><p>(27:54) The buy vs build dilemma</p><p>(28:15) LiveKit's open source and commercial offerings</p><p>(29:34) Scaling and deployment strategies</p><p>(32:51) AI infrastructure challenges</p><p>(37:48) Future of multimodal AI</p><p>(43:52) Vision Pro and AR/VR future</p><p>(47:49) Closing thoughts and contact information</p>]]>
+      </content:encoded>
+      <itunes:duration>2974</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[b5b6ec66-4299-11ef-9c34-b3423fc32470]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP1374909063.mp3?updated=1731817365" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>AI-Enabled Medicine: Transforming Patient Care &amp; Mobility w/ Dr. Thomas Fu, Enabled Health's Founder</title>
+      <description>In this episode of the Autopilot Podcast, Will interviews Dr. Thomas Fu, an emergency medicine physician and founder of Enabled Health. Dr. Fu shares how Enabled Health uses AI and computer vision technology to help combat patient deconditioning in hospitals, improving outcomes and efficiency. They discuss the aging population crisis, healthcare staffing shortages, the potential for AI to augment and assist medical professionals, and more.
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+-
+RECOMMENDED PODCAST:
+🎙️ This Won't Last
+Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.
+Apple Podcasts: https://podcasts.apple.com/us/podcast/id1765665937
+Spotify: https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz
+YouTube: https://www.youtube.com/@ThisWontLastpodcast
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+--
+
+LINKS:
+Enabled Health: https://www.enabledhealth.ai/
+Thomas Fu: https://www.linkedin.com/in/thomas-fu-md
+
+X/SOCIAL:
+@WillSummerlinAI (Will)</description>
+      <pubDate>Tue, 09 Jul 2024 07:00:00 -0000</pubDate>
+      <itunes:title>AI-Enabled Medicine: Transforming Patient Care &amp; Mobility w/ Dr. Thomas Fu, Enabled Health's Founder</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/a6b88884-3da1-11ef-8d06-270b776d9cb8/image/17e1f5577cc0f2ef44c123c911050f4a.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode of the Autopilot Podcast, Will interviews Dr. Thomas Fu, an emergency medicine physician and founder of Enabled Health. </itunes:subtitle>
+      <itunes:summary>In this episode of the Autopilot Podcast, Will interviews Dr. Thomas Fu, an emergency medicine physician and founder of Enabled Health. Dr. Fu shares how Enabled Health uses AI and computer vision technology to help combat patient deconditioning in hospitals, improving outcomes and efficiency. They discuss the aging population crisis, healthcare staffing shortages, the potential for AI to augment and assist medical professionals, and more.
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+-
+RECOMMENDED PODCAST:
+🎙️ This Won't Last
+Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.
+Apple Podcasts: https://podcasts.apple.com/us/podcast/id1765665937
+Spotify: https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz
+YouTube: https://www.youtube.com/@ThisWontLastpodcast
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+--
+
+LINKS:
+Enabled Health: https://www.enabledhealth.ai/
+Thomas Fu: https://www.linkedin.com/in/thomas-fu-md
+
+X/SOCIAL:
+@WillSummerlinAI (Will)</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode of the Autopilot Podcast, Will interviews Dr. Thomas Fu, an emergency medicine physician and founder of Enabled Health. Dr. Fu shares how Enabled Health uses AI and computer vision technology to help combat patient deconditioning in hospitals, improving outcomes and efficiency. They discuss the aging population crisis, healthcare staffing shortages, the potential for AI to augment and assist medical professionals, and more.</p><p><br></p><p>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj</p><p><br></p><p>-</p><p><strong>RECOMMENDED PODCAST:</strong></p><p><strong>🎙️ This Won't Last</strong></p><p>Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.</p><p>Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/id1765665937">https://podcasts.apple.com/us/podcast/id1765665937</a></p><p>Spotify: <a href="https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz">https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz</a></p><p>YouTube: <a href="https://www.youtube.com/@ThisWontLastpodcast">https://www.youtube.com/@ThisWontLastpodcast</a></p><p>-</p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p>--</p><p><br></p><p>LINKS:</p><p>Enabled Health: https://www.enabledhealth.ai/</p><p>Thomas Fu: https://www.linkedin.com/in/thomas-fu-md</p><p><br></p><p>X/SOCIAL:</p><p>@WillSummerlinAI (Will)</p>]]>
+      </content:encoded>
+      <itunes:duration>2984</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[a6b88884-3da1-11ef-8d06-270b776d9cb8]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP7398456980.mp3?updated=1725954667" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Powering AI: Energy Bottlenecks, Hyperscalers, &amp; AGI w/ Freda Duan, Principal at Altimeter Capital</title>
+      <description>In this episode, Will sits down with Freda Duan, investor at Altimeter Capital. They explore critical topics such as the energy bottlenecks in AI development, the future of AGI and ways in which we may have already achieved it today, and the future role of AI agents. Freda also discusses the capital expenditure trends among big tech companies and the nuanced competition between open source and closed source models.
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+-
+RECOMMENDED PODCAST:
+🎙️ This Won't Last
+Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.
+Apple Podcasts: https://podcasts.apple.com/us/podcast/id1765665937
+Spotify: https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz
+YouTube: https://www.youtube.com/@ThisWontLastpodcast
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+--
+LINKS:
+ https://x.com/fredaduan
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@fredaduan (Freda)
+
+TIMESTAMPS:
+(00:02:32) Energy consumption in AI data centres
+(00:05:20) Challenges and solutions for energy supply
+(00:09:00) Cooling and infrastructure innovations
+(00:12:10) CapEx and ROI in AI development
+(00:20:22) Open source vs closed source models
+(00:25:21) The rise of XAI and smaller models
+(00:27:35) Economic risks and historical parallels
+(00:29:54) Investment cycles and AI's future impact
+(00:36:13) The AI agent revolution
+(00:38:16) Debating AGI and its implications
+(00:48:15) The future of AI-driven industries</description>
+      <pubDate>Tue, 18 Jun 2024 07:14:00 -0000</pubDate>
+      <itunes:title>Powering AI: Energy Bottlenecks, Hyperscalers, &amp; AGI w/ Freda Duan, Principal at Altimeter Capital</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/934a9584-2d3f-11ef-9a80-cf2519a0b276/image/38908b571fdec6b6eb0a2aac8ae62ac4.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>In this episode, Will sits down with Freda Duan, investor at Altimeter Capital. They explore critical topics such as the energy bottlenecks in AI development, the future of AGI and ways in which we may have already achieved it today, and the future role of AI agents. Freda also discusses the capital expenditure trends among big tech companies and the nuanced competition between open source and closed source models.
+
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+-
+RECOMMENDED PODCAST:
+🎙️ This Won't Last
+Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.
+Apple Podcasts: https://podcasts.apple.com/us/podcast/id1765665937
+Spotify: https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz
+YouTube: https://www.youtube.com/@ThisWontLastpodcast
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+--
+LINKS:
+ https://x.com/fredaduan
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@fredaduan (Freda)
+
+TIMESTAMPS:
+(00:02:32) Energy consumption in AI data centres
+(00:05:20) Challenges and solutions for energy supply
+(00:09:00) Cooling and infrastructure innovations
+(00:12:10) CapEx and ROI in AI development
+(00:20:22) Open source vs closed source models
+(00:25:21) The rise of XAI and smaller models
+(00:27:35) Economic risks and historical parallels
+(00:29:54) Investment cycles and AI's future impact
+(00:36:13) The AI agent revolution
+(00:38:16) Debating AGI and its implications
+(00:48:15) The future of AI-driven industries</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Will sits down with Freda Duan, investor at Altimeter Capital. They explore critical topics such as the energy bottlenecks in AI development, the future of AGI and ways in which we may have already achieved it today, and the future role of AI agents. Freda also discusses the capital expenditure trends among big tech companies and the nuanced competition between open source and closed source models.</p><p><br></p><p><strong>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: </strong><a href="https://hmplogxqz0y.typeform.com/to/JCkphVqj"><strong>https://hmplogxqz0y.typeform.com/to/JCkphVqj</strong></a></p><p><br></p><p>-</p><p><strong>RECOMMENDED PODCAST:</strong></p><p><strong>🎙️ This Won't Last</strong></p><p>Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.</p><p>Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/id1765665937">https://podcasts.apple.com/us/podcast/id1765665937</a></p><p>Spotify: <a href="https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz">https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz</a></p><p>YouTube: <a href="https://www.youtube.com/@ThisWontLastpodcast">https://www.youtube.com/@ThisWontLastpodcast</a></p><p>-</p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p>--</p><p>LINKS:</p><p><a href="%20https://x.com/fredaduan"> https://x.com/fredaduan</a></p><p><br></p><p>X/SOCIAL:</p><p>@WillSummerlinAI (Will)</p><p>@fredaduan (Freda)</p><p><br></p><p>TIMESTAMPS:</p><p>(00:02:32) Energy consumption in AI data centres</p><p>(00:05:20) Challenges and solutions for energy supply</p><p>(00:09:00) Cooling and infrastructure innovations</p><p>(00:12:10) CapEx and ROI in AI development</p><p>(00:20:22) Open source vs closed source models</p><p>(00:25:21) The rise of XAI and smaller models</p><p>(00:27:35) Economic risks and historical parallels</p><p>(00:29:54) Investment cycles and AI's future impact</p><p>(00:36:13) The AI agent revolution</p><p>(00:38:16) Debating AGI and its implications</p><p>(00:48:15) The future of AI-driven industries</p>]]>
+      </content:encoded>
+      <itunes:duration>3106</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[934a9584-2d3f-11ef-9a80-cf2519a0b276]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP3932994090.mp3?updated=1725954681" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Cutting Edge of Diffusion and Democratizing AI Video Generation with Paras Jain, CEO of Genmo AI</title>
+      <description>In this conversation, Will sits down with Paras Jain, co-founder and CEO of Genmo. They dive into the frontier of AI video generation powered by diffusion models and his unconventional path from self-driving cars to rapidly scaling a lean startup to 1 million global users generating videos from text. Jain shares technical breakthroughs, counterintuitive challenges, the future of personalized AI video content, the implications of deepfakes, and the role of open-sourcing video generation AI. 
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+RECOMMENDED PODCAST:
+🎙️ This Won't Last
+Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.
+Apple Podcasts: https://podcasts.apple.com/us/podcast/id1765665937
+Spotify: https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz
+YouTube: https://www.youtube.com/@ThisWontLastpodcast
+-
+
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+-
+LINKS:
+https://www.genmo.ai/
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@_parasj (Paras)
+
+TIMESTAMPS:
+(00:00:00) Episode preview
+(00:01:40) Deep dive with Paras: From self-driving cars to AI startups
+(00:06:27) Exploring the evolution of large language models
+(00:10:08) The genesis of Genmo: Democratizing video creation
+(00:11:20) Demystifying diffusion models 
+(00:19:44) The future of open source vs. closed source AI models
+(00:22:47) The real costs of AI-generated video
+(00:25:29) Real-time image generation and video challenges
+(00:25:50) Optimizing diffusion models for efficiency
+(00:27:11) Exploring use cases: From social media to e-commerce
+(00:29:11) The future of video generation technology
+(00:33:48) Addressing the deepfake dilemma
+(00:38:42) Global reach and language support
+(00:44:30) The power of a small, focused team
+(00:50:31) Closing thoughts and advice for AI entrepreneurs</description>
+      <pubDate>Fri, 24 May 2024 19:14:00 -0000</pubDate>
+      <itunes:title>The Cutting Edge of Diffusion and Democratizing AI Video Generation with Paras Jain, CEO of Genmo AI</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/5a344eaa-19c8-11ef-94fa-e71179fc8762/image/02865e72f64f2319f572eb8c126890ef.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this conversation, Will sits down with Paras Jain, co-founder and CEO of Genmo AI. They dive into AI video generation, diffusion, his path from self-driving cars to rapidly scaling Genmo to 1 million global users with six employees, the future of personalized AI video content, and more.</itunes:subtitle>
+      <itunes:summary>In this conversation, Will sits down with Paras Jain, co-founder and CEO of Genmo. They dive into the frontier of AI video generation powered by diffusion models and his unconventional path from self-driving cars to rapidly scaling a lean startup to 1 million global users generating videos from text. Jain shares technical breakthroughs, counterintuitive challenges, the future of personalized AI video content, the implications of deepfakes, and the role of open-sourcing video generation AI. 
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+RECOMMENDED PODCAST:
+🎙️ This Won't Last
+Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.
+Apple Podcasts: https://podcasts.apple.com/us/podcast/id1765665937
+Spotify: https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz
+YouTube: https://www.youtube.com/@ThisWontLastpodcast
+-
+
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+-
+LINKS:
+https://www.genmo.ai/
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@_parasj (Paras)
+
+TIMESTAMPS:
+(00:00:00) Episode preview
+(00:01:40) Deep dive with Paras: From self-driving cars to AI startups
+(00:06:27) Exploring the evolution of large language models
+(00:10:08) The genesis of Genmo: Democratizing video creation
+(00:11:20) Demystifying diffusion models 
+(00:19:44) The future of open source vs. closed source AI models
+(00:22:47) The real costs of AI-generated video
+(00:25:29) Real-time image generation and video challenges
+(00:25:50) Optimizing diffusion models for efficiency
+(00:27:11) Exploring use cases: From social media to e-commerce
+(00:29:11) The future of video generation technology
+(00:33:48) Addressing the deepfake dilemma
+(00:38:42) Global reach and language support
+(00:44:30) The power of a small, focused team
+(00:50:31) Closing thoughts and advice for AI entrepreneurs</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this conversation, Will sits down with Paras Jain, co-founder and CEO of Genmo. They dive into the frontier of AI video generation powered by diffusion models and his unconventional path from self-driving cars to rapidly scaling a lean startup to 1 million global users generating videos from text. Jain shares technical breakthroughs, counterintuitive challenges, the future of personalized AI video content, the implications of deepfakes, and the role of open-sourcing video generation AI. </p><p><strong>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: </strong><a href="https://hmplogxqz0y.typeform.com/to/JCkphVqj"><strong>https://hmplogxqz0y.typeform.com/to/JCkphVqj</strong></a></p><p><br></p><p><strong>RECOMMENDED PODCAST:</strong></p><p><strong>🎙️ This Won't Last</strong></p><p>Eavesdrop on Keith Rabois, Kevin Ryan, Logan Bartlett, and Zach Weinberg's monthly backchannel. They unpack their hottest takes on the future of tech, business, venture, investing, and politics.</p><p>Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/id1765665937">https://podcasts.apple.com/us/podcast/id1765665937</a></p><p>Spotify: <a href="https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz">https://open.spotify.com/show/2HwSNeVLL1MXy0RjFPyOSz</a></p><p>YouTube: <a href="https://www.youtube.com/@ThisWontLastpodcast">https://www.youtube.com/@ThisWontLastpodcast</a></p><p>-</p><p><br></p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p>-</p><p>LINKS:</p><p><a href="https://www.genmo.ai/">https://www.genmo.ai/</a></p><p><br></p><p>X/SOCIAL:</p><p>@WillSummerlinAI (Will)</p><p>@_parasj (Paras)</p><p><br></p><p>TIMESTAMPS:</p><p>(00:00:00) Episode preview</p><p>(00:01:40) Deep dive with Paras: From self-driving cars to AI startups</p><p>(00:06:27) Exploring the evolution of large language models</p><p>(00:10:08) The genesis of Genmo: Democratizing video creation</p><p>(00:11:20) Demystifying diffusion models </p><p>(00:19:44) The future of open source vs. closed source AI models</p><p>(00:22:47) The real costs of AI-generated video</p><p>(00:25:29) Real-time image generation and video challenges</p><p>(00:25:50) Optimizing diffusion models for efficiency</p><p>(00:27:11) Exploring use cases: From social media to e-commerce</p><p>(00:29:11) The future of video generation technology</p><p>(00:33:48) Addressing the deepfake dilemma</p><p>(00:38:42) Global reach and language support</p><p>(00:44:30) The power of a small, focused team</p><p>(00:50:31) Closing thoughts and advice for AI entrepreneurs</p>]]>
+      </content:encoded>
+      <itunes:duration>3151</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[5a344eaa-19c8-11ef-94fa-e71179fc8762]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP1925619149.mp3?updated=1725954693" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Building AI Infrastructure with Benchmark-backed Fireworks AI Co-Founder Lin Qiao</title>
+      <link>https://apv.vc/</link>
+      <description>In this episode, Will Summerlin is joined by Lin Qiao who shares her journey from leading the PyTorch team at Meta to founding Fireworks, a company focused on specialized, customized AI models for enterprise companies and startups. They explore the challenges of training and inference costs in building AI infrastructure, the potential of multimodal models, and the strategic shift from 'one model fits all' to a diverse set of specialized models. They also cover how to think about efficiency in model deployment, the advantages of open-source vs. closed-source and why her philosophy is opposite to OpenAI's.
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+RECOMMENDED PODCAST:
+🎙️ Second Opinion - A new podcast for health-tech insiders from Christina Farr of the Second Opinion newsletter. Join Christina Farr, Luba Greenwood, and Ash Zenooz every week as they challenge industry experts with tough questions about the best bets in health-tech.
+Apple Podcasts: https://podcasts.apple.com/us/podcast/id1759267211
+Spotify: https://open.spotify.com/show/0A8NwQE976s32zdBbZw6bv
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+--
+
+LINKS:
+https://fireworks.ai/
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@lqiao (Lin)
+
+TIMESTAMPS:
+(00:00) Preview and Intro
+(02:22) From Meta to Building Fireworks AI
+(04:29) Challenges and Innovations in AI at Scale
+(06:53) Navigating the Tidal Wave of Generative AI
+(08:27) The Evolution from Large to Specialized Models
+(16:30) Open Source vs. Closed Source
+(31:33) Optimizing AI from Training to Inference Costs
+(37:54) The Future of Customization
+(44:48) Customer Obsession
+(46:20) Wrap</description>
+      <pubDate>Fri, 03 May 2024 07:00:00 -0000</pubDate>
+      <itunes:title>Building AI Infrastructure with Benchmark-backed Fireworks AI Co-Founder Lin Qiao</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/b0c012a4-091a-11ef-aafd-1b9710bdac7f/image/e01d8cd12c0cf58f9b52a3f4b46c5e17.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode, Will Summerlin is joined by Lin Qiao who shares her journey from leading the PyTorch team at Meta to founding Fireworks, a company focused on specialized, customized AI models for enterprise companies and startups. They explore the challenges of training and inference costs in building AI infrastructure, the potential of multimodal models, and the strategic shift from 'one model fits all' to a diverse set of specialized models. They also cover how to think about efficiency in model deployment, the advantages of open-source vs. closed-source and why her philosophy is opposite to OpenAI's.</itunes:subtitle>
+      <itunes:summary>In this episode, Will Summerlin is joined by Lin Qiao who shares her journey from leading the PyTorch team at Meta to founding Fireworks, a company focused on specialized, customized AI models for enterprise companies and startups. They explore the challenges of training and inference costs in building AI infrastructure, the potential of multimodal models, and the strategic shift from 'one model fits all' to a diverse set of specialized models. They also cover how to think about efficiency in model deployment, the advantages of open-source vs. closed-source and why her philosophy is opposite to OpenAI's.
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+RECOMMENDED PODCAST:
+🎙️ Second Opinion - A new podcast for health-tech insiders from Christina Farr of the Second Opinion newsletter. Join Christina Farr, Luba Greenwood, and Ash Zenooz every week as they challenge industry experts with tough questions about the best bets in health-tech.
+Apple Podcasts: https://podcasts.apple.com/us/podcast/id1759267211
+Spotify: https://open.spotify.com/show/0A8NwQE976s32zdBbZw6bv
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+--
+
+LINKS:
+https://fireworks.ai/
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@lqiao (Lin)
+
+TIMESTAMPS:
+(00:00) Preview and Intro
+(02:22) From Meta to Building Fireworks AI
+(04:29) Challenges and Innovations in AI at Scale
+(06:53) Navigating the Tidal Wave of Generative AI
+(08:27) The Evolution from Large to Specialized Models
+(16:30) Open Source vs. Closed Source
+(31:33) Optimizing AI from Training to Inference Costs
+(37:54) The Future of Customization
+(44:48) Customer Obsession
+(46:20) Wrap</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Will Summerlin is joined by Lin Qiao who shares her journey from leading the PyTorch team at Meta to founding Fireworks, a company focused on specialized, customized AI models for enterprise companies and startups. They explore the challenges of training and inference costs in building AI infrastructure, the potential of multimodal models, and the strategic shift from 'one model fits all' to a diverse set of specialized models. They also cover how to think about efficiency in model deployment, the advantages of open-source vs. closed-source and why her philosophy is opposite to OpenAI's.</p><p><strong>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: </strong><a href="https://hmplogxqz0y.typeform.com/to/JCkphVqj"><strong>https://hmplogxqz0y.typeform.com/to/JCkphVqj</strong></a></p><p><br></p><p><strong>RECOMMENDED PODCAST:</strong></p><p>🎙️ <strong>Second Opinion</strong> - A new podcast for health-tech insiders from Christina Farr of the Second Opinion newsletter. Join Christina Farr, Luba Greenwood, and Ash Zenooz every week as they challenge industry experts with tough questions about the best bets in health-tech.</p><p><strong>Apple Podcasts</strong>:<a href="https://podcasts.apple.com/us/podcast/id1759267211"> https://podcasts.apple.com/us/podcast/id1759267211</a></p><p><strong>Spotify:</strong><a href="https://open.spotify.com/show/0A8NwQE976s32zdBbZw6bv"><strong> </strong>https://open.spotify.com/show/0A8NwQE976s32zdBbZw6bv</a></p><p>-</p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p>--</p><p><br></p><p>LINKS:</p><p><a href="https://fireworks.ai/">https://fireworks.ai/</a></p><p><br></p><p>X/SOCIAL:</p><p>@WillSummerlinAI (Will)</p><p>@lqiao (Lin)</p><p><br></p><p>TIMESTAMPS:</p><p>(00:00) Preview and Intro</p><p>(02:22) From Meta to Building Fireworks AI</p><p>(04:29) Challenges and Innovations in AI at Scale</p><p>(06:53) Navigating the Tidal Wave of Generative AI</p><p>(08:27) The Evolution from Large to Specialized Models</p><p>(16:30) Open Source vs. Closed Source</p><p>(31:33) Optimizing AI from Training to Inference Costs</p><p>(37:54) The Future of Customization</p><p>(44:48) Customer Obsession</p><p>(46:20) Wrap</p>]]>
+      </content:encoded>
+      <itunes:duration>2840</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[b0c012a4-091a-11ef-aafd-1b9710bdac7f]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP8676427818.mp3?updated=1723482003" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How AI is Powering Defense, ISR, and the Military Tech Stack with Modern Intelligence's CEO, John Dulin</title>
+      <link>https://www.podpage.com/autopilot</link>
+      <description>In this episode of Autopilot with Will Summerlin, Modern Intelligence CEO John Dulin discusses the vital role of AI for the future of U.S. military defense and intelligence. He dives into challenges like integrating AI with legacy systems, his contrarian vision for building the foundational AI platform for national security, initiatives like JADC2 and scaling human ISR analysts with AI. John also shares his journey from physics to machine learning at GRAIL before starting Modern, compares U.S. and Chinese AI progress, selling software to the DoD, and his priorities if he was President for leading in military AI. A must-watch for anyone interested in AI's impact on national security.
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+This show is a part of the Turpentine podcast network. Learn more: www.turpentine.co
+
+RECOMMENDED PODCAST:
+Patrick McKenzie (@patio11) talks to experts who understand the complicated but not unknowable systems we rely on. You might be surprised at how quickly Patrick and his guests can put you in the top 1% of understanding for stock trading, tech hiring, and more.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+LINKS:
+https://www.modernintelligence.ai/
+
+X/SOCIAL:
+@WillSummerlinAI
+@JohnDDulin
+
+TIMESTAMPS:
+(00:00:00) - The vision for AI in defense
+(00:01:28) - Introducing Autopilot: The AI and Automation Podcast
+(00:02:03) - Guest introduction: John's journey to founding Modern
+(00:02:26) - From biotech to defense: A founder's path
+(00:05:29) - The evolution of defense tech and AI's role
+(00:06:26) - The challenges and opportunities in defense AI
+(00:15:33) - Building the future of ISR with AI
+(00:35:12) - Navigating the defense industry: Insights and advice
+(00:43:43) - Visionary leadership: Transforming defense with AI
+(00:49:44) - Closing thoughts and how to connect
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</description>
+      <pubDate>Fri, 26 Apr 2024 07:00:00 -0000</pubDate>
+      <itunes:title>How AI is Powering Defense, ISR, and the Military Tech Stack with Modern Intelligence's CEO, John Dulin</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c1f1e510-038a-11ef-a152-ab41d4be160b/image/e667f3c1285a3fcda9dbe37b9bc6cad3.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode of Autopilot with Will Summerlin, Modern Intelligence CEO John Dulin discusses the vital role of AI for the future of U.S. military defense and intelligence.</itunes:subtitle>
+      <itunes:summary>In this episode of Autopilot with Will Summerlin, Modern Intelligence CEO John Dulin discusses the vital role of AI for the future of U.S. military defense and intelligence. He dives into challenges like integrating AI with legacy systems, his contrarian vision for building the foundational AI platform for national security, initiatives like JADC2 and scaling human ISR analysts with AI. John also shares his journey from physics to machine learning at GRAIL before starting Modern, compares U.S. and Chinese AI progress, selling software to the DoD, and his priorities if he was President for leading in military AI. A must-watch for anyone interested in AI's impact on national security.
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+This show is a part of the Turpentine podcast network. Learn more: www.turpentine.co
+
+RECOMMENDED PODCAST:
+Patrick McKenzie (@patio11) talks to experts who understand the complicated but not unknowable systems we rely on. You might be surprised at how quickly Patrick and his guests can put you in the top 1% of understanding for stock trading, tech hiring, and more.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+LINKS:
+https://www.modernintelligence.ai/
+
+X/SOCIAL:
+@WillSummerlinAI
+@JohnDDulin
+
+TIMESTAMPS:
+(00:00:00) - The vision for AI in defense
+(00:01:28) - Introducing Autopilot: The AI and Automation Podcast
+(00:02:03) - Guest introduction: John's journey to founding Modern
+(00:02:26) - From biotech to defense: A founder's path
+(00:05:29) - The evolution of defense tech and AI's role
+(00:06:26) - The challenges and opportunities in defense AI
+(00:15:33) - Building the future of ISR with AI
+(00:35:12) - Navigating the defense industry: Insights and advice
+(00:43:43) - Visionary leadership: Transforming defense with AI
+(00:49:44) - Closing thoughts and how to connect
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode of Autopilot with Will Summerlin, Modern Intelligence CEO John Dulin discusses the vital role of AI for the future of U.S. military defense and intelligence. He dives into challenges like integrating AI with legacy systems, his contrarian vision for building the foundational AI platform for national security, initiatives like JADC2 and scaling human ISR analysts with AI. John also shares his journey from physics to machine learning at GRAIL before starting Modern, compares U.S. and Chinese AI progress, selling software to the DoD, and his priorities if he was President for leading in military AI. A must-watch for anyone interested in AI's impact on national security.</p><p><strong>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: </strong><a href="https://hmplogxqz0y.typeform.com/to/JCkphVqj"><strong>https://hmplogxqz0y.typeform.com/to/JCkphVqj</strong></a></p><p><br></p><p>This show is a part of the Turpentine podcast network. Learn more: www.turpentine.co</p><p><br></p><p><strong>RECOMMENDED PODCAST:</strong></p><p>Patrick McKenzie (@patio11) talks to experts who understand the complicated but not unknowable systems we rely on. You might be surprised at how quickly Patrick and his guests can put you in the top 1% of understanding for stock trading, tech hiring, and more.</p><p><a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">Spotify</a>: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p><a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">Apple</a>: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p>-</p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p>LINKS:</p><p><a href="https://www.modernintelligence.ai/">https://www.modernintelligence.ai/</a></p><p><br></p><p>X/SOCIAL:</p><p>@WillSummerlinAI</p><p>@JohnDDulin</p><p><br></p><p>TIMESTAMPS:</p><p>(00:00:00) - The vision for AI in defense</p><p>(00:01:28) - Introducing Autopilot: The AI and Automation Podcast</p><p>(00:02:03) - Guest introduction: John's journey to founding Modern</p><p>(00:02:26) - From biotech to defense: A founder's path</p><p>(00:05:29) - The evolution of defense tech and AI's role</p><p>(00:06:26) - The challenges and opportunities in defense AI</p><p>(00:15:33) - Building the future of ISR with AI</p><p>(00:35:12) - Navigating the defense industry: Insights and advice</p><p>(00:43:43) - Visionary leadership: Transforming defense with AI</p><p>(00:49:44) - Closing thoughts and how to connect</p><p><br></p><p>--</p><p><strong>Recommended Podcast: Company Breakdowns</strong></p><p>Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,</p><p><a href="https://open.spotify.com/show/0epyYBAxLeF0PsNagdDJAJ">Spotify</a></p><p><a href="https://podcasts.apple.com/us/podcast/company-breakdowns/id1743119197">Apple</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3068</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c1f1e510-038a-11ef-a152-ab41d4be160b]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP5889264550.mp3?updated=1723481986" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>AI for Creators: Automating Engagement Between Creators &amp; Fans with Maggie Sin of MyCompanions.ai</title>
+      <link>https://www.podpage.com/autopilot</link>
+      <description>In this episode, Will sits down with Maggie Sin, the CEO and Co-founder of MyCompanions.ai. She shares her journey from being an influencer to leveraging AI to address the pain points in fan engagement and monetization, ethical considerations, how current engagements are being outsourced to the Philippines, mental health and the loneliness pandemic, and more. 
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+This show is a part of the Turpentine podcast network. Learn more: www.turpentine.co
+
+RECOMMENDED PODCAST: 
+The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. 
+Spotify: https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO
+Apple: https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@MaggieSin (Maggie)
+@MyCompanionsAI
+@TurpentineMedia
+
+LINKS
+https://mycompanions.ai/
+
+TIMESTAMPS:
+(00:00) Exploring the creator economy and AI's role
+(01:07) Welcome to Autopilot: The AI and Automation Podcast
+(01:54) Maggie's journey: From influencer to AI entrepreneur
+(04:07) The evolution of social media and creator-fan interaction
+(06:30) Current state of engagements being outsourced to Philippines
+(11:42) The future of AI in enhancing creator-fan engagement
+(19:15) Voice and video: The next frontier in AI interaction
+(32:06) The mental health debate: AI's impact on social media addiction and loneliness
+(35:37) Closing thoughts and where to find more
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</description>
+      <pubDate>Thu, 18 Apr 2024 07:00:00 -0000</pubDate>
+      <itunes:title>AI for Creators: Automating Engagement Between Creators &amp; Fans with Maggie Sin of MyCompanions.ai</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/589871da-fd34-11ee-a394-bf449cf1899d/image/c870c5f53dea6222f6dd9383cc693747.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode, Will sits down with Maggie Sin, the CEO and Co-founder of MyCompanions.ai. </itunes:subtitle>
+      <itunes:summary>In this episode, Will sits down with Maggie Sin, the CEO and Co-founder of MyCompanions.ai. She shares her journey from being an influencer to leveraging AI to address the pain points in fan engagement and monetization, ethical considerations, how current engagements are being outsourced to the Philippines, mental health and the loneliness pandemic, and more. 
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+This show is a part of the Turpentine podcast network. Learn more: www.turpentine.co
+
+RECOMMENDED PODCAST: 
+The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. 
+Spotify: https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO
+Apple: https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+X/SOCIAL:
+@WillSummerlinAI (Will)
+@MaggieSin (Maggie)
+@MyCompanionsAI
+@TurpentineMedia
+
+LINKS
+https://mycompanions.ai/
+
+TIMESTAMPS:
+(00:00) Exploring the creator economy and AI's role
+(01:07) Welcome to Autopilot: The AI and Automation Podcast
+(01:54) Maggie's journey: From influencer to AI entrepreneur
+(04:07) The evolution of social media and creator-fan interaction
+(06:30) Current state of engagements being outsourced to Philippines
+(11:42) The future of AI in enhancing creator-fan engagement
+(19:15) Voice and video: The next frontier in AI interaction
+(32:06) The mental health debate: AI's impact on social media addiction and loneliness
+(35:37) Closing thoughts and where to find more
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Will sits down with Maggie Sin, the CEO and Co-founder of MyCompanions.ai. She shares her journey from being an influencer to leveraging AI to address the pain points in fan engagement and monetization, ethical considerations, how current engagements are being outsourced to the Philippines, mental health and the loneliness pandemic, and more. </p><p><strong>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: </strong><a href="https://hmplogxqz0y.typeform.com/to/JCkphVqj"><strong>https://hmplogxqz0y.typeform.com/to/JCkphVqj</strong></a></p><p><br></p><p>This show is a part of the Turpentine podcast network. Learn more: <a href="www.turpentine.co">www.turpentine.co</a></p><p><br></p><h2><strong>RECOMMENDED PODCAST: </strong></h2><p>The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. </p><p>Spotify: <a href="https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO">https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO</a></p><p>Apple: <a href="https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614">https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614</a></p><p>-</p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p><strong>X/SOCIAL:</strong></p><p>@WillSummerlinAI (Will)</p><p>@MaggieSin (Maggie)</p><p>@MyCompanionsAI</p><p>@TurpentineMedia</p><p><br></p><p><strong>LINKS</strong></p><p><a href="https://mycompanions.ai/"><strong>https://mycompanions.ai/</strong></a></p><p><br></p><p><strong>TIMESTAMPS:</strong></p><p>(00:00) Exploring the creator economy and AI's role</p><p>(01:07) Welcome to Autopilot: The AI and Automation Podcast</p><p>(01:54) Maggie's journey: From influencer to AI entrepreneur</p><p>(04:07) The evolution of social media and creator-fan interaction</p><p>(06:30) Current state of engagements being outsourced to Philippines</p><p>(11:42) The future of AI in enhancing creator-fan engagement</p><p>(19:15) Voice and video: The next frontier in AI interaction</p><p>(32:06) The mental health debate: AI's impact on social media addiction and loneliness</p><p>(35:37) Closing thoughts and where to find more</p><p><br></p><p>--</p><p><strong>Recommended Podcast: Company Breakdowns</strong></p><p>Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,</p><p><a href="https://open.spotify.com/show/0epyYBAxLeF0PsNagdDJAJ">Spotify</a></p><p><a href="https://podcasts.apple.com/us/podcast/company-breakdowns/id1743119197">Apple</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2200</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[589871da-fd34-11ee-a394-bf449cf1899d]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP6915460174.mp3?updated=1723481976" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>AI for In-House Legal Teams: Streamlining Research with Responsiv's CEO Jordan Domash</title>
+      <link>https://www.podpage.com/autopilot</link>
+      <description>In this episode, Will interviews Jordan Domash, Cofounder and CEO of Responsiv AI. They discuss Responsiv’s data advantage, the use of AI in legal 15 years ago to now, document relevancy classification before AI, how Responsiv helps accelerate research for in-house legal teams, and much more.
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+This show is a part of the Turpentine podcast network. Learn more: www.turpentine.co
+
+RECOMMENDED PODCAST: 
+The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. 
+Spotify: https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO
+Apple: https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+LINKS
+https://responsiv.ai/
+
+X/SOCIAL:
+https://twitter.com/WSummerlinAI
+https://www.linkedin.com/in/jordandomash
+https://www.linkedin.com/company/responsiv-ai/
+
+CONTACT:
+jordan@responsiv.ai
+
+TIMESTAMPS:
+(00:00) Welcome
+(00:35) Jordan’s Background
+(01:15) E-discovery for Legal Tech
+(02:07) Relativity’s Customer Base
+(02:56) Comparing the use of AI 15 years ago from now
+(04:57) Document relevancy classification before AI
+(06:01) Why are companies hesitant to adopt e-discovery?
+(10:46) Driving the 30% increase in legal spend
+(13:55) How companies spend legal budgets between internal legal teams and external law firms
+(15:49) What problem is Responsiv trying to solve?
+(18:06) Case studies with Responsiv
+(22:04) How Responsiv differs from ChatGPT or Perplexity
+(23:42) High stakes situation
+(24:04) Responsiv’s data advantage
+(25:18) What’s under the hood for Responsiv
+(26:48) Hallucinations in legal AI
+(28:17) How do you get customers comfortable with using legal AI
+(29:40) Will Responsiv be the standard in legal?
+(32:13) Data advantage for a winner take all situation
+(33:47) GTM Strategy and Responsiv’s Client
+(36:04) The ROI of Responsiv vs using outside counsel
+(33:47) Incentive structure within law firms
+(43:42) AI Landscape: will GPT become vertical?
+(44:58) Advice Jordan would give to himself earlier in the founder journey
+(47:22) Advice for selling into legal
+(51:03) Wrap
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</description>
+      <pubDate>Wed, 10 Apr 2024 07:00:00 -0000</pubDate>
+      <itunes:title>AI for In-House Legal Teams: Streamlining Research with Responsiv's CEO Jordan Domash</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/5a44cad6-f6f1-11ee-a1ff-5359c93352ea/image/c5bd0a17822618a4468660819231a1ad.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode, Will interviews Jordan Domash, Cofounder and CEO of Responsiv AI.</itunes:subtitle>
+      <itunes:summary>In this episode, Will interviews Jordan Domash, Cofounder and CEO of Responsiv AI. They discuss Responsiv’s data advantage, the use of AI in legal 15 years ago to now, document relevancy classification before AI, how Responsiv helps accelerate research for in-house legal teams, and much more.
+🔥 Apply to join over 400 founders and Execs in the Turpentine Network: https://hmplogxqz0y.typeform.com/to/JCkphVqj
+
+This show is a part of the Turpentine podcast network. Learn more: www.turpentine.co
+
+RECOMMENDED PODCAST: 
+The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. 
+Spotify: https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO
+Apple: https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+LINKS
+https://responsiv.ai/
+
+X/SOCIAL:
+https://twitter.com/WSummerlinAI
+https://www.linkedin.com/in/jordandomash
+https://www.linkedin.com/company/responsiv-ai/
+
+CONTACT:
+jordan@responsiv.ai
+
+TIMESTAMPS:
+(00:00) Welcome
+(00:35) Jordan’s Background
+(01:15) E-discovery for Legal Tech
+(02:07) Relativity’s Customer Base
+(02:56) Comparing the use of AI 15 years ago from now
+(04:57) Document relevancy classification before AI
+(06:01) Why are companies hesitant to adopt e-discovery?
+(10:46) Driving the 30% increase in legal spend
+(13:55) How companies spend legal budgets between internal legal teams and external law firms
+(15:49) What problem is Responsiv trying to solve?
+(18:06) Case studies with Responsiv
+(22:04) How Responsiv differs from ChatGPT or Perplexity
+(23:42) High stakes situation
+(24:04) Responsiv’s data advantage
+(25:18) What’s under the hood for Responsiv
+(26:48) Hallucinations in legal AI
+(28:17) How do you get customers comfortable with using legal AI
+(29:40) Will Responsiv be the standard in legal?
+(32:13) Data advantage for a winner take all situation
+(33:47) GTM Strategy and Responsiv’s Client
+(36:04) The ROI of Responsiv vs using outside counsel
+(33:47) Incentive structure within law firms
+(43:42) AI Landscape: will GPT become vertical?
+(44:58) Advice Jordan would give to himself earlier in the founder journey
+(47:22) Advice for selling into legal
+(51:03) Wrap
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Will interviews Jordan Domash, Cofounder and CEO of Responsiv AI. They discuss Responsiv’s data advantage, the use of AI in legal 15 years ago to now, document relevancy classification before AI, how Responsiv helps accelerate research for in-house legal teams, and much more.</p><p><strong>🔥 Apply to join over 400 founders and Execs in the Turpentine Network: </strong><a href="https://hmplogxqz0y.typeform.com/to/JCkphVqj"><strong>https://hmplogxqz0y.typeform.com/to/JCkphVqj</strong></a></p><p><br></p><p>This show is a part of the Turpentine podcast network. Learn more: www.turpentine.co</p><p><br></p><h2><strong>RECOMMENDED PODCAST: </strong></h2><p>The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. </p><p>Spotify: <a href="https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO">https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO</a></p><p>Apple: <a href="https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614">https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614</a></p><p>-</p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p><strong>LINKS</strong></p><p><a href="https://responsiv.ai/">https://responsiv.ai/</a></p><p><br></p><p><strong>X/SOCIAL:</strong></p><p><a href="https://twitter.com/WSummerlinAI">https://twitter.com/WSummerlinAI</a></p><p><a href="https://www.linkedin.com/in/jordandomash">https://www.linkedin.com/in/jordandomash</a></p><p><a href="https://www.linkedin.com/company/responsiv-ai/">https://www.linkedin.com/company/responsiv-ai/</a></p><p><br></p><p><strong>CONTACT:</strong></p><p><a href="mailto:jordan@responsiv.ai">jordan@responsiv.ai</a></p><p><br></p><p><strong>TIMESTAMPS:</strong></p><p>(00:00) Welcome</p><p>(00:35) Jordan’s Background</p><p>(01:15) E-discovery for Legal Tech</p><p>(02:07) Relativity’s Customer Base</p><p>(02:56) Comparing the use of AI 15 years ago from now</p><p>(04:57) Document relevancy classification before AI</p><p>(06:01) Why are companies hesitant to adopt e-discovery?</p><p>(10:46) Driving the 30% increase in legal spend</p><p>(13:55) How companies spend legal budgets between internal legal teams and external law firms</p><p>(15:49) What problem is Responsiv trying to solve?</p><p>(18:06) Case studies with Responsiv</p><p>(22:04) How Responsiv differs from ChatGPT or Perplexity</p><p>(23:42) High stakes situation</p><p>(24:04) Responsiv’s data advantage</p><p>(25:18) What’s under the hood for Responsiv</p><p>(26:48) Hallucinations in legal AI</p><p>(28:17) How do you get customers comfortable with using legal AI</p><p>(29:40) Will Responsiv be the standard in legal?</p><p>(32:13) Data advantage for a winner take all situation</p><p>(33:47) GTM Strategy and Responsiv’s Client</p><p>(36:04) The ROI of Responsiv vs using outside counsel</p><p>(33:47) Incentive structure within law firms</p><p>(43:42) AI Landscape: will GPT become vertical?</p><p>(44:58) Advice Jordan would give to himself earlier in the founder journey</p><p>(47:22) Advice for selling into legal</p><p>(51:03) Wrap</p><p><br></p><p>--</p><p><strong>Recommended Podcast: Company Breakdowns</strong></p><p>Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,</p><p><a href="https://open.spotify.com/show/0epyYBAxLeF0PsNagdDJAJ">Spotify</a></p><p><a href="https://podcasts.apple.com/us/podcast/company-breakdowns/id1743119197">Apple</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3102</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[5a44cad6-f6f1-11ee-a1ff-5359c93352ea]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP8359457238.mp3?updated=1723481965" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title> Manufacturing's AI Revolution: How Atomic is Automating Tool and Die Making with Aaron Slodov, CEO</title>
+      <link>https://www.podpage.com/autopilot</link>
+      <description>In this episode, Will sits down with Aaron Slodov, CEO and Cofounder of Atomic, a company using AI to automate tool and die creation in manufacturing. They discuss the challenges of modern manufacturing in the tool and die making field, the current significant waste generated by inefficient processes, and how Aaron seeks to merge AI with automation to expedite product manufacturing.
+
+RECOMMENDED PODCASTS: 
+The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. 
+Spotify: https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO
+Apple: https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+
+LINKS:
+Atomic Industries: https://www.atomic.industries/
+Atomic in TechCrunch: https://techcrunch.com/2023/12/04/atomic-industries-closes-17m-seed-to-exascale-americas-industrial-base/
+Autopilot Ventures: https://apv.vc/
+
+X/SOCIAL:
+@WillSummerlinAI
+@APhysicist (Aaron)
+
+TIMESTAMPS
+(00:00) Preview
+(02:02) Aaron Slodov’s Background
+(07:15) The birth and pivot of Remesh: From social platform to market research
+(18:16) What does the industry look like for tool and die makers?
+(19:01) Labour dynamics in tool industries
+(20:01) How does the manufacturing industry use tech today outside of Atomic?
+(21:48) Timeline for traditional tool and die maker to complete the design process
+(22:39) Incentives of buyers of tool and die products
+(25:13) What is a die cast?
+(25:42) Die casting’s 30-50% scrap rate
+(26:57) Atomic’s approach and how it differs from the traditional approach
+(29:52) How has AI enabled die creation?
+(35:52) Atomic’s physical factory in Michigan
+(40:39) Reflecting on venture and the catalyst for deep tech investing
+(45:00) Reflections on the founder journey
+(48:21) Wrap
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</description>
+      <pubDate>Wed, 03 Apr 2024 07:00:00 -0000</pubDate>
+      <itunes:title>Manufacturing's AI Revolution: How Atomic is Automating Tool and Die Making with Aaron Slodov, CEO</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:subtitle>In this episode, Will sits down with Aaron Slodov, CEO and Cofounder of Atomic, a company using AI to automate tool and die creation in manufacturing.</itunes:subtitle>
+      <itunes:summary>In this episode, Will sits down with Aaron Slodov, CEO and Cofounder of Atomic, a company using AI to automate tool and die creation in manufacturing. They discuss the challenges of modern manufacturing in the tool and die making field, the current significant waste generated by inefficient processes, and how Aaron seeks to merge AI with automation to expedite product manufacturing.
+
+RECOMMENDED PODCASTS: 
+The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. 
+Spotify: https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO
+Apple: https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614
+-
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+
+
+LINKS:
+Atomic Industries: https://www.atomic.industries/
+Atomic in TechCrunch: https://techcrunch.com/2023/12/04/atomic-industries-closes-17m-seed-to-exascale-americas-industrial-base/
+Autopilot Ventures: https://apv.vc/
+
+X/SOCIAL:
+@WillSummerlinAI
+@APhysicist (Aaron)
+
+TIMESTAMPS
+(00:00) Preview
+(02:02) Aaron Slodov’s Background
+(07:15) The birth and pivot of Remesh: From social platform to market research
+(18:16) What does the industry look like for tool and die makers?
+(19:01) Labour dynamics in tool industries
+(20:01) How does the manufacturing industry use tech today outside of Atomic?
+(21:48) Timeline for traditional tool and die maker to complete the design process
+(22:39) Incentives of buyers of tool and die products
+(25:13) What is a die cast?
+(25:42) Die casting’s 30-50% scrap rate
+(26:57) Atomic’s approach and how it differs from the traditional approach
+(29:52) How has AI enabled die creation?
+(35:52) Atomic’s physical factory in Michigan
+(40:39) Reflecting on venture and the catalyst for deep tech investing
+(45:00) Reflections on the founder journey
+(48:21) Wrap
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Will sits down with Aaron Slodov, CEO and Cofounder of Atomic, a company using AI to automate tool and die creation in manufacturing. They discuss the challenges of modern manufacturing in the tool and die making field, the current significant waste generated by inefficient processes, and how Aaron seeks to merge AI with automation to expedite product manufacturing.</p><p><br></p><h2><strong>RECOMMENDED PODCASTS: </strong></h2><p>The AI Daily Brief If you’re looking for an edge to stay up to date on everything AI, subscribe to Nathaniel Whittemore's AI Daily Brief which delivers tight episodes covering all things AI from legislation to new technologies to the philosophical debates around generalized intelligence. </p><p>Spotify: <a href="https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO">https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO</a></p><p>Apple: <a href="https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614">https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614</a></p><p>-</p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p><br></p><p><br></p><p>LINKS:</p><p>Atomic Industries: <a href="https://www.atomic.industries/">https://www.atomic.industries/</a></p><p>Atomic in TechCrunch: <a href="https://techcrunch.com/2023/12/04/atomic-industries-closes-17m-seed-to-exascale-americas-industrial-base/">https://techcrunch.com/2023/12/04/atomic-industries-closes-17m-seed-to-exascale-americas-industrial-base/</a></p><p>Autopilot Ventures: <a href="https://apv.vc/">https://apv.vc/</a></p><p><br></p><p>X/SOCIAL:</p><p>@WillSummerlinAI</p><p>@APhysicist (Aaron)</p><p><br></p><p>TIMESTAMPS</p><p>(00:00) Preview</p><p>(02:02) Aaron Slodov’s Background</p><p>(07:15) The birth and pivot of Remesh: From social platform to market research</p><p>(18:16) What does the industry look like for tool and die makers?</p><p>(19:01) Labour dynamics in tool industries</p><p>(20:01) How does the manufacturing industry use tech today outside of Atomic?</p><p>(21:48) Timeline for traditional tool and die maker to complete the design process</p><p>(22:39) Incentives of buyers of tool and die products</p><p>(25:13) What is a die cast?</p><p>(25:42) Die casting’s 30-50% scrap rate</p><p>(26:57) Atomic’s approach and how it differs from the traditional approach</p><p>(29:52) How has AI enabled die creation?</p><p>(35:52) Atomic’s physical factory in Michigan</p><p>(40:39) Reflecting on venture and the catalyst for deep tech investing</p><p>(45:00) Reflections on the founder journey</p><p>(48:21) Wrap</p><p><br></p><p>--</p><p><strong>Recommended Podcast: Company Breakdowns</strong></p><p>Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,</p><p><a href="https://open.spotify.com/show/0epyYBAxLeF0PsNagdDJAJ">Spotify</a></p><p><a href="https://podcasts.apple.com/us/podcast/company-breakdowns/id1743119197">Apple</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2951</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[011c6dda-f163-11ee-9fb9-530cd964245d]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP1975155312.mp3?updated=1723481956" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Automating Circuit Board Design Using Reinforcement Learning with Sergiy Nesterenko, Founder of Quilter</title>
+      <link>https://www.podpage.com/autopilot</link>
+      <description>In this episode, Will Summerlin interviews Sergiy Nesterenko, founder of Quilter (backed by Benchmark), a company that designs PCB circuitboards end-to-end using reinforcement learning. They discuss how current PCB boards are designed and how Quilter’s tech stack enables faster board design, what better circuit boards enable in the future, their GTM and where they are seeing most market pull right now, and much more. 
+-
+RECOMMENDED PODCAST:
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+-
+
+LINKS:
+Quilter: https://www.quilter.ai/
+Autopilot Ventures: https://www.apv.vc/
+
+X/SOCIAL:
+@WSummerlinAI (Will)
+@sergiynest (Sergiy)
+@quitlerai (Quilter)
+
+TIMESTAMPS:
+(00:00) Sergiy’s Background
+(00:51) What Sergiy learned from SpaceX
+(02:14) Founding thesis of Quilter and Quilter’s journey
+(03:18) Where would one find circuit boards?
+(04:31) What is the process of designing a circuit board?
+(06:00) Design process today with Quilter
+(12:34) Quilter’s thesis and designing more complex circuits
+(13:19) How much are humans currently paid for board design
+(14:34) Labour dynamics in board design
+(15:23) Do most companies have board designers in house?
+(16:07) Incentive structure
+(17:37) What does a high performance circuit board look like vs low performance?
+(21:30) Quilter’s technology stack
+(23:59) How Quilter can grow with scale?
+(26:45) Where is circuit manufacturing happening
+(32:40) What other parts of knowledge work can be solved with reinforcement learning
+(33:58) GTM and who Quilter is selling to
+(35:43) Pricing
+(36:59) Where Quilter is seeing the most market pull right now
+(38:16) What makes Quilter an exciting company to work at or invest
+(40:33) The effects of closed research in private companies for the industry
+(40:33) Open source vs closed source
+(44:26) What Sergiy would advise to himself in his early founder
+(46:54) What drew Sergiy to working with Benchmark
+(48:27) Wrap
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</description>
+      <pubDate>Wed, 27 Mar 2024 05:29:00 -0000</pubDate>
+      <itunes:title>Automating Circuit Board Design Using Reinforcement Learning with Sergiy Nesterenko, Founder of Quilter</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Will Summerlin | Turpentine</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/71d59232-ebf4-11ee-9a80-8bebc6edd330/image/6ac4b8619ca845a7b2e4f47146300c76.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In this episode, Will Summerlin interviews Sergiy Nesterenko, founder of Quilter (backed by Benchmark), a company that designs PCB circuitboards end-to-end using reinforcement learning. </itunes:subtitle>
+      <itunes:summary>In this episode, Will Summerlin interviews Sergiy Nesterenko, founder of Quilter (backed by Benchmark), a company that designs PCB circuitboards end-to-end using reinforcement learning. They discuss how current PCB boards are designed and how Quilter’s tech stack enables faster board design, what better circuit boards enable in the future, their GTM and where they are seeing most market pull right now, and much more. 
+-
+RECOMMENDED PODCAST:
+📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.
+Spotify: https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH
+Apple: https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812
+-
+
+LINKS:
+Quilter: https://www.quilter.ai/
+Autopilot Ventures: https://www.apv.vc/
+
+X/SOCIAL:
+@WSummerlinAI (Will)
+@sergiynest (Sergiy)
+@quitlerai (Quilter)
+
+TIMESTAMPS:
+(00:00) Sergiy’s Background
+(00:51) What Sergiy learned from SpaceX
+(02:14) Founding thesis of Quilter and Quilter’s journey
+(03:18) Where would one find circuit boards?
+(04:31) What is the process of designing a circuit board?
+(06:00) Design process today with Quilter
+(12:34) Quilter’s thesis and designing more complex circuits
+(13:19) How much are humans currently paid for board design
+(14:34) Labour dynamics in board design
+(15:23) Do most companies have board designers in house?
+(16:07) Incentive structure
+(17:37) What does a high performance circuit board look like vs low performance?
+(21:30) Quilter’s technology stack
+(23:59) How Quilter can grow with scale?
+(26:45) Where is circuit manufacturing happening
+(32:40) What other parts of knowledge work can be solved with reinforcement learning
+(33:58) GTM and who Quilter is selling to
+(35:43) Pricing
+(36:59) Where Quilter is seeing the most market pull right now
+(38:16) What makes Quilter an exciting company to work at or invest
+(40:33) The effects of closed research in private companies for the industry
+(40:33) Open source vs closed source
+(44:26) What Sergiy would advise to himself in his early founder
+(46:54) What drew Sergiy to working with Benchmark
+(48:27) Wrap
+
+--
+Recommended Podcast: Company Breakdowns
+Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,
+Spotify
+Apple</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Will Summerlin interviews Sergiy Nesterenko, founder of Quilter (backed by Benchmark), a company that designs PCB circuitboards end-to-end using reinforcement learning. They discuss how current PCB boards are designed and how Quilter’s tech stack enables faster board design, what better circuit boards enable in the future, their GTM and where they are seeing most market pull right now, and much more. </p><p>-</p><p>RECOMMENDED PODCAST:</p><p>📈 ECON 102 W/ NOAH SMITH - Keeping econ entertaining - Noahpinion author Noah Smith and Erik Torenberg break down business news and politics every week.</p><p>Spotify: <a href="https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH">https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH</a></p><p>Apple: <a href="https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812">https://podcasts.apple.com/id1753399812https://podcasts.apple.com/id1753399812</a></p><p>-</p><p><br></p><p><strong>LINKS:</strong></p><p>Quilter: <a href="https://www.quilter.ai/">https://www.quilter.ai/</a></p><p>Autopilot Ventures: <a href="https://www.apv.vc/">https://www.apv.vc/</a></p><p><br></p><p><strong>X/SOCIAL:</strong></p><p>@WSummerlinAI (Will)</p><p>@sergiynest (Sergiy)</p><p>@quitlerai (Quilter)</p><p><br></p><p><strong>TIMESTAMPS:</strong></p><p>(00:00) Sergiy’s Background</p><p>(00:51) What Sergiy learned from SpaceX</p><p>(02:14) Founding thesis of Quilter and Quilter’s journey</p><p>(03:18) Where would one find circuit boards?</p><p>(04:31) What is the process of designing a circuit board?</p><p>(06:00) Design process today with Quilter</p><p>(12:34) Quilter’s thesis and designing more complex circuits</p><p>(13:19) How much are humans currently paid for board design</p><p>(14:34) Labour dynamics in board design</p><p>(15:23) Do most companies have board designers in house?</p><p>(16:07) Incentive structure</p><p>(17:37) What does a high performance circuit board look like vs low performance?</p><p>(21:30) Quilter’s technology stack</p><p>(23:59) How Quilter can grow with scale?</p><p>(26:45) Where is circuit manufacturing happening</p><p>(32:40) What other parts of knowledge work can be solved with reinforcement learning</p><p>(33:58) GTM and who Quilter is selling to</p><p>(35:43) Pricing</p><p>(36:59) Where Quilter is seeing the most market pull right now</p><p>(38:16) What makes Quilter an exciting company to work at or invest</p><p>(40:33) The effects of closed research in private companies for the industry</p><p>(40:33) Open source vs closed source</p><p>(44:26) What Sergiy would advise to himself in his early founder</p><p>(46:54) What drew Sergiy to working with Benchmark</p><p>(48:27) Wrap</p><p><br></p><p>--</p><p><strong>Recommended Podcast: Company Breakdowns</strong></p><p>Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episode is on Rubrik - which just IPO'd. Coming up this season: Databricks, Reddit + more,</p><p><a href="https://open.spotify.com/show/0epyYBAxLeF0PsNagdDJAJ">Spotify</a></p><p><a href="https://podcasts.apple.com/us/podcast/company-breakdowns/id1743119197">Apple</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3026</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[71d59232-ebf4-11ee-9a80-8bebc6edd330]]></guid>
+      <enclosure url="https://chrt.fm/track/993DGA/traffic.megaphone.fm/RINTP9379905158.mp3?updated=1723481933" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

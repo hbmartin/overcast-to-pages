@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link href="https://feeds.simplecast.com/uq015LLC" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+    <atom:link href="https://simplecast.superfeedr.com" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <generator>https://simplecast.com</generator>
+    <title>Where the Internet Lives</title>
+    <description>An award-winning podcast from Google about the unseen world of data centers.</description>
+    <copyright>2020 Google</copyright>
+    <language>en</language>
+    <pubDate>Wed, 6 Nov 2024 11:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 6 Nov 2024 11:00:14 +0000</lastBuildDate>
+    <image>
+      <link>https://where-the-internet-lives.simplecast.com</link>
+      <title>Where the Internet Lives</title>
+      <url>https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/f8689354-4fe4-4008-a39a-6a001e52af7e/3000x3000/white-wtil-cover-template.jpg?aid=rss_feed</url>
+    </image>
+    <link>https://where-the-internet-lives.simplecast.com</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>An award-winning podcast from Google about the unseen world of data centers.</itunes:summary>
+    <itunes:author>Google</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/f8689354-4fe4-4008-a39a-6a001e52af7e/3000x3000/white-wtil-cover-template.jpg?aid=rss_feed"/>
+    <itunes:new-feed-url>https://feeds.simplecast.com/uq015LLC</itunes:new-feed-url>
+    <itunes:keywords>computer science, data centers, google, internet, sustainability, technology</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Google</itunes:name>
+      <itunes:email>stephen@postscriptaudio.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary"/>
+    </itunes:category>
+    <itunes:category text="Business"/>
+    <item>
+      <guid isPermaLink="false">f946a98e-40c2-4245-a7fe-724acffcc4bb</guid>
+      <title>Chasing Arrows</title>
+      <description><![CDATA[<p>Plastics production has doubled in the last two decades, clogging up our oceans and showing up in our organs. The massive growth in plastics production is also increasing CO2 output and driving up fossil fuel demand. </p><p>Meanwhile, only 8% of plastic actually gets recycled, challenging our trust in the waste management system.</p><p>But a new set of tools driven by AI, robotics, and material science are helping recycle plastics, steel, textiles, and just about everything else. And a new generation of entrepreneurs, scientists, and engineers are devoting themselves to launching those tools.</p><p>In this episode, we examine technology advances that are helping recyclers convert hard-to-recycle waste into a valuable feedstock – and what it means for building a circular economy with a singular goal of radically reducing global waste.</p><p>Guests:</p><ul><li>Kate Brandt, chief sustainability officer at Google</li><li>Astro Teller, captain of moonshots, at X, the moonshot factory</li><li>Rey Banatao, project lead at X, the moonshot factory</li><li>Julia Mangin, head of sustainability, Recology</li><li>Emma Lingle, project manager at X, the moonshot factory </li></ul><p>Watch <a href="https://www.youtube.com/watch?v=zXr0ddAmh5Q">our complementary documentary</a> about how scientists and entrepreneurs at X, Alphabet’s moonshot factory, are inventing tools driven by AI, robotics, and material science to recycle plastics, steel, textiles, and just about everything else. It's all part of their vision to build a circular economy that will radically reduce global waste.</p>
+]]></description>
+      <pubDate>Wed, 6 Nov 2024 11:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://www.google.com/about/datacenters/podcast/</link>
+      <content:encoded><![CDATA[<p>Plastics production has doubled in the last two decades, clogging up our oceans and showing up in our organs. The massive growth in plastics production is also increasing CO2 output and driving up fossil fuel demand. </p><p>Meanwhile, only 8% of plastic actually gets recycled, challenging our trust in the waste management system.</p><p>But a new set of tools driven by AI, robotics, and material science are helping recycle plastics, steel, textiles, and just about everything else. And a new generation of entrepreneurs, scientists, and engineers are devoting themselves to launching those tools.</p><p>In this episode, we examine technology advances that are helping recyclers convert hard-to-recycle waste into a valuable feedstock – and what it means for building a circular economy with a singular goal of radically reducing global waste.</p><p>Guests:</p><ul><li>Kate Brandt, chief sustainability officer at Google</li><li>Astro Teller, captain of moonshots, at X, the moonshot factory</li><li>Rey Banatao, project lead at X, the moonshot factory</li><li>Julia Mangin, head of sustainability, Recology</li><li>Emma Lingle, project manager at X, the moonshot factory </li></ul><p>Watch <a href="https://www.youtube.com/watch?v=zXr0ddAmh5Q">our complementary documentary</a> about how scientists and entrepreneurs at X, Alphabet’s moonshot factory, are inventing tools driven by AI, robotics, and material science to recycle plastics, steel, textiles, and just about everything else. It's all part of their vision to build a circular economy that will radically reduce global waste.</p>
+]]></content:encoded>
+      <enclosure length="28967151" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/bc4b8237-d14e-4d56-b911-b83c4eab1d7c/audio/81ad9ec8-08d3-42d0-9492-a1e5b1f50595/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Chasing Arrows</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/ac4288ec-5cdf-4bb6-a0f4-cf61fad0e2f0/3000x3000/5-wtil-s4-circularity-3000sq-300dpi-layers-wlogo.jpg?aid=rss_feed"/>
+      <itunes:duration>00:30:10</itunes:duration>
+      <itunes:summary>Technology advances are helping recyclers convert hard-to-recycle waste into a valuable feedstock. But can they help build a circular economy that could radically reduce global waste?</itunes:summary>
+      <itunes:subtitle>Technology advances are helping recyclers convert hard-to-recycle waste into a valuable feedstock. But can they help build a circular economy that could radically reduce global waste?</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>30</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">2cf38e5c-fbe4-4c7a-ba6c-c7a35113d41e</guid>
+      <title>Invisible Threats</title>
+      <description><![CDATA[<p>Last March, SpaceX launched a Falcon 9 rocket into space from the Vandenberg Space Force Base in California. It carried more than 40 payloads on board, including a satellite called MethaneSAT, which was designed to track methane emissions around the globe. </p><p>Cutting methane emissions is a critical step toward reducing the rise of global temperatures that climate change is spreading to communities.</p><p>In this episode, we have two stories about how data centers – and the AI they enable – are helping to mitigate the invisible threats of heat and air pollution around the world, particularly for vulnerable populations.</p><p>From satellites to tree canopies, we ask how AI can help protect human health, reduce air pollution, and temper the urban heat island effect in our cities.</p><p>Guests: </p><ul><li>Mansi Kansal, Cool Roofs product manager at Google</li><li>Dr. Monica Bharel, clinical lead for public sector health at Google</li><li>Karin Tuxen-Bettman, Google Earth outreach manager</li><li>Millie Chu Baird, VP, Office of Chief Scientist, Environmental Defense Fund</li><li>Fatima Luna, chief resilience officer, City of Tucson</li></ul><p>Watch <a href="https://www.youtube.com/watch?v=L3ScKkopYpg">our complementary documentary</a> about how Google’s data centers are helping make the invisible threats of air pollution and methane emissions visible.</p>
+]]></description>
+      <pubDate>Wed, 30 Oct 2024 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://www.google.com/about/datacenters/podcast/</link>
+      <content:encoded><![CDATA[<p>Last March, SpaceX launched a Falcon 9 rocket into space from the Vandenberg Space Force Base in California. It carried more than 40 payloads on board, including a satellite called MethaneSAT, which was designed to track methane emissions around the globe. </p><p>Cutting methane emissions is a critical step toward reducing the rise of global temperatures that climate change is spreading to communities.</p><p>In this episode, we have two stories about how data centers – and the AI they enable – are helping to mitigate the invisible threats of heat and air pollution around the world, particularly for vulnerable populations.</p><p>From satellites to tree canopies, we ask how AI can help protect human health, reduce air pollution, and temper the urban heat island effect in our cities.</p><p>Guests: </p><ul><li>Mansi Kansal, Cool Roofs product manager at Google</li><li>Dr. Monica Bharel, clinical lead for public sector health at Google</li><li>Karin Tuxen-Bettman, Google Earth outreach manager</li><li>Millie Chu Baird, VP, Office of Chief Scientist, Environmental Defense Fund</li><li>Fatima Luna, chief resilience officer, City of Tucson</li></ul><p>Watch <a href="https://www.youtube.com/watch?v=L3ScKkopYpg">our complementary documentary</a> about how Google’s data centers are helping make the invisible threats of air pollution and methane emissions visible.</p>
+]]></content:encoded>
+      <enclosure length="34419010" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/9ab598de-bbe5-4c28-a035-701325598e88/audio/28c2b98e-2d05-4149-b169-2e720a8c2268/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Invisible Threats</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/ed90687a-b2e3-4c73-9ee2-0e5fc495a335/3000x3000/4-wtil-s4-health-3000sq-300dpi-layers-wlogo.jpg?aid=rss_feed"/>
+      <itunes:duration>00:35:51</itunes:duration>
+      <itunes:summary>Data centers – and the AI they enable – are helping to mitigate the invisible threats of heat and air pollution around the world, particularly for vulnerable populations.</itunes:summary>
+      <itunes:subtitle>Data centers – and the AI they enable – are helping to mitigate the invisible threats of heat and air pollution around the world, particularly for vulnerable populations.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">fa42eab7-2ae6-4e79-8965-29593032b7dd</guid>
+      <title>Growing a Better Food System</title>
+      <description><![CDATA[<p>Dwane Roth is a fourth-generation farmer growing corn, wheat, sorghum, and sunflower in southwestern Kansas. Back in 2016, the state of Kansas launched a three-year pilot designed to test the latest water conservation technologies on three working farms. Dwane’s farm was one of them. </p><p>Seeing the benefits, Dwane became an outspoken advocate for high-tech approaches to water conservation – approaches that could help restore the critical Ogallala Aquifer running underneath most of western Kansas. </p><p>In this episode, we ask how data-driven predictive tools are helping farmers use less water and improve yields. Plus, we look at how data and AI are getting excess food to those who need it most. And we confront the paradox of hunger and food waste existing at the same time, in the same places. </p><p>Guests: </p><ul><li>Emily Ma, head of special projects in REWS sustainability at Google</li><li>Prem Ramaswami, head of Data Commons at Google</li><li>Stephanie Zidek, vice president of data and analytics, Feeding America</li><li>Dwane Roth, farmer and water conservation advocate in Kansas</li><li>Astro Teller, captain of moonshots at X, the moonshot factory</li></ul><p>Watch <a href="https://www.youtube.com/watch?v=CVxYTWmM0Mw">our complementary documentary</a> about how data and AI are getting excess food to those who need it most, and the paradox of hunger and food waste existing at the same time, in the same places.</p>
+]]></description>
+      <pubDate>Wed, 23 Oct 2024 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://www.google.com/about/datacenters/podcast/</link>
+      <content:encoded><![CDATA[<p>Dwane Roth is a fourth-generation farmer growing corn, wheat, sorghum, and sunflower in southwestern Kansas. Back in 2016, the state of Kansas launched a three-year pilot designed to test the latest water conservation technologies on three working farms. Dwane’s farm was one of them. </p><p>Seeing the benefits, Dwane became an outspoken advocate for high-tech approaches to water conservation – approaches that could help restore the critical Ogallala Aquifer running underneath most of western Kansas. </p><p>In this episode, we ask how data-driven predictive tools are helping farmers use less water and improve yields. Plus, we look at how data and AI are getting excess food to those who need it most. And we confront the paradox of hunger and food waste existing at the same time, in the same places. </p><p>Guests: </p><ul><li>Emily Ma, head of special projects in REWS sustainability at Google</li><li>Prem Ramaswami, head of Data Commons at Google</li><li>Stephanie Zidek, vice president of data and analytics, Feeding America</li><li>Dwane Roth, farmer and water conservation advocate in Kansas</li><li>Astro Teller, captain of moonshots at X, the moonshot factory</li></ul><p>Watch <a href="https://www.youtube.com/watch?v=CVxYTWmM0Mw">our complementary documentary</a> about how data and AI are getting excess food to those who need it most, and the paradox of hunger and food waste existing at the same time, in the same places.</p>
+]]></content:encoded>
+      <enclosure length="34559445" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/66829ea1-ffdb-4e33-971c-981938bea3a8/audio/831a30ce-a0f9-4484-a947-cf47905c481a/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Growing a Better Food System</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/c71ec27d-9796-4cc8-a432-8854e0aa8c53/3000x3000/ep3-wtil-art.jpg?aid=rss_feed"/>
+      <itunes:duration>00:35:59</itunes:duration>
+      <itunes:summary>Data-driven tools are helping farmers use less water and improve yields. Data and AI are getting excess food to those who need it most. But hunger and food waste still exist at the same time and places.</itunes:summary>
+      <itunes:subtitle>Data-driven tools are helping farmers use less water and improve yields. Data and AI are getting excess food to those who need it most. But hunger and food waste still exist at the same time and places.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">5b069c5a-5b28-4e29-9dc1-a1fa72ba1f8f</guid>
+      <title>Keeping the Lights On</title>
+      <description><![CDATA[<p>In January 2024, winter storm Gerri swept across the Midwest, bringing subzero temperatures with it. In Omaha, Nebraska, just as everyone was turning up the heat, the city’s four thermal power plants went offline. </p><p>Tim McAreavey is the VP of Customer Service at Omaha Public Power District. As the freeze gripped Nebraska, Tim and his team began an all-out effort to enlist the help of their biggest customers to reduce energy demand – including a Google data center.</p><p>In this episode, we have three stories about how data centers are helping decarbonize the energy system – and how to manage the growing energy needs of AI. Plus we learn about Tapestry's mission to make everything on the grid visible by using data science and AI to plan, predict, and monitor assets across the network.</p><p>And we ask how data centers and the tools they enable are helping communities accelerate clean energy while making the electric grid more resilient, literally keeping the lights on for homeowners, businesses, schools, and hospitals.</p><p>Guests:</p><ul><li>Page Crahan, Tapestry team lead at X, the moonshot factory</li><li>Savannah Goodman, data and software climate solutions lead at Google</li><li>Urs Hölze, Google fellow and former senior VP for engineering at Google</li><li>Alexina Jackson, vice president of strategic development, AES</li><li>Tim McAreavey, vice president of customer service, Omaha Public Power District</li><li>Astro Teller, captain of moonshots at X, the moonshot factory</li></ul><p>Watch <a href="https://www.youtube.com/watch?v=v2YhPkXHrT0">our complementary documentary</a> about how AI-assisted tools like Alphabet’s Tapestry are helping accelerate clean energy while making the electric grid more resilient—literally keeping the lights on for homeowners, businesses, schools, and hospitals.</p>
+]]></description>
+      <pubDate>Wed, 16 Oct 2024 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://www.google.com/about/datacenters/podcast/</link>
+      <content:encoded><![CDATA[<p>In January 2024, winter storm Gerri swept across the Midwest, bringing subzero temperatures with it. In Omaha, Nebraska, just as everyone was turning up the heat, the city’s four thermal power plants went offline. </p><p>Tim McAreavey is the VP of Customer Service at Omaha Public Power District. As the freeze gripped Nebraska, Tim and his team began an all-out effort to enlist the help of their biggest customers to reduce energy demand – including a Google data center.</p><p>In this episode, we have three stories about how data centers are helping decarbonize the energy system – and how to manage the growing energy needs of AI. Plus we learn about Tapestry's mission to make everything on the grid visible by using data science and AI to plan, predict, and monitor assets across the network.</p><p>And we ask how data centers and the tools they enable are helping communities accelerate clean energy while making the electric grid more resilient, literally keeping the lights on for homeowners, businesses, schools, and hospitals.</p><p>Guests:</p><ul><li>Page Crahan, Tapestry team lead at X, the moonshot factory</li><li>Savannah Goodman, data and software climate solutions lead at Google</li><li>Urs Hölze, Google fellow and former senior VP for engineering at Google</li><li>Alexina Jackson, vice president of strategic development, AES</li><li>Tim McAreavey, vice president of customer service, Omaha Public Power District</li><li>Astro Teller, captain of moonshots at X, the moonshot factory</li></ul><p>Watch <a href="https://www.youtube.com/watch?v=v2YhPkXHrT0">our complementary documentary</a> about how AI-assisted tools like Alphabet’s Tapestry are helping accelerate clean energy while making the electric grid more resilient—literally keeping the lights on for homeowners, businesses, schools, and hospitals.</p>
+]]></content:encoded>
+      <enclosure length="38027670" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/9e781cac-0f6b-46a1-babf-1a9bc088cf05/audio/803c8650-a324-4732-987e-7f108f6a6aad/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Keeping the Lights On</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/e050bb87-ad7e-4973-8393-c509a24e05d7/3000x3000/ep2-wtil-art.jpg?aid=rss_feed"/>
+      <itunes:duration>00:39:36</itunes:duration>
+      <itunes:summary>Data centers are helping decarbonize the energy system while enabling tools that make the grid more resilient. But how do we manage the growing energy needs of AI?</itunes:summary>
+      <itunes:subtitle>Data centers are helping decarbonize the energy system while enabling tools that make the grid more resilient. But how do we manage the growing energy needs of AI?</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">37e83766-20ab-443e-88e0-3ea33b6a6bee</guid>
+      <title>Data on Fire</title>
+      <description><![CDATA[<p>According to NASA, nearly two-thirds of all Western wildfires recorded over the past 75 years occurred in just the last two decades. </p><p>Firefighters and fire researchers are seeing this trend first hand. As wildfires grow more destructive and more unpredictable, fire experts need better ways to account for extreme variability.</p><p>Now, major advances in AI are helping to predict wildfire behavior, and protect communities across the globe. </p><p>In this episode, we examine how data centers enable researchers, policymakers, and NGOs to mitigate climate threats like forest fires, reduce emissions, and enable a wide range of decarbonization solutions.</p><p>Guests: </p><ul><li>Kate Brandt, chief sustainability officer at Google</li><li>Olivia Gagliardi, smokejumper, Missoula, Mont.</li><li>Matt Hancher, director of engineering, Geo for Environment team at Google</li><li>LaWen Hollingsworth, fire behavior specialist, Fire Modeling Institute</li><li>Kit O'Connor, research ecologist, U.S. Forest Service</li><li>Prem Ramaswami, head of Data Commons at Google</li><li>Jorge Rivera, director of data, ONE Campaign</li></ul><p>Watch <a href="https://www.youtube.com/watch?v=2hibjbZDys4">our complementary documentary</a> on how AI is helping researchers predict and respond to fires more effectively.</p>
+]]></description>
+      <pubDate>Wed, 9 Oct 2024 14:32:11 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://www.google.com/about/datacenters/podcast/</link>
+      <content:encoded><![CDATA[<p>According to NASA, nearly two-thirds of all Western wildfires recorded over the past 75 years occurred in just the last two decades. </p><p>Firefighters and fire researchers are seeing this trend first hand. As wildfires grow more destructive and more unpredictable, fire experts need better ways to account for extreme variability.</p><p>Now, major advances in AI are helping to predict wildfire behavior, and protect communities across the globe. </p><p>In this episode, we examine how data centers enable researchers, policymakers, and NGOs to mitigate climate threats like forest fires, reduce emissions, and enable a wide range of decarbonization solutions.</p><p>Guests: </p><ul><li>Kate Brandt, chief sustainability officer at Google</li><li>Olivia Gagliardi, smokejumper, Missoula, Mont.</li><li>Matt Hancher, director of engineering, Geo for Environment team at Google</li><li>LaWen Hollingsworth, fire behavior specialist, Fire Modeling Institute</li><li>Kit O'Connor, research ecologist, U.S. Forest Service</li><li>Prem Ramaswami, head of Data Commons at Google</li><li>Jorge Rivera, director of data, ONE Campaign</li></ul><p>Watch <a href="https://www.youtube.com/watch?v=2hibjbZDys4">our complementary documentary</a> on how AI is helping researchers predict and respond to fires more effectively.</p>
+]]></content:encoded>
+      <enclosure length="38691389" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/f6772f90-28db-4638-91ab-dfb8e0949d3c/audio/e691602d-c0d7-4600-9c49-95a343b7febf/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Data on Fire</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/3e0cf68d-eedf-44b1-9ed9-3028daf56f87/3000x3000/1-wtil-s4-climate-3000sq-300dpi-layer-w-logo-update.jpg?aid=rss_feed"/>
+      <itunes:duration>00:40:18</itunes:duration>
+      <itunes:summary>How can AI and data centers help us solve critical climate challenges?</itunes:summary>
+      <itunes:subtitle>How can AI and data centers help us solve critical climate challenges?</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">2466bb17-c438-4868-be77-94d05de57175</guid>
+      <title>A Preview of Season 4: Resilience</title>
+      <description><![CDATA[<p><a href="https://www.google.com/about/datacenters/podcast/"><i>Where the Internet Lives</i></a> is back for a fourth season. </p><p>In past episodes, we’ve taken you on tours of data centers, talked to people who run the supercomputers that make up the internet, and showed you a world few people get to see.</p><p>This season, host Stephanie Wong explores how data center infrastructure is critical for making the world a more resilient place.</p><p>Over the next five episodes, you'll hear stories about people who are building data-driven solutions for some of the world’s biggest challenges – from the U.S. Forest Service using AI to better predict wildfires, to utilities using AI to improve grid resiliency. </p><p>As communities all over the world grapple with extreme weather, rising energy demand, food insecurity, and public health threats, the role of data centers is more important than ever for supporting solutions.</p><p>Subscribe to <i>Where the Internet Lives</i> on Apple, Spotify, or anywhere you get your shows. </p><p>And this season, we’ll have some film documentaries to complement our audio stories. The new season drops October 9. We can’t wait to welcome you back.</p>
+]]></description>
+      <pubDate>Wed, 25 Sep 2024 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/a-preview-of-season-4-resilience-MpoLsf_H</link>
+      <content:encoded><![CDATA[<p><a href="https://www.google.com/about/datacenters/podcast/"><i>Where the Internet Lives</i></a> is back for a fourth season. </p><p>In past episodes, we’ve taken you on tours of data centers, talked to people who run the supercomputers that make up the internet, and showed you a world few people get to see.</p><p>This season, host Stephanie Wong explores how data center infrastructure is critical for making the world a more resilient place.</p><p>Over the next five episodes, you'll hear stories about people who are building data-driven solutions for some of the world’s biggest challenges – from the U.S. Forest Service using AI to better predict wildfires, to utilities using AI to improve grid resiliency. </p><p>As communities all over the world grapple with extreme weather, rising energy demand, food insecurity, and public health threats, the role of data centers is more important than ever for supporting solutions.</p><p>Subscribe to <i>Where the Internet Lives</i> on Apple, Spotify, or anywhere you get your shows. </p><p>And this season, we’ll have some film documentaries to complement our audio stories. The new season drops October 9. We can’t wait to welcome you back.</p>
+]]></content:encoded>
+      <enclosure length="2741884" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/b3bf760c-6f1f-4278-9625-87b4deeab866/audio/f3dd4c2f-0214-4ac3-b5bd-776944a78be8/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>A Preview of Season 4: Resilience</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/0bbbce76-ed45-4999-9c6a-6665fcce32bc/3000x3000/blue-wtil-cover-template.jpg?aid=rss_feed"/>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:summary>Where the Internet Lives is back for a fourth season, focusing on how data center infrastructure is critical for making the world a more resilient place.</itunes:summary>
+      <itunes:subtitle>Where the Internet Lives is back for a fourth season, focusing on how data center infrastructure is critical for making the world a more resilient place.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermaLink="false">a5da648f-922a-46c7-814a-0288c8c6b811</guid>
+      <title>Machine Learning Unlocks a New Era for Music</title>
+      <description><![CDATA[<p>Hanoi Hantrakul is a musician and research scientist who works on audio and artificial intelligence. He is a former AI resident at Google working on creative applications of machine learning for music. His musical nom de plume is "Yaboi Hanoi."</p><p>Project Magenta is a research group inside Google that started with a simple question: Can we use machine learning to create compelling art and enhance creative expression?</p><p>As an AI expert and musician, Hanoi has worked on many different tools that expand the possibilities of musical composition. And thanks to the underlying technical innovations inside data centers, these tools are getting much better – opening the doors for musicians and non-musicians alike.</p><p>Hanoi also won an international AI song contest with his composition titled “Enter Demons and Gods,” which mashed together AI instruments with musical influences from Southeast Asia.</p><p><a href="https://www.aisongcontest.com/participants-2022/yaboi-hanoi"><i>Listen to a full version</i></a><i> of Hanoi's music, plus other AI song contest entries. </i><a href="https://magenta.tensorflow.org/"><i>Find out more information</i></a><i> about Google's Project Magenta.</i></p>
+]]></description>
+      <pubDate>Wed, 12 Jul 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/machine-learning-unlocks-a-new-era-for-music-NdMOE0eU</link>
+      <content:encoded><![CDATA[<p>Hanoi Hantrakul is a musician and research scientist who works on audio and artificial intelligence. He is a former AI resident at Google working on creative applications of machine learning for music. His musical nom de plume is "Yaboi Hanoi."</p><p>Project Magenta is a research group inside Google that started with a simple question: Can we use machine learning to create compelling art and enhance creative expression?</p><p>As an AI expert and musician, Hanoi has worked on many different tools that expand the possibilities of musical composition. And thanks to the underlying technical innovations inside data centers, these tools are getting much better – opening the doors for musicians and non-musicians alike.</p><p>Hanoi also won an international AI song contest with his composition titled “Enter Demons and Gods,” which mashed together AI instruments with musical influences from Southeast Asia.</p><p><a href="https://www.aisongcontest.com/participants-2022/yaboi-hanoi"><i>Listen to a full version</i></a><i> of Hanoi's music, plus other AI song contest entries. </i><a href="https://magenta.tensorflow.org/"><i>Find out more information</i></a><i> about Google's Project Magenta.</i></p>
+]]></content:encoded>
+      <enclosure length="23087302" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/cde333eb-a130-4816-9e7d-a53f258a00ec/audio/8ac948b2-41d6-4d19-acba-fce2beb00ea1/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Machine Learning Unlocks a New Era for Music</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/d7cc0ee7-e960-4f02-ba0d-55b03c39e0e5/3000x3000/gdc-wtil-s3-ep9-album-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:24:02</itunes:duration>
+      <itunes:summary>Hanoi Hantrakul is a former AI resident at Google working on creative applications of machine learning for music.</itunes:summary>
+      <itunes:subtitle>Hanoi Hantrakul is a former AI resident at Google working on creative applications of machine learning for music.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">b0494791-f674-46b5-a14c-88538cc0e7f6</guid>
+      <title>A Finnish Paper Town Becomes a Digital Hub</title>
+      <description><![CDATA[<p>Mikko Green is an operations manager at Google's data center in Hamina, Finland. In 2012, when Mikko applied to work at the facility, he was excited about the prospect of moving back to the country where his mother was born.</p><p>Over the years, Mikko has witnessed Finland's broader economic shift toward digital tech, which is now a top industry in the country. </p><p>Finland is a top global producer of paper. But every year, paper demand falls – putting pressure on the industry. Faced with challenges in the pulp and paper industry, Finland is pursuing new forms of economic development. Data centers are one opportunity. </p><p>For over a decade, Google has been operating a data center in Hamina, Finland, at an abandoned paper mill. The company has invested €2 billion in the Hamina data center and related network infrastructure – and hired workers who were formerly employed in paper production.</p><p><a href="https://www.google.com/about/datacenters/locations/hamina/"><i>Learn more</i></a><i> about Google's investments in communities like Hamina.</i></p>
+]]></description>
+      <pubDate>Wed, 28 Jun 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/a-finnish-paper-town-becomes-a-digital-hub-ux2uAPu1</link>
+      <content:encoded><![CDATA[<p>Mikko Green is an operations manager at Google's data center in Hamina, Finland. In 2012, when Mikko applied to work at the facility, he was excited about the prospect of moving back to the country where his mother was born.</p><p>Over the years, Mikko has witnessed Finland's broader economic shift toward digital tech, which is now a top industry in the country. </p><p>Finland is a top global producer of paper. But every year, paper demand falls – putting pressure on the industry. Faced with challenges in the pulp and paper industry, Finland is pursuing new forms of economic development. Data centers are one opportunity. </p><p>For over a decade, Google has been operating a data center in Hamina, Finland, at an abandoned paper mill. The company has invested €2 billion in the Hamina data center and related network infrastructure – and hired workers who were formerly employed in paper production.</p><p><a href="https://www.google.com/about/datacenters/locations/hamina/"><i>Learn more</i></a><i> about Google's investments in communities like Hamina.</i></p>
+]]></content:encoded>
+      <enclosure length="17744530" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/77a19d71-3911-424e-9292-7c7ba2337d5e/audio/78fc5979-ec93-44a7-ad06-304a24942364/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>A Finnish Paper Town Becomes a Digital Hub</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/09d6ea77-52e0-4901-9a14-63642baecbd3/3000x3000/gdc-wtil-s3-ep8-album-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:18:29</itunes:duration>
+      <itunes:summary>Mikko Green is an operations manager at Google&apos;s data center in Hamina, Finland. </itunes:summary>
+      <itunes:subtitle>Mikko Green is an operations manager at Google&apos;s data center in Hamina, Finland. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">79153376-591f-4c45-8566-691b277b2890</guid>
+      <title>From Despair to a Dream Job in the Trades</title>
+      <description><![CDATA[<p>Sarah Hess is one of a million union workers in the U.S. construction industry. But she’s a rare woman in the field. About 90% of the construction workforce is male – a number that hasn't changed much over the past three decades.</p><p>Oregon Tradeswomen is an organization devoted to helping women like Sarah build careers in construction, manufacturing, mechanical, and utility trades. In 2022, Google gave $150,000 to the organization to support diversifying these industries. It's part of a multi-state effort at Google to support programs that elevate tradeswomen – some of whom will eventually build data centers.</p><p>Sarah has faced many obstacles in her life: homelessness, drug addiction, and a life-threatening tumor. Her new career in the construction trade has helped her overcome many of those difficulties. </p><p><a href="https://oregontradeswomen.org/"><i>Learn more</i></a><i> about the Oregon Tradeswomen program.</i></p>
+]]></description>
+      <pubDate>Wed, 14 Jun 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/from-despair-to-a-dream-job-in-the-trades-GnqcV6Oc</link>
+      <content:encoded><![CDATA[<p>Sarah Hess is one of a million union workers in the U.S. construction industry. But she’s a rare woman in the field. About 90% of the construction workforce is male – a number that hasn't changed much over the past three decades.</p><p>Oregon Tradeswomen is an organization devoted to helping women like Sarah build careers in construction, manufacturing, mechanical, and utility trades. In 2022, Google gave $150,000 to the organization to support diversifying these industries. It's part of a multi-state effort at Google to support programs that elevate tradeswomen – some of whom will eventually build data centers.</p><p>Sarah has faced many obstacles in her life: homelessness, drug addiction, and a life-threatening tumor. Her new career in the construction trade has helped her overcome many of those difficulties. </p><p><a href="https://oregontradeswomen.org/"><i>Learn more</i></a><i> about the Oregon Tradeswomen program.</i></p>
+]]></content:encoded>
+      <enclosure length="18033757" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/0b9fd453-f719-403a-9802-050728fee0d4/audio/732f98fe-cc10-41dc-980b-30269ed1d1bd/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>From Despair to a Dream Job in the Trades</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/9d9eab46-8ce5-45c2-8e10-3a12d0a23d87/3000x3000/gdc-wtil-s3-ep7-album-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:18:47</itunes:duration>
+      <itunes:summary>Oregon Tradeswomen is an organization devoted to helping women like Sarah Hess build careers in construction, manufacturing, mechanical, and utility trades.</itunes:summary>
+      <itunes:subtitle>Oregon Tradeswomen is an organization devoted to helping women like Sarah Hess build careers in construction, manufacturing, mechanical, and utility trades.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">91cc3ead-ec1c-4a4e-b5ff-e25c70a8cba6</guid>
+      <title>A Creative Water Solution for a Dutch Data Center</title>
+      <description><![CDATA[<p>The Netherlands has a unique relationship with water. One-third of the country lies below sea level, and almost 20% of the mainland is water – largely due to the 6,000 kilometers of waterways that support industry and recreation.</p><p>Pumping and diverting and blocking water is what made the Netherlands possible, turning it into a vital European trading hub and top agricultural exporter. But now, the masters of controlling water are facing a new challenge: worsening drought.</p><p>That’s why Google partnered with North Water, a Dutch water treatment company, to harness water from a network of canals to cool its data center. </p><p>The €‎45-million project featured construction of a pipeline that can carry 10 million cubic meters of water each year to the data center. It also required a new treatment plant to treat and filter the water. The project illustrates the creative, sustainable methods for cooling data centers that Google is deploying around the world.</p><p><a href="https://www.dutchwatersector.com/news/google-nl-switches-to-surface-water-for-its-datacentre-cooling"><i>Learn more</i></a><i> about Google’s partnership with North Water and Google’s water sustainability </i><a href="https://sustainability.google/commitments/water/"><i>commitments</i></a><i>. After you listen to the episode, watch a short documentary film about the project </i><a href="https://youtu.be/wfAFv6ikmkE"><i>here</i></a><i>. </i></p>
+]]></description>
+      <pubDate>Wed, 31 May 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/a-creative-water-solution-for-a-dutch-data-center-eW1Refwv</link>
+      <content:encoded><![CDATA[<p>The Netherlands has a unique relationship with water. One-third of the country lies below sea level, and almost 20% of the mainland is water – largely due to the 6,000 kilometers of waterways that support industry and recreation.</p><p>Pumping and diverting and blocking water is what made the Netherlands possible, turning it into a vital European trading hub and top agricultural exporter. But now, the masters of controlling water are facing a new challenge: worsening drought.</p><p>That’s why Google partnered with North Water, a Dutch water treatment company, to harness water from a network of canals to cool its data center. </p><p>The €‎45-million project featured construction of a pipeline that can carry 10 million cubic meters of water each year to the data center. It also required a new treatment plant to treat and filter the water. The project illustrates the creative, sustainable methods for cooling data centers that Google is deploying around the world.</p><p><a href="https://www.dutchwatersector.com/news/google-nl-switches-to-surface-water-for-its-datacentre-cooling"><i>Learn more</i></a><i> about Google’s partnership with North Water and Google’s water sustainability </i><a href="https://sustainability.google/commitments/water/"><i>commitments</i></a><i>. After you listen to the episode, watch a short documentary film about the project </i><a href="https://youtu.be/wfAFv6ikmkE"><i>here</i></a><i>. </i></p>
+]]></content:encoded>
+      <enclosure length="16544151" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/04e1ebe8-d471-4b50-9d80-a2df9e56d2a9/audio/3b67ef9e-4d39-469b-9c60-33453653dcd9/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>A Creative Water Solution for a Dutch Data Center</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/9304c007-5ba6-4562-9e08-9e8673cfdf2e/3000x3000/gdc-wtil-s3-ep6-album-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:17:13</itunes:duration>
+      <itunes:summary>Google partnered with North Water, a Dutch water treatment company, to harness water from a network of canals to cool its data center.</itunes:summary>
+      <itunes:subtitle>Google partnered with North Water, a Dutch water treatment company, to harness water from a network of canals to cool its data center.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">41bf153e-81ff-4862-99de-f8120f16fc06</guid>
+      <title>The ‘Gaygler’ Fighting for Same-Sex Rights in Taiwan</title>
+      <description><![CDATA[<p>Ian Yang knew he was gay at an early age. But it wasn’t until arriving at Google that he felt comfortable opening up about his sexuality – eventually lighting a spark that made him a positive force in the political discussion around LGBTQ+ rights in Taiwan.</p><p>Ian is an operations engineer at Google’s data center in Changhua County, Taiwan. He ensures that management and training processes run effectively inside the facility. He is also one of the coordinators of the largest Gay Pride parade in East Asia.</p><p>Over the last decade, Ian has witnessed – and influenced – dramatic change in the politics around same-sex rights in Taiwan. </p><p><a href="https://www.google.com/about/datacenters/locations/changhua-county/"><i>Learn more</i></a><i> about Google’s data center operations in Taiwan. </i><a href="https://pride.google/"><i>Read about </i></a><i>Google’s support of the LGBTQ+ community.</i></p>
+]]></description>
+      <pubDate>Wed, 17 May 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/the-gaygler-fighting-for-same-sex-rights-in-taiwan-cburpcLF</link>
+      <content:encoded><![CDATA[<p>Ian Yang knew he was gay at an early age. But it wasn’t until arriving at Google that he felt comfortable opening up about his sexuality – eventually lighting a spark that made him a positive force in the political discussion around LGBTQ+ rights in Taiwan.</p><p>Ian is an operations engineer at Google’s data center in Changhua County, Taiwan. He ensures that management and training processes run effectively inside the facility. He is also one of the coordinators of the largest Gay Pride parade in East Asia.</p><p>Over the last decade, Ian has witnessed – and influenced – dramatic change in the politics around same-sex rights in Taiwan. </p><p><a href="https://www.google.com/about/datacenters/locations/changhua-county/"><i>Learn more</i></a><i> about Google’s data center operations in Taiwan. </i><a href="https://pride.google/"><i>Read about </i></a><i>Google’s support of the LGBTQ+ community.</i></p>
+]]></content:encoded>
+      <enclosure length="17953509" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/bdb1a8a9-c725-498e-a9b5-1e4ed3c75054/audio/f1c1941c-9dc6-4cea-adf7-5dd32df8de57/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>The ‘Gaygler’ Fighting for Same-Sex Rights in Taiwan</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/23f0a386-d6e8-4c24-a158-dd905252fc6e/3000x3000/gdc-wtil-s3-ep5-album-3000x3000-1.jpg?aid=rss_feed"/>
+      <itunes:duration>00:18:42</itunes:duration>
+      <itunes:summary>Ian is an operations engineer at Google’s data center in Changhua County, Taiwan.</itunes:summary>
+      <itunes:subtitle>Ian is an operations engineer at Google’s data center in Changhua County, Taiwan.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>21</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">80d2a8e6-89e3-42b5-b487-f54d81e6e13e</guid>
+      <title>From Trauma to Triumph</title>
+      <description><![CDATA[<p><i>Note: this episode contains references to sexual assault. Please take care while listening.</i></p><p>Data centers are the latest in a long list of big projects that Dave Moody has tackled over three decades running a construction company. But as an aspiring Black architect, he didn’t know if he’d ever have the same opportunities as his white counterparts.</p><p>Racial disparities didn’t stop him. Dave started with a single $88,000 contract in the late 1980s and grew his company, CD Moody Construction, to build museums, stadiums, and airport terminals.</p><p>As his business expanded, Dave had to face a personal trauma head-on – reckoning with the memories of childhood sexual abuse – and learn to live his life as a healed person, not just a survivor. That allowed him to seize on new opportunities, like when Google came looking for help with data center construction in Georgia. It also allowed him to become a model and mentor for others.</p><p><a href="https://www.google.com/diversity/suppliers/"><i>Learn more</i></a><i> about Google’s supplier diversity program. After you listen to the episode, watch a short documentary film about Dave and his journey  </i><a href="https://www.youtube.com/watch?v=5wgDsD0Vgh0"><i>here</i></a><i>.</i></p>
+]]></description>
+      <pubDate>Wed, 3 May 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/from-trauma-to-triumph-IIfVhP03</link>
+      <content:encoded><![CDATA[<p><i>Note: this episode contains references to sexual assault. Please take care while listening.</i></p><p>Data centers are the latest in a long list of big projects that Dave Moody has tackled over three decades running a construction company. But as an aspiring Black architect, he didn’t know if he’d ever have the same opportunities as his white counterparts.</p><p>Racial disparities didn’t stop him. Dave started with a single $88,000 contract in the late 1980s and grew his company, CD Moody Construction, to build museums, stadiums, and airport terminals.</p><p>As his business expanded, Dave had to face a personal trauma head-on – reckoning with the memories of childhood sexual abuse – and learn to live his life as a healed person, not just a survivor. That allowed him to seize on new opportunities, like when Google came looking for help with data center construction in Georgia. It also allowed him to become a model and mentor for others.</p><p><a href="https://www.google.com/diversity/suppliers/"><i>Learn more</i></a><i> about Google’s supplier diversity program. After you listen to the episode, watch a short documentary film about Dave and his journey  </i><a href="https://www.youtube.com/watch?v=5wgDsD0Vgh0"><i>here</i></a><i>.</i></p>
+]]></content:encoded>
+      <enclosure length="17095857" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/073f2e9b-2a11-40ff-8ce0-36a9b4c4bd88/audio/c2c4e9aa-b791-454a-a798-04efc6f9e22f/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>From Trauma to Triumph</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/ec36020b-eb02-4b6e-9da5-81a4d28e0b04/3000x3000/gdc-wtil-s3-ep4-album-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:17:48</itunes:duration>
+      <itunes:summary>Data centers are the latest in a long list of big projects that Dave Moody has tackled over three decades running a construction company.</itunes:summary>
+      <itunes:subtitle>Data centers are the latest in a long list of big projects that Dave Moody has tackled over three decades running a construction company.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">496da9c1-e3bd-4915-9a29-eca035d5b48e</guid>
+      <title>Data Centers Help Fuel the Solar-Energy Boom</title>
+      <description><![CDATA[<p>A solar-centric world is coming. Solar generates just over 3% of the world's electricity. By the middle of the century, it could make up nearly 40% of global electricity consumption.</p><p>That growth is made possible by sophisticated manufacturing, maturing business models, and fast-dropping costs. It’s also increasingly enabled by artificial intelligence – and the data centers that power it.</p><p>Samuel Adeyemo is the co-founder of Aurora Solar, a company using AI to quickly model and execute millions of rooftop solar projects. Aurora partners with Google’s Project Sunroof to integrate vast geospatial data sets into the software.</p><p>As the digital tools behind solar get more sophisticated, data centers have the potential to be the backbone of the clean energy economy.</p><p><i>Learn how </i><a href="https://sunroof.withgoogle.com/"><i>Project Sunroof </i></a><i>is enabling more solar. To discover how data centers are  supporting clean energy around the globe, check out Google's </i><a href="https://sustainability.google/progress/energy/"><i>24/7 carbon-free energy </i></a><i>mission.</i></p>
+]]></description>
+      <pubDate>Wed, 19 Apr 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/data-centers-help-fuel-the-solar-energy-boom-v7War5Jx</link>
+      <content:encoded><![CDATA[<p>A solar-centric world is coming. Solar generates just over 3% of the world's electricity. By the middle of the century, it could make up nearly 40% of global electricity consumption.</p><p>That growth is made possible by sophisticated manufacturing, maturing business models, and fast-dropping costs. It’s also increasingly enabled by artificial intelligence – and the data centers that power it.</p><p>Samuel Adeyemo is the co-founder of Aurora Solar, a company using AI to quickly model and execute millions of rooftop solar projects. Aurora partners with Google’s Project Sunroof to integrate vast geospatial data sets into the software.</p><p>As the digital tools behind solar get more sophisticated, data centers have the potential to be the backbone of the clean energy economy.</p><p><i>Learn how </i><a href="https://sunroof.withgoogle.com/"><i>Project Sunroof </i></a><i>is enabling more solar. To discover how data centers are  supporting clean energy around the globe, check out Google's </i><a href="https://sustainability.google/progress/energy/"><i>24/7 carbon-free energy </i></a><i>mission.</i></p>
+]]></content:encoded>
+      <enclosure length="13485944" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/067ccfff-51f8-4181-94ef-081fea159834/audio/60f64776-b10b-4e26-955e-974e6ddbac08/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Data Centers Help Fuel the Solar-Energy Boom</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/52e0f646-0c5a-4149-8905-efdb9a3dafa3/3000x3000/gdc-wtil-s3-ep3-album-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:14:02</itunes:duration>
+      <itunes:summary>As the digital tools behind solar get more sophisticated, data centers have the potential to be the backbone of the clean energy economy.</itunes:summary>
+      <itunes:subtitle>As the digital tools behind solar get more sophisticated, data centers have the potential to be the backbone of the clean energy economy.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">8b9f84cb-efb5-4263-96f0-dd0c83c2d17f</guid>
+      <title>From Furniture to Fiber, a Town Changed</title>
+      <description><![CDATA[<p>Lenoir, North Carolina, was once a global furniture manufacturing hub. For Rachel Scercy, the furniture industry was the center of her family life. And then the jobs vanished in the 1990s.</p><p>Today, communities like Lenoir are often seen as great sites for data centers because of their strong industrial histories. In 2007, Google built a $1.2 billion data center a mile outside of Lenoir, creating over a thousand jobs to date – hundreds in construction, and hundreds of permanent jobs in operations. Since then, the region has attracted more data centers from other top tech, retail, and entertainment companies. </p><p>Intimately experienced with the ups and downs of Lenoir's economic transformation, Rachel is part of Lenoir's new generation of workers who are employed at a data center rather than in the furniture industry.</p><p><a href="https://www.google.com/about/datacenters/locations/lenoir/"><i>Learn more</i></a></p><p><i> about career opportunities and Google’s investments in communities like Lenoir.</i></p>
+]]></description>
+      <pubDate>Wed, 5 Apr 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/from-furniture-to-fiber-a-town-changed-EPaGdCJz</link>
+      <content:encoded><![CDATA[<p>Lenoir, North Carolina, was once a global furniture manufacturing hub. For Rachel Scercy, the furniture industry was the center of her family life. And then the jobs vanished in the 1990s.</p><p>Today, communities like Lenoir are often seen as great sites for data centers because of their strong industrial histories. In 2007, Google built a $1.2 billion data center a mile outside of Lenoir, creating over a thousand jobs to date – hundreds in construction, and hundreds of permanent jobs in operations. Since then, the region has attracted more data centers from other top tech, retail, and entertainment companies. </p><p>Intimately experienced with the ups and downs of Lenoir's economic transformation, Rachel is part of Lenoir's new generation of workers who are employed at a data center rather than in the furniture industry.</p><p><a href="https://www.google.com/about/datacenters/locations/lenoir/"><i>Learn more</i></a></p><p><i> about career opportunities and Google’s investments in communities like Lenoir.</i></p>
+]]></content:encoded>
+      <enclosure length="14738567" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/8476967c-1fda-4b6c-9426-62b78095a3d2/audio/1a6b9689-5e0b-4feb-9a32-eb96311628ec/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>From Furniture to Fiber, a Town Changed</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/47e237a0-83da-4e00-9c13-d79d1cccf895/3000x3000/gdc-wtil-s3-ep2-album-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:15:21</itunes:duration>
+      <itunes:summary>Today, communities like Lenoir are often seen as great sites for data centers because of their strong industrial histories.</itunes:summary>
+      <itunes:subtitle>Today, communities like Lenoir are often seen as great sites for data centers because of their strong industrial histories.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">0d448cf6-c9ab-4708-9660-f40731379118</guid>
+      <title>Data Center on the Prairie</title>
+      <description><![CDATA[<p>In Tennessee, the digital future is merging with the ecological past. </p><p>Clarksville, where Google has a data center, is home to a fragile ecosystem that has vanished across America: grasslands. What if we could use large campuses like data centers to transform land back into long-lost prairies – restoring ecological diversity and an important piece of American history? Dwayne Estes of the Southeastern Grasslands Institute is dedicating his life to making that a reality.</p><p><i>After you listen to the episode, watch the </i><a href="https://www.youtube.com/watch?v=eokRF5D44eA"><i>documentary</i></a><i> about grasslands restoration at Google’s data center.</i></p>
+]]></description>
+      <pubDate>Wed, 22 Mar 2023 09:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/data-center-on-the-prairie-faWnqqic</link>
+      <content:encoded><![CDATA[<p>In Tennessee, the digital future is merging with the ecological past. </p><p>Clarksville, where Google has a data center, is home to a fragile ecosystem that has vanished across America: grasslands. What if we could use large campuses like data centers to transform land back into long-lost prairies – restoring ecological diversity and an important piece of American history? Dwayne Estes of the Southeastern Grasslands Institute is dedicating his life to making that a reality.</p><p><i>After you listen to the episode, watch the </i><a href="https://www.youtube.com/watch?v=eokRF5D44eA"><i>documentary</i></a><i> about grasslands restoration at Google’s data center.</i></p>
+]]></content:encoded>
+      <enclosure length="17464915" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/07f74717-610e-4a53-8ff6-6175ec592024/audio/404243da-48c5-4b9b-9439-034090b7248c/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Data Center on the Prairie</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/f2004b85-a9e1-415c-8a6b-d1fa98aee89b/3000x3000/gdc-wtil-s3-ep1-album-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:18:11</itunes:duration>
+      <itunes:summary>In Tennessee, the digital future is merging with the ecological past. </itunes:summary>
+      <itunes:subtitle>In Tennessee, the digital future is merging with the ecological past. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">34b5458b-52ba-4b81-8a38-ab15efcf5366</guid>
+      <title>A Preview of Season 3</title>
+      <description><![CDATA[<p><a href="https://www.google.com/about/datacenters/podcast/"><i>Where the Internet Lives</i></a> is back for a third season. </p><p>Over the last two seasons, we’ve introduced you to the technologies and people that run data centers, unveiling a world few people get to see.</p><p>This season, host Stephanie Wong explores how data centers change the world around them in surprising and transformative ways.</p><p>We’ll hear stories about economic transformations, technological leaps, human rights, equity, and environmental progress – all enabled by data centers. </p><p>Subscribe to <i>Where the Internet Lives</i> on <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91cTAxNUxMQw">Google podcasts</a>, <a href="https://podcasts.apple.com/us/podcast/where-the-internet-lives/id1541394865">Apple</a>, <a href="https://open.spotify.com/show/2Y5ish3Fs4ZbnKYYVG59HT">Spotify</a>, or anywhere you get your shows.</p>
+]]></description>
+      <pubDate>Wed, 1 Mar 2023 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/a-preview-of-season-3-YLlyUKqp</link>
+      <content:encoded><![CDATA[<p><a href="https://www.google.com/about/datacenters/podcast/"><i>Where the Internet Lives</i></a> is back for a third season. </p><p>Over the last two seasons, we’ve introduced you to the technologies and people that run data centers, unveiling a world few people get to see.</p><p>This season, host Stephanie Wong explores how data centers change the world around them in surprising and transformative ways.</p><p>We’ll hear stories about economic transformations, technological leaps, human rights, equity, and environmental progress – all enabled by data centers. </p><p>Subscribe to <i>Where the Internet Lives</i> on <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91cTAxNUxMQw">Google podcasts</a>, <a href="https://podcasts.apple.com/us/podcast/where-the-internet-lives/id1541394865">Apple</a>, <a href="https://open.spotify.com/show/2Y5ish3Fs4ZbnKYYVG59HT">Spotify</a>, or anywhere you get your shows.</p>
+]]></content:encoded>
+      <enclosure length="961810" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/a64ec49a-6487-462f-9c33-72421ea1c29b/audio/2ae22b3f-c1de-4ea7-ba8b-1bc05b7a1cf3/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>A Preview of Season 3</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/d97efb7a-ae4f-47c1-99bc-f3fb34d2faec/3000x3000/067-gdc-wtil-s3-teaser-3000x3000.jpg?aid=rss_feed"/>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:summary>This season we explore how data centers change the world around them.</itunes:summary>
+      <itunes:subtitle>This season we explore how data centers change the world around them.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermaLink="false">ad22aac8-fdc8-4c78-a397-5cab2796297c</guid>
+      <title>“Holy Cow, This Is What You Are Building?”</title>
+      <description><![CDATA[<p>Building a data center can be as complex as the machines inside. It requires teams of construction experts who are constantly solving football field-sized puzzles – people like Sarah Godbehere. </p><p>For Sarah, construction is a family affair. Growing up, she watched her father build schools, car washes, and office buildings. </p><p>After getting her engineering degree, Sarah realized that she wanted to work on projects with immediate and tangible outcomes. And that led her to oversee construction of Google's data centers in Northern Virginia. As a program manager, she literally helps build new data centers from the ground up. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></description>
+      <pubDate>Thu, 27 Jan 2022 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Stephanie Wong, Sarah Godbehere)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/holy-cow-this-is-what-you-are-building-REz21GOr</link>
+      <content:encoded><![CDATA[<p>Building a data center can be as complex as the machines inside. It requires teams of construction experts who are constantly solving football field-sized puzzles – people like Sarah Godbehere. </p><p>For Sarah, construction is a family affair. Growing up, she watched her father build schools, car washes, and office buildings. </p><p>After getting her engineering degree, Sarah realized that she wanted to work on projects with immediate and tangible outcomes. And that led her to oversee construction of Google's data centers in Northern Virginia. As a program manager, she literally helps build new data centers from the ground up. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></content:encoded>
+      <enclosure length="11203928" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/301fe3b6-0d2c-4323-b812-fcfbd3297e63/audio/1ff2971a-35e0-444e-961a-a029a8f5de0b/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“Holy Cow, This Is What You Are Building?”</itunes:title>
+      <itunes:author>Stephanie Wong, Sarah Godbehere</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/6269aa8e-e806-4fc6-a90f-dfd7e8cdbccd/3000x3000/gdc-wtil-3000x3000-static-s2e9-sarah.jpg?aid=rss_feed"/>
+      <itunes:duration>00:11:40</itunes:duration>
+      <itunes:summary>Sarah Godbehere manages construction for Google data centers.</itunes:summary>
+      <itunes:subtitle>Sarah Godbehere manages construction for Google data centers.</itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, google, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">d017af3a-9500-4f7d-9f83-92814c7068a2</guid>
+      <title>“The Most Important Things Are Invisible”</title>
+      <description><![CDATA[<p>Each individual server stacked high inside a data center is powerful in its own right. But without a way of linking them together, they aren't much use to anyone. </p><p>It takes a vast collection of switches, cables, and software control systems to create a well-functioning global network. It is Bikash Koley’s job to connect Google’s fleet of data centers – and make that connection seamless and invisible to users.</p><p>Growing up in India, Bikash first used a computer in high school. It didn’t take him long to get hooked on the concept of networking. </p><p>Today, as VP and head of global networking, he directs a team of architects who design and build a network that can withstand traffic surges, natural disasters, and a global pandemic. He and his team work at the forefront of networking technologies that keep the internet humming.</p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></description>
+      <pubDate>Thu, 27 Jan 2022 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Bikash Koley, Stephanie Wong)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/the-most-important-things-are-invisible-ifCOYcLS</link>
+      <content:encoded><![CDATA[<p>Each individual server stacked high inside a data center is powerful in its own right. But without a way of linking them together, they aren't much use to anyone. </p><p>It takes a vast collection of switches, cables, and software control systems to create a well-functioning global network. It is Bikash Koley’s job to connect Google’s fleet of data centers – and make that connection seamless and invisible to users.</p><p>Growing up in India, Bikash first used a computer in high school. It didn’t take him long to get hooked on the concept of networking. </p><p>Today, as VP and head of global networking, he directs a team of architects who design and build a network that can withstand traffic surges, natural disasters, and a global pandemic. He and his team work at the forefront of networking technologies that keep the internet humming.</p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></content:encoded>
+      <enclosure length="14384180" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/836a6812-2631-4be4-bae0-956ca9e3a565/audio/649af44a-3261-48a3-9cba-7b5e8479ba2f/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“The Most Important Things Are Invisible”</itunes:title>
+      <itunes:author>Bikash Koley, Stephanie Wong</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/a2198fc2-f06d-4a91-9f63-e6ac6afda7a7/3000x3000/gdc-wtil-3000x3000-static-s2e6-bikash.jpg?aid=rss_feed"/>
+      <itunes:duration>00:14:59</itunes:duration>
+      <itunes:summary>Bikash Koley is VP and head of global networking at Google. </itunes:summary>
+      <itunes:subtitle>Bikash Koley is VP and head of global networking at Google. </itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, google, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">29713822-f8f7-48fc-b6cd-e88504a1753d</guid>
+      <title>“Scale Beyond Our Imagination”</title>
+      <description><![CDATA[<p>Over the years, Majd Bakar has overseen several critical consumer tech advancements inside Google: Chromecast, GoogleTV, Google Nest Wifi, and the cloud gaming platform Stadia. All of them are directly linked to the growth of data centers.</p><p>From the moment Majd played with his first computer as a kid growing up in Syria, he has pursued a mission of making tech intuitive and accessible.</p><p>Today, Majd uses his design expertise and biomedical engineering background to focus on personal health at Fitbit – and data centers are more important than ever to his work. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more </a>about building your career at a data center.</p>
+]]></description>
+      <pubDate>Thu, 27 Jan 2022 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Majd Bakar, Stephanie Wong)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/scale-beyond-our-imagination-SQ8q3lGD</link>
+      <content:encoded><![CDATA[<p>Over the years, Majd Bakar has overseen several critical consumer tech advancements inside Google: Chromecast, GoogleTV, Google Nest Wifi, and the cloud gaming platform Stadia. All of them are directly linked to the growth of data centers.</p><p>From the moment Majd played with his first computer as a kid growing up in Syria, he has pursued a mission of making tech intuitive and accessible.</p><p>Today, Majd uses his design expertise and biomedical engineering background to focus on personal health at Fitbit – and data centers are more important than ever to his work. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more </a>about building your career at a data center.</p>
+]]></content:encoded>
+      <enclosure length="12536382" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/de8fe112-3e33-46e8-9644-336ad592fa91/audio/174472c9-fb8d-4cdc-b203-16d70465f104/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“Scale Beyond Our Imagination”</itunes:title>
+      <itunes:author>Majd Bakar, Stephanie Wong</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/b2c3fad4-5f6a-43c3-b18b-0175635b4821/3000x3000/gdc-wtil-3000x3000-static-s2e7-majd.jpg?aid=rss_feed"/>
+      <itunes:duration>00:13:03</itunes:duration>
+      <itunes:summary>Majd Bakar is VP of engineering at Google Fitbit.</itunes:summary>
+      <itunes:subtitle>Majd Bakar is VP of engineering at Google Fitbit.</itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, google, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">e57e6e4d-7194-4a7e-9650-58fd48b34be5</guid>
+      <title>“A Big Step In Our Journey”</title>
+      <description><![CDATA[<p>Storing photos, taking video calls, or streaming podcasts creates heat. To  keep servers cool, many data centers utilize water running through pipes and along server racks.</p><p>Teams across Google have been working intensively for more than a decade to use water as responsibly as possible. And in September 2021, Google unveiled a comprehensive plan to replenish 120% of the water it consumes, and improve the quality of water ecosystems in the places where it operates. </p><p>Tara Varghese’s job is to make sure Google hits that target. </p><p>Water conservation was an important part of Tara’s upbringing from an early age. Today, she leads Google’s corporate water stewardship efforts, and helps shape the company’s strategy for siting data centers and office buildings around the world. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></description>
+      <pubDate>Thu, 27 Jan 2022 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Stephanie Wong, Tara Varghese)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/a-big-step-in-our-journey-bk_45TH5</link>
+      <content:encoded><![CDATA[<p>Storing photos, taking video calls, or streaming podcasts creates heat. To  keep servers cool, many data centers utilize water running through pipes and along server racks.</p><p>Teams across Google have been working intensively for more than a decade to use water as responsibly as possible. And in September 2021, Google unveiled a comprehensive plan to replenish 120% of the water it consumes, and improve the quality of water ecosystems in the places where it operates. </p><p>Tara Varghese’s job is to make sure Google hits that target. </p><p>Water conservation was an important part of Tara’s upbringing from an early age. Today, she leads Google’s corporate water stewardship efforts, and helps shape the company’s strategy for siting data centers and office buildings around the world. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></content:encoded>
+      <enclosure length="12818923" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/2435f315-c4ad-4279-aa06-25f643e8ba67/audio/08f5e05c-1be3-42c2-b6f9-fc89d47b137a/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“A Big Step In Our Journey”</itunes:title>
+      <itunes:author>Stephanie Wong, Tara Varghese</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/9ff090c2-1e58-4d13-b30b-55919c0ee2cf/3000x3000/gdc-wtil-3000x3000-static-s2e8-tara.jpg?aid=rss_feed"/>
+      <itunes:duration>00:13:21</itunes:duration>
+      <itunes:summary>Tara Varghese leads Google’s corporate water stewardship efforts.</itunes:summary>
+      <itunes:subtitle>Tara Varghese leads Google’s corporate water stewardship efforts.</itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, google, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">6b9804b3-5ee2-4d2b-802d-a41708106078</guid>
+      <title>“It Gets My Heart Beating”</title>
+      <description><![CDATA[<p>Few people are ever allowed on a data center floor. Andreas van der Linden is one of those people. </p><p>Andreas is a data center technician and the maintenance lead at Google's Eemshaven data center in the Netherlands. Every day, he and his team weave through aisles of server racks, making sure all the computers are running optimally.</p><p>To become an expert at fixing computers, Andreas first had to become an expert at taking them apart. </p><p>Today, Andreas leads a team that makes sure data center maintenance gets done on time and up to quality standards. But he never loses sight of his inner kid – and a passion for cracking open a computer himself to see what needs fixing. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></description>
+      <pubDate>Thu, 27 Jan 2022 10:00:00 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Stephanie Wong, Andreas van der Linden)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/it-gets-my-heart-beating-B_LUHs38</link>
+      <content:encoded><![CDATA[<p>Few people are ever allowed on a data center floor. Andreas van der Linden is one of those people. </p><p>Andreas is a data center technician and the maintenance lead at Google's Eemshaven data center in the Netherlands. Every day, he and his team weave through aisles of server racks, making sure all the computers are running optimally.</p><p>To become an expert at fixing computers, Andreas first had to become an expert at taking them apart. </p><p>Today, Andreas leads a team that makes sure data center maintenance gets done on time and up to quality standards. But he never loses sight of his inner kid – and a passion for cracking open a computer himself to see what needs fixing. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></content:encoded>
+      <enclosure length="10363413" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/a27bcc87-1ed9-477c-b69b-10106a48dba0/audio/810b5f22-7c58-4673-bc8f-25dd577bdddd/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“It Gets My Heart Beating”</itunes:title>
+      <itunes:author>Stephanie Wong, Andreas van der Linden</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/c705fb61-d930-41e1-b991-a60b65c789d4/3000x3000/gdc-wtil-3000x3000-static-s2e10-andreas.jpg?aid=rss_feed"/>
+      <itunes:duration>00:10:48</itunes:duration>
+      <itunes:summary>Andreas van der Linden is a data center technician at Google&apos;s data center in the Netherlands.</itunes:summary>
+      <itunes:subtitle>Andreas van der Linden is a data center technician at Google&apos;s data center in the Netherlands.</itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, google, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">9da14b65-a21b-41b8-a4cc-0d7abc4bec80</guid>
+      <title>“Challenges Are Expected”</title>
+      <description><![CDATA[<p>Mamoudou “D” Diallo's life path has taken him from being a curious youngster in Guinea-Conakry, to an engineering student in Ukraine, to a technology executive in the financial industry, to his role today as a site lead for Google’s data center in New Albany, Ohio. </p><p>In that role, he addresses the staffing needs of a data center, which are as complex and diverse as the technology itself. Each facility needs the right mix of server technicians, mechanical engineers, networking experts, security staff, and many other specialists.</p><p>Calling on his experiences from a variety of occupations, "D" pulls together the right folks to make things work, building a team that devises simple solutions to complicated challenges inside data centers.</p><p><a href="https://www.google.com/about/datacenters/life/">Learn more </a>about building your career at a data center.</p>
+]]></description>
+      <pubDate>Thu, 9 Dec 2021 12:02:11 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Stephanie Wong, Mamoudou Diallo)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/challenges-are-expected-_J1Oo1Zx</link>
+      <content:encoded><![CDATA[<p>Mamoudou “D” Diallo's life path has taken him from being a curious youngster in Guinea-Conakry, to an engineering student in Ukraine, to a technology executive in the financial industry, to his role today as a site lead for Google’s data center in New Albany, Ohio. </p><p>In that role, he addresses the staffing needs of a data center, which are as complex and diverse as the technology itself. Each facility needs the right mix of server technicians, mechanical engineers, networking experts, security staff, and many other specialists.</p><p>Calling on his experiences from a variety of occupations, "D" pulls together the right folks to make things work, building a team that devises simple solutions to complicated challenges inside data centers.</p><p><a href="https://www.google.com/about/datacenters/life/">Learn more </a>about building your career at a data center.</p>
+]]></content:encoded>
+      <enclosure length="13954518" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/07b4e3c8-72f3-4f27-8ae8-f7729049d572/audio/9c5b6591-4e0c-4968-b06d-93e557e77426/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“Challenges Are Expected”</itunes:title>
+      <itunes:author>Stephanie Wong, Mamoudou Diallo</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/5cf63cb5-56e7-4759-b26b-e3687e5644f3/3000x3000/gdc-wtil-3000x3000-static-s2e5-mamoudou.jpg?aid=rss_feed"/>
+      <itunes:duration>00:14:33</itunes:duration>
+      <itunes:summary>Mamoudou &quot;D&quot; Diallo is a site lead for Google’s data center in New Albany, Ohio. </itunes:summary>
+      <itunes:subtitle>Mamoudou &quot;D&quot; Diallo is a site lead for Google’s data center in New Albany, Ohio. </itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, data centers, careers, internet</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">074b03fc-0639-414b-a052-0d0a6347d454</guid>
+      <title>“I Never Thought It Would Be Possible”</title>
+      <description><![CDATA[<p>A hyperscale data center can house hundreds of thousands of servers. All that digital infrastructure requires a vast and intricate set of mechanical systems to keep machines running optimally.</p><p>Juliana Conroy-Hoey is a mechanical engineer for Google data centers in Europe. </p><p>She determines how to lay out the pipes and ductwork inside data centers for maximum efficiency and sustainability – the scale of which still gives her a sense of awe.</p><p><a href="https://www.google.com/about/datacenters/life/">Learn more </a>about building your career at a data center.</p>
+]]></description>
+      <pubDate>Thu, 9 Dec 2021 12:01:58 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Stephanie Wong, Juliana Conroy-Hoey)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/i-never-thought-it-would-be-possible-UV_A1oz9</link>
+      <content:encoded><![CDATA[<p>A hyperscale data center can house hundreds of thousands of servers. All that digital infrastructure requires a vast and intricate set of mechanical systems to keep machines running optimally.</p><p>Juliana Conroy-Hoey is a mechanical engineer for Google data centers in Europe. </p><p>She determines how to lay out the pipes and ductwork inside data centers for maximum efficiency and sustainability – the scale of which still gives her a sense of awe.</p><p><a href="https://www.google.com/about/datacenters/life/">Learn more </a>about building your career at a data center.</p>
+]]></content:encoded>
+      <enclosure length="9730622" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/554af683-4771-4d47-9407-32f7be70d83b/audio/afcfd2ec-5908-473a-bc54-6ab2c482ab38/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“I Never Thought It Would Be Possible”</itunes:title>
+      <itunes:author>Stephanie Wong, Juliana Conroy-Hoey</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/0c5f21ce-a0f8-4369-97a4-7a8799065300/3000x3000/gdc-wtil-3000x3000-static-s2e4-juliana.jpg?aid=rss_feed"/>
+      <itunes:duration>00:10:08</itunes:duration>
+      <itunes:summary>Juliana Conroy-Hoey is a mechanical engineer for Google data centers in Europe. </itunes:summary>
+      <itunes:subtitle>Juliana Conroy-Hoey is a mechanical engineer for Google data centers in Europe. </itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, data centers, careers, internet</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">3c72847f-ffd7-478a-be0f-cf3bbb7241e5</guid>
+      <title>“We Know Who’s Here and Why”</title>
+      <description><![CDATA[<p>People and information are two of the most valuable things inside data centers. Libby Davis helps protect both.</p><p>Libby manages security at Google's data centers in Iowa. She runs a large team that monitors every movement inside the facilities – from the outer walls, to the inner sanctum where the servers sit. </p><p>Libby melded her background in law enforcement, engineering, and organizational psychology to secure one of Google’s largest pieces of computing infrastructure: a data center. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center. </p>
+]]></description>
+      <pubDate>Thu, 9 Dec 2021 12:01:50 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Stephanie Wong, Libby Davis)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/we-know-whos-here-and-why-jH_0Z_GT</link>
+      <content:encoded><![CDATA[<p>People and information are two of the most valuable things inside data centers. Libby Davis helps protect both.</p><p>Libby manages security at Google's data centers in Iowa. She runs a large team that monitors every movement inside the facilities – from the outer walls, to the inner sanctum where the servers sit. </p><p>Libby melded her background in law enforcement, engineering, and organizational psychology to secure one of Google’s largest pieces of computing infrastructure: a data center. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center. </p>
+]]></content:encoded>
+      <enclosure length="12607849" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/3273bf0e-4f11-47e0-a42e-a2063caef7f0/audio/315e9275-ad8e-47ae-ac08-ddb8ef8f4891/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“We Know Who’s Here and Why”</itunes:title>
+      <itunes:author>Stephanie Wong, Libby Davis</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/89565f4a-64ed-480d-ae59-af68d0472da3/3000x3000/gdc-wtil-3000x3000-static-s2e3-libby.jpg?aid=rss_feed"/>
+      <itunes:duration>00:13:08</itunes:duration>
+      <itunes:summary>Libby Davis manages security at Google&apos;s data centers in Iowa. </itunes:summary>
+      <itunes:subtitle>Libby Davis manages security at Google&apos;s data centers in Iowa. </itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, google, data centers, careers, internet</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">c39867be-7962-4cd7-9e05-b065d48e5c7a</guid>
+      <title>“I Feel Like I’ve Seen It All”</title>
+      <description><![CDATA[<p>Modern data centers are like small cities filled with warehouse-scale computers, bundles of cables and pipes, and colossal equipment to keep everything running. </p><p>Kenny “KP” Philpot is an environmental health and safety program manager at Google's Douglas County data center outside Atlanta. </p><p>Before running around the floors of data centers, KP was running around the football field, playing for the Detroit Lions. And before playing professional football, he learned hard lessons while growing up on the South Side of Chicago.</p><p>Today, he helps make sure that vast pieces of data center infrastructure – and the technicians, electricians, and mechanical engineers who manage them – are safe and sound.</p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center. </p>
+]]></description>
+      <pubDate>Thu, 9 Dec 2021 12:01:39 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Stephanie Wong, Kenny Philpot)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/i-feel-like-ive-seen-it-all-aBT4oyBc</link>
+      <content:encoded><![CDATA[<p>Modern data centers are like small cities filled with warehouse-scale computers, bundles of cables and pipes, and colossal equipment to keep everything running. </p><p>Kenny “KP” Philpot is an environmental health and safety program manager at Google's Douglas County data center outside Atlanta. </p><p>Before running around the floors of data centers, KP was running around the football field, playing for the Detroit Lions. And before playing professional football, he learned hard lessons while growing up on the South Side of Chicago.</p><p>Today, he helps make sure that vast pieces of data center infrastructure – and the technicians, electricians, and mechanical engineers who manage them – are safe and sound.</p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center. </p>
+]]></content:encoded>
+      <enclosure length="14824708" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/e56e7b3b-2b4a-4c66-855c-8d8c2add3f19/audio/8c8be3bc-3c35-4037-80d4-4741e1aa320e/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“I Feel Like I’ve Seen It All”</itunes:title>
+      <itunes:author>Stephanie Wong, Kenny Philpot</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/95b5f744-b094-40fb-a2dd-91e8e2dd1556/3000x3000/gdc-wtil-3000x3000-static-s2e2-kenny.jpg?aid=rss_feed"/>
+      <itunes:duration>00:15:26</itunes:duration>
+      <itunes:summary>Kenny “KP” Philpot is an environmental health and safety program manager at Google&apos;s data center in Georgia.</itunes:summary>
+      <itunes:subtitle>Kenny “KP” Philpot is an environmental health and safety program manager at Google&apos;s data center in Georgia.</itunes:subtitle>
+      <itunes:keywords>technology, google, data centers, careers, the cloud, internet</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">149e8be3-ee9e-4ed1-8935-9e2ed6612868</guid>
+      <title>“Little Pieces of a Big Puzzle”</title>
+      <description><![CDATA[<p>Data centers aren't just warehouses full of computers. They also contain complex arrangements of power equipment, water treatment facilities, and cooling systems that keep computers operating smoothly around the clock. </p><p>Understanding how all these pieces fit together requires seeing the details and the big picture at the same time – something that Damian Diaz has done all his life, ever since he was a teenager fixing handheld radios in Cuba. </p><p>Damian fled Cuba to seek political asylum. His journey brought him across the ocean and desert, and pushed him to the verge of homelessness. Today, he’s a facilities technician at Google’s data center in New Albany, Ohio – where he helps keep internet services up and running worldwide. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></description>
+      <pubDate>Thu, 9 Dec 2021 12:01:28 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Damian Diaz, Stephanie Wong)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/little-pieces-of-a-big-puzzle-RuBt2gFF</link>
+      <content:encoded><![CDATA[<p>Data centers aren't just warehouses full of computers. They also contain complex arrangements of power equipment, water treatment facilities, and cooling systems that keep computers operating smoothly around the clock. </p><p>Understanding how all these pieces fit together requires seeing the details and the big picture at the same time – something that Damian Diaz has done all his life, ever since he was a teenager fixing handheld radios in Cuba. </p><p>Damian fled Cuba to seek political asylum. His journey brought him across the ocean and desert, and pushed him to the verge of homelessness. Today, he’s a facilities technician at Google’s data center in New Albany, Ohio – where he helps keep internet services up and running worldwide. </p><p><a href="https://www.google.com/about/datacenters/life/">Learn more</a> about building your career at a data center.</p>
+]]></content:encoded>
+      <enclosure length="13111076" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/53202bd7-e94b-49fa-9099-195b0e2de98c/audio/bab608fe-42af-44e0-affb-1521a6cc56be/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>“Little Pieces of a Big Puzzle”</itunes:title>
+      <itunes:author>Damian Diaz, Stephanie Wong</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/af20be71-ceeb-4b14-ade3-be97446639a8/3000x3000/gdc-wtil-3000x3000-static-s2e1-damian.jpg?aid=rss_feed"/>
+      <itunes:duration>00:13:39</itunes:duration>
+      <itunes:summary>Damian Diaz is a facilities technician at Google’s data center in New Albany, Ohio.</itunes:summary>
+      <itunes:subtitle>Damian Diaz is a facilities technician at Google’s data center in New Albany, Ohio.</itunes:subtitle>
+      <itunes:keywords>technology, cloud computing, google, data centers, careers, internet</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">1f30f18c-8950-4675-8657-ee2c68ddceba</guid>
+      <title>Season 2: More Stories About the People Who Run the Internet</title>
+      <description><![CDATA[<p><a href="https://www.google.com/about/datacenters/podcast/"><i>Where the Internet Lives</i></a> is back.</p><p>In our second season, host Stephanie Wong explores data centers alongside the folks who actually design, build, and operate them. </p><p>We’ll hear stories of people who’ve transformed their careers, overcome obstacles, and found inspiration working in the places where the internet lives.</p><p>Subscribe to <i>Where the Internet Lives </i>on <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91cTAxNUxMQw?sa=X&ved=2ahUKEwj25teVpc_0AhXjM1kFHRR2CrQQ9sEGegQIARAE">Google podcasts</a>, <a href="https://podcasts.apple.com/us/podcast/where-the-internet-lives/id1541394865">Apple</a>, <a href="https://open.spotify.com/show/2Y5ish3Fs4ZbnKYYVG59HT">Spotify</a>, or anywhere you get your shows.</p>
+]]></description>
+      <pubDate>Mon, 6 Dec 2021 13:36:45 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Stephanie Wong)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/season-2-is-coming-PUS1zCS_</link>
+      <content:encoded><![CDATA[<p><a href="https://www.google.com/about/datacenters/podcast/"><i>Where the Internet Lives</i></a> is back.</p><p>In our second season, host Stephanie Wong explores data centers alongside the folks who actually design, build, and operate them. </p><p>We’ll hear stories of people who’ve transformed their careers, overcome obstacles, and found inspiration working in the places where the internet lives.</p><p>Subscribe to <i>Where the Internet Lives </i>on <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91cTAxNUxMQw?sa=X&ved=2ahUKEwj25teVpc_0AhXjM1kFHRR2CrQQ9sEGegQIARAE">Google podcasts</a>, <a href="https://podcasts.apple.com/us/podcast/where-the-internet-lives/id1541394865">Apple</a>, <a href="https://open.spotify.com/show/2Y5ish3Fs4ZbnKYYVG59HT">Spotify</a>, or anywhere you get your shows.</p>
+]]></content:encoded>
+      <enclosure length="762054" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/75ef8057-277e-4ecd-9f2b-5f546cd7ad62/audio/10843bb8-f88c-410c-90a0-408ba663efc8/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Season 2: More Stories About the People Who Run the Internet</itunes:title>
+      <itunes:author>Stephanie Wong</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/f743f9e0-8ec4-43dc-8361-431829f4c096/ecb796fe-6836-4b0f-96b0-860c858818bc/3000x3000/gdc-wtil-3000x3000-static-s2-teaser.jpg?aid=rss_feed"/>
+      <itunes:duration>00:00:48</itunes:duration>
+      <itunes:summary>In this season, we have 10 stories about the people who run the Internet.</itunes:summary>
+      <itunes:subtitle>In this season, we have 10 stories about the people who run the Internet.</itunes:subtitle>
+      <itunes:keywords>technology, data centers, careers, internet</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermaLink="false">b336beda-5231-4f13-a4a7-fe2a6b2e45f6</guid>
+      <title>Six: The Future</title>
+      <description><![CDATA[<p>For fifty years, computer performance has improved exponentially while the cost of computing has plummeted – but this phenomenal “Moore’s Law” trend has begun to slow down. What does this mean for data centers and what lies ahead? In our final episode, we peer into the future of technology – from machine learning to quantum computing – and explore the next chapter in the story of the physical internet.</p>
+]]></description>
+      <pubDate>Thu, 10 Dec 2020 02:10:01 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/the-future-tG7kQBZB</link>
+      <content:encoded><![CDATA[<p>For fifty years, computer performance has improved exponentially while the cost of computing has plummeted – but this phenomenal “Moore’s Law” trend has begun to slow down. What does this mean for data centers and what lies ahead? In our final episode, we peer into the future of technology – from machine learning to quantum computing – and explore the next chapter in the story of the physical internet.</p>
+]]></content:encoded>
+      <enclosure length="35543293" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/2a330dc7-fdd6-496c-a4bf-1935c2842510/audio/52212ef7-60d9-4bd7-9417-ce7d076c051b/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Six: The Future</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:duration>00:37:01</itunes:duration>
+      <itunes:summary>What will data centers look like in 10, 50, or 10,000 years?</itunes:summary>
+      <itunes:subtitle>What will data centers look like in 10, 50, or 10,000 years?</itunes:subtitle>
+      <itunes:keywords>google, technology, innovation, quantum computing, artificial intelligence, cloud computing, machine learning, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">6c54f000-ab40-42d1-be76-b812574b16a2</guid>
+      <title>Five: What If?</title>
+      <description><![CDATA[<p> We’ll cover the mind-boggling “what-if” scenarios that security experts inside data centers prepare for — all to protect user data and keep the internet running. And we'll learn about the multi-layered systems that keep warehouse computers secure.</p>
+]]></description>
+      <pubDate>Thu, 10 Dec 2020 02:04:59 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/what-if-oGsPkEEb</link>
+      <content:encoded><![CDATA[<p> We’ll cover the mind-boggling “what-if” scenarios that security experts inside data centers prepare for — all to protect user data and keep the internet running. And we'll learn about the multi-layered systems that keep warehouse computers secure.</p>
+]]></content:encoded>
+      <enclosure length="25986656" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/fd6cc66e-59cb-44c9-9346-45504dada06e/audio/ee23896a-ba31-41e7-9ba1-d7019b6d77ab/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Five: What If?</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:duration>00:27:04</itunes:duration>
+      <itunes:summary>Power outages? Hurricanes? Wildfires? Zombies? Google data centers have to keep operating in even the most unexpected events.
+</itunes:summary>
+      <itunes:subtitle>Power outages? Hurricanes? Wildfires? Zombies? Google data centers have to keep operating in even the most unexpected events.
+</itunes:subtitle>
+      <itunes:keywords>google, technology, cloud computing, data centers, security</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">a62b3970-da36-4902-b2ac-02022c0b50ac</guid>
+      <title>Four: A Quest for 24/7 Clean Energy</title>
+      <description><![CDATA[<p> In this episode, we look at the evolution of data center energy use in a world confronting the threat of climate change – and explore promising ideas that could fuel a carbon-free future.</p>
+]]></description>
+      <pubDate>Thu, 10 Dec 2020 01:57:18 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/the-quest-for-24-7-clean-energy-sCzPEaiv</link>
+      <content:encoded><![CDATA[<p> In this episode, we look at the evolution of data center energy use in a world confronting the threat of climate change – and explore promising ideas that could fuel a carbon-free future.</p>
+]]></content:encoded>
+      <enclosure length="39403564" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/6e7ff35c-f309-4e82-bf52-66431f817f06/audio/41fa0529-e4d0-4777-8aa4-44f715993b19/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Four: A Quest for 24/7 Clean Energy</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:duration>00:41:03</itunes:duration>
+      <itunes:summary>What would it take to run data centers on clean electricity, everywhere, every hour of every day?</itunes:summary>
+      <itunes:subtitle>What would it take to run data centers on clean electricity, everywhere, every hour of every day?</itunes:subtitle>
+      <itunes:keywords>climate change, technology, sustainability, energy efficiency, cloud computing, data centers, clean energy</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">5edc229c-e41d-47d4-9e8f-a7b639b8c0f7</guid>
+      <title>Three: When the Data Center Came to Town</title>
+      <description><![CDATA[<p>How do data centers intersect with the communities they call home? What kinds of jobs do they create and what do residents think of having a big computer in their backyard? In this episode, we hear what happens when the industrial economy meets the digital economy in rural Alabama.</p>
+]]></description>
+      <pubDate>Thu, 10 Dec 2020 01:52:55 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (technology, Google, economic development, cloud computing, data centers)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/when-the-data-center-came-to-town-TP4bHZzs</link>
+      <content:encoded><![CDATA[<p>How do data centers intersect with the communities they call home? What kinds of jobs do they create and what do residents think of having a big computer in their backyard? In this episode, we hear what happens when the industrial economy meets the digital economy in rural Alabama.</p>
+]]></content:encoded>
+      <enclosure length="39678999" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/65e6392c-ab2a-4835-a675-81f79df901ae/audio/8e6f9098-9210-44d2-a95f-35719f62232a/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Three: When the Data Center Came to Town</itunes:title>
+      <itunes:author>technology, Google, economic development, cloud computing, data centers</itunes:author>
+      <itunes:duration>00:41:20</itunes:duration>
+      <itunes:summary>What happens when the industrial economy meets the digital economy? </itunes:summary>
+      <itunes:subtitle>What happens when the industrial economy meets the digital economy? </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">64bd1003-6649-40e3-ac62-2d40637208bc</guid>
+      <title>Two: Inside the Walls</title>
+      <description><![CDATA[<p>Data centers are some of the most secure buildings on the planet. In this episode, we invite you to step inside and take a tour with one of Google’s top engineers. As we venture into computer systems that connect the world, we meet the people who keep these warehouse-scale facilities running. Plus, a little-known story about the scrappy origins of Google’s first computers.</p>
+]]></description>
+      <pubDate>Thu, 10 Dec 2020 01:46:39 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/inside-the-walls-KWAYmioY</link>
+      <content:encoded><![CDATA[<p>Data centers are some of the most secure buildings on the planet. In this episode, we invite you to step inside and take a tour with one of Google’s top engineers. As we venture into computer systems that connect the world, we meet the people who keep these warehouse-scale facilities running. Plus, a little-known story about the scrappy origins of Google’s first computers.</p>
+]]></content:encoded>
+      <enclosure length="39299074" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/cbe8b594-437f-4945-8edd-c367aa324863/audio/d39ef875-22ce-4267-8fbc-d74c484c68fd/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Two: Inside the Walls</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:duration>00:40:56</itunes:duration>
+      <itunes:summary>What’s it like inside a data center? Let’s take a tour. But first: the scrappy history of how these warehouse-scale computers came to be.</itunes:summary>
+      <itunes:subtitle>What’s it like inside a data center? Let’s take a tour. But first: the scrappy history of how these warehouse-scale computers came to be.</itunes:subtitle>
+      <itunes:keywords>google, technology, cloud computing, internet, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">a3ebbd8d-a623-46c5-94fa-6349a4690cd0</guid>
+      <title>One: You Use Data Centers</title>
+      <description><![CDATA[<p>In our first episode, we explore what data centers are – and how they keep the internet going, even when events like COVID-19 trigger historic surges in traffic.</p>
+]]></description>
+      <pubDate>Thu, 10 Dec 2020 01:31:05 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Google)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/you-use-data-centers-RDj3b3cw</link>
+      <content:encoded><![CDATA[<p>In our first episode, we explore what data centers are – and how they keep the internet going, even when events like COVID-19 trigger historic surges in traffic.</p>
+]]></content:encoded>
+      <enclosure length="28968795" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/b5304488-0472-4d64-8d10-472328c29156/audio/4041bd4b-506b-410d-98b5-9e4a3c23b740/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>One: You Use Data Centers</itunes:title>
+      <itunes:author>Google</itunes:author>
+      <itunes:duration>00:30:10</itunes:duration>
+      <itunes:summary>Nearly 5 billion people use the internet, but how many could tell you where it lives?</itunes:summary>
+      <itunes:subtitle>Nearly 5 billion people use the internet, but how many could tell you where it lives?</itunes:subtitle>
+      <itunes:keywords>google, technology, computing, internet, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">fd271bca-2588-4a55-900f-35acbd48adca</guid>
+      <title>Introducing &quot;Where the Internet Lives&quot;</title>
+      <description><![CDATA[<p>"Where the Internet Lives" is a new podcast about the unseen world of data centers. </p><p>In this series, we’ll go inside a data center and learn how the machines actually work. </p><p>We’ll hear about the early days of Google’s first data center designs — and how they set the stage for today’s hyper-scale facilities. </p><p>We’ll learn about how data centers are becoming a backbone of the clean energy economy. </p><p>And we’ll explore how quantum computing, the end of Moore’s law, and new uses of the Cloud are changing the way we build the physical internet.</p>
+]]></description>
+      <pubDate>Fri, 20 Nov 2020 20:43:19 +0000</pubDate>
+      <author>stephen@postscriptaudio.com (Barry Fischer)</author>
+      <link>https://where-the-internet-lives.simplecast.com/episodes/where-the-internet-lives-trailer-iwzE2tWj</link>
+      <content:encoded><![CDATA[<p>"Where the Internet Lives" is a new podcast about the unseen world of data centers. </p><p>In this series, we’ll go inside a data center and learn how the machines actually work. </p><p>We’ll hear about the early days of Google’s first data center designs — and how they set the stage for today’s hyper-scale facilities. </p><p>We’ll learn about how data centers are becoming a backbone of the clean energy economy. </p><p>And we’ll explore how quantum computing, the end of Moore’s law, and new uses of the Cloud are changing the way we build the physical internet.</p>
+]]></content:encoded>
+      <enclosure length="1107702" type="audio/mpeg" url="https://chrt.fm/track/G78F99/cdn.simplecast.com/audio/1fa9e054-c34b-489c-86b1-bd3464944c5c/episodes/6262f226-03e0-47f5-9bae-c2b06fd12873/audio/140e0163-8d3f-4a25-884a-650d2a31526f/default_tc.mp3?aid=rss_feed&amp;feed=uq015LLC"/>
+      <itunes:title>Introducing &quot;Where the Internet Lives&quot;</itunes:title>
+      <itunes:author>Barry Fischer</itunes:author>
+      <itunes:duration>00:01:09</itunes:duration>
+      <itunes:summary>Explore a place very few people get to see: where the internet lives.</itunes:summary>
+      <itunes:subtitle>Explore a place very few people get to see: where the internet lives.</itunes:subtitle>
+      <itunes:keywords>google, technology, computer science, internet, data centers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Talking with Apples]]></title>
+		<description><![CDATA[The talking with Apples podcast is all about mobile development and inviting community members to come and chat about cool things happening in the mobile space. We will be covering Android, iOS, Machine Learning for Mobile and evening backend technologies used to power mobile apps. The show is hosted my Peter-John Welcome.]]></description>
+		<link>https://podcasters.spotify.com/pod/show/talkingwithapples</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Wed, 11 Jun 2025 06:18:49 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/24c4acec/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Peter-John Welcome]]></author>
+		<copyright><![CDATA[Peter-John Welcome]]></copyright>
+		<language><![CDATA[en-za]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Peter-John Welcome</itunes:author>
+		<itunes:summary>The talking with Apples podcast is all about mobile development and inviting community members to come and chat about cool things happening in the mobile space. We will be covering Android, iOS, Machine Learning for Mobile and evening backend technologies used to power mobile apps. The show is hosted my Peter-John Welcome.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Peter-John Welcome</itunes:name>
+			<itunes:email>podcasts60+24c4acec@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+		<item>
+			<title><![CDATA[Talking Firebase with Arthur Thompson]]></title>
+			<description><![CDATA[<p>In this Episode of talking with Apples, we talk to Arthur Thompson a developer advocate on the <a href="https://www.youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg" rel="nofollow">@Firebase</a> team about some of Firebase&#39;s newer products and how they can help you achieve great app quality but also improve your app development when using firebase.</p>
+<p><br></p>
+<p>https://firebase.google.com/docs/emulator-suite</p>
+<p>https://firebase.google.com/docs/crashlytics</p>
+<p>https://firebase.google.com/docs/test-lab
+
+Twitter: @pjapplez
+Arthur&#39;s Twitter: @kroikie</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Firebase-with-Arthur-Thompson-e2a50iu</link>
+			<guid isPermaLink="false">5ab83e89-54fe-4058-b82e-1a3659a57e89</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Wed, 04 Oct 2023 08:58:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/76759070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-4%2F45343479-d95c-2230-3ac3-791f23dfec18.mp3" length="25084348" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this Episode of talking with Apples, we talk to Arthur Thompson a developer advocate on the &lt;a href=&quot;https://www.youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg&quot; rel=&quot;nofollow&quot;&gt;@Firebase&lt;/a&gt; team about some of Firebase&amp;#39;s newer products and how they can help you achieve great app quality but also improve your app development when using firebase.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;https://firebase.google.com/docs/emulator-suite&lt;/p&gt;
+&lt;p&gt;https://firebase.google.com/docs/crashlytics&lt;/p&gt;
+&lt;p&gt;https://firebase.google.com/docs/test-lab
+
+Twitter: @pjapplez
+Arthur&amp;#39;s Twitter: @kroikie&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:26:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Design Systems with Nick Rout]]></title>
+			<description><![CDATA[<p>In this episode of talking with Apples we speak to Nick Rout about Design systems. What it is? Is it useful to create and how will it benefit your workflow as a developer and a designer.</p>
+<p><br></p>
+<p>Nick&#39;s Twitter/X : @ricknout</p>
+<p>PJ Twitter: @pjapplez</p>
+<p><br></p>
+<ul>
+ <li><p><a href="https://www.invisionapp.com/inside-design/guide-to-design-systems/">A comprehensive guide to design systems | Inside Design Blog</a></p>
+</li>
+ <li><p><a href="https://www.designsystems.com/">DesignSystems.com</a></p>
+</li>
+ <li><p><a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design | Brad Frost</a></p>
+</li>
+ <li><p><a href="https://developer.android.com/jetpack/compose/designsystems">Design systems in Compose | Jetpack Compose | Android Developers</a></p>
+</li>
+ <li><p><a href="https://blog.jetbrains.com/kotlin/2023/05/compose-multiplatform-for-ios-is-in-alpha/">Compose Multiplatform for iOS Is in Alpha | The Kotlin Blog</a> (see ‘Theming Compose Multiplatform for iOS’ section)</p>
+</li>
+ <li><p><a href="https://github.com/alexzhirkevich/compose-look-and-feel">GitHub - alexzhirkevich/compose-look-and-feel: Compose Multiplatform UI components for iOS (Cupertino Widgets) and more. Work in progress...</a></p>
+</li>
+  <li><p><a href="https://www.youtube.com/watch?v=jgueTz72ZMQ">Creating DoorDash’s native mobile design system - Camden Asay, Matthew Burg, Will Hou, Ayanna Kosoko</a></p>
+</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Design-Systems-with-Nick-Rout-e27m11p</link>
+			<guid isPermaLink="false">47e4e6df-75e6-4e03-95cc-3ebccaba08a6</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Sun, 06 Aug 2023 21:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/74170873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-3%2F862dec85-11c8-0c07-bd92-9ceedfab8c53.mp3" length="66605927" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of talking with Apples we speak to Nick Rout about Design systems. What it is? Is it useful to create and how will it benefit your workflow as a developer and a designer.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nick&amp;#39;s Twitter/X : @ricknout&lt;/p&gt;
+&lt;p&gt;PJ Twitter: @pjapplez&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.invisionapp.com/inside-design/guide-to-design-systems/&quot;&gt;A comprehensive guide to design systems | Inside Design Blog&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+ &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.designsystems.com/&quot;&gt;DesignSystems.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+ &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://bradfrost.com/blog/post/atomic-web-design/&quot;&gt;Atomic Design | Brad Frost&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+ &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://developer.android.com/jetpack/compose/designsystems&quot;&gt;Design systems in Compose | Jetpack Compose | Android Developers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+ &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://blog.jetbrains.com/kotlin/2023/05/compose-multiplatform-for-ios-is-in-alpha/&quot;&gt;Compose Multiplatform for iOS Is in Alpha | The Kotlin Blog&lt;/a&gt; (see ‘Theming Compose Multiplatform for iOS’ section)&lt;/p&gt;
+&lt;/li&gt;
+ &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alexzhirkevich/compose-look-and-feel&quot;&gt;GitHub - alexzhirkevich/compose-look-and-feel: Compose Multiplatform UI components for iOS (Cupertino Widgets) and more. Work in progress...&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+  &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jgueTz72ZMQ&quot;&gt;Creating DoorDash’s native mobile design system - Camden Asay, Matthew Burg, Will Hou, Ayanna Kosoko&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:46:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/6068691/6068691-1691086783635-5f89a422d9cca.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Multiplatform/Cross Platform with John O'Reilly]]></title>
+			<description><![CDATA[<p>In this episode of talking with apples, we speak to John O'Reilly about cross platform development and Kotlin Multiplatform. We take a deep dive into what these are, how well they are doing amongst developers and what business think about them. We also spoke about SwiftUI and Jetpack Compose and how these native UI toolkits is changing the way we do mobile development. We also spoke briefly around tooling for KMM. We also touched on GraphQL a bit and Ktor and how they are effecting the mobile space.&nbsp;</p>
+<p><br></p>
+<p>PJ Twitter: https://twitter.com/pjapplez</p>
+<p>John's Twitter: &nbsp;https://twitter.com/joreilly</p>
+<p>John's Blog: https://johnoreilly.dev/</p>
+<p>John's Github: https://github.com/joreilly<br>
+Kotlin Multiplatform Mobile: https://kotlinlang.org/lp/mobile/</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-MultiplatformCross-Platform-with-John-OReilly-e1eorao</link>
+			<guid isPermaLink="false">3c71f061-e6c4-416a-91c7-e6d8970d7b9d</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Tue, 22 Feb 2022 18:16:05 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/48048920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-22%2F249881920-44100-2-578baded6b5f.m4a" length="62570394" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode of talking with apples, we speak to John O&apos;Reilly about cross platform development and Kotlin Multiplatform. We take a deep dive into what these are, how well they are doing amongst developers and what business think about them. We also spoke about SwiftUI and Jetpack Compose and how these native UI toolkits is changing the way we do mobile development. We also spoke briefly around tooling for KMM. We also touched on GraphQL a bit and Ktor and how they are effecting the mobile space.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;PJ Twitter: https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;John&apos;s Twitter: &amp;nbsp;https://twitter.com/joreilly&lt;/p&gt;
+&lt;p&gt;John&apos;s Blog: https://johnoreilly.dev/&lt;/p&gt;
+&lt;p&gt;John&apos;s Github: https://github.com/joreilly&lt;br&gt;
+Kotlin Multiplatform Mobile: https://kotlinlang.org/lp/mobile/&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:04:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6068691/6068691-1593776789642-17480fd83e841.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Kotlin with Pamela Hill]]></title>
+			<description><![CDATA[<p>In this episode of talking with Apples we talk to Pamela Hill about all things Kotlin. We took a deep dive into what is Kotlin as a programming language, some of its popular features such as coroutines, a little bit of Kotlin Multiplatform and much more. We also discussed great learning material and resources to help listens that are looking to learn this very popular language.&nbsp;</p>
+<p><br></p>
+<p>Twitter Pamela: https://twitter.com/pamelaahill</p>
+<p>Kotlin: https://kotlinlang.org/</p>
+<p>Android Kotlin : https://developer.android.com/courses/android-basics-kotlin/course</p>
+<p>Coroutines for Android: https://developer.android.com/kotlin/coroutines</p>
+<p>KMM : https://kotlinlang.org/docs/kmm-overview.html</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Kotlin-with-Pamela-Hill-e1bg311</link>
+			<guid isPermaLink="false">d877a5cb-ab97-4fda-9170-adfa8a7361f9</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Thu, 09 Dec 2021 19:22:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/44616161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-9%2F473e6531-c3c3-52d2-cd65-fa3e442979b1.mp3" length="81196659" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of talking with Apples we talk to Pamela Hill about all things Kotlin. We took a deep dive into what is Kotlin as a programming language, some of its popular features such as coroutines, a little bit of Kotlin Multiplatform and much more. We also discussed great learning material and resources to help listens that are looking to learn this very popular language.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Twitter Pamela: https://twitter.com/pamelaahill&lt;/p&gt;
+&lt;p&gt;Kotlin: https://kotlinlang.org/&lt;/p&gt;
+&lt;p&gt;Android Kotlin : https://developer.android.com/courses/android-basics-kotlin/course&lt;/p&gt;
+&lt;p&gt;Coroutines for Android: https://developer.android.com/kotlin/coroutines&lt;/p&gt;
+&lt;p&gt;KMM : https://kotlinlang.org/docs/kmm-overview.html&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:56:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6068691/6068691-1593776789642-17480fd83e841.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Compose in Production with Jossi Wolf]]></title>
+			<description><![CDATA[<p>In this episode of talking with Apples I spoke to Jossi Wolf who has been working with Jetpack Compose in Production since the Alpha version. We spoke about hes experiences with this new UI framework, whats great about it, what struggles he faced and state of Jetpack Compose now that is 1.0. We also spoke about the compatibility of all the existing libraries that we all use on a daily and how Compose fits into existing apps.</p>
+<p><br></p>
+<p>https://twitter.com/jossiwolf</p>
+<p>https://twitter.com/pjapplez</p>
+<p>https://developer.android.com/jetpack/compose</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Compose-in-Production-with-Jossi-Wolf-e170bco</link>
+			<guid isPermaLink="false">1e91823a-06c4-49f6-b643-0df9de584e75</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Fri, 10 Sep 2021 05:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/39906136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-6%2F216941783-44100-2-fdf0b01e4fe1c.m4a" length="80865548" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode of talking with Apples I spoke to Jossi Wolf who has been working with Jetpack Compose in Production since the Alpha version. We spoke about hes experiences with this new UI framework, whats great about it, what struggles he faced and state of Jetpack Compose now that is 1.0. We also spoke about the compatibility of all the existing libraries that we all use on a daily and how Compose fits into existing apps.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;https://twitter.com/jossiwolf&lt;/p&gt;
+&lt;p&gt;https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;https://developer.android.com/jetpack/compose&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:23:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6068691/6068691-1593776789642-17480fd83e841.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking App Distribution with Keegan Rush]]></title>
+			<description><![CDATA[<p>In this episode of Talking with Apples, I spoke to Keegan Rush about Apple App Distribution. We spoke about what app distribution is, what the process is of distributing your app to the Apple AppStore, what provisioning profiles and certificates are and most importantly how to automate this whole process either using your own scripts or using Fastlane. Happy Listening<br>
+<br>
+https://twitter.com/pjapplez</p>
+<p>https://twitter.com/RushKeegan</p>
+<p>https://www.thecodedself.com/</p>
+<p>https://www.raywenderlich.com/books/ios-app-distribution-best-practices</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-App-Distribution-with-Keegan-Rush-e15loqv</link>
+			<guid isPermaLink="false">ba16a098-d42a-4dc1-a948-3a0a9cc7828c</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Tue, 10 Aug 2021 07:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/38510879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-9%2F0e9e1611-eeea-966c-e615-4f6ea4178325.mp3" length="70976940" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Talking with Apples, I spoke to Keegan Rush about Apple App Distribution. We spoke about what app distribution is, what the process is of distributing your app to the Apple AppStore, what provisioning profiles and certificates are and most importantly how to automate this whole process either using your own scripts or using Fastlane. Happy Listening&lt;br&gt;
+&lt;br&gt;
+https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;https://twitter.com/RushKeegan&lt;/p&gt;
+&lt;p&gt;https://www.thecodedself.com/&lt;/p&gt;
+&lt;p&gt;https://www.raywenderlich.com/books/ios-app-distribution-best-practices&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:49:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking SwiftUI with Majid Jabrayilov]]></title>
+			<description><![CDATA[<p>In this episode of Talking with Apples I speak to Majid who is an Indie iOS Engineer and builds most of he's apps with SwiftUI these days. We spoke about what SwiftUI is and how it differs from UIKit. The took a deep dive into what is like to develop apps in a declarative and reactive way with SwiftUI and Combine. We also spoke about how easy SwiftUI has made developing apps with architectures such as MVVM and made it easier to test UI. Lastly we covered how there are still components that SwiftUI does not have and the what the future holds for iOS development with SwiftUI.&nbsp;</p>
+<p><br></p>
+<p>Majid Twitter: https://twitter.com/mecid</p>
+<p>Majid's Blog : https://swiftwithmajid.com/</p>
+<p>SwiftUI Weekly: http://weekly.swiftwithmajid.com/</p>
+<p>Apples getting started with SwiftUI: https://developer.apple.com/tutorials/swiftui/&nbsp;</p>
+<p>PJ Twitter: https://twitter.com/pjapplez</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-SwiftUI-with-Majid-Jabrayilov-e11rnr5</link>
+			<guid isPermaLink="false">8076de64-0f62-4b86-b2ce-d75f72e7dacd</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Mon, 31 May 2021 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/34512165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-30%2F947a3312-7cac-6f72-f898-27f5cbcf0ebc.mp3" length="81785552" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Talking with Apples I speak to Majid who is an Indie iOS Engineer and builds most of he&apos;s apps with SwiftUI these days. We spoke about what SwiftUI is and how it differs from UIKit. The took a deep dive into what is like to develop apps in a declarative and reactive way with SwiftUI and Combine. We also spoke about how easy SwiftUI has made developing apps with architectures such as MVVM and made it easier to test UI. Lastly we covered how there are still components that SwiftUI does not have and the what the future holds for iOS development with SwiftUI.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Majid Twitter: https://twitter.com/mecid&lt;/p&gt;
+&lt;p&gt;Majid&apos;s Blog : https://swiftwithmajid.com/&lt;/p&gt;
+&lt;p&gt;SwiftUI Weekly: http://weekly.swiftwithmajid.com/&lt;/p&gt;
+&lt;p&gt;Apples getting started with SwiftUI: https://developer.apple.com/tutorials/swiftui/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;PJ Twitter: https://twitter.com/pjapplez&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:56:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Mobile Development with Robert Clegg]]></title>
+			<description><![CDATA[In this episode, I chatted to Robert Clegg an Engineering Lead about the state of Mobile development. We discuss what the state of Native development is with new frameworks and tools like Jetpack Compose and SwiftUI that are changing the way developers think about app development. We also discussed Cross platform frameworks like Flutter, React Native and PWA's and if they are approaches business's should be taking. We also spoke a little about Kotlin Multiplatform and where it falls into the equation and if it might be the platform that takes over mobile. 
+PJ Twitter: https://twitter.com/pjapplez
+Robert Twitter: https://twitter.com/RJ_Clegg
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Mobile-Development-with-Robert-Clegg-eqdbhh</link>
+			<guid isPermaLink="false">93e03451-8adb-419b-b12e-8f7c0b4c30ef</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Fri, 19 Mar 2021 05:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/26700785/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-14%2Fc4366923-5d9e-84ac-37de-426c13948d01.mp3" length="102646785" type="audio/mpeg"/>
+			<itunes:summary>In this episode, I chatted to Robert Clegg an Engineering Lead about the state of Mobile development. We discuss what the state of Native development is with new frameworks and tools like Jetpack Compose and SwiftUI that are changing the way developers think about app development. We also discussed Cross platform frameworks like Flutter, React Native and PWA&apos;s and if they are approaches business&apos;s should be taking. We also spoke a little about Kotlin Multiplatform and where it falls into the equation and if it might be the platform that takes over mobile. 
+PJ Twitter: https://twitter.com/pjapplez
+Robert Twitter: https://twitter.com/RJ_Clegg
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:11:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Architecture Components with Florina Muntenescu]]></title>
+			<description><![CDATA[<p>In this episode of talking with Apples, we spoke to Florina Muntenescu about Architecture components and other Jetpack libraries that Google develops. We took a deep dive into each different component and what its purpose is. We covered ViewModel, Room, Paging, LiveData, DataStore, Hilt and Work Manager. We also spoke around what Alpha, Beta and Stable means to the Android team and much more.&nbsp;</p>
+<p><br></p>
+<p>Twitter PJ: https://twitter.com/pjapplez</p>
+<p>Twitter Florina: https://twitter.com/FMuntenescu</p>
+<p>Issue Tracker: https://issuetracker.google.com/issues</p>
+<p>Architecture Components Docs: https://developer.android.com/topic/libraries/architecture</p>
+<p>Codelabs : https://codelabs.developers.google.com/?cat=android</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Architecture-Components-with-Florina-Muntenescu-es2bm3</link>
+			<guid isPermaLink="false">502f0d32-308a-46f6-8323-6137fe8bcd9b</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Tue, 09 Mar 2021 07:33:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/28437635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-9%2F8c578c05-ad02-cfb1-bde0-b80a71762e82.mp3" length="92564303" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of talking with Apples, we spoke to Florina Muntenescu about Architecture components and other Jetpack libraries that Google develops. We took a deep dive into each different component and what its purpose is. We covered ViewModel, Room, Paging, LiveData, DataStore, Hilt and Work Manager. We also spoke around what Alpha, Beta and Stable means to the Android team and much more.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Twitter PJ: https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;Twitter Florina: https://twitter.com/FMuntenescu&lt;/p&gt;
+&lt;p&gt;Issue Tracker: https://issuetracker.google.com/issues&lt;/p&gt;
+&lt;p&gt;Architecture Components Docs: https://developer.android.com/topic/libraries/architecture&lt;/p&gt;
+&lt;p&gt;Codelabs : https://codelabs.developers.google.com/?cat=android&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:04:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking AWS Amplify with Kilo Loco]]></title>
+			<description><![CDATA[<p>In this episode of Talking with Apples we chat to Kilo Loco( Kyle) about AWS Amplify. We deep dive into the tool suite and what it can offer mobile developers. This included API's Databases, Storage and more.&nbsp;</p>
+<p><br></p>
+<p>PJ Twitter: https://twitter.com/pjapplez</p>
+<p>Twitter for Kilo: https://twitter.com/Kilo_Loco</p>
+<p>Amplify Site: https://aws.amazon.com/amplify/</p>
+<p>Amplify Sandbox : https://sandbox.amplifyapp.com/getting-started</p>
+<p>AmplifyDocs: https://docs.amplify.aws/</p>
+<p>Kilos Youtube Channel: https://www.youtube.com/c/KiloLoco</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-AWS-Amplify-with-Kilo-Loco-eqc9fh</link>
+			<guid isPermaLink="false">2a01be56-ed61-4f3f-9718-1130f5e6f850</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Mon, 15 Feb 2021 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/26665905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-13%2F928e8f65-92d6-0858-bb18-41fa3f8a40e8.mp3" length="81889429" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Talking with Apples we chat to Kilo Loco( Kyle) about AWS Amplify. We deep dive into the tool suite and what it can offer mobile developers. This included API&apos;s Databases, Storage and more.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;PJ Twitter: https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;Twitter for Kilo: https://twitter.com/Kilo_Loco&lt;/p&gt;
+&lt;p&gt;Amplify Site: https://aws.amazon.com/amplify/&lt;/p&gt;
+&lt;p&gt;Amplify Sandbox : https://sandbox.amplifyapp.com/getting-started&lt;/p&gt;
+&lt;p&gt;AmplifyDocs: https://docs.amplify.aws/&lt;/p&gt;
+&lt;p&gt;Kilos Youtube Channel: https://www.youtube.com/c/KiloLoco&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:56:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Google Assistant with Eliza Camber]]></title>
+			<description><![CDATA[<p>In this episode of Talking with Apples, I spoke to Google Assistant GDE Eliza Camber about the developing for the Google Assistant and the new Assistant SDK. We discussed Dialogflow, and the migration to the new Actions Builder. We also covered how the Assistant integrates with your Android apps with custom Intents and lots of resources on how developers can get started.</p>
+<p><br></p>
+<ul>
+ <li>PJ: https://twitter.com/pjapplez</li>
+ <li>Eliza Camber: https://twitter.com/ElizaCamber</li>
+  <li>Google Assistant: https://developers.google.com/assistant</li>
+  <li>Assistant Codelabs: https://codelabs.developers.google.com/?cat=assistant</li>
+  <li>Youtube Playlist Conversational Actions: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ5qQKAYt45zZNMU9h1Grpm</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Google-Assistant-with-Eliza-Camber-eoipvl</link>
+			<guid isPermaLink="false">6784d5ca-13ca-4dd6-aad0-369a7b7a3d5e</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Tue, 05 Jan 2021 09:56:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/24782261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-5%2F142983615-44100-2-cceb317297f31.m4a" length="47749079" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode of Talking with Apples, I spoke to Google Assistant GDE Eliza Camber about the developing for the Google Assistant and the new Assistant SDK. We discussed Dialogflow, and the migration to the new Actions Builder. We also covered how the Assistant integrates with your Android apps with custom Intents and lots of resources on how developers can get started.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;PJ: https://twitter.com/pjapplez&lt;/li&gt;
+ &lt;li&gt;Eliza Camber: https://twitter.com/ElizaCamber&lt;/li&gt;
+  &lt;li&gt;Google Assistant: https://developers.google.com/assistant&lt;/li&gt;
+  &lt;li&gt;Assistant Codelabs: https://codelabs.developers.google.com/?cat=assistant&lt;/li&gt;
+  &lt;li&gt;Youtube Playlist Conversational Actions: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ5qQKAYt45zZNMU9h1Grpm&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:49:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Mobile DevOps With Nicola Corti]]></title>
+			<description><![CDATA[<p>In this episode of Talking with Apples, we take a deep dive into DevOps, in particular Mobile DevOps. We talk about the DevOps like cycle, the culture you need to have within your organization in order for DevOps to be beneficial, tools you can use to get started and different CI/CD providers you can use to help your increase in quality and automation.&nbsp;</p>
+<ul>
+ <li>Twitter Nicola: https://twitter.com/cortinico</li>
+ <li>Mobile DevOps Talk: https://speakerdeck.com/cortinico/tales-of-a-mobile-devops</li>
+ <li>Detekt: https://github.com/detekt/detekt</li>
+ <li>Github Actions : https://github.com/features/actions</li>
+  <li>Bitrise: https://www.bitrise.io/</li>
+  <li>DevOps for your app Article: https://proandroiddev.com/building-a-devops-pipeline-for-your-app-introduction-3e3597d30875</li>
+  <li>Twitter PJ: https://twitter.com/pjapplez</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Mobile-DevOps-With-Nicola-Corti-eng5sa</link>
+			<guid isPermaLink="false">ccc15d83-ed4b-4567-86bd-c7b4ddb5a3a4</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Mon, 14 Dec 2020 07:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/23647562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-7%2F135721713-44100-2-df0f44244d8db.m4a" length="60859618" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode of Talking with Apples, we take a deep dive into DevOps, in particular Mobile DevOps. We talk about the DevOps like cycle, the culture you need to have within your organization in order for DevOps to be beneficial, tools you can use to get started and different CI/CD providers you can use to help your increase in quality and automation.&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter Nicola: https://twitter.com/cortinico&lt;/li&gt;
+ &lt;li&gt;Mobile DevOps Talk: https://speakerdeck.com/cortinico/tales-of-a-mobile-devops&lt;/li&gt;
+ &lt;li&gt;Detekt: https://github.com/detekt/detekt&lt;/li&gt;
+ &lt;li&gt;Github Actions : https://github.com/features/actions&lt;/li&gt;
+  &lt;li&gt;Bitrise: https://www.bitrise.io/&lt;/li&gt;
+  &lt;li&gt;DevOps for your app Article: https://proandroiddev.com/building-a-devops-pipeline-for-your-app-introduction-3e3597d30875&lt;/li&gt;
+  &lt;li&gt;Twitter PJ: https://twitter.com/pjapplez&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:02:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Freelancing with Mark Alison]]></title>
+			<description><![CDATA[<p>In this episode of Talking with Apples, we talk to Mark Alison, an experienced Freelance Engineer about being a mobile freelance engineer, if its feasible, how community contributions help with finding work, some pro's and cons about freelancing and how freelancing can make you a little more money than being a permanent employee.&nbsp;</p>
+<p>Freelancing blog post: https://blog.stylingandroid.com/freelancing/</p>
+<p>Twitter Mark Alison: https://twitter.com/MarkIAllison</p>
+<p>Styling Android: https://blog.stylingandroid.com/&nbsp;</p>
+<p>Twitter PJ: https://twitter.com/pjapplez</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Freelancing-with-Mark-Alison-eng4et</link>
+			<guid isPermaLink="false">85ad5a98-645b-4873-a465-d859f2adccce</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Tue, 08 Dec 2020 07:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/23646109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-7%2F135715305-44100-2-cc8567e72b7f6.m4a" length="84759723" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode of Talking with Apples, we talk to Mark Alison, an experienced Freelance Engineer about being a mobile freelance engineer, if its feasible, how community contributions help with finding work, some pro&apos;s and cons about freelancing and how freelancing can make you a little more money than being a permanent employee.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Freelancing blog post: https://blog.stylingandroid.com/freelancing/&lt;/p&gt;
+&lt;p&gt;Twitter Mark Alison: https://twitter.com/MarkIAllison&lt;/p&gt;
+&lt;p&gt;Styling Android: https://blog.stylingandroid.com/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Twitter PJ: https://twitter.com/pjapplez&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:27:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking AR with Julien Salvi]]></title>
+			<description><![CDATA[<p>In this episode of talking with Apples, I chatted to Julien Salvi who us an Android Engineer in Paris France about AR. We took a deep dive into ARCore and all its features especially the new ones like depth API and light estimation and we spoke about alternative platforms such as Unity and Vuforia. We also touched on 3D objects and how you can integrate these objects into your Android app. <br>
+<br>
+PJ: https://twitter.com/pjapplez</p>
+<p>Julien: https://twitter.com/JulienSalvi</p>
+<p>ARCore: https://developers.google.com/ar</p>
+<p>AR Unity: https://unity.com/unity/features/ar</p>
+<p>Vuforia: https://developer.vuforia.com/</p>
+<p>Googles AR model Library - Poly: https://poly.google.com/</p>
+<p><a href="https://t.co/hDw8NBCiDm?amp=1" rel=" noopener noreferrer" target="_blank" title="http://arvr.google.com/scene-viewer-preview">http://arvr.google.com/scene-viewer-preview</a></p>
+<p>https://sketchfab.com/</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-AR-with-Julien-Salvi-ekd4vo</link>
+			<guid isPermaLink="false">eac27c28-8d50-4349-b555-7c33c76dfb58</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Wed, 30 Sep 2020 15:34:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/20402616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-30%2F113553034-44100-2-f5084514db123.m4a" length="35147321" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode of talking with Apples, I chatted to Julien Salvi who us an Android Engineer in Paris France about AR. We took a deep dive into ARCore and all its features especially the new ones like depth API and light estimation and we spoke about alternative platforms such as Unity and Vuforia. We also touched on 3D objects and how you can integrate these objects into your Android app. &lt;br&gt;
+&lt;br&gt;
+PJ: https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;Julien: https://twitter.com/JulienSalvi&lt;/p&gt;
+&lt;p&gt;ARCore: https://developers.google.com/ar&lt;/p&gt;
+&lt;p&gt;AR Unity: https://unity.com/unity/features/ar&lt;/p&gt;
+&lt;p&gt;Vuforia: https://developer.vuforia.com/&lt;/p&gt;
+&lt;p&gt;Googles AR model Library - Poly: https://poly.google.com/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://t.co/hDw8NBCiDm?amp=1&quot; rel=&quot; noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;http://arvr.google.com/scene-viewer-preview&quot;&gt;http://arvr.google.com/scene-viewer-preview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;https://sketchfab.com/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Jetpack Compose in Alpha with Sean McQuillan]]></title>
+			<description><![CDATA[<p>In this episode of Talking with Apples I speak to Sean who is a Developer Advocate on the Android team about Jetpack Compose being in Alpha. We dive into what it is, how it came about, the different components and even architectures that work well with Compose. In the end Sean answers an important question about &nbsp;if Compose is production ready.</p>
+<p>PJ: https://twitter.com/pjapplez</p>
+<p>Sean: https://twitter.com/objcode</p>
+<p>Compose : https://developer.android.com/jetpack/compose</p>
+<p>Compose pathway: https://developer.android.com/courses/pathways/compose</p>
+<p>Compose codelabs: https://codelabs.developers.google.com/?cat=Android</p>
+<p>Compose Samples: https://github.com/android/compose-samples</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Jetpack-Compose-in-Alpha-with-Sean-McQuillan-ejbqi8</link>
+			<guid isPermaLink="false">cb10a5c5-9f94-4d81-b7d8-85d374e07638</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Wed, 09 Sep 2020 10:02:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/19310600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-9%2F3ec494be-f223-741b-b755-00491ef791f9.mp3" length="108055205" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Talking with Apples I speak to Sean who is a Developer Advocate on the Android team about Jetpack Compose being in Alpha. We dive into what it is, how it came about, the different components and even architectures that work well with Compose. In the end Sean answers an important question about &amp;nbsp;if Compose is production ready.&lt;/p&gt;
+&lt;p&gt;PJ: https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;Sean: https://twitter.com/objcode&lt;/p&gt;
+&lt;p&gt;Compose : https://developer.android.com/jetpack/compose&lt;/p&gt;
+&lt;p&gt;Compose pathway: https://developer.android.com/courses/pathways/compose&lt;/p&gt;
+&lt;p&gt;Compose codelabs: https://codelabs.developers.google.com/?cat=Android&lt;/p&gt;
+&lt;p&gt;Compose Samples: https://github.com/android/compose-samples&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:15:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Firebase with Peter Friese]]></title>
+			<description><![CDATA[<p>In this episode of Talking with Apples, we talk to Peter Friese who is a Developer Advocate on the Firebase Team. We chatted about what Firebase is, its many products it offers for to mobile developers and a little about Firebase and Modern iOS development with SwiftUI and Combine. &nbsp;We then ended with chatting about open source a little and contributions external developers have made to Firebase.<br>
+<br>
+PJ : https://twitter.com/pjapplez</p>
+<p>Peter Friese: https://twitter.com/peterfriese</p>
+<p>Firebase: https://firebase.google.com/</p>
+<p>Firebase iOS SDK: &nbsp;https://github.com/firebase/firebase-ios-sdk/</p>
+<p>Firestore for Swift: https://github.com/firebase/firebase-ios-sdk/tree/master/Firestore/Swift</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Firebase-with-Peter-Friese-ej18ei</link>
+			<guid isPermaLink="false">74ac31a5-2a05-4794-8080-a11447142f11</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Wed, 02 Sep 2020 18:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/18964370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-2%2F103758589-44100-2-35e1232bbc898.m4a" length="74854847" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode of Talking with Apples, we talk to Peter Friese who is a Developer Advocate on the Firebase Team. We chatted about what Firebase is, its many products it offers for to mobile developers and a little about Firebase and Modern iOS development with SwiftUI and Combine. &amp;nbsp;We then ended with chatting about open source a little and contributions external developers have made to Firebase.&lt;br&gt;
+&lt;br&gt;
+PJ : https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;Peter Friese: https://twitter.com/peterfriese&lt;/p&gt;
+&lt;p&gt;Firebase: https://firebase.google.com/&lt;/p&gt;
+&lt;p&gt;Firebase iOS SDK: &amp;nbsp;https://github.com/firebase/firebase-ios-sdk/&lt;/p&gt;
+&lt;p&gt;Firestore for Swift: https://github.com/firebase/firebase-ios-sdk/tree/master/Firestore/Swift&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:17:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Machine Learning with Hoi Lam]]></title>
+			<description><![CDATA[<p>In this episode of talking with Apples, I chat to Hoi Lam who is a developer advocate for machine learning at Google about machine learning on Mobile. We spoke about the MLKit and Firebase offering and also go through Tensorflow and what it has to offer. We finally finished off with talking about UX for Machine learning.</p>
+<p>PJ: https://twitter.com/pjapplez</p>
+<p>Hoi Lam Twitter: https://twitter.com/hoitab<br>
+<br>
+ML Model Binding: <a href="https://tfhub.dev/android-studio/collections/ml-model-binding/1">https://tfhub.dev/android-studio/collections/ml-model-binding/1</a></p>
+<p>MLKit compatiable tflite models: <a href="https://tfhub.dev/ml-kit/collections/image-classification/1">https://tfhub.dev/ml-kit/collections/image-classification/1</a></p>
+<p>Firebase Machine Learning: <a href="https://firebase.google.com/products/ml">https://firebase.google.com/products/ml</a></p>
+<p>MLKit : <a href="https://developers.google.com/ml-kit">https://developers.google.com/ml-kit</a></p>
+<p>Tensorflow Hub: <a href="https://tfhub.dev/s?deployment-format=lite">https://tfhub.dev/s?deployment-format=lite</a></p>
+<p>AI + People Guidebook : <a href="https://pair.withgoogle.com/guidebook/">https://pair.withgoogle.com/guidebook/</a></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Machine-Learning-with-Hoi-Lam-eiaj7v</link>
+			<guid isPermaLink="false">493d450f-0c4b-444c-a28d-95cd02431899</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Tue, 18 Aug 2020 20:15:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/18221759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-18%2F99451943-44100-2-8e8d97d301868.m4a" length="70020908" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode of talking with Apples, I chat to Hoi Lam who is a developer advocate for machine learning at Google about machine learning on Mobile. We spoke about the MLKit and Firebase offering and also go through Tensorflow and what it has to offer. We finally finished off with talking about UX for Machine learning.&lt;/p&gt;
+&lt;p&gt;PJ: https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;Hoi Lam Twitter: https://twitter.com/hoitab&lt;br&gt;
+&lt;br&gt;
+ML Model Binding: &lt;a href=&quot;https://tfhub.dev/android-studio/collections/ml-model-binding/1&quot;&gt;https://tfhub.dev/android-studio/collections/ml-model-binding/1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MLKit compatiable tflite models: &lt;a href=&quot;https://tfhub.dev/ml-kit/collections/image-classification/1&quot;&gt;https://tfhub.dev/ml-kit/collections/image-classification/1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Firebase Machine Learning: &lt;a href=&quot;https://firebase.google.com/products/ml&quot;&gt;https://firebase.google.com/products/ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MLKit : &lt;a href=&quot;https://developers.google.com/ml-kit&quot;&gt;https://developers.google.com/ml-kit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tensorflow Hub: &lt;a href=&quot;https://tfhub.dev/s?deployment-format=lite&quot;&gt;https://tfhub.dev/s?deployment-format=lite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AI + People Guidebook : &lt;a href=&quot;https://pair.withgoogle.com/guidebook/&quot;&gt;https://pair.withgoogle.com/guidebook/&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:12:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Fastlane with Josh Holtz]]></title>
+			<description><![CDATA[In this episode of Talking with Apples, we export the Fastlane tool with Josh Holtz who is the lead maintainer for this open source project. We spoke about what Fastlane is, the different tools it provides for iOS and Android developers to automate many tasks and how he maintains this projects as an open source contributor. 
+Fastlane Docs: https://fastlane.tools/
+Twitter : https://twitter.com/pjapplez
+Josh Holtz Twitter : https://twitter.com/joshdholtz
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Fastlane-with-Josh-Holtz-eh61g5</link>
+			<guid isPermaLink="false">eb94fa2e-c69d-4358-a796-005c0625cec3</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Sat, 25 Jul 2020 07:54:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/17023941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-24%2F92721705-44100-2-acbe6a271fd8c.m4a" length="65253467" type="audio/x-m4a"/>
+			<itunes:summary>In this episode of Talking with Apples, we export the Fastlane tool with Josh Holtz who is the lead maintainer for this open source project. We spoke about what Fastlane is, the different tools it provides for iOS and Android developers to automate many tasks and how he maintains this projects as an open source contributor. 
+Fastlane Docs: https://fastlane.tools/
+Twitter : https://twitter.com/pjapplez
+Josh Holtz Twitter : https://twitter.com/joshdholtz
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:07:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Talking Material Design with Nick Rout]]></title>
+			<description><![CDATA[<p>In this episode, I spoke to Nick Rout who is a Developer Advocate on the Material Design team. We spoke about he's journey to becoming a developer advocate, a lot about material design on Android, especially how it fits into the new jetpack compose world and a little bit about open source. <br>
+</p>
+<p>Twitter: https://twitter.com/pjapplez</p>
+<p>Nick's Twitter: https://twitter.com/ricknout</p>
+<p>Material Design Documentation: https://material.io/design</p>
+<p>Material Design Github : https://github.com/material-components</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/talkingwithapples/episodes/Talking-Material-Design-with-Nick-Rout-eggpgj</link>
+			<guid isPermaLink="false">2bd1b1bc-84c0-4448-b345-628ac02cbd00</guid>
+			<dc:creator><![CDATA[Peter-John Welcome]]></dc:creator>
+			<pubDate>Thu, 09 Jul 2020 12:26:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/24c4acec/podcast/play/16327635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-9%2F88789069-44100-2-6625f46c1eb1b.mp3" length="84864232" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, I spoke to Nick Rout who is a Developer Advocate on the Material Design team. We spoke about he&apos;s journey to becoming a developer advocate, a lot about material design on Android, especially how it fits into the new jetpack compose world and a little bit about open source. &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Twitter: https://twitter.com/pjapplez&lt;/p&gt;
+&lt;p&gt;Nick&apos;s Twitter: https://twitter.com/ricknout&lt;/p&gt;
+&lt;p&gt;Material Design Documentation: https://material.io/design&lt;/p&gt;
+&lt;p&gt;Material Design Github : https://github.com/material-components&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:57:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6068691/6068691-1593776791675-5729064172d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

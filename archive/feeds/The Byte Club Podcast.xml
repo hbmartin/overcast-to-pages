@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>The Byte Club Podcast</title>
+    <atom:link href="https://feed.podbean.com/byteclubpodcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://byteclubpodcast.podbean.com</link>
+    <description>Welcome to Byte Club, a tech podcast curated by the girls, for the girls. Our mission? To elevate, educate, and explore the exciting world of technology. So tune in, and remember, the first rule of byte club is to talk about byte club.</description>
+    <pubDate>Sat, 07 Jun 2025 11:21:09 +1000</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+        <copyright>Copyright 2024 All rights reserved.</copyright>
+    <category>Technology</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+          <itunes:summary></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+<itunes:category text="Technology" />
+<itunes:category text="Education" />
+	<itunes:category text="Business">
+		<itunes:category text="Careers" />
+	</itunes:category>
+    <itunes:owner>
+        <itunes:name>byteclubpodcast</itunes:name>
+            </itunes:owner>
+    	<itunes:block>No</itunes:block>
+	<itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/18538601/Insta_Profile_1__5wdt6d.png" />
+    <image>
+        <url>https://pbcdn1.podbean.com/imglogo/image-logo/18538601/Insta_Profile_1__5wdt6d.png</url>
+        <title>The Byte Club Podcast</title>
+        <link>https://byteclubpodcast.podbean.com</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>Episode 14 - Rachel Tobac &amp; Social Engineering</title>
+        <itunes:title>Episode 14 - Rachel Tobac &amp; Social Engineering</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-14-rachel-tobac-social-engineering/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-14-rachel-tobac-social-engineering/#comments</comments>        <pubDate>Sat, 07 Jun 2025 11:21:09 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/21ab1cf3-a9fb-37b9-87b6-0b0a143b5cda</guid>
+                                    <description><![CDATA[<p>What if hacking could save lives instead of ruin them?</p>
+<p>This episode highlights Rachel Tobac — white-hat hacker, CEO of SocialProof Security, and one of the leading voices in the world of ethical social engineering.</p>
+<p>From phishing phone calls to full-blown simulations of cyberattacks, Rachel breaks into security systems - with permission - to show us how humans are the real vulnerability. </p>
+<p> </p>
+<p>Cool Videos To Check Out: 
+</p>
+<p><a href='https://www.youtube.com/watch?v=Fr7V3759oRs'>https://www.youtube.com/watch?v=Fr7V3759oRs</a></p>
+<p><a href='https://www.youtube.com/watch?v=7-lDRgxbU1Y'>https://www.youtube.com/watch?v=7-lDRgxbU1Y</a></p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>What if hacking could save lives instead of ruin them?</p>
+<p>This episode highlights Rachel Tobac — white-hat hacker, CEO of SocialProof Security, and one of the leading voices in the world of ethical social engineering.</p>
+<p>From phishing phone calls to full-blown simulations of cyberattacks, Rachel breaks into security systems - <em>with permission -</em> to show us how humans are the real vulnerability. </p>
+<p> </p>
+<p>Cool Videos To Check Out: <br>
+</p>
+<p><a href='https://www.youtube.com/watch?v=Fr7V3759oRs'>https://www.youtube.com/watch?v=Fr7V3759oRs</a></p>
+<p><a href='https://www.youtube.com/watch?v=7-lDRgxbU1Y'>https://www.youtube.com/watch?v=7-lDRgxbU1Y</a></p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/eqdhr2u9s6xmefp5/E14-Rachel_Tobac6rt18.mp3" length="56683836" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[What if hacking could save lives instead of ruin them?
+This episode highlights Rachel Tobac — white-hat hacker, CEO of SocialProof Security, and one of the leading voices in the world of ethical social engineering.
+From phishing phone calls to full-blown simulations of cyberattacks, Rachel breaks into security systems - with permission - to show us how humans are the real vulnerability. 
+ 
+Cool Videos To Check Out: 
+https://www.youtube.com/watch?v=Fr7V3759oRs
+https://www.youtube.com/watch?v=7-lDRgxbU1Y]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>29:03</itunes:duration>
+                <itunes:episode>15</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 13 - Ada Lovelace &amp; the Analytical Engine</title>
+        <itunes:title>Episode 13 - Ada Lovelace &amp; the Analytical Engine</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-13-ada-lovelace-the-analytical-engine/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-13-ada-lovelace-the-analytical-engine/#comments</comments>        <pubDate>Sat, 24 May 2025 10:12:29 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/85ee18ed-452d-3f52-be8f-01f7f6bb286a</guid>
+                                    <description><![CDATA[<p>Beth Curran takes us on a vivid journey through the dramatic, visionary life of Ada Lovelace — one of the OGs of STEM.
+From deciphering the first analytical engine to spotting the 1800s version of a for loop, this episode blends history, code, and rebellion in all the best ways.</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>Beth Curran takes us on a vivid journey through the dramatic, visionary life of Ada Lovelace — one of the OGs of STEM.<br>
+From deciphering the first analytical engine to spotting the 1800s version of a <em>for loop</em>, this episode blends history, code, and rebellion in all the best ways.</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/a66xbdv6swn4gve3/E13_-_Ada_Lovelace8o9vl.mp3" length="75722928" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[Beth Curran takes us on a vivid journey through the dramatic, visionary life of Ada Lovelace — one of the OGs of STEM.From deciphering the first analytical engine to spotting the 1800s version of a for loop, this episode blends history, code, and rebellion in all the best ways.]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>38:52</itunes:duration>
+        <itunes:season>2</itunes:season>
+        <itunes:episode>14</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 12 - Byte Club Season Finale</title>
+        <itunes:title>Episode 12 - Byte Club Season Finale</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-12-byte-club-season-finale/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-12-byte-club-season-finale/#comments</comments>        <pubDate>Sat, 28 Dec 2024 10:34:14 +1100</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/598a6f9b-1c8e-349c-8105-e259865ed9fc</guid>
+                                    <description><![CDATA[<p>In the final episode of this season, the girls are going off-script while talking about some of the podcast highlights, a quick update on personal lives, and answering some questions from the audience! </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>In the final episode of this season, the girls are going off-script while talking about some of the podcast highlights, a quick update on personal lives, and answering some questions from the audience! </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/435632smyv3t2prh/Ep12.mp3" length="70088114" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[In the final episode of this season, the girls are going off-script while talking about some of the podcast highlights, a quick update on personal lives, and answering some questions from the audience! 
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>35:45</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>13</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 11 - Henrietta Lacks &amp; the HeLa cells</title>
+        <itunes:title>Episode 11 - Henrietta Lacks &amp; the HeLa cells</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-11-henrietta-lacks-the-hela-cells/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-11-henrietta-lacks-the-hela-cells/#comments</comments>        <pubDate>Sat, 14 Dec 2024 10:30:00 +1100</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/7b8bf385-2fc5-394d-a0af-2b39efe4fded</guid>
+                                    <description><![CDATA[<p>Is immortality only a concept in fiction? In this episode, Akshaya discovers the story behind Henrietta Lacks' immortal life, one that remained a mystery for nearly 25 years. Tune in for a fun and interesting conversation on how one woman's doctor's visit changed the course of biomedical research. </p>
+<p>A Timeline of Cell Culture:</p>
+<p><a href='https://osp.od.nih.gov/hela-cells/significant-research-advances-enabled-by-hela-cells/'>https://osp.od.nih.gov/hela-cells/significant-research-advances-enabled-by-hela-cells/</a></p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>Is immortality only a concept in fiction? In this episode, Akshaya discovers the story behind Henrietta Lacks' immortal life, one that remained a mystery for nearly 25 years. Tune in for a fun and interesting conversation on how one woman's doctor's visit changed the course of biomedical research. </p>
+<p>A Timeline of Cell Culture:</p>
+<p><a href='https://osp.od.nih.gov/hela-cells/significant-research-advances-enabled-by-hela-cells/'>https://osp.od.nih.gov/hela-cells/significant-research-advances-enabled-by-hela-cells/</a></p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/bmnhmnzxfr2ayqqu/Ep11_-_Henrietta_Lacksa5hrf.mp3" length="71661743" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[Is immortality only a concept in fiction? In this episode, Akshaya discovers the story behind Henrietta Lacks' immortal life, one that remained a mystery for nearly 25 years. Tune in for a fun and interesting conversation on how one woman's doctor's visit changed the course of biomedical research. 
+A Timeline of Cell Culture:
+https://osp.od.nih.gov/hela-cells/significant-research-advances-enabled-by-hela-cells/
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>36:37</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 10 - A Chat with Leah Nguyen</title>
+        <itunes:title>Episode 10 - A Chat with Leah Nguyen</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/a-chat-with-leah-nguyen/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/a-chat-with-leah-nguyen/#comments</comments>        <pubDate>Sat, 09 Nov 2024 10:00:00 +1100</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/5d01d975-a3b7-366c-833e-bbe9954d8b64</guid>
+                                    <description><![CDATA[<p>In this brand new guest episode, LinkedIn guru and data whiz kid, Leah, chats with Akshaya &amp; Beth on her journey from marketing to data science, the (surprising) benefits of documentation in an uncertain job market, and advices for anyone looking to kickstart a career in data. </p>
+<p>Connect with Leah: </p>
+<p><a href='https://www.linkedin.com/in/ndleah/'>https://www.linkedin.com/in/ndleah/</a></p>
+<p>Read Leah's Blogs:</p>
+<p><a href='https://medium.com/@ndleah'>https://medium.com/@ndleah</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>In this brand new guest episode, LinkedIn guru and data whiz kid, Leah, chats with Akshaya &amp; Beth on her journey from marketing to data science, the (surprising) benefits of documentation in an uncertain job market, and advices for anyone looking to kickstart a career in data. </p>
+<p>Connect with Leah: </p>
+<p><a href='https://www.linkedin.com/in/ndleah/'>https://www.linkedin.com/in/ndleah/</a></p>
+<p>Read Leah's Blogs:</p>
+<p><a href='https://medium.com/@ndleah'>https://medium.com/@ndleah</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/2kt2xnm6v7rbpawa/Ep10_-_A_Chat_with_Leah6ftjm.mp3" length="72108046" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[In this brand new guest episode, LinkedIn guru and data whiz kid, Leah, chats with Akshaya &amp; Beth on her journey from marketing to data science, the (surprising) benefits of documentation in an uncertain job market, and advices for anyone looking to kickstart a career in data. 
+Connect with Leah: 
+https://www.linkedin.com/in/ndleah/
+Read Leah's Blogs:
+https://medium.com/@ndleah
+ 
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>36:52</itunes:duration>
+                <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 9 - Sister Mary Kenneth Keller &amp; Inductive Inference</title>
+        <itunes:title>Episode 9 - Sister Mary Kenneth Keller &amp; Inductive Inference</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-9-sister-mary-kenneth-keller-inductive-inference/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-9-sister-mary-kenneth-keller-inductive-inference/#comments</comments>        <pubDate>Sat, 26 Oct 2024 11:29:37 +1100</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/15bbab7c-c383-373f-8f8c-6b4276504ead</guid>
+                                    <description><![CDATA[<p>In this week's exciting new episode, Beth takes us through the rather unusual life of Mary Kenneth Keller who was a pioneering computer scientist, an educator, and a Catholic religious sister. This all-rounder was not only the first woman in the U.S. to earn her PhD in Computer Science but also paved the way for Artificially Intelligent computers. </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>In this week's exciting new episode, Beth takes us through the rather unusual life of Mary Kenneth Keller who was a pioneering computer scientist, an educator, and a Catholic religious sister. This all-rounder was not only the first woman in the U.S. to earn her PhD in Computer Science but also paved the way for Artificially Intelligent computers. </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/sjb6g69kv4asa573/Ep9_-_Sister_Mary_Kelleranqz6.mp3" length="74260040" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[In this week's exciting new episode, Beth takes us through the rather unusual life of Mary Kenneth Keller who was a pioneering computer scientist, an educator, and a Catholic religious sister. This all-rounder was not only the first woman in the U.S. to earn her PhD in Computer Science but also paved the way for Artificially Intelligent computers. 
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>37:49</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>10</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 8 - Ritu Karidhal &amp; Hohmann Transfer Orbit</title>
+        <itunes:title>Episode 8 - Ritu Karidhal &amp; Hohmann Transfer Orbit</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-8-ritu-karidhal-hohmann-transfer-orbit/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-8-ritu-karidhal-hohmann-transfer-orbit/#comments</comments>        <pubDate>Fri, 27 Sep 2024 11:00:00 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/5ba4331c-fac6-39b6-baeb-0fbbffd0eec7</guid>
+                                    <description><![CDATA[<p>What does a basketball in the air have in common with a satellite in space? Join Aks this week as she breaks down a key concept in orbital mechanics that was influential to the successful Mars Orbiter Mission, spearheaded by India's very own 'Rocket Woman', Ritu Karidhal. </p>
+<p> </p>
+<p>The Indian Mars Orbiter Mission Story: </p>
+<p><a href='https://www.youtube.com/watch?v=ySzBVayVhYg'>https://www.youtube.com/watch?v=ySzBVayVhYg</a></p>
+<p>Homann Transfer Orbit in 3 Minutes:</p>
+<p><a href='https://www.youtube.com/watch?v=aKXNbf6NCKU'>https://www.youtube.com/watch?v=aKXNbf6NCKU</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+<p> </p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>What does a basketball in the air have in common with a satellite in space? Join Aks this week as she breaks down a key concept in orbital mechanics that was influential to the successful Mars Orbiter Mission, spearheaded by India's very own 'Rocket Woman', Ritu Karidhal. </p>
+<p> </p>
+<p>The Indian Mars Orbiter Mission Story: </p>
+<p><a href='https://www.youtube.com/watch?v=ySzBVayVhYg'>https://www.youtube.com/watch?v=ySzBVayVhYg</a></p>
+<p>Homann Transfer Orbit in 3 Minutes:</p>
+<p><a href='https://www.youtube.com/watch?v=aKXNbf6NCKU'>https://www.youtube.com/watch?v=aKXNbf6NCKU</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+<p> </p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/kgjp7xj23dqvnrzk/Ep8_-_Ritu_Karidhal6uvc0.mp3" length="77827910" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[What does a basketball in the air have in common with a satellite in space? Join Aks this week as she breaks down a key concept in orbital mechanics that was influential to the successful Mars Orbiter Mission, spearheaded by India's very own 'Rocket Woman', Ritu Karidhal. 
+ 
+The Indian Mars Orbiter Mission Story: 
+https://www.youtube.com/watch?v=ySzBVayVhYg
+Homann Transfer Orbit in 3 Minutes:
+https://www.youtube.com/watch?v=aKXNbf6NCKU
+ 
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein
+ ]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>39:42</itunes:duration>
+                <itunes:episode>9</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 7 - Michelle Simmons &amp; Quantum Computing</title>
+        <itunes:title>Episode 7 - Michelle Simmons &amp; Quantum Computing</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-7-michelle-simmons-quantum-computing/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-7-michelle-simmons-quantum-computing/#comments</comments>        <pubDate>Sat, 14 Sep 2024 10:45:00 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/cc914983-91b4-3959-958b-c2001ae04f81</guid>
+                                    <description><![CDATA[<p>Does a quantum computer exist? If it does, can we get one for ourselves? On this week's episode, Beth walks us through the great mind of Michelle Simmons (a.k.a Quantum Queen) and the q(bits) of information you might need to understand the inner workings of quantum computing. </p>
+<p> </p>
+<p>Cosmos Article on Michelle: </p>
+<p><a href='https://cosmosmagazine.com/science/physics/michelle-simmons-a-quantum-queen/'>https://cosmosmagazine.com/science/physics/michelle-simmons-a-quantum-queen/</a></p>
+<p>All About Michelle's Work:</p>
+<p><a href='https://www.youtube.com/watch?v=Sv-FAMz9o40'>https:</a><a href='https://www.youtube.com/watch?v=Sv-FAMz9o40'>//www.youtube.com/watch?v=Sv-FAMz9o40</a></p>
+<p>Quantum Computing Explained: </p>
+<p><a href='https://www.youtube.com/watch?v=JhHMJCUmq28'>https://www.youtube.com/watch?v=JhHMJCUmq28</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>Does a quantum computer exist? If it does, can we get one for ourselves? On this week's episode, Beth walks us through the great mind of Michelle Simmons (a.k.a Quantum Queen) and the q(bits) of information you might need to understand the inner workings of quantum computing. </p>
+<p> </p>
+<p>Cosmos Article on Michelle: </p>
+<p><a href='https://cosmosmagazine.com/science/physics/michelle-simmons-a-quantum-queen/'>https://cosmosmagazine.com/science/physics/michelle-simmons-a-quantum-queen/</a></p>
+<p>All About Michelle's Work:</p>
+<p><a href='https://www.youtube.com/watch?v=Sv-FAMz9o40'>https:</a><a href='https://www.youtube.com/watch?v=Sv-FAMz9o40'>//www.youtube.com/watch?v=Sv-FAMz9o40</a></p>
+<p>Quantum Computing Explained: </p>
+<p><a href='https://www.youtube.com/watch?v=JhHMJCUmq28'>https://www.youtube.com/watch?v=JhHMJCUmq28</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/jjme2k9867ejqs8e/Ep7_-_Michelle_Quantum_Computing6ko0w.mp3" length="92400287" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[Does a quantum computer exist? If it does, can we get one for ourselves? On this week's episode, Beth walks us through the great mind of Michelle Simmons (a.k.a Quantum Queen) and the q(bits) of information you might need to understand the inner workings of quantum computing. 
+ 
+Cosmos Article on Michelle: 
+https://cosmosmagazine.com/science/physics/michelle-simmons-a-quantum-queen/
+All About Michelle's Work:
+https://www.youtube.com/watch?v=Sv-FAMz9o40
+Quantum Computing Explained: 
+https://www.youtube.com/watch?v=JhHMJCUmq28
+ 
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>47:36</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>8</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 6 - Pattie Maes &amp; Collaborative Filtering</title>
+        <itunes:title>Episode 6 - Pattie Maes &amp; Collaborative Filtering</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-6-pattie-maes-collaborative-filtering/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-6-pattie-maes-collaborative-filtering/#comments</comments>        <pubDate>Sat, 13 Jul 2024 10:30:00 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/689d7c15-6ca8-36a2-88c5-abaa3a8d5188</guid>
+                                    <description><![CDATA[<p>If your computer could schedule your meetings, book your dental appointments, and also kept a lookout on Amazon for your wishlist products to go on sale, wouldn't that be a dream? In this week's episode, Akshaya explains how easy it might be to get that done and the woman who made it all possible. </p>
+<p>Wired Article on Pattie Maes:</p>
+<p><a href='https://www.wired.com/1997/12/maes-2/'>https://www.wired.com/1997/12/maes-2/</a></p>
+<p>Pattie Maes's Talks "Wearable Tech":</p>
+<p><a href='https://www.youtube.com/watch?v=nZ-VjUKAsao&amp;t=86s'>https://www.youtube.com/watch?v=nZ-VjUKAsao&amp;t=86s</a></p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>If your computer could schedule your meetings, book your dental appointments, and also kept a lookout on Amazon for your wishlist products to go on sale, wouldn't that be a dream? In this week's episode, Akshaya explains how easy it might be to get that done and the woman who made it all possible. </p>
+<p>Wired Article on Pattie Maes:</p>
+<p><a href='https://www.wired.com/1997/12/maes-2/'>https://www.wired.com/1997/12/maes-2/</a></p>
+<p>Pattie Maes's Talks "Wearable Tech":</p>
+<p><a href='https://www.youtube.com/watch?v=nZ-VjUKAsao&amp;t=86s'>https://www.youtube.com/watch?v=nZ-VjUKAsao&amp;t=86s</a></p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/8y3gucre7e8em7x3/Ep6-Pattie_Mahs_and_Collaborative_Filtering7mevz.mp3" length="90121352" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[If your computer could schedule your meetings, book your dental appointments, and also kept a lookout on Amazon for your wishlist products to go on sale, wouldn't that be a dream? In this week's episode, Akshaya explains how easy it might be to get that done and the woman who made it all possible. 
+Wired Article on Pattie Maes:
+https://www.wired.com/1997/12/maes-2/
+Pattie Maes's Talks "Wearable Tech":
+https://www.youtube.com/watch?v=nZ-VjUKAsao&amp;t=86s
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>45:00</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>7</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 5 - A Chat with Katherine Kinder</title>
+        <itunes:title>Episode 5 - A Chat with Katherine Kinder</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-5-a-chat-with-katherine-kinder/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-5-a-chat-with-katherine-kinder/#comments</comments>        <pubDate>Sat, 29 Jun 2024 10:00:00 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/77f433a9-0bc3-3b2c-9620-99bb05efb71f</guid>
+                                    <description><![CDATA[<p>In the first ever guest episode on Byte Club, Aks and Beth take the backseat as Katherine (Kat) Kinder explains a day in the life of a photonics engineer, delves into the future of physics in Australia, and breaks down Interferometry. </p>
+<p> </p>
+<p>If you want to learn more from Kat or say hello: <a href='https://www.linkedin.com/in/katherine-kinder/'>https://www.linkedin.com/in/katherine-kinder/</a></p>
+<p>The Interferometer explained by LIGO: <a href='https://www.ligo.caltech.edu/page/what-is-interferometer'>https://www.ligo.caltech.edu/page/what-is-interferometer</a></p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+<p> </p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>In the first ever guest episode on Byte Club, Aks and Beth take the backseat as Katherine (Kat) Kinder explains a day in the life of a photonics engineer, delves into the future of physics in Australia, and breaks down Interferometry. </p>
+<p> </p>
+<p>If you want to learn more from Kat or say hello: <a href='https://www.linkedin.com/in/katherine-kinder/'>https://www.linkedin.com/in/katherine-kinder/</a></p>
+<p>The Interferometer explained by LIGO: <a href='https://www.ligo.caltech.edu/page/what-is-interferometer'>https://www.ligo.caltech.edu/page/what-is-interferometer</a></p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+<p> </p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/n9cynpmbvxbvx62b/A_Chat_with_Kat6sn3o.mp3" length="58882227" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[In the first ever guest episode on Byte Club, Aks and Beth take the backseat as Katherine (Kat) Kinder explains a day in the life of a photonics engineer, delves into the future of physics in Australia, and breaks down Interferometry. 
+ 
+If you want to learn more from Kat or say hello: https://www.linkedin.com/in/katherine-kinder/
+The Interferometer explained by LIGO: https://www.ligo.caltech.edu/page/what-is-interferometer
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein
+ ]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>29:54</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>6</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 4 - Radia Perlman &amp; Spanning Tree</title>
+        <itunes:title>Episode 4 - Radia Perlman &amp; Spanning Tree</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-4-radia-perlman-spanning-tree/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-4-radia-perlman-spanning-tree/#comments</comments>        <pubDate>Sat, 15 Jun 2024 10:00:00 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/d879ce92-36d5-3bb3-abf2-d04ffb1c24eb</guid>
+                                    <description><![CDATA[<p>Before Google, before even DOT COM, was Radia Perlman, and in this episode Beth takes us through the genius idea which was so simple that even drunken monkeys could understand it. </p>
+<p>Useful Links!</p>
+<p>Hidden Heroes Article: <a href='https://hiddenheroes.netguru.com/radia-perlman'>https://hiddenheroes.netguru.com/radia-perlman</a></p>
+<p> </p>
+<p>A helpful technical explanation of STP: <a href='https://youtu.be/GSKoQ8ZR8rw?si=Ow6suUMtYS9pTqnV'>https://youtu.be/GSKoQ8ZR8rw?si=Ow6suUMtYS9pTqnV</a></p>
+<p> </p>
+<p>Radia chatting about STP and her design philosophy: <a href='https://www.youtube.com/watch?v=G3zJuMht5Kk&amp;t=199s'>https://www.youtube.com/watch?v=G3zJuMht5Kk&amp;t=199s</a></p>
+<p>
+Wreck it Ralph Clip: <a href='https://www.youtube.com/watch?v=7JUfHyutQww'>https://www.youtube.com/watch?v=7JUfHyutQww</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>Transition: Music Is by Pryces</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>Before Google, before even DOT COM, was Radia Perlman, and in this episode Beth takes us through the genius idea which was so simple that even drunken monkeys could understand it. </p>
+<p>Useful Links!</p>
+<p>Hidden Heroes Article: <a href='https://hiddenheroes.netguru.com/radia-perlman'>https://hiddenheroes.netguru.com/radia-perlman</a></p>
+<p> </p>
+<p>A helpful technical explanation of STP: <a href='https://youtu.be/GSKoQ8ZR8rw?si=Ow6suUMtYS9pTqnV'>https://youtu.be/GSKoQ8ZR8rw?si=Ow6suUMtYS9pTqnV</a></p>
+<p> </p>
+<p>Radia chatting about STP and her design philosophy: <a href='https://www.youtube.com/watch?v=G3zJuMht5Kk&amp;t=199s'>https://www.youtube.com/watch?v=G3zJuMht5Kk&amp;t=199s</a></p>
+<p><br>
+Wreck it Ralph Clip: <a href='https://www.youtube.com/watch?v=7JUfHyutQww'>https://www.youtube.com/watch?v=7JUfHyutQww</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>Transition: Music Is by Pryces</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/y6ytn3br3pfbe4zj/Ep4_-_Radia_Perlmanb8hwb.mp3" length="79725764" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[Before Google, before even DOT COM, was Radia Perlman, and in this episode Beth takes us through the genius idea which was so simple that even drunken monkeys could understand it. 
+Useful Links!
+Hidden Heroes Article: https://hiddenheroes.netguru.com/radia-perlman
+ 
+A helpful technical explanation of STP: https://youtu.be/GSKoQ8ZR8rw?si=Ow6suUMtYS9pTqnV
+ 
+Radia chatting about STP and her design philosophy: https://www.youtube.com/watch?v=G3zJuMht5Kk&amp;t=199s
+Wreck it Ralph Clip: https://www.youtube.com/watch?v=7JUfHyutQww
+ 
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+Transition: Music Is by Pryces
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>40:30</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>5</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 3 - Hedy Lamarr &amp; Frequency Hopping</title>
+        <itunes:title>Episode 3 - Hedy Lamarr &amp; Frequency Hopping</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-3-hedy-lamarr-frequency-hopping/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-3-hedy-lamarr-frequency-hopping/#comments</comments>        <pubDate>Sat, 01 Jun 2024 10:00:00 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/af47c59c-643b-378c-becb-16883d499ec8</guid>
+                                    <description><![CDATA[<p>In this exciting new episode, Akshaya takes us into the exciting double life of Hedy Lamarr, starlet by day, inventor by night (or any spare time she had)! Tune in to know more about Hedy's rollercoaster ride of a life and take away some valuable lessons. </p>
+<p>Hedy &amp; George's Infamous Patent:</p>
+<p><a href='https://www.history.com/news/hedy-lamarr-inventor-frequency-hopping-wifi'>https://www.history.com/news/hedy-lamarr-inventor-frequency-hopping-wifi</a> </p>
+<p>Bombshell: The Hedy Lamarr Story by Alexandra Dean:</p>
+<p><a href='https://www.youtube.com/watch?v=wa_AA_byQ58'>https://w</a><a href='https://www.youtube.com/watch?v=wa_AA_byQ58'>ww.youtube.com/watch?v=wa_AA_byQ58</a></p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>Transition: Music Is by Pryces</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+<p> </p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>In this exciting new episode, Akshaya takes us into the exciting double life of Hedy Lamarr, starlet by day, inventor by night (or any spare time she had)! Tune in to know more about Hedy's rollercoaster ride of a life and take away some valuable lessons. </p>
+<p>Hedy &amp; George's Infamous Patent:</p>
+<p><a href='https://www.history.com/news/hedy-lamarr-inventor-frequency-hopping-wifi'>https://www.history.com/news/hedy-lamarr-inventor-frequency-hopping-wifi</a> </p>
+<p>Bombshell: The Hedy Lamarr Story by Alexandra Dean:</p>
+<p><a href='https://www.youtube.com/watch?v=wa_AA_byQ58'>https://w</a><a href='https://www.youtube.com/watch?v=wa_AA_byQ58'>ww.youtube.com/watch?v=wa_AA_byQ58</a></p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>Transition: Music Is by Pryces</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+<p> </p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/uy2k6t9a6fcvd6v5/Ep_3_Hedy_Lamarr_Frequency_Hopping_7f3u8.mp3" length="71591643" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[In this exciting new episode, Akshaya takes us into the exciting double life of Hedy Lamarr, starlet by day, inventor by night (or any spare time she had)! Tune in to know more about Hedy's rollercoaster ride of a life and take away some valuable lessons. 
+Hedy &amp; George's Infamous Patent:
+https://www.history.com/news/hedy-lamarr-inventor-frequency-hopping-wifi 
+Bombshell: The Hedy Lamarr Story by Alexandra Dean:
+https://www.youtube.com/watch?v=wa_AA_byQ58
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+Transition: Music Is by Pryces
+End Credit: I Don't Need Your Love by Adi Goldstein
+ ]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>36:40</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 2 - Katie Bouman &amp; CHIRP</title>
+        <itunes:title>Episode 2 - Katie Bouman &amp; CHIRP</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-2-katie-bouman-chirp/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-2-katie-bouman-chirp/#comments</comments>        <pubDate>Sat, 18 May 2024 02:30:00 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/4b12b31c-176e-3fb0-a4fd-888080c14608</guid>
+                                    <description><![CDATA[<p>In this episode, Beth takes us through the mind of Katie Bouman, who, with her team of researchers, made it possible to take the first-ever picture of the Black Hole. </p>
+<p> </p>
+<p>All Things Katie!</p>
+<p> </p>
+<ul><li>Bouman’s TED Talk</li>
+</ul>
+https://youtu.be/BIvezCVcsYs?si=h7-GcT3VZDwQRXNB
+ 
+<ul><li>Bouman’s Caltech Lecture/Symposium</li>
+</ul>
+https://youtu.be/UGL_OL3OrCE?si=sZ-VtBEAz_1X5tCJ
+ 
+<ul><li>Bouman’s PhD Thesis</li>
+</ul>
+<a href='https://dspace.mit.edu/handle/1721.1/113998'>https://dspace.mit.edu/handle/1721.1/113998</a>
+ 
+Some useful videos about The Black Hole: 
+ 
+Veritasium’s video ‘How to Understand What Black Holes Look Like:
+
+<a href='https://youtu.be/zUyH3XhpLTo?si=lZeKs9EVacaLtsXk'>https://youtu.be/zUyH3XhpLTo?si=lZeKs9EVacaLtsXk</a>
+
+ 
+The Computational Cameras website:
+
+<a href='https://computationalcameras.org/'>https://computationalcameras.org/</a>
+ 
+
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>Transition: Music Is by Pryces</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+
+<p> </p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>In this episode, Beth takes us through the mind of Katie Bouman, who, with her team of researchers, made it possible to take the first-ever picture of the Black Hole. </p>
+<p> </p>
+<p>All Things Katie!</p>
+<p> </p>
+<ul><li>Bouman’s TED Talk</li>
+</ul>
+https://youtu.be/BIvezCVcsYs?si=h7-GcT3VZDwQRXNB
+ 
+<ul><li>Bouman’s Caltech Lecture/Symposium</li>
+</ul>
+https://youtu.be/UGL_OL3OrCE?si=sZ-VtBEAz_1X5tCJ
+ 
+<ul><li>Bouman’s PhD Thesis</li>
+</ul>
+<a href='https://dspace.mit.edu/handle/1721.1/113998'>https://dspace.mit.edu/handle/1721.1/113998</a>
+ 
+Some useful videos about The Black Hole: 
+ 
+Veritasium’s video ‘How to Understand What Black Holes Look Like:
+<br>
+<a href='https://youtu.be/zUyH3XhpLTo?si=lZeKs9EVacaLtsXk'>https://youtu.be/zUyH3XhpLTo?si=lZeKs9EVacaLtsXk</a><br>
+
+ 
+The Computational Cameras website:
+<br>
+<a href='https://computationalcameras.org/'>https://computationalcameras.org/</a>
+ 
+
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>Transition: Music Is by Pryces</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+
+<p> </p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/28usuea6tyiduy9x/Ep2_-_Katie_Bowman94u8u.mp3" length="59758169" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[In this episode, Beth takes us through the mind of Katie Bouman, who, with her team of researchers, made it possible to take the first-ever picture of the Black Hole. 
+ 
+All Things Katie!
+ 
+Bouman’s TED Talk
+https://youtu.be/BIvezCVcsYs?si=h7-GcT3VZDwQRXNB
+ 
+Bouman’s Caltech Lecture/Symposium
+https://youtu.be/UGL_OL3OrCE?si=sZ-VtBEAz_1X5tCJ
+ 
+Bouman’s PhD Thesis
+https://dspace.mit.edu/handle/1721.1/113998
+ 
+Some useful videos about The Black Hole: 
+ 
+Veritasium’s video ‘How to Understand What Black Holes Look Like:
+https://youtu.be/zUyH3XhpLTo?si=lZeKs9EVacaLtsXk
+ 
+The Computational Cameras website:
+https://computationalcameras.org/
+ 
+
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+Transition: Music Is by Pryces
+End Credit: I Don't Need Your Love by Adi Goldstein
+
+ ]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>30:37</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 1 - Karen Spärck Jones &amp; TF-IDF</title>
+        <itunes:title>Episode 1 - Karen Spärck Jones &amp; TF-IDF</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-one-karen-sparck-jones-tf-idf/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-one-karen-sparck-jones-tf-idf/#comments</comments>        <pubDate>Sat, 04 May 2024 13:09:01 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/eff2db58-f35a-3bf9-9cbc-ebd4a26817b1</guid>
+                                    <description><![CDATA[<p>In this episode, Akshaya takes us through the life and times of Karen Spärck Jones, whose ground-breaking algorithm discovered in the 70s drives the mechanisms of search engines like Google even today. </p>
+<p> </p>
+<p>Here are some articles that will help you understand TF-IDF! </p>
+<p>1) <a href='https://www.semrush.com/blog/tf-idf/'>https://www.semrush.com/blog/tf-idf/</a> </p>
+<p>2) <a href='https://monkeylearn.com/blog/what-is-tf-idf/'>https://monkeylearn.com/blog/what-is-tf-idf/</a></p>
+<p> </p>
+<p>Check out Karen's lectures!</p>
+<p><a href='https://www.youtube.com/watch?v=Vwpo8Kz86W8'>https://www.youtube.com/watch?v=Vwpo8Kz86W8</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>Transition: Music Is by Pryces</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>In this episode, Akshaya takes us through the life and times of Karen Spärck Jones, whose ground-breaking algorithm discovered in the 70s drives the mechanisms of search engines like Google even today. </p>
+<p> </p>
+<p>Here are some articles that will help you understand TF-IDF! </p>
+<p>1) <a href='https://www.semrush.com/blog/tf-idf/'>https://www.semrush.com/blog/tf-idf/</a> </p>
+<p>2) <a href='https://monkeylearn.com/blog/what-is-tf-idf/'>https://monkeylearn.com/blog/what-is-tf-idf/</a></p>
+<p> </p>
+<p>Check out Karen's lectures!</p>
+<p><a href='https://www.youtube.com/watch?v=Vwpo8Kz86W8'>https://www.youtube.com/watch?v=Vwpo8Kz86W8</a></p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>Transition: Music Is by Pryces</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/k58am7gzsiwtvfuh/Ep1_-_Karen_Sparck_Jones9tdqa.mp3" length="71027783" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[In this episode, Akshaya takes us through the life and times of Karen Spärck Jones, whose ground-breaking algorithm discovered in the 70s drives the mechanisms of search engines like Google even today. 
+ 
+Here are some articles that will help you understand TF-IDF! 
+1) https://www.semrush.com/blog/tf-idf/ 
+2) https://monkeylearn.com/blog/what-is-tf-idf/
+ 
+Check out Karen's lectures!
+https://www.youtube.com/watch?v=Vwpo8Kz86W8
+ 
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+Transition: Music Is by Pryces
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>36:18</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Episode 0 - What Is Byte Club</title>
+        <itunes:title>Episode 0 - What Is Byte Club</itunes:title>
+        <link>https://byteclubpodcast.podbean.com/e/episode-0-what-is-byte-club/</link>
+                    <comments>https://byteclubpodcast.podbean.com/e/episode-0-what-is-byte-club/#comments</comments>        <pubDate>Sat, 04 May 2024 10:21:46 +1000</pubDate>
+        <guid isPermaLink="false">byteclubpodcast.podbean.com/660d96f5-04e8-323b-b9fc-9b7b6ba5e1a7</guid>
+                                    <description><![CDATA[<p>Welcome to Byte Club! In this episode, Beth Curran and Akshaya Parthasarathy will be taking you through a quick tour of themselves, the origin of Byte Club and what to look forward to! </p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>Welcome to Byte Club! In this episode, Beth Curran and Akshaya Parthasarathy will be taking you through a quick tour of themselves, the origin of Byte Club and what to look forward to! </p>
+<p> </p>
+<p>Audio Credits Uppbeat: </p>
+<p>Intro: Summertime Jam by All Good Folks</p>
+<p>End Credit: I Don't Need Your Love by Adi Goldstein</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/xzmemtb9zx8nmh69/TBCP_Episode0.mp3" length="22606916" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[Welcome to Byte Club! In this episode, Beth Curran and Akshaya Parthasarathy will be taking you through a quick tour of themselves, the origin of Byte Club and what to look forward to! 
+ 
+Audio Credits Uppbeat: 
+Intro: Summertime Jam by All Good Folks
+End Credit: I Don't Need Your Love by Adi Goldstein]]></itunes:summary>
+        <itunes:author>byteclubpodcast</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:30</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+</channel>
+</rss>

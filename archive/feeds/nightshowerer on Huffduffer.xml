@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>nightshowerer on Huffduffer</title>
+        <itunes:summary>nightshowerer</itunes:summary>
+        <description>nightshowerer</description>
+        <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        <image>
+            <title>nightshowerer on Huffduffer</title>
+            <link>https://huffduffer.com/</link>
+            <url>https://huffduffer.com/images/podcast.jpg</url>
+        </image>
+        <language>en</language>
+        <link>https://huffduffer.com/nightshowerer</link>
+        <atom:link href="https://huffduffer.com/nightshowerer/rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://huffduffer.com/nightshowerer/rss?page=2" rel="next" type="application/rss+xml"/>
+        <item>
+            <title>Why prices for rooftop solar might be higher than they should be : Planet Money : NPR</title>
+            <description>4.5 million households in the U.S. have solar panels on their homes. Most of those customers are happy with it - their electricity bills have just about disappeared, and it&#039;s great for the planet. But thousands and thousands of people are really disappointed with what they&#039;ve been sold. Their panels are more expensive than they should be, and they say it is hard to get someone to come fix them when they break. It turns out this sometimes crummy customer experience is no accident. It ties back to how big, national solar companies built their businesses in the first place. To entice people to install expensive solar panels, companies developed new financing models which cut upfront costs for customers. And they deployed lots and lots of salespeople to grow their businesses. But in the drive to get more households installing solar panels, consumer costs went up and the focus seemed to shift away from making sure those panels actually worked. All of this left some consumers feeling like they&#039;ve been sold a lie.On today&#039;s episode, we look into how the residential solar business model has turned some people sour on solar. And we&#039;ll try to figure out where the industry could go from here. Help support Planet Money and hear our bonus episodes by subscribing to Planet Money+ in Apple Podcasts or at plus.npr.org/planetmoney.
+
+https://www.npr.org/2024/07/12/1197961036/rooftop-solar-panels-energy-bills-marketing</description>
+            <guid>https://huffduffer.com/nightshowerer/699592</guid>
+            <link>https://huffduffer.com/nightshowerer/699592</link>
+            <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3145865942.mp3?d=1642&amp;size=26277181&amp;e=1197961036&amp;t=podcast&amp;p=510289&amp;sc=siteplayer&amp;aw_0_1st.playerid=siteplayer" type="audio/mpeg" length="0"/>
+            <pubDate>Sat, 13 Jul 2024 00:26:39 GMT</pubDate>
+            <category>panels</category>
+            <category>people</category>
+            <category>electricity bills</category>
+            <category>customer experience</category>
+            <category>financing models</category>
+            <itunes:image href="https://media.npr.org/chrome/favicon/favicon-96x96.png" />
+        </item>
+        <item>
+            <title>Bill Perkins - Memory Dividends, Time Buckets, and Maximizing Net Fulfillment</title>
+            <description>Bill Perkins, author of Die with Zero, joins Chris Hutchins on the All the Hacks podcast to discuss memory dividends and how to spend money!
+
+https://www.madfientist.com/bill-perkins-interview/</description>
+            <guid>https://huffduffer.com/nightshowerer/693686</guid>
+            <link>https://huffduffer.com/nightshowerer/693686</link>
+            <enclosure url="https://traffic.libsyn.com/secure/madfientist/bill-perkins-interview.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Sun, 5 May 2024 12:30:32 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>PodRocket - A web development podcast from LogRocket: The React Core team talks React Forget and the future</title>
+            <description>Joe Savona and Sathya Gunasekaran join us to talk about the React Optimizing Compiler. We talk about design decisions and the approach to building it. We also cover what the React team has been working on including React Server Components, Offscreen Rendering, and more!
+
+https://podrocket.logrocket.com/react-core</description>
+            <guid>https://huffduffer.com/nightshowerer/668203</guid>
+            <link>https://huffduffer.com/nightshowerer/668203</link>
+            <enclosure url="https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/108b475c-0e85-421e-bb57-9f7a6fe27035.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Wed, 31 May 2023 23:45:56 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>Radiolab (9/7/2010): Voices in Your Head</title>
+            <description>In this podcast, Jad talks to Charles Fernyhough about the connection between thought and the voice in your head. How did it get there? And what&#039;s happening when people hear someone else&#039;s voice in their head?
+
+https://radiolab.org/podcast/93554-voices-in-your-head</description>
+            <guid>https://huffduffer.com/nightshowerer/665893</guid>
+            <link>https://huffduffer.com/nightshowerer/665893</link>
+            <enclosure url="https://waaa.wnyc.org/radiolab_podcast/radiolab_podcast10voices.mp3/radiolab_podcast10voices.mp3_ywr3ahjkcgo_5088d7de360374ab7b93cbf4513c1642_13081127.mp3?hash_redirect=1&amp;x-total-bytes=13081127&amp;x-ais-classified=streaming&amp;listeningSessionID=0CD_382_120__be01937b4d0b22c1d3c7ec5024f709ecc5f9fd52" type="audio/mpeg" length="13081127"/>
+            <pubDate>Mon, 1 May 2023 20:14:39 GMT</pubDate>
+            <category>podcasts</category>
+            <category>npr</category>
+            <category>new york</category>
+            <category>wnyc studios</category>
+            <category>arts</category>
+            <category>culture</category>
+            <category>classical</category>
+            <category>music</category>
+            <category>news</category>
+            <category>public</category>
+            <category>radio</category>
+            <itunes:image href="https://radiolab.org/favicon-32x32.png" />
+        </item>
+        <item>
+            <title>Radiolab (8/19/2010): Words that Change the World</title>
+            <description>Susan Schaller believes that the best idea she ever had in her life had to do with an isolated young man she met one day at a community college. He was 27-years-old at the time, and t...
+
+https://radiolab.org/podcast/91728-words-that-change-the-world</description>
+            <guid>https://huffduffer.com/nightshowerer/665892</guid>
+            <link>https://huffduffer.com/nightshowerer/665892</link>
+            <enclosure url="https://waaa.wnyc.org/radiolab/radiolab091010a.mp3/radiolab091010a.mp3_ywr3ahjkcgo_1aa95a86d0856972a81223a3d33d511b_28249079.mp3?hash_redirect=1&amp;x-total-bytes=28249079&amp;x-ais-classified=streaming&amp;listeningSessionID=0CD_382_120__e84799ccccaf14318d5ccbc842c38a7de1a39e5a" type="audio/mpeg" length="28249079"/>
+            <pubDate>Mon, 1 May 2023 20:13:27 GMT</pubDate>
+            <category>podcasts</category>
+            <category>npr</category>
+            <category>new york</category>
+            <category>wnyc studios</category>
+            <category>arts</category>
+            <category>culture</category>
+            <category>classical</category>
+            <category>music</category>
+            <category>news</category>
+            <category>public</category>
+            <category>radio</category>
+            <itunes:image href="https://radiolab.org/favicon-32x32.png" />
+        </item>
+        <item>
+            <title>Radiolab (8/24/2009): After Birth</title>
+            <description>Jad--a brand new father--wonders what&#039;s going on inside the head of his baby Amil. Is it just chaos? Or is there something more, some understanding from the very beginning?
+
+https://radiolab.org/podcast/91919-after-birth</description>
+            <guid>https://huffduffer.com/nightshowerer/665891</guid>
+            <link>https://huffduffer.com/nightshowerer/665891</link>
+            <enclosure url="https://waaa.wnyc.org/radiolab_podcast/radiolab_podcastafterbirth.mp3/radiolab_podcastafterbirth.mp3_ywr3ahjkcgo_a0cdbf7c29853a4b2b55ffcc6ec17c64_10794372.mp3?hash_redirect=1&amp;x-total-bytes=10794372&amp;x-ais-classified=streaming&amp;listeningSessionID=0CD_382_120__4d7b53b6435f9276f4966b58caf386ba35859b89" type="audio/mpeg" length="10794372"/>
+            <pubDate>Mon, 1 May 2023 20:12:20 GMT</pubDate>
+            <category>podcasts</category>
+            <category>npr</category>
+            <category>new york</category>
+            <category>wnyc studios</category>
+            <category>arts</category>
+            <category>culture</category>
+            <category>classical</category>
+            <category>music</category>
+            <category>news</category>
+            <category>public</category>
+            <category>radio</category>
+            <itunes:image href="https://radiolab.org/favicon-32x32.png" />
+        </item>
+        <item>
+            <title>Staff Engineering with Will Larson - Software Engineering Daily</title>
+            <description>Staff engineer is a job title that suggests the engineer has deep expertise, and considerable experience. More and more companies are adopting a “staff engineer track” where an engineer can work to become a staff engineer. What is the role of staff engineer? Is it a management role or an individual contributor? What are the
+
+https://softwareengineeringdaily.com/2020/10/29/staff-engineering-with-will-larson/</description>
+            <guid>https://huffduffer.com/nightshowerer/665092</guid>
+            <link>https://huffduffer.com/nightshowerer/665092</link>
+            <enclosure url="https://traffic.megaphone.fm/SED4368965809.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Thu, 20 Apr 2023 03:09:07 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>What It Takes to Become a Senior Engineer - The New Stack</title>
+            <description>Author Swizec Teller and Temporal.io&#039;s Shawn Wang describe the mindset and other attributes required to become a senior engineer.
+
+https://thenewstack.io/what-it-takes-to-become-a-senior-engineer/</description>
+            <guid>https://huffduffer.com/nightshowerer/659333</guid>
+            <link>https://huffduffer.com/nightshowerer/659333</link>
+            <enclosure url="https://www.listennotes.com/e/p/201c17cfff88465eb848dbffd1a45904/" type="audio/mpeg" length="0"/>
+            <pubDate>Wed, 1 Feb 2023 08:06:52 GMT</pubDate>
+            <category>author swizec teller</category>
+            <category>shawn wang</category>
+            <itunes:image href="https://thenewstack.io/favicon.ico" />
+        </item>
+        <item>
+            <title>Junior to Senior with David Guttman | Swizec Teller - Senior Software Engineer at Tia</title>
+            <description>Swizec and David talk about the key differences between Junior devs and senior devs, the concept of a 10x engineer, and different ways to gain experience quickly.
+
+https://share.transistor.fm/s/5a62e3ff?ck_subscriber_id=2020823774</description>
+            <guid>https://huffduffer.com/nightshowerer/659332</guid>
+            <link>https://huffduffer.com/nightshowerer/659332</link>
+            <enclosure url="https://media.transistor.fm/5a62e3ff/f8cabd58.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Wed, 1 Feb 2023 08:00:43 GMT</pubDate>
+            <category>technology</category>
+            <category>javascript</category>
+            <category>programming</category>
+            <category>web development</category>
+            <category>career</category>
+            <itunes:image href="https://assets.transistor.fm/assets/favicon-636b619b27c8932b15adac78178e70ebdf1f2c3a33de896176872b88cb3a5e48.ico" />
+        </item>
+        <item>
+            <title>Syntax 008 - Wes Bos Origin Story 🎸💼💻🔥🐷 — Syntax Podcast 008</title>
+            <description>Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.
+
+https://syntax.fm/show/008/wes-bos-origin-story</description>
+            <guid>https://huffduffer.com/nightshowerer/657920</guid>
+            <link>https://huffduffer.com/nightshowerer/657920</link>
+            <enclosure url="https://traffic.libsyn.com/syntax/Syntax008.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 13 Jan 2023 21:57:17 GMT</pubDate>
+            <category>scott tolinski dive</category>
+            <category>web development topics</category>
+            <category>javascript frameworks</category>
+            <itunes:image href="https://syntax.fm/static/favicon.png" />
+        </item>
+        <item>
+            <title>Frontmatter Podcast - Kyle Simpson, Author of the You Don&#039;t Know JS Yet Series</title>
+            <description>https://leanpub.com/podcasts/frontmatter/kyle-simpson-02-04-20</description>
+            <guid>https://huffduffer.com/nightshowerer/647431</guid>
+            <link>https://huffduffer.com/nightshowerer/647431</link>
+            <enclosure url="https://s3.amazonaws.com/leanpub_podcasts/FM147-Kyle-Simpson-2020-03-18.mp3" type="audio/mpeg" length="44368482"/>
+            <pubDate>Tue, 16 Aug 2022 16:15:21 GMT</pubDate>
+            <itunes:image href="favicons/mstile-144x144.png" />
+        </item>
+        <item>
+            <title>035 | Sequence of Return Risk | Early Retirement Now</title>
+            <description>In today’s conversation with Big Ern from Early Retirement Now we discuss safe withdrawal rates, sequence of returns risk and much more. Podcast Episode Summary A wide ranging discussion with Big ERN from Early Retirement Now on sequence of return risk and safe withdrawal rates This is Big Ern’s first podcast! And a thank you … Continue reading &quot;035 | Sequence of Return Risk | Early Retirement Now&quot;
+
+https://www.choosefi.com/035-sequence-return-risk-early-retirement-now/</description>
+            <guid>https://huffduffer.com/nightshowerer/611208</guid>
+            <link>https://huffduffer.com/nightshowerer/611208</link>
+            <enclosure url="https://traffic.libsyn.com/choosefi/035.Sequence_of_Return_Risk.ERN.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Thu, 20 May 2021 03:49:47 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>The Benefits of Weekly Marriage Meetings | Art of Manliness</title>
+            <description>Why couples can benefit from implementing the habit of weekly marriage meetings that don&#039;t have to be awkward or stuffy, but rather fun and refreshing.
+
+https://www.artofmanliness.com/articles/podcast-611-how-a-weekly-marriage-meeting-can-strengthen-your-relationship/</description>
+            <guid>https://huffduffer.com/nightshowerer/602068</guid>
+            <link>https://huffduffer.com/nightshowerer/602068</link>
+            <enclosure url="https://21963.mc.tritondigital.com:443/OMNY_THEARTOFMANLINESS_P/media-session/db045206-3b27-4052-80ab-846e64e592e6/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/6081eee7-c459-4e12-a1ab-aadc000fc4a7/675ee4e4-b167-41f7-a803-abbf010b7476/audio/direct/t1589818602/611_How_a_Weekly_Marriage_Meeting_Can_Strengthen_Your_Relationship.mp3?t=1589818602" type="audio/mpeg" length="0"/>
+            <pubDate>Thu, 11 Feb 2021 03:35:01 GMT</pubDate>
+            <category>marriage</category>
+            <category>podcast</category>
+            <category>relationships &amp; family</category>
+            <itunes:image href="https://www.artofmanliness.com/wp-content/themes/aom/assets/img/icon.png" />
+        </item>
+        <item>
+            <title>Filmspotting 646: Logan Lucky</title>
+            <description>0:00-1:05 - Billboard
+2:04-27:03 - Review: &quot;Logan Lucky&quot;
+Matt Pond PA, &quot;Still Summer&quot;
+28:01-35:58 - Jerry Lewis / Notes
+35:58-47:16 - Massacre Theatre
+47:16-58:46 - Top 5: Fall Movie Preview
+Matt Pond PA, &quot;A Spark&quot;
+59:40-1:36:24 - Fall Preview, cont.
+1:36:24-1:49:56 - Close / Hot Mics</description>
+            <guid>https://huffduffer.com/nightshowerer/583653</guid>
+            <link>https://huffduffer.com/nightshowerer/583653</link>
+            <enclosure url="http://traffic.megaphone.fm/FLM9136189672.mp3" type="audio/mpeg" length="177"/>
+            <pubDate>Thu, 13 Aug 2020 04:30:12 GMT</pubDate>
+            <category>question marks</category>
+            <category>fall movie slate</category>
+            <itunes:image href="http://static1.squarespace.com/static/58dc30b59f745617d2da1cc7/t/599f7e5246c3c4e2c7ce9d24/1503624858898/logan-lucky-2.jpg?format=1500w" />
+        </item>
+        <item>
+            <title>Tori Amos Interview in Echoes Podcast. – Echoes</title>
+            <description>Hear an interview with Tori Amos in the Echoes Podcast
+
+Since we had Tori Amos on the air live two weeks ago, she&#039;s enjoyed some of the greatest acclaim of her career.  Her new CD, Unrepentant Geraldines went into Billboard&#039;s Top 200 and the singer has garnered some of her best reviews in years.  Yo
+
+https://echoes.org/2014/06/06/tori-amos-interview-in-echoes-podcast-2/</description>
+            <guid>https://huffduffer.com/nightshowerer/573465</guid>
+            <link>https://huffduffer.com/nightshowerer/573465</link>
+            <enclosure url="https://media.blubrry.com/echoespodcast/p/echoes.org/podcasts/EchoesPodcast-ToriAmos.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Wed, 29 Apr 2020 22:18:42 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>.NET Rocks: GMO, BT And Glyphosate Geek Out</title>
+            <description>Listen to GMO, BT And Glyphosate Geek Out and 1644 other episodes by .NET Rocks!. No signup or install required.
+
+https://player.fm/series/net-rocks-65612/gmo-bt-and-glyphosate-geek-out</description>
+            <guid>https://huffduffer.com/nightshowerer/546107</guid>
+            <link>https://huffduffer.com/nightshowerer/546107</link>
+            <enclosure url="https://www.podetize.com/statsapi/www.podetize.com/wp-content/uploads/fileuploads/11-5b145ef137b51b3d1af0633e9305c43d/01/2019/b6cdc3d95f696de2703af9f1d00a240d.MP3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 23 Aug 2019 12:40:36 GMT</pubDate>
+            <category>glyphosate geek</category>
+            <category>net rocks !.</category>
+            <itunes:image href="https://player.fm/favicon.ico" />
+        </item>
+        <item>
+            <title>Filmspotting #150: Zodiac / Oscars Recap / Top 5 Movies We Need To See  | Filmspotting</title>
+            <description>March 2: Inspector Harry Callahan took down a Zodiac-like killer with a bullet to the chest back in 1972&#039;s &quot;Dirty Harry, &quot; but that was in the movie world. In the real world, the Bay Area serial..
+
+http://archive.filmspotting.net/reviews/show-archive/21-2007/339-filmspotting-150-zodiac--oscars-recap--top-5-movies-we-need-to-see-.html</description>
+            <guid>https://huffduffer.com/nightshowerer/543547</guid>
+            <link>https://huffduffer.com/nightshowerer/543547</link>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://media.libsyn.com/media/cinecast/filmspot150_030207.mp3" type="audio/mpeg" length="178"/>
+            <pubDate>Wed, 31 Jul 2019 17:59:09 GMT</pubDate>
+            <category>film</category>
+            <category>podcast</category>
+            <category>filmspotting</category>
+            <category>reviews</category>
+            <category>chicago</category>
+            <category>adam</category>
+            <category>kempenaar</category>
+            <category>larsen</category>
+            <category>critics</category>
+            <category>movie</category>
+            <category>top5</category>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>Filmspotting #383: A Separation</title>
+            <description>Adam and Josh countdown their Top 5 Most Deliberately-Paced, Subtitled. . . er. . . Anticipated Movies of 2012. Plus, a breakdown of Gina Carano&#039;s backbreaking talents in Steven Soderbergh&#039;s..
+
+http://archive.filmspotting.net/reviews/show-archive/38-2012-shows/804-fs-383-haywire-a-separation-top-5-anticipated-movies.html00-18:02 - Review: &quot;Haywire&quot;
+Music: The War On Drugs, &quot;Best Night&quot;
+19:09-22:44 - Massacre Theatre
+22:45-27:25 - Polls / Notes
+27:26-36:35 - Review: &quot;A Separation&quot;
+Music: The War On Drugs, &quot;I Was There&quot;
+37:51-40:57 - Donations
+41:16-1:01:35 - Top 5: Most Anticipated Films of 2012
+1:01:36-1:03:32 - Close</description>
+            <guid>https://huffduffer.com/nightshowerer/539421</guid>
+            <link>https://huffduffer.com/nightshowerer/539421</link>
+            <enclosure url="http://traffic.libsyn.com/cinecast/filmspot383_012712.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Tue, 25 Jun 2019 17:43:23 GMT</pubDate>
+            <category>film</category>
+            <category>podcast</category>
+            <category>filmspotting</category>
+            <category>reviews</category>
+            <category>chicago</category>
+            <category>adam</category>
+            <category>kempenaar</category>
+            <category>larsen</category>
+            <category>critics</category>
+            <category>movie</category>
+            <category>top5</category>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>FS #196: Persepolis / Winter Light / Top 5 Coming of Age Movies  | Filmspotting</title>
+            <description>February 1: On this week&#039;s show, Matty and Adam give a &quot;C&#039;est bon!&quot; to Vincent Paronnaud and Marjane Satrapi&#039;s &quot;Persepolis, &quot; the Oscar-nominated animated film based on Satrapi&#039;s autobiographical..
+
+http://archive.filmspotting.net/reviews/show-archive/22-2008/390-fs-196-persepolis--winter-light--top-5-coming-of-age-movies-.html</description>
+            <guid>https://huffduffer.com/nightshowerer/538626</guid>
+            <link>https://huffduffer.com/nightshowerer/538626</link>
+            <enclosure url="http://media.libsyn.com/media/cinecast/filmspot196_020108.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Tue, 18 Jun 2019 17:57:31 GMT</pubDate>
+            <category>film</category>
+            <category>podcast</category>
+            <category>filmspotting</category>
+            <category>reviews</category>
+            <category>chicago</category>
+            <category>adam</category>
+            <category>kempenaar</category>
+            <category>larsen</category>
+            <category>critics</category>
+            <category>movie</category>
+            <category>top5</category>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>GMO food &amp; soil health with Dr Zach Bush - Plant Proof™</title>
+            <description>Your #1 plant based nutrition resource
+
+https://plantproof.com/gmo-food-soil-health-with-dr-zach-bush/</description>
+            <guid>https://huffduffer.com/nightshowerer/535405</guid>
+            <link>https://huffduffer.com/nightshowerer/535405</link>
+            <enclosure url="https://files.whooshkaa.com/podcasts/podcast_3989/podcast_media/4920ee-pl_pr_e70_zach_bush.mp3" type="audio/mpeg" length="136256828"/>
+            <pubDate>Wed, 22 May 2019 18:24:31 GMT</pubDate>
+            <category>podcast</category>
+            <itunes:image href="https://plantproof.com/wp-content/uploads/2018/02/cropped-logo-270x270.png" />
+        </item>
+    </channel>
+</rss>

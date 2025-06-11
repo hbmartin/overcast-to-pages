@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/every" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>Every Audio Essays</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/every</itunes:new-feed-url>
+    <description>Long-form audio essays to make you smarter about technology, business, and productivity.
+</description>
+    <copyright>©2023 Every Media, Inc</copyright>
+    <podcast:guid>5f9d9df4-91cd-5986-8b86-c3c80b5eb4ba</podcast:guid>
+    <podcast:locked owner="hello@every.to">no</podcast:locked>
+    <language>en</language>
+    <pubDate>Mon, 10 Mar 2025 07:33:11 -0700</pubDate>
+    <lastBuildDate>Mon, 10 Mar 2025 13:11:23 -0700</lastBuildDate>
+    <link>https://every.to/</link>
+    <image>
+      <url>https://img.transistor.fm/wbsLPTanl9PU0yu5oUqNo0Y-RKqxkG4KzhhB8XFHGYg/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQ2OTcxLzE3MDIw/NDQ0MjEtYXJ0d29y/ay5qcGc.jpg</url>
+      <title>Every Audio Essays</title>
+      <link>https://every.to/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Every Inc</itunes:author>
+    <itunes:image href="https://img.transistor.fm/wbsLPTanl9PU0yu5oUqNo0Y-RKqxkG4KzhhB8XFHGYg/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQ2OTcxLzE3MDIw/NDQ0MjEtYXJ0d29y/ay5qcGc.jpg"/>
+    <itunes:summary>Long-form audio essays to make you smarter about technology, business, and productivity.
+</itunes:summary>
+    <itunes:subtitle>Long-form audio essays to make you smarter about technology, business, and productivity.</itunes:subtitle>
+    <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Every Inc</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>The First King of Home Computing</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>The First King of Home Computing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1d073224-4a86-425d-be55-752315d08809</guid>
+      <link>https://share.transistor.fm/s/5f11455e</link>
+      <description>
+        <![CDATA[<p>Jack Tramiel, a Holocaust survivor-turned-tech titan, revolutionized computing by making it accessible to everyday families. His ruthless business tactics and vertical integration strategy at Commodore created the Commodore 64, the home computer that launched the next generation of tech careers and shaped our digital present. </p><p><br></p><p>This piece, published first on <a href="https://every.to/the-crazy-ones/the-holocaust-survivor-who-revolutionized-computing">Every</a> and now adapted for audio, is the latest in a series by writer Gareth Edwards on the history of the personal computer—and the individuals responsible for bringing it to everyday consumers.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>AI &amp; I</em></a>, where host Dan Shipper interviews luminaries and experts like Reid Hoffman, Tyler Cowen, and Steven Johnson. </p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">Ultimate Guide to Prompting ChatGPT</a></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Jack Tramiel, a Holocaust survivor-turned-tech titan, revolutionized computing by making it accessible to everyday families. His ruthless business tactics and vertical integration strategy at Commodore created the Commodore 64, the home computer that launched the next generation of tech careers and shaped our digital present. </p><p><br></p><p>This piece, published first on <a href="https://every.to/the-crazy-ones/the-holocaust-survivor-who-revolutionized-computing">Every</a> and now adapted for audio, is the latest in a series by writer Gareth Edwards on the history of the personal computer—and the individuals responsible for bringing it to everyday consumers.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>AI &amp; I</em></a>, where host Dan Shipper interviews luminaries and experts like Reid Hoffman, Tyler Cowen, and Steven Johnson. </p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">Ultimate Guide to Prompting ChatGPT</a></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 10 Mar 2025 07:33:11 -0700</pubDate>
+      <author>Every Inc</author>
+      <enclosure url="https://media.transistor.fm/5f11455e/158e58d3.mp3" length="76750566" type="audio/mpeg"/>
+      <itunes:author>Every Inc</itunes:author>
+      <itunes:image href="https://img.transistor.fm/hPcgty8eA9fXdl4o3un7LveZQ3CCHTKPhLpUmzpQMeI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mM2Fk/NTQ5YmRkN2FiMTFl/OWE3MWMwOWEwYjQ1/NDE3ZC5wbmc.jpg"/>
+      <itunes:duration>4792</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Jack Tramiel, a Holocaust survivor-turned-tech titan, revolutionized computing by making it accessible to everyday families. His ruthless business tactics and vertical integration strategy at Commodore created the Commodore 64, the home computer that launched the next generation of tech careers and shaped our digital present. </p><p><br></p><p>This piece, published first on <a href="https://every.to/the-crazy-ones/the-holocaust-survivor-who-revolutionized-computing">Every</a> and now adapted for audio, is the latest in a series by writer Gareth Edwards on the history of the personal computer—and the individuals responsible for bringing it to everyday consumers.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>AI &amp; I</em></a>, where host Dan Shipper interviews luminaries and experts like Reid Hoffman, Tyler Cowen, and Steven Johnson. </p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">Ultimate Guide to Prompting ChatGPT</a></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Misfit Who Built the IBM PC</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>The Misfit Who Built the IBM PC</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7dec1924-b55d-48f5-ba10-c71202a41c9f</guid>
+      <link>https://share.transistor.fm/s/4d942cad</link>
+      <description>
+        <![CDATA[<p>From IBM’s backwater offices in Boca Raton, Florida, Don Estridge ushered in the era of personal home computers. He was a corporate misfit who broke all of the company’s rules in order to change the world.</p><p><br></p><p>This piece, published first on <a href="https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc">Every</a> and now adapted for audio, is the latest in a series by the writer Gareth Edwards on the history of the personal computer—and the individuals responsible for bringing it to everyday consumers. </p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">AI and I</a>, where host Dan Shipper interviews luminaries and experts like Reid Hoffman, Tyler Cowenl, and Steven Johnson.</p><p><br></p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">ultimate guide to prompting ChatGPT</a>.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>From IBM’s backwater offices in Boca Raton, Florida, Don Estridge ushered in the era of personal home computers. He was a corporate misfit who broke all of the company’s rules in order to change the world.</p><p><br></p><p>This piece, published first on <a href="https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc">Every</a> and now adapted for audio, is the latest in a series by the writer Gareth Edwards on the history of the personal computer—and the individuals responsible for bringing it to everyday consumers. </p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">AI and I</a>, where host Dan Shipper interviews luminaries and experts like Reid Hoffman, Tyler Cowenl, and Steven Johnson.</p><p><br></p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">ultimate guide to prompting ChatGPT</a>.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 14 Jun 2024 13:16:03 -0700</pubDate>
+      <author>Gareth Edwards</author>
+      <enclosure url="https://media.transistor.fm/4d942cad/bd880f12.mp3" length="79694148" type="audio/mpeg"/>
+      <itunes:author>Gareth Edwards</itunes:author>
+      <itunes:image href="https://img.transistor.fm/CNGje-QOiwCGwI_vHDB5AIf3P5ZBQhVB00dV_Jnpu-g/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ZWM3/NjA1MTExMzYyODE3/NjVhOTJkZmEzMTI3/MzAxYy5wbmc.jpg"/>
+      <itunes:duration>3318</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>From IBM’s backwater offices in Boca Raton, Florida, Don Estridge ushered in the era of personal home computers. He was a corporate misfit who broke all of the company’s rules in order to change the world.</p><p><br></p><p>This piece, published first on <a href="https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc">Every</a> and now adapted for audio, is the latest in a series by the writer Gareth Edwards on the history of the personal computer—and the individuals responsible for bringing it to everyday consumers. </p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">AI and I</a>, where host Dan Shipper interviews luminaries and experts like Reid Hoffman, Tyler Cowenl, and Steven Johnson.</p><p><br></p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">ultimate guide to prompting ChatGPT</a>.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>ChatGPT Is Changing Our Understanding of the Human Intellect</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>ChatGPT Is Changing Our Understanding of the Human Intellect</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">742501d4-2d74-4da7-9a92-156658c9a0ae</guid>
+      <link>https://share.transistor.fm/s/bb947082</link>
+      <description>
+        <![CDATA[<p>ChatGPT is changing what it means to feel uniquely human. Large language models have the ability to mimic human creativity and spout human knowledge at record speeds—and they’re getting more powerful by the day. But while this technology might seem scary, it doesn’t need to be.</p><p>Every CEO Dan Shipper puts it this way: “ChatGPT doesn’t replace me. It just changes what it is that I do.” In this essay, Dan makes a case for a new understanding of human intellect, drawing on examples from medicine, psychology, and philosophy.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where Dan interviews luminaries and experts like Reid Hoffman, Tyler Cowen, and David Perell.</p><p><br></p><p>To hear more from Dan Shipper:</p><p>Subscribe to Every: <a href="https://every.to/subscribe">https://every.to/subscribe</a></p><p>Follow him on X: <a href="https://twitter.com/danshipper">https://twitter.com/danshipper</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>ChatGPT is changing what it means to feel uniquely human. Large language models have the ability to mimic human creativity and spout human knowledge at record speeds—and they’re getting more powerful by the day. But while this technology might seem scary, it doesn’t need to be.</p><p>Every CEO Dan Shipper puts it this way: “ChatGPT doesn’t replace me. It just changes what it is that I do.” In this essay, Dan makes a case for a new understanding of human intellect, drawing on examples from medicine, psychology, and philosophy.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where Dan interviews luminaries and experts like Reid Hoffman, Tyler Cowen, and David Perell.</p><p><br></p><p>To hear more from Dan Shipper:</p><p>Subscribe to Every: <a href="https://every.to/subscribe">https://every.to/subscribe</a></p><p>Follow him on X: <a href="https://twitter.com/danshipper">https://twitter.com/danshipper</a></p>]]>
+      </content:encoded>
+      <pubDate>Fri, 10 May 2024 07:01:39 -0700</pubDate>
+      <author>Dan Shipper</author>
+      <enclosure url="https://media.transistor.fm/bb947082/4b0bb48f.mp3" length="14853934" type="audio/mpeg"/>
+      <itunes:author>Dan Shipper</itunes:author>
+      <itunes:image href="https://img.transistor.fm/SO65-Dw5i9SDV4m33OF0Y2l3uIedX7_ncXjlJEJAWRI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMzU5/YzA3NDg4Zjk1MDg5/YmNiMTdiYzFmY2Fi/Yjg3Yy5wbmc.jpg"/>
+      <itunes:duration>923</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>ChatGPT is changing what it means to feel uniquely human. Large language models have the ability to mimic human creativity and spout human knowledge at record speeds—and they’re getting more powerful by the day. But while this technology might seem scary, it doesn’t need to be.</p><p>Every CEO Dan Shipper puts it this way: “ChatGPT doesn’t replace me. It just changes what it is that I do.” In this essay, Dan makes a case for a new understanding of human intellect, drawing on examples from medicine, psychology, and philosophy.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where Dan interviews luminaries and experts like Reid Hoffman, Tyler Cowen, and David Perell.</p><p><br></p><p>To hear more from Dan Shipper:</p><p>Subscribe to Every: <a href="https://every.to/subscribe">https://every.to/subscribe</a></p><p>Follow him on X: <a href="https://twitter.com/danshipper">https://twitter.com/danshipper</a></p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>She Built a Microcomputer Empire From Her Suburban Home</title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>She Built a Microcomputer Empire From Her Suburban Home</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">825f1067-9ed2-40b4-857a-66e148de11fb</guid>
+      <link>https://share.transistor.fm/s/70fb9148</link>
+      <description>
+        <![CDATA[<p>Lore Harp McGovern was one of the most influential women in the history of computing, but her story, and her company, haven’t been given their due. Harp McGovern spurned the life of a housewife and built a multimillion-dollar personal computer company, called Vector Graphic, from scratch. </p><p><br></p><p>In this essay, published first on <a href="https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot">Every</a> and now adapted for audio, writer Gareth Edwards tells the story of Harp McGovern, who took Silicon Valley by storm in the 1970s, and makes a convincing case for why she should be remembered as a founding mother of the computer age t</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p><br></p><p>And sign up for Every to get our <a href="https://every.ck.page/ultimate-guide-to-prompting-chatgpt">ultimate guide to prompting ChatGPT</a>.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br></p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Lore Harp McGovern was one of the most influential women in the history of computing, but her story, and her company, haven’t been given their due. Harp McGovern spurned the life of a housewife and built a multimillion-dollar personal computer company, called Vector Graphic, from scratch. </p><p><br></p><p>In this essay, published first on <a href="https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot">Every</a> and now adapted for audio, writer Gareth Edwards tells the story of Harp McGovern, who took Silicon Valley by storm in the 1970s, and makes a convincing case for why she should be remembered as a founding mother of the computer age t</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p><br></p><p>And sign up for Every to get our <a href="https://every.ck.page/ultimate-guide-to-prompting-chatgpt">ultimate guide to prompting ChatGPT</a>.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br></p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 12 Apr 2024 06:39:00 -0700</pubDate>
+      <author>Gareth Edwards</author>
+      <enclosure url="https://media.transistor.fm/70fb9148/01ecc570.mp3" length="54256470" type="audio/mpeg"/>
+      <itunes:author>Gareth Edwards</itunes:author>
+      <itunes:image href="https://img.transistor.fm/xkZQn_jROQz5Fc6PfP9OK-aLagPr2vMcDv6aPSWdozQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMzk1/ZWQ3MzRjOTJiNDFi/YmNiZTBkZjIxN2U3/YTUyOC5wbmc.jpg"/>
+      <itunes:duration>3388</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Lore Harp McGovern was one of the most influential women in the history of computing, but her story, and her company, haven’t been given their due. Harp McGovern spurned the life of a housewife and built a multimillion-dollar personal computer company, called Vector Graphic, from scratch. </p><p><br></p><p>In this essay, published first on <a href="https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot">Every</a> and now adapted for audio, writer Gareth Edwards tells the story of Harp McGovern, who took Silicon Valley by storm in the 1970s, and makes a convincing case for why she should be remembered as a founding mother of the computer age t</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p><br></p><p>And sign up for Every to get our <a href="https://every.ck.page/ultimate-guide-to-prompting-chatgpt">ultimate guide to prompting ChatGPT</a>.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br></p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Ads in the Age of AI</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>Ads in the Age of AI</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a4c31d86-8a53-4061-9a49-c202798a250b</guid>
+      <link>https://share.transistor.fm/s/30b8ff5b</link>
+      <description>
+        <![CDATA[<p>Ads subsidize our entire information ecosystem, keeping content free and accessible for everyone. AI may change all that by reducing both the amount of ads being served and the amount of time that people spend browsing—a one-two punch that will be devastating for the revenue of internet-reliant businesses. </p><p>In this <a href="https://every.to/napkin-math/ads-in-the-age-of-ai">essay</a>, Every lead writer Evan Armstrong argues that the result will be an entirely new techno-economic paradigm for the internet. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Ads subsidize our entire information ecosystem, keeping content free and accessible for everyone. AI may change all that by reducing both the amount of ads being served and the amount of time that people spend browsing—a one-two punch that will be devastating for the revenue of internet-reliant businesses. </p><p>In this <a href="https://every.to/napkin-math/ads-in-the-age-of-ai">essay</a>, Every lead writer Evan Armstrong argues that the result will be an entirely new techno-economic paradigm for the internet. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 08 Mar 2024 10:32:45 -0800</pubDate>
+      <author>Evan Armstrong</author>
+      <enclosure url="https://media.transistor.fm/30b8ff5b/34df6b5f.mp3" length="9445436" type="audio/mpeg"/>
+      <itunes:author>Evan Armstrong</itunes:author>
+      <itunes:image href="https://img.transistor.fm/Tasg_FlQjmonXaTtg7oKGzvLUPWazzmrgq3OGUIKNj8/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE3ODE3ODEv/MTcwOTkyMjc2NS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>584</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Ads subsidize our entire information ecosystem, keeping content free and accessible for everyone. AI may change all that by reducing both the amount of ads being served and the amount of time that people spend browsing—a one-two punch that will be devastating for the revenue of internet-reliant businesses. </p><p>In this <a href="https://every.to/napkin-math/ads-in-the-age-of-ai">essay</a>, Every lead writer Evan Armstrong argues that the result will be an entirely new techno-economic paradigm for the internet. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rise and Fall of Steve Jobs’s Greatest Rival</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>The Rise and Fall of Steve Jobs’s Greatest Rival</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">673ef5e7-a216-4b7a-9fa4-3e311efc3b78</guid>
+      <link>https://share.transistor.fm/s/f1993c10</link>
+      <description>
+        <![CDATA[<p>In the early 1980s, two rivals waged a public war for the soul of home computing: Adam Osborne and Steve Jobs. Yet only Steve Jobs is remembered today. This is the forgotten story of the Osborne 1, the world's first mass-market portable computer, and of its charismatic and visionary creator, Adam Osborne. Osborne’s computer company seemed set to rival Apple itself—until a spectacular collapse into bankruptcy in 1984.</p><p><br></p><p>In this essay, first published by Every and now adapted by its author, historian and digital strategist Gareth Edwards walks us through the secret history of the first PC revolution. It’s vital context for our present moment, as AI promises to revolutionize technology just like the PC and the internet did before. In order to understand what’s ahead, we need to reckon with how we got here in the first place.</p><p><br></p><p>Let us know what you think.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In the early 1980s, two rivals waged a public war for the soul of home computing: Adam Osborne and Steve Jobs. Yet only Steve Jobs is remembered today. This is the forgotten story of the Osborne 1, the world's first mass-market portable computer, and of its charismatic and visionary creator, Adam Osborne. Osborne’s computer company seemed set to rival Apple itself—until a spectacular collapse into bankruptcy in 1984.</p><p><br></p><p>In this essay, first published by Every and now adapted by its author, historian and digital strategist Gareth Edwards walks us through the secret history of the first PC revolution. It’s vital context for our present moment, as AI promises to revolutionize technology just like the PC and the internet did before. In order to understand what’s ahead, we need to reckon with how we got here in the first place.</p><p><br></p><p>Let us know what you think.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 04 Mar 2024 06:00:35 -0800</pubDate>
+      <author>Every Inc</author>
+      <enclosure url="https://media.transistor.fm/f1993c10/c7d8e857.mp3" length="51066354" type="audio/mpeg"/>
+      <itunes:author>Every Inc</itunes:author>
+      <itunes:image href="https://img.transistor.fm/0jKwQircxrkLth9seg0EgSBOa0GNH-Fg5ZJvGT4y8NE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE3NjkxODMv/MTcwOTMxOTA2NS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>3187</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In the early 1980s, two rivals waged a public war for the soul of home computing: Adam Osborne and Steve Jobs. Yet only Steve Jobs is remembered today. This is the forgotten story of the Osborne 1, the world's first mass-market portable computer, and of its charismatic and visionary creator, Adam Osborne. Osborne’s computer company seemed set to rival Apple itself—until a spectacular collapse into bankruptcy in 1984.</p><p><br></p><p>In this essay, first published by Every and now adapted by its author, historian and digital strategist Gareth Edwards walks us through the secret history of the first PC revolution. It’s vital context for our present moment, as AI promises to revolutionize technology just like the PC and the internet did before. In order to understand what’s ahead, we need to reckon with how we got here in the first place.</p><p><br></p><p>Let us know what you think.</p><p><br></p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p><br></p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p><br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Reddit: The Internet’s Bellwether</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>Reddit: The Internet’s Bellwether</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d1a0ded4-28c7-40fe-beb1-1ae4a37ffa35</guid>
+      <link>https://share.transistor.fm/s/9aa61261</link>
+      <description>
+        <![CDATA[<p>Reddit is a special place on the internet that happens to be a mediocre business. However, its recent S-1 document revealed something interesting: It could potentially build a business licensing user data to AI companies. Is this the future, or a fiction? Listen to this essay by Every lead writer Evan Armstrong to learn about this new potential revenue stream for companies. <br>If you found this episode interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out Dan’s weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G?si=54c20807493a4ac5">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.<br>Subscribe to <a href="https://every.to/">Every</a>.<br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Reddit is a special place on the internet that happens to be a mediocre business. However, its recent S-1 document revealed something interesting: It could potentially build a business licensing user data to AI companies. Is this the future, or a fiction? Listen to this essay by Every lead writer Evan Armstrong to learn about this new potential revenue stream for companies. <br>If you found this episode interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out Dan’s weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G?si=54c20807493a4ac5">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.<br>Subscribe to <a href="https://every.to/">Every</a>.<br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 01 Mar 2024 11:49:10 -0800</pubDate>
+      <author>Evan Armstrong</author>
+      <enclosure url="https://media.transistor.fm/9aa61261/27e378fb.mp3" length="6603899" type="audio/mpeg"/>
+      <itunes:author>Evan Armstrong</itunes:author>
+      <itunes:image href="https://img.transistor.fm/mTGk6-aXxWxVIiB0bRAqYJRgwVgexL_Dz5YazdmkqPc/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE3NjkzOTMv/MTcwOTMyNDMyNS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>408</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Reddit is a special place on the internet that happens to be a mediocre business. However, its recent S-1 document revealed something interesting: It could potentially build a business licensing user data to AI companies. Is this the future, or a fiction? Listen to this essay by Every lead writer Evan Armstrong to learn about this new potential revenue stream for companies. <br>If you found this episode interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out Dan’s weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G?si=54c20807493a4ac5">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.<br>Subscribe to <a href="https://every.to/">Every</a>.<br>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>AI and the Vision Pro Don’t Need a Killer App</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>AI and the Vision Pro Don’t Need a Killer App</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">072dc404-45d5-461c-8345-5f000bc3468c</guid>
+      <link>https://share.transistor.fm/s/11d26d4d</link>
+      <description>
+        <![CDATA[<p>Everyone is hunting for the killer app—software so good that it justifies the purchase of new hardware. But the new tech platforms of AI and virtual reality may not even need a killer app. This isn’t a matter of semantics: Whoever gains power in the platforms of the future will garner more power than we’ve ever dreamed. Read this for an in-depth analysis of what kind of companies are best positioned to win.  <br>If you found this episode interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out Dan’s weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G?si=54c20807493a4ac5">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. <br>Subscribe to <a href="https://every.to/">Every</a>. <br>Follow us on <a href="https://twitter.com/every">X</a>.</p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Everyone is hunting for the killer app—software so good that it justifies the purchase of new hardware. But the new tech platforms of AI and virtual reality may not even need a killer app. This isn’t a matter of semantics: Whoever gains power in the platforms of the future will garner more power than we’ve ever dreamed. Read this for an in-depth analysis of what kind of companies are best positioned to win.  <br>If you found this episode interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out Dan’s weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G?si=54c20807493a4ac5">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. <br>Subscribe to <a href="https://every.to/">Every</a>. <br>Follow us on <a href="https://twitter.com/every">X</a>.</p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Fri, 23 Feb 2024 09:38:57 -0800</pubDate>
+      <author>Evan Armstrong</author>
+      <enclosure url="https://media.transistor.fm/11d26d4d/df725d0f.mp3" length="13808498" type="audio/mpeg"/>
+      <itunes:author>Evan Armstrong</itunes:author>
+      <itunes:image href="https://img.transistor.fm/r3h7c1Rk6tfCjUXPwVA2j5Durw--TVZxwxyHpeHJ4WM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE3NTA0MjMv/MTcwODcwOTkzNy1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>859</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Everyone is hunting for the killer app—software so good that it justifies the purchase of new hardware. But the new tech platforms of AI and virtual reality may not even need a killer app. This isn’t a matter of semantics: Whoever gains power in the platforms of the future will garner more power than we’ve ever dreamed. Read this for an in-depth analysis of what kind of companies are best positioned to win.  <br>If you found this episode interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out Dan’s weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G?si=54c20807493a4ac5">How Do You Use ChatGPT?</a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. <br>Subscribe to <a href="https://every.to/">Every</a>. <br>Follow us on <a href="https://twitter.com/every">X</a>.</p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Autonomous Vehicles Have a Problem of Narrative</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>Autonomous Vehicles Have a Problem of Narrative</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d2655954-0acc-4d49-b7bf-695fb1c7d9f4</guid>
+      <link>https://share.transistor.fm/s/cdf2897b</link>
+      <description>
+        <![CDATA[<p>Last weekend, a crowd of revelers in San Francisco’s Chinatown burned an autonomous vehicle from Waymo down to its frame. Tech is now the fifth least-trusted industry in America, having experienced a rapid loss in confidence by the American public after years of having been among the most admired. How did it come to this? </p><p>Evan argues that these incidents signal that tech needs to get realistic and optimistic by embracing risk—but doing so in a way that brings the American public along with it. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Last weekend, a crowd of revelers in San Francisco’s Chinatown burned an autonomous vehicle from Waymo down to its frame. Tech is now the fifth least-trusted industry in America, having experienced a rapid loss in confidence by the American public after years of having been among the most admired. How did it come to this? </p><p>Evan argues that these incidents signal that tech needs to get realistic and optimistic by embracing risk—but doing so in a way that brings the American public along with it. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 15 Feb 2024 04:34:54 -0800</pubDate>
+      <author>Every Inc</author>
+      <enclosure url="https://media.transistor.fm/cdf2897b/81244332.mp3" length="10906475" type="audio/mpeg"/>
+      <itunes:author>Every Inc</itunes:author>
+      <itunes:image href="https://img.transistor.fm/3C6o51zioaH3w8wbT8pSVnW03zNMy1Z99onVUYMSSS0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE3Mzc5ODYv/MTcwODAwMDQ5NC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>674</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Last weekend, a crowd of revelers in San Francisco’s Chinatown burned an autonomous vehicle from Waymo down to its frame. Tech is now the fifth least-trusted industry in America, having experienced a rapid loss in confidence by the American public after years of having been among the most admired. How did it come to this? </p><p>Evan argues that these incidents signal that tech needs to get realistic and optimistic by embracing risk—but doing so in a way that brings the American public along with it. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Crypto’s Prophet Speaks</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>Crypto’s Prophet Speaks</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9ba9e936-47e4-46d9-8879-ab797919486e</guid>
+      <link>https://share.transistor.fm/s/7c2bed6b</link>
+      <description>
+        <![CDATA[<p>Chris Dixon, the patron saint of crypto, is still preaching the gospel.</p><p>In this <a href="https://every.to/napkin-math/crypto-s-prophet-speaks">essay</a>, Every lead writer Evan Armstrong deconstructs Dixon’s new book, <em>Read Write Own</em>, in which the venture capitalist proffers his still-faithful argument for how crypto and blockchain technology can change the internet—and the world. </p><p>Evan isn’t convinced. “I finished it believing that blockchains can solve niche use cases that rely on the technology’s properties,” he writes. “I was equally convinced that crypto’s promise has been greatly inflated.” While Dixon diagnoses many of the internet’s problems, crypto won’t be the thing that saves it.</p><p>Over crypto? Still all-in? Let us know what you think. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Chris Dixon, the patron saint of crypto, is still preaching the gospel.</p><p>In this <a href="https://every.to/napkin-math/crypto-s-prophet-speaks">essay</a>, Every lead writer Evan Armstrong deconstructs Dixon’s new book, <em>Read Write Own</em>, in which the venture capitalist proffers his still-faithful argument for how crypto and blockchain technology can change the internet—and the world. </p><p>Evan isn’t convinced. “I finished it believing that blockchains can solve niche use cases that rely on the technology’s properties,” he writes. “I was equally convinced that crypto’s promise has been greatly inflated.” While Dixon diagnoses many of the internet’s problems, crypto won’t be the thing that saves it.</p><p>Over crypto? Still all-in? Let us know what you think. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 10 Feb 2024 04:19:10 -0800</pubDate>
+      <author>Evan Armstrong</author>
+      <enclosure url="https://media.transistor.fm/7c2bed6b/13ac8504.mp3" length="32379488" type="audio/mpeg"/>
+      <itunes:author>Evan Armstrong</itunes:author>
+      <itunes:image href="https://img.transistor.fm/2wo-ibmg70PZz-MzviavV9VmGdbebtWODBRkvr_m_0w/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE3MjY3MDEv/MTcwNzU2NzU1MC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2018</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Chris Dixon, the patron saint of crypto, is still preaching the gospel.</p><p>In this <a href="https://every.to/napkin-math/crypto-s-prophet-speaks">essay</a>, Every lead writer Evan Armstrong deconstructs Dixon’s new book, <em>Read Write Own</em>, in which the venture capitalist proffers his still-faithful argument for how crypto and blockchain technology can change the internet—and the world. </p><p>Evan isn’t convinced. “I finished it believing that blockchains can solve niche use cases that rely on the technology’s properties,” he writes. “I was equally convinced that crypto’s promise has been greatly inflated.” While Dixon diagnoses many of the internet’s problems, crypto won’t be the thing that saves it.</p><p>Over crypto? Still all-in? Let us know what you think. </p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>crypto, web3, tech, dixon, nft</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Zone of Deployment: How Can You Know When to Invest?</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>The Zone of Deployment: How Can You Know When to Invest?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6d12b0b8-f5b8-400c-9fac-7507dcecffd2</guid>
+      <link>https://share.transistor.fm/s/f520ed2f</link>
+      <description>
+        <![CDATA[<p>Investing is easy. Investing wisely—well, not so much. </p><p>In this <a href="https://every.to/napkin-math/the-zone-of-deployment">essay</a>, Every lead writer Evan Armstrong helps you wade through the morass of hyped-up startups in your journey to invest in companies that are actually good businesses.</p><p>Consider three things when making an investment: business quality, asset price, and portfolio construction. Following this framework could help savvy investors avoid busts and focus on fundamentals and context rather than memes and vibes.</p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan Shipper and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Investing is easy. Investing wisely—well, not so much. </p><p>In this <a href="https://every.to/napkin-math/the-zone-of-deployment">essay</a>, Every lead writer Evan Armstrong helps you wade through the morass of hyped-up startups in your journey to invest in companies that are actually good businesses.</p><p>Consider three things when making an investment: business quality, asset price, and portfolio construction. Following this framework could help savvy investors avoid busts and focus on fundamentals and context rather than memes and vibes.</p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan Shipper and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 29 Jan 2024 08:40:03 -0800</pubDate>
+      <author>Evan Armstrong</author>
+      <enclosure url="https://media.transistor.fm/f520ed2f/1f35a153.mp3" length="4869902" type="audio/mpeg"/>
+      <itunes:author>Evan Armstrong</itunes:author>
+      <itunes:image href="https://img.transistor.fm/gCB7QM93dAMMBVjuM5Fzs-JKQaxUIRLxo8YPZ8ttjRE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE3MDgwMjQv/MTcwNjU0NjQwMy1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>298</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Investing is easy. Investing wisely—well, not so much. </p><p>In this <a href="https://every.to/napkin-math/the-zone-of-deployment">essay</a>, Every lead writer Evan Armstrong helps you wade through the morass of hyped-up startups in your journey to invest in companies that are actually good businesses.</p><p>Consider three things when making an investment: business quality, asset price, and portfolio construction. Following this framework could help savvy investors avoid busts and focus on fundamentals and context rather than memes and vibes.</p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan Shipper and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Secret Father of Modern Computing</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>The Secret Father of Modern Computing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">42f9e9a9-e702-4b8c-9dd6-657a2989f1c4</guid>
+      <link>https://share.transistor.fm/s/4e722e70</link>
+      <description>
+        <![CDATA[<p>In September 1974, Ed Roberts was $250,000 in the hole from a calculator business and begging the bank for a $65,000 loan. This money wasn’t going to calculators, but to something altogether different—an affordable personal computer. The price? $400. </p><p>The idea of selling a computer at that price—around $2,400 in today’s dollars—was inconceivable. But in a few short years, Roberts’s idea proved a hit—he made millions from sales of his Altair 8800 computers. In the process, he launched the careers of luminaries like Bill Gates and Steve Wozniak, setting in motion the advent of mass-personal computing.</p><p>In this <a href="https://every.to/p/the-secret-father-of-modern-computing">essay</a>, first published by Every and now adapted by its author, historian and digital strategist Gareth Edwards walks us through the secret history of the first PC revolution. It’s vital context for our present moment, as AI promises to revolutionize technology just like the PC and the internet did before. In order to understand what’s ahead, one needs to reckon with how we got here in the first place.</p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. </p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan Shipper and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In September 1974, Ed Roberts was $250,000 in the hole from a calculator business and begging the bank for a $65,000 loan. This money wasn’t going to calculators, but to something altogether different—an affordable personal computer. The price? $400. </p><p>The idea of selling a computer at that price—around $2,400 in today’s dollars—was inconceivable. But in a few short years, Roberts’s idea proved a hit—he made millions from sales of his Altair 8800 computers. In the process, he launched the careers of luminaries like Bill Gates and Steve Wozniak, setting in motion the advent of mass-personal computing.</p><p>In this <a href="https://every.to/p/the-secret-father-of-modern-computing">essay</a>, first published by Every and now adapted by its author, historian and digital strategist Gareth Edwards walks us through the secret history of the first PC revolution. It’s vital context for our present moment, as AI promises to revolutionize technology just like the PC and the internet did before. In order to understand what’s ahead, one needs to reckon with how we got here in the first place.</p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. </p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan Shipper and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Wed, 24 Jan 2024 13:08:29 -0800</pubDate>
+      <author>Gareth Edwards</author>
+      <enclosure url="https://media.transistor.fm/4e722e70/7efe62b0.mp3" length="45129395" type="audio/mpeg"/>
+      <itunes:author>Gareth Edwards</itunes:author>
+      <itunes:image href="https://img.transistor.fm/ermlwGxBS4Yr26fR5qcUMm6KJw3kogRgNNp4uHpfyBE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE3MDI3MzEv/MTcwNjEzMDc1Mi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1874</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In September 1974, Ed Roberts was $250,000 in the hole from a calculator business and begging the bank for a $65,000 loan. This money wasn’t going to calculators, but to something altogether different—an affordable personal computer. The price? $400. </p><p>The idea of selling a computer at that price—around $2,400 in today’s dollars—was inconceivable. But in a few short years, Roberts’s idea proved a hit—he made millions from sales of his Altair 8800 computers. In the process, he launched the careers of luminaries like Bill Gates and Steve Wozniak, setting in motion the advent of mass-personal computing.</p><p>In this <a href="https://every.to/p/the-secret-father-of-modern-computing">essay</a>, first published by Every and now adapted by its author, historian and digital strategist Gareth Edwards walks us through the secret history of the first PC revolution. It’s vital context for our present moment, as AI promises to revolutionize technology just like the PC and the internet did before. In order to understand what’s ahead, one needs to reckon with how we got here in the first place.</p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. </p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan Shipper and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, ai, business, investing, productivity, finance, startups</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>How I Use ChatGPT (As a Reasonable Person)</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>How I Use ChatGPT (As a Reasonable Person)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b701265a-a4d2-40b4-a732-f6df2947dc7d</guid>
+      <link>https://share.transistor.fm/s/cb0916a2</link>
+      <description>
+        <![CDATA[<p>AI is both overhyped and underutilized.</p><p>Every’s lead writer Evan Armstrong believes that we have crossed the AI rubicon, estimating that the technology has spurred a 20 percent productivity gain for him in just the past few months.</p><p>In this essay, published first on <a href="https://every.to/napkin-math/how-i-a-reasonable-person-use-chatgpt">Every</a> and now adapted for audio, Evan provides tips, tools, and hacks to make ChatGPT useful for you—a reasonable person. </p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. </p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">ultimate guide to prompting ChatGPT</a>.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>AI is both overhyped and underutilized.</p><p>Every’s lead writer Evan Armstrong believes that we have crossed the AI rubicon, estimating that the technology has spurred a 20 percent productivity gain for him in just the past few months.</p><p>In this essay, published first on <a href="https://every.to/napkin-math/how-i-a-reasonable-person-use-chatgpt">Every</a> and now adapted for audio, Evan provides tips, tools, and hacks to make ChatGPT useful for you—a reasonable person. </p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. </p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">ultimate guide to prompting ChatGPT</a>.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 08 Dec 2023 08:18:59 -0800</pubDate>
+      <author>Evan Armstrong</author>
+      <enclosure url="https://media.transistor.fm/cb0916a2/0928a4bb.mp3" length="16846135" type="audio/mpeg"/>
+      <itunes:author>Evan Armstrong</itunes:author>
+      <itunes:image href="https://img.transistor.fm/BbXt9U8LwbLyenNJU9yj6CA3zNrGmZj-paRdH8izg9s/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2MzY4NTMv/MTcwMjA0NzUyNy1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>698</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>AI is both overhyped and underutilized.</p><p>Every’s lead writer Evan Armstrong believes that we have crossed the AI rubicon, estimating that the technology has spurred a 20 percent productivity gain for him in just the past few months.</p><p>In this essay, published first on <a href="https://every.to/napkin-math/how-i-a-reasonable-person-use-chatgpt">Every</a> and now adapted for audio, Evan provides tips, tools, and hacks to make ChatGPT useful for you—a reasonable person. </p><p>Let us know what you think.</p><p>If you found this essay interesting, please like, subscribe, comment, and share. If you want more from Every on cutting-edge technology, check out our weekly podcast series, <a href="https://open.spotify.com/show/5qX1nRTaFsfWdmdj5JWO1G"><em>How Do You Use ChatGPT?</em></a>, where host Dan Shipper interviews luminaries and experts like Tyler Cowen, David Perell, and Sahil Lavingia. </p><p>And sign up for Every to get our <a href="https://every.to/p/the-ultimate-guide-to-prompt-engineering">ultimate guide to prompting ChatGPT</a>.</p><p>Subscribe to <a href="https://every.to/subscribe">Every</a>.</p><p>Follow us on <a href="https://twitter.com/every">X</a>.</p><p>Register for Dan and Dr. Gena Gorlin’s course, <a href="https://www.maxyourmind.xyz/">Maximize Your Mind With ChatGPT</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>ChatGPT, AI, technology</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/the-cs-primer-show" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>The CS Primer Show</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/the-cs-primer-show</itunes:new-feed-url>
+    <description>A show about computer science and computer science education by Charlie Harrington and Oz Nova.</description>
+    <copyright>© 2025 Charlie Harrington and Oz Nova</copyright>
+    <podcast:guid>d87a7448-f389-5a21-99e3-b285c945e1f3</podcast:guid>
+    <podcast:locked owner="oz@bradfieldcs.com">no</podcast:locked>
+    <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+    <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    <language>en</language>
+    <pubDate>Mon, 19 May 2025 21:24:50 -0700</pubDate>
+    <lastBuildDate>Mon, 19 May 2025 21:25:07 -0700</lastBuildDate>
+    <link>https://show.csprimer.com</link>
+    <image>
+      <url>https://img.transistor.fm/lSYhzjPvnJWZJI9SJM5iZWn1uT7a2u_uvygWLGztwhI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQwMzAwLzE3MDE4/NDE1OTQtYXJ0d29y/ay5qcGc.jpg</url>
+      <title>The CS Primer Show</title>
+      <link>https://show.csprimer.com</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+    <itunes:image href="https://img.transistor.fm/lSYhzjPvnJWZJI9SJM5iZWn1uT7a2u_uvygWLGztwhI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQwMzAwLzE3MDE4/NDE1OTQtYXJ0d29y/ay5qcGc.jpg"/>
+    <itunes:summary>A show about computer science and computer science education by Charlie Harrington and Oz Nova.</itunes:summary>
+    <itunes:subtitle>A show about computer science and computer science education by Charlie Harrington and Oz Nova..</itunes:subtitle>
+    <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>csprimer.com</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>Yes</itunes:explicit>
+    <item>
+      <title>E25: There is only one Beej Jorgensen</title>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:title>E25: There is only one Beej Jorgensen</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">39c262d1-0bd6-4aa7-b8ca-6f9a4b287216</guid>
+      <link>https://share.transistor.fm/s/abc7659b</link>
+      <description>
+        <![CDATA[<p>Brian "Beej Jorgensen" Hall joins Oz and Charlie to dive into the joy and art of learning computer science. It's all here - achieving flow, "How to Solve It" by Polya, self-publishing guides/books on the web, Beej's take on AI and coding, and, of course, the origin of the "Beej Jorgensen" moniker. </p><p>Shownotes:</p><ul><li>Beej's website: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkJTRTl1bE1DRWJ4ZHVMNmQzLVF5WFpaZjV3UXxBQ3Jtc0ttcGdzUTJacUFuaTl2ai0yOU1yOXZOU0FpWU5XRlRBR3RwN2N3REJSVXFtYl9TRkdRRVllRlFVN2c4YXEtd3Z6N1BkbndQNmU1bnptZ3BjREV2S1B4UEFxbjNOdVFESzQzVDJ4aER3dmxqREVWa0hvWQ&amp;q=https%3A%2F%2Fbeej.us%2F&amp;v=EyRIKIQZDZU">https://beej.us/</a></li><li>Beej's guide to learning computer science: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbnNGLUVINTU5WnRCZUxtelBqRVRsdDFOVERYd3xBQ3Jtc0tuSkNjdmZ4bWZPYzZOUjBKZTloWEJoMkJkRlMwWE8wbmI4M2VlYVU1Z1dkM2h2UnVzNUtTM2FKVThmUnJLSjNtSy15SE1vZ25MeVVyeVpfT3pIbGNTWnAtczByalM3TnVIOHo5ckRwWnlxbHd2SVgtUQ&amp;q=https%3A%2F%2Fbeej.us%2Fguide%2Fbglcs%2F&amp;v=EyRIKIQZDZU">https://beej.us/guide/bglcs/</a></li><li><a href="https://news.ycombinator.com/item?id=33906604">Hacker News post on Charlie's short story about a giant diamond asteroid</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Brian "Beej Jorgensen" Hall joins Oz and Charlie to dive into the joy and art of learning computer science. It's all here - achieving flow, "How to Solve It" by Polya, self-publishing guides/books on the web, Beej's take on AI and coding, and, of course, the origin of the "Beej Jorgensen" moniker. </p><p>Shownotes:</p><ul><li>Beej's website: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkJTRTl1bE1DRWJ4ZHVMNmQzLVF5WFpaZjV3UXxBQ3Jtc0ttcGdzUTJacUFuaTl2ai0yOU1yOXZOU0FpWU5XRlRBR3RwN2N3REJSVXFtYl9TRkdRRVllRlFVN2c4YXEtd3Z6N1BkbndQNmU1bnptZ3BjREV2S1B4UEFxbjNOdVFESzQzVDJ4aER3dmxqREVWa0hvWQ&amp;q=https%3A%2F%2Fbeej.us%2F&amp;v=EyRIKIQZDZU">https://beej.us/</a></li><li>Beej's guide to learning computer science: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbnNGLUVINTU5WnRCZUxtelBqRVRsdDFOVERYd3xBQ3Jtc0tuSkNjdmZ4bWZPYzZOUjBKZTloWEJoMkJkRlMwWE8wbmI4M2VlYVU1Z1dkM2h2UnVzNUtTM2FKVThmUnJLSjNtSy15SE1vZ25MeVVyeVpfT3pIbGNTWnAtczByalM3TnVIOHo5ckRwWnlxbHd2SVgtUQ&amp;q=https%3A%2F%2Fbeej.us%2Fguide%2Fbglcs%2F&amp;v=EyRIKIQZDZU">https://beej.us/guide/bglcs/</a></li><li><a href="https://news.ycombinator.com/item?id=33906604">Hacker News post on Charlie's short story about a giant diamond asteroid</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Sat, 17 May 2025 14:55:09 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/abc7659b/dc88dc65.mp3" length="52800166" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3028</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Brian "Beej Jorgensen" Hall joins Oz and Charlie to dive into the joy and art of learning computer science. It's all here - achieving flow, "How to Solve It" by Polya, self-publishing guides/books on the web, Beej's take on AI and coding, and, of course, the origin of the "Beej Jorgensen" moniker. </p><p>Shownotes:</p><ul><li>Beej's website: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkJTRTl1bE1DRWJ4ZHVMNmQzLVF5WFpaZjV3UXxBQ3Jtc0ttcGdzUTJacUFuaTl2ai0yOU1yOXZOU0FpWU5XRlRBR3RwN2N3REJSVXFtYl9TRkdRRVllRlFVN2c4YXEtd3Z6N1BkbndQNmU1bnptZ3BjREV2S1B4UEFxbjNOdVFESzQzVDJ4aER3dmxqREVWa0hvWQ&amp;q=https%3A%2F%2Fbeej.us%2F&amp;v=EyRIKIQZDZU">https://beej.us/</a></li><li>Beej's guide to learning computer science: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbnNGLUVINTU5WnRCZUxtelBqRVRsdDFOVERYd3xBQ3Jtc0tuSkNjdmZ4bWZPYzZOUjBKZTloWEJoMkJkRlMwWE8wbmI4M2VlYVU1Z1dkM2h2UnVzNUtTM2FKVThmUnJLSjNtSy15SE1vZ25MeVVyeVpfT3pIbGNTWnAtczByalM3TnVIOHo5ckRwWnlxbHd2SVgtUQ&amp;q=https%3A%2F%2Fbeej.us%2Fguide%2Fbglcs%2F&amp;v=EyRIKIQZDZU">https://beej.us/guide/bglcs/</a></li><li><a href="https://news.ycombinator.com/item?id=33906604">Hacker News post on Charlie's short story about a giant diamond asteroid</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://beej.us/" img="https://img.transistor.fm/gDgXffTRJk4kDvIxnA-Mi3AsqFEcfDnOAklkjoOTovY/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZjkz/ZmE4OGY4OTQ0ZjA2/YjA1ZmRkMDA0ZDhh/ZmFhMy5wbmc.jpg">Beej</podcast:person>
+    </item>
+    <item>
+      <title>E24: When is binge learning better than consistency?</title>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:title>E24: When is binge learning better than consistency?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">026b75f2-e39c-4879-b601-93093a6131bb</guid>
+      <link>https://share.transistor.fm/s/42f7ce30</link>
+      <description>
+        <![CDATA[<p>Oz and Charlie vibe-chat their way through respective Mathacademy experiences + reviews, leading to a discussion of "binge learning" vs more-structured, consistent learning / time-tracking. Also, Oz shares that he's currently reading a math textbook with this incredible sentence in its introduction: "I consider the mathematical treatment of these problems to be among the chief glories of Western civilization, and I hope you agree."</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://mathacademy.com">mathacademy.com</a></li><li><a href="https://csprimer.com">csprimer.com</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Oz and Charlie vibe-chat their way through respective Mathacademy experiences + reviews, leading to a discussion of "binge learning" vs more-structured, consistent learning / time-tracking. Also, Oz shares that he's currently reading a math textbook with this incredible sentence in its introduction: "I consider the mathematical treatment of these problems to be among the chief glories of Western civilization, and I hope you agree."</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://mathacademy.com">mathacademy.com</a></li><li><a href="https://csprimer.com">csprimer.com</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 01 Apr 2025 06:26:46 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/42f7ce30/a335e122.mp3" length="54208781" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3090</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Oz and Charlie vibe-chat their way through respective Mathacademy experiences + reviews, leading to a discussion of "binge learning" vs more-structured, consistent learning / time-tracking. Also, Oz shares that he's currently reading a math textbook with this incredible sentence in its introduction: "I consider the mathematical treatment of these problems to be among the chief glories of Western civilization, and I hope you agree."</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://mathacademy.com">mathacademy.com</a></li><li><a href="https://csprimer.com">csprimer.com</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    </item>
+    <item>
+      <title>E23: MathAcademy and the efficient pursuit of mastery</title>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:title>E23: MathAcademy and the efficient pursuit of mastery</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">034812ef-524f-4036-a556-6b5cac6f4be1</guid>
+      <link>https://share.transistor.fm/s/751cb4c4</link>
+      <description>
+        <![CDATA[<p>There's something about MathAcademy that just works for learning math (for both kids and adults - ask Reddit!), and we're chatting with Justin Skycak - Chief Quant &amp; Director of Analytics at MathAcademy - to try to figure it out.</p><p><strong>Shownotes:</strong></p><ul><li><a href="http://justinmath.com/">justinmath.com</a> -- Justin's personal website</li><li><a href="http://mathacademy.com/">mathacademy.com</a></li><li><a href="https://www.3blue1brown.com/">3blue1brown</a></li><li><a href="https://www.amazon.com/Cell-Biology-Numbers-Ron-Milo/dp/0815345372">Cell biology by the numbers</a></li><li><a href="https://www.executeprogram.com/">ExecuteProgram</a></li><li><a href="https://en.wikipedia.org/wiki/Star_Trek_(2009_film)">Star Trek 2009</a></li><li><a href="https://www.justinmath.com/books/#the-math-academy-way">The Math Academy Way</a> -- Math Academy's working draft book, authored by Justin, which answers the following questions: What techniques exist to maximize student learning and talent development, particularly in the context of math? Why are these techniques so impactful, and if they are indeed so impactful, then why are they so often absent from traditional classrooms? How does Math Academy leverage these techniques?</li><li><a href="https://mathacademy.com/about-us">Math Academy Origin Story, 2014-20</a> -- from Sandy &amp; Jason's perspective, with a focus on how the original in-school program and early software came to be</li><li><a href="https://www.justinmath.com/bio/#2018-23">Math Academy Origin Story, 2019-23</a> -- from Justin's perspective, with a focus on teaching in that school program and getting the algorithms in place to turn it into a fully automated system</li><li><a href="https://www.mathacademy.us/press">News Articles</a> about Math Academy's original in-school program</li><li><a href="https://x.com/oznova_">Oz on X</a></li><li><a href="https://x.com/whatrocks">Charlie on X</a></li><li><a href="https://ozwrites.com/">Oz's website</a></li><li><a href="https://charlieharrington.com/">Charlie's website</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>There's something about MathAcademy that just works for learning math (for both kids and adults - ask Reddit!), and we're chatting with Justin Skycak - Chief Quant &amp; Director of Analytics at MathAcademy - to try to figure it out.</p><p><strong>Shownotes:</strong></p><ul><li><a href="http://justinmath.com/">justinmath.com</a> -- Justin's personal website</li><li><a href="http://mathacademy.com/">mathacademy.com</a></li><li><a href="https://www.3blue1brown.com/">3blue1brown</a></li><li><a href="https://www.amazon.com/Cell-Biology-Numbers-Ron-Milo/dp/0815345372">Cell biology by the numbers</a></li><li><a href="https://www.executeprogram.com/">ExecuteProgram</a></li><li><a href="https://en.wikipedia.org/wiki/Star_Trek_(2009_film)">Star Trek 2009</a></li><li><a href="https://www.justinmath.com/books/#the-math-academy-way">The Math Academy Way</a> -- Math Academy's working draft book, authored by Justin, which answers the following questions: What techniques exist to maximize student learning and talent development, particularly in the context of math? Why are these techniques so impactful, and if they are indeed so impactful, then why are they so often absent from traditional classrooms? How does Math Academy leverage these techniques?</li><li><a href="https://mathacademy.com/about-us">Math Academy Origin Story, 2014-20</a> -- from Sandy &amp; Jason's perspective, with a focus on how the original in-school program and early software came to be</li><li><a href="https://www.justinmath.com/bio/#2018-23">Math Academy Origin Story, 2019-23</a> -- from Justin's perspective, with a focus on teaching in that school program and getting the algorithms in place to turn it into a fully automated system</li><li><a href="https://www.mathacademy.us/press">News Articles</a> about Math Academy's original in-school program</li><li><a href="https://x.com/oznova_">Oz on X</a></li><li><a href="https://x.com/whatrocks">Charlie on X</a></li><li><a href="https://ozwrites.com/">Oz's website</a></li><li><a href="https://charlieharrington.com/">Charlie's website</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Sun, 19 Jan 2025 18:19:44 -0800</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/751cb4c4/65d87e26.mp3" length="54305990" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>2907</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>There's something about MathAcademy that just works for learning math (for both kids and adults - ask Reddit!), and we're chatting with Justin Skycak - Chief Quant &amp; Director of Analytics at MathAcademy - to try to figure it out.</p><p><strong>Shownotes:</strong></p><ul><li><a href="http://justinmath.com/">justinmath.com</a> -- Justin's personal website</li><li><a href="http://mathacademy.com/">mathacademy.com</a></li><li><a href="https://www.3blue1brown.com/">3blue1brown</a></li><li><a href="https://www.amazon.com/Cell-Biology-Numbers-Ron-Milo/dp/0815345372">Cell biology by the numbers</a></li><li><a href="https://www.executeprogram.com/">ExecuteProgram</a></li><li><a href="https://en.wikipedia.org/wiki/Star_Trek_(2009_film)">Star Trek 2009</a></li><li><a href="https://www.justinmath.com/books/#the-math-academy-way">The Math Academy Way</a> -- Math Academy's working draft book, authored by Justin, which answers the following questions: What techniques exist to maximize student learning and talent development, particularly in the context of math? Why are these techniques so impactful, and if they are indeed so impactful, then why are they so often absent from traditional classrooms? How does Math Academy leverage these techniques?</li><li><a href="https://mathacademy.com/about-us">Math Academy Origin Story, 2014-20</a> -- from Sandy &amp; Jason's perspective, with a focus on how the original in-school program and early software came to be</li><li><a href="https://www.justinmath.com/bio/#2018-23">Math Academy Origin Story, 2019-23</a> -- from Justin's perspective, with a focus on teaching in that school program and getting the algorithms in place to turn it into a fully automated system</li><li><a href="https://www.mathacademy.us/press">News Articles</a> about Math Academy's original in-school program</li><li><a href="https://x.com/oznova_">Oz on X</a></li><li><a href="https://x.com/whatrocks">Charlie on X</a></li><li><a href="https://ozwrites.com/">Oz's website</a></li><li><a href="https://charlieharrington.com/">Charlie's website</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="http://justinmath.com" img="https://img.transistor.fm/Le48Wb2BB_M5kpHL1aBKw4hFqSWwW29_jpUwoXC1-0Y/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YTQw/MGVjYjhiNjQ4ZDc1/ZDNjNjNmZDZmMjU0/YjQ4ZC5qcGc.jpg">Justin Skycak</podcast:person>
+    </item>
+    <item>
+      <title>E22: Building HR software for dying on Mars?</title>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:title>E22: Building HR software for dying on Mars?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">adb714ee-8953-4a94-8b00-2d9a444e52d9</guid>
+      <link>https://share.transistor.fm/s/de743af0</link>
+      <description>
+        <![CDATA[<p>Ammar Mian is a software engineer and the co-founder of startup health tech company Malla - and another former student of Oz's and Bradfield School of Computer Science! Many software engineers daydream about starting their own company one day, so we've got Ammar on the show this week to give us the goods. Is it still fun? Can you still get into flow? Are you still coding? Does Oz want to die on Mars? All this and more!</p><p>Shownotes:</p><ul><li><a href="https://malla.co/">Malla</a></li><li><a href="https://en.wikipedia.org/wiki/The_Wiggles">The Wiggles</a></li><li><a href="https://charlieharrington.com/the-six-levels-of-interaction-with-a-system/">The Six Levels of Interaction with a System</a></li><li><a href="https://en.wikipedia.org/wiki/Zone_of_proximal_development">Zone of proximal development</a></li><li><a href="https://en.wikipedia.org/wiki/Red-bellied_black_snake">Red-bellied black snake</a></li><li><a href="https://bookshop.org/p/books/reentry-spacex-elon-musk-and-the-reusable-rockets-that-launched-a-second-space-age-eric-berger/21156398">Reentry [book] - more recent history of SpaceX</a></li><li><a href="https://bookshop.org/p/books/red-mars-kim-stanley-robinson/11459300?ean=9780593358825">Red Mars [book] - Kim Stanley Robinson</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Ammar Mian is a software engineer and the co-founder of startup health tech company Malla - and another former student of Oz's and Bradfield School of Computer Science! Many software engineers daydream about starting their own company one day, so we've got Ammar on the show this week to give us the goods. Is it still fun? Can you still get into flow? Are you still coding? Does Oz want to die on Mars? All this and more!</p><p>Shownotes:</p><ul><li><a href="https://malla.co/">Malla</a></li><li><a href="https://en.wikipedia.org/wiki/The_Wiggles">The Wiggles</a></li><li><a href="https://charlieharrington.com/the-six-levels-of-interaction-with-a-system/">The Six Levels of Interaction with a System</a></li><li><a href="https://en.wikipedia.org/wiki/Zone_of_proximal_development">Zone of proximal development</a></li><li><a href="https://en.wikipedia.org/wiki/Red-bellied_black_snake">Red-bellied black snake</a></li><li><a href="https://bookshop.org/p/books/reentry-spacex-elon-musk-and-the-reusable-rockets-that-launched-a-second-space-age-eric-berger/21156398">Reentry [book] - more recent history of SpaceX</a></li><li><a href="https://bookshop.org/p/books/red-mars-kim-stanley-robinson/11459300?ean=9780593358825">Red Mars [book] - Kim Stanley Robinson</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 13 Nov 2024 22:22:34 -0800</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/de743af0/a30051de.mp3" length="66718973" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3695</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Ammar Mian is a software engineer and the co-founder of startup health tech company Malla - and another former student of Oz's and Bradfield School of Computer Science! Many software engineers daydream about starting their own company one day, so we've got Ammar on the show this week to give us the goods. Is it still fun? Can you still get into flow? Are you still coding? Does Oz want to die on Mars? All this and more!</p><p>Shownotes:</p><ul><li><a href="https://malla.co/">Malla</a></li><li><a href="https://en.wikipedia.org/wiki/The_Wiggles">The Wiggles</a></li><li><a href="https://charlieharrington.com/the-six-levels-of-interaction-with-a-system/">The Six Levels of Interaction with a System</a></li><li><a href="https://en.wikipedia.org/wiki/Zone_of_proximal_development">Zone of proximal development</a></li><li><a href="https://en.wikipedia.org/wiki/Red-bellied_black_snake">Red-bellied black snake</a></li><li><a href="https://bookshop.org/p/books/reentry-spacex-elon-musk-and-the-reusable-rockets-that-launched-a-second-space-age-eric-berger/21156398">Reentry [book] - more recent history of SpaceX</a></li><li><a href="https://bookshop.org/p/books/red-mars-kim-stanley-robinson/11459300?ean=9780593358825">Red Mars [book] - Kim Stanley Robinson</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://ammarmian.com/">Ammar Mian</podcast:person>
+    </item>
+    <item>
+      <title>E21: Make the easy things harder (with Madison Kanna)</title>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>E21: Make the easy things harder (with Madison Kanna)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ca5588df-78fd-4afd-a434-c9b49b0e4475</guid>
+      <link>https://share.transistor.fm/s/d27dac29</link>
+      <description>
+        <![CDATA[<p>Madison Kanna is a lifelong learner and self-taught programmer who learns in public, and Madison joins Oz and Charlie to share tactics for getting things done (with their learning goals) - and the importance of having fun along the way when learning computer science.</p><p><strong>Shownotes</strong></p><ul><li><a href="https://madisonkanna.com/">Madison Kanna's site</a></li><li><a href="https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784">The Cost of Forsaking C</a></li><li><a href="https://bookshop.org/p/books/flow-the-psychology-of-optimal-experience-mihaly-csikszentmihalyi/8937185">Flow - Mihaly Csikszentmihalyi</a></li><li><a href="https://ryanholiday.net/so-you-want-to-write-a-book-want-is-not-nearly-enough/#:~:text=%2DDon't%20talk%20about%20the,already%20right%20then%20and%20there.">Ryan Holiday - Don't Talk about Writing a Novel</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Madison Kanna is a lifelong learner and self-taught programmer who learns in public, and Madison joins Oz and Charlie to share tactics for getting things done (with their learning goals) - and the importance of having fun along the way when learning computer science.</p><p><strong>Shownotes</strong></p><ul><li><a href="https://madisonkanna.com/">Madison Kanna's site</a></li><li><a href="https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784">The Cost of Forsaking C</a></li><li><a href="https://bookshop.org/p/books/flow-the-psychology-of-optimal-experience-mihaly-csikszentmihalyi/8937185">Flow - Mihaly Csikszentmihalyi</a></li><li><a href="https://ryanholiday.net/so-you-want-to-write-a-book-want-is-not-nearly-enough/#:~:text=%2DDon't%20talk%20about%20the,already%20right%20then%20and%20there.">Ryan Holiday - Don't Talk about Writing a Novel</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Fri, 08 Nov 2024 06:26:54 -0800</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/d27dac29/bd3ff00d.mp3" length="61290014" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3434</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Madison Kanna is a lifelong learner and self-taught programmer who learns in public, and Madison joins Oz and Charlie to share tactics for getting things done (with their learning goals) - and the importance of having fun along the way when learning computer science.</p><p><strong>Shownotes</strong></p><ul><li><a href="https://madisonkanna.com/">Madison Kanna's site</a></li><li><a href="https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784">The Cost of Forsaking C</a></li><li><a href="https://bookshop.org/p/books/flow-the-psychology-of-optimal-experience-mihaly-csikszentmihalyi/8937185">Flow - Mihaly Csikszentmihalyi</a></li><li><a href="https://ryanholiday.net/so-you-want-to-write-a-book-want-is-not-nearly-enough/#:~:text=%2DDon't%20talk%20about%20the,already%20right%20then%20and%20there.">Ryan Holiday - Don't Talk about Writing a Novel</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://madisonkanna.com" img="https://img.transistor.fm/DjLqtHdfvipJ0Gi-Gufs3MGVAH9KaakFqry5W25XP_U/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jOThk/ZWUyZGZlN2E0NmRl/NjE5OWZmZjhmNzk4/MmMxNS5qcGc.jpg">Madison</podcast:person>
+    </item>
+    <item>
+      <title>E20: Jason Benn's path to ML engineering</title>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:title>E20: Jason Benn's path to ML engineering</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f65bfcd1-b2ec-42f1-a1f7-e09f2fbb5fc2</guid>
+      <link>https://share.transistor.fm/s/9ce03702</link>
+      <description>
+        <![CDATA[<p>Jason Benn is an ML engineer and truly the epitome of a lifelong learner (Cal Newport even wrote about Jason in one of his books on learning!). Oz and Charlie catch up with Jason on his current self-directed ML sabbatical - which he's corralled into a co-working cohort called mleclub.com (similar to Recurse Center but with an ML / AI focus). We discuss the tactical, strategic, and emotional side to effective self-directed learning, and close out with a new segment tentatively called "Would you read the top article on Hacker News right now?".</p><p><strong>Shownotes</strong></p><ul><li><a href="https://minerva.edu">Minerva University</a> </li><li><a href="https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124">[book] So Good They Can't Ignore You - Cal Newport</a></li><li><a href="https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237">[book] Why Greatness Cannot Be Planned - Kenneth O. O. Stanley, Joel Lehman</a></li><li><a href="https://jasonbenn.com">Jason Benn's website</a> </li><li><a href="https://mleclub.com">MLE Clu</a>b</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Jason Benn is an ML engineer and truly the epitome of a lifelong learner (Cal Newport even wrote about Jason in one of his books on learning!). Oz and Charlie catch up with Jason on his current self-directed ML sabbatical - which he's corralled into a co-working cohort called mleclub.com (similar to Recurse Center but with an ML / AI focus). We discuss the tactical, strategic, and emotional side to effective self-directed learning, and close out with a new segment tentatively called "Would you read the top article on Hacker News right now?".</p><p><strong>Shownotes</strong></p><ul><li><a href="https://minerva.edu">Minerva University</a> </li><li><a href="https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124">[book] So Good They Can't Ignore You - Cal Newport</a></li><li><a href="https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237">[book] Why Greatness Cannot Be Planned - Kenneth O. O. Stanley, Joel Lehman</a></li><li><a href="https://jasonbenn.com">Jason Benn's website</a> </li><li><a href="https://mleclub.com">MLE Clu</a>b</li></ul>]]>
+      </content:encoded>
+      <pubDate>Fri, 04 Oct 2024 07:55:22 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/9ce03702/9cdafbb7.mp3" length="55846585" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3273</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Jason Benn is an ML engineer and truly the epitome of a lifelong learner (Cal Newport even wrote about Jason in one of his books on learning!). Oz and Charlie catch up with Jason on his current self-directed ML sabbatical - which he's corralled into a co-working cohort called mleclub.com (similar to Recurse Center but with an ML / AI focus). We discuss the tactical, strategic, and emotional side to effective self-directed learning, and close out with a new segment tentatively called "Would you read the top article on Hacker News right now?".</p><p><strong>Shownotes</strong></p><ul><li><a href="https://minerva.edu">Minerva University</a> </li><li><a href="https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124">[book] So Good They Can't Ignore You - Cal Newport</a></li><li><a href="https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237">[book] Why Greatness Cannot Be Planned - Kenneth O. O. Stanley, Joel Lehman</a></li><li><a href="https://jasonbenn.com">Jason Benn's website</a> </li><li><a href="https://mleclub.com">MLE Clu</a>b</li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://mleclub.com/" img="https://img.transistor.fm/eL4cysnCA4so7NGwLGS6yW31hm-JELfrt9i8RoCDtBQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MWI2/ZjVhOTIxNmE3NDcx/ODAwMzQwYzdjODFj/M2Y2Ni5qcGc.jpg">Jason Benn</podcast:person>
+    </item>
+    <item>
+      <title>E19: When failure is not an option</title>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <itunes:title>E19: When failure is not an option</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">73aa8d70-7535-44ef-be19-7e64cf35eb48</guid>
+      <link>https://share.transistor.fm/s/a09afd12</link>
+      <description>
+        <![CDATA[<p>Does your summer roadtrip across America include Saturn V Rockets, self-driving cars, dinosaur bones, and maybe Kittyhawk? Well, then you might be Oz and family! Charlie and Oz catch up on Oz's grand tour of America's inspiring hubs of ambition and technology, with plenty of detouring into the wonderful book genre of video game memoirs.</p><p>Shownotes</p><ul><li>[book] <a href="https://bookshop.org/p/books/failure-is-not-an-option-mission-control-from-mercury-to-apollo-13-and-beyond-gene-kranz/16626296">Failure Is Not An Option - Gene Kranz</a></li><li>[book] <a href="https://bookshop.org/p/books/skunk-works-a-personal-memoir-of-my-years-of-lockheed-ben-r-rich/114546">Skunkworks - Ben Rich</a></li><li>[book] <a href="https://bookshop.org/p/books/the-wright-brothers-david-mccullough/10347963">The Wright Brothers - David McCullough</a></li><li>[book] <a href="https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155">Masters of Doom - David Kushner</a></li><li>[documentary]<a href="https://en.wikipedia.org/wiki/Indie_Game:_The_Movie"> Indie Game the Movie</a></li><li>[book] <a href="https://bookshop.org/p/books/sid-meier-s-memoir-a-life-in-computer-games-sid-meier/16712356">Sid Meier's Memoir!: A Life in Computer Games</a></li><li>[book] <a href="https://press.stripe.com/the-making-of-prince-of-persia">The Making of Prince of Persia - Jordan Mechner</a></li><li>[book] <a href="https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475">Tomorrow, Tomorrow, Tomorrow - Gabrielle Zevin</a></li><li>[song] <a href="https://www.youtube.com/watch?v=Aioq4w7k8do">"This song wrote itself"</a> - Charlie's song about self-driving cars, performed in a self-driving car<a href="https://www.youtube.com/watch?v=Aioq4w7k8do&amp;t=0s"> </a></li><li><a href="https://blot.hackclub.com/">Hack Club's "Blot" pen plotter</a> </li><li><a href="https://hackclub.com/">Hack Club</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Does your summer roadtrip across America include Saturn V Rockets, self-driving cars, dinosaur bones, and maybe Kittyhawk? Well, then you might be Oz and family! Charlie and Oz catch up on Oz's grand tour of America's inspiring hubs of ambition and technology, with plenty of detouring into the wonderful book genre of video game memoirs.</p><p>Shownotes</p><ul><li>[book] <a href="https://bookshop.org/p/books/failure-is-not-an-option-mission-control-from-mercury-to-apollo-13-and-beyond-gene-kranz/16626296">Failure Is Not An Option - Gene Kranz</a></li><li>[book] <a href="https://bookshop.org/p/books/skunk-works-a-personal-memoir-of-my-years-of-lockheed-ben-r-rich/114546">Skunkworks - Ben Rich</a></li><li>[book] <a href="https://bookshop.org/p/books/the-wright-brothers-david-mccullough/10347963">The Wright Brothers - David McCullough</a></li><li>[book] <a href="https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155">Masters of Doom - David Kushner</a></li><li>[documentary]<a href="https://en.wikipedia.org/wiki/Indie_Game:_The_Movie"> Indie Game the Movie</a></li><li>[book] <a href="https://bookshop.org/p/books/sid-meier-s-memoir-a-life-in-computer-games-sid-meier/16712356">Sid Meier's Memoir!: A Life in Computer Games</a></li><li>[book] <a href="https://press.stripe.com/the-making-of-prince-of-persia">The Making of Prince of Persia - Jordan Mechner</a></li><li>[book] <a href="https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475">Tomorrow, Tomorrow, Tomorrow - Gabrielle Zevin</a></li><li>[song] <a href="https://www.youtube.com/watch?v=Aioq4w7k8do">"This song wrote itself"</a> - Charlie's song about self-driving cars, performed in a self-driving car<a href="https://www.youtube.com/watch?v=Aioq4w7k8do&amp;t=0s"> </a></li><li><a href="https://blot.hackclub.com/">Hack Club's "Blot" pen plotter</a> </li><li><a href="https://hackclub.com/">Hack Club</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 13 Aug 2024 07:25:02 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/a09afd12/0100d5d8.mp3" length="44149327" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>2606</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Does your summer roadtrip across America include Saturn V Rockets, self-driving cars, dinosaur bones, and maybe Kittyhawk? Well, then you might be Oz and family! Charlie and Oz catch up on Oz's grand tour of America's inspiring hubs of ambition and technology, with plenty of detouring into the wonderful book genre of video game memoirs.</p><p>Shownotes</p><ul><li>[book] <a href="https://bookshop.org/p/books/failure-is-not-an-option-mission-control-from-mercury-to-apollo-13-and-beyond-gene-kranz/16626296">Failure Is Not An Option - Gene Kranz</a></li><li>[book] <a href="https://bookshop.org/p/books/skunk-works-a-personal-memoir-of-my-years-of-lockheed-ben-r-rich/114546">Skunkworks - Ben Rich</a></li><li>[book] <a href="https://bookshop.org/p/books/the-wright-brothers-david-mccullough/10347963">The Wright Brothers - David McCullough</a></li><li>[book] <a href="https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155">Masters of Doom - David Kushner</a></li><li>[documentary]<a href="https://en.wikipedia.org/wiki/Indie_Game:_The_Movie"> Indie Game the Movie</a></li><li>[book] <a href="https://bookshop.org/p/books/sid-meier-s-memoir-a-life-in-computer-games-sid-meier/16712356">Sid Meier's Memoir!: A Life in Computer Games</a></li><li>[book] <a href="https://press.stripe.com/the-making-of-prince-of-persia">The Making of Prince of Persia - Jordan Mechner</a></li><li>[book] <a href="https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475">Tomorrow, Tomorrow, Tomorrow - Gabrielle Zevin</a></li><li>[song] <a href="https://www.youtube.com/watch?v=Aioq4w7k8do">"This song wrote itself"</a> - Charlie's song about self-driving cars, performed in a self-driving car<a href="https://www.youtube.com/watch?v=Aioq4w7k8do&amp;t=0s"> </a></li><li><a href="https://blot.hackclub.com/">Hack Club's "Blot" pen plotter</a> </li><li><a href="https://hackclub.com/">Hack Club</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    </item>
+    <item>
+      <title>E18: Do you love programming as much as Thorsten Ball does?</title>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:title>E18: Do you love programming as much as Thorsten Ball does?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a689f4f9-9691-49be-a6c5-3367df1a7e27</guid>
+      <link>https://share.transistor.fm/s/dc3d1c74</link>
+      <description>
+        <![CDATA[<p>Programming is the best! We're chatting with Thorsten Ball (self-published author of Writing an Interpreter in Go and Writing a Compiler in Go) about all of our mutual favorite topics: learning new stuff, great textbooks, writing, and why bugs are actually great (a gift, even!).</p><p><strong>Shownotes</strong></p><ul><li><a href="https://interpreterbook.com/">Writing an Interpreter in Go</a> (Thorsten's book): </li><li><a href="https://compilerbook.com/">Writing a Compiler in Go </a>(Thorsten's book) </li><li><a href="https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools">The Dragon Book</a> (compilers)</li><li><a href="https://registerspill.thorstenball.com">Thorsten's newsletter</a>: </li><li><a href="https://thorstenball.com">Thorsten's website</a> </li><li><a href="https://zed.dev">Zed.dev</a> </li><li><a href="https://sourcegraph.com">Sourcegraph</a> </li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Programming is the best! We're chatting with Thorsten Ball (self-published author of Writing an Interpreter in Go and Writing a Compiler in Go) about all of our mutual favorite topics: learning new stuff, great textbooks, writing, and why bugs are actually great (a gift, even!).</p><p><strong>Shownotes</strong></p><ul><li><a href="https://interpreterbook.com/">Writing an Interpreter in Go</a> (Thorsten's book): </li><li><a href="https://compilerbook.com/">Writing a Compiler in Go </a>(Thorsten's book) </li><li><a href="https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools">The Dragon Book</a> (compilers)</li><li><a href="https://registerspill.thorstenball.com">Thorsten's newsletter</a>: </li><li><a href="https://thorstenball.com">Thorsten's website</a> </li><li><a href="https://zed.dev">Zed.dev</a> </li><li><a href="https://sourcegraph.com">Sourcegraph</a> </li></ul>]]>
+      </content:encoded>
+      <pubDate>Fri, 23 Feb 2024 13:04:31 -0800</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/dc3d1c74/cf83f390.mp3" length="56529919" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3034</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Programming is the best! We're chatting with Thorsten Ball (self-published author of Writing an Interpreter in Go and Writing a Compiler in Go) about all of our mutual favorite topics: learning new stuff, great textbooks, writing, and why bugs are actually great (a gift, even!).</p><p><strong>Shownotes</strong></p><ul><li><a href="https://interpreterbook.com/">Writing an Interpreter in Go</a> (Thorsten's book): </li><li><a href="https://compilerbook.com/">Writing a Compiler in Go </a>(Thorsten's book) </li><li><a href="https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools">The Dragon Book</a> (compilers)</li><li><a href="https://registerspill.thorstenball.com">Thorsten's newsletter</a>: </li><li><a href="https://thorstenball.com">Thorsten's website</a> </li><li><a href="https://zed.dev">Zed.dev</a> </li><li><a href="https://sourcegraph.com">Sourcegraph</a> </li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="http://thorstenball.com" img="https://img.transistor.fm/ELuQIp0IEpSK9vdtorChE8X96iwh7enAAAUy910e07o/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMjI2ZTdiMjYt/MDE5Ny00MTkzLThi/MDUtMWZkNWI0ZmEx/ZjRiLzE3MDg3MjIx/MDAtaW1hZ2UuanBn.jpg">Thorsten Ball</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/dc3d1c74/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>E17: 1000 Hours Away From Being Exceptional</title>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:title>E17: 1000 Hours Away From Being Exceptional</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">20f4a7fd-2acf-45ba-ab8f-9c24f0840f82</guid>
+      <link>https://share.transistor.fm/s/fda5530d</link>
+      <description>
+        <![CDATA[<p>Zach Latta is the founder of Hack Club (hackclub.com). Zach's a high school dropout who's now helped 30k high school students around the world start their own coding clubs. He also helped build the much-beloved "yo" texting app in 2014. This is a fun conversation about coding in school, being a kid, the importance of friendship in learning, and realizing that you can make awesome stuff with awesome people in this world.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://hackclub.com">Hack Club</a> </li><li><a href="https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r">László Polgár</a><a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg"> </a></li><li><a href="https://en.wikipedia.org/wiki/Yo_(app)">Yo App</a>: </li><li><a href="https://en.wikipedia.org/wiki/Neopets">Neopets</a> </li><li><a href="https://cpu.land/">Putting the You in CPU</a> </li><li><a href="https://www.bookitprogram.com/about">Pizza Hut BOOK-IT Program</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Zach Latta is the founder of Hack Club (hackclub.com). Zach's a high school dropout who's now helped 30k high school students around the world start their own coding clubs. He also helped build the much-beloved "yo" texting app in 2014. This is a fun conversation about coding in school, being a kid, the importance of friendship in learning, and realizing that you can make awesome stuff with awesome people in this world.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://hackclub.com">Hack Club</a> </li><li><a href="https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r">László Polgár</a><a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg"> </a></li><li><a href="https://en.wikipedia.org/wiki/Yo_(app)">Yo App</a>: </li><li><a href="https://en.wikipedia.org/wiki/Neopets">Neopets</a> </li><li><a href="https://cpu.land/">Putting the You in CPU</a> </li><li><a href="https://www.bookitprogram.com/about">Pizza Hut BOOK-IT Program</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 17 Jan 2024 17:54:22 -0800</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/fda5530d/f2df6240.mp3" length="63826743" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3540</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Zach Latta is the founder of Hack Club (hackclub.com). Zach's a high school dropout who's now helped 30k high school students around the world start their own coding clubs. He also helped build the much-beloved "yo" texting app in 2014. This is a fun conversation about coding in school, being a kid, the importance of friendship in learning, and realizing that you can make awesome stuff with awesome people in this world.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://hackclub.com">Hack Club</a> </li><li><a href="https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r">László Polgár</a><a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg"> </a></li><li><a href="https://en.wikipedia.org/wiki/Yo_(app)">Yo App</a>: </li><li><a href="https://en.wikipedia.org/wiki/Neopets">Neopets</a> </li><li><a href="https://cpu.land/">Putting the You in CPU</a> </li><li><a href="https://www.bookitprogram.com/about">Pizza Hut BOOK-IT Program</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://zachlatta.com">Zach Latta</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/fda5530d/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/fda5530d/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/fda5530d/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/fda5530d/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/fda5530d/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>E16: What if textbooks were actually fun?</title>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:title>E16: What if textbooks were actually fun?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">bdbdcae8-a284-4a73-bc1c-f7d0efc3f5d5</guid>
+      <link>https://share.transistor.fm/s/98c7d678</link>
+      <description>
+        <![CDATA[<p>Oz and Charlie brainstorm their "Stripe Press for kids" publishing idea! </p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Klutz_Press">Klutz Press</a></li><li><a href="https://charlieharrington.com/create-wonderful-things-be-good-have-fun/">Charlie's blog post about Klutz Press</a></li><li><a href="https://news.ycombinator.com/item?id=23676862">Hacker News discussion about Charlie's Klutz Press blog</a></li><li><a href="https://mitpress.mit.edu/9780262560993/the-little-schemer/">Little Schemer</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkJVMTJ0cVdPcGhKYlBQQWhTRW5ucXR1amQzUXxBQ3Jtc0ttZU1WcnU4Y2VKcVdhQkJ4WWhtVkNKdEpSZTdPR1RfbVVMQXdTQ0RnS3U3WVJLa2V3eFY3RTc4LUt1S19aSlNNTVVQdk5idzdFcVRNSE1sbnZVd09CVURBVUNpTjk3S1UtYVVTRXZsRUoyRktyUklJcw&amp;q=https%3A%2F%2Fmitpress.mit.edu%2F9780262560993%2Fthe-little-schemer%2F&amp;v=5oaSZigWaz8">https://mitpress.mit.edu/978026256099...</a></li><li><a href="https://www.amazon.com/Abstract-Algebra-Student-Friendly-Laura-Reis/dp/1539436071">Abstract Algebra: A Student Friendly Approach</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbmVXM1ByWUU1WG9pNl9wSjdrWGpnRlVPWjFpUXxBQ3Jtc0ttWVRXSS0xVnROTDNOaWpyZ3B5dG9MandoR0FncnhUbVREakc5eEc4MzZpdmxBdU9nRG5rMFdKa0N5RnhqUVBla0JacURpNU1UNG5raWplenZWU0RSN0lMcllLNE40R2V2OFBObGQzcWxzWndmb1BaVQ&amp;q=https%3A%2F%2Fwww.amazon.com%2FAbstract-Algebra-Student-Friendly-Laura-Reis%2Fdp%2F1539436071&amp;v=5oaSZigWaz8">https://www.amazon.com/Abstract-Algeb...</a></li><li><a href="https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X">Computer Systems: A Programmer's Perspective</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JrRi1NbG16NnpJcWF0M0hTbDBNeDY2OFhnQXxBQ3Jtc0ttRkprV2pjVXZnWE5Cd29OWHJGUE9wd3gwVEtqNThDWWRDMm1VQ3AtNUh4TF94M2E2OG5nVlRoNHU2dktYTkFIdF9BUkZTenFBaE51YWRrQmdjaG5BcElFOHdWUE43cEkxSWV0SVd2aG1BLWZGZDl3UQ&amp;q=https%3A%2F%2Fwww.amazon.com%2FComputer-Systems-Programmers-Perspective-3rd%2Fdp%2F013409266X&amp;v=5oaSZigWaz8">https://www.amazon.com/Computer-Syste...</a></li><li><a href="https://en.wikipedia.org/wiki/Celeron">Intel Celeron</a></li><li><a href="https://en.wikipedia.org/wiki/The_Diamond_Age">The Diamond Age</a></li><li><a href="https://quantum.country/">Quantum County</a></li><li><a href="https://executeprogram.com/">Execute Program</a> </li><li><a href="https://en.wikipedia.org/wiki/Mitsumasa_Anno">Mitsumasa Anno</a></li><li><a href="https://ozwrites.com/rfc/">Oz's Requests for Collaboration</a> </li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Oz and Charlie brainstorm their "Stripe Press for kids" publishing idea! </p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Klutz_Press">Klutz Press</a></li><li><a href="https://charlieharrington.com/create-wonderful-things-be-good-have-fun/">Charlie's blog post about Klutz Press</a></li><li><a href="https://news.ycombinator.com/item?id=23676862">Hacker News discussion about Charlie's Klutz Press blog</a></li><li><a href="https://mitpress.mit.edu/9780262560993/the-little-schemer/">Little Schemer</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkJVMTJ0cVdPcGhKYlBQQWhTRW5ucXR1amQzUXxBQ3Jtc0ttZU1WcnU4Y2VKcVdhQkJ4WWhtVkNKdEpSZTdPR1RfbVVMQXdTQ0RnS3U3WVJLa2V3eFY3RTc4LUt1S19aSlNNTVVQdk5idzdFcVRNSE1sbnZVd09CVURBVUNpTjk3S1UtYVVTRXZsRUoyRktyUklJcw&amp;q=https%3A%2F%2Fmitpress.mit.edu%2F9780262560993%2Fthe-little-schemer%2F&amp;v=5oaSZigWaz8">https://mitpress.mit.edu/978026256099...</a></li><li><a href="https://www.amazon.com/Abstract-Algebra-Student-Friendly-Laura-Reis/dp/1539436071">Abstract Algebra: A Student Friendly Approach</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbmVXM1ByWUU1WG9pNl9wSjdrWGpnRlVPWjFpUXxBQ3Jtc0ttWVRXSS0xVnROTDNOaWpyZ3B5dG9MandoR0FncnhUbVREakc5eEc4MzZpdmxBdU9nRG5rMFdKa0N5RnhqUVBla0JacURpNU1UNG5raWplenZWU0RSN0lMcllLNE40R2V2OFBObGQzcWxzWndmb1BaVQ&amp;q=https%3A%2F%2Fwww.amazon.com%2FAbstract-Algebra-Student-Friendly-Laura-Reis%2Fdp%2F1539436071&amp;v=5oaSZigWaz8">https://www.amazon.com/Abstract-Algeb...</a></li><li><a href="https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X">Computer Systems: A Programmer's Perspective</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JrRi1NbG16NnpJcWF0M0hTbDBNeDY2OFhnQXxBQ3Jtc0ttRkprV2pjVXZnWE5Cd29OWHJGUE9wd3gwVEtqNThDWWRDMm1VQ3AtNUh4TF94M2E2OG5nVlRoNHU2dktYTkFIdF9BUkZTenFBaE51YWRrQmdjaG5BcElFOHdWUE43cEkxSWV0SVd2aG1BLWZGZDl3UQ&amp;q=https%3A%2F%2Fwww.amazon.com%2FComputer-Systems-Programmers-Perspective-3rd%2Fdp%2F013409266X&amp;v=5oaSZigWaz8">https://www.amazon.com/Computer-Syste...</a></li><li><a href="https://en.wikipedia.org/wiki/Celeron">Intel Celeron</a></li><li><a href="https://en.wikipedia.org/wiki/The_Diamond_Age">The Diamond Age</a></li><li><a href="https://quantum.country/">Quantum County</a></li><li><a href="https://executeprogram.com/">Execute Program</a> </li><li><a href="https://en.wikipedia.org/wiki/Mitsumasa_Anno">Mitsumasa Anno</a></li><li><a href="https://ozwrites.com/rfc/">Oz's Requests for Collaboration</a> </li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 10 Jan 2024 20:22:02 -0800</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/98c7d678/6dcc3035.mp3" length="56319349" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3103</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Oz and Charlie brainstorm their "Stripe Press for kids" publishing idea! </p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Klutz_Press">Klutz Press</a></li><li><a href="https://charlieharrington.com/create-wonderful-things-be-good-have-fun/">Charlie's blog post about Klutz Press</a></li><li><a href="https://news.ycombinator.com/item?id=23676862">Hacker News discussion about Charlie's Klutz Press blog</a></li><li><a href="https://mitpress.mit.edu/9780262560993/the-little-schemer/">Little Schemer</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkJVMTJ0cVdPcGhKYlBQQWhTRW5ucXR1amQzUXxBQ3Jtc0ttZU1WcnU4Y2VKcVdhQkJ4WWhtVkNKdEpSZTdPR1RfbVVMQXdTQ0RnS3U3WVJLa2V3eFY3RTc4LUt1S19aSlNNTVVQdk5idzdFcVRNSE1sbnZVd09CVURBVUNpTjk3S1UtYVVTRXZsRUoyRktyUklJcw&amp;q=https%3A%2F%2Fmitpress.mit.edu%2F9780262560993%2Fthe-little-schemer%2F&amp;v=5oaSZigWaz8">https://mitpress.mit.edu/978026256099...</a></li><li><a href="https://www.amazon.com/Abstract-Algebra-Student-Friendly-Laura-Reis/dp/1539436071">Abstract Algebra: A Student Friendly Approach</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbmVXM1ByWUU1WG9pNl9wSjdrWGpnRlVPWjFpUXxBQ3Jtc0ttWVRXSS0xVnROTDNOaWpyZ3B5dG9MandoR0FncnhUbVREakc5eEc4MzZpdmxBdU9nRG5rMFdKa0N5RnhqUVBla0JacURpNU1UNG5raWplenZWU0RSN0lMcllLNE40R2V2OFBObGQzcWxzWndmb1BaVQ&amp;q=https%3A%2F%2Fwww.amazon.com%2FAbstract-Algebra-Student-Friendly-Laura-Reis%2Fdp%2F1539436071&amp;v=5oaSZigWaz8">https://www.amazon.com/Abstract-Algeb...</a></li><li><a href="https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X">Computer Systems: A Programmer's Perspective</a>: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JrRi1NbG16NnpJcWF0M0hTbDBNeDY2OFhnQXxBQ3Jtc0ttRkprV2pjVXZnWE5Cd29OWHJGUE9wd3gwVEtqNThDWWRDMm1VQ3AtNUh4TF94M2E2OG5nVlRoNHU2dktYTkFIdF9BUkZTenFBaE51YWRrQmdjaG5BcElFOHdWUE43cEkxSWV0SVd2aG1BLWZGZDl3UQ&amp;q=https%3A%2F%2Fwww.amazon.com%2FComputer-Systems-Programmers-Perspective-3rd%2Fdp%2F013409266X&amp;v=5oaSZigWaz8">https://www.amazon.com/Computer-Syste...</a></li><li><a href="https://en.wikipedia.org/wiki/Celeron">Intel Celeron</a></li><li><a href="https://en.wikipedia.org/wiki/The_Diamond_Age">The Diamond Age</a></li><li><a href="https://quantum.country/">Quantum County</a></li><li><a href="https://executeprogram.com/">Execute Program</a> </li><li><a href="https://en.wikipedia.org/wiki/Mitsumasa_Anno">Mitsumasa Anno</a></li><li><a href="https://ozwrites.com/rfc/">Oz's Requests for Collaboration</a> </li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/98c7d678/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>E15: Finding your live wire for motivation</title>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:title>E15: Finding your live wire for motivation</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a183ef0c-77e9-4fcc-a7aa-e06c65dbbf58</guid>
+      <link>https://share.transistor.fm/s/fb063c6b</link>
+      <description>
+        <![CDATA[<p>Brandon Hendrickson (creator of scienceisweird.com) says no one's ever asked him about the sabertooth tiger skull in his Zoom background - until now! Brandon's a teacher steeped in the ideas of Kieran Egan - a prolific educational theorist who believes the world is FASCINATING and that IMAGINATION is key to how we humans learn. We explore how Egan's approach could work for autodidact software engineers, offer untold book suggestions, and, of course, propose some ways that ChatGPT might be able to help us along the way.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://www.scienceisweird.com">Science is WEIRD</a></li><li><a href="https://www.astralcodexten.com/p/your-book-review-the-educated-mind">Brandon's 2023 Astral Codex Ten book review contest winning review </a>of Kieran Egan's THE EDUCATED MIND</li><li><a href="https://en.wikipedia.org/wiki/Kieran_Egan_(philosopher)">Kieran Egan (wikipedia)</a></li><li><a href="https://www.cambridge.org/core/books/new-history-of-greek-mathematics/8FF4CD50DEBDD5E0ABF75334027E79AB">A New History of Greek Mathematics - Reviel Netz</a></li><li><a href="https://www.youtube.com/watch?v=BVtQNK_ZUJg">Die Hard water jug challenge </a></li><li><a href="%20https://xkcd.com/386/">XKCD someone is wrong on the internet</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Brandon Hendrickson (creator of scienceisweird.com) says no one's ever asked him about the sabertooth tiger skull in his Zoom background - until now! Brandon's a teacher steeped in the ideas of Kieran Egan - a prolific educational theorist who believes the world is FASCINATING and that IMAGINATION is key to how we humans learn. We explore how Egan's approach could work for autodidact software engineers, offer untold book suggestions, and, of course, propose some ways that ChatGPT might be able to help us along the way.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://www.scienceisweird.com">Science is WEIRD</a></li><li><a href="https://www.astralcodexten.com/p/your-book-review-the-educated-mind">Brandon's 2023 Astral Codex Ten book review contest winning review </a>of Kieran Egan's THE EDUCATED MIND</li><li><a href="https://en.wikipedia.org/wiki/Kieran_Egan_(philosopher)">Kieran Egan (wikipedia)</a></li><li><a href="https://www.cambridge.org/core/books/new-history-of-greek-mathematics/8FF4CD50DEBDD5E0ABF75334027E79AB">A New History of Greek Mathematics - Reviel Netz</a></li><li><a href="https://www.youtube.com/watch?v=BVtQNK_ZUJg">Die Hard water jug challenge </a></li><li><a href="%20https://xkcd.com/386/">XKCD someone is wrong on the internet</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 07 Dec 2023 20:25:11 -0800</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/fb063c6b/f4f979b1.mp3" length="41368524" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>5500</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Brandon Hendrickson (creator of scienceisweird.com) says no one's ever asked him about the sabertooth tiger skull in his Zoom background - until now! Brandon's a teacher steeped in the ideas of Kieran Egan - a prolific educational theorist who believes the world is FASCINATING and that IMAGINATION is key to how we humans learn. We explore how Egan's approach could work for autodidact software engineers, offer untold book suggestions, and, of course, propose some ways that ChatGPT might be able to help us along the way.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://www.scienceisweird.com">Science is WEIRD</a></li><li><a href="https://www.astralcodexten.com/p/your-book-review-the-educated-mind">Brandon's 2023 Astral Codex Ten book review contest winning review </a>of Kieran Egan's THE EDUCATED MIND</li><li><a href="https://en.wikipedia.org/wiki/Kieran_Egan_(philosopher)">Kieran Egan (wikipedia)</a></li><li><a href="https://www.cambridge.org/core/books/new-history-of-greek-mathematics/8FF4CD50DEBDD5E0ABF75334027E79AB">A New History of Greek Mathematics - Reviel Netz</a></li><li><a href="https://www.youtube.com/watch?v=BVtQNK_ZUJg">Die Hard water jug challenge </a></li><li><a href="%20https://xkcd.com/386/">XKCD someone is wrong on the internet</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://losttools.substack.com" img="https://img.transistor.fm/gF61_XzAPa68Hf1mgjITb4uGsmjBAJ3Ln4Q8rawej1M/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vNmMyNjQwNTIt/ZDE2OS00NzU3LWI5/YzgtYjA5YjFhNGQ0/NDYzLzE3MDIwMDky/NzctaW1hZ2UuanBn.jpg">Brandon Hendrickson</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/fb063c6b/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>E14: Brit Cruise and the computer magic show</title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>E14: Brit Cruise and the computer magic show</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">21f90f28-91ad-4b7e-9030-3107c888055a</guid>
+      <link>https://share.transistor.fm/s/90ab4e91</link>
+      <description>
+        <![CDATA[<p>Brit Cruise creates educational videos, learning experiments, and other amazing things that "connect young people with their futures as young as possible." He's worked with Khan Academy, Codecademy,  Pixar, Disney, Unity, and more to conjure up magical educational experiences for kids.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://britcruise.com/about/">Brit Cruise's website</a></li><li><a href="https://www.storyxperiential.com/">Storyxperiential</a></li><li><a href="https://www.xiab.org/">X in a Box</a></li><li><a href="https://www.youtube.com/artoftheproblem">Art of the Problem</a></li><li><a href="https://www.khanacademy.org/computing/pixar">Pixar in a Box</a></li><li><a href="https://www.khanacademy.org">Khan Academy</a> </li><li><a href="https://en.wikipedia.org/wiki/Connections_(British_TV_series)">James Burke "Connections"</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Brit Cruise creates educational videos, learning experiments, and other amazing things that "connect young people with their futures as young as possible." He's worked with Khan Academy, Codecademy,  Pixar, Disney, Unity, and more to conjure up magical educational experiences for kids.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://britcruise.com/about/">Brit Cruise's website</a></li><li><a href="https://www.storyxperiential.com/">Storyxperiential</a></li><li><a href="https://www.xiab.org/">X in a Box</a></li><li><a href="https://www.youtube.com/artoftheproblem">Art of the Problem</a></li><li><a href="https://www.khanacademy.org/computing/pixar">Pixar in a Box</a></li><li><a href="https://www.khanacademy.org">Khan Academy</a> </li><li><a href="https://en.wikipedia.org/wiki/Connections_(British_TV_series)">James Burke "Connections"</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 09 Nov 2023 16:18:07 -0800</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/90ab4e91/107f2f5c.mp3" length="38211052" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>4427</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Brit Cruise creates educational videos, learning experiments, and other amazing things that "connect young people with their futures as young as possible." He's worked with Khan Academy, Codecademy,  Pixar, Disney, Unity, and more to conjure up magical educational experiences for kids.</p><p><strong>Shownotes:</strong></p><ul><li><a href="https://britcruise.com/about/">Brit Cruise's website</a></li><li><a href="https://www.storyxperiential.com/">Storyxperiential</a></li><li><a href="https://www.xiab.org/">X in a Box</a></li><li><a href="https://www.youtube.com/artoftheproblem">Art of the Problem</a></li><li><a href="https://www.khanacademy.org/computing/pixar">Pixar in a Box</a></li><li><a href="https://www.khanacademy.org">Khan Academy</a> </li><li><a href="https://en.wikipedia.org/wiki/Connections_(British_TV_series)">James Burke "Connections"</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="http://www.britcruise.com" img="https://img.transistor.fm/h4Frt1qVuR010XtIEkF_OrbRsE_yQhlylDzhE7AYg3M/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTc4YmZmOGIt/Y2U0ZC00MjAxLThm/MjgtOTgyZjJjYWFh/ZGMyLzE2OTk1NzUy/MDctaW1hZ2UuanBn.jpg">Brit Cruise</podcast:person>
+    </item>
+    <item>
+      <title>E13: Why some people learn much faster than others</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>E13: Why some people learn much faster than others</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7765f77c-98d1-4942-aba2-4950151e3c60</guid>
+      <link>https://share.transistor.fm/s/ffb0ce58</link>
+      <description>
+        <![CDATA[<p>Charlie wants to talk about the latest Paul Graham essay "How to Do Great Work" and Oz wants to talk about jiu-jitsu (again).</p><p><strong>Show notes:</strong></p><ul><li><a href="http://www.paulgraham.com/greatwork.html">How to Do Great Work - Paul Graham</a> </li><li><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research - Richard Hamming</a></li><li>"<a href="https://www.sonnybrown.net/rapid-learning-instructionals-jozef-chen/">Jozef Chen On Rapid Learning From Jiu-Jitsu Instructionals &amp; Technique Tinkering"</a></li><li><a href="https://grapplinginsider.com/jozef-chen-adcc-trials/">Jozef Chen recent competition victory</a></li><li><a href="https://www.jrepodcast.com/guest/mikey-musumeci/">Mikey Musumeci on Joe Rogan</a></li><li><a href="https://sive.rs/kimo">"There's no speed limit" - Derek Sivers</a></li><li><a href="https://www.amazon.com/Teach-Your-Child-Read-Lessons/dp/0671631985">Teach Your Child to Read in 100 Easy Lessons</a></li><li><a href="https://ozwrites.com/3yo-reading/">Oz's article about how his 3 year old learned to read</a></li><li><a href="https://www.aarthiandsriram.com/p/laura-deming-on-living-forever-contrarian-thinking-homeschooling-beauty-of-mathematics-and-funding-longevity-research-_9aimne8">Laura Deming on The Good Time Show</a><p><a href="https://www.youtube.com/hashtag/computerscience">#computerscience</a> <a href="https://www.youtube.com/hashtag/learning">#learning</a> <a href="https://www.youtube.com/hashtag/education">#education</a> <a href="https://www.youtube.com/hashtag/jiujitsu">#jiujitsu</a> <a href="https://www.youtube.com/hashtag/startup">#startup</a> <a href="https://www.youtube.com/hashtag/technology">#technology</a></p></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Charlie wants to talk about the latest Paul Graham essay "How to Do Great Work" and Oz wants to talk about jiu-jitsu (again).</p><p><strong>Show notes:</strong></p><ul><li><a href="http://www.paulgraham.com/greatwork.html">How to Do Great Work - Paul Graham</a> </li><li><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research - Richard Hamming</a></li><li>"<a href="https://www.sonnybrown.net/rapid-learning-instructionals-jozef-chen/">Jozef Chen On Rapid Learning From Jiu-Jitsu Instructionals &amp; Technique Tinkering"</a></li><li><a href="https://grapplinginsider.com/jozef-chen-adcc-trials/">Jozef Chen recent competition victory</a></li><li><a href="https://www.jrepodcast.com/guest/mikey-musumeci/">Mikey Musumeci on Joe Rogan</a></li><li><a href="https://sive.rs/kimo">"There's no speed limit" - Derek Sivers</a></li><li><a href="https://www.amazon.com/Teach-Your-Child-Read-Lessons/dp/0671631985">Teach Your Child to Read in 100 Easy Lessons</a></li><li><a href="https://ozwrites.com/3yo-reading/">Oz's article about how his 3 year old learned to read</a></li><li><a href="https://www.aarthiandsriram.com/p/laura-deming-on-living-forever-contrarian-thinking-homeschooling-beauty-of-mathematics-and-funding-longevity-research-_9aimne8">Laura Deming on The Good Time Show</a><p><a href="https://www.youtube.com/hashtag/computerscience">#computerscience</a> <a href="https://www.youtube.com/hashtag/learning">#learning</a> <a href="https://www.youtube.com/hashtag/education">#education</a> <a href="https://www.youtube.com/hashtag/jiujitsu">#jiujitsu</a> <a href="https://www.youtube.com/hashtag/startup">#startup</a> <a href="https://www.youtube.com/hashtag/technology">#technology</a></p></li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 20 Sep 2023 20:43:38 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/ffb0ce58/94cd2c8a.mp3" length="33129610" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3905</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Charlie wants to talk about the latest Paul Graham essay "How to Do Great Work" and Oz wants to talk about jiu-jitsu (again).</p><p><strong>Show notes:</strong></p><ul><li><a href="http://www.paulgraham.com/greatwork.html">How to Do Great Work - Paul Graham</a> </li><li><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research - Richard Hamming</a></li><li>"<a href="https://www.sonnybrown.net/rapid-learning-instructionals-jozef-chen/">Jozef Chen On Rapid Learning From Jiu-Jitsu Instructionals &amp; Technique Tinkering"</a></li><li><a href="https://grapplinginsider.com/jozef-chen-adcc-trials/">Jozef Chen recent competition victory</a></li><li><a href="https://www.jrepodcast.com/guest/mikey-musumeci/">Mikey Musumeci on Joe Rogan</a></li><li><a href="https://sive.rs/kimo">"There's no speed limit" - Derek Sivers</a></li><li><a href="https://www.amazon.com/Teach-Your-Child-Read-Lessons/dp/0671631985">Teach Your Child to Read in 100 Easy Lessons</a></li><li><a href="https://ozwrites.com/3yo-reading/">Oz's article about how his 3 year old learned to read</a></li><li><a href="https://www.aarthiandsriram.com/p/laura-deming-on-living-forever-contrarian-thinking-homeschooling-beauty-of-mathematics-and-funding-longevity-research-_9aimne8">Laura Deming on The Good Time Show</a><p><a href="https://www.youtube.com/hashtag/computerscience">#computerscience</a> <a href="https://www.youtube.com/hashtag/learning">#learning</a> <a href="https://www.youtube.com/hashtag/education">#education</a> <a href="https://www.youtube.com/hashtag/jiujitsu">#jiujitsu</a> <a href="https://www.youtube.com/hashtag/startup">#startup</a> <a href="https://www.youtube.com/hashtag/technology">#technology</a></p></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    </item>
+    <item>
+      <title>E12: Two self-taught engineers building large scale data systems</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>E12: Two self-taught engineers building large scale data systems</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">cea7745c-8d26-4bfd-977d-d246e1412996</guid>
+      <link>https://share.transistor.fm/s/05a9355b</link>
+      <description>
+        <![CDATA[<p>We're joined by the co-founders of Warpstream Labs, Richie Artoul and Ryan Worl, to talk about how exploring your curiosity as a software engineer can lead to all sorts of interesting avenues and opportunities, like going from a coding bootcamp grad to building Warpstream - a Kafka-compatible data streaming platform.</p><p>You may remember Richie from our previous podcast Escaping Web! Richie is one of Oz's students at Bradfield, and he's always up to something interesting and computer science-y.</p><p>Shownotes:</p><ul><li><a href="https://www.warpstream.com/">Warpstream Labs</a> </li><li><a href="https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka">Kafka is Dead, Long Live Kafka</a> (Warpstream blog)</li><li><a href="https://escapingweb.github.io/episodes/3/">Richie's "Escaping Web" episode</a></li><li><a href="https://www.datadoghq.com/blog/engineering/introducing-husky/">Introducing Husky</a> (Datadog blog)</li><li><a href="https://upperstory.com/turingtumble/">Turing Tumble</a> (game where you build logic gates with marbles)</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>We're joined by the co-founders of Warpstream Labs, Richie Artoul and Ryan Worl, to talk about how exploring your curiosity as a software engineer can lead to all sorts of interesting avenues and opportunities, like going from a coding bootcamp grad to building Warpstream - a Kafka-compatible data streaming platform.</p><p>You may remember Richie from our previous podcast Escaping Web! Richie is one of Oz's students at Bradfield, and he's always up to something interesting and computer science-y.</p><p>Shownotes:</p><ul><li><a href="https://www.warpstream.com/">Warpstream Labs</a> </li><li><a href="https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka">Kafka is Dead, Long Live Kafka</a> (Warpstream blog)</li><li><a href="https://escapingweb.github.io/episodes/3/">Richie's "Escaping Web" episode</a></li><li><a href="https://www.datadoghq.com/blog/engineering/introducing-husky/">Introducing Husky</a> (Datadog blog)</li><li><a href="https://upperstory.com/turingtumble/">Turing Tumble</a> (game where you build logic gates with marbles)</li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 06 Sep 2023 19:40:42 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/05a9355b/a9b30d2d.mp3" length="25633272" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3300</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>We're joined by the co-founders of Warpstream Labs, Richie Artoul and Ryan Worl, to talk about how exploring your curiosity as a software engineer can lead to all sorts of interesting avenues and opportunities, like going from a coding bootcamp grad to building Warpstream - a Kafka-compatible data streaming platform.</p><p>You may remember Richie from our previous podcast Escaping Web! Richie is one of Oz's students at Bradfield, and he's always up to something interesting and computer science-y.</p><p>Shownotes:</p><ul><li><a href="https://www.warpstream.com/">Warpstream Labs</a> </li><li><a href="https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka">Kafka is Dead, Long Live Kafka</a> (Warpstream blog)</li><li><a href="https://escapingweb.github.io/episodes/3/">Richie's "Escaping Web" episode</a></li><li><a href="https://www.datadoghq.com/blog/engineering/introducing-husky/">Introducing Husky</a> (Datadog blog)</li><li><a href="https://upperstory.com/turingtumble/">Turing Tumble</a> (game where you build logic gates with marbles)</li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://www.warpstream.com" img="https://img.transistor.fm/B6OmbNZxvFlvHP4S19yX6aIGn6S7DjM1C6RrZ0Q03oc/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMGJjMjQ4ZDAt/NzdkNi00N2RmLTky/MDgtMDgzMmVmNjBm/ZTczLzE2OTQwNTQx/NDItaW1hZ2UuanBn.jpg">Richard Artoul</podcast:person>
+      <podcast:person role="Guest" href="https://warpstream.com" img="https://img.transistor.fm/_TXH2JvSD_sLnAxE5ZjeHjeZraCUFHKZdACGEoowzZs/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vNGI2ZjBiZDEt/NTVlYS00YzMxLWJl/ZTItMWI2MzY2YTZm/NGM1LzE2OTQwNTQx/NzctaW1hZ2UuanBn.jpg">Ryan Worl</podcast:person>
+    </item>
+    <item>
+      <title>E11: Helping kids fall in love with computers</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>E11: Helping kids fall in love with computers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3e7e029d-e854-4546-89c5-03be7e8a094e</guid>
+      <link>https://share.transistor.fm/s/e78c9c73</link>
+      <description>
+        <![CDATA[<p>Linda Liukas (author and illustrator of HELLO RUBY - "the world's most whimsical way to learn about computers, technology and programming") joins Oz and Charlie to discuss how and why we love our computers, lessons learned from teaching kids about computer science using paper and scissors and glue, and Linda's latest project - designing an outside playground in Helsinki as a computer you can play in.</p><p>Shownotes:</p><ul><li><a href="http://lindaliukas.com/">Linda's website</a></li><li><a href="https://www.helloruby.com/">Hello Ruby (Linda's book series)</a> </li><li><a href="http://www.helloruby.com/loveletters">Love Letters for Computers (Linda's video series)</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Linda Liukas (author and illustrator of HELLO RUBY - "the world's most whimsical way to learn about computers, technology and programming") joins Oz and Charlie to discuss how and why we love our computers, lessons learned from teaching kids about computer science using paper and scissors and glue, and Linda's latest project - designing an outside playground in Helsinki as a computer you can play in.</p><p>Shownotes:</p><ul><li><a href="http://lindaliukas.com/">Linda's website</a></li><li><a href="https://www.helloruby.com/">Hello Ruby (Linda's book series)</a> </li><li><a href="http://www.helloruby.com/loveletters">Love Letters for Computers (Linda's video series)</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 17 Aug 2023 06:46:40 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/e78c9c73/ee2f546d.mp3" length="30753941" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3783</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Linda Liukas (author and illustrator of HELLO RUBY - "the world's most whimsical way to learn about computers, technology and programming") joins Oz and Charlie to discuss how and why we love our computers, lessons learned from teaching kids about computer science using paper and scissors and glue, and Linda's latest project - designing an outside playground in Helsinki as a computer you can play in.</p><p>Shownotes:</p><ul><li><a href="http://lindaliukas.com/">Linda's website</a></li><li><a href="https://www.helloruby.com/">Hello Ruby (Linda's book series)</a> </li><li><a href="http://www.helloruby.com/loveletters">Love Letters for Computers (Linda's video series)</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="http://lindaliukas.com" img="https://img.transistor.fm/DKw8d9grrrn3IVkY7_wT1XIyl-KsDJvvLsjvUrVPros/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vNTA1OGFkN2It/ZGQxZS00YTNmLWI2/NzctM2U4ZjMxNGVl/MDNhLzE2OTIyNTQ2/NjgtaW1hZ2UuanBn.jpg">Linda Liukas</podcast:person>
+    </item>
+    <item>
+      <title>E10: The magic of Bell Labs</title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>E10: The magic of Bell Labs</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1a66d888-272b-4ecc-ad8f-b61f52e74653</guid>
+      <link>https://share.transistor.fm/s/da4a5fd7</link>
+      <description>
+        <![CDATA[<p>We're joined by Jon Gertner (author of THE IDEA FACTORY: BELL LABS AND THE GREAT AGE OF AMERICAN INNOVATION) and Jimmy Soni (author of A MIND AT PLAY: HOW CLAUDE SHANNON INVENTED THE INFORMATION AGE) to discuss our favorite "house of magic" - Bell Labs! </p><p>Can Bell Labs ever be recreated? What would Claude Shannon think of ChatGPT? What can we learn about "doing great things" from Bell Labs?</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Bell_Labs">Bell Labs</a> - Wikipedia page</li><li><a href="https://en.wikipedia.org/wiki/Claude_Shannon">Claude Shannon</a> - Wikipedia page</li><li><a href="https://en.wikipedia.org/wiki/The_Beatles:_Get_Back">Get Back</a> (Beatles documentary)</li><li><a href="https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797">The Idea Factory</a> - Jon's book about Bell Labs</li><li><a href="https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/147676669X">A Mind At Play</a> - Jimmy's book about Claude Shannon</li><li><a href="https://www.amazon.com/Ice-at-End-of-World-audiobook/dp/B07RML8259">The Ice At The End of The World</a> - Jon's latest book about the melting ice sheet in Greenland</li><li><a href="https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/B08CWD9WLY">The Founders</a> - Jimmy's latest book about Paypal</li><li><a href="https://jongertner.net/">Jon's website</a></li><li><a href="https://jimmysoni.com/">Jimmy's website</a> </li><li><a href="https://f52.charlieharrington.com/stories/voyager-3/">Charlie's short story about the "Voyager 3" space probe</a></li></ul><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>We're joined by Jon Gertner (author of THE IDEA FACTORY: BELL LABS AND THE GREAT AGE OF AMERICAN INNOVATION) and Jimmy Soni (author of A MIND AT PLAY: HOW CLAUDE SHANNON INVENTED THE INFORMATION AGE) to discuss our favorite "house of magic" - Bell Labs! </p><p>Can Bell Labs ever be recreated? What would Claude Shannon think of ChatGPT? What can we learn about "doing great things" from Bell Labs?</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Bell_Labs">Bell Labs</a> - Wikipedia page</li><li><a href="https://en.wikipedia.org/wiki/Claude_Shannon">Claude Shannon</a> - Wikipedia page</li><li><a href="https://en.wikipedia.org/wiki/The_Beatles:_Get_Back">Get Back</a> (Beatles documentary)</li><li><a href="https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797">The Idea Factory</a> - Jon's book about Bell Labs</li><li><a href="https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/147676669X">A Mind At Play</a> - Jimmy's book about Claude Shannon</li><li><a href="https://www.amazon.com/Ice-at-End-of-World-audiobook/dp/B07RML8259">The Ice At The End of The World</a> - Jon's latest book about the melting ice sheet in Greenland</li><li><a href="https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/B08CWD9WLY">The Founders</a> - Jimmy's latest book about Paypal</li><li><a href="https://jongertner.net/">Jon's website</a></li><li><a href="https://jimmysoni.com/">Jimmy's website</a> </li><li><a href="https://f52.charlieharrington.com/stories/voyager-3/">Charlie's short story about the "Voyager 3" space probe</a></li></ul><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Thu, 10 Aug 2023 14:56:29 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/da4a5fd7/8443c38f.mp3" length="34592603" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>4053</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>We're joined by Jon Gertner (author of THE IDEA FACTORY: BELL LABS AND THE GREAT AGE OF AMERICAN INNOVATION) and Jimmy Soni (author of A MIND AT PLAY: HOW CLAUDE SHANNON INVENTED THE INFORMATION AGE) to discuss our favorite "house of magic" - Bell Labs! </p><p>Can Bell Labs ever be recreated? What would Claude Shannon think of ChatGPT? What can we learn about "doing great things" from Bell Labs?</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Bell_Labs">Bell Labs</a> - Wikipedia page</li><li><a href="https://en.wikipedia.org/wiki/Claude_Shannon">Claude Shannon</a> - Wikipedia page</li><li><a href="https://en.wikipedia.org/wiki/The_Beatles:_Get_Back">Get Back</a> (Beatles documentary)</li><li><a href="https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797">The Idea Factory</a> - Jon's book about Bell Labs</li><li><a href="https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/147676669X">A Mind At Play</a> - Jimmy's book about Claude Shannon</li><li><a href="https://www.amazon.com/Ice-at-End-of-World-audiobook/dp/B07RML8259">The Ice At The End of The World</a> - Jon's latest book about the melting ice sheet in Greenland</li><li><a href="https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/B08CWD9WLY">The Founders</a> - Jimmy's latest book about Paypal</li><li><a href="https://jongertner.net/">Jon's website</a></li><li><a href="https://jimmysoni.com/">Jimmy's website</a> </li><li><a href="https://f52.charlieharrington.com/stories/voyager-3/">Charlie's short story about the "Voyager 3" space probe</a></li></ul><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="http://jimmysoni.com" img="https://img.transistor.fm/2IQ6Kwaqj5KpYeymUkO-LCKOR5Bp7z5d01yO2sbwfR8/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vNTcxZjM2YWEt/MmQyMy00ZWFmLWFk/ZjYtM2ExOTNlY2Fm/ZGVmLzE2OTE3MDQ0/NDQtaW1hZ2UuanBn.jpg">Jimmy Soni</podcast:person>
+      <podcast:person role="Guest" href="http://jongertner.net" img="https://img.transistor.fm/qpXikCJ7bmVqIbw5llePlQGwD11NcjVP3WXhmRi8d1k/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vOTY3ZmMzNDQt/YmQ4ZS00ZTdkLThi/NjMtZjYzYjE2MjI5/MjMyLzE2OTE3MDQz/MzUtaW1hZ2UuanBn.jpg">Jon Gertner</podcast:person>
+    </item>
+    <item>
+      <title>E9: What makes programming fun? With Steve Krouse of val.town</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>E9: What makes programming fun? With Steve Krouse of val.town</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">24686aba-1241-403f-8765-20bf3a1769db</guid>
+      <link>https://share.transistor.fm/s/68de64d5</link>
+      <description>
+        <![CDATA[<p>Steve Krouse is the founder of val.town, a social network where you write and run - and maybe poke - code? </p><p>Steve's a fellow computer science education and developer tools enthusiast. We explore what makes programming fun - and how tools like val.town might just be able to recapture that joy we've all felt with computers before.</p><p>Shownotes:</p><ul><li><a href="https://val.town">val.town</a></li><li><a href="https://stevekrouse.com/">Steve Krouse</a> </li><li><a href="https://en.wikipedia.org/wiki/Seymour_Papert">Seymour Papert</a></li><li><a href="https://en.wikipedia.org/wiki/Mindstorms_(book)">Mindstorms by Seymour Papert</a> (book)</li><li><a href="https://www.zachtronics.com/">Zachtronics</a></li><li><a href="https://www.cavemanchemistry.com/">Caveman Chemistry</a> (book)</li><li><a href="https://www.amazon.com/Primitive-Technology-Survivalists-Building-Shelters/dp/1984823671">Primitive Technology</a> (book)</li><li><a href="https://hackclub.com/">Hack Club</a> </li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Steve Krouse is the founder of val.town, a social network where you write and run - and maybe poke - code? </p><p>Steve's a fellow computer science education and developer tools enthusiast. We explore what makes programming fun - and how tools like val.town might just be able to recapture that joy we've all felt with computers before.</p><p>Shownotes:</p><ul><li><a href="https://val.town">val.town</a></li><li><a href="https://stevekrouse.com/">Steve Krouse</a> </li><li><a href="https://en.wikipedia.org/wiki/Seymour_Papert">Seymour Papert</a></li><li><a href="https://en.wikipedia.org/wiki/Mindstorms_(book)">Mindstorms by Seymour Papert</a> (book)</li><li><a href="https://www.zachtronics.com/">Zachtronics</a></li><li><a href="https://www.cavemanchemistry.com/">Caveman Chemistry</a> (book)</li><li><a href="https://www.amazon.com/Primitive-Technology-Survivalists-Building-Shelters/dp/1984823671">Primitive Technology</a> (book)</li><li><a href="https://hackclub.com/">Hack Club</a> </li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 20 Jul 2023 20:40:28 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/68de64d5/3696d2e8.mp3" length="27125998" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3510</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Steve Krouse is the founder of val.town, a social network where you write and run - and maybe poke - code? </p><p>Steve's a fellow computer science education and developer tools enthusiast. We explore what makes programming fun - and how tools like val.town might just be able to recapture that joy we've all felt with computers before.</p><p>Shownotes:</p><ul><li><a href="https://val.town">val.town</a></li><li><a href="https://stevekrouse.com/">Steve Krouse</a> </li><li><a href="https://en.wikipedia.org/wiki/Seymour_Papert">Seymour Papert</a></li><li><a href="https://en.wikipedia.org/wiki/Mindstorms_(book)">Mindstorms by Seymour Papert</a> (book)</li><li><a href="https://www.zachtronics.com/">Zachtronics</a></li><li><a href="https://www.cavemanchemistry.com/">Caveman Chemistry</a> (book)</li><li><a href="https://www.amazon.com/Primitive-Technology-Survivalists-Building-Shelters/dp/1984823671">Primitive Technology</a> (book)</li><li><a href="https://hackclub.com/">Hack Club</a> </li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://stevekrouse.com" img="https://img.transistor.fm/P50qre9Q53SK_K43YdpHLtX6QYwYeu19w0bBXH5vnnM/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2JkOGQyMDct/ZWNhOS00ZTJkLWJi/MDAtOWQ0MjljN2Y5/Njc5LzE2ODk5MDkx/NTctaW1hZ2UuanBn.jpg">Steve Krouse</podcast:person>
+    </item>
+    <item>
+      <title>E8: Should we stop doing this podcast?</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>E8: Should we stop doing this podcast?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9b3e5c82-cb90-4861-8e47-85f056ed011b</guid>
+      <link>https://share.transistor.fm/s/3547f406</link>
+      <description>
+        <![CDATA[<p>Are we creating evil in the world with this podcast? Should Charlie feel guilty about playing Zelda? Do any Oz-approved video games exist? What's going on with Charlie's book? Can we use GPT-4 as an effective personal tutor? And should we stop doing this podcast?</p><p>Shownotes:</p><ul><li><a href="https://www.khanacademy.org/khan-labs">Khanmigo (Khan Academy)</a></li><li><a href="http://pleasingfungus.com/Silicon%20Zeroes/">Silicon Zeroes</a></li><li><a href="https://www.zachtronics.com/shenzhen-io/">Shenzhen I/O</a></li><li><a href="https://tomorrowcorporation.com/humanresourcemachine">Human Resource Machine</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Are we creating evil in the world with this podcast? Should Charlie feel guilty about playing Zelda? Do any Oz-approved video games exist? What's going on with Charlie's book? Can we use GPT-4 as an effective personal tutor? And should we stop doing this podcast?</p><p>Shownotes:</p><ul><li><a href="https://www.khanacademy.org/khan-labs">Khanmigo (Khan Academy)</a></li><li><a href="http://pleasingfungus.com/Silicon%20Zeroes/">Silicon Zeroes</a></li><li><a href="https://www.zachtronics.com/shenzhen-io/">Shenzhen I/O</a></li><li><a href="https://tomorrowcorporation.com/humanresourcemachine">Human Resource Machine</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 29 May 2023 22:07:00 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/3547f406/e3dc9c65.mp3" length="12200903" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>1426</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Are we creating evil in the world with this podcast? Should Charlie feel guilty about playing Zelda? Do any Oz-approved video games exist? What's going on with Charlie's book? Can we use GPT-4 as an effective personal tutor? And should we stop doing this podcast?</p><p>Shownotes:</p><ul><li><a href="https://www.khanacademy.org/khan-labs">Khanmigo (Khan Academy)</a></li><li><a href="http://pleasingfungus.com/Silicon%20Zeroes/">Silicon Zeroes</a></li><li><a href="https://www.zachtronics.com/shenzhen-io/">Shenzhen I/O</a></li><li><a href="https://tomorrowcorporation.com/humanresourcemachine">Human Resource Machine</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    </item>
+    <item>
+      <title>E7: How Jesse Farmer designed the first coding bootcamp curriculum</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>E7: How Jesse Farmer designed the first coding bootcamp curriculum</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">57ba51d9-596d-40c2-a33e-19ee26e5b8f7</guid>
+      <link>https://share.transistor.fm/s/b241b0d7</link>
+      <description>
+        <![CDATA[<p>It's time for instructional design and ed-tech history with Jesse Farmer! </p><p>Jesse is the co-founder, Chief Product Officer, and academics lead of Dev Bootcamp - one of the earliest, most influential, and successful coding bootcamps - the bootcamp that started it all!</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Dev_Bootcamp">Dev Bootcamp</a></li><li><a href="https://hipcamp.com">Hipcamp</a></li><li><a href="https://mastodon.online/@jfarmer">Jesse Farmer's Mastodon</a> account</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>It's time for instructional design and ed-tech history with Jesse Farmer! </p><p>Jesse is the co-founder, Chief Product Officer, and academics lead of Dev Bootcamp - one of the earliest, most influential, and successful coding bootcamps - the bootcamp that started it all!</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Dev_Bootcamp">Dev Bootcamp</a></li><li><a href="https://hipcamp.com">Hipcamp</a></li><li><a href="https://mastodon.online/@jfarmer">Jesse Farmer's Mastodon</a> account</li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 10 May 2023 19:05:30 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/b241b0d7/96dbc897.mp3" length="28935171" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3656</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>It's time for instructional design and ed-tech history with Jesse Farmer! </p><p>Jesse is the co-founder, Chief Product Officer, and academics lead of Dev Bootcamp - one of the earliest, most influential, and successful coding bootcamps - the bootcamp that started it all!</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Dev_Bootcamp">Dev Bootcamp</a></li><li><a href="https://hipcamp.com">Hipcamp</a></li><li><a href="https://mastodon.online/@jfarmer">Jesse Farmer's Mastodon</a> account</li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Guest" href="http://20bits.com" img="https://img.transistor.fm/hSLYThAAxTuXGExVuAkU7nJRLgmI59wpllf_yTFsMvQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2FjZmZjM2Mt/NWEzMy00MGQxLWIz/YzctMWQxZTMyYWIz/MmYwLzE2ODM3NzA2/NDgtaW1hZ2UuanBn.jpg">Jesse Farmer</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+    </item>
+    <item>
+      <title>E6: Can you develop an engineer's mindset?</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>E6: Can you develop an engineer's mindset?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e0ef5579-dec5-46a1-b8a9-0d4c1662d1e8</guid>
+      <link>https://share.transistor.fm/s/31c0685e</link>
+      <description>
+        <![CDATA[<p>Charlie wants to know if he can learn how to "think like an engineer", just like the Matt Damon/Mark Watney character in THE MARTIAN -- and Oz has some good suggestions, as per usual.</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Self-replicating_spacecraft">Von Neumann probes</a> </li><li><a href="https://www.amazon.com/Are-Legion-Bob-Bobiverse-Book-ebook/dp/B01LWAESYQ">We Are Legion (We Are Bob) - Dennis E. Taylor</a></li><li><a href="https://f52.charlieharrington.com/stories/nibbles/">Nibbles - Charlie's short story about von Neumann probes</a> </li><li><a href="https://www.amazon.com/Martian-Andy-Weir/dp/0553418025">The Martian - Andy Weir</a>: </li><li><a href="https://f52.charlieharrington.com/stories/shimmer/">Shimmer - Charlie's short story about mining a giant diamond asteroid</a></li><li><a href="https://www.youtube.com/@IanHubert2%20">Ian Hubert's YouTube channel</a></li><li><a href="https://xkcd.com/267/">This week's XKCD reference</a></li><li><a href="https://en.wikipedia.org/wiki/Primer_(film)">Primer (movie)</a></li><li><a href="https://farcaster.xyz">Farcaster social media protocol</a> </li><li><a href="https://gist.github.com/whatrocks/b4b7c306b307c3c707f0d6256fe9afb0">Charlie's "fling" experiment on Farcaster</a> </li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Charlie wants to know if he can learn how to "think like an engineer", just like the Matt Damon/Mark Watney character in THE MARTIAN -- and Oz has some good suggestions, as per usual.</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Self-replicating_spacecraft">Von Neumann probes</a> </li><li><a href="https://www.amazon.com/Are-Legion-Bob-Bobiverse-Book-ebook/dp/B01LWAESYQ">We Are Legion (We Are Bob) - Dennis E. Taylor</a></li><li><a href="https://f52.charlieharrington.com/stories/nibbles/">Nibbles - Charlie's short story about von Neumann probes</a> </li><li><a href="https://www.amazon.com/Martian-Andy-Weir/dp/0553418025">The Martian - Andy Weir</a>: </li><li><a href="https://f52.charlieharrington.com/stories/shimmer/">Shimmer - Charlie's short story about mining a giant diamond asteroid</a></li><li><a href="https://www.youtube.com/@IanHubert2%20">Ian Hubert's YouTube channel</a></li><li><a href="https://xkcd.com/267/">This week's XKCD reference</a></li><li><a href="https://en.wikipedia.org/wiki/Primer_(film)">Primer (movie)</a></li><li><a href="https://farcaster.xyz">Farcaster social media protocol</a> </li><li><a href="https://gist.github.com/whatrocks/b4b7c306b307c3c707f0d6256fe9afb0">Charlie's "fling" experiment on Farcaster</a> </li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 04 May 2023 16:14:13 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/31c0685e/cca4dfd3.mp3" length="15542955" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>1833</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Charlie wants to know if he can learn how to "think like an engineer", just like the Matt Damon/Mark Watney character in THE MARTIAN -- and Oz has some good suggestions, as per usual.</p><p>Shownotes:</p><ul><li><a href="https://en.wikipedia.org/wiki/Self-replicating_spacecraft">Von Neumann probes</a> </li><li><a href="https://www.amazon.com/Are-Legion-Bob-Bobiverse-Book-ebook/dp/B01LWAESYQ">We Are Legion (We Are Bob) - Dennis E. Taylor</a></li><li><a href="https://f52.charlieharrington.com/stories/nibbles/">Nibbles - Charlie's short story about von Neumann probes</a> </li><li><a href="https://www.amazon.com/Martian-Andy-Weir/dp/0553418025">The Martian - Andy Weir</a>: </li><li><a href="https://f52.charlieharrington.com/stories/shimmer/">Shimmer - Charlie's short story about mining a giant diamond asteroid</a></li><li><a href="https://www.youtube.com/@IanHubert2%20">Ian Hubert's YouTube channel</a></li><li><a href="https://xkcd.com/267/">This week's XKCD reference</a></li><li><a href="https://en.wikipedia.org/wiki/Primer_(film)">Primer (movie)</a></li><li><a href="https://farcaster.xyz">Farcaster social media protocol</a> </li><li><a href="https://gist.github.com/whatrocks/b4b7c306b307c3c707f0d6256fe9afb0">Charlie's "fling" experiment on Farcaster</a> </li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    </item>
+    <item>
+      <title>E5: Omar the High-Octane Learning Machine</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>E5: Omar the High-Octane Learning Machine</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">714de94c-b1a6-4578-8305-8159eacaf46f</guid>
+      <link>https://share.transistor.fm/s/deb20598</link>
+      <description>
+        <![CDATA[<p>Omar Rayward attended one of the first ever coding bootcamp cohorts, now he's a Senior Staff Software Engineer. Oz and Charlie connect with Omar about his study habits, motivation, and whatever else it takes to keep up his consistent learning habits.</p><p>Shownotes:</p><ul><li><a href="https://csprimer.com/articles/consistency/">How to be consistent</a> (Oz's recent article, featuring Omar!)</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Omar Rayward attended one of the first ever coding bootcamp cohorts, now he's a Senior Staff Software Engineer. Oz and Charlie connect with Omar about his study habits, motivation, and whatever else it takes to keep up his consistent learning habits.</p><p>Shownotes:</p><ul><li><a href="https://csprimer.com/articles/consistency/">How to be consistent</a> (Oz's recent article, featuring Omar!)</li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 20 Apr 2023 19:32:46 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/deb20598/9997d8fa.mp3" length="67044796" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3799</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Omar Rayward attended one of the first ever coding bootcamp cohorts, now he's a Senior Staff Software Engineer. Oz and Charlie connect with Omar about his study habits, motivation, and whatever else it takes to keep up his consistent learning habits.</p><p>Shownotes:</p><ul><li><a href="https://csprimer.com/articles/consistency/">How to be consistent</a> (Oz's recent article, featuring Omar!)</li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://show.csprimer.com/people/omar-rayward" img="https://img.transistor.fm/7XQBtTGt1Zs3vD5qCMUpcNVI3QIvQQ1m-Z3qdzekB94/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vNDFmZDQ0MWIt/ZTM5Ni00Y2Y0LTlh/MDEtNTRjY2YwMWU4/NzZjLzE2ODIxMTAy/NjUtaW1hZ2UuanBn.jpg">Omar Rayward</podcast:person>
+    </item>
+    <item>
+      <title>E4: Packet losers</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>E4: Packet losers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">81f51ed1-c3fc-493f-b966-478e78ebeb36</guid>
+      <link>https://share.transistor.fm/s/6f0ee81f</link>
+      <description>
+        <![CDATA[<p>Charlie's unexpected packet loss devolves into a live Oz networking lesson.</p><p>* <a href="https://en.wikipedia.org/wiki/MTR_(software)">Matt's (my) traceroute</a><br>* <a href="https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/">How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today</a><br>* <a href="https://en.wikipedia.org/wiki/Border_Gateway_Protocol">Border Gateway Protocol</a><br>* <a href="https://www.zakon.org/robert/internet/timeline/">Christmas Day Bug on ARPANET</a> (grep for Christmas in 1973 section)<br>* <a href="https://en.wikipedia.org/wiki/Great_horned_owl">Great horned owl</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Charlie's unexpected packet loss devolves into a live Oz networking lesson.</p><p>* <a href="https://en.wikipedia.org/wiki/MTR_(software)">Matt's (my) traceroute</a><br>* <a href="https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/">How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today</a><br>* <a href="https://en.wikipedia.org/wiki/Border_Gateway_Protocol">Border Gateway Protocol</a><br>* <a href="https://www.zakon.org/robert/internet/timeline/">Christmas Day Bug on ARPANET</a> (grep for Christmas in 1973 section)<br>* <a href="https://en.wikipedia.org/wiki/Great_horned_owl">Great horned owl</a></p>]]>
+      </content:encoded>
+      <pubDate>Tue, 04 Apr 2023 19:26:53 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/6f0ee81f/b92bdc94.mp3" length="61615839" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3395</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Charlie's unexpected packet loss devolves into a live Oz networking lesson.</p><p>* <a href="https://en.wikipedia.org/wiki/MTR_(software)">Matt's (my) traceroute</a><br>* <a href="https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/">How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today</a><br>* <a href="https://en.wikipedia.org/wiki/Border_Gateway_Protocol">Border Gateway Protocol</a><br>* <a href="https://www.zakon.org/robert/internet/timeline/">Christmas Day Bug on ARPANET</a> (grep for Christmas in 1973 section)<br>* <a href="https://en.wikipedia.org/wiki/Great_horned_owl">Great horned owl</a></p>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    </item>
+    <item>
+      <title>E3: Return to the quantum computing cave with Felix Tripier of IonQ</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>E3: Return to the quantum computing cave with Felix Tripier of IonQ</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">743ecffe-17e8-47ae-b299-e5ed1a6fbd4e</guid>
+      <link>https://share.transistor.fm/s/044399df</link>
+      <description>
+        <![CDATA[<p>Oz and Charlie catch up with Felix Tripier - now a Senior Staff Software Engineer at quantum computing company IonQ - for the first time in three years! Felix was our first guest on Escaping Web - a double high school and college dropout who become a self-taught web developer and is now a quantum computing engineer - so it only made sense for him to be our first guest on The CS Primer Show.</p><p>We discuss Felix's path to staff engineer, the engineering manager vs. staff engineer career choices, staff engineering archetypes, building software for and working with scientists, the movie Grave of the Fireflies, the book When We Cease To Understand The World, and, of course, reference an apt XKCD comic.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Oz and Charlie catch up with Felix Tripier - now a Senior Staff Software Engineer at quantum computing company IonQ - for the first time in three years! Felix was our first guest on Escaping Web - a double high school and college dropout who become a self-taught web developer and is now a quantum computing engineer - so it only made sense for him to be our first guest on The CS Primer Show.</p><p>We discuss Felix's path to staff engineer, the engineering manager vs. staff engineer career choices, staff engineering archetypes, building software for and working with scientists, the movie Grave of the Fireflies, the book When We Cease To Understand The World, and, of course, reference an apt XKCD comic.</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 01 Apr 2023 19:33:26 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/044399df/19c7683e.mp3" length="81922474" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>4391</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Oz and Charlie catch up with Felix Tripier - now a Senior Staff Software Engineer at quantum computing company IonQ - for the first time in three years! Felix was our first guest on Escaping Web - a double high school and college dropout who become a self-taught web developer and is now a quantum computing engineer - so it only made sense for him to be our first guest on The CS Primer Show.</p><p>We discuss Felix's path to staff engineer, the engineering manager vs. staff engineer career choices, staff engineering archetypes, building software for and working with scientists, the movie Grave of the Fireflies, the book When We Cease To Understand The World, and, of course, reference an apt XKCD comic.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+      <podcast:person role="Guest" href="https://felixtripier.com/">Felix Tripier</podcast:person>
+    </item>
+    <item>
+      <title>E2: Don't let a GPT have all the fun!</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>E2: Don't let a GPT have all the fun!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d2ceac92-71d2-49bb-832c-cecd4406e7af</guid>
+      <link>https://share.transistor.fm/s/2a7dea80</link>
+      <description>
+        <![CDATA[<p>Is there a benefit to figuring things out the hard way? Why learn to read disassembly if you can just ask Chat GPT. We talk about this, as well as somehow the Piet programming language and much more.</p><ul><li><a href="https://www.dangermouse.net/esoteric/piet.html">Piet programming language</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Is there a benefit to figuring things out the hard way? Why learn to read disassembly if you can just ask Chat GPT. We talk about this, as well as somehow the Piet programming language and much more.</p><ul><li><a href="https://www.dangermouse.net/esoteric/piet.html">Piet programming language</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Sat, 01 Apr 2023 19:31:58 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/2a7dea80/fb97a057.mp3" length="66930722" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>3775</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Is there a benefit to figuring things out the hard way? Why learn to read disassembly if you can just ask Chat GPT. We talk about this, as well as somehow the Piet programming language and much more.</p><ul><li><a href="https://www.dangermouse.net/esoteric/piet.html">Piet programming language</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    </item>
+    <item>
+      <title>E1: Doing meaningful work</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>E1: Doing meaningful work</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">59aac12c-ddd3-4de8-bbe8-556fed551b53</guid>
+      <link>https://share.transistor.fm/s/42c992f7</link>
+      <description>
+        <![CDATA[<p>We kick off The CS Primer Show with a conversation prompted by our mutual love of "You and Your Research" by Richard Hamming. This is an essay that Oz frequently recommends to software engineers who would like to increase their impact. Be sure to watch the talk or read the transcript of Hamming's talk!</p><p>- <a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research (transcript)</a> <br>- <a href="https://www.youtube.com/watch?v=a1zDuOPkMSw">You and Your Research (video) </a><br>- <a href="https://www.cs.princeton.edu/~bwk/memoir.html">Unix: A History and a Memoir</a><br>- <a href="https://csprimer.com">CS Primer</a> <br>- <a href="https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf">Bloom's 2 sigma problem</a><br>- <a href="https://erikhoel.substack.com/p/why-we-stopped-making-einsteins">Hoel on aristocratic tutoring</a><br>- <a href="https://auren.substack.com/p/a-nirav-or-a-naval-that-is-the-question">Auren on insiders vs outsiders</a><br>- <a href="https://f52.charlieharrington.com/">Charlie's project to write 52 short stories in a year</a><br>- <a href="https://escapingweb.github.io">Escaping Web</a>: Oz and Charlie's previous engineering interview podcast <br>- <a href="https://en.wikipedia.org/wiki/American_Prometheus">American Prometheus (Oppenheimer biography)</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>We kick off The CS Primer Show with a conversation prompted by our mutual love of "You and Your Research" by Richard Hamming. This is an essay that Oz frequently recommends to software engineers who would like to increase their impact. Be sure to watch the talk or read the transcript of Hamming's talk!</p><p>- <a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research (transcript)</a> <br>- <a href="https://www.youtube.com/watch?v=a1zDuOPkMSw">You and Your Research (video) </a><br>- <a href="https://www.cs.princeton.edu/~bwk/memoir.html">Unix: A History and a Memoir</a><br>- <a href="https://csprimer.com">CS Primer</a> <br>- <a href="https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf">Bloom's 2 sigma problem</a><br>- <a href="https://erikhoel.substack.com/p/why-we-stopped-making-einsteins">Hoel on aristocratic tutoring</a><br>- <a href="https://auren.substack.com/p/a-nirav-or-a-naval-that-is-the-question">Auren on insiders vs outsiders</a><br>- <a href="https://f52.charlieharrington.com/">Charlie's project to write 52 short stories in a year</a><br>- <a href="https://escapingweb.github.io">Escaping Web</a>: Oz and Charlie's previous engineering interview podcast <br>- <a href="https://en.wikipedia.org/wiki/American_Prometheus">American Prometheus (Oppenheimer biography)</a></p>]]>
+      </content:encoded>
+      <pubDate>Sat, 01 Apr 2023 19:26:44 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://media.transistor.fm/42c992f7/e2910dcc.mp3" length="74071646" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:duration>4211</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>We kick off The CS Primer Show with a conversation prompted by our mutual love of "You and Your Research" by Richard Hamming. This is an essay that Oz frequently recommends to software engineers who would like to increase their impact. Be sure to watch the talk or read the transcript of Hamming's talk!</p><p>- <a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research (transcript)</a> <br>- <a href="https://www.youtube.com/watch?v=a1zDuOPkMSw">You and Your Research (video) </a><br>- <a href="https://www.cs.princeton.edu/~bwk/memoir.html">Unix: A History and a Memoir</a><br>- <a href="https://csprimer.com">CS Primer</a> <br>- <a href="https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf">Bloom's 2 sigma problem</a><br>- <a href="https://erikhoel.substack.com/p/why-we-stopped-making-einsteins">Hoel on aristocratic tutoring</a><br>- <a href="https://auren.substack.com/p/a-nirav-or-a-naval-that-is-the-question">Auren on insiders vs outsiders</a><br>- <a href="https://f52.charlieharrington.com/">Charlie's project to write 52 short stories in a year</a><br>- <a href="https://escapingweb.github.io">Escaping Web</a>: Oz and Charlie's previous engineering interview podcast <br>- <a href="https://en.wikipedia.org/wiki/American_Prometheus">American Prometheus (Oppenheimer biography)</a></p>]]>
+      </itunes:summary>
+      <itunes:keywords>computer science, coding, education, programming</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <podcast:person role="Host" href="http://csprimer.com" img="https://img.transistor.fm/rcyuT6wz-cKsQ8gFnusMOAtEmijFOxPVzSx0SairzR0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZTMwMWExZDMt/ZDRiNS00YzY5LTg1/OWItZGFhOTI4YzAy/YjIzLzE2ODIxMTAx/OTEtaW1hZ2UuanBn.jpg">Oz Nova</podcast:person>
+      <podcast:person role="Host" href="http://charlieharrington.com" img="https://img.transistor.fm/Cgj7eQ_z_dIzEbt1C2WkmeH7AXVUhQQRyyKrB_5MIDI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYzI0OTQ1NDYt/NTVjOC00MzI4LWFm/OWYtNzAyMDQ5YmFi/OTFlLzE2ODIxMTAy/MjgtaW1hZ2UuanBn.jpg">Charlie Harrington</podcast:person>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[The Art of Developer Experience Podcast]]></title>
+		<description><![CDATA[We host authentic conversations with developer experience professionals creating products for developers (often APIs). We’ll explore topics like API design, documentation, tooling, developer relations, dashboards, onboarding, community, communications and how developer experience fits into an organzation.]]></description>
+		<link>https://www.apimatic.io/art-of-developer-experience/</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Wed, 04 Jun 2025 23:33:43 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/d8d64b8c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[APIMatic]]></author>
+		<copyright><![CDATA[APIMatic]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>APIMatic</itunes:author>
+		<itunes:summary>We host authentic conversations with developer experience professionals creating products for developers (often APIs). We’ll explore topics like API design, documentation, tooling, developer relations, dashboards, onboarding, community, communications and how developer experience fits into an organzation.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>APIMatic</itunes:name>
+			<itunes:email>sid.maestre@apimatic.io</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+		<item>
+			<title><![CDATA[019: We want happy developers]]></title>
+			<description><![CDATA[<p>Joshua Markam, Developer Relations leader, sat down to discuss his role at Verizon and the innovations around the Internet of Things. He discusses the challenges developers face in IoT connectivity, the significance of edge computing, and the future opportunities in the IoT space. The conversation also highlights Verizon's partnership with APImatic to enhance developer experience and the trends shaping telco APIs, including the emerging Camara standard.</p><p><br /></p><p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p>APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/019-We-want-happy-developers-e33gi0b</link>
+			<guid isPermaLink="false">ee4e38e8-dbc4-49fc-ae8c-b50fb0f7fff7</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Wed, 28 May 2025 23:30:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/103351755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-28%2F401186698-44100-2-a4231cdcb9048.m4a" length="46334405" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Joshua Markam, Developer Relations leader, sat down to discuss his role at Verizon and the innovations around the Internet of Things. He discusses the challenges developers face in IoT connectivity, the significance of edge computing, and the future opportunities in the IoT space. The conversation also highlights Verizon&apos;s partnership with APImatic to enhance developer experience and the trends shaping telco APIs, including the emerging Camara standard.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;amp;utm_source=artofdx&amp;amp;utm_content=richardfortune&quot; rel=&quot;ugc noopener noreferrer&quot; target=&quot;_blank&quot;&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:47:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36279227/36279227-1748474806197-0826ae5370f1d.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[018: Value of Simplicity in Developer Experience]]></title>
+			<description><![CDATA[<p>Tom Hacohen, CEO at <a href="https://www.svix.com/" target="_blank" rel="ugc noopener noreferrer">Svix</a>, sat down with me to share how they deliver webhooks as a service with a developer experience that places the customer at the center. Tom believes that when building developer tools, your perspective doesn’t matter; it’s all about the customer. Good documentation isn’t just about completeness and depth; it’s about simplicity and accessibility. </p>
+<p><br>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune" target="_blank" rel="ugc noopener noreferrer">⁠⁠⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/018-Value-of-Simplicity-in-Developer-Experience-e2tpvkt</link>
+			<guid isPermaLink="false">a730cc0a-a419-42e9-a327-76359b087718</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 21 Jan 2025 19:44:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/97369181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2F393470555-44100-2-df6530caf4903.m4a" length="41241472" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Tom Hacohen, CEO at &lt;a href=&quot;https://www.svix.com/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;Svix&lt;/a&gt;, sat down with me to share how they deliver webhooks as a service with a developer experience that places the customer at the center. Tom believes that when building developer tools, your perspective doesn’t matter; it’s all about the customer. Good documentation isn’t just about completeness and depth; it’s about simplicity and accessibility. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:42:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[017: DX Lessons from 100 DevTool Interviews]]></title>
+			<description><![CDATA[<p>Scaling Dev Tools, Podcast host Jack Bridger spent two years interviewing 100 dev tool creators to learn how to build successful products that appeal to developers. Jack and I discuss what he’s learned about engaging customers, measuring your DX, ways for your product to stand out in a crowd, and tips for collaborating with influencers.</p>
+<p><a href="https://scalingdevtools.com/" target="_blank" rel="ugc noopener noreferrer">Scaling DevTools</a></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/017-DX-Lessons-from-100-DevTool-Interviews-e2q24ea</link>
+			<guid isPermaLink="false">b7f0bfed-9180-4d8b-b019-fd2b07c869af</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Wed, 23 Oct 2024 18:21:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/93441930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-23%2F388597990-44100-2-1bfe0a9c44569.m4a" length="48750568" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Scaling Dev Tools, Podcast host Jack Bridger spent two years interviewing 100 dev tool creators to learn how to build successful products that appeal to developers. Jack and I discuss what he’s learned about engaging customers, measuring your DX, ways for your product to stand out in a crowd, and tips for collaborating with influencers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scalingdevtools.com/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;Scaling DevTools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;amp;utm_source=artofdx&amp;amp;utm_content=richardfortune&quot; rel=&quot;ugc noopener noreferrer&quot; target=&quot;_blank&quot;&gt;⁠⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36279227/36279227-1729705866974-002a0786324e9.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[016a: How to measure success in your DX]]></title>
+			<description><![CDATA[<p>Replacement episode to fix missing audio.</p>
+<p><br></p>
+<p>Developer Advocate Beppe Catanese from the Dutch payment company Adyen joins me. Over the past decade, Adyen has been expanding globally. Beppe and I will discuss the internal pipeline built at Adyen to automate the creation of a world-class developer experience. Beppe also shares his work in open source and how Adyen measures the success of their DX.</p>
+<p><a href="https://developer.adyen.com/" target="_blank" rel="noopener noreferer">Adyen Developer Portal</a></p>
+<p><br></p>
+<p>Brought to you by <a href="https://www.apimatic.io/" target="_blank" rel="noopener noreferer">APIMatic</a></p>
+<p><br></p>
+<p><strong>Questions Beppe answers in this episode</strong></p>
+<p>Tell us about your career that lead to working in developer experience at Adyen</p>
+<p>What have you observed in the evolution of developer experience around APIs?</p>
+<p>When it comes to SDKs, do you have an engineering team creating those by hand or auto generating them?</p>
+<p>How are changes to your OpenAPI definition managed as part of your pipeline or workflow?</p>
+<p>Do you have contract testing as part of your pipeline?</p>
+<p>Is your team writing tests or generating them for each SDK that is produced from the pipeline?</p>
+<p>How many people are working to maintain the OpenAPI SDK pipeline you&#39;ve built?</p>
+<p>You have many teams feeding APIs into a unified developer experience?</p>
+<p>How do you go about discovering OpenAPI tools, do you use Open source or build your own?</p>
+<p>Do you open source your SDKs?</p>
+<p>Are there any challenges taking contribution to your open source SDKs when parts are generated?</p>
+<p>How are you measuring the benefits and return on investment for building a good developer experience, documentation, SDKs and tools?</p>
+<p>Are you using anything to measure the usage of tools and SDKs?</p>
+<p>How did you get involved contributing to OpenAPI Generator project and what was that experience like for you?</p>
+<p>Did you work on OpenAPI generator&#39;s core engine in Java or the mustache templates which controlled the output for each programming language?</p>
+<p>Where you generating the server code to dispatch webhooks or the client code to receive?</p>
+<p>Is OpenAPI helping standardize how companies are implementing webhooks so they are easier for developers to consume?</p>
+<p>Should developers be concerned that OpenAPI Generator has over 4000 open issues and over 400 Pull requests? </p>
+<p>What are OpenAPI Workflows and how will developers benefit from them?</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/016a-How-to-measure-success-in-your-DX-e2lhsq5</link>
+			<guid isPermaLink="false">db13dade-d35e-4eb1-ba78-62146203f50b</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 02 Jul 2024 15:21:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/88715525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-4%2F382377328-44100-2-515dfe43edd48.m4a" length="47413883" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Replacement episode to fix missing audio.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Developer Advocate Beppe Catanese from the Dutch payment company Adyen joins me. Over the past decade, Adyen has been expanding globally. Beppe and I will discuss the internal pipeline built at Adyen to automate the creation of a world-class developer experience. Beppe also shares his work in open source and how Adyen measures the success of their DX.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developer.adyen.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Adyen Developer Portal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;APIMatic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Questions Beppe answers in this episode&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us about your career that lead to working in developer experience at Adyen&lt;/p&gt;
+&lt;p&gt;What have you observed in the evolution of developer experience around APIs?&lt;/p&gt;
+&lt;p&gt;When it comes to SDKs, do you have an engineering team creating those by hand or auto generating them?&lt;/p&gt;
+&lt;p&gt;How are changes to your OpenAPI definition managed as part of your pipeline or workflow?&lt;/p&gt;
+&lt;p&gt;Do you have contract testing as part of your pipeline?&lt;/p&gt;
+&lt;p&gt;Is your team writing tests or generating them for each SDK that is produced from the pipeline?&lt;/p&gt;
+&lt;p&gt;How many people are working to maintain the OpenAPI SDK pipeline you&amp;#39;ve built?&lt;/p&gt;
+&lt;p&gt;You have many teams feeding APIs into a unified developer experience?&lt;/p&gt;
+&lt;p&gt;How do you go about discovering OpenAPI tools, do you use Open source or build your own?&lt;/p&gt;
+&lt;p&gt;Do you open source your SDKs?&lt;/p&gt;
+&lt;p&gt;Are there any challenges taking contribution to your open source SDKs when parts are generated?&lt;/p&gt;
+&lt;p&gt;How are you measuring the benefits and return on investment for building a good developer experience, documentation, SDKs and tools?&lt;/p&gt;
+&lt;p&gt;Are you using anything to measure the usage of tools and SDKs?&lt;/p&gt;
+&lt;p&gt;How did you get involved contributing to OpenAPI Generator project and what was that experience like for you?&lt;/p&gt;
+&lt;p&gt;Did you work on OpenAPI generator&amp;#39;s core engine in Java or the mustache templates which controlled the output for each programming language?&lt;/p&gt;
+&lt;p&gt;Where you generating the server code to dispatch webhooks or the client code to receive?&lt;/p&gt;
+&lt;p&gt;Is OpenAPI helping standardize how companies are implementing webhooks so they are easier for developers to consume?&lt;/p&gt;
+&lt;p&gt;Should developers be concerned that OpenAPI Generator has over 4000 open issues and over 400 Pull requests? &lt;/p&gt;
+&lt;p&gt;What are OpenAPI Workflows and how will developers benefit from them?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36279227/36279227-1719876700994-416e13b354177.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[015: APIs are Forever]]></title>
+			<description><![CDATA[<p>Author James Higginbotham explains his five principles of good API design to me. We discuss the importance of empathy, discovery, and use cases in documentation. James advises dealing with API sprawl and ways to deliver SDKs and libraries as part of your developer experience.</p>
+<p><br></p>
+<p>Key Takeaways:</p>
+<p>- Focus on empathy, discovery, and understanding the problem when designing APIs</p>
+<p>- Documentation should focus on use cases and scenarios with an outside perspective </p>
+<p>- Plan for APIs to last; don&#39;t design them in isolation</p>
+<p>- Manage API sprawl through mapping, leveraging existing APIs, and unified front ends</p>
+<p>- Evaluate business needs carefully when retiring APIs and transition users smoothly</p>
+<p>- SDKs and libraries can come from API providers and the community or be generated by individual consumers.</p>
+<p><br></p>
+<p><a href="https://www.amazon.com/Principles-Web-Design-James-Higginbotham/dp/0137355637" target="_blank" rel="noopener noreferer">Principles of Web API Design</a></p>
+<p><a href="https://launchany.com/" target="_blank" rel="noopener noreferer">LaunchAny</a></p>
+<p><br></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/015-APIs-are-Forever-e2khmi3</link>
+			<guid isPermaLink="false">5c6317b7-a183-4c33-95f9-85be91d510f5</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Wed, 05 Jun 2024 18:07:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/87660547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-5%2F379833655-44100-2-3ac21dbc7815e.m4a" length="51265236" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Author James Higginbotham explains his five principles of good API design to me. We discuss the importance of empathy, discovery, and use cases in documentation. James advises dealing with API sprawl and ways to deliver SDKs and libraries as part of your developer experience.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Key Takeaways:&lt;/p&gt;
+&lt;p&gt;- Focus on empathy, discovery, and understanding the problem when designing APIs&lt;/p&gt;
+&lt;p&gt;- Documentation should focus on use cases and scenarios with an outside perspective &lt;/p&gt;
+&lt;p&gt;- Plan for APIs to last; don&amp;#39;t design them in isolation&lt;/p&gt;
+&lt;p&gt;- Manage API sprawl through mapping, leveraging existing APIs, and unified front ends&lt;/p&gt;
+&lt;p&gt;- Evaluate business needs carefully when retiring APIs and transition users smoothly&lt;/p&gt;
+&lt;p&gt;- SDKs and libraries can come from API providers and the community or be generated by individual consumers.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Principles-Web-Design-James-Higginbotham/dp/0137355637&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Principles of Web API Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://launchany.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;LaunchAny&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:52:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36279227/36279227-1717610807454-fd622f388e187.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[014: Meet Developer Where They Are At]]></title>
+			<description><![CDATA[<p>Ash Arnwine, Director of Developer Relations at Nylas, joins the Podcast. He describes the evolution of Nylas&#39; APIs, which developers use to integrate various email and calendar platforms seamlessly into their applications. Ash emphasizes the company&#39;s commitment to “meeting developers where they are at” through robust documentation and community engagement.</p>
+<p><a href="https://www.nylas.com/" target="_blank" rel="noopener noreferer">Nylas</a></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/014-Meet-Developer-Where-They-Are-At-e2j3as4</link>
+			<guid isPermaLink="false">9d8a9790-26f2-45e0-83b6-8a693272a31d</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 30 Apr 2024 19:38:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/86141252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-30%2F376120992-44100-2-e820df5b15fc5.m4a" length="50556866" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Ash Arnwine, Director of Developer Relations at Nylas, joins the Podcast. He describes the evolution of Nylas&amp;#39; APIs, which developers use to integrate various email and calendar platforms seamlessly into their applications. Ash emphasizes the company&amp;#39;s commitment to “meeting developers where they are at” through robust documentation and community engagement.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nylas.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Nylas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs help increase developer adoption of your APIs. Auto-generate SDKs with idiomatic libraries, language-specific documentation, dynamic code samples, and getting-started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:52:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36279227/36279227-1714505754423-c434b49104753.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[013: Goodbye Passwords, Hello Passkey]]></title>
+			<description><![CDATA[<p>Alex Patterson, the creator of CodingCat.dev and Developer Relations Engineer at FusionAuth, joins us to talk about the future of authentication. Alex educates me on Passkey and WebAuthN and explains how your mom won’t need to remember her password in the future. Alex also shares how Fusion Auth improves its developer onboarding through community, content, and product.</p>
+<ul>
+ <li><a href="https://fusionauth.io/" target="_blank" rel="noopener noreferer">FusionAuth</a></li>
+ <li><a href="https://codingcat.dev/" target="_blank" rel="noopener noreferer">CodingCat.dev</a></li>
+<p><br></p>
+</ul>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/013-Goodbye-Passwords--Hello-Passkey-e2hmr3v</link>
+			<guid isPermaLink="false">764fd9e2-c8c9-489d-87e3-1912e82c52ae</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Thu, 28 Mar 2024 21:38:15 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/84683327/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-28%2F372532859-44100-2-020d0fad2139b.m4a" length="39074258" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Alex Patterson, the creator of CodingCat.dev and Developer Relations Engineer at FusionAuth, joins us to talk about the future of authentication. Alex educates me on Passkey and WebAuthN and explains how your mom won’t need to remember her password in the future. Alex also shares how Fusion Auth improves its developer onboarding through community, content, and product.&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://fusionauth.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;FusionAuth&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://codingcat.dev/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;CodingCat.dev&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36279227/36279227-1711661843156-caa7a2cf98ab4.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[012: We all don’t need to be Twilio or Stripe]]></title>
+			<description><![CDATA[<p>Adam DuVander, author and founder of Every Developer joins the podcast to discuss how to rate your developer experience using his DX Index, the importance of providing a path from your homepage to developer resources and ways to attract new developers. He also shares a story of a company who found themselves with the wrong developers on their site.</p>
+<p><a href="https://everydeveloper.com/">⁠Every Developer⁠</a></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/012-We-all-dont-need-to-be-Twilio-or-Stripe-e29qk25</link>
+			<guid isPermaLink="false">39d0a270-802b-4656-881f-190fef531de6</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 26 Sep 2023 21:36:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/76418565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2Fb179399c-aa8b-830b-99f4-8f3f48d8fb43.m4a" length="43615696" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Adam DuVander, author and founder of Every Developer joins the podcast to discuss how to rate your developer experience using his DX Index, the importance of providing a path from your homepage to developer resources and ways to attract new developers. He also shares a story of a company who found themselves with the wrong developers on their site.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://everydeveloper.com/&quot;&gt;⁠Every Developer⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠⁠⁠⁠⁠⁠APIMatic⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:44:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[011: Leadership in Developer Experience]]></title>
+			<description><![CDATA[<p>Amara Graham leads the developer experience team at Cumunda where they own documentation and devtools for their evolving platform. She shares the challenges of hiring for her developer experience team and we dive into the question of how to measure successful documentation.</p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠⁠⁠⁠APIMatic⁠⁠⁠⁠</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/011-Leadership-in-Developer-Experience-e2980v8</link>
+			<guid isPermaLink="false">fd377198-eb8c-4b23-a0a0-8d945b31a208</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 12 Sep 2023 17:39:49 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/75809192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-12%2F9b8793aa-6903-4641-0a1d-68ca2e7ee5af.m4a" length="41883716" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Amara Graham leads the developer experience team at Cumunda where they own documentation and devtools for their evolving platform. She shares the challenges of hiring for her developer experience team and we dive into the question of how to measure successful documentation.&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠⁠⁠⁠APIMatic⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:43:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[010: Building Community: Learners, Builders & Advocates]]></title>
+			<description><![CDATA[<p><a href="https://www.linkedin.com/in/byrnereese/" target="_blank" rel="noopener noreferer">Byrne Reese</a>, Product Owner at RingCentral shares how he transitioned from engineering into product management and his love of building engaged and collaborative communities. He believes documentation is an investment in the long-term success of your community. We also dive into his developer pyramid as a model for companies looking to build up a developer community.</p>
+<p><a href="https://developers.ringcentral.com/" target="_blank" rel="noopener noreferer">RingCentral Developer Portal</a></p>
+<p><a href="https://dzone.com/articles/developer-relations-pyramid-a-tool-for-building-de" target="_blank" rel="noopener noreferer">Developer Pyramid: A Tool for Building Developer Programs</a></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠⁠⁠APIMatic⁠⁠⁠</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/010-Building-Community-Learners--Builders--Advocates-e28d37a</link>
+			<guid isPermaLink="false">3b013b83-916e-470f-b9cc-fbed44c5f13f</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 22 Aug 2023 15:43:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/74926762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-22%2Fe1a93f92-4c46-0c2b-bf7d-2d46056f963f.m4a" length="46818559" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/byrnereese/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Byrne Reese&lt;/a&gt;, Product Owner at RingCentral shares how he transitioned from engineering into product management and his love of building engaged and collaborative communities. He believes documentation is an investment in the long-term success of your community. We also dive into his developer pyramid as a model for companies looking to build up a developer community.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.ringcentral.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;RingCentral Developer Portal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dzone.com/articles/developer-relations-pyramid-a-tool-for-building-de&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Developer Pyramid: A Tool for Building Developer Programs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠⁠⁠APIMatic⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[009: Developer Relations at the C-Level]]></title>
+			<description><![CDATA[<p>Caroline Lewko, author and co-founder of devrel.agency joins me to discuss audience segmentation and building personas and the value of understanding the developer journey. We touch on external vs internal DX and Caroline shares when a C-Level DevRel role makes sense.</p>
+<p><a href="https://www.devrel.agency/developerjourney" target="_blank" rel="noopener noreferer">Developer Journey Map</a></p>
+<p><a href="https://www.devrel.agency/" target="_blank" rel="noopener noreferer">DevRel.Agency</a></p>
+<p><a href="https://www.stateofdeveloperrelations.com/" target="_blank" rel="noopener noreferer">10th Annual State of Developer Survey</a></p>
+<p><br></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠⁠⁠APIMatic⁠⁠⁠</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/009-Developer-Relations-at-the-C-Level-e27sjna</link>
+			<guid isPermaLink="false">cc9ac6f2-c610-416b-990e-e773411e1d54</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 08 Aug 2023 15:24:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/74386602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-8%2F0cc6a6ac-67e2-d12a-4ed2-40963cf50e11.m4a" length="37032663" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Caroline Lewko, author and co-founder of devrel.agency joins me to discuss audience segmentation and building personas and the value of understanding the developer journey. We touch on external vs internal DX and Caroline shares when a C-Level DevRel role makes sense.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.devrel.agency/developerjourney&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Developer Journey Map&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.devrel.agency/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;DevRel.Agency&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.stateofdeveloperrelations.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;10th Annual State of Developer Survey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠⁠⁠APIMatic⁠⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:38:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[008: API design influences everything]]></title>
+			<description><![CDATA[<p>Head of Developer Advocacy at Square, Richard Moot also leads the API design committee at Block. He explains the benefits of collaboration between internal API consumers and the API committee so guidelines are welcomed and internal developers don’t see the committee as an enforcement group. Richard shares the insight that APIs can be forever and every time a developer builds on a new API you should expect to support it for a long time. He also discusses ways companies are managing API changes and depreciation.</p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠⁠APIMatic⁠⁠</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/008-API-design-influences-everything-e27bve1</link>
+			<guid isPermaLink="false">4684dde0-1237-4f2d-8176-41677116087f</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 25 Jul 2023 15:04:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/73841537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-25%2Fabd08a7f-c792-4daf-17ae-93fd354c9c64.m4a" length="45557320" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Head of Developer Advocacy at Square, Richard Moot also leads the API design committee at Block. He explains the benefits of collaboration between internal API consumers and the API committee so guidelines are welcomed and internal developers don’t see the committee as an enforcement group. Richard shares the insight that APIs can be forever and every time a developer builds on a new API you should expect to support it for a long time. He also discusses ways companies are managing API changes and depreciation.&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠⁠APIMatic⁠⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:46:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[007: Tech is easy, people are hard]]></title>
+			<description><![CDATA[<p>Developer Experience Engineer, Steve Pousty from VMWare joins the podcast. Steve has over 17 years of experience working with developer communities. In our interview, we touched on many topics including the pros and cons of placing developer-facing roles within traditional teams like engineering, marketing and support. Steve shares advice on how to handle the overlap of responsibilities between DevRel and marketing by applying the rule “Clear boundaries, infinite possibilities”.</p>
+<p><br></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠APIMatic⁠</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/007-Tech-is-easy--people-are-hard-e26rai8</link>
+			<guid isPermaLink="false">a32dd388-0bf0-4af0-a97e-93db9564f324</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Wed, 12 Jul 2023 00:28:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/73295880/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-11%2F62e0f9e6-9d63-b3e3-1ecc-f795296b77c2.m4a" length="48922849" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Developer Experience Engineer, Steve Pousty from VMWare joins the podcast. Steve has over 17 years of experience working with developer communities. In our interview, we touched on many topics including the pros and cons of placing developer-facing roles within traditional teams like engineering, marketing and support. Steve shares advice on how to handle the overlap of responsibilities between DevRel and marketing by applying the rule “Clear boundaries, infinite possibilities”.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠APIMatic⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[006: Automating client SDKs with OpenAPI Generator]]></title>
+			<description><![CDATA[<p>Senior software engineer at Lob, Benny Kitchell sat down with us to talk about moving from hand written SDKs to auto generated client libraries and documentation using OpenAPI Generator. Benny shares some tips for those getting started with code generation. He also shares his philosophy around testing. We wrap up with a few dev tool recommendations.</p>
+<p><br></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">⁠APIMatic⁠</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/006-Automating-client-SDKs-with-OpenAPI-Generator-e260ugj</link>
+			<guid isPermaLink="false">2ee2d533-9e8c-452a-93e1-c3bc07ec7877</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Wed, 21 Jun 2023 15:41:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/72431571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-21%2F8d46709d-856f-bee2-7b63-a8e122906cb1.m4a" length="26464941" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Senior software engineer at Lob, Benny Kitchell sat down with us to talk about moving from hand written SDKs to auto generated client libraries and documentation using OpenAPI Generator. Benny shares some tips for those getting started with code generation. He also shares his philosophy around testing. We wrap up with a few dev tool recommendations.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;⁠APIMatic⁠&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API definition.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:27:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[005: Is Developer Experience the new DevRel?]]></title>
+			<description><![CDATA[<p>VP Developer Relations at JP Morgan, Kody O’Connell joins the podcast. We talk about his time at Xero, Optimizely and how he’s improving the DX at JP Morgan. We discuss the article by Kurt Kempel titled Redefining Developer Experience, Why DX is the New DevRel. Then we wrap up with a lightning round where Kody answers the question as we exit the COVID pandemic: are large developer conferences overrated or underrated in 2023?</p>
+<p><br></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">APIMatic</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API specifications.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/005-Is-Developer-Experience-the-new-DevRel-e25bmo5</link>
+			<guid isPermaLink="false">68233ab8-dfa4-4614-bc88-914243c07b4a</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 06 Jun 2023 22:35:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/71735493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-6%2Fa3bb9632-f7ab-0822-dd45-0244985009d8.m4a" length="30962838" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;VP Developer Relations at JP Morgan, Kody O’Connell joins the podcast. We talk about his time at Xero, Optimizely and how he’s improving the DX at JP Morgan. We discuss the article by Kurt Kempel titled Redefining Developer Experience, Why DX is the New DevRel. Then we wrap up with a lightning round where Kody answers the question as we exit the COVID pandemic: are large developer conferences overrated or underrated in 2023?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;APIMatic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API specifications.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:31:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[004: All your docs belong to us]]></title>
+			<description><![CDATA[<p>Phil Leggetter who’s built developer experiences at Pusher, Nexmo, Vonage, Ably and most recently Tigris Data joined me to share his thoughts on documentation. What does good documentation look like and are we ready to make the move towards great documentation? When I asked Phil to place DX on a maturity timeline, he responded that  developer experience is at the young adult stage, then reminded me that a lifecycle metaphor involves a “rebirth”. Adding the next iteration of developer experience needs to be a rebirth that incorporates AI technology and a change in the way developers interact with technology.</p>
+<p><br></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune">APIMatic</a></p>
+<p>APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API specifications.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/004-All-your-docs-belong-to-us-e24irvk</link>
+			<guid isPermaLink="false">e6e45e54-0e14-4ff3-a76b-13517afcb8e9</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 23 May 2023 19:07:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/70921652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-23%2Fc8623bf2-5fa5-8e09-e402-f19935711483.m4a" length="39376648" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Phil Leggetter who’s built developer experiences at Pusher, Nexmo, Vonage, Ably and most recently Tigris Data joined me to share his thoughts on documentation. What does good documentation look like and are we ready to make the move towards great documentation? When I asked Phil to place DX on a maturity timeline, he responded that  developer experience is at the young adult stage, then reminded me that a lifecycle metaphor involves a “rebirth”. Adding the next iteration of developer experience needs to be a rebirth that incorporates AI technology and a change in the way developers interact with technology.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot;&gt;APIMatic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by millions of developers. Auto-generate SDKs with idiomatic libraries, language specific documentation, dynamic code samples and getting started guides from your API specifications.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[003: Tale of two definitions for developer experience]]></title>
+			<description><![CDATA[<p>Luke Kilpatrick, developer marketing leader joins us and discusses the importance of building trust with developers. We touch on the two competing definitions of developer experience we see today and some of the tools internal developer experience teams use.</p>
+<p>Luke cautions against placing demand generation metrics on your developer relations team and offers advice when joining a new company and building internal relationships.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/003-Tale-of-two-definitions-for-developer-experience-e23p2p7</link>
+			<guid isPermaLink="false">6e8658c7-431e-4ae8-a3cd-f6fce63a3a62</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 09 May 2023 15:48:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/70076647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-9%2F0ebe4a4b-05b4-7305-fbee-a498d68ed004.m4a" length="27338823" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Luke Kilpatrick, developer marketing leader joins us and discusses the importance of building trust with developers. We touch on the two competing definitions of developer experience we see today and some of the tools internal developer experience teams use.&lt;/p&gt;
+&lt;p&gt;Luke cautions against placing demand generation metrics on your developer relations team and offers advice when joining a new company and building internal relationships.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:28:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36279227/36279227-1681395105350-82d4071164cca.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[002: Don’t use our API, use our SDKs for better DX]]></title>
+			<description><![CDATA[<p>Brian Rinaldi, Developer Experience Engineer at LaunchDarkly joins us to discuss the role of SDKs to enable integration of feature flags in multiple environments. Brian’s work involves creating technical guides, code samples and tutorials to support emerging technologies.</p>
+<p><br></p>
+<ul>
+ <li><a href="https://launchdarkly.com/" target="_blank" rel="noopener noreferer">Launch Darkly</a></li>
+ <li><a href="https://astro.build/" target="_blank" rel="noopener noreferer">Astro</a></li>
+</ul>
+<p><br></p>
+<p>Brought to you by <a href="https://www.apimatic.io/?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune" target="_blank" rel="noopener noreferer">APIMatic</a></p>
+<p>APIMatic SDKs are used by <strong>millions of developers.</strong> Auto-generate SDKs with <strong>idiomatic libraries</strong>, language specific documentation, <strong>dynamic code samples</strong> and getting started guides from your API specifications.</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/002-Dont-use-our-API--use-our-SDKs-for-better-DX-e230lsl</link>
+			<guid isPermaLink="false">48a32062-54d0-439a-b304-1ce2bd7911c8</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Tue, 25 Apr 2023 18:39:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/69277013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2F2b163224-0d53-44e2-0cad-c080a8116152.m4a" length="37370419" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Brian Rinaldi, Developer Experience Engineer at LaunchDarkly joins us to discuss the role of SDKs to enable integration of feature flags in multiple environments. Brian’s work involves creating technical guides, code samples and tutorials to support emerging technologies.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://launchdarkly.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Launch Darkly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://astro.build/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Astro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io/?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;APIMatic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by &lt;strong&gt;millions of developers.&lt;/strong&gt; Auto-generate SDKs with &lt;strong&gt;idiomatic libraries&lt;/strong&gt;, language specific documentation, &lt;strong&gt;dynamic code samples&lt;/strong&gt; and getting started guides from your API specifications.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:38:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36279227/36279227-1683648447599-b181947fd3bbe.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[001: Wonder DX powers activate! with Richard Fortune]]></title>
+			<description><![CDATA[<p>Former Product Owner for Xero’s Developer Platform, <a href="https://www.linkedin.com/in/richardofortune/" target="_blank" rel="noopener noreferer">Richard Fortune</a>, joins the podcast to discuss how persistent engagement helps developers grow along with your technology. He share’s how the tight feedback loop between Xero’s developer advocates and his product team was a super power for pushing the developer experience forward. Richard also touches on the API health dashboard built to promote better behavior by surfacing KPIs on API usage to developers.</p>
+<p>Brought to you by <a href="https://www.apimatic.io?utm_medium=podcast&utm_source=artofdx&utm_content=richardfortune" target="_blank" rel="noopener noreferer">APIMatic</a></p>
+<p>APIMatic SDKs are used by <strong>millions of developers.</strong> Auto-generate SDKs with <strong>idiomatic libraries</strong>, language specific documentation, <strong>dynamic code samples</strong> and getting started guides from your API specifications.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/art-of-dx/episodes/001-Wonder-DX-powers-activate--with-Richard-Fortune-e1t5vr6</link>
+			<guid isPermaLink="false">c8c73719-6a9b-4dfe-862f-a7a60d8ccd20</guid>
+			<dc:creator><![CDATA[APIMatic]]></dc:creator>
+			<pubDate>Wed, 12 Apr 2023 01:04:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/d8d64b8c/podcast/play/63159590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-12%2Faf0d0d76-e1ee-dba9-f67e-a598b5f77085.m4a" length="38535093" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Former Product Owner for Xero’s Developer Platform, &lt;a href=&quot;https://www.linkedin.com/in/richardofortune/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Richard Fortune&lt;/a&gt;, joins the podcast to discuss how persistent engagement helps developers grow along with your technology. He share’s how the tight feedback loop between Xero’s developer advocates and his product team was a super power for pushing the developer experience forward. Richard also touches on the API health dashboard built to promote better behavior by surfacing KPIs on API usage to developers.&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.apimatic.io?utm_medium=podcast&amp;utm_source=artofdx&amp;utm_content=richardfortune&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;APIMatic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APIMatic SDKs are used by &lt;strong&gt;millions of developers.&lt;/strong&gt; Auto-generate SDKs with &lt;strong&gt;idiomatic libraries&lt;/strong&gt;, language specific documentation, &lt;strong&gt;dynamic code samples&lt;/strong&gt; and getting started guides from your API specifications.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36279227/36279227-1683648473305-7362374b90358.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

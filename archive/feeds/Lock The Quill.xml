@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/2074298.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Lock The Quill</title>
+
+  <lastBuildDate>Fri, 21 Feb 2025 19:53:15 -0500</lastBuildDate>
+  <link>https://lockthequill.buzzsprout.com</link>
+  <language>en-us</language>
+  <copyright>© 2025 Lock The Quill</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>afa98797-ff10-5234-bc61-2ae298432a54</podcast:guid>
+  <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[<p>Interviews and antics from the Massachusetts Institute of Technology's Department of Mechanical Engineering Pappalardo Lab - the most wicked lab on campus.</p>]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:owner>
+    <itunes:name>MIT Mechanical Engineering Pappalardo Lab</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/u2kjtqjjf4kux8ise9kthksja5m7?.jpg</url>
+     <title>Lock The Quill</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/u2kjtqjjf4kux8ise9kthksja5m7?.jpg" />
+  <itunes:category text="Technology" />
+  <itunes:category text="Education" />
+  <itunes:category text="Science" />
+  <podcast:person role="host" href="http://web.mit.edu/pappalardolab/www/index.html" img="https://storage.buzzsprout.com/ovpafgqg07xos1njfgsn5zzptvlt">Daniel Braunstein</podcast:person>
+  <item>
+    <itunes:title>Community, Excellence, &amp; Service: The CEO for the National Society of Black Engineers (NSBE), Janeen Uzzell, comes to MIT - EP 17</itunes:title>
+    <title>Community, Excellence, &amp; Service: The CEO for the National Society of Black Engineers (NSBE), Janeen Uzzell, comes to MIT - EP 17</title>
+    <itunes:summary><![CDATA[The CEO of the National Society of Black Engineers, Janeen Uzzell, heads to the lab at MIT to chat about her early years at NC A&amp;T, the NSBE mission, programs, leadership, and family. We also hear about the upcoming NSBE 50th celebration in Chicago and check-in with a few students and alumni.  Janeen is awesome - she also lectured for our 2.009 students and MIT community about boots-on-the-ground field work in product development and delivery, and the importance of diverse developmen...]]></itunes:summary>
+    <description><![CDATA[<p>The CEO of the National Society of Black Engineers, Janeen Uzzell, heads to the lab at MIT to chat about her early years at NC A&amp;T, the NSBE mission, programs, leadership, and family. We also hear about the upcoming NSBE 50th celebration in Chicago and check-in with a few students and alumni. </p><p>Janeen is awesome - she also lectured for our 2.009 students and MIT community about boots-on-the-ground field work in product development and delivery, and the importance of diverse development teams. </p><p>Thank you Janeen! </p><p>https://nsbe.org/</p><p>https://convention.nsbe.org/</p><p><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>The CEO of the National Society of Black Engineers, Janeen Uzzell, heads to the lab at MIT to chat about her early years at NC A&amp;T, the NSBE mission, programs, leadership, and family. We also hear about the upcoming NSBE 50th celebration in Chicago and check-in with a few students and alumni. </p><p>Janeen is awesome - she also lectured for our 2.009 students and MIT community about boots-on-the-ground field work in product development and delivery, and the importance of diverse development teams. </p><p>Thank you Janeen! </p><p>https://nsbe.org/</p><p>https://convention.nsbe.org/</p><p><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/16665779-community-excellence-service-the-ceo-for-the-national-society-of-black-engineers-nsbe-janeen-uzzell-comes-to-mit-ep-17.mp3" length="33683787" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16665779</guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 -0500</pubDate>
+    <itunes:duration>2802</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Ely Sachs on Guided Discovery, Plus a Trip to Lobby 7 - EP 16</itunes:title>
+    <title>Professor Ely Sachs on Guided Discovery, Plus a Trip to Lobby 7 - EP 16</title>
+    <itunes:summary><![CDATA[We take our mobile studio to Lobby 7 and kibitz with students, while Bill recruits unsuspecting visitors (with mixed results).  MIT Professor Ely Sachs, the pioneer in 3-D printing, then spends time with us in the lab talking about education, learning, and his over two decades developing Guided Discovery - his pedagogy that has been foundational at MIT MechE and beyond, guiding students to encounter the wonders of key scientific principles.      Podcast specific: Podcast Instagram: ...]]></itunes:summary>
+    <description><![CDATA[<p>We take our mobile studio to Lobby 7 and kibitz with students, while Bill recruits unsuspecting visitors (with mixed results).<br/><br/>MIT Professor Ely Sachs, the pioneer in 3-D printing, then spends time with us in the lab talking about education, learning, and his over two decades developing Guided Discovery - his pedagogy that has been foundational at MIT MechE and beyond, guiding students to encounter the wonders of key scientific principles.   <br/><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We take our mobile studio to Lobby 7 and kibitz with students, while Bill recruits unsuspecting visitors (with mixed results).<br/><br/>MIT Professor Ely Sachs, the pioneer in 3-D printing, then spends time with us in the lab talking about education, learning, and his over two decades developing Guided Discovery - his pedagogy that has been foundational at MIT MechE and beyond, guiding students to encounter the wonders of key scientific principles.   <br/><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/16034520-professor-ely-sachs-on-guided-discovery-plus-a-trip-to-lobby-7-ep-16.mp3" length="37425869" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16034520</guid>
+    <pubDate>Sat, 02 Nov 2024 01:00:00 -0400</pubDate>
+    <itunes:duration>3114</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Talking with the Engineer About Poetry: L.S. McKee on Creature, Wing, Heart, Machine and a Dept Head PSA - EP 15</itunes:title>
+    <title>Talking with the Engineer About Poetry: L.S. McKee on Creature, Wing, Heart, Machine and a Dept Head PSA - EP 15</title>
+    <itunes:summary><![CDATA[L.S. McKee joins us in the lab to talk about her new collection of poetry, Creature, Wing, Heart, Machine. Laura and I taught 2.009 together for a few years before she moved down south. Laura was a lecturer in the Writing, Rhetoric, and Professional Communication Program at MIT before moving on to UGA, Athens, where she is Coordinator for Writing Across the Curriculum in the English Department.  https://lsmckee.com/index.html https://www.english.uga.edu/directory/people/laura-s-mckee Also, wr...]]></itunes:summary>
+    <description><![CDATA[<p>L.S. McKee joins us in the lab to talk about her new collection of poetry, Creature, Wing, Heart, Machine.<br/>Laura and I taught 2.009 together for a few years before she moved down south. Laura was a lecturer in the Writing, Rhetoric, and Professional Communication Program at MIT before moving on to UGA, Athens, where she is Coordinator for Writing Across the Curriculum in the English Department. <br/><a href='https://lsmckee.com/index.html'>https://lsmckee.com/index.html</a><br/><a href='https://www.english.uga.edu/directory/people/laura-s-mckee'>https://www.english.uga.edu/directory/people/laura-s-mckee</a><br/>Also, writer and educator, Stacy Mattingly, of BU and Berklee College of Music joins the conversation<br/><a href='https://www.stacymattingly.com/'>https://www.stacymattingly.com/</a><br/><br/>We start with an announcement from Department Head, Professor John Hart on the MechE 150 celebration. <br/><br/>Enjoy!<br/><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>L.S. McKee joins us in the lab to talk about her new collection of poetry, Creature, Wing, Heart, Machine.<br/>Laura and I taught 2.009 together for a few years before she moved down south. Laura was a lecturer in the Writing, Rhetoric, and Professional Communication Program at MIT before moving on to UGA, Athens, where she is Coordinator for Writing Across the Curriculum in the English Department. <br/><a href='https://lsmckee.com/index.html'>https://lsmckee.com/index.html</a><br/><a href='https://www.english.uga.edu/directory/people/laura-s-mckee'>https://www.english.uga.edu/directory/people/laura-s-mckee</a><br/>Also, writer and educator, Stacy Mattingly, of BU and Berklee College of Music joins the conversation<br/><a href='https://www.stacymattingly.com/'>https://www.stacymattingly.com/</a><br/><br/>We start with an announcement from Department Head, Professor John Hart on the MechE 150 celebration. <br/><br/>Enjoy!<br/><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/15062300-talking-with-the-engineer-about-poetry-l-s-mckee-on-creature-wing-heart-machine-and-a-dept-head-psa-ep-15.mp3" length="37691497" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15062300</guid>
+    <pubDate>Mon, 13 May 2024 17:00:00 -0400</pubDate>
+    <itunes:duration>3136</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Sudden Cardiac Arrest and the Avive Story, Lock the Quill Office Hours - EP 14</itunes:title>
+    <title>Sudden Cardiac Arrest and the Avive Story, Lock the Quill Office Hours - EP 14</title>
+    <itunes:summary><![CDATA[Three alumni stop by the lab to tell the story of how they took a class assignment at 2am, developed it into their senior capstone project, and ultimately founded a medical device company that, six years later, received Class III Premarket Approval from the FDA. Avive is the youngest team to receive such a PMA and their founders were selected for the 2024 Forbes 30 Under 30. Their Automated External Defibrillator, the Avive Connect AED, is the first major innovation in the space for decades, ...]]></itunes:summary>
+    <description><![CDATA[<p>Three alumni stop by the lab to tell the story of how they took a class assignment at 2am, developed it into their senior capstone project, and ultimately founded a medical device company that, six years later, received Class III Premarket Approval from the FDA. Avive is the youngest team to receive such a PMA and their founders were selected for the 2024 Forbes 30 Under 30.<br/>Their Automated External Defibrillator, the Avive Connect AED, is the first major innovation in the space for decades, and will, no doubt, save lives.<br/><a href='https://avive.life'>https://avive.life</a><br/>IG: @avive_solutions<br/>...but we start with Lock the Quill Office Hours.   <br/><br/> </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Three alumni stop by the lab to tell the story of how they took a class assignment at 2am, developed it into their senior capstone project, and ultimately founded a medical device company that, six years later, received Class III Premarket Approval from the FDA. Avive is the youngest team to receive such a PMA and their founders were selected for the 2024 Forbes 30 Under 30.<br/>Their Automated External Defibrillator, the Avive Connect AED, is the first major innovation in the space for decades, and will, no doubt, save lives.<br/><a href='https://avive.life'>https://avive.life</a><br/>IG: @avive_solutions<br/>...but we start with Lock the Quill Office Hours.   <br/><br/> </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/14247998-sudden-cardiac-arrest-and-the-avive-story-lock-the-quill-office-hours-ep-14.mp3" length="34988099" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14247998</guid>
+    <pubDate>Thu, 04 Jan 2024 12:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2074298/14247998/transcript" type="text/html" />
+    <itunes:duration>2911</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Gilbert Strang: A Birthday, Conversation, and Greatest Hits - EP 13</itunes:title>
+    <title>Professor Gilbert Strang: A Birthday, Conversation, and Greatest Hits - EP 13</title>
+    <itunes:summary><![CDATA[One of my favorite professors, Gilbert Strang, comes by the lab to talk about his time at MIT since 1952. Anyone who knows professor Strang knows him to be one of the best mathematics teachers and a prolific writer with a heart of gold.  Professor Strang retired last spring (2023). His last 18.06 lecture was to a packed standing room of students, staff, faculty, friends, and family. We are privileged to have him visit the lab for this conversation.  ...and Happy Birthday Professor!!   Podcast...]]></itunes:summary>
+    <description><![CDATA[<p>One of my favorite professors, Gilbert Strang, comes by the lab to talk about his time at MIT since 1952. Anyone who knows professor Strang knows him to be one of the best mathematics teachers and a prolific writer with a heart of gold. <br/>Professor Strang retired last spring (2023). His last 18.06 lecture was to a packed standing room of students, staff, faculty, friends, and family. We are privileged to have him visit the lab for this conversation.<br/><br/>...and <b>Happy Birthday Professor!!</b><br/><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>One of my favorite professors, Gilbert Strang, comes by the lab to talk about his time at MIT since 1952. Anyone who knows professor Strang knows him to be one of the best mathematics teachers and a prolific writer with a heart of gold. <br/>Professor Strang retired last spring (2023). His last 18.06 lecture was to a packed standing room of students, staff, faculty, friends, and family. We are privileged to have him visit the lab for this conversation.<br/><br/>...and <b>Happy Birthday Professor!!</b><br/><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/14030356-professor-gilbert-strang-a-birthday-conversation-and-greatest-hits-ep-13.mp3" length="21439323" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14030356</guid>
+    <pubDate>Sat, 25 Nov 2023 00:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2074298/14030356/transcript" type="text/html" />
+    <itunes:duration>1782</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Faculty and Friends Soundbites: Season One Hot Wash, Season Two Preview, and a Contest</itunes:title>
+    <title>Faculty and Friends Soundbites: Season One Hot Wash, Season Two Preview, and a Contest</title>
+    <itunes:summary><![CDATA[After President Kornbluth's inauguration, end-of-year projects, finals, commencement, and a long summer break, we've ramped up for a second season.   A three minute review of the more frivolous moments of season one, and a quick teaser of the soon-to-be-released season two premiere.    Podcast specific: Podcast Instagram: @lockthequill Comments or questions: lockthequill@mit.edu   The Lab at MIT: Pappalardo Lab Instagram: @pappalardolab Comments or questions: pappalardolab@mit.edu  Pappa...]]></itunes:summary>
+    <description><![CDATA[<p>After President Kornbluth&apos;s inauguration, end-of-year projects, finals, commencement, and a long summer break, we&apos;ve ramped up for a second season. <br/><br/>A three minute review of the more frivolous moments of season one, and a quick teaser of the soon-to-be-released season two premiere.<br/><br/><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>After President Kornbluth&apos;s inauguration, end-of-year projects, finals, commencement, and a long summer break, we&apos;ve ramped up for a second season. <br/><br/>A three minute review of the more frivolous moments of season one, and a quick teaser of the soon-to-be-released season two premiere.<br/><br/><br/></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/13982447-faculty-and-friends-soundbites-season-one-hot-wash-season-two-preview-and-a-contest.mp3" length="2579480" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13982447</guid>
+    <pubDate>Thu, 16 Nov 2023 00:00:00 -0500</pubDate>
+    <itunes:duration>210</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>MIT President Sally Kornbluth, Inauguration Weekend, Grounds Department, and a Presidential Quiz - Ep 12</itunes:title>
+    <title>MIT President Sally Kornbluth, Inauguration Weekend, Grounds Department, and a Presidential Quiz - Ep 12</title>
+    <itunes:summary><![CDATA[As campus prepares for inaugural events, MIT's 18th President, Dr. Sally Kornbluth, visits the lab to talk with us about her move from Provost at Duke University in Durham NC to President of MIT. We talk about leadership, the early read on campus, and some thoughts about getting the job done.  We meet Lock the Quill's newest feet on the street, Danny and Dylan, of the Grounds Department, and we close the episode with an MIT presidents quiz with a number of students.  President Kornbluth's pod...]]></itunes:summary>
+    <description><![CDATA[<p>As campus prepares for inaugural events, MIT&apos;s 18th President, Dr. Sally Kornbluth, visits the lab to talk with us about her move from Provost at Duke University in Durham NC to President of MIT. We talk about leadership, the early read on campus, and some thoughts about getting the job done. <br/>We meet Lock the Quill&apos;s newest feet on the street, Danny and Dylan, of the Grounds Department, and we close the episode with an MIT presidents quiz with a number of students.<br/><br/>President Kornbluth&apos;s podcast, Curiosity Unbounded: <a href='https://news.mit.edu/2023/curiosity-unbounded-podcast-desiree-plata-0419'>https://news.mit.edu/2023/curiosity-unbounded-podcast-desiree-plata-0419</a><br/><br/> </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>As campus prepares for inaugural events, MIT&apos;s 18th President, Dr. Sally Kornbluth, visits the lab to talk with us about her move from Provost at Duke University in Durham NC to President of MIT. We talk about leadership, the early read on campus, and some thoughts about getting the job done. <br/>We meet Lock the Quill&apos;s newest feet on the street, Danny and Dylan, of the Grounds Department, and we close the episode with an MIT presidents quiz with a number of students.<br/><br/>President Kornbluth&apos;s podcast, Curiosity Unbounded: <a href='https://news.mit.edu/2023/curiosity-unbounded-podcast-desiree-plata-0419'>https://news.mit.edu/2023/curiosity-unbounded-podcast-desiree-plata-0419</a><br/><br/> </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/12740592-mit-president-sally-kornbluth-inauguration-weekend-grounds-department-and-a-presidential-quiz-ep-12.mp3" length="28718475" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12740592</guid>
+    <pubDate>Fri, 28 Apr 2023 02:00:00 -0400</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2074298/12740592/transcript" type="text/html" />
+    <itunes:duration>2388</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Sangbae Kim on the Virtual-Physical Divide, Robotic Cheetahs, Physical Intelligence, and Cognitive Bias - Ep 11</itunes:title>
+    <title>Professor Sangbae Kim on the Virtual-Physical Divide, Robotic Cheetahs, Physical Intelligence, and Cognitive Bias - Ep 11</title>
+    <itunes:summary><![CDATA[MIT mechanical engineering professor Sangbae Kim drops by after 2.007 lecture to talk about the virtual / physical divide and his concept of physical intelligence - the  seemingly impenetrable category of subconscious physical tasks and motions that carries so much potential for the future of robotics and physical services. We talk about his research and his group's shift to the integration of machine learning and model-based control, Moravec's paradox, and a couple of cats.  Cognitive b...]]></itunes:summary>
+    <description><![CDATA[<p>MIT mechanical engineering professor Sangbae Kim drops by after 2.007 lecture to talk about the virtual / physical divide and his concept of physical intelligence - the  seemingly impenetrable category of subconscious physical tasks and motions that carries so much potential for the future of robotics and physical services.<br/>We talk about his research and his group&apos;s shift to the integration of machine learning and model-based control, Moravec&apos;s paradox, and a couple of cats.<br/><br/>Cognitive bias: <a href='https://spectrum.ieee.org/humans-cognitive-biases-facing-ai'>https://spectrum.ieee.org/humans-cognitive-biases-facing-ai</a><br/>Professor Kim: <a href='https://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU'>https://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU</a><br/><br/>Keep those entries coming for the Lock the Quill Global Challenge!</p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>MIT mechanical engineering professor Sangbae Kim drops by after 2.007 lecture to talk about the virtual / physical divide and his concept of physical intelligence - the  seemingly impenetrable category of subconscious physical tasks and motions that carries so much potential for the future of robotics and physical services.<br/>We talk about his research and his group&apos;s shift to the integration of machine learning and model-based control, Moravec&apos;s paradox, and a couple of cats.<br/><br/>Cognitive bias: <a href='https://spectrum.ieee.org/humans-cognitive-biases-facing-ai'>https://spectrum.ieee.org/humans-cognitive-biases-facing-ai</a><br/>Professor Kim: <a href='https://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU'>https://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU</a><br/><br/>Keep those entries coming for the Lock the Quill Global Challenge!</p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/12666716-professor-sangbae-kim-on-the-virtual-physical-divide-robotic-cheetahs-physical-intelligence-and-cognitive-bias-ep-11.mp3" length="24983521" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12666716</guid>
+    <pubDate>Mon, 17 Apr 2023 11:00:00 -0400</pubDate>
+    <itunes:duration>2077</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Maria Yang on Design at MIT and Stanford, AI and Design, Sketching, the Morningside Academy for Design, and the Splendor of Acronyms - Ep 10</itunes:title>
+    <title>Professor Maria Yang on Design at MIT and Stanford, AI and Design, Sketching, the Morningside Academy for Design, and the Splendor of Acronyms - Ep 10</title>
+    <itunes:summary><![CDATA[Professor Maria Yang comes to the lab to talk about the early years at MIT and Stanford, and her research in design processes. We also chat about the discipline, and she shares the latest scuttlebutt on the Morningside Academy for Design.   We send off another sticker to the March Global Challenge winner, and test Maria's acronym and abbreviation recall skills.  Spoiler: she knows them...really well.  Morningside Academy for Design: https://design.mit.edu/ Maria Yang: https://meche.mit.e...]]></itunes:summary>
+    <description><![CDATA[<p>Professor Maria Yang comes to the lab to talk about the early years at MIT and Stanford, and her research in design processes. We also chat about the discipline, and she shares the latest scuttlebutt on the Morningside Academy for Design. <br/><br/>We send off another sticker to the March Global Challenge winner, and test Maria&apos;s acronym and abbreviation recall skills.  Spoiler: she knows them...really well.<br/><br/>Morningside Academy for Design: <a href='https://design.mit.edu/'>https://design.mit.edu/</a><br/>Maria Yang: <a href='https://meche.mit.edu/people/faculty/MCYANG@MIT.EDU'>https://meche.mit.edu/people/faculty/MCYANG@MIT.EDU</a></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Professor Maria Yang comes to the lab to talk about the early years at MIT and Stanford, and her research in design processes. We also chat about the discipline, and she shares the latest scuttlebutt on the Morningside Academy for Design. <br/><br/>We send off another sticker to the March Global Challenge winner, and test Maria&apos;s acronym and abbreviation recall skills.  Spoiler: she knows them...really well.<br/><br/>Morningside Academy for Design: <a href='https://design.mit.edu/'>https://design.mit.edu/</a><br/>Maria Yang: <a href='https://meche.mit.edu/people/faculty/MCYANG@MIT.EDU'>https://meche.mit.edu/people/faculty/MCYANG@MIT.EDU</a></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/12553113-professor-maria-yang-on-design-at-mit-and-stanford-ai-and-design-sketching-the-morningside-academy-for-design-and-the-splendor-of-acronyms-ep-10.mp3" length="29400390" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12553113</guid>
+    <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2074298/12553113/transcript" type="text/html" />
+    <itunes:duration>2443</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Kaitlyn Becker comes home to MIT: Flash Your Punty! Glassblowing, Soft Robotics, Flute, and Dinosaurs - Ep 9</itunes:title>
+    <title>Professor Kaitlyn Becker comes home to MIT: Flash Your Punty! Glassblowing, Soft Robotics, Flute, and Dinosaurs - Ep 9</title>
+    <itunes:summary><![CDATA[We first met Kait when she was an undergrad with us at MIT, and now she's back home as Professor Becker with the Department of Mechanical Engineering. We talk about her experiences with the MIT Glass Lab and Pappalardo Lab, her post-graduate research with Rob Wood at Harvard, and her current projects at MIT.   We also chat about music and hatch a plan to roam the infinite corridor in T. Rex costumes.   So happy to have you back as part of the team, Kait!   https://kaitbecker.com/ https:/...]]></itunes:summary>
+    <description><![CDATA[<p>We first met Kait when she was an undergrad with us at MIT, and now she&apos;s back home as Professor Becker with the Department of Mechanical Engineering.<br/>We talk about her experiences with the MIT Glass Lab and Pappalardo Lab, her post-graduate research with Rob Wood at Harvard, and her current projects at MIT. <br/><br/>We also chat about music and hatch a plan to roam the infinite corridor in T. Rex costumes. <br/><br/>So happy to have you back as part of the team, Kait!<br/><br/> <a href='https://kaitbecker.com/'>https://kaitbecker.com/</a><br/><a href='https://meche.mit.edu/people/faculty/kait@mit.edu'>https://meche.mit.edu/people/faculty/kait@mit.edu</a><br/><br/>...and Bill responds to a heartfelt email. </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We first met Kait when she was an undergrad with us at MIT, and now she&apos;s back home as Professor Becker with the Department of Mechanical Engineering.<br/>We talk about her experiences with the MIT Glass Lab and Pappalardo Lab, her post-graduate research with Rob Wood at Harvard, and her current projects at MIT. <br/><br/>We also chat about music and hatch a plan to roam the infinite corridor in T. Rex costumes. <br/><br/>So happy to have you back as part of the team, Kait!<br/><br/> <a href='https://kaitbecker.com/'>https://kaitbecker.com/</a><br/><a href='https://meche.mit.edu/people/faculty/kait@mit.edu'>https://meche.mit.edu/people/faculty/kait@mit.edu</a><br/><br/>...and Bill responds to a heartfelt email. </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/12467885-professor-kaitlyn-becker-comes-home-to-mit-flash-your-punty-glassblowing-soft-robotics-flute-and-dinosaurs-ep-9.mp3" length="33848143" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12467885</guid>
+    <pubDate>Sun, 19 Mar 2023 01:00:00 -0400</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2074298/12467885/transcript" type="text/html" />
+    <itunes:duration>2814</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>President Sanjay Sarma heads to Malaysia. Grasp, Thorndike, Dewey, MIT, and a 2.007 Memento - Ep 8</itunes:title>
+    <title>President Sanjay Sarma heads to Malaysia. Grasp, Thorndike, Dewey, MIT, and a 2.007 Memento - Ep 8</title>
+    <itunes:summary><![CDATA[We intercepted Sanjay Sarma before he took off for Logan Airport and meet in building 35 to discuss his book, Grasp - the Science Transforming How We Learn, education, and MIT. Professor Sarma recently stepped down as MIT Vice President of Open Learning where he led MIT initiatives, such as MITx, edX, OpenCourseware, the Integrated Learning Initiative, and many others.  He is now heading to Malaysia, to take the tiller as President and CEO of the Asia School of Business.  https://asb.edu...]]></itunes:summary>
+    <description><![CDATA[<p>We intercepted Sanjay Sarma before he took off for Logan Airport and meet in building 35 to discuss his book, <em>Grasp - the Science Transforming How We Learn</em>, education, and MIT.<br/>Professor Sarma recently stepped down as MIT Vice President of Open Learning where he led MIT initiatives, such as MITx, edX, OpenCourseware, the Integrated Learning Initiative, and many others.  He is now heading to Malaysia, to take the tiller as President and CEO of the Asia School of Business. <br/><a href='https://asb.edu.my/'>https://asb.edu.my/</a><br/><br/>Another Lock the Quill Global Challenge winner is announced, and we reset the meter for March. Email your address to lockthequill@mit.edu. The farthest listener in March will win a Lock the Quill sticker, and *may* be a contender for a coveted T-shirt, though the competition is fierce. <br/><br/>Thanks to Professor Evan Ziporyn for the MIT Gamelan track!<br/><a href='https://arts.mit.edu/cast/'>https://arts.mit.edu/cast/</a></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We intercepted Sanjay Sarma before he took off for Logan Airport and meet in building 35 to discuss his book, <em>Grasp - the Science Transforming How We Learn</em>, education, and MIT.<br/>Professor Sarma recently stepped down as MIT Vice President of Open Learning where he led MIT initiatives, such as MITx, edX, OpenCourseware, the Integrated Learning Initiative, and many others.  He is now heading to Malaysia, to take the tiller as President and CEO of the Asia School of Business. <br/><a href='https://asb.edu.my/'>https://asb.edu.my/</a><br/><br/>Another Lock the Quill Global Challenge winner is announced, and we reset the meter for March. Email your address to lockthequill@mit.edu. The farthest listener in March will win a Lock the Quill sticker, and *may* be a contender for a coveted T-shirt, though the competition is fierce. <br/><br/>Thanks to Professor Evan Ziporyn for the MIT Gamelan track!<br/><a href='https://arts.mit.edu/cast/'>https://arts.mit.edu/cast/</a></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/12328488-president-sanjay-sarma-heads-to-malaysia-grasp-thorndike-dewey-mit-and-a-2-007-memento-ep-8.mp3" length="31999574" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12328488</guid>
+    <pubDate>Sun, 26 Feb 2023 00:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2074298/12328488/transcript" type="text/html" />
+    <itunes:duration>2660</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Alex Slocum on Timoshenko, The National Bureau of Standards, and MIT - Ep 7</itunes:title>
+    <title>Professor Alex Slocum on Timoshenko, The National Bureau of Standards, and MIT - Ep 7</title>
+    <itunes:summary><![CDATA[Alex Slocum comes by the lab before we head out to a talk. We chat about mentors, influential professors, and his early days at the National Bureau of Standards (now NIST). Alex takes us on his journey bouncing between MIT and "the Bureau", finally landing in building 35 at MIT.  He talks about our sophomore design class, 2.007, a special project at the National Archives, and shares his thoughts on fixing things and moving us forward.  Professor Dave Hardt drops in to clarify the re...]]></itunes:summary>
+    <description><![CDATA[<p>Alex Slocum comes by the lab before we head out to a talk. We chat about mentors, influential professors, and his early days at the National Bureau of Standards (now NIST). Alex takes us on his journey bouncing between MIT and &quot;the Bureau&quot;, finally landing in building 35 at MIT. <br/>He talks about our sophomore design class, 2.007, a special project at the National Archives, and shares his thoughts on fixing things and moving us forward. <br/>Professor Dave Hardt drops in to clarify the record. </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Alex Slocum comes by the lab before we head out to a talk. We chat about mentors, influential professors, and his early days at the National Bureau of Standards (now NIST). Alex takes us on his journey bouncing between MIT and &quot;the Bureau&quot;, finally landing in building 35 at MIT. <br/>He talks about our sophomore design class, 2.007, a special project at the National Archives, and shares his thoughts on fixing things and moving us forward. <br/>Professor Dave Hardt drops in to clarify the record. </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/12229404-professor-alex-slocum-on-timoshenko-the-national-bureau-of-standards-and-mit-ep-7.mp3" length="40292067" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12229404</guid>
+    <pubDate>Sat, 11 Feb 2023 00:00:00 -0500</pubDate>
+    <itunes:duration>3351</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Lauren Looks for a Job - Internships, Experience, Networks, and Design Consultancies - Ep 6</itunes:title>
+    <title>Lauren Looks for a Job - Internships, Experience, Networks, and Design Consultancies - Ep 6</title>
+    <itunes:summary><![CDATA[MIT alumna and friend of the lab, Lauren Hernley, recounts her path to finding a job with a design consultancy, after encountering some speed-bumps along the way. Hear from Lauren and industry leaders about the importance of experience, real skills, and relationships.  Plus, our first Lock the Quill Global Challenge winner is announced and Scott and Danny try to figure out the Austin ice skating thing.   Thanks to: Lauren Hernley, MIT '13, M3 Design John Devlin, Essential Design, https://esse...]]></itunes:summary>
+    <description><![CDATA[<p>MIT alumna and friend of the lab, Lauren Hernley, recounts her path to finding a job with a design consultancy, after encountering some speed-bumps along the way. Hear from Lauren and industry leaders about the importance of experience, real skills, and relationships. <br/>Plus, our first Lock the Quill Global Challenge winner is announced and Scott and Danny try to figure out the Austin ice skating thing. <br/><br/><b>Thanks to:<br/></b>Lauren Hernley, MIT &apos;13, M3 Design<br/>John Devlin, Essential Design, <a href='https://essentialdesign.com/'>https://essentialdesign.com/</a><br/>Mark Foohey and Kevin Gentry, M3 Design, <a href='https://www.m3design.com/'> https://www.m3design.com/</a></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>MIT alumna and friend of the lab, Lauren Hernley, recounts her path to finding a job with a design consultancy, after encountering some speed-bumps along the way. Hear from Lauren and industry leaders about the importance of experience, real skills, and relationships. <br/>Plus, our first Lock the Quill Global Challenge winner is announced and Scott and Danny try to figure out the Austin ice skating thing. <br/><br/><b>Thanks to:<br/></b>Lauren Hernley, MIT &apos;13, M3 Design<br/>John Devlin, Essential Design, <a href='https://essentialdesign.com/'>https://essentialdesign.com/</a><br/>Mark Foohey and Kevin Gentry, M3 Design, <a href='https://www.m3design.com/'> https://www.m3design.com/</a></p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/12134508-lauren-looks-for-a-job-internships-experience-networks-and-design-consultancies-ep-6.mp3" length="29602459" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12134508</guid>
+    <pubDate>Sat, 28 Jan 2023 00:00:00 -0500</pubDate>
+    <itunes:duration>2460</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Amos Winter. Lobster Tanks, Roboclams, GEAR Lab, and Gear Heads - Ep 5</itunes:title>
+    <title>Professor Amos Winter. Lobster Tanks, Roboclams, GEAR Lab, and Gear Heads - Ep 5</title>
+    <itunes:summary><![CDATA[We have a conversation with Mechanical Engineering Professor Amos Winter and some friends to talk about his experiences at Tufts University and MIT. Professor Winter takes us on an international tour and discusses his projects over the years in underwater vehicles and exploration, his bio-inspired Roboclam work, and a sampling of his current research with his Global Engineering and Research Lab.  Plus, we settle the meddling issue of the rogue lobster tank, and throw the gauntlet for the...]]></itunes:summary>
+    <description><![CDATA[<p>We have a conversation with Mechanical Engineering Professor Amos Winter and some friends to talk about his experiences at Tufts University and MIT. Professor Winter takes us on an international tour and discusses his projects over the years in underwater vehicles and exploration, his bio-inspired Roboclam work, and a sampling of his current research with his Global Engineering and Research Lab. <br/>Plus, we settle the meddling issue of the rogue lobster tank, and throw the gauntlet for the Lock the Quill Global Challenge.   </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We have a conversation with Mechanical Engineering Professor Amos Winter and some friends to talk about his experiences at Tufts University and MIT. Professor Winter takes us on an international tour and discusses his projects over the years in underwater vehicles and exploration, his bio-inspired Roboclam work, and a sampling of his current research with his Global Engineering and Research Lab. <br/>Plus, we settle the meddling issue of the rogue lobster tank, and throw the gauntlet for the Lock the Quill Global Challenge.   </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/12035235-professor-amos-winter-lobster-tanks-roboclams-gear-lab-and-gear-heads-ep-5.mp3" length="57982517" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12035235</guid>
+    <pubDate>Fri, 13 Jan 2023 01:00:00 -0500</pubDate>
+    <itunes:duration>4827</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Dr. Rebecca Thorndike-Breeze and a Cheeky Winner - Ep 4</itunes:title>
+    <title>Dr. Rebecca Thorndike-Breeze and a Cheeky Winner - Ep 4</title>
+    <itunes:summary><![CDATA[Dr. Thorndike-Breeze of the MIT Comparative Media Studies Program at MIT joins us to talk about her journey to MIT, the importance of self-expression in her work, strength and resilience through collaboration and improv, and a few important mentors.   The MIT Press book chapter we reference, from Wikipedia @ 20: Stories of an Incomplete Revolution. Podcast specific: Podcast Instagram: @lockthequill Comments or questions: lockthequill@mit.edu   The Lab at MIT: Pappalardo Lab Instagram: @pappal...]]></itunes:summary>
+    <description><![CDATA[<p>Dr. Thorndike-Breeze of the <a href='https://cmsw.mit.edu/'>MIT Comparative Media Studies Program</a> at MIT joins us to talk about her journey to MIT, the importance of self-expression in her work, strength and resilience through collaboration and improv, and a few important mentors. <br/><br/>The MIT Press <a href='https://direct.mit.edu/books/book/4956/chapter/1879821/Three-Links-Be-Bold-Assume-Good-Faith-and-There'>book chapter </a>we reference, from Wikipedia @ 20: Stories of an Incomplete Revolution.</p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Dr. Thorndike-Breeze of the <a href='https://cmsw.mit.edu/'>MIT Comparative Media Studies Program</a> at MIT joins us to talk about her journey to MIT, the importance of self-expression in her work, strength and resilience through collaboration and improv, and a few important mentors. <br/><br/>The MIT Press <a href='https://direct.mit.edu/books/book/4956/chapter/1879821/Three-Links-Be-Bold-Assume-Good-Faith-and-There'>book chapter </a>we reference, from Wikipedia @ 20: Stories of an Incomplete Revolution.</p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/11886697-dr-rebecca-thorndike-breeze-and-a-cheeky-winner-ep-4.mp3" length="27096942" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11886697</guid>
+    <pubDate>Fri, 16 Dec 2022 17:00:00 -0500</pubDate>
+    <itunes:duration>2252</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Peko Hosoi and the First Sounds from the Lab Winner - Ep 3</itunes:title>
+    <title>Professor Peko Hosoi and the First Sounds from the Lab Winner - Ep 3</title>
+    <itunes:summary><![CDATA[We sit down with Peko Hosoi, the Neil and Jane Pappalardo Professor of Mechanical Engineering at MIT. Join us as Peko talks about her move from west to east to middle to east to west and back to east. She talks about the Kadanov years in Chicago, her first faculty appointment at Harvey Mudd, and her move back to MIT.  Plus, we connect with the winner of last week's "Sounds from the Lab" Podcast specific: Podcast Instagram: @lockthequill Comments or questions: lockthequill@mit.edu   The Lab at...]]></itunes:summary>
+    <description><![CDATA[<p>We sit down with Peko Hosoi, the Neil and Jane Pappalardo Professor of Mechanical Engineering at MIT. Join us as Peko talks about her move from west to east to middle to east to west and back to east. She talks about the Kadanov years in Chicago, her first faculty appointment at Harvey Mudd, and her move back to MIT.<br/><br/>Plus, we connect with the winner of last week&apos;s &quot;Sounds from the Lab&quot;</p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We sit down with Peko Hosoi, the Neil and Jane Pappalardo Professor of Mechanical Engineering at MIT. Join us as Peko talks about her move from west to east to middle to east to west and back to east. She talks about the Kadanov years in Chicago, her first faculty appointment at Harvey Mudd, and her move back to MIT.<br/><br/>Plus, we connect with the winner of last week&apos;s &quot;Sounds from the Lab&quot;</p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/11794712-professor-peko-hosoi-and-the-first-sounds-from-the-lab-winner-ep-3.mp3" length="40715616" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11794712</guid>
+    <pubDate>Fri, 02 Dec 2022 00:00:00 -0500</pubDate>
+    <itunes:duration>3387</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Steven Leeb. MIT Stories and Games - Ep 2</itunes:title>
+    <title>Professor Steven Leeb. MIT Stories and Games - Ep 2</title>
+    <itunes:summary><![CDATA[Professor Steven Leeb drops by the lab to talk about some key moments as an undergraduate and graduate student at MIT. We find ourselves on the topic of 80s nerd movies, but get back to talking about research and MIT magic.  We test Steve's knowledge of department numbers and present the 2022 Big Nut Award.  Our first installment of "Sounds from the Lab" goes live. Comment @lockthequill for the chance to take home the motherlode - a genuine Lock the Quill sticker.  Podcast spec...]]></itunes:summary>
+    <description><![CDATA[<p>Professor Steven Leeb drops by the lab to talk about some key moments as an undergraduate and graduate student at MIT. We find ourselves on the topic of 80s nerd movies, but get back to talking about research and MIT magic. <br/>We test Steve&apos;s knowledge of department numbers and present the 2022 Big Nut Award. <br/>Our first installment of &quot;Sounds from the Lab&quot; goes live. Comment @lockthequill for the chance to take home the motherlode - a genuine Lock the Quill sticker. </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Professor Steven Leeb drops by the lab to talk about some key moments as an undergraduate and graduate student at MIT. We find ourselves on the topic of 80s nerd movies, but get back to talking about research and MIT magic. <br/>We test Steve&apos;s knowledge of department numbers and present the 2022 Big Nut Award. <br/>Our first installment of &quot;Sounds from the Lab&quot; goes live. Comment @lockthequill for the chance to take home the motherlode - a genuine Lock the Quill sticker. </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/11719551-professor-steven-leeb-mit-stories-and-games-ep-2.mp3" length="39091241" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11719551</guid>
+    <pubDate>Fri, 18 Nov 2022 00:00:00 -0500</pubDate>
+    <itunes:duration>3252</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Professor Ellen Roche and an Old Friend - Ep1</itunes:title>
+    <title>Professor Ellen Roche and an Old Friend - Ep1</title>
+    <itunes:summary><![CDATA[Professor Ellen Roche shares her journey to MIT from Galway, and we talk about her cardio-vascular device design and computational modeling research. Ellen gives the thumbs up to The Cranberries and The Coronas, and you'll hear how she does on a quiz.  We'll then give an old friend a call to hear what's going on across the river.  Podcast specific: Podcast Instagram: @lockthequill Comments or questions: lockthequill@mit.edu   The Lab at MIT: Pappalardo Lab Instagram: @pappalardolab ...]]></itunes:summary>
+    <description><![CDATA[<p>Professor Ellen Roche shares her journey to MIT from Galway, and we talk about her cardio-vascular device design and computational modeling research. Ellen gives the thumbs up to The Cranberries and The Coronas, and you&apos;ll hear how she does on a quiz. <br/>We&apos;ll then give an old friend a call to hear what&apos;s going on across the river. </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Professor Ellen Roche shares her journey to MIT from Galway, and we talk about her cardio-vascular device design and computational modeling research. Ellen gives the thumbs up to The Cranberries and The Coronas, and you&apos;ll hear how she does on a quiz. <br/>We&apos;ll then give an old friend a call to hear what&apos;s going on across the river. </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/11627354-professor-ellen-roche-and-an-old-friend-ep1.mp3" length="42208455" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11627354</guid>
+    <pubDate>Fri, 04 Nov 2022 00:00:00 -0400</pubDate>
+    <itunes:duration>3509</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Lock the Quill Preview - Ep 0</itunes:title>
+    <title>Lock the Quill Preview - Ep 0</title>
+    <itunes:summary><![CDATA[We're a group of shop nerds at MIT's Department of Mechanical Engineering Pappalardo Lab  - machinists, engineers, scientists, &amp; designers - and are sitting down with (sometimes standing or chasing) colleagues, students, and alumni to share their stories and chitter-chatter about research, life, and the campus scuttlebutt.   Podcast specific: Podcast Instagram: @lockthequill Comments or questions: lockthequill@mit.edu   The Lab at MIT: Pappalardo Lab Instagram: @pappalardolab Co...]]></itunes:summary>
+    <description><![CDATA[<p>We&apos;re a group of shop nerds at MIT&apos;s Department of Mechanical Engineering Pappalardo Lab  - machinists, engineers, scientists, &amp; designers - and are sitting down with (sometimes standing or chasing) colleagues, students, and alumni to share their stories and chitter-chatter about research, life, and the campus scuttlebutt.  </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We&apos;re a group of shop nerds at MIT&apos;s Department of Mechanical Engineering Pappalardo Lab  - machinists, engineers, scientists, &amp; designers - and are sitting down with (sometimes standing or chasing) colleagues, students, and alumni to share their stories and chitter-chatter about research, life, and the campus scuttlebutt.  </p><p><b>Podcast specific:</b><br/>Podcast Instagram: <a href='https://www.instagram.com/lockthequill/'>@lockthequill</a><br/>Comments or questions: lockthequill@mit.edu <br/><br/><b>The Lab at MIT:</b><br/>Pappalardo Lab Instagram: <a href='https://www.instagram.com/pappalardolab/'>@pappalardolab</a><br/>Comments or questions: pappalardolab@mit.edu <br/>Pappalardo Lab <a href='http://web.mit.edu/pappalardolab/'>website</a></p>]]></content:encoded>
+    <itunes:author>MIT Mechanical Engineering Pappalardo Lab</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2074298/episodes/11583554-lock-the-quill-preview-ep-0.mp3" length="1015241" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11583554</guid>
+    <pubDate>Fri, 28 Oct 2022 00:00:00 -0400</pubDate>
+    <itunes:duration>80</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

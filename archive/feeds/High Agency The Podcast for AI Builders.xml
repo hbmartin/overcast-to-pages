@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/high-agency-the-podcast-for-ai-builders" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>High Agency: The Podcast for AI Builders</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/high-agency-the-podcast-for-ai-builders</itunes:new-feed-url>
+    <description>High Agency is the podcast for AI builders. If you’re trying to understand how to successfully build AI products with Large Language Models and Generative AI then this podcast is made for you. Each week we interview leaders at companies building on the frontier who have already succeeded with AI in production. We share their stories, lessons and playbooks so you can build more quickly and with confidence. 
+
+AI is moving incredibly fast and no-one is truly an expert yet, High Agency is for people who are learning by doing and will share knowledge through the community.
+
+Where to find us: https://hubs.ly/Q02z2HR40</description>
+    <copyright>© 2025 Raza Habib</copyright>
+    <podcast:guid>49dcb655-9059-5857-b162-12bf91865a42</podcast:guid>
+    <podcast:locked owner="marilin@humanloop.com">no</podcast:locked>
+    <podcast:trailer pubdate="Mon, 03 Jun 2024 16:34:19 -0700" url="https://media.transistor.fm/a0a420c1/8d0d5410.mp3" length="2369873" type="audio/mpeg">Welcome to the High Agency podcast!</podcast:trailer>
+    <language>en</language>
+    <pubDate>Tue, 20 May 2025 08:49:23 -0700</pubDate>
+    <lastBuildDate>Tue, 20 May 2025 08:50:17 -0700</lastBuildDate>
+    <image>
+      <url>https://img.transistor.fm/JJ6YbjxWtKmuHd-LTHWGk1Ww-PHdzMQigLRMyii8f2k/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Nzhm/ZWE3YWIzYWRmZDVl/ZjAyYTg0ZDFhNjlj/MTc0Ny5wbmc.jpg</url>
+      <title>High Agency: The Podcast for AI Builders</title>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Raza Habib</itunes:author>
+    <itunes:image href="https://img.transistor.fm/JJ6YbjxWtKmuHd-LTHWGk1Ww-PHdzMQigLRMyii8f2k/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Nzhm/ZWE3YWIzYWRmZDVl/ZjAyYTg0ZDFhNjlj/MTc0Ny5wbmc.jpg"/>
+    <itunes:summary>High Agency is the podcast for AI builders. If you’re trying to understand how to successfully build AI products with Large Language Models and Generative AI then this podcast is made for you. Each week we interview leaders at companies building on the frontier who have already succeeded with AI in production. We share their stories, lessons and playbooks so you can build more quickly and with confidence. 
+
+AI is moving incredibly fast and no-one is truly an expert yet, High Agency is for people who are learning by doing and will share knowledge through the community.
+
+Where to find us: https://hubs.ly/Q02z2HR40</itunes:summary>
+    <itunes:subtitle>High Agency is the podcast for AI builders.</itunes:subtitle>
+    <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Raza Habib</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>How Graphite's $50M Series B is Transforming AI Code Review</title>
+      <itunes:episode>34</itunes:episode>
+      <podcast:episode>34</podcast:episode>
+      <itunes:title>How Graphite's $50M Series B is Transforming AI Code Review</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">12213d63-3632-4140-9592-801860118f6d</guid>
+      <link>https://share.transistor.fm/s/9f9ef306</link>
+      <description>
+        <![CDATA[<p>Merrill Lutsky, co-founder and CEO of Graphite, discusses their evolution from stack diff workflows to Diamond, an AI code review agent that just helped secure their $50M Series B. He shares insights on building reliable AI review systems, why over-generating and pruning comments works better than single responses, and the shift from RAG to agentic code browsing. Merrill offers a provocative vision where developers define requirements and AI agents build the code, potentially eliminating traditional IDE coding. This episode provides valuable perspectives on how AI is fundamentally reshaping software development workflows and engineering roles.</p><p><br>Chapters:<br>00:00 - Introduction and Graphite overview<br>01:58 - Evolution from stack diffs to AI review<br>07:39 - Diamond: The AI code reviewer explained<br>10:13 - Human vs AI review: Finding the balance<br>11:44 - Engineering challenges of reliable AI review<br>17:38 - Over-generate and prune: A winning strategy<br>24:49 - From RAG to code browser agents<br>28:12 - The bitter lesson of AI engineering<br>30:48 - The future of software engineering<br>37:33 - Is AI over or under-hyped?</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Merrill Lutsky, co-founder and CEO of Graphite, discusses their evolution from stack diff workflows to Diamond, an AI code review agent that just helped secure their $50M Series B. He shares insights on building reliable AI review systems, why over-generating and pruning comments works better than single responses, and the shift from RAG to agentic code browsing. Merrill offers a provocative vision where developers define requirements and AI agents build the code, potentially eliminating traditional IDE coding. This episode provides valuable perspectives on how AI is fundamentally reshaping software development workflows and engineering roles.</p><p><br>Chapters:<br>00:00 - Introduction and Graphite overview<br>01:58 - Evolution from stack diffs to AI review<br>07:39 - Diamond: The AI code reviewer explained<br>10:13 - Human vs AI review: Finding the balance<br>11:44 - Engineering challenges of reliable AI review<br>17:38 - Over-generate and prune: A winning strategy<br>24:49 - From RAG to code browser agents<br>28:12 - The bitter lesson of AI engineering<br>30:48 - The future of software engineering<br>37:33 - Is AI over or under-hyped?</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 20 May 2025 08:49:23 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/9f9ef306/6fd4160d.mp3" length="63027385" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2595</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Merrill Lutsky, co-founder and CEO of Graphite, discusses their evolution from stack diff workflows to Diamond, an AI code review agent that just helped secure their $50M Series B. He shares insights on building reliable AI review systems, why over-generating and pruning comments works better than single responses, and the shift from RAG to agentic code browsing. Merrill offers a provocative vision where developers define requirements and AI agents build the code, potentially eliminating traditional IDE coding. This episode provides valuable perspectives on how AI is fundamentally reshaping software development workflows and engineering roles.</p><p><br>Chapters:<br>00:00 - Introduction and Graphite overview<br>01:58 - Evolution from stack diffs to AI review<br>07:39 - Diamond: The AI code reviewer explained<br>10:13 - Human vs AI review: Finding the balance<br>11:44 - Engineering challenges of reliable AI review<br>17:38 - Over-generate and prune: A winning strategy<br>24:49 - From RAG to code browser agents<br>28:12 - The bitter lesson of AI engineering<br>30:48 - The future of software engineering<br>37:33 - Is AI over or under-hyped?</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The End of Language-Only Models l Amit Jain, Luma AI</title>
+      <itunes:episode>33</itunes:episode>
+      <podcast:episode>33</podcast:episode>
+      <itunes:title>The End of Language-Only Models l Amit Jain, Luma AI</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4450f1e1-a923-47de-a971-25695b9b3f88</guid>
+      <link>https://share.transistor.fm/s/7d05b91a</link>
+      <description>
+        <![CDATA[<p>This week Raza is joined by Amit Jain, CEO and co-founder of Luma AI, to explore why the future of artificial intelligence lies beyond language. Amit shares Luma’s bold mission to build world models through multimodal training and why video is the most overlooked and critical data source in AI today.</p><p>Chapters:<br>00:00 - Introduction<br>03:40 - Competing with Big AI Labs: Language vs. Multimodality<br>08:09 - Joint Training and Why Current Multimodal Models Fall Short<br>11:01 - Language is Discrete, the World is Continuous<br>14:36 - Do These Models Have World Models?<br>18:18 - Planning, Counterfactuals, and Causal Reasoning in AI<br>22:08 - Capabilities of Ray 2 and Real-World Use Cases<br>26:14 - Rethinking Video Length and Creative Workflows<br>29:18 - Solving Coherence Across Shots and Characters<br>30:00 - When Will AI Create a Feature-Length Film?<br>31:27 - What You Can Build with Luma’s API Today<br>35:49 - Overlooked Ideas and Noise in the AI Industry<br>38:34 - Why Video is the Missing Link in AI</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>This week Raza is joined by Amit Jain, CEO and co-founder of Luma AI, to explore why the future of artificial intelligence lies beyond language. Amit shares Luma’s bold mission to build world models through multimodal training and why video is the most overlooked and critical data source in AI today.</p><p>Chapters:<br>00:00 - Introduction<br>03:40 - Competing with Big AI Labs: Language vs. Multimodality<br>08:09 - Joint Training and Why Current Multimodal Models Fall Short<br>11:01 - Language is Discrete, the World is Continuous<br>14:36 - Do These Models Have World Models?<br>18:18 - Planning, Counterfactuals, and Causal Reasoning in AI<br>22:08 - Capabilities of Ray 2 and Real-World Use Cases<br>26:14 - Rethinking Video Length and Creative Workflows<br>29:18 - Solving Coherence Across Shots and Characters<br>30:00 - When Will AI Create a Feature-Length Film?<br>31:27 - What You Can Build with Luma’s API Today<br>35:49 - Overlooked Ideas and Noise in the AI Industry<br>38:34 - Why Video is the Missing Link in AI</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 13 May 2025 15:25:06 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/7d05b91a/170cc2ed.mp3" length="58604257" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2417</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>This week Raza is joined by Amit Jain, CEO and co-founder of Luma AI, to explore why the future of artificial intelligence lies beyond language. Amit shares Luma’s bold mission to build world models through multimodal training and why video is the most overlooked and critical data source in AI today.</p><p>Chapters:<br>00:00 - Introduction<br>03:40 - Competing with Big AI Labs: Language vs. Multimodality<br>08:09 - Joint Training and Why Current Multimodal Models Fall Short<br>11:01 - Language is Discrete, the World is Continuous<br>14:36 - Do These Models Have World Models?<br>18:18 - Planning, Counterfactuals, and Causal Reasoning in AI<br>22:08 - Capabilities of Ray 2 and Real-World Use Cases<br>26:14 - Rethinking Video Length and Creative Workflows<br>29:18 - Solving Coherence Across Shots and Characters<br>30:00 - When Will AI Create a Feature-Length Film?<br>31:27 - What You Can Build with Luma’s API Today<br>35:49 - Overlooked Ideas and Noise in the AI Industry<br>38:34 - Why Video is the Missing Link in AI</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>From 0 to $40M in 5 Months: Bolt.new Story with Eric Simons</title>
+      <itunes:episode>32</itunes:episode>
+      <podcast:episode>32</podcast:episode>
+      <itunes:title>From 0 to $40M in 5 Months: Bolt.new Story with Eric Simons</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">379ac627-be11-4c5e-a682-87d05d747ab5</guid>
+      <link>https://share.transistor.fm/s/7de98e2f</link>
+      <description>
+        <![CDATA[<p>Eric Simons discusses the meteoric rise of Bolt.new, an AI-powered web app builder that went from zero to $40 million ARR in just five months. He shares insights on how they built an AI agent capable of creating full-stack web applications from simple prompts, the challenges of rapid growth, and the future of AI in software development. From nearly shutting down the company to becoming one of the fastest-growing AI products in history, Eric offers valuable lessons for anyone building in the AI space.</p><p>Chapters:<br>00:00 - Introduction and Bolt.new overview<br>06:05 - The journey from near-shutdown to rapid growth<br>13:28 - Challenges of explosive growth and scaling<br>18:50 - Technical deep dive: Building Bolt.new<br>26:37 - Debugging and improving AI-generated code<br>32:09 - Future directions and enterprise adoption<br>34:11 - Advice for building AI applications<br>37:03 - The concept of "vibe revenue" in AI startups<br>39:39 - Is AI over or under-hyped?</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Eric Simons discusses the meteoric rise of Bolt.new, an AI-powered web app builder that went from zero to $40 million ARR in just five months. He shares insights on how they built an AI agent capable of creating full-stack web applications from simple prompts, the challenges of rapid growth, and the future of AI in software development. From nearly shutting down the company to becoming one of the fastest-growing AI products in history, Eric offers valuable lessons for anyone building in the AI space.</p><p>Chapters:<br>00:00 - Introduction and Bolt.new overview<br>06:05 - The journey from near-shutdown to rapid growth<br>13:28 - Challenges of explosive growth and scaling<br>18:50 - Technical deep dive: Building Bolt.new<br>26:37 - Debugging and improving AI-generated code<br>32:09 - Future directions and enterprise adoption<br>34:11 - Advice for building AI applications<br>37:03 - The concept of "vibe revenue" in AI startups<br>39:39 - Is AI over or under-hyped?</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 03 Apr 2025 06:00:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/7de98e2f/e24f492b.mp3" length="62698107" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2493</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Eric Simons discusses the meteoric rise of Bolt.new, an AI-powered web app builder that went from zero to $40 million ARR in just five months. He shares insights on how they built an AI agent capable of creating full-stack web applications from simple prompts, the challenges of rapid growth, and the future of AI in software development. From nearly shutting down the company to becoming one of the fastest-growing AI products in history, Eric offers valuable lessons for anyone building in the AI space.</p><p>Chapters:<br>00:00 - Introduction and Bolt.new overview<br>06:05 - The journey from near-shutdown to rapid growth<br>13:28 - Challenges of explosive growth and scaling<br>18:50 - Technical deep dive: Building Bolt.new<br>26:37 - Debugging and improving AI-generated code<br>32:09 - Future directions and enterprise adoption<br>34:11 - Advice for building AI applications<br>37:03 - The concept of "vibe revenue" in AI startups<br>39:39 - Is AI over or under-hyped?</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Saving Pharma Companies Billions with AI l Patrick Leung from Faro Health</title>
+      <itunes:episode>31</itunes:episode>
+      <podcast:episode>31</podcast:episode>
+      <itunes:title>Saving Pharma Companies Billions with AI l Patrick Leung from Faro Health</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3f1f85ab-3e30-40e4-a72b-62102d8dea33</guid>
+      <link>https://share.transistor.fm/s/8cd1027c</link>
+      <description>
+        <![CDATA[<p>In this episode of High Agency, Patrick Leung from Faro Health explains how they're using AI to revolutionize clinical trial design by both generating regulatory documents and extracting insights from thousands of existing trials. Patrick emphasises the essential collaboration between clinical experts and AI engineers when building reliable systems in healthcare's high-stakes environment. </p><p>Chapters:<br>00:00 - Introduction<br>04:26 - Clinical trials before: Microsoft Word Documents<br>08:17 - Document generation using AI<br>12:26 - What makes clinical trials so expensive<br>16:26 - Parsing and processing clinical trial data<br>18:04 - Challenges with traditional evaluation metrics<br>21:28 - Importance of domain experts in the evaluation process<br>24:35 - Collaboration between domain experts and engineering<br>31:26 - Building a graph-based knowledge system<br>34:27 - Roles and skillsets required<br>38:06 - Lessons learned building LLM products<br>40:56 - Discussion on AI capabilities and limitations<br>46:07 - Is AI overhyped or underhyped</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of High Agency, Patrick Leung from Faro Health explains how they're using AI to revolutionize clinical trial design by both generating regulatory documents and extracting insights from thousands of existing trials. Patrick emphasises the essential collaboration between clinical experts and AI engineers when building reliable systems in healthcare's high-stakes environment. </p><p>Chapters:<br>00:00 - Introduction<br>04:26 - Clinical trials before: Microsoft Word Documents<br>08:17 - Document generation using AI<br>12:26 - What makes clinical trials so expensive<br>16:26 - Parsing and processing clinical trial data<br>18:04 - Challenges with traditional evaluation metrics<br>21:28 - Importance of domain experts in the evaluation process<br>24:35 - Collaboration between domain experts and engineering<br>31:26 - Building a graph-based knowledge system<br>34:27 - Roles and skillsets required<br>38:06 - Lessons learned building LLM products<br>40:56 - Discussion on AI capabilities and limitations<br>46:07 - Is AI overhyped or underhyped</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 21 Mar 2025 06:00:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/8cd1027c/ba64f4d2.mp3" length="69934021" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2884</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of High Agency, Patrick Leung from Faro Health explains how they're using AI to revolutionize clinical trial design by both generating regulatory documents and extracting insights from thousands of existing trials. Patrick emphasises the essential collaboration between clinical experts and AI engineers when building reliable systems in healthcare's high-stakes environment. </p><p>Chapters:<br>00:00 - Introduction<br>04:26 - Clinical trials before: Microsoft Word Documents<br>08:17 - Document generation using AI<br>12:26 - What makes clinical trials so expensive<br>16:26 - Parsing and processing clinical trial data<br>18:04 - Challenges with traditional evaluation metrics<br>21:28 - Importance of domain experts in the evaluation process<br>24:35 - Collaboration between domain experts and engineering<br>31:26 - Building a graph-based knowledge system<br>34:27 - Roles and skillsets required<br>38:06 - Lessons learned building LLM products<br>40:56 - Discussion on AI capabilities and limitations<br>46:07 - Is AI overhyped or underhyped</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>100x Hiring Speed with Superhuman Recruiters l Metaview Co-Founder</title>
+      <itunes:episode>30</itunes:episode>
+      <podcast:episode>30</podcast:episode>
+      <itunes:title>100x Hiring Speed with Superhuman Recruiters l Metaview Co-Founder</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dc8fcdff-7da0-4d07-9140-cc3768067d1f</guid>
+      <link>https://share.transistor.fm/s/b56b5206</link>
+      <description>
+        <![CDATA[<p>In this episode, Raza is joined by Shahriar Tajbakhsh, the co-founder of Metaview. They discuss how Metaview’s AI scribe automates interview note-taking, how AI agents can surface top candidates from thousands of resumes, and why hiring managers should think of AI as a co-worker, not just a tool. Raza's recomended reading: <a href="https://hamel.dev/blog/posts/llm-judge/">Creating a LLM-as-a-Judge That Drives Business Results</a>.</p><p><strong>Chapters:</strong><br>00:00 - Introduction<br>03:32 - How AI Co-Workers Are Transforming Recruiting<br>06:21 - Inside MetaView: AI Scribe and Workflow Automation<br>09:11 - Unlocking Hiring Insights with AI-Driven Conversations<br>11:30 - Balancing AI Innovation and User Adoption<br>14:05 - Metaview’s Tech Stack and the Role of LLMs<br>18:29 - How MetaView Generates Superhuman Interview Notes<br>23:18 - The Challenges of Building Reliable AI Hiring Agents<br>32:40 - The Future of AI in Hiring: Automating Job Descriptions<br>40:26 - AI Co-Workers That Work While You Sleep<br>47:08 - Why Vertical AI Will Win Over General AI Agents<br>50:24 - The Underrated Power of Graph-Based AI</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Raza is joined by Shahriar Tajbakhsh, the co-founder of Metaview. They discuss how Metaview’s AI scribe automates interview note-taking, how AI agents can surface top candidates from thousands of resumes, and why hiring managers should think of AI as a co-worker, not just a tool. Raza's recomended reading: <a href="https://hamel.dev/blog/posts/llm-judge/">Creating a LLM-as-a-Judge That Drives Business Results</a>.</p><p><strong>Chapters:</strong><br>00:00 - Introduction<br>03:32 - How AI Co-Workers Are Transforming Recruiting<br>06:21 - Inside MetaView: AI Scribe and Workflow Automation<br>09:11 - Unlocking Hiring Insights with AI-Driven Conversations<br>11:30 - Balancing AI Innovation and User Adoption<br>14:05 - Metaview’s Tech Stack and the Role of LLMs<br>18:29 - How MetaView Generates Superhuman Interview Notes<br>23:18 - The Challenges of Building Reliable AI Hiring Agents<br>32:40 - The Future of AI in Hiring: Automating Job Descriptions<br>40:26 - AI Co-Workers That Work While You Sleep<br>47:08 - Why Vertical AI Will Win Over General AI Agents<br>50:24 - The Underrated Power of Graph-Based AI</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com </p>]]>
+      </content:encoded>
+      <pubDate>Fri, 07 Mar 2025 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/b56b5206/a78b4135.mp3" length="77226321" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>3187</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Raza is joined by Shahriar Tajbakhsh, the co-founder of Metaview. They discuss how Metaview’s AI scribe automates interview note-taking, how AI agents can surface top candidates from thousands of resumes, and why hiring managers should think of AI as a co-worker, not just a tool. Raza's recomended reading: <a href="https://hamel.dev/blog/posts/llm-judge/">Creating a LLM-as-a-Judge That Drives Business Results</a>.</p><p><strong>Chapters:</strong><br>00:00 - Introduction<br>03:32 - How AI Co-Workers Are Transforming Recruiting<br>06:21 - Inside MetaView: AI Scribe and Workflow Automation<br>09:11 - Unlocking Hiring Insights with AI-Driven Conversations<br>11:30 - Balancing AI Innovation and User Adoption<br>14:05 - Metaview’s Tech Stack and the Role of LLMs<br>18:29 - How MetaView Generates Superhuman Interview Notes<br>23:18 - The Challenges of Building Reliable AI Hiring Agents<br>32:40 - The Future of AI in Hiring: Automating Job Descriptions<br>40:26 - AI Co-Workers That Work While You Sleep<br>47:08 - Why Vertical AI Will Win Over General AI Agents<br>50:24 - The Underrated Power of Graph-Based AI</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Will Replace Command Lines I Ex-Google Tech Lead and Founder at Warp</title>
+      <itunes:episode>29</itunes:episode>
+      <podcast:episode>29</podcast:episode>
+      <itunes:title>AI Will Replace Command Lines I Ex-Google Tech Lead and Founder at Warp</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dddbedd7-ada0-43a0-bcc4-9a07ee7003c3</guid>
+      <link>https://share.transistor.fm/s/93b2afff</link>
+      <description>
+        <![CDATA[<p>In this episode, Raza Habib chats with Zach Lloyd, CEO and founder of Warp, about how AI is transforming the developer experience. They explore how Warp is reimagining the command line, the power of AI-driven automation, and what the future holds for coding workflows.</p><p>Chapters:<br>00:00 - Introduction<br>04:06 - Why the terminal needed reinvention<br>07:11 - AI’s role in Warp’s evolution<br>08:55 - Key AI features in Warp<br>12:49 - Balancing safety, reliability, and usability<br>19:43 - Challenges in AI-Powered development<br>22:33 - Changing developer behavior with AI<br>27:24 - Prompt engineering and context optimization<br>31:05 - Lessons for building AI products<br>37:50 - The future of AI in software development<br>46:42 - Underappreciated AI innovations<br>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Raza Habib chats with Zach Lloyd, CEO and founder of Warp, about how AI is transforming the developer experience. They explore how Warp is reimagining the command line, the power of AI-driven automation, and what the future holds for coding workflows.</p><p>Chapters:<br>00:00 - Introduction<br>04:06 - Why the terminal needed reinvention<br>07:11 - AI’s role in Warp’s evolution<br>08:55 - Key AI features in Warp<br>12:49 - Balancing safety, reliability, and usability<br>19:43 - Challenges in AI-Powered development<br>22:33 - Changing developer behavior with AI<br>27:24 - Prompt engineering and context optimization<br>31:05 - Lessons for building AI products<br>37:50 - The future of AI in software development<br>46:42 - Underappreciated AI innovations<br>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 21 Feb 2025 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/93b2afff/57cf2d62.mp3" length="69358061" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2865</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Raza Habib chats with Zach Lloyd, CEO and founder of Warp, about how AI is transforming the developer experience. They explore how Warp is reimagining the command line, the power of AI-driven automation, and what the future holds for coding workflows.</p><p>Chapters:<br>00:00 - Introduction<br>04:06 - Why the terminal needed reinvention<br>07:11 - AI’s role in Warp’s evolution<br>08:55 - Key AI features in Warp<br>12:49 - Balancing safety, reliability, and usability<br>19:43 - Challenges in AI-Powered development<br>22:33 - Changing developer behavior with AI<br>27:24 - Prompt engineering and context optimization<br>31:05 - Lessons for building AI products<br>37:50 - The future of AI in software development<br>46:42 - Underappreciated AI innovations<br>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Google Is Dead: How This 144-GPU Startup Is Building Einstein-Level AI Search I Will Bryk | Exa CEO</title>
+      <itunes:episode>28</itunes:episode>
+      <podcast:episode>28</podcast:episode>
+      <itunes:title>Google Is Dead: How This 144-GPU Startup Is Building Einstein-Level AI Search I Will Bryk | Exa CEO</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">164796fd-9ad6-4133-a714-b5b9e7a051c5</guid>
+      <link>https://share.transistor.fm/s/fea73604</link>
+      <description>
+        <![CDATA[<p>Will Bryk, CEO of Exa, sits down with Raza Habib to reveal why traditional search engines are becoming obsolete and how his startup is building an AI-powered search engine for the future. From constructing a massive GPU cluster to predicting AI will surpass human mathematicians by 2026, Will shares fascinating insights about the technological breakthroughs that will reshape society in the coming months.</p><p>Chapters:</p><p>00:00 - Introduction <br>05:13 - Exa as a Tool for LLMs and Neural Search  <br>06:19 - Introducing "Websets" and Its Use Cases  <br>10:16 - Building a Compute Cluster: Why Own vs. Rent?  <br>12:00 - The Bitter Lesson and Scalability in AI  <br>17:11 - Interesting Use Cases for Exa  <br>19:44 - People Search and CRM Opportunities   <br>21:10 - Predictions for AI Progress and Test-Time Compute  <br>27:10 - Implications of AI on Creative Tasks and Society  <br>29:15 - Automation, Jobs, and the Knowledge Economy  <br>33:57 - What Could Stop AI Progress?  <br>36:22 - Advice for AI Builders and Entrepreneurs</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Will Bryk, CEO of Exa, sits down with Raza Habib to reveal why traditional search engines are becoming obsolete and how his startup is building an AI-powered search engine for the future. From constructing a massive GPU cluster to predicting AI will surpass human mathematicians by 2026, Will shares fascinating insights about the technological breakthroughs that will reshape society in the coming months.</p><p>Chapters:</p><p>00:00 - Introduction <br>05:13 - Exa as a Tool for LLMs and Neural Search  <br>06:19 - Introducing "Websets" and Its Use Cases  <br>10:16 - Building a Compute Cluster: Why Own vs. Rent?  <br>12:00 - The Bitter Lesson and Scalability in AI  <br>17:11 - Interesting Use Cases for Exa  <br>19:44 - People Search and CRM Opportunities   <br>21:10 - Predictions for AI Progress and Test-Time Compute  <br>27:10 - Implications of AI on Creative Tasks and Society  <br>29:15 - Automation, Jobs, and the Knowledge Economy  <br>33:57 - What Could Stop AI Progress?  <br>36:22 - Advice for AI Builders and Entrepreneurs</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 07 Feb 2025 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/fea73604/360feb49.mp3" length="56364132" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2324</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Will Bryk, CEO of Exa, sits down with Raza Habib to reveal why traditional search engines are becoming obsolete and how his startup is building an AI-powered search engine for the future. From constructing a massive GPU cluster to predicting AI will surpass human mathematicians by 2026, Will shares fascinating insights about the technological breakthroughs that will reshape society in the coming months.</p><p>Chapters:</p><p>00:00 - Introduction <br>05:13 - Exa as a Tool for LLMs and Neural Search  <br>06:19 - Introducing "Websets" and Its Use Cases  <br>10:16 - Building a Compute Cluster: Why Own vs. Rent?  <br>12:00 - The Bitter Lesson and Scalability in AI  <br>17:11 - Interesting Use Cases for Exa  <br>19:44 - People Search and CRM Opportunities   <br>21:10 - Predictions for AI Progress and Test-Time Compute  <br>27:10 - Implications of AI on Creative Tasks and Society  <br>29:15 - Automation, Jobs, and the Knowledge Economy  <br>33:57 - What Could Stop AI Progress?  <br>36:22 - Advice for AI Builders and Entrepreneurs</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>$100M raised: How Decagon is building better AI agents I Jesse Zhang</title>
+      <itunes:episode>27</itunes:episode>
+      <podcast:episode>27</podcast:episode>
+      <itunes:title>$100M raised: How Decagon is building better AI agents I Jesse Zhang</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9695a325-b438-4bde-b390-68630e985627</guid>
+      <link>https://share.transistor.fm/s/238cc761</link>
+      <description>
+        <![CDATA[<p>In this episode, Jesse Zhang joins Raza to discuss building cutting-edge AI agents for customer support. They explore how his early passion for LLMs led to creating a company that’s transforming the way businesses like Rippling, Duolingo, and Webflow interact with customers. Jesse breaks down the challenges of scaling AI systems, the importance of customer feedback, and his predictions for the future of AI.</p><p>Chapters:<br>00:00 - Introduction and Jesse Zhang's Background  <br>01:17 - First Exposure to LLMs and Building Early Projects  <br>04:32 - Decagon’s Rapid Growth and Differentiation in AI  <br>06:37 - Understanding Decagon’s AI Customer Support Product  <br>10:21 - Challenges in Building High-Performance AI Systems  <br>13:14 - Evolution from Simple RAG to Agent Architectures  <br>16:54 - Measuring Accuracy with Evals and Customer Feedback  <br>19:05 - Balancing Customization and Reusability Across Clients  <br>22:35 - Handling Customer Data and Incremental Deployment  <br>25:21 - Restructuring Support Teams for AI Integration  <br>27:03 - Team Composition and the Role of Domain Expertise  <br>29:19 - Advice for New AI Builders: Customer-Driven Development  <br>32:21 - Key Insights on AI Agents and Enterprise Adoption  <br>36:34 - Predictions for AI Advancements in 2025  <br>39:41 - Is AI Overhyped or Underhyped?  <br>41:07 - Closing Remarks and Final Thoughts</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Jesse Zhang joins Raza to discuss building cutting-edge AI agents for customer support. They explore how his early passion for LLMs led to creating a company that’s transforming the way businesses like Rippling, Duolingo, and Webflow interact with customers. Jesse breaks down the challenges of scaling AI systems, the importance of customer feedback, and his predictions for the future of AI.</p><p>Chapters:<br>00:00 - Introduction and Jesse Zhang's Background  <br>01:17 - First Exposure to LLMs and Building Early Projects  <br>04:32 - Decagon’s Rapid Growth and Differentiation in AI  <br>06:37 - Understanding Decagon’s AI Customer Support Product  <br>10:21 - Challenges in Building High-Performance AI Systems  <br>13:14 - Evolution from Simple RAG to Agent Architectures  <br>16:54 - Measuring Accuracy with Evals and Customer Feedback  <br>19:05 - Balancing Customization and Reusability Across Clients  <br>22:35 - Handling Customer Data and Incremental Deployment  <br>25:21 - Restructuring Support Teams for AI Integration  <br>27:03 - Team Composition and the Role of Domain Expertise  <br>29:19 - Advice for New AI Builders: Customer-Driven Development  <br>32:21 - Key Insights on AI Agents and Enterprise Adoption  <br>36:34 - Predictions for AI Advancements in 2025  <br>39:41 - Is AI Overhyped or Underhyped?  <br>41:07 - Closing Remarks and Final Thoughts</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 22 Jan 2025 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/238cc761/f84c0cb7.mp3" length="60537671" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2505</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Jesse Zhang joins Raza to discuss building cutting-edge AI agents for customer support. They explore how his early passion for LLMs led to creating a company that’s transforming the way businesses like Rippling, Duolingo, and Webflow interact with customers. Jesse breaks down the challenges of scaling AI systems, the importance of customer feedback, and his predictions for the future of AI.</p><p>Chapters:<br>00:00 - Introduction and Jesse Zhang's Background  <br>01:17 - First Exposure to LLMs and Building Early Projects  <br>04:32 - Decagon’s Rapid Growth and Differentiation in AI  <br>06:37 - Understanding Decagon’s AI Customer Support Product  <br>10:21 - Challenges in Building High-Performance AI Systems  <br>13:14 - Evolution from Simple RAG to Agent Architectures  <br>16:54 - Measuring Accuracy with Evals and Customer Feedback  <br>19:05 - Balancing Customization and Reusability Across Clients  <br>22:35 - Handling Customer Data and Incremental Deployment  <br>25:21 - Restructuring Support Teams for AI Integration  <br>27:03 - Team Composition and the Role of Domain Expertise  <br>29:19 - Advice for New AI Builders: Customer-Driven Development  <br>32:21 - Key Insights on AI Agents and Enterprise Adoption  <br>36:34 - Predictions for AI Advancements in 2025  <br>39:41 - Is AI Overhyped or Underhyped?  <br>41:07 - Closing Remarks and Final Thoughts</p><p>------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>How GitHub Copilot Became the First LLM-Powered Developer Tool with Ryan Salva</title>
+      <itunes:episode>26</itunes:episode>
+      <podcast:episode>26</podcast:episode>
+      <itunes:title>How GitHub Copilot Became the First LLM-Powered Developer Tool with Ryan Salva</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a18dfda6-b5d4-49a1-8d07-d8598d5cfd84</guid>
+      <link>https://share.transistor.fm/s/c328a1dc</link>
+      <description>
+        <![CDATA[<p>On this week's episode, former GitHub Copilot lead Ryan Salva breaks down how AI coding tools became ubiquitous almost overnight. They discuss the critical differences between what novice and expert developers expect from AI, why starting with predictive text was both a blessing and a curse, and how the rapid adoption of AI assistance is reshaping the future of software development.</p><p>Chapters:<br>00:00 - Introduction <br>01:09 - The Creation of GitHub Copilot  <br>05:39 - From Prototype to Product: Challenges in Scaling  <br>07:37 - How GitHub Copilot Works Behind the Scenes  <br>11:18 - Metrics That Matter: Evaluating AI Success  <br>14:43 - Building Momentum: What It Feels Like to Launch a Hit  <br>17:51 - The Evolution of AI Tools for Developers  <br>21:13 - Evaluations and Testing in AI Development  <br>26:00 - The Role of Automation and the Future of Coding  <br>30:53 - Will Engineers Still Write Code in the Future?  <br>33:16 - Advice for Aspiring AI Builders  <br>36:51 - Is AI Overhyped or Underhyped?  <br>38:17 - Closing Reflections </p><p>----------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>On this week's episode, former GitHub Copilot lead Ryan Salva breaks down how AI coding tools became ubiquitous almost overnight. They discuss the critical differences between what novice and expert developers expect from AI, why starting with predictive text was both a blessing and a curse, and how the rapid adoption of AI assistance is reshaping the future of software development.</p><p>Chapters:<br>00:00 - Introduction <br>01:09 - The Creation of GitHub Copilot  <br>05:39 - From Prototype to Product: Challenges in Scaling  <br>07:37 - How GitHub Copilot Works Behind the Scenes  <br>11:18 - Metrics That Matter: Evaluating AI Success  <br>14:43 - Building Momentum: What It Feels Like to Launch a Hit  <br>17:51 - The Evolution of AI Tools for Developers  <br>21:13 - Evaluations and Testing in AI Development  <br>26:00 - The Role of Automation and the Future of Coding  <br>30:53 - Will Engineers Still Write Code in the Future?  <br>33:16 - Advice for Aspiring AI Builders  <br>36:51 - Is AI Overhyped or Underhyped?  <br>38:17 - Closing Reflections </p><p>----------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 07 Jan 2025 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/c328a1dc/3f5c7b2b.mp3" length="57993865" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2333</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>On this week's episode, former GitHub Copilot lead Ryan Salva breaks down how AI coding tools became ubiquitous almost overnight. They discuss the critical differences between what novice and expert developers expect from AI, why starting with predictive text was both a blessing and a curse, and how the rapid adoption of AI assistance is reshaping the future of software development.</p><p>Chapters:<br>00:00 - Introduction <br>01:09 - The Creation of GitHub Copilot  <br>05:39 - From Prototype to Product: Challenges in Scaling  <br>07:37 - How GitHub Copilot Works Behind the Scenes  <br>11:18 - Metrics That Matter: Evaluating AI Success  <br>14:43 - Building Momentum: What It Feels Like to Launch a Hit  <br>17:51 - The Evolution of AI Tools for Developers  <br>21:13 - Evaluations and Testing in AI Development  <br>26:00 - The Role of Automation and the Future of Coding  <br>30:53 - Will Engineers Still Write Code in the Future?  <br>33:16 - Advice for Aspiring AI Builders  <br>36:51 - Is AI Overhyped or Underhyped?  <br>38:17 - Closing Reflections </p><p>----------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>What Gives an AI Founder Staying Power I James Theuerkauf, CEO of Syrup Tech I Sara Ittelson, Partner at Accel</title>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:title>What Gives an AI Founder Staying Power I James Theuerkauf, CEO of Syrup Tech I Sara Ittelson, Partner at Accel</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">570f7548-565c-44d0-bca0-9305c8e19e8d</guid>
+      <link>https://share.transistor.fm/s/21ba9e3f</link>
+      <description>
+        <![CDATA[<p>In this week's episode, Raza speaks with James Theuerkauf, CEO of Syrup Tech, and Sara Ittelson, Partner at Accel, to explore the challenges and opportunities for entrepreneurs in this transformative era. They discuss building AI-first companies and the lessons learned from scaling in a rapidly evolving space. With practical tips on leveraging data, creating competitive advantages, and sustaining passion for the long haul, this episode offers invaluable guidance for founders in AI.</p><p>Chapters:<br>00:00 - Introduction and Guest Backgrounds  <br>01:27 - Syrup Tech’s Approach to AI in Retail  <br>03:29 - The Role of AI in Demand Forecasting  <br>08:49 - Building Effective AI Systems and Teams  <br>15:30 - How Generative AI is Shaping Businesses  <br>19:18 - Advice for Founders in the AI Era  <br>28:15 - Building an AI-First Company <br>33:26 - Innovations and Trends in AI  <br>38:47 - Is AI Overhyped or Underhyped?  <br>42:46 - Closing Thoughts and Reflections</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this week's episode, Raza speaks with James Theuerkauf, CEO of Syrup Tech, and Sara Ittelson, Partner at Accel, to explore the challenges and opportunities for entrepreneurs in this transformative era. They discuss building AI-first companies and the lessons learned from scaling in a rapidly evolving space. With practical tips on leveraging data, creating competitive advantages, and sustaining passion for the long haul, this episode offers invaluable guidance for founders in AI.</p><p>Chapters:<br>00:00 - Introduction and Guest Backgrounds  <br>01:27 - Syrup Tech’s Approach to AI in Retail  <br>03:29 - The Role of AI in Demand Forecasting  <br>08:49 - Building Effective AI Systems and Teams  <br>15:30 - How Generative AI is Shaping Businesses  <br>19:18 - Advice for Founders in the AI Era  <br>28:15 - Building an AI-First Company <br>33:26 - Innovations and Trends in AI  <br>38:47 - Is AI Overhyped or Underhyped?  <br>42:46 - Closing Thoughts and Reflections</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 27 Dec 2024 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/21ba9e3f/253e8193.mp3" length="63314727" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2616</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this week's episode, Raza speaks with James Theuerkauf, CEO of Syrup Tech, and Sara Ittelson, Partner at Accel, to explore the challenges and opportunities for entrepreneurs in this transformative era. They discuss building AI-first companies and the lessons learned from scaling in a rapidly evolving space. With practical tips on leveraging data, creating competitive advantages, and sustaining passion for the long haul, this episode offers invaluable guidance for founders in AI.</p><p>Chapters:<br>00:00 - Introduction and Guest Backgrounds  <br>01:27 - Syrup Tech’s Approach to AI in Retail  <br>03:29 - The Role of AI in Demand Forecasting  <br>08:49 - Building Effective AI Systems and Teams  <br>15:30 - How Generative AI is Shaping Businesses  <br>19:18 - Advice for Founders in the AI Era  <br>28:15 - Building an AI-First Company <br>33:26 - Innovations and Trends in AI  <br>38:47 - Is AI Overhyped or Underhyped?  <br>42:46 - Closing Thoughts and Reflections</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>How to build great AI products with Vanta Software Developer Noam Rubin</title>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:title>How to build great AI products with Vanta Software Developer Noam Rubin</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9291a584-5053-4e2c-89e2-b84cba32daae</guid>
+      <link>https://share.transistor.fm/s/8660cbe1</link>
+      <description>
+        <![CDATA[<p>In this episode, Noam Rubin, a Software Developer at Vanta reveals how his team uses data-driven strategies to design, test, and improve cutting-edge AI features. Learn how customer insights, rapid prototyping, and iterative development transform raw ideas into tools that make compliance and security easier for businesses everywhere.</p><p><strong>Chapters:</strong></p><p>00:00 - Introduction<br>02:47 - The process of building AI products at Vanta<br>04:51 - The role of customer feedback in product development<br>06:59 - Integrating AI into security and compliance workflows<br>08:06 - Using data specifications to guide product development<br>10:10 - Collaborating with subject matter experts to refine AI models<br>12:14 - Iterative testing and refining AI features<br>14:10 - Quality control and ensuring AI accuracy<br>16:00 - The importance of dogfooding and internal feedback loops<br>18:23 - Scaling AI features and rolling them out to wider audiences<br>20:50 - Educating engineers and democratizing AI at Vanta<br>22:20 - Key lessons learned from building AI products<br>24:12 - Maintaining AI quality through continuous feedback<br>26:00 - The future of AI in business and product development</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Noam Rubin, a Software Developer at Vanta reveals how his team uses data-driven strategies to design, test, and improve cutting-edge AI features. Learn how customer insights, rapid prototyping, and iterative development transform raw ideas into tools that make compliance and security easier for businesses everywhere.</p><p><strong>Chapters:</strong></p><p>00:00 - Introduction<br>02:47 - The process of building AI products at Vanta<br>04:51 - The role of customer feedback in product development<br>06:59 - Integrating AI into security and compliance workflows<br>08:06 - Using data specifications to guide product development<br>10:10 - Collaborating with subject matter experts to refine AI models<br>12:14 - Iterative testing and refining AI features<br>14:10 - Quality control and ensuring AI accuracy<br>16:00 - The importance of dogfooding and internal feedback loops<br>18:23 - Scaling AI features and rolling them out to wider audiences<br>20:50 - Educating engineers and democratizing AI at Vanta<br>22:20 - Key lessons learned from building AI products<br>24:12 - Maintaining AI quality through continuous feedback<br>26:00 - The future of AI in business and product development</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 18 Dec 2024 05:40:58 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/8660cbe1/3d698937.mp3" length="59575857" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2457</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Noam Rubin, a Software Developer at Vanta reveals how his team uses data-driven strategies to design, test, and improve cutting-edge AI features. Learn how customer insights, rapid prototyping, and iterative development transform raw ideas into tools that make compliance and security easier for businesses everywhere.</p><p><strong>Chapters:</strong></p><p>00:00 - Introduction<br>02:47 - The process of building AI products at Vanta<br>04:51 - The role of customer feedback in product development<br>06:59 - Integrating AI into security and compliance workflows<br>08:06 - Using data specifications to guide product development<br>10:10 - Collaborating with subject matter experts to refine AI models<br>12:14 - Iterative testing and refining AI features<br>14:10 - Quality control and ensuring AI accuracy<br>16:00 - The importance of dogfooding and internal feedback loops<br>18:23 - Scaling AI features and rolling them out to wider audiences<br>20:50 - Educating engineers and democratizing AI at Vanta<br>22:20 - Key lessons learned from building AI products<br>24:12 - Maintaining AI quality through continuous feedback<br>26:00 - The future of AI in business and product development</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Predictions for AI in 2025  I Ex-OpenAI, Ex-Stripe researcher Stanislav Polu</title>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:title>Predictions for AI in 2025  I Ex-OpenAI, Ex-Stripe researcher Stanislav Polu</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ecf635f0-f1ae-4bee-8581-a30a445427da</guid>
+      <link>https://share.transistor.fm/s/2aa132b5</link>
+      <description>
+        <![CDATA[<p>In this episode of High Agency, former OpenAI researcher Stan Polu shares his journey from AI research to founding Dust, an enterprise AI platform. Stan offers a contrarian view on the future of AI, suggesting we may be hitting a plateau in model capabilities since GPT-4. He discusses why startups should focus on product-market fit before investing in GPUs, shares practical lessons for building AI products, and predicts increased competition between AI labs and API developers. </p><p>Chapters:<br>00:00 - Introducing Dust: an enterprise AI platform<br>06:07 - From Stripe to OpenAI: Stan's journey<br>10:29 - Why research wasn't enough: building Dust<br>15:10 -  Best practices for building an AI product<br>20:50 - Is prompt engineering here to stay<br>23:40 - Understanding language models and their limitations<br>32:56 - Predictions for AI in 2025<br>39:53 - Measuring progress toward AGI<br>42:26 - The true value of AI technology</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of High Agency, former OpenAI researcher Stan Polu shares his journey from AI research to founding Dust, an enterprise AI platform. Stan offers a contrarian view on the future of AI, suggesting we may be hitting a plateau in model capabilities since GPT-4. He discusses why startups should focus on product-market fit before investing in GPUs, shares practical lessons for building AI products, and predicts increased competition between AI labs and API developers. </p><p>Chapters:<br>00:00 - Introducing Dust: an enterprise AI platform<br>06:07 - From Stripe to OpenAI: Stan's journey<br>10:29 - Why research wasn't enough: building Dust<br>15:10 -  Best practices for building an AI product<br>20:50 - Is prompt engineering here to stay<br>23:40 - Understanding language models and their limitations<br>32:56 - Predictions for AI in 2025<br>39:53 - Measuring progress toward AGI<br>42:26 - The true value of AI technology</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/2aa132b5/817a63fe.mp3" length="64961251" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2667</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of High Agency, former OpenAI researcher Stan Polu shares his journey from AI research to founding Dust, an enterprise AI platform. Stan offers a contrarian view on the future of AI, suggesting we may be hitting a plateau in model capabilities since GPT-4. He discusses why startups should focus on product-market fit before investing in GPUs, shares practical lessons for building AI products, and predicts increased competition between AI labs and API developers. </p><p>Chapters:<br>00:00 - Introducing Dust: an enterprise AI platform<br>06:07 - From Stripe to OpenAI: Stan's journey<br>10:29 - Why research wasn't enough: building Dust<br>15:10 -  Best practices for building an AI product<br>20:50 - Is prompt engineering here to stay<br>23:40 - Understanding language models and their limitations<br>32:56 - Predictions for AI in 2025<br>39:53 - Measuring progress toward AGI<br>42:26 - The true value of AI technology</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is the LLM evals platform for enterprises. We give you the tools that top teams use to ship and scale AI with confidence. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>How Replicate is Democratizing AI with Open-Source Resources</title>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:title>How Replicate is Democratizing AI with Open-Source Resources</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">11cdc375-c9e3-4c28-9482-89b3b5ec920b</guid>
+      <link>https://share.transistor.fm/s/6956a375</link>
+      <description>
+        <![CDATA[<p>In this episode, we explore how Replicate is breaking down barriers in AI development through its open-source platform. CEO Ben Firshman shares how Replicate enables developers without machine learning expertise to run AI models in the cloud.</p><p>00:00 Introduction <br>00:29 Overview of Replicate <br>03:13 Replicate's user base <br>05:45 Enterprise use cases and lowering the AI barrier <br>07:45 The complexity of traditional AI deployment <br>10:24 Simplifying AI with Replicate's API <br>13:50 ControlNets and the challenges of image models <br>19:42 Fragmentation in AI models: images vs. language <br>25:05 Customization and multi-model pipelines in production <br>26:33 Learning by doing: skills for AI engineers <br>28:44 Applying AI in governments <br>31:12 Iterative development and co-evolution of AI specs <br>33:13 Final reflections on AI hype <br>35:18 Conclusion</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, we explore how Replicate is breaking down barriers in AI development through its open-source platform. CEO Ben Firshman shares how Replicate enables developers without machine learning expertise to run AI models in the cloud.</p><p>00:00 Introduction <br>00:29 Overview of Replicate <br>03:13 Replicate's user base <br>05:45 Enterprise use cases and lowering the AI barrier <br>07:45 The complexity of traditional AI deployment <br>10:24 Simplifying AI with Replicate's API <br>13:50 ControlNets and the challenges of image models <br>19:42 Fragmentation in AI models: images vs. language <br>25:05 Customization and multi-model pipelines in production <br>26:33 Learning by doing: skills for AI engineers <br>28:44 Applying AI in governments <br>31:12 Iterative development and co-evolution of AI specs <br>33:13 Final reflections on AI hype <br>35:18 Conclusion</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 13 Nov 2024 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/6956a375/4306ca4d.mp3" length="34836948" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2175</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, we explore how Replicate is breaking down barriers in AI development through its open-source platform. CEO Ben Firshman shares how Replicate enables developers without machine learning expertise to run AI models in the cloud.</p><p>00:00 Introduction <br>00:29 Overview of Replicate <br>03:13 Replicate's user base <br>05:45 Enterprise use cases and lowering the AI barrier <br>07:45 The complexity of traditional AI deployment <br>10:24 Simplifying AI with Replicate's API <br>13:50 ControlNets and the challenges of image models <br>19:42 Fragmentation in AI models: images vs. language <br>25:05 Customization and multi-model pipelines in production <br>26:33 Learning by doing: skills for AI engineers <br>28:44 Applying AI in governments <br>31:12 Iterative development and co-evolution of AI specs <br>33:13 Final reflections on AI hype <br>35:18 Conclusion</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Principles for Building Excellent AI Features with Superhuman’s Lorilyn McCue</title>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>The Principles for Building Excellent AI Features with Superhuman’s Lorilyn McCue</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">875d12a3-9404-4ac6-9ffc-2829891ce432</guid>
+      <link>https://share.transistor.fm/s/4e4cfe88</link>
+      <description>
+        <![CDATA[<p>How do you build AI tools that actually meet users’ needs? In this episode of High Agency, Raza speaks with Lorilyn McCue, the driving force behind Superhuman’s AI-powered features. Lorilyn lays out the principles that guide her team’s work, from continuous learning to prioritizing user feedback. Learn how Superhuman’s "learning-first" approach allows them to fine-tune features like Ask AI and AI-driven summaries, creating practical solutions for today’s professionals. </p><p>00:00 - Introduction<br>04:20 - Overview of the Superhuman<br>06:50 - Instant Reply and Ask AI<br>10:00 - Building On-Demand vs. Always-On AI Features<br>13:45 - Prompt Engineering for Effective Summarization<br>22:35 - The Importance of Seamless AI Integration in User Workflows<br>25:10 - Developing Advanced Email Search with Contextual Reasoning<br>29:45 - Leveraging User Feedback<br>32:15 - Balancing Customization and Scalability in AI-Generated Emails<br>36:05 - Approach to Prioritization<br>39:30 - Real-World Use Cases: The Versatility of Current AI Capabilities<br>43:15 - Learning and Staying Updated in the Rapidly Evolving AI Field<br>46:00 - Is AI Overhyped or Underhyped?<br>49:20 - Final Thoughts and Closing Remarks</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>How do you build AI tools that actually meet users’ needs? In this episode of High Agency, Raza speaks with Lorilyn McCue, the driving force behind Superhuman’s AI-powered features. Lorilyn lays out the principles that guide her team’s work, from continuous learning to prioritizing user feedback. Learn how Superhuman’s "learning-first" approach allows them to fine-tune features like Ask AI and AI-driven summaries, creating practical solutions for today’s professionals. </p><p>00:00 - Introduction<br>04:20 - Overview of the Superhuman<br>06:50 - Instant Reply and Ask AI<br>10:00 - Building On-Demand vs. Always-On AI Features<br>13:45 - Prompt Engineering for Effective Summarization<br>22:35 - The Importance of Seamless AI Integration in User Workflows<br>25:10 - Developing Advanced Email Search with Contextual Reasoning<br>29:45 - Leveraging User Feedback<br>32:15 - Balancing Customization and Scalability in AI-Generated Emails<br>36:05 - Approach to Prioritization<br>39:30 - Real-World Use Cases: The Versatility of Current AI Capabilities<br>43:15 - Learning and Staying Updated in the Rapidly Evolving AI Field<br>46:00 - Is AI Overhyped or Underhyped?<br>49:20 - Final Thoughts and Closing Remarks</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 07 Nov 2024 06:00:00 -0800</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/4e4cfe88/b3abe57b.mp3" length="40917518" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2555</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>How do you build AI tools that actually meet users’ needs? In this episode of High Agency, Raza speaks with Lorilyn McCue, the driving force behind Superhuman’s AI-powered features. Lorilyn lays out the principles that guide her team’s work, from continuous learning to prioritizing user feedback. Learn how Superhuman’s "learning-first" approach allows them to fine-tune features like Ask AI and AI-driven summaries, creating practical solutions for today’s professionals. </p><p>00:00 - Introduction<br>04:20 - Overview of the Superhuman<br>06:50 - Instant Reply and Ask AI<br>10:00 - Building On-Demand vs. Always-On AI Features<br>13:45 - Prompt Engineering for Effective Summarization<br>22:35 - The Importance of Seamless AI Integration in User Workflows<br>25:10 - Developing Advanced Email Search with Contextual Reasoning<br>29:45 - Leveraging User Feedback<br>32:15 - Balancing Customization and Scalability in AI-Generated Emails<br>36:05 - Approach to Prioritization<br>39:30 - Real-World Use Cases: The Versatility of Current AI Capabilities<br>43:15 - Learning and Staying Updated in the Rapidly Evolving AI Field<br>46:00 - Is AI Overhyped or Underhyped?<br>49:20 - Final Thoughts and Closing Remarks</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Jeff Huber of Chroma: Building the open-source toolkit for AI Engineering</title>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:title>Jeff Huber of Chroma: Building the open-source toolkit for AI Engineering</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ad1e2477-dfb7-4042-a8ed-e66eec5203e4</guid>
+      <link>https://share.transistor.fm/s/3aa7b93f</link>
+      <description>
+        <![CDATA[<p>This week on High Agency, Raza Habib is joined by Chroma founder Jeff Huber. They cover the evolution of vector databases in AI engineering, challenge common assumptions about RAG and share insights from Chroma's journey. Jeff shares insights from Chroma's development, including their focus on developer experience and observations about real-world usage patterns. They also get into whether or not we can expect a super AI any time soon and what is over and under hyped in the industry today. </p><p>00:00 - Introduction<br>02:30 - Why vector databases matter for AI<br>06:00 - Understanding embeddings and similarity search<br>12:00 - Chroma early days<br>15:45 - Problems with existing vector database solutions<br>19:30 - Workload patterns in AI applications<br>23:40 - Real-world use cases and search applications<br>27:15 - The problem with RAG terminology<br>31:45 - Dynamic retrieval and model interactions<br>35:30 - Email processing and instruction management<br>39:15 - Context windows vs vector databases<br>42:30 - Enterprise adoption and production systems<br>45:45 - The journey from GPT-3 to production AI<br>48:15 - Internal vs customer-facing applications<br>51:00 - Advice for AI engineers</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>This week on High Agency, Raza Habib is joined by Chroma founder Jeff Huber. They cover the evolution of vector databases in AI engineering, challenge common assumptions about RAG and share insights from Chroma's journey. Jeff shares insights from Chroma's development, including their focus on developer experience and observations about real-world usage patterns. They also get into whether or not we can expect a super AI any time soon and what is over and under hyped in the industry today. </p><p>00:00 - Introduction<br>02:30 - Why vector databases matter for AI<br>06:00 - Understanding embeddings and similarity search<br>12:00 - Chroma early days<br>15:45 - Problems with existing vector database solutions<br>19:30 - Workload patterns in AI applications<br>23:40 - Real-world use cases and search applications<br>27:15 - The problem with RAG terminology<br>31:45 - Dynamic retrieval and model interactions<br>35:30 - Email processing and instruction management<br>39:15 - Context windows vs vector databases<br>42:30 - Enterprise adoption and production systems<br>45:45 - The journey from GPT-3 to production AI<br>48:15 - Internal vs customer-facing applications<br>51:00 - Advice for AI engineers</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 24 Oct 2024 06:00:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/3aa7b93f/7db16f05.mp3" length="52819174" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>3299</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>This week on High Agency, Raza Habib is joined by Chroma founder Jeff Huber. They cover the evolution of vector databases in AI engineering, challenge common assumptions about RAG and share insights from Chroma's journey. Jeff shares insights from Chroma's development, including their focus on developer experience and observations about real-world usage patterns. They also get into whether or not we can expect a super AI any time soon and what is over and under hyped in the industry today. </p><p>00:00 - Introduction<br>02:30 - Why vector databases matter for AI<br>06:00 - Understanding embeddings and similarity search<br>12:00 - Chroma early days<br>15:45 - Problems with existing vector database solutions<br>19:30 - Workload patterns in AI applications<br>23:40 - Real-world use cases and search applications<br>27:15 - The problem with RAG terminology<br>31:45 - Dynamic retrieval and model interactions<br>35:30 - Email processing and instruction management<br>39:15 - Context windows vs vector databases<br>42:30 - Enterprise adoption and production systems<br>45:45 - The journey from GPT-3 to production AI<br>48:15 - Internal vs customer-facing applications<br>51:00 - Advice for AI engineers</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>How to Create AI Strategy in Enterprises with Peter Gostev from Moonpig</title>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <itunes:title>How to Create AI Strategy in Enterprises with Peter Gostev from Moonpig</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">bfb2eeb7-4ac3-4135-91d6-3bc4cfadab56</guid>
+      <link>https://share.transistor.fm/s/f4560383</link>
+      <description>
+        <![CDATA[<p>In this episode of High Agency podcast, Peter Gostev shares his experiences implementing LLMs at NatWest and Moonpig. He discusses creating an AI strategy, talks about challenges in deploying LLMs in large organizations, and shares thoughts on underappreciated AI developments.</p><p>00:00 - Introduction<br>00:44 - OpenAI dev day reactions  <br>03:47 - Using AI to automate customer service  <br>10:43 - Impact of AI products<br>13:41 - Who are the users of LLMs<br>14:47 - Challenges building with AI in a large enterprise  <br>21:22 - AI use cases at Moonpig<br>24:34 - How to create an AI strategy<br>28:10 - Underappreciated AI developments</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an LLM evals platform for enterprises. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of High Agency podcast, Peter Gostev shares his experiences implementing LLMs at NatWest and Moonpig. He discusses creating an AI strategy, talks about challenges in deploying LLMs in large organizations, and shares thoughts on underappreciated AI developments.</p><p>00:00 - Introduction<br>00:44 - OpenAI dev day reactions  <br>03:47 - Using AI to automate customer service  <br>10:43 - Impact of AI products<br>13:41 - Who are the users of LLMs<br>14:47 - Challenges building with AI in a large enterprise  <br>21:22 - AI use cases at Moonpig<br>24:34 - How to create an AI strategy<br>28:10 - Underappreciated AI developments</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an LLM evals platform for enterprises. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 16 Oct 2024 06:00:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/f4560383/1a43db0c.mp3" length="38343227" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2394</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of High Agency podcast, Peter Gostev shares his experiences implementing LLMs at NatWest and Moonpig. He discusses creating an AI strategy, talks about challenges in deploying LLMs in large organizations, and shares thoughts on underappreciated AI developments.</p><p>00:00 - Introduction<br>00:44 - OpenAI dev day reactions  <br>03:47 - Using AI to automate customer service  <br>10:43 - Impact of AI products<br>13:41 - Who are the users of LLMs<br>14:47 - Challenges building with AI in a large enterprise  <br>21:22 - AI use cases at Moonpig<br>24:34 - How to create an AI strategy<br>28:10 - Underappreciated AI developments</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an LLM evals platform for enterprises. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Ex-Coinbase CPO's Next Big Thing: AI Employees I Surojit Chatterjee</title>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:title>Ex-Coinbase CPO's Next Big Thing: AI Employees I Surojit Chatterjee</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">30fe4757-b67c-45b2-a225-2a9f495f7785</guid>
+      <link>https://share.transistor.fm/s/9f32eb6c</link>
+      <description>
+        <![CDATA[<p>In this episode of High Agency, we're joined by Surojit Chatterjee, former CPO of Coinbase and now CEO of Ema. Surojit unveils his audacious plan to create universal AI employees and revolutionize Fortune 1000 workforce. Drawing from his career at tech giants like Google and Coinbase, he shares how these experiences fueled his vision for Ema. Surojit dives into the challenges of building AI agents, explores the concept of artificial humans, and predicts how this technology could transform the future of SaaS</p><p>(00:00:00) Introduction and Surojit’s background</p><p>(00:03:00) Founding story of Ema (Universal AI Employee)</p><p>(00:04:53) How the Universal AI Employee works</p><p>(00:08:39) Ema’s data integration and security</p><p>(00:12:57) AI employee use cases in enterprises</p><p>(00:15:02) Challenges with building AI agents</p><p>(00:16:45) Evaluations, hallucinations, customizing models</p><p>(00:19:52) Artificial human metaphor </p><p>(00:25:42) AI employee vs humans</p><p>(00:31:25) Advice for AI builders</p><p>(00:37:14) Is AI overhyped or underhyped?</p><p>(00:39:28) How the business model of SaaS will change</p><p><br>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of High Agency, we're joined by Surojit Chatterjee, former CPO of Coinbase and now CEO of Ema. Surojit unveils his audacious plan to create universal AI employees and revolutionize Fortune 1000 workforce. Drawing from his career at tech giants like Google and Coinbase, he shares how these experiences fueled his vision for Ema. Surojit dives into the challenges of building AI agents, explores the concept of artificial humans, and predicts how this technology could transform the future of SaaS</p><p>(00:00:00) Introduction and Surojit’s background</p><p>(00:03:00) Founding story of Ema (Universal AI Employee)</p><p>(00:04:53) How the Universal AI Employee works</p><p>(00:08:39) Ema’s data integration and security</p><p>(00:12:57) AI employee use cases in enterprises</p><p>(00:15:02) Challenges with building AI agents</p><p>(00:16:45) Evaluations, hallucinations, customizing models</p><p>(00:19:52) Artificial human metaphor </p><p>(00:25:42) AI employee vs humans</p><p>(00:31:25) Advice for AI builders</p><p>(00:37:14) Is AI overhyped or underhyped?</p><p>(00:39:28) How the business model of SaaS will change</p><p><br>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Oct 2024 06:00:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/9f32eb6c/2c5f7755.mp3" length="85901959" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2683</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of High Agency, we're joined by Surojit Chatterjee, former CPO of Coinbase and now CEO of Ema. Surojit unveils his audacious plan to create universal AI employees and revolutionize Fortune 1000 workforce. Drawing from his career at tech giants like Google and Coinbase, he shares how these experiences fueled his vision for Ema. Surojit dives into the challenges of building AI agents, explores the concept of artificial humans, and predicts how this technology could transform the future of SaaS</p><p>(00:00:00) Introduction and Surojit’s background</p><p>(00:03:00) Founding story of Ema (Universal AI Employee)</p><p>(00:04:53) How the Universal AI Employee works</p><p>(00:08:39) Ema’s data integration and security</p><p>(00:12:57) AI employee use cases in enterprises</p><p>(00:15:02) Challenges with building AI agents</p><p>(00:16:45) Evaluations, hallucinations, customizing models</p><p>(00:19:52) Artificial human metaphor </p><p>(00:25:42) AI employee vs humans</p><p>(00:31:25) Advice for AI builders</p><p>(00:37:14) Is AI overhyped or underhyped?</p><p>(00:39:28) How the business model of SaaS will change</p><p><br>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Why Your AI Product Needs Evals with Hamel Husain and Swyx</title>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:title>Why Your AI Product Needs Evals with Hamel Husain and Swyx</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6ab20501-a3ec-4e63-8d50-26da09aa281c</guid>
+      <link>https://share.transistor.fm/s/f15ada8a</link>
+      <description>
+        <![CDATA[<p>Hamel Husain is a seasoned AI consultant and engineer with experience at companies like GitHub, DataRobot, and Airbnb. He is a trailblazer in AI development, known for his innovative work in literate programming and AI-assisted development tools. Shawn Wang (aka Swyx) is the host of the Latent Space podcast, the author of the essay 'Rise of the AI Engineer,' and the founder of the AI Engineer World Fair. In this episode, Hamel and Swyx share their unique insights on building effective AI products, the critical importance of evaluations, and their vision for the future of AI engineering.</p><p>Chapters<br>00:00 - Introduction and recent AI advancements</p><p>06:14 - The critical role of evals in AI product development</p><p>15:33 - Common pitfalls in AI product development</p><p>26:33 - Literate programming: A new paradigm for AI development</p><p>39:58 - Answer AI and innovative approaches to software development</p><p>51:56 - Integrating AI with literate programming environments</p><p>58:47 - The importance of understanding AI prompts</p><p>01:00:37 - Assessing the current state of AI adoption</p><p>01:07:10 - Challenges in evaluating AI models</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Hamel Husain is a seasoned AI consultant and engineer with experience at companies like GitHub, DataRobot, and Airbnb. He is a trailblazer in AI development, known for his innovative work in literate programming and AI-assisted development tools. Shawn Wang (aka Swyx) is the host of the Latent Space podcast, the author of the essay 'Rise of the AI Engineer,' and the founder of the AI Engineer World Fair. In this episode, Hamel and Swyx share their unique insights on building effective AI products, the critical importance of evaluations, and their vision for the future of AI engineering.</p><p>Chapters<br>00:00 - Introduction and recent AI advancements</p><p>06:14 - The critical role of evals in AI product development</p><p>15:33 - Common pitfalls in AI product development</p><p>26:33 - Literate programming: A new paradigm for AI development</p><p>39:58 - Answer AI and innovative approaches to software development</p><p>51:56 - Integrating AI with literate programming environments</p><p>58:47 - The importance of understanding AI prompts</p><p>01:00:37 - Assessing the current state of AI adoption</p><p>01:07:10 - Challenges in evaluating AI models</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 25 Sep 2024 06:00:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/f15ada8a/9bc3c63f.mp3" length="66308781" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>4142</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Hamel Husain is a seasoned AI consultant and engineer with experience at companies like GitHub, DataRobot, and Airbnb. He is a trailblazer in AI development, known for his innovative work in literate programming and AI-assisted development tools. Shawn Wang (aka Swyx) is the host of the Latent Space podcast, the author of the essay 'Rise of the AI Engineer,' and the founder of the AI Engineer World Fair. In this episode, Hamel and Swyx share their unique insights on building effective AI products, the critical importance of evaluations, and their vision for the future of AI engineering.</p><p>Chapters<br>00:00 - Introduction and recent AI advancements</p><p>06:14 - The critical role of evals in AI product development</p><p>15:33 - Common pitfalls in AI product development</p><p>26:33 - Literate programming: A new paradigm for AI development</p><p>39:58 - Answer AI and innovative approaches to software development</p><p>51:56 - Integrating AI with literate programming environments</p><p>58:47 - The importance of understanding AI prompts</p><p>01:00:37 - Assessing the current state of AI adoption</p><p>01:07:10 - Challenges in evaluating AI models</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://share.transistor.fm/s/f15ada8a/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>How AI is Changing Product Management with Raz Nussbaum from Gong AI</title>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:title>How AI is Changing Product Management with Raz Nussbaum from Gong AI</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e0007123-e819-49e4-9f43-caf1e8fd8dd3</guid>
+      <link>https://share.transistor.fm/s/9716654c</link>
+      <description>
+        <![CDATA[<p>Raz Nussbaum is a Senior Product Manager in AI at Gong — the leading AI platform for revenue teams. He is an absolute legend when it comes to building and scaling AI products that genuinely deliver value. In this episode, he opens up about what it takes to build successful AI products in an era where things change at lightning speed.</p><p>Chapters<br>00:00 - Introduction<br>01:16 - How LLMs Changed Product Development at Gong AI<br>08:32 - Including Product Managers in Development Process<br>13:05 - Testing and Monitoring Pre vs Post-deployment<br>17:53 - New Challenges in the Face of Generative AI<br>19:39 - Shipping Fast and Interacting with the Market<br>23:25 - What's Next For Gong AI<br>25:13 - The Psychology of Trusting AI <br>28:19 - Is AI Overhyped or Underhyped?</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Raz Nussbaum is a Senior Product Manager in AI at Gong — the leading AI platform for revenue teams. He is an absolute legend when it comes to building and scaling AI products that genuinely deliver value. In this episode, he opens up about what it takes to build successful AI products in an era where things change at lightning speed.</p><p>Chapters<br>00:00 - Introduction<br>01:16 - How LLMs Changed Product Development at Gong AI<br>08:32 - Including Product Managers in Development Process<br>13:05 - Testing and Monitoring Pre vs Post-deployment<br>17:53 - New Challenges in the Face of Generative AI<br>19:39 - Shipping Fast and Interacting with the Market<br>23:25 - What's Next For Gong AI<br>25:13 - The Psychology of Trusting AI <br>28:19 - Is AI Overhyped or Underhyped?</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 17 Sep 2024 21:05:03 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/9716654c/b31f5325.mp3" length="28896502" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>1803</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Raz Nussbaum is a Senior Product Manager in AI at Gong — the leading AI platform for revenue teams. He is an absolute legend when it comes to building and scaling AI products that genuinely deliver value. In this episode, he opens up about what it takes to build successful AI products in an era where things change at lightning speed.</p><p>Chapters<br>00:00 - Introduction<br>01:16 - How LLMs Changed Product Development at Gong AI<br>08:32 - Including Product Managers in Development Process<br>13:05 - Testing and Monitoring Pre vs Post-deployment<br>17:53 - New Challenges in the Face of Generative AI<br>19:39 - Shipping Fast and Interacting with the Market<br>23:25 - What's Next For Gong AI<br>25:13 - The Psychology of Trusting AI <br>28:19 - Is AI Overhyped or Underhyped?</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>From Fiction to Reality: Sudowrite's Journey in AI-Assisted Creative Writing</title>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:title>From Fiction to Reality: Sudowrite's Journey in AI-Assisted Creative Writing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7f9f231e-5f76-4463-b0f7-89eefe497586</guid>
+      <link>https://share.transistor.fm/s/3b364c7e</link>
+      <description>
+        <![CDATA[<p>In this episode, we dive deep into the world of AI-assisted creative writing with James Yu, founder of Sudowrite. James shares the journey of building an AI assistant for novelists, helping writers develop ideas, manage complex storylines, and avoid clichés. James gets into the backlash the company faced when they first released Story Engine and how they're working to build a community of users.</p><p>00:00 - Introduction and Background of Sudowrite<br>02:26 - The Early Days: Concept, Skepticism, and User Adoption<br>05:20 - Sudowrite's Interface, Features, and User Base<br>10:23 - Developing and Iterating Features in Sudowrite<br>17:29 - The Evolution of Story Bible and Writing Assistance<br>24:27 - Challenges in Maintaining Coherence and AI-Assisted Writing<br>29:12 - Evaluating AI Features and the Role of Prompt Engineering<br>33:35 - Handling Tropes, Clichés, and Fine-Tuning for Author Voice<br>40:43 - The Controversy and Future of AI in Creative Work<br>51:37 - Predictions for AI in the Next Five Years</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, we dive deep into the world of AI-assisted creative writing with James Yu, founder of Sudowrite. James shares the journey of building an AI assistant for novelists, helping writers develop ideas, manage complex storylines, and avoid clichés. James gets into the backlash the company faced when they first released Story Engine and how they're working to build a community of users.</p><p>00:00 - Introduction and Background of Sudowrite<br>02:26 - The Early Days: Concept, Skepticism, and User Adoption<br>05:20 - Sudowrite's Interface, Features, and User Base<br>10:23 - Developing and Iterating Features in Sudowrite<br>17:29 - The Evolution of Story Bible and Writing Assistance<br>24:27 - Challenges in Maintaining Coherence and AI-Assisted Writing<br>29:12 - Evaluating AI Features and the Role of Prompt Engineering<br>33:35 - Handling Tropes, Clichés, and Fine-Tuning for Author Voice<br>40:43 - The Controversy and Future of AI in Creative Work<br>51:37 - Predictions for AI in the Next Five Years</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 11 Sep 2024 08:32:30 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/3b364c7e/bb2ea321.mp3" length="54490642" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>3403</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, we dive deep into the world of AI-assisted creative writing with James Yu, founder of Sudowrite. James shares the journey of building an AI assistant for novelists, helping writers develop ideas, manage complex storylines, and avoid clichés. James gets into the backlash the company faced when they first released Story Engine and how they're working to build a community of users.</p><p>00:00 - Introduction and Background of Sudowrite<br>02:26 - The Early Days: Concept, Skepticism, and User Adoption<br>05:20 - Sudowrite's Interface, Features, and User Base<br>10:23 - Developing and Iterating Features in Sudowrite<br>17:29 - The Evolution of Story Bible and Writing Assistance<br>24:27 - Challenges in Maintaining Coherence and AI-Assisted Writing<br>29:12 - Evaluating AI Features and the Role of Prompt Engineering<br>33:35 - Handling Tropes, Clichés, and Fine-Tuning for Author Voice<br>40:43 - The Controversy and Future of AI in Creative Work<br>51:37 - Predictions for AI in the Next Five Years</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Building the Nervous System for AI with Russ d'Sa from LiveKit</title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>Building the Nervous System for AI with Russ d'Sa from LiveKit</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7b0e79d1-328a-48f2-b0e5-ff4fe4c99b14</guid>
+      <link>https://share.transistor.fm/s/5ebd0565</link>
+      <description>
+        <![CDATA[<p>In this episode, LiveKit CEO Russ d'Sa explores the critical role of real-time communication infrastructure in the AI revolution. From building voice demos to powering OpenAI's ChatGPT,  he shares insights on technical challenges around building multimodal AI on the web and what new possibilities are opening up.</p><p>00:00 - Introduction and Background<br>01:34 - The Evolution of AI and Lessons for Founders<br>05:20 - Timelines and Technological Progress<br>10:32 - Overview of LiveKit and Its Impact on AI Development<br>13:39 - Why LiveKit Matters for AI Developers<br>19:08 - Partnership with OpenAI<br>21:25 - Challenges in Streaming and Real-Time Data Transmission<br>30:07 - Building a global network for AI communication<br>37:21 - Real-world applications of LiveKit in AI systems<br>40:55 - Future of AI and the Concept of Abundance<br>43:38 - The Irony of Wealth in an Age of AI</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, LiveKit CEO Russ d'Sa explores the critical role of real-time communication infrastructure in the AI revolution. From building voice demos to powering OpenAI's ChatGPT,  he shares insights on technical challenges around building multimodal AI on the web and what new possibilities are opening up.</p><p>00:00 - Introduction and Background<br>01:34 - The Evolution of AI and Lessons for Founders<br>05:20 - Timelines and Technological Progress<br>10:32 - Overview of LiveKit and Its Impact on AI Development<br>13:39 - Why LiveKit Matters for AI Developers<br>19:08 - Partnership with OpenAI<br>21:25 - Challenges in Streaming and Real-Time Data Transmission<br>30:07 - Building a global network for AI communication<br>37:21 - Real-world applications of LiveKit in AI systems<br>40:55 - Future of AI and the Concept of Abundance<br>43:38 - The Irony of Wealth in an Age of AI</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 04 Sep 2024 09:11:31 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/5ebd0565/371ba993.mp3" length="47540820" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2969</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, LiveKit CEO Russ d'Sa explores the critical role of real-time communication infrastructure in the AI revolution. From building voice demos to powering OpenAI's ChatGPT,  he shares insights on technical challenges around building multimodal AI on the web and what new possibilities are opening up.</p><p>00:00 - Introduction and Background<br>01:34 - The Evolution of AI and Lessons for Founders<br>05:20 - Timelines and Technological Progress<br>10:32 - Overview of LiveKit and Its Impact on AI Development<br>13:39 - Why LiveKit Matters for AI Developers<br>19:08 - Partnership with OpenAI<br>21:25 - Challenges in Streaming and Real-Time Data Transmission<br>30:07 - Building a global network for AI communication<br>37:21 - Real-world applications of LiveKit in AI systems<br>40:55 - Future of AI and the Concept of Abundance<br>43:38 - The Irony of Wealth in an Age of AI</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>From PyTorch to Fireworks AI: Lin Qiao on Building AI Infrastructure</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>From PyTorch to Fireworks AI: Lin Qiao on Building AI Infrastructure</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">52bc5481-1831-4d80-a53b-3119a9a152fd</guid>
+      <link>https://share.transistor.fm/s/089eb61f</link>
+      <description>
+        <![CDATA[<p>This week we’re talking to Lin Qiao, former PyTorch lead at Meta and current CEO of Fireworks AI. We discuss the evolution of AI frameworks, the challenges of optimizing inference for generative AI, the future of AI hardware, and open-source models. Lin shares insights on PyTorch design philosophy, how to achieve low latency, and the potential for AI to become as ubiquitous as electricity in our daily lives.</p><p>Chapters: <br>00:00 - Introduction and PyTorch Background<br>04:28 - PyTorch's Success and Design Philosophy<br>08:20 - Lessons from PyTorch and Transition to Fireworks AI<br>14:52 - Challenges in Gen AI Application Development<br>22:03 - Fireworks AI's Approach<br>24:24 - Technical Deep Dive: How to Achieve Low Latency<br>29:32 - Hardware Competition and Future Outlook<br>31:21 - Open Source vs. Proprietary Models<br>37:54 - Future of AI and Conclusion</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>This week we’re talking to Lin Qiao, former PyTorch lead at Meta and current CEO of Fireworks AI. We discuss the evolution of AI frameworks, the challenges of optimizing inference for generative AI, the future of AI hardware, and open-source models. Lin shares insights on PyTorch design philosophy, how to achieve low latency, and the potential for AI to become as ubiquitous as electricity in our daily lives.</p><p>Chapters: <br>00:00 - Introduction and PyTorch Background<br>04:28 - PyTorch's Success and Design Philosophy<br>08:20 - Lessons from PyTorch and Transition to Fireworks AI<br>14:52 - Challenges in Gen AI Application Development<br>22:03 - Fireworks AI's Approach<br>24:24 - Technical Deep Dive: How to Achieve Low Latency<br>29:32 - Hardware Competition and Future Outlook<br>31:21 - Open Source vs. Proprietary Models<br>37:54 - Future of AI and Conclusion</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 28 Aug 2024 08:37:57 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/089eb61f/7e4884fd.mp3" length="39873767" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2490</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>This week we’re talking to Lin Qiao, former PyTorch lead at Meta and current CEO of Fireworks AI. We discuss the evolution of AI frameworks, the challenges of optimizing inference for generative AI, the future of AI hardware, and open-source models. Lin shares insights on PyTorch design philosophy, how to achieve low latency, and the potential for AI to become as ubiquitous as electricity in our daily lives.</p><p>Chapters: <br>00:00 - Introduction and PyTorch Background<br>04:28 - PyTorch's Success and Design Philosophy<br>08:20 - Lessons from PyTorch and Transition to Fireworks AI<br>14:52 - Challenges in Gen AI Application Development<br>22:03 - Fireworks AI's Approach<br>24:24 - Technical Deep Dive: How to Achieve Low Latency<br>29:32 - Hardware Competition and Future Outlook<br>31:21 - Open Source vs. Proprietary Models<br>37:54 - Future of AI and Conclusion</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>How Paras Jain is building the future of AI video creation</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>How Paras Jain is building the future of AI video creation</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4e6ed9ac-1646-4256-bb32-e5ba6155e77a</guid>
+      <link>https://share.transistor.fm/s/35ca0917</link>
+      <description>
+        <![CDATA[<p>In this episode of High Agency, we are speaking to Paras Jain who is the CEO of AI video generation startup Genmo. Paras shares insights from his experience working on autonomous vehicles, why he chose academia over an offer from Tesla, and the research-minded approach that has lead to Genmo's rapid success.</p><p>Chapters:<br>(00:00) Introduction<br>(01:52) Lessons from selling an AI company to Tesla<br>(07:01) Working within GPU constraints and transformer architecture<br>(11:18) Moving from research to startup success<br>(14:36) Leading the video generation industry<br>(16:05) Training diffusion models for videos<br>(19:36) Evaluating AI video generation<br>(24:06) Scaling laws and data architecture<br>(28:34) Issues with scaling diffusion models <br>(33:09) Business use cases for video generation models<br>(36:43) Potential and limitations of video generation<br>(40:59) Ethical training of video models</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of High Agency, we are speaking to Paras Jain who is the CEO of AI video generation startup Genmo. Paras shares insights from his experience working on autonomous vehicles, why he chose academia over an offer from Tesla, and the research-minded approach that has lead to Genmo's rapid success.</p><p>Chapters:<br>(00:00) Introduction<br>(01:52) Lessons from selling an AI company to Tesla<br>(07:01) Working within GPU constraints and transformer architecture<br>(11:18) Moving from research to startup success<br>(14:36) Leading the video generation industry<br>(16:05) Training diffusion models for videos<br>(19:36) Evaluating AI video generation<br>(24:06) Scaling laws and data architecture<br>(28:34) Issues with scaling diffusion models <br>(33:09) Business use cases for video generation models<br>(36:43) Potential and limitations of video generation<br>(40:59) Ethical training of video models</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 21 Aug 2024 08:39:59 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/35ca0917/db69e619.mp3" length="46834047" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2925</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of High Agency, we are speaking to Paras Jain who is the CEO of AI video generation startup Genmo. Paras shares insights from his experience working on autonomous vehicles, why he chose academia over an offer from Tesla, and the research-minded approach that has lead to Genmo's rapid success.</p><p>Chapters:<br>(00:00) Introduction<br>(01:52) Lessons from selling an AI company to Tesla<br>(07:01) Working within GPU constraints and transformer architecture<br>(11:18) Moving from research to startup success<br>(14:36) Leading the video generation industry<br>(16:05) Training diffusion models for videos<br>(19:36) Evaluating AI video generation<br>(24:06) Scaling laws and data architecture<br>(28:34) Issues with scaling diffusion models <br>(33:09) Business use cases for video generation models<br>(36:43) Potential and limitations of video generation<br>(40:59) Ethical training of video models</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>AI at Scale: Lessons from Gusto's $9.5 billion journey with Eddie Kim &amp; Ali Rowghani</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>AI at Scale: Lessons from Gusto's $9.5 billion journey with Eddie Kim &amp; Ali Rowghani</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">aed2b677-030f-4e5a-997c-818f466931ae</guid>
+      <link>https://share.transistor.fm/s/e7a8f208</link>
+      <description>
+        <![CDATA[<p>In this week’s episode of the High Agency podcast, Humanloop Co-Founder and CEO Raza Habib sat down with Eddie Kim, co-founder and Head of Technology at Gusto and guest host Ali Rowghani to discuss how Gusto has applied AI to revolutionize ops-heavy processes like payroll and HR admin. Eddie also elaborates why Gusto is choosing to build, and not buy, the majority of their GenAI tech stack.</p><p>Chapters<br>00:00 - Introduction and Background<br>02:15 - Overview of Gusto's Business<br>05:59 - Operational Complexity and AI Opportunities<br>08:51 - Build vs. Buy: Internal vs. External AI Tools<br>10:07 - Prioritizing AI Use Cases<br>13:53 - Human-in-the-Loop Approach<br>19:39 - Centralized AI Team and Approach<br>22:53 - Measuring ROI from AI Initiatives<br>32:25 - AI-Powered Reporting Feature<br>38:46 - Code Generation and Developer Tools<br>42:52 - Impact of AI on Companies and Society<br>47:22 - AI Safety and Risks<br>49:54 - Closing Thoughts</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com/podcast</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this week’s episode of the High Agency podcast, Humanloop Co-Founder and CEO Raza Habib sat down with Eddie Kim, co-founder and Head of Technology at Gusto and guest host Ali Rowghani to discuss how Gusto has applied AI to revolutionize ops-heavy processes like payroll and HR admin. Eddie also elaborates why Gusto is choosing to build, and not buy, the majority of their GenAI tech stack.</p><p>Chapters<br>00:00 - Introduction and Background<br>02:15 - Overview of Gusto's Business<br>05:59 - Operational Complexity and AI Opportunities<br>08:51 - Build vs. Buy: Internal vs. External AI Tools<br>10:07 - Prioritizing AI Use Cases<br>13:53 - Human-in-the-Loop Approach<br>19:39 - Centralized AI Team and Approach<br>22:53 - Measuring ROI from AI Initiatives<br>32:25 - AI-Powered Reporting Feature<br>38:46 - Code Generation and Developer Tools<br>42:52 - Impact of AI on Companies and Society<br>47:22 - AI Safety and Risks<br>49:54 - Closing Thoughts</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com/podcast</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 16 Aug 2024 08:00:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/e7a8f208/daac6656.mp3" length="53746219" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>3357</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this week’s episode of the High Agency podcast, Humanloop Co-Founder and CEO Raza Habib sat down with Eddie Kim, co-founder and Head of Technology at Gusto and guest host Ali Rowghani to discuss how Gusto has applied AI to revolutionize ops-heavy processes like payroll and HR admin. Eddie also elaborates why Gusto is choosing to build, and not buy, the majority of their GenAI tech stack.</p><p>Chapters<br>00:00 - Introduction and Background<br>02:15 - Overview of Gusto's Business<br>05:59 - Operational Complexity and AI Opportunities<br>08:51 - Build vs. Buy: Internal vs. External AI Tools<br>10:07 - Prioritizing AI Use Cases<br>13:53 - Human-in-the-Loop Approach<br>19:39 - Centralized AI Team and Approach<br>22:53 - Measuring ROI from AI Initiatives<br>32:25 - AI-Powered Reporting Feature<br>38:46 - Code Generation and Developer Tools<br>42:52 - Impact of AI on Companies and Society<br>47:22 - AI Safety and Risks<br>49:54 - Closing Thoughts</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com/podcast</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Building the first LLM-based search engine for developers with Michael Royzen</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>Building the first LLM-based search engine for developers with Michael Royzen</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7f71ce58-9a58-494d-8302-ef2bebd6a251</guid>
+      <link>https://share.transistor.fm/s/995b0b5a</link>
+      <description>
+        <![CDATA[<p>In this episode, we sit down with Michael Royzen, CEO and co-founder of Phind. Michael shares insights from his journey in building the first LLM-based search engine for developers, the challenges of creating reliable AI models, and his vision for how AI will transform the work of developers in the near future. </p><p>Tune in to discover the groundbreaking advancements and practical implications of AI technology in coding and beyond.</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, we sit down with Michael Royzen, CEO and co-founder of Phind. Michael shares insights from his journey in building the first LLM-based search engine for developers, the challenges of creating reliable AI models, and his vision for how AI will transform the work of developers in the near future. </p><p>Tune in to discover the groundbreaking advancements and practical implications of AI technology in coding and beyond.</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 02 Aug 2024 12:42:56 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/995b0b5a/6f10b722.mp3" length="54887239" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>3428</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, we sit down with Michael Royzen, CEO and co-founder of Phind. Michael shares insights from his journey in building the first LLM-based search engine for developers, the challenges of creating reliable AI models, and his vision for how AI will transform the work of developers in the near future. </p><p>Tune in to discover the groundbreaking advancements and practical implications of AI technology in coding and beyond.</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/995b0b5a/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/995b0b5a/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/995b0b5a/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/995b0b5a/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/995b0b5a/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Contrarian Guide to AI: Jason Liu on Betting Against Agents while Doubling Down on RAG &amp; Fine-Tuning</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>Contrarian Guide to AI: Jason Liu on Betting Against Agents while Doubling Down on RAG &amp; Fine-Tuning</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8c134a80-1220-468b-8638-88399c24c3a1</guid>
+      <link>https://share.transistor.fm/s/045009ca</link>
+      <description>
+        <![CDATA[<p>Jason Liu is a true Renaissance Man in the world of AI. He began his career working on traditional ML recommender systems at tech giants like Meta and Stitch Fix and quickly pivoted into LLMs app development when ChatGPT opened its API in 2022. As the creator of Instructor, a Python library that structures LLM outputs for RAG applications, Jason has made significant contributions to the AI community. Today, Jason is a sought-after speaker, course creator, and Fortune 500 advisor. </p><p>In this episode, we cut through the AI hype to explore effective strategies for building valuable AI products and discuss the future of AI across industries.</p><p>Chapters:<br>00:00 - Introduction and Background<br>08:55 - The Role of Iterative Development and Metrics</p><p>10:43 - The Importance of Hyperparameters and Experimentation</p><p>18:22 - Introducing Instructor: Ensuring Structured Outputs<br>20:26 - Use Cases for Instructor: Reports, Memos, and More<br>28:13 - Automating Research, Due Diligence, and Decision-Making<br>31:12 - Challenges and Limitations of Language Models<br>32:50 - Aligning Evaluation Metrics with Business Outcomes<br>35:09 - Improving Recommendation Systems and Search Algorithms<br>46:05 - The Future of AI and the Role of Engineers and Product Leaders<br>51:45 - The Raptor Paper: Organizing and Summarizing Text Chunks</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Jason Liu is a true Renaissance Man in the world of AI. He began his career working on traditional ML recommender systems at tech giants like Meta and Stitch Fix and quickly pivoted into LLMs app development when ChatGPT opened its API in 2022. As the creator of Instructor, a Python library that structures LLM outputs for RAG applications, Jason has made significant contributions to the AI community. Today, Jason is a sought-after speaker, course creator, and Fortune 500 advisor. </p><p>In this episode, we cut through the AI hype to explore effective strategies for building valuable AI products and discuss the future of AI across industries.</p><p>Chapters:<br>00:00 - Introduction and Background<br>08:55 - The Role of Iterative Development and Metrics</p><p>10:43 - The Importance of Hyperparameters and Experimentation</p><p>18:22 - Introducing Instructor: Ensuring Structured Outputs<br>20:26 - Use Cases for Instructor: Reports, Memos, and More<br>28:13 - Automating Research, Due Diligence, and Decision-Making<br>31:12 - Challenges and Limitations of Language Models<br>32:50 - Aligning Evaluation Metrics with Business Outcomes<br>35:09 - Improving Recommendation Systems and Search Algorithms<br>46:05 - The Future of AI and the Role of Engineers and Product Leaders<br>51:45 - The Raptor Paper: Organizing and Summarizing Text Chunks</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 24 Jul 2024 02:45:25 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/045009ca/aac8249a.mp3" length="53269732" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>3327</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Jason Liu is a true Renaissance Man in the world of AI. He began his career working on traditional ML recommender systems at tech giants like Meta and Stitch Fix and quickly pivoted into LLMs app development when ChatGPT opened its API in 2022. As the creator of Instructor, a Python library that structures LLM outputs for RAG applications, Jason has made significant contributions to the AI community. Today, Jason is a sought-after speaker, course creator, and Fortune 500 advisor. </p><p>In this episode, we cut through the AI hype to explore effective strategies for building valuable AI products and discuss the future of AI across industries.</p><p>Chapters:<br>00:00 - Introduction and Background<br>08:55 - The Role of Iterative Development and Metrics</p><p>10:43 - The Importance of Hyperparameters and Experimentation</p><p>18:22 - Introducing Instructor: Ensuring Structured Outputs<br>20:26 - Use Cases for Instructor: Reports, Memos, and More<br>28:13 - Automating Research, Due Diligence, and Decision-Making<br>31:12 - Challenges and Limitations of Language Models<br>32:50 - Aligning Evaluation Metrics with Business Outcomes<br>35:09 - Improving Recommendation Systems and Search Algorithms<br>46:05 - The Future of AI and the Role of Engineers and Product Leaders<br>51:45 - The Raptor Paper: Organizing and Summarizing Text Chunks</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>What comes after Open AI? Logan Kilpatrick on how you should prepare for the future of LLMs</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>What comes after Open AI? Logan Kilpatrick on how you should prepare for the future of LLMs</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">21e8c5db-80d4-488e-ac27-1d70e84fa63b</guid>
+      <link>https://share.transistor.fm/s/2ba19d23</link>
+      <description>
+        <![CDATA[<p>If you need to understand the future trajectory of AI, Logan Kilpatrick will help you do just that.  Having seen the frontier at both OpenAI and Google. </p><p>Logan led developer relations at OpenAI before leading product on the Google AI Studio. He's been closer than anyone to developers building with LLMs and has seen behind the curtain at two frontier labs.</p><p>Logan and I talked about:<br>🔸 What it was like joining OpenAI the day ChatGPT hit 1 million users <br>🔸 What you might expect from GPT5<br>🔸 Google's latest innovations and the battle with OpenAI<br>🔸 How can you stay ahead and achieve real ROI<br>🔸 Logan's insights into the form factor of AI and what will replace chatbots</p><p>Chapters:<br>00:00 - Introduction<br>01:50 - OpenAI and the Release of ChatGPT<br>07:43 - Characteristics of Successful AI Products and Teams<br>10:00 - The Rate of Change in AI <br>12:22 - The Future of AI and the Role of Systems<br>13:47 - ROI in AI and Challenges with Cost<br>18:07 - Advice for Builders and the Potential of Fine-Tuning<br>20:52 - The Role of Prompt Engineering in AI Development<br>25:27 - The Current State of Gemini<br>34:07 - Future Form Factors of AI<br>39:34 - Challenges and Opportunities in Building AI Startups</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>If you need to understand the future trajectory of AI, Logan Kilpatrick will help you do just that.  Having seen the frontier at both OpenAI and Google. </p><p>Logan led developer relations at OpenAI before leading product on the Google AI Studio. He's been closer than anyone to developers building with LLMs and has seen behind the curtain at two frontier labs.</p><p>Logan and I talked about:<br>🔸 What it was like joining OpenAI the day ChatGPT hit 1 million users <br>🔸 What you might expect from GPT5<br>🔸 Google's latest innovations and the battle with OpenAI<br>🔸 How can you stay ahead and achieve real ROI<br>🔸 Logan's insights into the form factor of AI and what will replace chatbots</p><p>Chapters:<br>00:00 - Introduction<br>01:50 - OpenAI and the Release of ChatGPT<br>07:43 - Characteristics of Successful AI Products and Teams<br>10:00 - The Rate of Change in AI <br>12:22 - The Future of AI and the Role of Systems<br>13:47 - ROI in AI and Challenges with Cost<br>18:07 - Advice for Builders and the Potential of Fine-Tuning<br>20:52 - The Role of Prompt Engineering in AI Development<br>25:27 - The Current State of Gemini<br>34:07 - Future Form Factors of AI<br>39:34 - Challenges and Opportunities in Building AI Startups</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 17 Jul 2024 11:30:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/2ba19d23/858bc24d.mp3" length="42868407" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2677</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>If you need to understand the future trajectory of AI, Logan Kilpatrick will help you do just that.  Having seen the frontier at both OpenAI and Google. </p><p>Logan led developer relations at OpenAI before leading product on the Google AI Studio. He's been closer than anyone to developers building with LLMs and has seen behind the curtain at two frontier labs.</p><p>Logan and I talked about:<br>🔸 What it was like joining OpenAI the day ChatGPT hit 1 million users <br>🔸 What you might expect from GPT5<br>🔸 Google's latest innovations and the battle with OpenAI<br>🔸 How can you stay ahead and achieve real ROI<br>🔸 Logan's insights into the form factor of AI and what will replace chatbots</p><p>Chapters:<br>00:00 - Introduction<br>01:50 - OpenAI and the Release of ChatGPT<br>07:43 - Characteristics of Successful AI Products and Teams<br>10:00 - The Rate of Change in AI <br>12:22 - The Future of AI and the Role of Systems<br>13:47 - ROI in AI and Challenges with Cost<br>18:07 - Advice for Builders and the Potential of Fine-Tuning<br>20:52 - The Role of Prompt Engineering in AI Development<br>25:27 - The Current State of Gemini<br>34:07 - Future Form Factors of AI<br>39:34 - Challenges and Opportunities in Building AI Startups</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p><p>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to humanloop.com</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>AI's Memory Upgrade: Max Rumpf on how to build advanced RAG systems</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>AI's Memory Upgrade: Max Rumpf on how to build advanced RAG systems</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b8f5544f-d3a8-4cc0-b25a-b2282d0f09d1</guid>
+      <link>https://share.transistor.fm/s/cf63437f</link>
+      <description>
+        <![CDATA[<p>I'm excited to share this conversation with Max Rumpf the founder of Sid.AI. I wanted to speak to Max because Retrieval Augmented generation has become core to building AI applications and he knows more about RAG than anyone I know.</p><p>We get deep into the challenges of building RAG systems and the episode is full of technical detail and practical insights. </p><p>We cover:<br>00:00 - Introduction to Max Rumpf and SID.ai<br>03:39 - How SID.ai's RAG approach differs from basic tutorials<br>07:30 - Challenges of document processing and chunking strategies<br>13:07 - Retrieval techniques and hybrid search approaches<br>15:06 - Discussion on knowledge graphs and their limitations<br>20:58 - Reranking in RAG systems and performance improvements<br>32:14 - Impact of longer context windows on RAG systems<br>35:10 - The future of RAG and information retrieval<br>39:47 - Recent research papers on AI and hallucination detection<br>42:04 - Value-augmented sampling for language model alignment<br>43:11 - Future trends and investment opportunities in AI<br>43:50 - SEO optimization for LLMs and its potential as a business<br>45:20 - Closing thoughts and wrap-up</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>I'm excited to share this conversation with Max Rumpf the founder of Sid.AI. I wanted to speak to Max because Retrieval Augmented generation has become core to building AI applications and he knows more about RAG than anyone I know.</p><p>We get deep into the challenges of building RAG systems and the episode is full of technical detail and practical insights. </p><p>We cover:<br>00:00 - Introduction to Max Rumpf and SID.ai<br>03:39 - How SID.ai's RAG approach differs from basic tutorials<br>07:30 - Challenges of document processing and chunking strategies<br>13:07 - Retrieval techniques and hybrid search approaches<br>15:06 - Discussion on knowledge graphs and their limitations<br>20:58 - Reranking in RAG systems and performance improvements<br>32:14 - Impact of longer context windows on RAG systems<br>35:10 - The future of RAG and information retrieval<br>39:47 - Recent research papers on AI and hallucination detection<br>42:04 - Value-augmented sampling for language model alignment<br>43:11 - Future trends and investment opportunities in AI<br>43:50 - SEO optimization for LLMs and its potential as a business<br>45:20 - Closing thoughts and wrap-up</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 11 Jul 2024 06:47:26 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/cf63437f/87396a64.mp3" length="44960344" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2807</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>I'm excited to share this conversation with Max Rumpf the founder of Sid.AI. I wanted to speak to Max because Retrieval Augmented generation has become core to building AI applications and he knows more about RAG than anyone I know.</p><p>We get deep into the challenges of building RAG systems and the episode is full of technical detail and practical insights. </p><p>We cover:<br>00:00 - Introduction to Max Rumpf and SID.ai<br>03:39 - How SID.ai's RAG approach differs from basic tutorials<br>07:30 - Challenges of document processing and chunking strategies<br>13:07 - Retrieval techniques and hybrid search approaches<br>15:06 - Discussion on knowledge graphs and their limitations<br>20:58 - Reranking in RAG systems and performance improvements<br>32:14 - Impact of longer context windows on RAG systems<br>35:10 - The future of RAG and information retrieval<br>39:47 - Recent research papers on AI and hallucination detection<br>42:04 - Value-augmented sampling for language model alignment<br>43:11 - Future trends and investment opportunities in AI<br>43:50 - SEO optimization for LLMs and its potential as a business<br>45:20 - Closing thoughts and wrap-up</p><p>I hope you enjoy the conversation and if you do, please subscribe!</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Building AI Products at Scale: Lessons from Zapier's CEO</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>Building AI Products at Scale: Lessons from Zapier's CEO</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e0cda6c8-c63d-420a-b516-90a9dacc1850</guid>
+      <link>https://share.transistor.fm/s/b874560e</link>
+      <description>
+        <![CDATA[<p>In this episode, I had the pleasure of speaking with Wade Foster, the founder and CEO of Zapier. We discussed Zapier's journey with AI, from their early experiments to the company-wide AI hackathon they held in March. Wade shared insights on how they prioritize AI projects, the challenges they've faced, and the opportunities they see in the AI space. We also talked about the future of AI and how it might impact the way we work</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, I had the pleasure of speaking with Wade Foster, the founder and CEO of Zapier. We discussed Zapier's journey with AI, from their early experiments to the company-wide AI hackathon they held in March. Wade shared insights on how they prioritize AI projects, the challenges they've faced, and the opportunities they see in the AI space. We also talked about the future of AI and how it might impact the way we work</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 02 Jul 2024 16:41:08 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/b874560e/be5ac998.mp3" length="39259335" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2451</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, I had the pleasure of speaking with Wade Foster, the founder and CEO of Zapier. We discussed Zapier's journey with AI, from their early experiments to the company-wide AI hackathon they held in March. Wade shared insights on how they prioritize AI projects, the challenges they've faced, and the opportunities they see in the AI space. We also talked about the future of AI and how it might impact the way we work</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Inventing the AI Engineer</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>Inventing the AI Engineer</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">99c1bdb4-84e0-4773-975f-b7cfda9151f8</guid>
+      <link>https://share.transistor.fm/s/890b0ab6</link>
+      <description>
+        <![CDATA[<p>In this episode, I chatted with Shawn Wang about his upcoming AI engineering conference and what an AI engineer really is. It's been a year since he penned the viral essay "Rise of the AI Engineer' and we discuss if this new role will be enduring, the make up of the optimal AI team and trends in machine learning.</p><p>The Rise of the AI Engineer Blog Post: https://www.latent.space/p/ai-engineer</p><p>Chapters<br>00:00 - Introduction and background on Shawn Wang (Swyx)<br>03:45 - Reflecting on the "Rise of the AI Engineer" essay<br>07:30 - Skills and characteristics of AI Engineers<br>12:15 - Team composition for AI products<br>16:30 - Vertical vs. horizontal AI startups<br>23:00 - Advice for AI product creators and leaders<br>28:15 - Tools and buying vs. building for AI products<br>33:30 - Key trends in AI research and development<br>41:00 - Closing thoughts and information on the AI Engineer World Fair Summit</p><p>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, I chatted with Shawn Wang about his upcoming AI engineering conference and what an AI engineer really is. It's been a year since he penned the viral essay "Rise of the AI Engineer' and we discuss if this new role will be enduring, the make up of the optimal AI team and trends in machine learning.</p><p>The Rise of the AI Engineer Blog Post: https://www.latent.space/p/ai-engineer</p><p>Chapters<br>00:00 - Introduction and background on Shawn Wang (Swyx)<br>03:45 - Reflecting on the "Rise of the AI Engineer" essay<br>07:30 - Skills and characteristics of AI Engineers<br>12:15 - Team composition for AI products<br>16:30 - Vertical vs. horizontal AI startups<br>23:00 - Advice for AI product creators and leaders<br>28:15 - Tools and buying vs. building for AI products<br>33:30 - Key trends in AI research and development<br>41:00 - Closing thoughts and information on the AI Engineer World Fair Summit</p><p>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 24 Jun 2024 20:21:44 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/890b0ab6/28974580.mp3" length="46826522" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2924</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, I chatted with Shawn Wang about his upcoming AI engineering conference and what an AI engineer really is. It's been a year since he penned the viral essay "Rise of the AI Engineer' and we discuss if this new role will be enduring, the make up of the optimal AI team and trends in machine learning.</p><p>The Rise of the AI Engineer Blog Post: https://www.latent.space/p/ai-engineer</p><p>Chapters<br>00:00 - Introduction and background on Shawn Wang (Swyx)<br>03:45 - Reflecting on the "Rise of the AI Engineer" essay<br>07:30 - Skills and characteristics of AI Engineers<br>12:15 - Team composition for AI products<br>16:30 - Vertical vs. horizontal AI startups<br>23:00 - Advice for AI product creators and leaders<br>28:15 - Tools and buying vs. building for AI products<br>33:30 - Key trends in AI research and development<br>41:00 - Closing thoughts and information on the AI Engineer World Fair Summit</p><p>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Building an AI coding assistant with Beyang Liu CTO of Sourcegraph </title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>Building an AI coding assistant with Beyang Liu CTO of Sourcegraph </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1eb6986d-3a8f-47f7-8ced-7a48c88b6221</guid>
+      <link>https://share.transistor.fm/s/ff228b67</link>
+      <description>
+        <![CDATA[<p>Sourcegraph have built the most popular open source AI coding tool in both the dev community and the Fortune 500. I sat down with Beyang Liu their CTO and cofounder to find out how they did it.</p><p>We dive into the technical details of Cody's architecture, discussing how Sourcegraph handles the challenges of limited context windows in LLMs, why they don't use embeddings in their RAG system, and the importance of starting with the simplest approach before adding complexity.</p><p>We also touch on the future of software engineering, open-source vs closed LLM models and what areas of AI are overhyped vs underhyped</p><p>I hope you enjoy the conversation!</p><p>Chapters<br>- 00:00:00 - Introduction<br>- 00:02:30 - What is Cody, and how does it help developers?<br>- 00:04:15 - Challenges of building AI for large, legacy codebases<br>- 00:07:30 - The importance of starting with the simplest approach<br>- 00:11:00 - Sourcegraph's multi-layered context retrieval architecture using RAG<br>- 00:15:30 - Adapting to the evolving landscape of LLMs and model selection<br>- 00:19:00 - The future of software engineering in the age of AI<br>- [00:23:00 - Advice for individuals navigating the AI wave<br>- 00:26:00 - Predictions for the future of AI in software development<br>- 00:30:00 - Is AI overhyped, underhyped, or both?<br>- 00:33:00 - Exciting AI startups to watch<br>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Sourcegraph have built the most popular open source AI coding tool in both the dev community and the Fortune 500. I sat down with Beyang Liu their CTO and cofounder to find out how they did it.</p><p>We dive into the technical details of Cody's architecture, discussing how Sourcegraph handles the challenges of limited context windows in LLMs, why they don't use embeddings in their RAG system, and the importance of starting with the simplest approach before adding complexity.</p><p>We also touch on the future of software engineering, open-source vs closed LLM models and what areas of AI are overhyped vs underhyped</p><p>I hope you enjoy the conversation!</p><p>Chapters<br>- 00:00:00 - Introduction<br>- 00:02:30 - What is Cody, and how does it help developers?<br>- 00:04:15 - Challenges of building AI for large, legacy codebases<br>- 00:07:30 - The importance of starting with the simplest approach<br>- 00:11:00 - Sourcegraph's multi-layered context retrieval architecture using RAG<br>- 00:15:30 - Adapting to the evolving landscape of LLMs and model selection<br>- 00:19:00 - The future of software engineering in the age of AI<br>- [00:23:00 - Advice for individuals navigating the AI wave<br>- 00:26:00 - Predictions for the future of AI in software development<br>- 00:30:00 - Is AI overhyped, underhyped, or both?<br>- 00:33:00 - Exciting AI startups to watch<br>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Jun 2024 07:00:00 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/ff228b67/c54db6b2.mp3" length="49012467" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>3061</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Sourcegraph have built the most popular open source AI coding tool in both the dev community and the Fortune 500. I sat down with Beyang Liu their CTO and cofounder to find out how they did it.</p><p>We dive into the technical details of Cody's architecture, discussing how Sourcegraph handles the challenges of limited context windows in LLMs, why they don't use embeddings in their RAG system, and the importance of starting with the simplest approach before adding complexity.</p><p>We also touch on the future of software engineering, open-source vs closed LLM models and what areas of AI are overhyped vs underhyped</p><p>I hope you enjoy the conversation!</p><p>Chapters<br>- 00:00:00 - Introduction<br>- 00:02:30 - What is Cody, and how does it help developers?<br>- 00:04:15 - Challenges of building AI for large, legacy codebases<br>- 00:07:30 - The importance of starting with the simplest approach<br>- 00:11:00 - Sourcegraph's multi-layered context retrieval architecture using RAG<br>- 00:15:30 - Adapting to the evolving landscape of LLMs and model selection<br>- 00:19:00 - The future of software engineering in the age of AI<br>- [00:23:00 - Advice for individuals navigating the AI wave<br>- 00:26:00 - Predictions for the future of AI in software development<br>- 00:30:00 - Is AI overhyped, underhyped, or both?<br>- 00:33:00 - Exciting AI startups to watch<br>--------------------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Evaluating LLMs the Right Way: Lessons from Hex's Journey</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>Evaluating LLMs the Right Way: Lessons from Hex's Journey</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f3e6c573-6fec-4c66-983a-710102b17f32</guid>
+      <link>https://share.transistor.fm/s/4aead652</link>
+      <description>
+        <![CDATA[<p>I recently sat down with Bryan Bischof, AI lead at Hex, to dive deep into how they evaluate LLMs to ship reliable AI agents. Hex has deployed AI assistants that can automatically generate SQL queries, transform data, and create visualizations based on natural language questions. While many teams struggle to get value from LLMs in production, Hex has cracked the code.</p><p>In this episode, Bryan shares the hard-won lessons they've learned along the way. We discuss why most teams are approaching LLM evaluation wrong and how Hex's unique framework enabled them to ship with confidence. </p><p>Bryan breaks down the key ingredients to Hex's success:<br>- Choosing the right tools to constrain agent behavior<br>- Using a reactive DAG to allow humans to course-correct agent plans<br>- Building granular, user-centric evaluators instead of chasing one "god metric"<br>- Gating releases on the metrics that matter, not just gaming a score<br>- Constantly scrutinizing model inputs &amp; outputs to uncover insights</p><p>For show notes and a transcript go to:<br>https://hubs.ly/Q02BdzVP0<br>-----------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>I recently sat down with Bryan Bischof, AI lead at Hex, to dive deep into how they evaluate LLMs to ship reliable AI agents. Hex has deployed AI assistants that can automatically generate SQL queries, transform data, and create visualizations based on natural language questions. While many teams struggle to get value from LLMs in production, Hex has cracked the code.</p><p>In this episode, Bryan shares the hard-won lessons they've learned along the way. We discuss why most teams are approaching LLM evaluation wrong and how Hex's unique framework enabled them to ship with confidence. </p><p>Bryan breaks down the key ingredients to Hex's success:<br>- Choosing the right tools to constrain agent behavior<br>- Using a reactive DAG to allow humans to course-correct agent plans<br>- Building granular, user-centric evaluators instead of chasing one "god metric"<br>- Gating releases on the metrics that matter, not just gaming a score<br>- Constantly scrutinizing model inputs &amp; outputs to uncover insights</p><p>For show notes and a transcript go to:<br>https://hubs.ly/Q02BdzVP0<br>-----------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 10 Jun 2024 22:25:06 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/4aead652/264f29b1.mp3" length="43903386" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:duration>2739</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>I recently sat down with Bryan Bischof, AI lead at Hex, to dive deep into how they evaluate LLMs to ship reliable AI agents. Hex has deployed AI assistants that can automatically generate SQL queries, transform data, and create visualizations based on natural language questions. While many teams struggle to get value from LLMs in production, Hex has cracked the code.</p><p>In this episode, Bryan shares the hard-won lessons they've learned along the way. We discuss why most teams are approaching LLM evaluation wrong and how Hex's unique framework enabled them to ship with confidence. </p><p>Bryan breaks down the key ingredients to Hex's success:<br>- Choosing the right tools to constrain agent behavior<br>- Using a reactive DAG to allow humans to course-correct agent plans<br>- Building granular, user-centric evaluators instead of chasing one "god metric"<br>- Gating releases on the metrics that matter, not just gaming a score<br>- Constantly scrutinizing model inputs &amp; outputs to uncover insights</p><p>For show notes and a transcript go to:<br>https://hubs.ly/Q02BdzVP0<br>-----------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models. It enables product teams to develop LLM-based applications that are reliable and scalable. To find out more go to  https://hubs.ly/Q02yV72D0</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/4aead652/transcript.txt" type="text/plain"/>
+      <podcast:chapters url="https://share.transistor.fm/s/4aead652/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>Building reliable AI agents with Cai GoGwilt CTO of Ironclad</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Building reliable AI agents with Cai GoGwilt CTO of Ironclad</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">513adb8d-168b-4af9-8a9a-2604f6cd0bf8</guid>
+      <link>https://share.transistor.fm/s/8c355959</link>
+      <description>
+        <![CDATA[<p>50% of AI contracts at Ironclad’s largest customers are now automatically negotiated with the help of generative AI. Ironclad were one of the earliest adopters of LLMs, starting when the best model was still GPT-3.  There’s a lot of hype around AI agents without many successful examples but Ironclad had successfully deployed them in one of the most sensitive industries imaginable. </p><p><br></p><p>In this episode Cai explains how they achieved this. Why they had to build their own visual programming language to make agents reliable and shares his advice for AI leaders starting to build products today.</p><p>Where to find us: https://hubs.ly/Q02z2J6v0</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>50% of AI contracts at Ironclad’s largest customers are now automatically negotiated with the help of generative AI. Ironclad were one of the earliest adopters of LLMs, starting when the best model was still GPT-3.  There’s a lot of hype around AI agents without many successful examples but Ironclad had successfully deployed them in one of the most sensitive industries imaginable. </p><p><br></p><p>In this episode Cai explains how they achieved this. Why they had to build their own visual programming language to make agents reliable and shares his advice for AI leaders starting to build products today.</p><p>Where to find us: https://hubs.ly/Q02z2J6v0</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 03 Jun 2024 18:03:16 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/8c355959/e7aad6f7.mp3" length="49079319" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:image href="https://img.transistor.fm/WZ2GY4qe_qYirFbsgBtAu3PQ_aVgHyUum5Kmlc3ZrsA/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNmYz/YjlhNjFhZTJkZjQx/NTcwYTcyZDM4ZjRl/YTRmNC5wbmc.jpg"/>
+      <itunes:duration>3064</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>50% of AI contracts at Ironclad’s largest customers are now automatically negotiated with the help of generative AI. Ironclad were one of the earliest adopters of LLMs, starting when the best model was still GPT-3.  There’s a lot of hype around AI agents without many successful examples but Ironclad had successfully deployed them in one of the most sensitive industries imaginable. </p><p><br></p><p>In this episode Cai explains how they achieved this. Why they had to build their own visual programming language to make agents reliable and shares his advice for AI leaders starting to build products today.</p><p>Where to find us: https://hubs.ly/Q02z2J6v0</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Welcome to the High Agency podcast!</title>
+      <itunes:title>Welcome to the High Agency podcast!</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <guid isPermaLink="false">45fdcb70-fdde-40bc-bc4d-43e670ebccbc</guid>
+      <link>https://share.transistor.fm/s/a0a420c1</link>
+      <description>
+        <![CDATA[<p>Welcome to very first episode of the High Agency podcast! High Agency is a new podcast from Humanloop.</p><p>Every week, I (Raza Habib) will interview leaders from companies, who have already succeeded with AI in production.  We'll share their stories, lessons and playbooks to help you build with LLMs more quickly and with confidence.</p><p>To get notified of the first episodes with Cai Gogwilt or Ironclad, Bryan Bishof of Hex, Beyang Liu of Sourcegraph and Wade Foster of Zapier please subscribe on youtube, spotify or apple podcasts! (just search for High Agency podcast)<br>----------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models.<br>It enables product teams to develop LLM-based applications that are reliable and scalable.</p><p>Principally, it lets you rigorously measure and improve LLM performance during development and in production. The evalutation tools are. combiined with a collaborative workspace where engineers, PMs and subject matter experts improve prompts, tools and agents together.</p><p>By adopting Humanloop, teams save 6-8 engineering hours each week through better workflows and they feel confident that their AI is reliable.</p><p>To find out more go to https://hubs.ly/Q02z2J6v0</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome to very first episode of the High Agency podcast! High Agency is a new podcast from Humanloop.</p><p>Every week, I (Raza Habib) will interview leaders from companies, who have already succeeded with AI in production.  We'll share their stories, lessons and playbooks to help you build with LLMs more quickly and with confidence.</p><p>To get notified of the first episodes with Cai Gogwilt or Ironclad, Bryan Bishof of Hex, Beyang Liu of Sourcegraph and Wade Foster of Zapier please subscribe on youtube, spotify or apple podcasts! (just search for High Agency podcast)<br>----------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models.<br>It enables product teams to develop LLM-based applications that are reliable and scalable.</p><p>Principally, it lets you rigorously measure and improve LLM performance during development and in production. The evalutation tools are. combiined with a collaborative workspace where engineers, PMs and subject matter experts improve prompts, tools and agents together.</p><p>By adopting Humanloop, teams save 6-8 engineering hours each week through better workflows and they feel confident that their AI is reliable.</p><p>To find out more go to https://hubs.ly/Q02z2J6v0</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 03 Jun 2024 16:34:19 -0700</pubDate>
+      <author>Raza Habib</author>
+      <enclosure url="https://media.transistor.fm/a0a420c1/8d0d5410.mp3" length="2369873" type="audio/mpeg"/>
+      <itunes:author>Raza Habib</itunes:author>
+      <itunes:image href="https://img.transistor.fm/Emg7hQCK7NIIMFJRS427WYL1lMAz1HC1xW8E0ohv4gw/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MjNm/MTU0ZTExN2RmNmY1/NDBlNjcwMjc4ZTA1/MGZmOC5wbmc.jpg"/>
+      <itunes:duration>145</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome to very first episode of the High Agency podcast! High Agency is a new podcast from Humanloop.</p><p>Every week, I (Raza Habib) will interview leaders from companies, who have already succeeded with AI in production.  We'll share their stories, lessons and playbooks to help you build with LLMs more quickly and with confidence.</p><p>To get notified of the first episodes with Cai Gogwilt or Ironclad, Bryan Bishof of Hex, Beyang Liu of Sourcegraph and Wade Foster of Zapier please subscribe on youtube, spotify or apple podcasts! (just search for High Agency podcast)<br>----------------------------------------------------------------------------------------------------------------------------------------<br>Humanloop is an Integrated Development Environment for Large Language Models.<br>It enables product teams to develop LLM-based applications that are reliable and scalable.</p><p>Principally, it lets you rigorously measure and improve LLM performance during development and in production. The evalutation tools are. combiined with a collaborative workspace where engineers, PMs and subject matter experts improve prompts, tools and agents together.</p><p>By adopting Humanloop, teams save 6-8 engineering hours each week through better workflows and they feel confident that their AI is reliable.</p><p>To find out more go to https://hubs.ly/Q02z2J6v0</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Large Language Models, GenerativeAI, AI in production, AI playbooks, AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/a0a420c1/transcript.txt" type="text/plain"/>
+    </item>
+  </channel>
+</rss>

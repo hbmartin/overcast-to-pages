@@ -1,0 +1,1396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:200738546/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:200738546/sounds.rss?before=242942488" rel="next" type="application/rss+xml"/>
+        <title>CSAIL Alliances Podcasts</title>
+        <link>http://cap.csail.mit.edu</link>
+        <pubDate>Fri, 30 May 2025 19:54:51 +0000</pubDate>
+        <lastBuildDate>Fri, 30 May 2025 19:54:51 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) Alliances serves as a gateway into the lab for industry and governmental institutions seeking a closer connection to the work, researchers, and students of CSAIL. Our podcast aims to provide inside access to topics covered by CSAIL and other leaders advancing computer science and AI research.</description>
+        <itunes:subtitle>MIT's Computer Science and Artificial Intelligenc…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>MIT CSAIL Alliances</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>CSAIL Alliances</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i1.sndcdn.com/avatars-sxriW0OMyRkpVJvt-vxEUOg-original.jpg"/>
+        <image>
+          <url>https://i1.sndcdn.com/avatars-sxriW0OMyRkpVJvt-vxEUOg-original.jpg</url>
+          <title>MIT CSAIL Alliances</title>
+          <link>http://cap.csail.mit.edu</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2105051085</guid>
+      <title>Beyond the Hype: How AI is Actually Reshaping Business with Andy Ellis</title>
+      <pubDate>Mon, 02 Jun 2025 12:00:06 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/beyond-the-hype-how-ai-is-actually-reshaping-business-with-andy-ellis</link>
+      <itunes:duration>00:39:03</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Cybersecurity expert and venture capitalist Andy Ellis breaks down why the smartest organizations are using AI to augment their workers, not replace them. Today’s AI systems are best used when they serve as “semi-pro” tools—fast, scalable, surprisingly effective, but still guided by some human oversight. In this conversation, he shares cautionary tales about hallucinations, prompt injections, unintended consequences, and outlines the common pitfalls he already sees companies falling into.
+
+You’ll hear:
+- How to minimize resistance and bring the workforce onboard when deploying AI tools.
+
+- Why AI agents should be limited in scope and the advantage of stacking specialized agents which, acting together, enhance productivity and capacity.
+
+- Why AI is good for generating content for specific purposes but not good at creating writing, art, or materials which will have lasting impact.
+
+- How productivity “nag bots” can help workers get more done. 
+
+Ellis sees this moment as the next SaaS-level transformation, arguing that the winners of today’s AI arms race will become the trillionaires of tomorrow. Fundamentally, he believes the best way to implement this transformative new technology is to let humans decide and the AIs act.
+
+Connect with CSAIL Alliances:
+On our site: cap.csail.mit.edu/about-us/meet-our-team
+On X: x.com/csail_alliances
+On LinkedIn: linkedin.com/company/mit-csail
+</itunes:summary>
+      <itunes:subtitle>Cybersecurity expert and venture capitalist Andy …</itunes:subtitle>
+      <description>Cybersecurity expert and venture capitalist Andy Ellis breaks down why the smartest organizations are using AI to augment their workers, not replace them. Today’s AI systems are best used when they serve as “semi-pro” tools—fast, scalable, surprisingly effective, but still guided by some human oversight. In this conversation, he shares cautionary tales about hallucinations, prompt injections, unintended consequences, and outlines the common pitfalls he already sees companies falling into.
+
+You’ll hear:
+- How to minimize resistance and bring the workforce onboard when deploying AI tools.
+
+- Why AI agents should be limited in scope and the advantage of stacking specialized agents which, acting together, enhance productivity and capacity.
+
+- Why AI is good for generating content for specific purposes but not good at creating writing, art, or materials which will have lasting impact.
+
+- How productivity “nag bots” can help workers get more done. 
+
+Ellis sees this moment as the next SaaS-level transformation, arguing that the winners of today’s AI arms race will become the trillionaires of tomorrow. Fundamentally, he believes the best way to implement this transformative new technology is to let humans decide and the AIs act.
+
+Connect with CSAIL Alliances:
+On our site: cap.csail.mit.edu/about-us/meet-our-team
+On X: x.com/csail_alliances
+On LinkedIn: linkedin.com/company/mit-csail
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2105051085-csail-alliances-beyond-the-hype-how-ai-is-actually-reshaping-business-with-andy-ellis.mp3" length="28179907"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-ROf245Isl1qravmT-vP29jg-t3000x3000.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2089978188</guid>
+      <title>Driving Behavior by Design: MIT CSAIL Professor Sam Madden on the Science of Safer Roads with AI</title>
+      <pubDate>Mon, 05 May 2025 12:01:02 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/driving-behavior-by-design-mit-csail-professor-sam-madden-on-the-science-of-safer-roads-with-ai</link>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Can your phone make you a safer driver? Or is it part of the problem?
+
+MIT CSAIL Professor Sam Madden shares the origin story of Cambridge Mobile Telematics, a CSAIL spinout using smartphones and AI to prevent car crashes and save lives. In this episode, Professor Madden joins host Kara Miller to explore how accelerometers, algorithms, and well-timed incentives are transforming how we understand and improve driver behavior.
+Professor Madden reflects on surprising data trends, like why crash rates haven’t fallen despite better car tech, and how the ubiquitous smartphone became a key tool for reducing risk on the road. He also dives into how generative AI is reshaping software development, what it means for education and programming skills, and why trust and privacy remain top concerns when deploying AI across sensitive industries.
+
+Covering distracted driving, autonomous vehicles, behavioral nudges, and business infrastructure, Professor Madden reveals what’s working and where the road ahead leads.
+
+Topics include:
+The history of Cambridge Mobile Telematics
+The realities of traffic accidents
+How your phone can track your driving safety
+Turning your data into a narrative
+The corrosive effects of phones
+
+Learn more about Professor Madden on his website: https://db.csail.mit.edu/madden/ 
+Or his CSAIL page: https://www.csail.mit.edu/person/sam-madden 
+Read our case study on Cambridge Mobile Telematics: https://cap.csail.mit.edu/sites/default/files/2023-05/CMT_Case%20Study%20Template_2022.pdf 
+
+Connect with CSAIL Alliances:
+On our site: https://cap.csail.mit.edu/about-us/meet-our-team
+On X: https://x.com/csail_alliances
+On LinkedIn: https://linkedin.com/company/mit-csail</itunes:summary>
+      <itunes:subtitle>Can your phone make you a safer driver? Or is it …</itunes:subtitle>
+      <description>Can your phone make you a safer driver? Or is it part of the problem?
+
+MIT CSAIL Professor Sam Madden shares the origin story of Cambridge Mobile Telematics, a CSAIL spinout using smartphones and AI to prevent car crashes and save lives. In this episode, Professor Madden joins host Kara Miller to explore how accelerometers, algorithms, and well-timed incentives are transforming how we understand and improve driver behavior.
+Professor Madden reflects on surprising data trends, like why crash rates haven’t fallen despite better car tech, and how the ubiquitous smartphone became a key tool for reducing risk on the road. He also dives into how generative AI is reshaping software development, what it means for education and programming skills, and why trust and privacy remain top concerns when deploying AI across sensitive industries.
+
+Covering distracted driving, autonomous vehicles, behavioral nudges, and business infrastructure, Professor Madden reveals what’s working and where the road ahead leads.
+
+Topics include:
+The history of Cambridge Mobile Telematics
+The realities of traffic accidents
+How your phone can track your driving safety
+Turning your data into a narrative
+The corrosive effects of phones
+
+Learn more about Professor Madden on his website: https://db.csail.mit.edu/madden/ 
+Or his CSAIL page: https://www.csail.mit.edu/person/sam-madden 
+Read our case study on Cambridge Mobile Telematics: https://cap.csail.mit.edu/sites/default/files/2023-05/CMT_Case%20Study%20Template_2022.pdf 
+
+Connect with CSAIL Alliances:
+On our site: https://cap.csail.mit.edu/about-us/meet-our-team
+On X: https://x.com/csail_alliances
+On LinkedIn: https://linkedin.com/company/mit-csail</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2089978188-csail-alliances-driving-behavior-by-design-mit-csail-professor-sam-madden-on-the-science-of-safer-roads-with-ai.mp3" length="24729696"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-o5pF1uuLdquR4oQM-AuaEaA-t3000x3000.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2079811230</guid>
+      <title>How AI Can Help Save the Natural World, with MIT CSAIL Assistant Professor Sara Beery</title>
+      <pubDate>Thu, 17 Apr 2025 13:00:50 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/how-ai-can-help-save-the-natural-world-with-mit-csail-assistant-professor-sara-beery</link>
+      <itunes:duration>00:14:11</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Finches, zebras, Darwin... and AI? 🧠🌍
+
+Two centuries after Darwin explored the Galápagos, artificial intelligence is transforming how we study and protect the natural world, rapidly expanding what’s possible in biodiversity and ecology research. In this episode, MIT CSAIL Assistant Professor Sara Beery explains how AI is unlocking new possibilities in conservation, from identifying endangered species to analyzing ecosystem health at scale. AI can help biologists collect, process, and interpret enormous volumes of data, unlocking patterns and offering insights that were simply not possible without modern technology.
+Beery shares her journey, from tagging snow leopards in college to leading global research at the intersection of computer vision and ecology. But she sounds a note of caution: AI has no values of its own and must be paired with human values to tackle the complex tradeoffs behind biodiversity decisions. As these tools become more powerful, it’s up to us to decide how they’re used, and what (or who) we prioritize.
+
+🎧 Topics include:
+Using AI to analyze millions of wildlife images
+Why computer vision is revolutionizing species identification
+The ethical dilemmas behind conservation decisions
+How researchers are using AI to inform policy and protect ecosystems
+
+
+🔗Learn more about Professor Beery:
+
+🌐 Website: https://beerys.github.io/ or her CSAIL page https://www.csail.mit.edu/person/sara-beery
+
+Connect with CSAIL Alliances:
+On our site: https://cap.csail.mit.edu/about-us/meet-our-team
+On X: https://x.com/csail_alliances
+On LinkedIn: https://linkedin.com/company/mit-csail
+
+#MITCSAIL #AI #Conservation #Biology #Technology #CSAILPodcast</itunes:summary>
+      <itunes:subtitle>Finches, zebras, Darwin... and AI? 🧠🌍
+
+Two cent…</itunes:subtitle>
+      <description>Finches, zebras, Darwin... and AI? 🧠🌍
+
+Two centuries after Darwin explored the Galápagos, artificial intelligence is transforming how we study and protect the natural world, rapidly expanding what’s possible in biodiversity and ecology research. In this episode, MIT CSAIL Assistant Professor Sara Beery explains how AI is unlocking new possibilities in conservation, from identifying endangered species to analyzing ecosystem health at scale. AI can help biologists collect, process, and interpret enormous volumes of data, unlocking patterns and offering insights that were simply not possible without modern technology.
+Beery shares her journey, from tagging snow leopards in college to leading global research at the intersection of computer vision and ecology. But she sounds a note of caution: AI has no values of its own and must be paired with human values to tackle the complex tradeoffs behind biodiversity decisions. As these tools become more powerful, it’s up to us to decide how they’re used, and what (or who) we prioritize.
+
+🎧 Topics include:
+Using AI to analyze millions of wildlife images
+Why computer vision is revolutionizing species identification
+The ethical dilemmas behind conservation decisions
+How researchers are using AI to inform policy and protect ecosystems
+
+
+🔗Learn more about Professor Beery:
+
+🌐 Website: https://beerys.github.io/ or her CSAIL page https://www.csail.mit.edu/person/sara-beery
+
+Connect with CSAIL Alliances:
+On our site: https://cap.csail.mit.edu/about-us/meet-our-team
+On X: https://x.com/csail_alliances
+On LinkedIn: https://linkedin.com/company/mit-csail
+
+#MITCSAIL #AI #Conservation #Biology #Technology #CSAILPodcast</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2079811230-csail-alliances-how-ai-can-help-save-the-natural-world-with-mit-csail-assistant-professor-sara-beery.mp3" length="10224288"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3s57Nc5NLZX7PLlJ-SdnM9A-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2070106648</guid>
+      <title>AI's Hidden Business Effects: MIT Principal Research Scientist Andrew McAfee Explores how AI is Affecting Enterprise</title>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/ais-hidden-business-effects-mit-principal-research-scientist-andrew-mcafee-explores-how-ai-is-affecting-enterprise</link>
+      <itunes:duration>00:47:27</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>What happens when every company becomes a tech company—and the geeks take the wheel?
+
+Renowned economist, bestselling author, and MIT Principal Research Scientist Andrew McAfee unpacks how AI is transforming corporate strategy—from cement makers to software engineers. Drawing on insights from his book The Geek Way and his startup Workhelix, McAfee shares what he’s hearing from executives around the world, where AI is delivering real ROI, and why understanding how we measure impact is just as important as what we measure.
+
+From call centers to material science labs, from spreadsheet power users to the future of education, McAfee examines how generative AI is changing who wins—and how people can avoid getting left behind. He also weighs in on the biggest AI misconceptions, the risks that actually matter, and why Silicon Valley still holds the crown in the age of innovation.
+
+Topics include:
+The management playbook of the future
+Real-world studies on AI’s impact in the workplace
+Why AI helps some workers more than others
+The “credibility revolution” in measuring ROI
+What companies get wrong about scaling AI
+Whether writing—and even coding—will still matter in 10 years
+
+Andrew McAfee is the Co-Director of the IDE and a Principal Research Scientist at the MIT Sloan School of Management. His research investigates how information technology changes the way companies perform, organize themselves, and compete. He is a NYT bestselling author and writes a widely read blog, which is at times one of the 10,000 most popular in the world. Prior to joining MIT Sloan, McAfee was a professor at Harvard Business School. 
+
+Connect with CSAIL Alliances:
+On our site: https://cap.csail.mit.edu/about-us/meet-our-team
+On X: https://x.com/csail_alliances
+On LinkedIn: https://linkedin.com/company/mit-csail
+
+#MITCSAIL #AI #GenerativeAI #Leadership #Technology #CSAILPodcast
+</itunes:summary>
+      <itunes:subtitle>What happens when every company becomes a tech co…</itunes:subtitle>
+      <description>What happens when every company becomes a tech company—and the geeks take the wheel?
+
+Renowned economist, bestselling author, and MIT Principal Research Scientist Andrew McAfee unpacks how AI is transforming corporate strategy—from cement makers to software engineers. Drawing on insights from his book The Geek Way and his startup Workhelix, McAfee shares what he’s hearing from executives around the world, where AI is delivering real ROI, and why understanding how we measure impact is just as important as what we measure.
+
+From call centers to material science labs, from spreadsheet power users to the future of education, McAfee examines how generative AI is changing who wins—and how people can avoid getting left behind. He also weighs in on the biggest AI misconceptions, the risks that actually matter, and why Silicon Valley still holds the crown in the age of innovation.
+
+Topics include:
+The management playbook of the future
+Real-world studies on AI’s impact in the workplace
+Why AI helps some workers more than others
+The “credibility revolution” in measuring ROI
+What companies get wrong about scaling AI
+Whether writing—and even coding—will still matter in 10 years
+
+Andrew McAfee is the Co-Director of the IDE and a Principal Research Scientist at the MIT Sloan School of Management. His research investigates how information technology changes the way companies perform, organize themselves, and compete. He is a NYT bestselling author and writes a widely read blog, which is at times one of the 10,000 most popular in the world. Prior to joining MIT Sloan, McAfee was a professor at Harvard Business School. 
+
+Connect with CSAIL Alliances:
+On our site: https://cap.csail.mit.edu/about-us/meet-our-team
+On X: https://x.com/csail_alliances
+On LinkedIn: https://linkedin.com/company/mit-csail
+
+#MITCSAIL #AI #GenerativeAI #Leadership #Technology #CSAILPodcast
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2070106648-csail-alliances-ais-hidden-business-effects-mit-principal-research-scientist-andrew-mcafee-explores-how-ai-is-affecting-enterprise.mp3" length="34165152"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3EFO8eyXU06ve87A-Z6eWwQ-t3000x3000.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2044235528</guid>
+      <title>AI's Language Leap: MIT CSAIL Associate Professor Jacob Andreas Explores NLP and LLMs</title>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/ais-language-leap-mit-csail-associate-professor-jacob-andreas-explores-nlp-and-llms</link>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>For a full, uncut video version of this show (shot in Professor Andreas' MIT CSAIL office!), watch here: https://www.youtube.com/watch?v=QBV5Bj_NnbA
+ 
+MIT CSAIL Associate Professor Jacob Andreas walks listeners through how LLMs like ChatGPT evolved from academic curiosities to industry-disrupting technologies. 
+ 
+Reflecting on the transformations he has observed in AI research, Professor Andreas discusses how some ideas—like linking NLP research to cognitive science—have taken a backseat, while others—like the importance of large-scale training data—remain central. 
+ 
+He offers insights on AI use cases, the emergence of models like DeepSeek, and the critical role of human oversight in AI deployment. Acknowledging both the excitement and concerns surrounding AI, Professor Andreas believes that educators and industry alike face a challenge in keeping pace with the ‘moving target’ of AI progress.
+ 
+Plus: learn how AI can be used to decode the language of sperm whales!
+ 
+About the guest: Professor Andreas is an MIT EECS Associate Professor and CSAIL PI. Before joining MIT, he earned his PhD at Berkeley. His group's research focuses on three themes: building machine learning models that learn language in human-like ways, enabling the use of language as a general-purpose tool for building intelligent systems, and developing techniques for understanding machine learning models using language. His group envisions a future built around training, explaining, and interacting with intelligent systems for users of all the world's languages. 
+ 
+Learn more about Professor Jacob Andreas and his research here: https://www.mit.edu/~jda/ 
+Want to know more about Professor Andreas' work on the language of sperm whales? Read here: https://news.mit.edu/2024/csail-ceti-explores-sperm-whale-alphabet-0507  
+ 
+MIT's CSAIL Alliances Podcast is your guide to how AI &amp; computer science research impact how we live, work, play, and learn. Listener discounts, meet the host, and more: csail.mit.edu/podcast</itunes:summary>
+      <itunes:subtitle>For a full, uncut video version of this show (sho…</itunes:subtitle>
+      <description>For a full, uncut video version of this show (shot in Professor Andreas' MIT CSAIL office!), watch here: https://www.youtube.com/watch?v=QBV5Bj_NnbA
+ 
+MIT CSAIL Associate Professor Jacob Andreas walks listeners through how LLMs like ChatGPT evolved from academic curiosities to industry-disrupting technologies. 
+ 
+Reflecting on the transformations he has observed in AI research, Professor Andreas discusses how some ideas—like linking NLP research to cognitive science—have taken a backseat, while others—like the importance of large-scale training data—remain central. 
+ 
+He offers insights on AI use cases, the emergence of models like DeepSeek, and the critical role of human oversight in AI deployment. Acknowledging both the excitement and concerns surrounding AI, Professor Andreas believes that educators and industry alike face a challenge in keeping pace with the ‘moving target’ of AI progress.
+ 
+Plus: learn how AI can be used to decode the language of sperm whales!
+ 
+About the guest: Professor Andreas is an MIT EECS Associate Professor and CSAIL PI. Before joining MIT, he earned his PhD at Berkeley. His group's research focuses on three themes: building machine learning models that learn language in human-like ways, enabling the use of language as a general-purpose tool for building intelligent systems, and developing techniques for understanding machine learning models using language. His group envisions a future built around training, explaining, and interacting with intelligent systems for users of all the world's languages. 
+ 
+Learn more about Professor Jacob Andreas and his research here: https://www.mit.edu/~jda/ 
+Want to know more about Professor Andreas' work on the language of sperm whales? Read here: https://news.mit.edu/2024/csail-ceti-explores-sperm-whale-alphabet-0507  
+ 
+MIT's CSAIL Alliances Podcast is your guide to how AI &amp; computer science research impact how we live, work, play, and learn. Listener discounts, meet the host, and more: csail.mit.edu/podcast</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2044235528-csail-alliances-ais-language-leap-mit-csail-associate-professor-jacob-andreas-explores-nlp-and-llms.mp3" length="20089330"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-w4iIawhblvHkYZZh-s82hGw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2038047920</guid>
+      <title>Me, Myself &amp; AI: AI Hype and Skepticism with Economist Paul Romer (Bonus Episode!)</title>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/me-myself-ai-ai-hype-and-skepticism-with-economist-paul-romer-bonus-episode</link>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The MIT CSAIL Alliances Podcast is collaborating with MIT Sloan’s Me, Myself, and AI podcast to share a special bonus episode this month.
+
+Paul Romer once considered himself the most optimistic economist. He rightfully predicted that technology would blow up as an economic driver coming out of the inflation of the 1970s, but acknowledges he did not foresee the inequality that technology advances would lead to.
+
+On this episode of the Me, Myself, and AI podcast, Paul shares his views on AI advances and their implications for society. Rather than pave the way for full automation, he is a proponent of keeping humans in the loop and believes that technology can be pointed in a direction for more meaningful and beneficial use, citing education as an area ripe to benefit from AI.
+
+More about CSAIL Alliances and our podcasts: csail.mit.edu/podcast
+
+For more episodes from Me, Myself, and AI: https://sloanreview.mit.edu/audio-series/me-myself-and-ai/</itunes:summary>
+      <itunes:subtitle>The MIT CSAIL Alliances Podcast is collaborating …</itunes:subtitle>
+      <description>The MIT CSAIL Alliances Podcast is collaborating with MIT Sloan’s Me, Myself, and AI podcast to share a special bonus episode this month.
+
+Paul Romer once considered himself the most optimistic economist. He rightfully predicted that technology would blow up as an economic driver coming out of the inflation of the 1970s, but acknowledges he did not foresee the inequality that technology advances would lead to.
+
+On this episode of the Me, Myself, and AI podcast, Paul shares his views on AI advances and their implications for society. Rather than pave the way for full automation, he is a proponent of keeping humans in the loop and believes that technology can be pointed in a direction for more meaningful and beneficial use, citing education as an area ripe to benefit from AI.
+
+More about CSAIL Alliances and our podcasts: csail.mit.edu/podcast
+
+For more episodes from Me, Myself, and AI: https://sloanreview.mit.edu/audio-series/me-myself-and-ai/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2038047920-csail-alliances-me-myself-ai-ai-hype-and-skepticism-with-economist-paul-romer-bonus-episode.mp3" length="17908992"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-KGSCju1sCaOtwrPp-dO8j9g-t3000x3000.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2022985876</guid>
+      <title>MIT CSAIL Podcast: How AI will Change Your Job and The Potential of Self-Supervised Learning</title>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/how-ai-will-change-your-job-with-mit-economics-professor-david-autor-the-potential-of-self-supervised-learning-with-csail-phd-student-sharut-gupta</link>
+      <itunes:duration>00:44:17</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>How AI will Change Your Job with MIT Economics Professor David Autor &amp; The Potential of Self-Supervised Learning with CSAIL PhD Student Sharut Gupta
+
+
+Host: Kara Miller
+
+
+Part One: MIT Economics Professor David Autor says that AI is “not like a calculator where you just punch in the numbers and get the right answer. It's much harder to figure out how to be effective with it.” Offering unique insights into the future of work in an AI-powered world, Professor Autor explains his biggest worries, the greatest upside scenarios, and how he believes we should be approaching AI as a tool, and addresses how AI will impact jobs like nursing and skilled trades.
+
+
+Studies and papers referenced in conversation:
+
+    AI and Product Innovation: https://aidantr.github.io/files/AI_innovation.p
+    AI and the Gender Gap: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759218
+    Robotics and Nursing Homes: 
+
+https://www.nber.org/papers/w33116
+
+
+Part Two: CSAIL PhD student Sharut Gutpa describes how self-supervised learning might bring about truly adaptable models which can respond to fast-changing environments, like consumer preferences. 
+
+
+CSAIL Alliances connects business and industry to the people and research of MIT's Computer Science and Artificial Intelligence Labs. Learn more about CSAIL Alliances here.
+
+
+Each month, the CSAIL podcast features cutting-edge MIT and CSAIL experts discussing their current research, challenges and successes, as well as the potential impact of emerging tech. Learn more and listen to past episodes.
+
+
+Connect with CSAIL Alliances:
+
+On our site: https://cap.csail.mit.edu/about-us/meet-our-team
+
+On X: x.com/csail_alliances
+
+On LinkedIn: linkedIn.com/mit-CSAIL</itunes:summary>
+      <itunes:subtitle>How AI will Change Your Job with MIT Economics Pr…</itunes:subtitle>
+      <description>How AI will Change Your Job with MIT Economics Professor David Autor &amp; The Potential of Self-Supervised Learning with CSAIL PhD Student Sharut Gupta
+
+
+Host: Kara Miller
+
+
+Part One: MIT Economics Professor David Autor says that AI is “not like a calculator where you just punch in the numbers and get the right answer. It's much harder to figure out how to be effective with it.” Offering unique insights into the future of work in an AI-powered world, Professor Autor explains his biggest worries, the greatest upside scenarios, and how he believes we should be approaching AI as a tool, and addresses how AI will impact jobs like nursing and skilled trades.
+
+
+Studies and papers referenced in conversation:
+
+    AI and Product Innovation: https://aidantr.github.io/files/AI_innovation.p
+    AI and the Gender Gap: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759218
+    Robotics and Nursing Homes: 
+
+https://www.nber.org/papers/w33116
+
+
+Part Two: CSAIL PhD student Sharut Gutpa describes how self-supervised learning might bring about truly adaptable models which can respond to fast-changing environments, like consumer preferences. 
+
+
+CSAIL Alliances connects business and industry to the people and research of MIT's Computer Science and Artificial Intelligence Labs. Learn more about CSAIL Alliances here.
+
+
+Each month, the CSAIL podcast features cutting-edge MIT and CSAIL experts discussing their current research, challenges and successes, as well as the potential impact of emerging tech. Learn more and listen to past episodes.
+
+
+Connect with CSAIL Alliances:
+
+On our site: https://cap.csail.mit.edu/about-us/meet-our-team
+
+On X: x.com/csail_alliances
+
+On LinkedIn: linkedIn.com/mit-CSAIL</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2022985876-csail-alliances-how-ai-will-change-your-job-with-mit-economics-professor-david-autor-the-potential-of-self-supervised-learning-with-csail-phd-student-sharut-gupta.mp3" length="31887072"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-rcVHR2n4ffC5Z01F-UQGsEQ-t3000x3000.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2000316727</guid>
+      <title>The Revolutionary Potential of AI with CSAIL Professor Manolis Kellis</title>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/manolis_kellis_project_3</link>
+      <itunes:duration>00:43:32</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Have we achieved Artificial General Intelligence? MIT CSAIL Professor Manolis Kellis argues yes. Computers can do nearly every intellectual task that humans are capable of and are rapidly tackling the physical tasks. What does this mean for the future of AI integration, regulation, and development? Hear Professor Kellis’ ideas about how businesses can incorporate LLMs (large language models) to minimize silos, why we shouldn’t put up too many guardrails on AI technology, and how human-AI collaboration can lead to broader societal benefit, including healthcare. Professor Kellis is working toward a future where AI transforms healthcare through a deeper understanding of our individual genetics and targeted treatment development.
+
+Visit Professor Kellis’s website to learn more about his work on AI and computational biology: https://www.csail.mit.edu/person/manolis-kellis</itunes:summary>
+      <itunes:subtitle>Have we achieved Artificial General Intelligence?…</itunes:subtitle>
+      <description>Have we achieved Artificial General Intelligence? MIT CSAIL Professor Manolis Kellis argues yes. Computers can do nearly every intellectual task that humans are capable of and are rapidly tackling the physical tasks. What does this mean for the future of AI integration, regulation, and development? Hear Professor Kellis’ ideas about how businesses can incorporate LLMs (large language models) to minimize silos, why we shouldn’t put up too many guardrails on AI technology, and how human-AI collaboration can lead to broader societal benefit, including healthcare. Professor Kellis is working toward a future where AI transforms healthcare through a deeper understanding of our individual genetics and targeted treatment development.
+
+Visit Professor Kellis’s website to learn more about his work on AI and computational biology: https://www.csail.mit.edu/person/manolis-kellis</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2000316727-csail-alliances-manolis_kellis_project_3.mp3" length="31352544"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-piatUYRBS5VdjJfH-WUBnqA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1968451535</guid>
+      <title>AI’s Bias in Predictive Healthcare with Associate Professor Marzyeh Ghassemi</title>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/ais-bias-in-predictive-healthcare-with-associate-professor-marzyeh-ghassemi</link>
+      <itunes:duration>00:31:33</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Associate Professor Marzyeh Ghassemi discusses why, despite its tremendous potential for good, AI must be approached with caution, especially in high risk areas like healthcare.  Biases in training data can perpetuate real-world inequalities, providers might rely too much on potentially faulty AI, and tools created for one demographic might not necessarily translate to a different population. However, considering the incredible potential of AI to tackle challenges in transformative ways, it’s worth approaching these considerations with rigorous academic insight.  Learn more about her work here: https://www.csail.mit.edu/person/marzyeh-ghassemi</itunes:summary>
+      <itunes:subtitle>Associate Professor Marzyeh Ghassemi discusses wh…</itunes:subtitle>
+      <description>Associate Professor Marzyeh Ghassemi discusses why, despite its tremendous potential for good, AI must be approached with caution, especially in high risk areas like healthcare.  Biases in training data can perpetuate real-world inequalities, providers might rely too much on potentially faulty AI, and tools created for one demographic might not necessarily translate to a different population. However, considering the incredible potential of AI to tackle challenges in transformative ways, it’s worth approaching these considerations with rigorous academic insight.  Learn more about her work here: https://www.csail.mit.edu/person/marzyeh-ghassemi</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1968451535-csail-alliances-ais-bias-in-predictive-healthcare-with-associate-professor-marzyeh-ghassemi.mp3" length="22720320"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-oNk9rXWIgQqCKqy5-dbYj3g-t3000x3000.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1947321323</guid>
+      <title>AI in Healthcare with UCSD Prof. Karandeep Singh &amp; Robot Conversations with CSAIL Prof. Andreea Bobu</title>
+      <pubDate>Mon, 04 Nov 2024 14:00:14 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/ai-in-healthcare-with-ucsd-prof-karandeep-singh-robot-conversations-with-csail-prof-andreea-bobu</link>
+      <itunes:duration>00:43:41</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This month’s podcast is a double feature. First up, Associate Professor and Chief Health AI Officer at the University of California San Diego Karandeep Singh explains the reality of using artificial intelligence for medicine. Professor Singh extrapolates on what works, what doesn’t, and how some challenges are social rather than technical.
+Plus, MIT CSAIL’s Assistant Professor Andreea Bobu explains how large language models are advancing the field of robotics. Thanks to LLMs, giving directions to robots might soon look more like a conversation, without the need for step-by-step commands. 
+You can learn more about CSAIL research and access a full transcript of this podcast at https://cap.csail.mit.edu/. 
+To learn about CSAIL's Professional Development Courses, including the upcoming Cybersecurity for Technical Leaders and Deploying AI courses, visit here: cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</itunes:summary>
+      <itunes:subtitle>This month’s podcast is a double feature. First u…</itunes:subtitle>
+      <description>This month’s podcast is a double feature. First up, Associate Professor and Chief Health AI Officer at the University of California San Diego Karandeep Singh explains the reality of using artificial intelligence for medicine. Professor Singh extrapolates on what works, what doesn’t, and how some challenges are social rather than technical.
+Plus, MIT CSAIL’s Assistant Professor Andreea Bobu explains how large language models are advancing the field of robotics. Thanks to LLMs, giving directions to robots might soon look more like a conversation, without the need for step-by-step commands. 
+You can learn more about CSAIL research and access a full transcript of this podcast at https://cap.csail.mit.edu/. 
+To learn about CSAIL's Professional Development Courses, including the upcoming Cybersecurity for Technical Leaders and Deploying AI courses, visit here: cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1947321323-csail-alliances-ai-in-healthcare-with-ucsd-prof-karandeep-singh-robot-conversations-with-csail-prof-andreea-bobu.mp3" length="31454496"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-n1HviisqiaRuQF0L-v62P6Q-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1929089222</guid>
+      <title>How companies can rebuild trust around data with Danny Weitzner</title>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/how-companies-can-rebuild-trust-around-data-with-danny-weitzner</link>
+      <itunes:duration>00:29:58</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Founding Director of the MIT Internet Policy Research Initiative CSAIL Senior Research Scientist Daniel Weitzner says a lack of visibility about how personal data is being used is leading to an erosion of customer trust. However, companies increasingly need to leverage data for analytic advantage, generative AI applications, and more. His research focuses on solutions which would empower consumers with visibility and control of their data, facilitating a future of accountability and trust. Hear more about his work here: https://www.csail.mit.edu/person/daniel-weitzner
+Find out more about CSAIL Alliances, as well as a full transcript of this podcast, at: https://cap.csail.mit.edu/podcasts/how-companies-can-rebuild-trust-around-data-danny-weitzner?utm_source=alliancesmembers&amp;utm_medium=pardot&amp;utm_campaign=dannypod24
+
+If you would like to learn more about CSAIL's Professional Development Courses, including the upcoming Driving Innovation with Generative AI, visit here: cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</itunes:summary>
+      <itunes:subtitle>Founding Director of the MIT Internet Policy Rese…</itunes:subtitle>
+      <description>Founding Director of the MIT Internet Policy Research Initiative CSAIL Senior Research Scientist Daniel Weitzner says a lack of visibility about how personal data is being used is leading to an erosion of customer trust. However, companies increasingly need to leverage data for analytic advantage, generative AI applications, and more. His research focuses on solutions which would empower consumers with visibility and control of their data, facilitating a future of accountability and trust. Hear more about his work here: https://www.csail.mit.edu/person/daniel-weitzner
+Find out more about CSAIL Alliances, as well as a full transcript of this podcast, at: https://cap.csail.mit.edu/podcasts/how-companies-can-rebuild-trust-around-data-danny-weitzner?utm_source=alliancesmembers&amp;utm_medium=pardot&amp;utm_campaign=dannypod24
+
+If you would like to learn more about CSAIL's Professional Development Courses, including the upcoming Driving Innovation with Generative AI, visit here: cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1929089222-csail-alliances-how-companies-can-rebuild-trust-around-data-with-danny-weitzner.mp3" length="21576672"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-aURnvBa5NxfvzbkY-hj1Qpg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1909418723</guid>
+      <title>How AI can help with financial decision making with Professor Andrew Lo</title>
+      <pubDate>Tue, 03 Sep 2024 12:28:32 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/how-ai-can-help-with-financial-decision-making-with-professor-andrew-lo</link>
+      <itunes:duration>00:36:23</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Professor of Finance at the MIT Sloan School of Management and CSAIL Andrew Lo believes AI can help everyday consumers make important financial decisions by democratizing access to quality finance advice. His research aims to address the challenges of deploying AI in finance by, for example, answering questions around responsibility and engaging with financial advisors to make sure such tools are useful in the field. Professor Lo is the faculty director for the FintechAI@CSAIL research initiative. 
+
+Find out more about CSAIL Alliances, as well as a full transcript of this podcast, at https://cap.csail.mit.edu/podcasts/how-ai-can-help-financial-decision-making-andrew-lo
+
+If you would like to learn more about CSAIL's Professional Development Courses, including the upcoming Driving Innovation with Generative AI, visit here: cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.
+
+Looking for another great podcast? MIT Sloan Management Review’s &quot;Me, Myself, and AI,&quot; expert hosts and researchers talk with AI leaders from organizations like NASA, Upwork, Github, and Meta to explore how organizations achieve success with generative AI — and what challenges and ethical considerations they face along the way. Listen to Me, Myself, and AI wherever you stream podcasts. https://link.chtbl.com/pxsEZ4pf?sid=CSAIL</itunes:summary>
+      <itunes:subtitle>Professor of Finance at the MIT Sloan School of M…</itunes:subtitle>
+      <description>Professor of Finance at the MIT Sloan School of Management and CSAIL Andrew Lo believes AI can help everyday consumers make important financial decisions by democratizing access to quality finance advice. His research aims to address the challenges of deploying AI in finance by, for example, answering questions around responsibility and engaging with financial advisors to make sure such tools are useful in the field. Professor Lo is the faculty director for the FintechAI@CSAIL research initiative. 
+
+Find out more about CSAIL Alliances, as well as a full transcript of this podcast, at https://cap.csail.mit.edu/podcasts/how-ai-can-help-financial-decision-making-andrew-lo
+
+If you would like to learn more about CSAIL's Professional Development Courses, including the upcoming Driving Innovation with Generative AI, visit here: cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.
+
+Looking for another great podcast? MIT Sloan Management Review’s &quot;Me, Myself, and AI,&quot; expert hosts and researchers talk with AI leaders from organizations like NASA, Upwork, Github, and Meta to explore how organizations achieve success with generative AI — and what challenges and ethical considerations they face along the way. Listen to Me, Myself, and AI wherever you stream podcasts. https://link.chtbl.com/pxsEZ4pf?sid=CSAIL</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1909418723-csail-alliances-how-ai-can-help-with-financial-decision-making-with-professor-andrew-lo.mp3" length="26197056"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-VT3r4vLFbAxTRI8Y-fSrEvQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1889320914</guid>
+      <title>Hype vs. Reality: the Current State of AI with Arvind Narayanan</title>
+      <pubDate>Mon, 05 Aug 2024 13:31:21 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-current-state-of-ai-with-arvind-narayanan</link>
+      <itunes:duration>00:33:29</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Princeton Professor Arvind Narayanan, author of &quot;AI Snake Oil,&quot; sheds light on the stark contrast between the public perception and actual capabilities of AI. In this podcast, he explores the significant gap between the excitement surrounding AI and its current limitations. Find out more about CSAIL Alliances, as well as a full transcript of this podcast, at https://cap.csail.mit.edu/podcasts/current-state-ai-arvind-narayanan.
+
+If you would like to learn more about CSAIL's Professional Development Courses, visit here: https://cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</itunes:summary>
+      <itunes:subtitle>Princeton Professor Arvind Narayanan, author of &quot;…</itunes:subtitle>
+      <description>Princeton Professor Arvind Narayanan, author of &quot;AI Snake Oil,&quot; sheds light on the stark contrast between the public perception and actual capabilities of AI. In this podcast, he explores the significant gap between the excitement surrounding AI and its current limitations. Find out more about CSAIL Alliances, as well as a full transcript of this podcast, at https://cap.csail.mit.edu/podcasts/current-state-ai-arvind-narayanan.
+
+If you would like to learn more about CSAIL's Professional Development Courses, visit here: https://cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1889320914-csail-alliances-the-current-state-of-ai-with-arvind-narayanan.mp3" length="24111360"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-aq9ZVkRy9jJbaO5P-dLXniA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1883582196</guid>
+      <title>Understanding Generative AI with Stefanie Mueller</title>
+      <pubDate>Mon, 29 Jul 2024 13:33:45 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/understanding-generative-ai-with-stefanie-mueller</link>
+      <itunes:duration>00:10:11</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Associate Professor Stefanie Mueller, who leads the Human-Computer Interaction group at CSAIL, discusses her groundbreaking research using generative AI for 3D applications. Specifically she explains how generative AI can be combined with mechanical simulation to create stable and personalized 3D models. Find out more about CSAIL Alliances, as well as a full transcript of this podcast, at https://cap.csail.mit.edu. 
+
+If you would like to learn more about CSAIL's Professional Development Courses, visit here: https://cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</itunes:summary>
+      <itunes:subtitle>Associate Professor Stefanie Mueller, who leads t…</itunes:subtitle>
+      <description>Associate Professor Stefanie Mueller, who leads the Human-Computer Interaction group at CSAIL, discusses her groundbreaking research using generative AI for 3D applications. Specifically she explains how generative AI can be combined with mechanical simulation to create stable and personalized 3D models. Find out more about CSAIL Alliances, as well as a full transcript of this podcast, at https://cap.csail.mit.edu. 
+
+If you would like to learn more about CSAIL's Professional Development Courses, visit here: https://cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1883582196-csail-alliances-understanding-generative-ai-with-stefanie-mueller.mp3" length="7338240"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-XxpDG9zep9TUtzUw-DRRAww-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1857159426</guid>
+      <title>Reimagining Software Design with Daniel Jackson</title>
+      <pubDate>Mon, 01 Jul 2024 13:00:02 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/reimagining-software-design-with-daniel-jackson</link>
+      <itunes:duration>00:37:48</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT Professor Daniel Jackson, associate director of CSAIL and the author of The Essence of Software, argues that if your design is flawed, so is your product. In this podcast, Prof. Jackson shares some cases where software design makes or breaks big companies and what can be done to improve software design in the future. Find out more here: cap.csail.mit.edu.
+
+If you would like to learn more about CSAIL's Professional Development Courses, visit here: https://cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</itunes:summary>
+      <itunes:subtitle>MIT Professor Daniel Jackson, associate director …</itunes:subtitle>
+      <description>MIT Professor Daniel Jackson, associate director of CSAIL and the author of The Essence of Software, argues that if your design is flawed, so is your product. In this podcast, Prof. Jackson shares some cases where software design makes or breaks big companies and what can be done to improve software design in the future. Find out more here: cap.csail.mit.edu.
+
+If you would like to learn more about CSAIL's Professional Development Courses, visit here: https://cap.csail.mit.edu/events-professional-programs. Podcast listeners save 10% on courses with code MITXPOD10.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1857159426-csail-alliances-reimagining-software-design-with-daniel-jackson.mp3" length="27222048"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-2Th4zfdhYxwzyxwc-Uda3wA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1836436848</guid>
+      <title>When is the right time to use AI in business?</title>
+      <pubDate>Mon, 03 Jun 2024 13:30:10 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/when-is-the-right-time-to-use-ai-in-business</link>
+      <itunes:duration>00:29:21</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week on the CSAIL Alliances Podcast we’re joined by George Westerman, a Senior Lecturer at the MIT Sloan School of Management and Founder of the Global Opportunity Initiative. Westerman discusses the future of AI, the opportunities it presents, as well as some potential pitfalls. Find out more about CSAIL Alliances, as well as a full transcript of this podcast at https://cap.csail.mit.edu/</itunes:summary>
+      <itunes:subtitle>This week on the CSAIL Alliances Podcast we’re jo…</itunes:subtitle>
+      <description>This week on the CSAIL Alliances Podcast we’re joined by George Westerman, a Senior Lecturer at the MIT Sloan School of Management and Founder of the Global Opportunity Initiative. Westerman discusses the future of AI, the opportunities it presents, as well as some potential pitfalls. Find out more about CSAIL Alliances, as well as a full transcript of this podcast at https://cap.csail.mit.edu/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1836436848-csail-alliances-when-is-the-right-time-to-use-ai-in-business.mp3" length="21134304"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-oCwS0iKiVr4SihTL-xZTGpA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1826049822</guid>
+      <title>“Generative AI: Is it copying or creating?” Special Crossover Episode from the Click Here Podcast</title>
+      <pubDate>Mon, 20 May 2024 13:29:13 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/generative-ai-is-it-copying-or-creating-special-crossover-episode-from-the-click-here-podcast</link>
+      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Today’s generative AI programs know how to write, compose music, and even create works of art. But it learned to do so by training on data made by human creators without asking their permission. 
+ 
+As independent artists and giant media companies bring their cases to court, the question is: will all this fundamentally change the human-AI relationship? This week’s podcast is a special crossover episode with our friends at Click Here; find out more about them here: https://therecord.media/podcast</itunes:summary>
+      <itunes:subtitle>Today’s generative AI programs know how to write,…</itunes:subtitle>
+      <description>Today’s generative AI programs know how to write, compose music, and even create works of art. But it learned to do so by training on data made by human creators without asking their permission. 
+ 
+As independent artists and giant media companies bring their cases to court, the question is: will all this fundamentally change the human-AI relationship? This week’s podcast is a special crossover episode with our friends at Click Here; find out more about them here: https://therecord.media/podcast</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1826049822-csail-alliances-generative-ai-is-it-copying-or-creating-special-crossover-episode-from-the-click-here-podcast.mp3" length="23599646"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-QMRmFyyp56FdwKpD-ZfcJ7Q-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1815750360</guid>
+      <title>What's keeping two cybersecurity researchers up at night with Srini Devadas and Vinod Vaikuntanathan</title>
+      <pubDate>Mon, 06 May 2024 14:04:37 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/whats-keeping-two-cybersecurity-researchers-up-at-night-with-srini-devadas-and-vinod-vaikuntanathan</link>
+      <itunes:duration>00:24:28</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT CSAIL Professors Srini Devadas and Vinod Vaikuntanathan join the CSAIL Alliances Podcast for a conversation about cybersecurity, addressing topics from federated protocols, the importance of data-driven approaches, and how quantum computing could change the landscape. Find out more about Professor Devadas, Professor Vaikuntanathan and CSAIL Alliances here:
+
+A transcript of this podcast is also available on the CSAIL Alliances website.</itunes:summary>
+      <itunes:subtitle>MIT CSAIL Professors Srini Devadas and Vinod Vaik…</itunes:subtitle>
+      <description>MIT CSAIL Professors Srini Devadas and Vinod Vaikuntanathan join the CSAIL Alliances Podcast for a conversation about cybersecurity, addressing topics from federated protocols, the importance of data-driven approaches, and how quantum computing could change the landscape. Find out more about Professor Devadas, Professor Vaikuntanathan and CSAIL Alliances here:
+
+A transcript of this podcast is also available on the CSAIL Alliances website.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1815750360-csail-alliances-whats-keeping-two-cybersecurity-researchers-up-at-night-with-srini-devadas-and-vinod-vaikuntanathan.mp3" length="17618976"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-LaZwsA298qQjV6pl-oh52yw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1786782967</guid>
+      <title>How Corporate Leaders Should Think About Cybersecurity with Andy Ellis and Amy Herzog</title>
+      <pubDate>Mon, 01 Apr 2024 13:25:12 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/how-corporate-leaders-should-think-about-cybersecrurity-with-andy-ellis-and-amy-herzog</link>
+      <itunes:duration>00:37:24</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>On this episode of the CSAIL Alliances Podcast, hear from industry experts Andy Ellis (former Chief Security Officer at Akamai) and Amy Herzog (Chief Information Security Officer, Ads &amp; Devices at Amazon) about what companies should be focused on in a changing security landscape. Ellis and Herzog discuss the role of AI, the future of security, and the importance of maintaining vigilance with existing protocols like email. 
+Find a full transcript of this podcast and more information at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>On this episode of the CSAIL Alliances Podcast, h…</itunes:subtitle>
+      <description>On this episode of the CSAIL Alliances Podcast, hear from industry experts Andy Ellis (former Chief Security Officer at Akamai) and Amy Herzog (Chief Information Security Officer, Ads &amp; Devices at Amazon) about what companies should be focused on in a changing security landscape. Ellis and Herzog discuss the role of AI, the future of security, and the importance of maintaining vigilance with existing protocols like email. 
+Find a full transcript of this podcast and more information at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1786782967-csail-alliances-how-corporate-leaders-should-think-about-cybersecrurity-with-andy-ellis-and-amy-herzog.mp3" length="26934336"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xzt8GY78xMJRfpaY-hh9UOw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1764255198</guid>
+      <title>The Heart and the Chip with Professor Daniela Rus</title>
+      <pubDate>Mon, 04 Mar 2024 14:00:12 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-heart-and-the-chip-with-professor-daniela-rus</link>
+      <itunes:duration>00:37:25</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Director Professor Daniela Rus shares insights from her new book &quot;The Heart and the Chip.&quot; Professor Rus discusses the past, present and future of how robots shape our lives. For more information on Professor Rus' new book, and to find a full transcript of this podcast please visit cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Director Professor Daniela Rus shares insig…</itunes:subtitle>
+      <description>CSAIL Director Professor Daniela Rus shares insights from her new book &quot;The Heart and the Chip.&quot; Professor Rus discusses the past, present and future of how robots shape our lives. For more information on Professor Rus' new book, and to find a full transcript of this podcast please visit cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1764255198-csail-alliances-the-heart-and-the-chip-with-professor-daniela-rus.mp3" length="26949312"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-ywClkbUslrYOLIVQ-PrzNoQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1738492575</guid>
+      <title>How AI will Shape the Future of Education with Hal Abelson</title>
+      <pubDate>Mon, 05 Feb 2024 14:18:58 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/how-ai-will-shape-the-future-of-education-with-hal-abelson</link>
+      <itunes:duration>00:27:16</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Hal Abelson has a long history of looking at the importance of Computer Science education and helping shape its future. Listen as he joins Kara Miller in conversation to discuss how AI will shape education moving forward. 
+
+CORRECTION: Please note, the website in the outro of the podcast should be cap.csail.mit.edu.
+
+A full transcript of this podcast will be available at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Hal Abelson has a long history of…</itunes:subtitle>
+      <description>CSAIL Professor Hal Abelson has a long history of looking at the importance of Computer Science education and helping shape its future. Listen as he joins Kara Miller in conversation to discuss how AI will shape education moving forward. 
+
+CORRECTION: Please note, the website in the outro of the podcast should be cap.csail.mit.edu.
+
+A full transcript of this podcast will be available at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1738492575-csail-alliances-how-ai-will-shape-the-future-of-education-with-hal-abelson.mp3" length="19633824"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-6x5vE6nW7FQLjZRP-eoq0LA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1696110753</guid>
+      <title>AI's Impact on the Future of Work with Neil Thompson</title>
+      <pubDate>Mon, 01 Jan 2024 14:00:09 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/ais-impact-on-the-future-of-work-with-neil-thompson</link>
+      <itunes:duration>00:34:46</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL's Dr. Neil Thompson joins Kara Miller for a conversation on how AI will affect the future of business. Dr. Thompson also shares insights into the race for computing power and how that competition is shaping the landscape of industry. 
+
+Find more about Dr. Neil Thompson and his research, as well as a transcript of this podcast at http://cap.csail.mit.edu/podcasts/ais-impact-future-work-neil-thompson.</itunes:summary>
+      <itunes:subtitle>CSAIL's Dr. Neil Thompson joins Kara Miller for a…</itunes:subtitle>
+      <description>CSAIL's Dr. Neil Thompson joins Kara Miller for a conversation on how AI will affect the future of business. Dr. Thompson also shares insights into the race for computing power and how that competition is shaping the landscape of industry. 
+
+Find more about Dr. Neil Thompson and his research, as well as a transcript of this podcast at http://cap.csail.mit.edu/podcasts/ais-impact-future-work-neil-thompson.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1696110753-csail-alliances-ais-impact-on-the-future-of-work-with-neil-thompson.mp3" length="25039872"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-olfqLHCclymiitPK-KFd4YQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1681701120</guid>
+      <title>Combining Human and Computer Intelligence with Thomas Malone</title>
+      <pubDate>Mon, 04 Dec 2023 14:40:02 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/combining-human-and-computer-intelligence-with-thomas-malone</link>
+      <itunes:duration>00:33:17</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT Professor Thomas Malone sits down with Kara Miller for a discussion about the intersections of business and computer science. 
+
+Find a full transcript of this podcast and more at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>MIT Professor Thomas Malone sits down with Kara M…</itunes:subtitle>
+      <description>MIT Professor Thomas Malone sits down with Kara Miller for a discussion about the intersections of business and computer science. 
+
+Find a full transcript of this podcast and more at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1681701120-csail-alliances-combining-human-and-computer-intelligence-with-thomas-malone.mp3" length="23966784"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-Wiyoq3m7MBT8oD5m-68LAOQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1657960248</guid>
+      <title>Optimization and the End of Moore’s Law with Charles E. Leiserson</title>
+      <pubDate>Mon, 06 Nov 2023 13:13:43 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/optimization-and-the-end-of-moores-law-with-charles-e-leiserson</link>
+      <itunes:duration>00:26:23</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT Professor Charles E. Leiserson discusses business, education, optimization and the end of Moore's Law with Kara Miller. 
+
+Find a full transcript of this podcast at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>MIT Professor Charles E. Leiserson discusses busi…</itunes:subtitle>
+      <description>MIT Professor Charles E. Leiserson discusses business, education, optimization and the end of Moore's Law with Kara Miller. 
+
+Find a full transcript of this podcast at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1657960248-csail-alliances-optimization-and-the-end-of-moores-law-with-charles-e-leiserson.mp3" length="19006322"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-ceE4Pa9GQQz6jkyw-KSHzUQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1630589385</guid>
+      <title>Evolving Research into Businesses with Turing Award winner Mike Stonebraker</title>
+      <pubDate>Mon, 02 Oct 2023 13:49:26 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/evolving-research-into-businesses-with-turing-award-winner-mike-stonebraker</link>
+      <itunes:duration>00:28:38</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor and Turing Award winner Mike Stonebraker sits down with Kara Miller for a conversation about research and business. They're joined by Gant Redmon, CEO of Hopara, an Agile Digital Twin company that was built at MIT CSAIL. 
+
+A full transcript of this podcast can be found at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor and Turing Award winner Mike Ston…</itunes:subtitle>
+      <description>CSAIL Professor and Turing Award winner Mike Stonebraker sits down with Kara Miller for a conversation about research and business. They're joined by Gant Redmon, CEO of Hopara, an Agile Digital Twin company that was built at MIT CSAIL. 
+
+A full transcript of this podcast can be found at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1630589385-csail-alliances-evolving-research-into-businesses-with-turing-award-winner-mike-stonebraker.mp3" length="20623104"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-OdKin4H3Z1KlWgdq-LJO2vw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1613634402</guid>
+      <title>The Frontier of Large Language Models with Yoon Kim</title>
+      <pubDate>Mon, 11 Sep 2023 14:24:59 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-frontier-of-large-language-models-with-yoon-kim</link>
+      <itunes:duration>00:26:19</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Yoon Kim joins Kara Miller for a conversation about the past, present and future of Large Language Models. 
+
+A full transcript of this podcast can be found at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Yoon Kim joins Kara Miller for a …</itunes:subtitle>
+      <description>CSAIL Professor Yoon Kim joins Kara Miller for a conversation about the past, present and future of Large Language Models. 
+
+A full transcript of this podcast can be found at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1613634402-csail-alliances-the-frontier-of-large-language-models-with-yoon-kim.mp3" length="18953568"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-BjU79kv2f2xxHflC-EzMesA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1585821219</guid>
+      <title>Understanding Large Language Models' Effects on Programming with Saman Amarasinghe</title>
+      <pubDate>Mon, 07 Aug 2023 14:06:40 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/understanding-large-language-models-effects-on-programming-with-saman-amarasinghe</link>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Saman Amarasinghe  discusses how Large Language Models like Chat GPT, will alter the future of programming. Professor Amarasinghe also examines how structured data fits into the equation. 
+
+A transcript of this podcast can be found here:
+
+cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Saman Amarasinghe  discusses how …</itunes:subtitle>
+      <description>CSAIL Professor Saman Amarasinghe  discusses how Large Language Models like Chat GPT, will alter the future of programming. Professor Amarasinghe also examines how structured data fits into the equation. 
+
+A transcript of this podcast can be found here:
+
+cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1585821219-csail-alliances-understanding-large-language-models-effects-on-programming-with-saman-amarasinghe.mp3" length="22559904"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-qAjqlMZA0d266JDY-7EirdA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1531492582</guid>
+      <title>The Importance of Energy Efficiency in AI with Vivienne Sze</title>
+      <pubDate>Mon, 05 Jun 2023 16:02:58 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-importance-of-energy-efficiency-in-ai-with-vivienne-sze</link>
+      <itunes:duration>00:28:17</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Vivienne Sze is an associate professor in MIT's Department of Electrical Engineering and Computer Science. She's a coauthor of Efficient Processing of Deep Neural Networks.
+
+A full transcript will be available at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>Vivienne Sze is an associate professor in MIT's D…</itunes:subtitle>
+      <description>Vivienne Sze is an associate professor in MIT's Department of Electrical Engineering and Computer Science. She's a coauthor of Efficient Processing of Deep Neural Networks.
+
+A full transcript will be available at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1531492582-csail-alliances-the-importance-of-energy-efficiency-in-ai-with-vivienne-sze.mp3" length="20367936"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-S8NNyLmScR46X0W7-LkD2GQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1503923686</guid>
+      <title>Contemporary and Future Applications of Program Synthesis with Armando Solar-Lezama</title>
+      <pubDate>Mon, 01 May 2023 14:58:16 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/contemporary-and-future-applications-of-program-synthesis-with-armando-solar-lezama</link>
+      <itunes:duration>00:25:39</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Armando Solar-Lezama shares his insights on Program Synthesis. 
+
+A full transcript of this podcast is available at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Armando Solar-Lezama shares his i…</itunes:subtitle>
+      <description>CSAIL Professor Armando Solar-Lezama shares his insights on Program Synthesis. 
+
+A full transcript of this podcast is available at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1503923686-csail-alliances-contemporary-and-future-applications-of-program-synthesis-with-armando-solar-lezama.mp3" length="24624900"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-VZPAeeorLfrkAmH1-GWuQXg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1481361286</guid>
+      <title>Creating Change in Cloud Computing with Christina Delimitrou</title>
+      <pubDate>Thu, 30 Mar 2023 18:25:29 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/creating-change-in-cloud-computing-with-christina-delimitrou</link>
+      <itunes:duration>00:24:36</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Hear from CSAIL Professor Christina Delimitrou as she outlines advances being made in the cloud computing space.
+ 
+A full transcript of this podcast will be available at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>Hear from CSAIL Professor Christina Delimitrou as…</itunes:subtitle>
+      <description>Hear from CSAIL Professor Christina Delimitrou as she outlines advances being made in the cloud computing space.
+ 
+A full transcript of this podcast will be available at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1481361286-csail-alliances-creating-change-in-cloud-computing-with-christina-delimitrou.mp3" length="23624306"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-K1zRO0gQl0Qy4Hvi-11A06Q-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1462530859</guid>
+      <title>Protecting Against Data Breaches Today and Tomorrow with Henry Corrigan-Gibbs</title>
+      <pubDate>Mon, 06 Mar 2023 14:37:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/protecting-against-data-breaches-today-and-tomorrow-with-henry-corrigan-gibbs</link>
+      <itunes:duration>00:21:02</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Henry Corrigan-Gibbs shares insights into his research that builds computer systems using ideas from cryptography, computer security, and computer systems.
+
+A transcript of this podcast can be found at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Henry Corrigan-Gibbs shares insig…</itunes:subtitle>
+      <description>CSAIL Professor Henry Corrigan-Gibbs shares insights into his research that builds computer systems using ideas from cryptography, computer security, and computer systems.
+
+A transcript of this podcast can be found at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1462530859-csail-alliances-protecting-against-data-breaches-today-and-tomorrow-with-henry-corrigan-gibbs.mp3" length="20194950"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3LTx9jsCnVe7B2Pg-AEwslA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1440916183</guid>
+      <title>The Future of High Dimensional Statistics with Sam Hopkins</title>
+      <pubDate>Mon, 06 Feb 2023 14:27:57 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-future-of-high-dimmensional-statistics-with-sam-hopkins</link>
+      <itunes:duration>00:29:42</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Sam Hopkins gives an overview of the landscape of high dimensional statistics, and shares some of the research that he and his colleagues at CSAIL are working on to shape it. 
+
+
+Professor Hopkins would like to note one correction, when he refers to the &quot;planted clique&quot; problem, it should be &quot;max clique in a random graph&quot;. 
+
+A full transcript of this podcast is available at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Sam Hopkins gives an overview of …</itunes:subtitle>
+      <description>CSAIL Professor Sam Hopkins gives an overview of the landscape of high dimensional statistics, and shares some of the research that he and his colleagues at CSAIL are working on to shape it. 
+
+
+Professor Hopkins would like to note one correction, when he refers to the &quot;planted clique&quot; problem, it should be &quot;max clique in a random graph&quot;. 
+
+A full transcript of this podcast is available at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1440916183-csail-alliances-the-future-of-high-dimmensional-statistics-with-sam-hopkins.mp3" length="28526131"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-yBOFV4v5kX7bpCtv-aHj6nQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1426230805</guid>
+      <title>Addressing Computer Architecture Vulnerabilities with Mengjia Yan</title>
+      <pubDate>Tue, 17 Jan 2023 15:18:13 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/addressing-computer-architecture-vulnerabilities-with-mengjia-yan</link>
+      <itunes:duration>00:22:27</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Professor Mengjia Yan shares insights into her cybersecurity research.
+
+A full transcript of this podcast will be available at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>Professor Mengjia Yan shares insights into her cy…</itunes:subtitle>
+      <description>Professor Mengjia Yan shares insights into her cybersecurity research.
+
+A full transcript of this podcast will be available at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1426230805-csail-alliances-addressing-computer-architecture-vulnerabilities-with-mengjia-yan.mp3" length="21556243"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-PrEYcU8jQWNn5oo7-kSyiPg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1396622314</guid>
+      <title>The Intersection of Art and Science with Karl Sims</title>
+      <pubDate>Mon, 05 Dec 2022 16:12:56 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-intersection-of-art-and-science-with-karl-sims</link>
+      <itunes:duration>00:16:01</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Cambridge based visual artist and MIT alumni Karl Sims shares his insights on art, science and business.</itunes:summary>
+      <itunes:subtitle>Cambridge based visual artist and MIT alumni Karl…</itunes:subtitle>
+      <description>Cambridge based visual artist and MIT alumni Karl Sims shares his insights on art, science and business.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1396622314-csail-alliances-the-intersection-of-art-and-science-with-karl-sims.mp3" length="15383404"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-mt4jOSx36tuUBAVk-ewZyOg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1355885368</guid>
+      <title>Advantages of Near Flash Computing with Arvind</title>
+      <pubDate>Mon, 03 Oct 2022 14:27:11 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/advantages-of-near-flash-computing-with-arvind</link>
+      <itunes:duration>00:27:43</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Arvind details his work in near-storage computing. He explains how he's using flash storage instead of massive amounts of DRAM for big data problems.
+
+A transcript of this podcast will be available at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Arvind details his work in near-s…</itunes:subtitle>
+      <description>CSAIL Professor Arvind details his work in near-storage computing. He explains how he's using flash storage instead of massive amounts of DRAM for big data problems.
+
+A transcript of this podcast will be available at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1355885368-csail-alliances-advantages-of-near-flash-computing-with-arvind.mp3" length="26619819"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-QWSDy8R139pNyrie-hzNhTg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1342463131</guid>
+      <title>Understanding Quantum Computing with Peter Shor and Will Oliver</title>
+      <pubDate>Mon, 12 Sep 2022 14:15:10 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/understanding-quantum-computing-with-peter-shor-and-will-oliver</link>
+      <itunes:duration>00:28:37</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT Professors Peter Shor and Will Oliver join for a conversation on the current state and future possibilities of quantum computing.
+
+A transcription for this podcast can be found at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>MIT Professors Peter Shor and Will Oliver join fo…</itunes:subtitle>
+      <description>MIT Professors Peter Shor and Will Oliver join for a conversation on the current state and future possibilities of quantum computing.
+
+A transcription for this podcast can be found at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1342463131-csail-alliances-understanding-quantum-computing-with-peter-shor-and-will-oliver.mp3" length="27479561"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-LKvc1i6Nt1Co9JPF-NZAq7w-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1320067606</guid>
+      <title>Exploring Changes in Computing as Moore's Law Ends with Neil Thompson</title>
+      <pubDate>Mon, 08 Aug 2022 13:36:54 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/exploring-changes-in-computing-as-moores-law-ends-with-neil-thompson</link>
+      <itunes:duration>00:19:14</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Neil Thompson explains how the end of Moore's Law will affect the computing stack, and what industry leaders should consider when facing this problem.
+
+Accessible captions can be found at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Neil Thompson explains how the en…</itunes:subtitle>
+      <description>CSAIL Professor Neil Thompson explains how the end of Moore's Law will affect the computing stack, and what industry leaders should consider when facing this problem.
+
+Accessible captions can be found at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1320067606-csail-alliances-exploring-changes-in-computing-as-moores-law-ends-with-neil-thompson.mp3" length="18477138"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-ZLyRhkappzRu3fZ2-Iw7Fiw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1282026868</guid>
+      <title>Becoming a Flexible Programmer with Gerald Jay Sussman</title>
+      <pubDate>Mon, 06 Jun 2022 14:18:28 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/becoming-a-flexible-programmer-with-gerald-jay-sussman</link>
+      <itunes:duration>00:28:32</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Gerald Jay Sussman discusses the importance of a breadth of research, lessons academia and industry can learn from each other, and how to be a flexible programmer.
+
+
+Accessible captions can be found at cap.csail.mit.edu</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Gerald Jay Sussman discusses the …</itunes:subtitle>
+      <description>CSAIL Professor Gerald Jay Sussman discusses the importance of a breadth of research, lessons academia and industry can learn from each other, and how to be a flexible programmer.
+
+
+Accessible captions can be found at cap.csail.mit.edu</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1282026868-csail-alliances-becoming-a-flexible-programmer-with-gerald-jay-sussman.mp3" length="27402239"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-UXtus0o2Fnc2lEJB-Pol1Qw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1260919279</guid>
+      <title>Implementing AI in Healthcare with John Guttag</title>
+      <pubDate>Mon, 02 May 2022 13:21:45 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/implementing-ai-in-healthcare-with-john-guttag</link>
+      <itunes:duration>00:27:21</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor John Guttag discusses the process of incorporating AI into healthcare. Guttag also talks about the process of bringing an idea out of the lab and into a full-fledged business.</itunes:summary>
+      <itunes:subtitle>CSAIL Professor John Guttag discusses the process…</itunes:subtitle>
+      <description>CSAIL Professor John Guttag discusses the process of incorporating AI into healthcare. Guttag also talks about the process of bringing an idea out of the lab and into a full-fledged business.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1260919279-csail-alliances-implementing-ai-in-healthcare-with-john-guttag.mp3" length="26270823"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-rXE1V9aYSvyFJrIf-cRoqqw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1244018137</guid>
+      <title>Seeking Deep Understanding in Machine Learning with Una-May O'Reilly</title>
+      <pubDate>Mon, 04 Apr 2022 13:15:02 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/seeking-deep-understanding-in-machine-learning-with-una-may-oreilly</link>
+      <itunes:duration>00:16:07</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Una-May O'Reilly discusses her work at the ALFA Group at MIT CSAIL and gives insights into the differences between Deep Learning and Deep Understanding.</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Una-May O'Reilly discusses her wo…</itunes:subtitle>
+      <description>CSAIL Professor Una-May O'Reilly discusses her work at the ALFA Group at MIT CSAIL and gives insights into the differences between Deep Learning and Deep Understanding.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1244018137-csail-alliances-seeking-deep-understanding-in-machine-learning-with-una-may-oreilly.mp3" length="15475773"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-MTbYfNVwcoVSz9Rj-j2z4WA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1228010893</guid>
+      <title>Creating Low-Code Applications and  Online Discussion Tools with David Karger</title>
+      <pubDate>Mon, 07 Mar 2022 15:10:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/creating-low-code-applications-and-online-discussion-tools-with-david-karger</link>
+      <itunes:duration>00:38:43</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor David Karger discusses two of his research areas with CSAIL Alliances. He reviews his team's work on no-code and low-code authoring to help people create custom solutions to unique problems. Next, he discusses tools he's created to improve online discussions.
+
+A transcript of this podcast can be found here:
+
+https://cap.csail.mit.edu/sites/default/files/resource-pdfs/David%20Karger%20Podcast%20Export%201.pdf</itunes:summary>
+      <itunes:subtitle>CSAIL Professor David Karger discusses two of his…</itunes:subtitle>
+      <description>CSAIL Professor David Karger discusses two of his research areas with CSAIL Alliances. He reviews his team's work on no-code and low-code authoring to help people create custom solutions to unique problems. Next, he discusses tools he's created to improve online discussions.
+
+A transcript of this podcast can be found here:
+
+https://cap.csail.mit.edu/sites/default/files/resource-pdfs/David%20Karger%20Podcast%20Export%201.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1228010893-csail-alliances-creating-low-code-applications-and-online-discussion-tools-with-david-karger.mp3" length="37172870"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-IgiKPB5Tm7evfJIH-odVUUw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1211402572</guid>
+      <title>Countering Online Disinformation with David Clark</title>
+      <pubDate>Mon, 07 Feb 2022 14:59:50 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/countering-online-disinformation-with-david-clark</link>
+      <itunes:duration>00:37:13</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL's David Clark discusses the differences between misinformation and disinformation, and why the latter is a more serious threat. He also examines possible solutions to the disinformation problem.
+
+You can find a transcript for this podcast here:
+
+https://cap.csail.mit.edu/sites/default/files/resource-pdfs/David%20Clark%20Podcast%202022.pdf</itunes:summary>
+      <itunes:subtitle>CSAIL's David Clark discusses the differences bet…</itunes:subtitle>
+      <description>CSAIL's David Clark discusses the differences between misinformation and disinformation, and why the latter is a more serious threat. He also examines possible solutions to the disinformation problem.
+
+You can find a transcript for this podcast here:
+
+https://cap.csail.mit.edu/sites/default/files/resource-pdfs/David%20Clark%20Podcast%202022.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1211402572-csail-alliances-countering-online-disinformation-with-david-clark.mp3" length="35730911"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-XR3GKtqD7c7iIK3z-IeGwyA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1193778745</guid>
+      <title>Forging the Future of Cryptography with Adam Chlipala</title>
+      <pubDate>Mon, 10 Jan 2022 14:47:40 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/forging-the-future-of-cryptography-with-adam-chlipala</link>
+      <itunes:duration>00:26:38</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Professor Adam Chlipala is working to change some of the fundamental ways we use cryptography. His latest project, Fiat Cryptography, utilizes formal methods to create complex cryptographic code to guarantee correctness. Fiat Cryptography stands to significantly change the efficiency and security of the web. 
+
+A transcript for this episode can be found here: https://cap.csail.mit.edu/sites/default/files/resource-pdfs/Adam%20Chlipala%20Podcast%20Export%201.pdf</itunes:summary>
+      <itunes:subtitle>CSAIL Professor Adam Chlipala is working to chang…</itunes:subtitle>
+      <description>CSAIL Professor Adam Chlipala is working to change some of the fundamental ways we use cryptography. His latest project, Fiat Cryptography, utilizes formal methods to create complex cryptographic code to guarantee correctness. Fiat Cryptography stands to significantly change the efficiency and security of the web. 
+
+A transcript for this episode can be found here: https://cap.csail.mit.edu/sites/default/files/resource-pdfs/Adam%20Chlipala%20Podcast%20Export%201.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1193778745-csail-alliances-forging-the-future-of-cryptography-with-adam-chlipala.mp3" length="25579937"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-vRzkuzy6VexL7SUl-KQZg9A-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1172876764</guid>
+      <title>Improving Video Conferencing Through Vision Science with Ruth Rosenholtz</title>
+      <pubDate>Mon, 06 Dec 2021 15:48:54 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/improving-video-conferencing-through-vision-science-with-ruth-rosenholtz</link>
+      <itunes:duration>00:12:02</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL Principal Research Scientist  Ruth Rosenholtz discusses the rise of video conferencing throughout the pandemic. Rosenholtz shares fascinating insights from her vision science research that could help reshape how video conferencing platforms are used.
+
+Please find a link to this podcast's transcript here: https://cap.csail.mit.edu/sites/default/files/resource-pdfs/Ruth%20Rosenholtz%20CSAIL%20Alliances%20Podcast%203.pdf</itunes:summary>
+      <itunes:subtitle>CSAIL Principal Research Scientist  Ruth Rosenhol…</itunes:subtitle>
+      <description>CSAIL Principal Research Scientist  Ruth Rosenholtz discusses the rise of video conferencing throughout the pandemic. Rosenholtz shares fascinating insights from her vision science research that could help reshape how video conferencing platforms are used.
+
+Please find a link to this podcast's transcript here: https://cap.csail.mit.edu/sites/default/files/resource-pdfs/Ruth%20Rosenholtz%20CSAIL%20Alliances%20Podcast%203.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1172876764-csail-alliances-improving-video-conferencing-through-vision-science-with-ruth-rosenholtz.mp3" length="11567855"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-SQ1Wyc7zBx3Y7eNN-gIhRlQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1151934916</guid>
+      <title>Exploring the Applications of Geometric Data with Justin Solomon</title>
+      <pubDate>Mon, 01 Nov 2021 15:59:23 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/exploring-the-applications-of-geometric-data-with-justin-solomon</link>
+      <itunes:duration>00:21:04</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Professor Justin Solomon discusses the many applications of processing geometric data including medical vision, 3D animation and autonomous vehicles. Please find a transcript for this podcast here:
+
+https://cap.csail.mit.edu/sites/default/files/resource-pdfs/Justin%20Solomon%20Podcast%20Export%201%281%29.pdf</itunes:summary>
+      <itunes:subtitle>Professor Justin Solomon discusses the many appli…</itunes:subtitle>
+      <description>Professor Justin Solomon discusses the many applications of processing geometric data including medical vision, 3D animation and autonomous vehicles. Please find a transcript for this podcast here:
+
+https://cap.csail.mit.edu/sites/default/files/resource-pdfs/Justin%20Solomon%20Podcast%20Export%201%281%29.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1151934916-csail-alliances-exploring-the-applications-of-geometric-data-with-justin-solomon.mp3" length="20226297"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-0XEsuDhScWLJkhxs-fxq11Q-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1135852927</guid>
+      <title>Unlocking Insights on Disease through Genomics with Manolis Kellis</title>
+      <pubDate>Mon, 04 Oct 2021 14:14:49 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/unlocking-insights-on-disease-through-genomics-with-manolis-kellis</link>
+      <itunes:duration>00:47:57</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Professor Manolis Kellis of MIT CSAIL and the Broad Institute of MIT and Harvard discusses the effects COVID-19 has had on his computational biology research. Kellis believes that by being aware of genetic predispositions we can better prepare to confront each person’s unique challenges.
+
+
+Access the transcript for this podcast at: https://cap.csail.mit.edu/sites/default/files/2021-10/Manolis%20Kellis%20CAP%20Podcast%20Export%203.pdf</itunes:summary>
+      <itunes:subtitle>Professor Manolis Kellis of MIT CSAIL and the Bro…</itunes:subtitle>
+      <description>Professor Manolis Kellis of MIT CSAIL and the Broad Institute of MIT and Harvard discusses the effects COVID-19 has had on his computational biology research. Kellis believes that by being aware of genetic predispositions we can better prepare to confront each person’s unique challenges.
+
+
+Access the transcript for this podcast at: https://cap.csail.mit.edu/sites/default/files/2021-10/Manolis%20Kellis%20CAP%20Podcast%20Export%203.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1135852927-csail-alliances-unlocking-insights-on-disease-through-genomics-with-manolis-kellis.mp3" length="46034441"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-NIU8pweIavqDXHS0-4ddqzg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1098635332</guid>
+      <title>Democratizing data science through machine learning with Tim Kraska</title>
+      <pubDate>Mon, 02 Aug 2021 12:19:20 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/democratizing-data-science-through-machine-learning-with-tim-kraska</link>
+      <itunes:duration>00:18:44</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CSAIL's Tim Kraska is developing new autoML approaches to make analytics more accessible to a broader range of users and optimize database architecture systems for companies.
+
+Access the transcript for the podcast at: http://cap.csail.mit.edu/sites/default/files/2021-08/Tim%20Kraska%20podcast.pdf.</itunes:summary>
+      <itunes:subtitle>CSAIL's Tim Kraska is developing new autoML appro…</itunes:subtitle>
+      <description>CSAIL's Tim Kraska is developing new autoML approaches to make analytics more accessible to a broader range of users and optimize database architecture systems for companies.
+
+Access the transcript for the podcast at: http://cap.csail.mit.edu/sites/default/files/2021-08/Tim%20Kraska%20podcast.pdf.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1098635332-csail-alliances-democratizing-data-science-through-machine-learning-with-tim-kraska.mp3" length="18021276"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-cyh4SW964d5rdWEq-g2QTIg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1068179971</guid>
+      <title>Building the Next Generation of Systems with Sam Madden</title>
+      <pubDate>Mon, 14 Jun 2021 14:12:46 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/building-the-next-generation-of-systems-with-sam-madden</link>
+      <itunes:duration>00:22:15</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT Schwarzman College of Computing Professor and Cambridge Mobile Telematics founder Sam Madden discusses how far technology can be pushed into other application domains. His research explores reinforcement learning and repurposing shelf machine learning components to advance systems and solve current challenges.
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/2021-07/Sam%20Madden%20Podcast_0.pdf.</itunes:summary>
+      <itunes:subtitle>MIT Schwarzman College of Computing Professor and…</itunes:subtitle>
+      <description>MIT Schwarzman College of Computing Professor and Cambridge Mobile Telematics founder Sam Madden discusses how far technology can be pushed into other application domains. His research explores reinforcement learning and repurposing shelf machine learning components to advance systems and solve current challenges.
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/2021-07/Sam%20Madden%20Podcast_0.pdf.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1068179971-csail-alliances-building-the-next-generation-of-systems-with-sam-madden.mp3" length="32060776"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-LidXVUjyLq3cQvX7-uNWQ2g-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1059806158</guid>
+      <title>Rethinking Concepts in Software Design with Daniel Jackson</title>
+      <pubDate>Tue, 01 Jun 2021 15:51:10 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/rethinking-concepts-in-software-design-with-daniel-jackson</link>
+      <itunes:duration>00:24:07</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Professor Daniel Jackson of MIT CSAIL is working on a number of projects to make software more usable, reliable, and secure. By rethinking the fundamentals of software design, he says that developers can ultimately give more flexibility to users in the structure and organization of software, as well as meet more user needs.
+
+Learn more about Professor Jackson at: https://bit.ly/3paRcsm
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Daniel%20Jackson%20Podcast.pdf</itunes:summary>
+      <itunes:subtitle>Professor Daniel Jackson of MIT CSAIL is working …</itunes:subtitle>
+      <description>Professor Daniel Jackson of MIT CSAIL is working on a number of projects to make software more usable, reliable, and secure. By rethinking the fundamentals of software design, he says that developers can ultimately give more flexibility to users in the structure and organization of software, as well as meet more user needs.
+
+Learn more about Professor Jackson at: https://bit.ly/3paRcsm
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Daniel%20Jackson%20Podcast.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1059806158-csail-alliances-rethinking-concepts-in-software-design-with-daniel-jackson.mp3" length="46365368"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-Qv6ecy09mmhKPifz-Z746eQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1041769129</guid>
+      <title>Closing the machine learning gap with Jacob Andreas</title>
+      <pubDate>Mon, 03 May 2021 17:20:31 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/closing-the-machine-learning-gap-with-jacob-andreas</link>
+      <itunes:duration>00:24:02</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Professor Jacob Andreas of MIT CSAIL is trying to close the gap between current machine learning techniques and human abilities to learn language and learn from language about the rest of the world.
+
+Learn more about Prof. Andreas at: https://bit.ly/3vECQ5o.
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Edit%20II%20.pdf.</itunes:summary>
+      <itunes:subtitle>Professor Jacob Andreas of MIT CSAIL is trying to…</itunes:subtitle>
+      <description>Professor Jacob Andreas of MIT CSAIL is trying to close the gap between current machine learning techniques and human abilities to learn language and learn from language about the rest of the world.
+
+Learn more about Prof. Andreas at: https://bit.ly/3vECQ5o.
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Edit%20II%20.pdf.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1041769129-csail-alliances-closing-the-machine-learning-gap-with-jacob-andreas.mp3" length="46126413"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-XHN3ZynYkNXmjo6l-eQ9yIw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1022628250</guid>
+      <title>Keeping Software Free-form with CSAIL's Hal Abelson</title>
+      <pubDate>Mon, 05 Apr 2021 13:22:11 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/keeping-software-free-form-with-csails-hal-abelson</link>
+      <itunes:duration>00:33:09</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>As one of the founding directors of the Free Software Foundation, CSAIL's Prof. Hal Abelson believes that free software empowers everyone to maintain the freedom to run, edit, contribute to, and share software, as well as see everything the software is doing.
+
+Learn more about Prof. Abelson at: https://bit.ly/3fPIEEq.
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/ResearcherSpotlight_HalAbelson_02_24_2021.pdf</itunes:summary>
+      <itunes:subtitle>As one of the founding directors of the Free Soft…</itunes:subtitle>
+      <description>As one of the founding directors of the Free Software Foundation, CSAIL's Prof. Hal Abelson believes that free software empowers everyone to maintain the freedom to run, edit, contribute to, and share software, as well as see everything the software is doing.
+
+Learn more about Prof. Abelson at: https://bit.ly/3fPIEEq.
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/ResearcherSpotlight_HalAbelson_02_24_2021.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1022628250-csail-alliances-keeping-software-free-form-with-csails-hal-abelson.mp3" length="63606837"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-rAqZnhJYGIeqrFr4-wqJCzQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/996056635</guid>
+      <title>Securing Computation with CSAIL's Yael Kalai</title>
+      <pubDate>Mon, 01 Mar 2021 18:30:02 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/securing-computation-with-csails-yael-kalai</link>
+      <itunes:duration>00:26:42</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Cryptography, the study of finding secure methods of communication, may seem to many of us as, well, cryptic. But in spite of its more theoretical and foundational nature in computing, cryptography is more important now than ever in securing private communication and other types of information that are no longer stored on our own private machines. Professor Yael Kalai of MIT CSAIL and Senior Principal Researcher at Microsoft Research New England is a cryptographer and theoretical computer scientist working on state-of-the-art ways of securing computation. 
+
+Learn more about Prof. Kalai's at: https://cap.csail.mit.edu/engage/spotlights/yael-kalai?utm_source=souncloud&amp;utm_medium=social%20media&amp;utm_campaign=yael_kalai_spotlight
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Video%20Edit%20II%20.pdf</itunes:summary>
+      <itunes:subtitle>Cryptography, the study of finding secure methods…</itunes:subtitle>
+      <description>Cryptography, the study of finding secure methods of communication, may seem to many of us as, well, cryptic. But in spite of its more theoretical and foundational nature in computing, cryptography is more important now than ever in securing private communication and other types of information that are no longer stored on our own private machines. Professor Yael Kalai of MIT CSAIL and Senior Principal Researcher at Microsoft Research New England is a cryptographer and theoretical computer scientist working on state-of-the-art ways of securing computation. 
+
+Learn more about Prof. Kalai's at: https://cap.csail.mit.edu/engage/spotlights/yael-kalai?utm_source=souncloud&amp;utm_medium=social%20media&amp;utm_campaign=yael_kalai_spotlight
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Video%20Edit%20II%20.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/996056635-csail-alliances-securing-computation-with-csails-yael-kalai.mp3" length="64123912"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-Dw5ljiIDJhAPBAKG-HRSSUA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/976886101</guid>
+      <title>Designing and Using Virtuality to Better Serve Us</title>
+      <pubDate>Mon, 01 Feb 2021 13:46:36 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/designing-and-using-virtuality-to-better-serve-us</link>
+      <itunes:duration>00:19:37</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Our new reality is increasingly one of virtuality. D. Fox Harrell, Ph.D., studies the relationship between computing and imagination for emerging forms of digital media, as well as their social and ethical impact. From videogames that better support diverse user groups to a personalized Universal Hip Hop Museum experience, his work falls into both the design and analysis of virtual technologies. Prof. Harrell and his research group in MIT CSAIL build analytical tools using AI identifying trends and biases and developing new design principles we can apply to our work in industry and academia.
+
+Learn more about Prof. Harrell's virtuality research at: https://cap.csail.mit.edu/engage/spotlights/d-fox-harrell-0?utm_source=soundcloud&amp;utm_medium=social%20media&amp;utm_campaign=d_fox_harrell_spotlight
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Fox%20Harrell%20Spotlight%20transcript.pdf</itunes:summary>
+      <itunes:subtitle>Our new reality is increasingly one of virtuality…</itunes:subtitle>
+      <description>Our new reality is increasingly one of virtuality. D. Fox Harrell, Ph.D., studies the relationship between computing and imagination for emerging forms of digital media, as well as their social and ethical impact. From videogames that better support diverse user groups to a personalized Universal Hip Hop Museum experience, his work falls into both the design and analysis of virtual technologies. Prof. Harrell and his research group in MIT CSAIL build analytical tools using AI identifying trends and biases and developing new design principles we can apply to our work in industry and academia.
+
+Learn more about Prof. Harrell's virtuality research at: https://cap.csail.mit.edu/engage/spotlights/d-fox-harrell-0?utm_source=soundcloud&amp;utm_medium=social%20media&amp;utm_campaign=d_fox_harrell_spotlight
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Fox%20Harrell%20Spotlight%20transcript.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/976886101-csail-alliances-designing-and-using-virtuality-to-better-serve-us.mp3" length="47127023"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-1TLTkkEBH9kgtH2R-yAP81w-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/951706771</guid>
+      <title>Enabling Robots to Complete Tasks on a Human Level</title>
+      <pubDate>Tue, 12 Jan 2021 13:00:07 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/developing-robots-to-have-human-level-dexterity</link>
+      <itunes:duration>00:19:35</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>If we want robots to assist us with everyday tasks, they’ll need to be able to manipulate objects on a human level. To do that, they need good fingers. Professor Ted Adelson of MIT CSAIL is developing robotic fingers that are sensitive and soft like human fingers, enabling robots to use their hands intelligently to accomplish chosen tasks. Read more about Ted Adelson at: https://cap.csail.mit.edu/engage/spotlights/ted-adelson?utm_source=soundcloud&amp;utm_medium=social%20media&amp;utm_campaign=spotlight_ted_adelson
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/CSAIL%20Alliances%20Researcher%20Spotlight-%20Ted%20Adleson.pdf</itunes:summary>
+      <itunes:subtitle>If we want robots to assist us with everyday task…</itunes:subtitle>
+      <description>If we want robots to assist us with everyday tasks, they’ll need to be able to manipulate objects on a human level. To do that, they need good fingers. Professor Ted Adelson of MIT CSAIL is developing robotic fingers that are sensitive and soft like human fingers, enabling robots to use their hands intelligently to accomplish chosen tasks. Read more about Ted Adelson at: https://cap.csail.mit.edu/engage/spotlights/ted-adelson?utm_source=soundcloud&amp;utm_medium=social%20media&amp;utm_campaign=spotlight_ted_adelson
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/CSAIL%20Alliances%20Researcher%20Spotlight-%20Ted%20Adleson.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/951706771-csail-alliances-developing-robots-to-have-human-level-dexterity.mp3" length="37629513"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-s2C0T6MmhwtLvPKh-XBuI6g-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/938732608</guid>
+      <title>Moore's Law Momentum with CSAIL's Saman Amarasinghe</title>
+      <pubDate>Mon, 30 Nov 2020 15:59:00 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/moores-law-momentum-with-csails-saman-amarasinghe</link>
+      <itunes:duration>00:30:34</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>“If we want to keep the Moore’s Law momentum going in computing, we have to do something different,” says CSAIL Professor Saman Amarasinghe, whose work with compilers is making them faster, more reliable, and more efficient. He discusses using new technologies like machine learning and modern algorithms and solvers to optimize code and get the performance needed to keep up with the rapid changes happening in industry. For more information, visit: https://cap.csail.mit.edu/engage/spotlights/saman-amarasinghe?utm_source=soundcloud&amp;utm_medium=social%20media&amp;utm_campaign=saman_amarasinghe_spotlight
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Moore%27s%20Law%20Momentum%20with%20CSAIL%27s%20Saman%20Amarasinghe%20Transcript%20.pdf</itunes:summary>
+      <itunes:subtitle>“If we want to keep the Moore’s Law momentum goin…</itunes:subtitle>
+      <description>“If we want to keep the Moore’s Law momentum going in computing, we have to do something different,” says CSAIL Professor Saman Amarasinghe, whose work with compilers is making them faster, more reliable, and more efficient. He discusses using new technologies like machine learning and modern algorithms and solvers to optimize code and get the performance needed to keep up with the rapid changes happening in industry. For more information, visit: https://cap.csail.mit.edu/engage/spotlights/saman-amarasinghe?utm_source=soundcloud&amp;utm_medium=social%20media&amp;utm_campaign=saman_amarasinghe_spotlight
+
+Access the transcript for the podcast at: https://cap.csail.mit.edu/sites/default/files/research-pdfs/Moore%27s%20Law%20Momentum%20with%20CSAIL%27s%20Saman%20Amarasinghe%20Transcript%20.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/938732608-csail-alliances-moores-law-momentum-with-csails-saman-amarasinghe.mp3" length="58733872"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-O39Jv06Z8hUy7N00-Jatspg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/767431357</guid>
+      <title>Understanding the Science of Disease Through Human Genome Research with Manolis Kellis</title>
+      <pubDate>Thu, 27 Feb 2020 16:09:22 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/understanding-the-science-of-disease-through-human-genome-research-with-manolis-kellis</link>
+      <itunes:duration>01:05:51</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT CSAIL Professor Manolis Kellis discusses how the symbiotic relationship between computer science and biology helps us to better understand the complex programming language that is our DNA. Through DNA, we can find the molecular basis of the pathophysiology of a disease and take a more holistic approach to disease treatment, and one day may even predict disease. He explains the impact of human genome and epigenome research on the pharmaceutical industry in developing medicine that is both precise and personalized, dramatically transforming the therapeutic landscape.
+
+Manolis Kellis
+Principal Investigator, MIT CSAIL, Professor of Computer Science, Computational Biology Group leader
+
+https://cap.csail.mit.edu/podcasts/understanding-science-disease-through-human-genome-research
+
+Download the podcast transcript:
+https://cap.csail.mit.edu/sites/default/files/research-pdfs/Podcast_ManolisKellis_04_29_2020.mp3_.pdf</itunes:summary>
+      <itunes:subtitle>MIT CSAIL Professor Manolis Kellis discusses how …</itunes:subtitle>
+      <description>MIT CSAIL Professor Manolis Kellis discusses how the symbiotic relationship between computer science and biology helps us to better understand the complex programming language that is our DNA. Through DNA, we can find the molecular basis of the pathophysiology of a disease and take a more holistic approach to disease treatment, and one day may even predict disease. He explains the impact of human genome and epigenome research on the pharmaceutical industry in developing medicine that is both precise and personalized, dramatically transforming the therapeutic landscape.
+
+Manolis Kellis
+Principal Investigator, MIT CSAIL, Professor of Computer Science, Computational Biology Group leader
+
+https://cap.csail.mit.edu/podcasts/understanding-science-disease-through-human-genome-research
+
+Download the podcast transcript:
+https://cap.csail.mit.edu/sites/default/files/research-pdfs/Podcast_ManolisKellis_04_29_2020.mp3_.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/767431357-csail-alliances-understanding-the-science-of-disease-through-human-genome-research-with-manolis-kellis.mp3" length="63287192"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-NyIbVECgYqMbxz9Z-3XB2Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/599374116</guid>
+      <title>Machine Learning and Algorithmic Challenges with Aleksander Madry</title>
+      <pubDate>Mon, 01 Apr 2019 18:39:50 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/aleksander-madry</link>
+      <itunes:duration>00:19:47</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Aleksander Madry, Associate Professor at CSAIL, tackles key algorithmic challenges in today’s computing as part of his work in the Theory of Computation Group at CSAIL. His work is described as re-thinking machine learning from the perspective of security and robustness. Madry discusses the evolution of the human and machine interaction and provides insight on adoption of M/L systems over the next few years.</itunes:summary>
+      <itunes:subtitle>Aleksander Madry, Associate Professor at CSAIL, t…</itunes:subtitle>
+      <description>Aleksander Madry, Associate Professor at CSAIL, tackles key algorithmic challenges in today’s computing as part of his work in the Theory of Computation Group at CSAIL. His work is described as re-thinking machine learning from the perspective of security and robustness. Madry discusses the evolution of the human and machine interaction and provides insight on adoption of M/L systems over the next few years.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/599374116-csail-alliances-aleksander-madry.mp3" length="38330036"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000513520776-xrukm3-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/563049021</guid>
+      <title>Designing the Internet of the Future with David Clark</title>
+      <pubDate>Tue, 22 Jan 2019 19:37:49 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/designing-the-internet-of-the-future-with-david-clark</link>
+      <itunes:duration>00:41:28</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Are we even sure what the internet is today? One of the original architects of the internet, David Clark, Senior Research Scientist at CSAIL, talks about shaping the future of the internet, the potential challenges and what it could become.</itunes:summary>
+      <itunes:subtitle>Are we even sure what the internet is today? One …</itunes:subtitle>
+      <description>Are we even sure what the internet is today? One of the original architects of the internet, David Clark, Senior Research Scientist at CSAIL, talks about shaping the future of the internet, the potential challenges and what it could become.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/563049021-csail-alliances-designing-the-internet-of-the-future-with-david-clark.mp3" length="39720818"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000476259039-psp6r1-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/313613286</guid>
+      <title>Humans and Intelligent Machine Support through Robotics and Automation with Julie Shah</title>
+      <pubDate>Tue, 21 Mar 2017 15:32:58 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/humans-and-intelligent-machine-support-through-robotics-and-automation-with-julie-shah</link>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Julie Shah discusses the challenges and successes of designing and employing intelligent design teammates that aim to enhance human productivity in descion-making and physical tasks through using reverse engineering methods and computational models. She shares how research is exposing robots to building skills that allow them to infer and anticipate their human counterpart's next move and motives within a given situation and the flexibility to adapt and adjust outside of predetermined plans.</itunes:summary>
+      <itunes:subtitle>Julie Shah discusses the challenges and successes…</itunes:subtitle>
+      <description>Julie Shah discusses the challenges and successes of designing and employing intelligent design teammates that aim to enhance human productivity in descion-making and physical tasks through using reverse engineering methods and computational models. She shares how research is exposing robots to building skills that allow them to infer and anticipate their human counterpart's next move and motives within a given situation and the flexibility to adapt and adjust outside of predetermined plans.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/313613286-csail-alliances-humans-and-intelligent-machine-support-through-robotics-and-automation-with-julie-shah.mp3" length="14470194"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000213755611-6wj9xf-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/305960624</guid>
+      <title>The Intersection of Finance, Cryptography and AI with Andrew Lo</title>
+      <pubDate>Fri, 03 Feb 2017 17:53:25 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-intersection-of-finance-cryptography-and-ai-with-andrew-lo</link>
+      <itunes:duration>00:15:24</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Andrew Lo, Charles E. and Susan T. Harris Professor at MIT Sloan School of Management, and Director of MIT Laboratory for Financial Engineering, shares insight into the collaborative research efforts of MIT CSAIL and MIT Sloan School of Management within the three distinct areas of crytopgraphy, machine learning and AI, as well as discusses the progress of blockchain technology and cryptocurrency. He also offers a glimpse into the future of banking and finance and reveals the emerging technology of secured multi-party computation.</itunes:summary>
+      <itunes:subtitle>Andrew Lo, Charles E. and Susan T. Harris Profess…</itunes:subtitle>
+      <description>Andrew Lo, Charles E. and Susan T. Harris Professor at MIT Sloan School of Management, and Director of MIT Laboratory for Financial Engineering, shares insight into the collaborative research efforts of MIT CSAIL and MIT Sloan School of Management within the three distinct areas of crytopgraphy, machine learning and AI, as well as discusses the progress of blockchain technology and cryptocurrency. He also offers a glimpse into the future of banking and finance and reveals the emerging technology of secured multi-party computation.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/305960624-csail-alliances-the-intersection-of-finance-cryptography-and-ai-with-andrew-lo.mp3" length="14795754"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000458535789-1uzqs8-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/277370397</guid>
+      <title>Cybersecurity Challenges and How They Impact IOT</title>
+      <pubDate>Mon, 08 Aug 2016 16:52:23 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-challenges-of-cybersecurity-and-how-they-impact-iot</link>
+      <itunes:duration>00:16:16</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT CSAIL's Howard Shrobe, Director of the Cybersecurity@CSAIL initiative, discusses what led him to become involved in the industry of Cybersecurity, his experience with DARPA, and creating the cybersecurity programs of CRASH and MRC. Additionally, he shares insights as to the biggest challenges in cybersecurity today and how these challenges effect the development of the Internet of Things.</itunes:summary>
+      <itunes:subtitle>MIT CSAIL's Howard Shrobe, Director of the Cybers…</itunes:subtitle>
+      <description>MIT CSAIL's Howard Shrobe, Director of the Cybersecurity@CSAIL initiative, discusses what led him to become involved in the industry of Cybersecurity, his experience with DARPA, and creating the cybersecurity programs of CRASH and MRC. Additionally, he shares insights as to the biggest challenges in cybersecurity today and how these challenges effect the development of the Internet of Things.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/277370397-csail-alliances-the-challenges-of-cybersecurity-and-how-they-impact-iot.mp3" length="15623830"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000175401626-2vpygb-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/272318228</guid>
+      <title>Parallel Software and Anonymizing Networks with MIT CSAIL's Srini Devadas</title>
+      <pubDate>Tue, 05 Jul 2016 18:38:41 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/parallel-software-and-anonymizing-networks-with-mit-csails-srini-devadas</link>
+      <itunes:duration>00:19:22</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MIT CSAIL professor Srini Devadas describes computer architecture, computer security and their intersection. He gives further insight into the conflict between ease of programming and performance and the communication between these threads through parallel software, such as message passing or shared memory abstraction (e.g. Google Docs).</itunes:summary>
+      <itunes:subtitle>MIT CSAIL professor Srini Devadas describes compu…</itunes:subtitle>
+      <description>MIT CSAIL professor Srini Devadas describes computer architecture, computer security and their intersection. He gives further insight into the conflict between ease of programming and performance and the communication between these threads through parallel software, such as message passing or shared memory abstraction (e.g. Google Docs).</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/272318228-csail-alliances-parallel-software-and-anonymizing-networks-with-mit-csails-srini-devadas.mp3" length="18604616"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000170223819-teh1w8-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/256608868</guid>
+      <title>Internet of Things with MIT CSAIL's John Leonard</title>
+      <pubDate>Thu, 31 Mar 2016 19:41:01 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/internet-of-things-with-mit-csails-john-leonard</link>
+      <itunes:duration>00:12:32</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>While the promise of the Internet of Things (IoT) brings many new business prospects, it also presents significant challenges ranging from technology architectural choices to security concerns. The concept of Internet of Things (IoT), which has roots at MIT, has begun to make an impact in industries ranging from industrial systems to healthcare.  MIT researchers continue to conduct ground-breaking research on topics ranging from RFID to cloud technologies, from sensors to the World Wide Web.  Learn cutting-edge tools and applications for this new evolution in hardware, software, and data from MIT's Computer Science and Artificial Intelligence Laboratory's IoT experts: http://bit.ly/1S4sIdp</itunes:summary>
+      <itunes:subtitle>While the promise of the Internet of Things (IoT)…</itunes:subtitle>
+      <description>While the promise of the Internet of Things (IoT) brings many new business prospects, it also presents significant challenges ranging from technology architectural choices to security concerns. The concept of Internet of Things (IoT), which has roots at MIT, has begun to make an impact in industries ranging from industrial systems to healthcare.  MIT researchers continue to conduct ground-breaking research on topics ranging from RFID to cloud technologies, from sensors to the World Wide Web.  Learn cutting-edge tools and applications for this new evolution in hardware, software, and data from MIT's Computer Science and Artificial Intelligence Laboratory's IoT experts: http://bit.ly/1S4sIdp</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/256608868-csail-alliances-internet-of-things-with-mit-csails-john-leonard.mp3" length="12046078"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000155758151-qqghkr-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/248743967</guid>
+      <title>A Discussion with MIT CSAIL's Michael Stonebraker</title>
+      <pubDate>Wed, 24 Feb 2016 22:31:57 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/six-steps-to-start-up-success-from-serial-entrepreneur-with-mike-stonebraker</link>
+      <itunes:duration>00:07:44</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>A researcher at MIT’s Computer Science and Artificial Intelligence Lab, Michael Stonebraker has founded and led nine different big-data spin-offs, including VoltDB, Tamr and Vertica - the latter of which was bought by Hewlett Packard for $340 million.
+
+Now he’s bringing his insights to a new online course being offered this month through edX and MIT Professional Education. Co-taught by long-time business partner Andy Palmer, “Startup Success: How to Launch a Technology Company in 6 Steps” covers topics ranging from generating ideas and recruiting top talent to pitching VCs and negotiating deals - all in the span of three weeks.</itunes:summary>
+      <itunes:subtitle>A researcher at MIT’s Computer Science and Artifi…</itunes:subtitle>
+      <description>A researcher at MIT’s Computer Science and Artificial Intelligence Lab, Michael Stonebraker has founded and led nine different big-data spin-offs, including VoltDB, Tamr and Vertica - the latter of which was bought by Hewlett Packard for $340 million.
+
+Now he’s bringing his insights to a new online course being offered this month through edX and MIT Professional Education. Co-taught by long-time business partner Andy Palmer, “Startup Success: How to Launch a Technology Company in 6 Steps” covers topics ranging from generating ideas and recruiting top talent to pitching VCs and negotiating deals - all in the span of three weeks.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/248743967-csail-alliances-six-steps-to-start-up-success-from-serial-entrepreneur-with-mike-stonebraker.mp3" length="7430059"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000148490109-q7kwsr-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/242942488</guid>
+      <title>The Data Science Machine: Kalyan Veeramachaneni</title>
+      <pubDate>Wed, 20 Jan 2016 20:00:28 +0000</pubDate>
+      <link>https://soundcloud.com/csail-alliances/the-data-science-machine-kalyan-veeramachaneni</link>
+      <itunes:duration>00:10:28</itunes:duration>
+      <itunes:author>CSAIL Alliances</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The Data Science Machine is an end-to-end software system that is able to automatically develop predictive models from relational data. The Machine was created by Max Kanter and Kalyan Verramachaneni at the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. </itunes:summary>
+      <itunes:subtitle>The Data Science Machine is an end-to-end softwar…</itunes:subtitle>
+      <description>The Data Science Machine is an end-to-end software system that is able to automatically develop predictive models from relational data. The Machine was created by Max Kanter and Kalyan Verramachaneni at the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. </description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/242942488-csail-alliances-the-data-science-machine-kalyan-veeramachaneni.mp3" length="10053693"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000143916325-rxbz60-t3000x3000.jpg"/>
+    </item>
+      </channel>
+    </rss>

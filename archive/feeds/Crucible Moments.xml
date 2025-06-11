@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://feeds.megaphone.fm/VMP5587961509" rel="self" type="application/rss+xml"/>
+    <title>Crucible Moments</title>
+    <language>en</language>
+    <copyright></copyright>
+    <description>A podcast about the inflection points that shaped some of the most significant companies of our time. Crucible moments are pivotal decisions that determine your trajectory. In Season 2, hear from founders and leaders like Steve Chen of YouTube, Drew Houston of Dropbox, Frank Slootman of ServiceNow and Tony Xu of DoorDash, Steve Huffman of Reddit and more about how they navigated the challenges and opportunities that defined their stories. Hosted by Roelof Botha of Sequoia Capital.
+
+The content of this podcast does not constitute investment advice, an offer to provide investment advisory services or an offer to sell or solicitation of an offer to buy an interest in any investment fund.</description>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/c7d84376-24aa-11ee-b77d-2b1d9842a40c/image/Crucible_Moments_Show_art.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Crucible Moments</title>
+    </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Sequoia Capital</itunes:author>
+    <itunes:summary>A podcast about the inflection points that shaped some of the most significant companies of our time. Crucible moments are pivotal decisions that determine your trajectory. In Season 2, hear from founders and leaders like Steve Chen of YouTube, Drew Houston of Dropbox, Frank Slootman of ServiceNow and Tony Xu of DoorDash, Steve Huffman of Reddit and more about how they navigated the challenges and opportunities that defined their stories. Hosted by Roelof Botha of Sequoia Capital.
+
+The content of this podcast does not constitute investment advice, an offer to provide investment advisory services or an offer to sell or solicitation of an offer to buy an interest in any investment fund.</itunes:summary>
+    <content:encoded>
+      <![CDATA[<p>A podcast about the inflection points that shaped some of the most significant companies of our time. Crucible moments are pivotal decisions that determine your trajectory. In Season 2, hear from founders and leaders like Steve Chen of YouTube, Drew Houston of Dropbox, Frank Slootman of ServiceNow and Tony Xu of DoorDash, Steve Huffman of Reddit and more about how they navigated the challenges and opportunities that defined their stories. Hosted by Roelof Botha of Sequoia Capital.</p><p><br></p><p><em>The content of this podcast does not constitute investment advice, an offer to provide investment advisory services or an offer to sell or solicitation of an offer to buy an interest in any investment fund.</em></p>]]>
+    </content:encoded>
+    <itunes:owner>
+      <itunes:name>Sequoia Capital</itunes:name>
+      <itunes:email>alex@sequoiacap.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/c7d84376-24aa-11ee-b77d-2b1d9842a40c/image/Crucible_Moments_Show_art.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <item>
+      <title>Nubank ft. David Vélez - An Outsider Upends the Brazilian Banking System</title>
+      <description>When Nubank started 10 years ago, a few big banks in Brazil had a stranglehold on the largest economy in Latin America: they controlled nearly all the market share, and imposed some of the highest fees and worst banking terms in the world. David Vélez was an unlikely character to challenge the system: an outsider from Colombia and Costa Rica with a Stanford MBA, David was working at Sequoia with the goal of investing in Latin American companies. When the realization struck that they couldn’t find any companies they wanted to invest in, David set out to start one himself. What followed is a literal David vs. Goliath story of epic proportions. David and co-founders Cristina Junqueira and Edward Wible explain how Nubank survived competitors' attempts to crush them, and became the largest Latin American neobank, with over 100 million customers across three countries.
+
+Host: Roelof Botha
+Featuring: David Vélez, Cristina Junqueira, Edward Wible, Doug Leone</description>
+      <pubDate>Thu, 23 Jan 2025 10:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/27a57868-656f-11ef-9cdf-971772a0be8e/image/889f9ee9f4390ee14e07c51fb2b97df6.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>When Nubank started 10 years ago, a few big banks in Brazil had a stranglehold on the largest economy in Latin America.</itunes:subtitle>
+      <itunes:summary>When Nubank started 10 years ago, a few big banks in Brazil had a stranglehold on the largest economy in Latin America: they controlled nearly all the market share, and imposed some of the highest fees and worst banking terms in the world. David Vélez was an unlikely character to challenge the system: an outsider from Colombia and Costa Rica with a Stanford MBA, David was working at Sequoia with the goal of investing in Latin American companies. When the realization struck that they couldn’t find any companies they wanted to invest in, David set out to start one himself. What followed is a literal David vs. Goliath story of epic proportions. David and co-founders Cristina Junqueira and Edward Wible explain how Nubank survived competitors' attempts to crush them, and became the largest Latin American neobank, with over 100 million customers across three countries.
+
+Host: Roelof Botha
+Featuring: David Vélez, Cristina Junqueira, Edward Wible, Doug Leone</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>When Nubank started 10 years ago, a few big banks in Brazil had a stranglehold on the largest economy in Latin America: they controlled nearly all the market share, and imposed some of the highest fees and worst banking terms in the world. David Vélez was an unlikely character to challenge the system: an outsider from Colombia and Costa Rica with a Stanford MBA, David was working at Sequoia with the goal of investing in Latin American companies. When the realization struck that they couldn’t find any companies they wanted to invest in, David set out to start one himself. What followed is a literal David vs. Goliath story of epic proportions. David and co-founders Cristina Junqueira and Edward Wible explain how Nubank survived competitors' attempts to crush them, and became the largest Latin American neobank, with over 100 million customers across three countries.</p><p><br></p><p>Host: Roelof Botha</p><p>Featuring: David Vélez, Cristina Junqueira, Edward Wible, Doug Leone</p>]]>
+      </content:encoded>
+      <itunes:duration>3004</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[27a57868-656f-11ef-9cdf-971772a0be8e]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI5754798048.mp3?updated=1737578726" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dropbox ft. Drew Houston - How the Cloud Pioneer Reinvented Itself</title>
+      <description>A scrappy upstart taking on hyperscalers in a category with lots of hand-wavers, Dropbox became the canonical example of Silicon Valley viral growth, adding 50 million users in the first years following their 2008 launch and quickly dominating their category. However, as CEO Drew Houston explains, their path from viral sensation to enduring business was filled with daunting obstacles. As giants released competing products and tried to crush them, Dropbox embarked on a set of strategic acquisitions to expand its product line—but failed to find product-market fit with the new offerings. What do you do when your idea for your second act doesn’t work like you hoped? Drew describes the insights that led them to strategically re-focus on work use cases for their core product, and the other moves that would re-ignite growth and turn the company profitable. In a counterintuitive bet, the cloud innovator would end up migrating off of cloud infrastructure to its own servers in order to be more cost-efficient. This engineering feat, called Magic Pocket, became the stuff of Silicon Valley engineering lore. Drew and engineering leaders Akhil Gupta and James Cowling recount the story of how they pulled it off.
+
+Host: Roelof Botha
+Featuring: Drew Houston, Arash Ferdowsi, Sujay Jaswa, Akhil Gupta, James Cowling, Bryan Schreier</description>
+      <pubDate>Thu, 09 Jan 2025 10:00:00 -0000</pubDate>
+      <itunes:title>Dropbox ft. Drew Houston - How the Cloud Pioneer Reinvented Itself</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/17b2690c-656f-11ef-a608-df6e1a5b0995/image/5f7627c7c049b144a3fca6353d890e01.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>A scrappy upstart taking on hyperscalers in a category with lots of hand-wavers, Dropbox became the canonical example of Silicon Valley viral growth.</itunes:subtitle>
+      <itunes:summary>A scrappy upstart taking on hyperscalers in a category with lots of hand-wavers, Dropbox became the canonical example of Silicon Valley viral growth, adding 50 million users in the first years following their 2008 launch and quickly dominating their category. However, as CEO Drew Houston explains, their path from viral sensation to enduring business was filled with daunting obstacles. As giants released competing products and tried to crush them, Dropbox embarked on a set of strategic acquisitions to expand its product line—but failed to find product-market fit with the new offerings. What do you do when your idea for your second act doesn’t work like you hoped? Drew describes the insights that led them to strategically re-focus on work use cases for their core product, and the other moves that would re-ignite growth and turn the company profitable. In a counterintuitive bet, the cloud innovator would end up migrating off of cloud infrastructure to its own servers in order to be more cost-efficient. This engineering feat, called Magic Pocket, became the stuff of Silicon Valley engineering lore. Drew and engineering leaders Akhil Gupta and James Cowling recount the story of how they pulled it off.
+
+Host: Roelof Botha
+Featuring: Drew Houston, Arash Ferdowsi, Sujay Jaswa, Akhil Gupta, James Cowling, Bryan Schreier</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A scrappy upstart taking on hyperscalers in a category with lots of hand-wavers, Dropbox became the canonical example of Silicon Valley viral growth, adding 50 million users in the first years following their 2008 launch and quickly dominating their category. However, as CEO Drew Houston explains, their path from viral sensation to enduring business was filled with daunting obstacles. As giants released competing products and tried to crush them, Dropbox embarked on a set of strategic acquisitions to expand its product line—but failed to find product-market fit with the new offerings. What do you do when your idea for your second act doesn’t work like you hoped? Drew describes the insights that led them to strategically re-focus on work use cases for their core product, and the other moves that would re-ignite growth and turn the company profitable. In a counterintuitive bet, the cloud innovator would end up migrating <em>off</em> of cloud infrastructure to its own servers in order to be more cost-efficient. This engineering feat, called Magic Pocket, became the stuff of Silicon Valley engineering lore. Drew and engineering leaders Akhil Gupta and James Cowling recount the story of how they pulled it off.</p><p><br></p><p>Host: Roelof Botha</p><p>Featuring: Drew Houston, Arash Ferdowsi, Sujay Jaswa, Akhil Gupta, James Cowling, Bryan Schreier</p>]]>
+      </content:encoded>
+      <itunes:duration>3044</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[17b2690c-656f-11ef-a608-df6e1a5b0995]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI9157884524.mp3?updated=1736402620" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>LIVE: ServiceNow CEO Bill McDermott on Unlocking Elite Level Execution </title>
+      <description>Earlier this season we heard the startup story of ServiceNow—from Fred Luddy setting out to reinvent IT workflows as a first-time founder, to Frank Slootman joining as CEO to scale the business to an IPO. Even more remarkable is that ServiceNow has only accelerated as a public company, growing over ten-fold in the last decade. At a recent closed event in Europe, Sequoia partner Pat Grady spoke with ServiceNow’s current CEO Bill McDermott, who took the reins in 2019. This conversation was recorded in September, 2024 when ServiceNow’s market cap was $125B—today that number has grown to $225B. Their conversation sheds light on ServiceNow’s journey to becoming one of the world’s largest software companies, with over $10 billion dollars in annual revenue, and how Bill’s unrelenting focus on elite level execution is key to the company’s continued success.
+
+Featuring: Bill McDermott, ServiceNow; Pat Grady, Sequoia Capital</description>
+      <pubDate>Thu, 02 Jan 2025 10:00:00 -0000</pubDate>
+      <itunes:title>LIVE: ServiceNow CEO Bill McDermott on Unlocking Elite Level Execution </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/e7ea25aa-bf07-11ef-982f-4f0cabe95c5b/image/1bbbac90a53bac0c2bac3cc4986551c2.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>At a recent closed event in Europe, Sequoia partner Pat Grady spoke with ServiceNow’s current CEO Bill McDermott, who took the reins in 2019.</itunes:subtitle>
+      <itunes:summary>Earlier this season we heard the startup story of ServiceNow—from Fred Luddy setting out to reinvent IT workflows as a first-time founder, to Frank Slootman joining as CEO to scale the business to an IPO. Even more remarkable is that ServiceNow has only accelerated as a public company, growing over ten-fold in the last decade. At a recent closed event in Europe, Sequoia partner Pat Grady spoke with ServiceNow’s current CEO Bill McDermott, who took the reins in 2019. This conversation was recorded in September, 2024 when ServiceNow’s market cap was $125B—today that number has grown to $225B. Their conversation sheds light on ServiceNow’s journey to becoming one of the world’s largest software companies, with over $10 billion dollars in annual revenue, and how Bill’s unrelenting focus on elite level execution is key to the company’s continued success.
+
+Featuring: Bill McDermott, ServiceNow; Pat Grady, Sequoia Capital</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Earlier this season we heard the startup story of ServiceNow—from Fred Luddy setting out to reinvent IT workflows as a first-time founder, to Frank Slootman joining as CEO to scale the business to an IPO. Even more remarkable is that ServiceNow has only accelerated as a public company, growing over ten-fold in the last decade. At a recent closed event in Europe, Sequoia partner Pat Grady spoke with ServiceNow’s current CEO Bill McDermott, who took the reins in 2019. This conversation was recorded in September, 2024 when ServiceNow’s market cap was $125B—today that number has grown to $225B. Their conversation sheds light on ServiceNow’s journey to becoming one of the world’s largest software companies, with over $10 billion dollars in annual revenue, and how Bill’s unrelenting focus on elite level execution is key to the company’s continued success.</p><p><br></p><p>Featuring: Bill McDermott, ServiceNow; Pat Grady, Sequoia Capital</p>]]>
+      </content:encoded>
+      <itunes:duration>1940</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[e7ea25aa-bf07-11ef-982f-4f0cabe95c5b]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI6844731585.mp3?updated=1735678448" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Robinhood ft. Vlad Tenev - Reinventing Finance for a New Generation</title>
+      <description>Millions of Americans use their smartphones to invest and manage their finances every day—but before Robinhood started in 2013, finance looked very different. Investing was something for the wealthy, with steep fees charged on every trade, and was done exclusively on computers with arcane trading software. In this episode, co-founder and CEO Vlad Tenev explains why Robinhood set out to democratize access to investing and reinvent it for a new generation, how it overcame immense challenges in that pursuit, and how it reinvented itself amid a market downturn with a holistic suite of customer offerings to mount an historic comeback.   
+
+Host: Roelof Botha, Sequoia Capital
+Featuring: Vlad Tenev, Micky Malka, Andrew Reed, Jason Warnick</description>
+      <pubDate>Thu, 19 Dec 2024 10:00:00 -0000</pubDate>
+      <itunes:title>Robinhood ft. Vlad Tenev - Reinventing Finance for a New Generation</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/248707fa-bcdb-11ef-b15f-874e6bd8adcf/image/3179763b56d6cdf6866cad730f1b2cc1.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Millions of Americans use their smartphones to invest and manage their finances every day—but before Robinhood started in 2013, finance looked very different.</itunes:subtitle>
+      <itunes:summary>Millions of Americans use their smartphones to invest and manage their finances every day—but before Robinhood started in 2013, finance looked very different. Investing was something for the wealthy, with steep fees charged on every trade, and was done exclusively on computers with arcane trading software. In this episode, co-founder and CEO Vlad Tenev explains why Robinhood set out to democratize access to investing and reinvent it for a new generation, how it overcame immense challenges in that pursuit, and how it reinvented itself amid a market downturn with a holistic suite of customer offerings to mount an historic comeback.   
+
+Host: Roelof Botha, Sequoia Capital
+Featuring: Vlad Tenev, Micky Malka, Andrew Reed, Jason Warnick</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Millions of Americans use their smartphones to invest and manage their finances every day—but before Robinhood started in 2013, finance looked very different. Investing was something for the wealthy, with steep fees charged on every trade, and was done exclusively on computers with arcane trading software. In this episode, co-founder and CEO Vlad Tenev explains why Robinhood set out to democratize access to investing and reinvent it for a new generation, how it overcame immense challenges in that pursuit, and how it reinvented itself amid a market downturn with a holistic suite of customer offerings to mount an historic comeback.   </p><p><br></p><p>Host: Roelof Botha, Sequoia Capital</p><p>Featuring: Vlad Tenev, Micky Malka, Andrew Reed, Jason Warnick</p><p><br></p>]]>
+      </content:encoded>
+      <itunes:duration>2907</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[248707fa-bcdb-11ef-b15f-874e6bd8adcf]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI9910722569.mp3?updated=1734550393" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>YouTube ft. Steve Chen - 18 Months That Changed the Internet </title>
+      <description>This episode takes us back to the earliest days of YouTube, as the founders explain why it was a longshot that succeeded against all odds. When cofounders Steve Chen, Chad Hurley and Jawed Karim left PayPal to start YouTube, it wasn’t even clear that the nascent broadband infrastructure could support playing video in a browser. In a brief period until its acquisition by Google—from its first incarnation as a video dating site to confronting daunting technical and legal challenges—the early story of YouTube is an underdog tale of scrappy upstarts who ended up changing the world. 
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Steve Chen, Jawed Karim, Zahavah Levine, Colin Corbett, Yu Pan</description>
+      <pubDate>Thu, 05 Dec 2024 10:00:00 -0000</pubDate>
+      <itunes:title>YouTube ft. Steve Chen - 18 Months That Changed the Internet </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/e3b9bdb2-656e-11ef-92d7-437c42624482/image/fc042ececed9dd15615d19aad4cb9ebb.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>This episode takes us back to the earliest days of YouTube, as the founders explain why it was a longshot that succeeded against all odds.</itunes:subtitle>
+      <itunes:summary>This episode takes us back to the earliest days of YouTube, as the founders explain why it was a longshot that succeeded against all odds. When cofounders Steve Chen, Chad Hurley and Jawed Karim left PayPal to start YouTube, it wasn’t even clear that the nascent broadband infrastructure could support playing video in a browser. In a brief period until its acquisition by Google—from its first incarnation as a video dating site to confronting daunting technical and legal challenges—the early story of YouTube is an underdog tale of scrappy upstarts who ended up changing the world. 
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Steve Chen, Jawed Karim, Zahavah Levine, Colin Corbett, Yu Pan</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>This episode takes us back to the earliest days of YouTube, as the founders explain why it was a longshot that succeeded against all odds. When cofounders Steve Chen, Chad Hurley and Jawed Karim left PayPal to start YouTube, it wasn’t even clear that the nascent broadband infrastructure could support playing video in a browser. In a brief period until its acquisition by Google—from its first incarnation as a video dating site to confronting daunting technical and legal challenges—the early story of YouTube is an underdog tale of scrappy upstarts who ended up changing the world. </p><p><br></p><p>Host: Roelof Botha, Sequoia Capital</p><p><br></p><p>Featuring: Steve Chen, Jawed Karim, Zahavah Levine, Colin Corbett, Yu Pan</p>]]>
+      </content:encoded>
+      <itunes:duration>2924</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[e3b9bdb2-656e-11ef-92d7-437c42624482]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI5718830908.mp3?updated=1733258798" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Natera ft. Matthew Rabinowitz - A Personal Mission That Led to a Biotech Revolution</title>
+      <description>Founder Matthew Rabinowitz opens up about the intensely personal journey that set him on a course to revolutionizing healthcare. A PhD in electrical engineering, he had no background in genetics or biology, but after his sister had a baby with Down syndrome that hadn’t been detected and tragically died after 6 days, Matthew dedicated himself to solving this problem. After overcoming seemingly impossible obstacles, today Natera leverages molecular biology and novel bioinformatics technology to provide prenatal screening in nearly half of U.S. pregnancies, as well as transforming oncology and organ transplants. Hear about Matthew’s vision for the future of computational biology and its profound impact on human health.
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Matthew Rabinowitz, Jonathan Sheena, Steve Chapman, Chitra Kotwaliwale, Sarah Elliot</description>
+      <pubDate>Thu, 21 Nov 2024 10:00:00 -0000</pubDate>
+      <itunes:title>Natera ft. Matthew Rabinowitz - A Personal Mission That Led to a Biotech Revolution</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/f49e508e-656e-11ef-b26d-73a48286b015/image/92d43ce9f94f3cb8fbd2f7b85bc18054.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Founder Matthew Rabinowitz opens up about the intensely personal journey that set him on a course to revolutionizing healthcare. </itunes:subtitle>
+      <itunes:summary>Founder Matthew Rabinowitz opens up about the intensely personal journey that set him on a course to revolutionizing healthcare. A PhD in electrical engineering, he had no background in genetics or biology, but after his sister had a baby with Down syndrome that hadn’t been detected and tragically died after 6 days, Matthew dedicated himself to solving this problem. After overcoming seemingly impossible obstacles, today Natera leverages molecular biology and novel bioinformatics technology to provide prenatal screening in nearly half of U.S. pregnancies, as well as transforming oncology and organ transplants. Hear about Matthew’s vision for the future of computational biology and its profound impact on human health.
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Matthew Rabinowitz, Jonathan Sheena, Steve Chapman, Chitra Kotwaliwale, Sarah Elliot</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Founder Matthew Rabinowitz opens up about the intensely personal journey that set him on a course to revolutionizing healthcare. A PhD in electrical engineering, he had no background in genetics or biology, but after his sister had a baby with Down syndrome that hadn’t been detected and tragically died after 6 days, Matthew dedicated himself to solving this problem. After overcoming seemingly impossible obstacles, today Natera leverages molecular biology and novel bioinformatics technology to provide prenatal screening in nearly half of U.S. pregnancies, as well as transforming oncology and organ transplants. Hear about Matthew’s vision for the future of computational biology and its profound impact on human health.</p><p><br></p><p>Host: Roelof Botha, Sequoia Capital</p><p><br></p><p>Featuring: Matthew Rabinowitz, Jonathan Sheena, Steve Chapman, Chitra Kotwaliwale, Sarah Elliot </p><p><br></p><p><br></p>]]>
+      </content:encoded>
+      <itunes:duration>3205</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[f49e508e-656e-11ef-b26d-73a48286b015]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI3784674635.mp3?updated=1732130461" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>LIVE: DoorDash’s Tony Xu and Miki Kuusi Talk Scaling Operational Excellence</title>
+      <description>Tony Xu and Miki Kuusi share insights from building two of the world's most successful delivery platforms—DoorDash and Wolt—which merged in 2022 to create an $80B GOV business operating in 32 countries. In this candid conversation with Sequoia's Alfred Lin live at a Sequoia event in Europe, they discuss the challenges of scaling operational excellence, maintaining culture through hypergrowth and the future of commerce in cities.
+
+Host: Alfred Lin, Sequoia Capital
+
+Featuring: Tony Xu, Miki Kuusi</description>
+      <pubDate>Thu, 14 Nov 2024 10:00:00 -0000</pubDate>
+      <itunes:title>LIVE: DoorDash’s Tony Xu and Miki Kuusi Talk Scaling Operational Excellence</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ce5dadbe-a206-11ef-a9d3-57bd45a97f21/image/1bbbac90a53bac0c2bac3cc4986551c2.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Tony Xu and Miki Kuusi share insights from building two of the world's most successful delivery platforms—DoorDash and Wolt</itunes:subtitle>
+      <itunes:summary>Tony Xu and Miki Kuusi share insights from building two of the world's most successful delivery platforms—DoorDash and Wolt—which merged in 2022 to create an $80B GOV business operating in 32 countries. In this candid conversation with Sequoia's Alfred Lin live at a Sequoia event in Europe, they discuss the challenges of scaling operational excellence, maintaining culture through hypergrowth and the future of commerce in cities.
+
+Host: Alfred Lin, Sequoia Capital
+
+Featuring: Tony Xu, Miki Kuusi</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Tony Xu and Miki Kuusi share insights from building two of the world's most successful delivery platforms—DoorDash and Wolt—which merged in 2022 to create an $80B GOV business operating in 32 countries. In this candid conversation with Sequoia's Alfred Lin live at a Sequoia event in Europe, they discuss the challenges of scaling operational excellence, maintaining culture through hypergrowth and the future of commerce in cities.</p><p><br></p><p>Host: Alfred Lin, Sequoia Capital</p><p><br></p><p>Featuring: Tony Xu, Miki Kuusi</p>]]>
+      </content:encoded>
+      <itunes:duration>1788</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[ce5dadbe-a206-11ef-a9d3-57bd45a97f21]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI3878368840.mp3?updated=1731540860" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>DoorDash ft. Tony Xu - The “Wrong” Moves That Built a Giant</title>
+      <description>DoorDash faced skeptics from the start. Grubhub, Delivery.com, and others were already addressing the restaurant delivery market when CEO Tony Xu and his co-founders started in 2013. But after talking to hundreds of local small businesses, they realized there was still an unmet need: None of the competitors solved the problem of delivery with an on-demand workforce, the way Uber had done with drivers. After struggling to raise initial funding, DoorDash found traction. But the next few years would prove tumultuous, with cash scarcity and investor skepticism putting the company perilously close to the brink. The founders’ contrarian decisions, clarity on their commitment to serve small local businesses, and ability to out-operate competitors has turned DoorDash into one the decade’s startup success stories. In this episode, Tony brings us inside their decision-making, and what DoorDash saw that others missed.
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Tony Xu, Keith Yandell, Miki Kuusi, Alfred Lin</description>
+      <pubDate>Thu, 24 Oct 2024 09:00:00 -0000</pubDate>
+      <itunes:title>DoorDash ft. Tony Xu – The “Wrong” Moves That Built a Giant</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ebb953f6-656e-11ef-b9e4-bf8ba7f9bb6d/image/3c54af548cea1d08f6eab273fb14829a.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>DoorDash faced skeptics from the start. GrubHub, Delivery.com, and others were already addressing the restaurant delivery market when CEO Tony Xu and his co-founders started in 2013.</itunes:subtitle>
+      <itunes:summary>DoorDash faced skeptics from the start. Grubhub, Delivery.com, and others were already addressing the restaurant delivery market when CEO Tony Xu and his co-founders started in 2013. But after talking to hundreds of local small businesses, they realized there was still an unmet need: None of the competitors solved the problem of delivery with an on-demand workforce, the way Uber had done with drivers. After struggling to raise initial funding, DoorDash found traction. But the next few years would prove tumultuous, with cash scarcity and investor skepticism putting the company perilously close to the brink. The founders’ contrarian decisions, clarity on their commitment to serve small local businesses, and ability to out-operate competitors has turned DoorDash into one the decade’s startup success stories. In this episode, Tony brings us inside their decision-making, and what DoorDash saw that others missed.
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Tony Xu, Keith Yandell, Miki Kuusi, Alfred Lin</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>DoorDash faced skeptics from the start. Grubhub, Delivery.com, and others were already addressing the restaurant delivery market when CEO Tony Xu and his co-founders started in 2013. But after talking to hundreds of local small businesses, they realized there was still an unmet need: None of the competitors solved the problem of delivery with an on-demand workforce, the way Uber had done with drivers. After struggling to raise initial funding, DoorDash found traction. But the next few years would prove tumultuous, with cash scarcity and investor skepticism putting the company perilously close to the brink. The founders’ contrarian decisions, clarity on their commitment to serve small local businesses, and ability to out-operate competitors has turned DoorDash into one the decade’s startup success stories. In this episode, Tony brings us inside their decision-making, and what DoorDash saw that others missed.</p><p><br></p><p>Host: Roelof Botha, Sequoia Capital</p><p><br></p><p>Featuring: Tony Xu, Keith Yandell, Miki Kuusi, Alfred Lin</p>]]>
+      </content:encoded>
+      <itunes:duration>3189</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[ebb953f6-656e-11ef-b9e4-bf8ba7f9bb6d]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI5367637360.mp3?updated=1729718170" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UiPath ft. Daniel Dines - From Bootstrapping in Bucharest to One of Software’s Biggest IPOs</title>
+      <description>The biggest enterprise software company to come out of Europe in the last decade didn’t come from London, Paris, Berlin or Stockholm—but Bucharest, Romania. 
+
+UiPath, founded in 2005 and originally called DeskOver, was a scrappy handful of engineers bootstrapping out of an apartment in Bucharest for about a decade, seeking in vain for product-market fit. When they stumbled upon an opportunity in the nascent enterprise software category of Robotic Process Automation, the company did a hard pivot, changed their name to UiPath, and rocketed from obscurity to the fastest-growing SaaS company ever at the time. After a successful IPO, today they are the global category leader in RPA. The unlikely rise of UiPath is an inspiration and a reminder that you can build something great from anywhere. 
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Daniel Dines, Andra Ciorici-Chelmus, Brandon Deer, Luciana Lixandru </description>
+      <pubDate>Thu, 10 Oct 2024 09:00:00 -0000</pubDate>
+      <itunes:title>UiPath ft. Daniel Dines - From Bootstrapping in Bucharest to One of Software’s Biggest IPOs</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/da7016ac-656e-11ef-92ac-1780fc49253b/image/c2a23360c96f6fd62a5bf2f0dae0aad9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>The biggest enterprise software company to come out of Europe in the last decade didn’t come from London, Paris, Berlin or Stockholm—but Bucharest, Romania. </itunes:subtitle>
+      <itunes:summary>The biggest enterprise software company to come out of Europe in the last decade didn’t come from London, Paris, Berlin or Stockholm—but Bucharest, Romania. 
+
+UiPath, founded in 2005 and originally called DeskOver, was a scrappy handful of engineers bootstrapping out of an apartment in Bucharest for about a decade, seeking in vain for product-market fit. When they stumbled upon an opportunity in the nascent enterprise software category of Robotic Process Automation, the company did a hard pivot, changed their name to UiPath, and rocketed from obscurity to the fastest-growing SaaS company ever at the time. After a successful IPO, today they are the global category leader in RPA. The unlikely rise of UiPath is an inspiration and a reminder that you can build something great from anywhere. 
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Daniel Dines, Andra Ciorici-Chelmus, Brandon Deer, Luciana Lixandru </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The biggest enterprise software company to come out of Europe in the last decade didn’t come from London, Paris, Berlin or Stockholm—but Bucharest, Romania. </p><p><br></p><p>UiPath, founded in 2005 and originally called DeskOver, was a scrappy handful of engineers bootstrapping out of an apartment in Bucharest for about a decade, seeking in vain for product-market fit. When they stumbled upon an opportunity in the nascent enterprise software category of Robotic Process Automation, the company did a hard pivot, changed their name to UiPath, and rocketed from obscurity to the fastest-growing SaaS company ever at the time. After a successful IPO, today they are the global category leader in RPA. The unlikely rise of UiPath is an inspiration and a reminder that you can build something great from anywhere. </p><p><br></p><p>Host: Roelof Botha, Sequoia Capital</p><p><br></p><p>Featuring: Daniel Dines, Andra Ciorici-Chelmus, Brandon Deer, Luciana Lixandru </p>]]>
+      </content:encoded>
+      <itunes:duration>2525</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[da7016ac-656e-11ef-92ac-1780fc49253b]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI7550476758.mp3?updated=1728575661" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Reddit ft. Steve Huffman - The Making (and Remaking) of the Front Page of the Internet</title>
+      <description>Reddit is one of the largest and most culturally influential sites on the internet—and its journey is one of the most unusual company stories in internet history. College roommates Steve Huffman and Alexis Ohanian founded Reddit in 2005 and scaled it on a shoestring until Condé Nast acquired it the following year. Struggling for direction under its parent company, the founders left, and Condé Nast ultimately spun it out as an independent company once again. With Reddit buckling under user discontent in 2015, founder Steve Huffman returned as CEO to save the company and navigate the way forward. Over the following nine years, Reddit stabilized and the company’s revenue grew more than 50-fold to a successful IPO 19 years in the making.
+Host: Roelof Botha, Sequoia Capital
+Featuring: Steve Huffman, Alexis Ohanian, Chris Slowe, Jen Wong, Alfred Lin</description>
+      <pubDate>Thu, 26 Sep 2024 09:00:00 -0000</pubDate>
+      <itunes:title>Reddit ft. Steve Huffman - The Making (and Remaking) of the Front Page of the Internet</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/9e265e22-656e-11ef-8f4b-4b318b939f48/image/4cd8a8fa163e9c654ee67580cec1e388.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Reddit is one of the largest and most culturally influential sites on the internet—and its journey is one of the most unusual company stories in internet history.</itunes:subtitle>
+      <itunes:summary>Reddit is one of the largest and most culturally influential sites on the internet—and its journey is one of the most unusual company stories in internet history. College roommates Steve Huffman and Alexis Ohanian founded Reddit in 2005 and scaled it on a shoestring until Condé Nast acquired it the following year. Struggling for direction under its parent company, the founders left, and Condé Nast ultimately spun it out as an independent company once again. With Reddit buckling under user discontent in 2015, founder Steve Huffman returned as CEO to save the company and navigate the way forward. Over the following nine years, Reddit stabilized and the company’s revenue grew more than 50-fold to a successful IPO 19 years in the making.
+Host: Roelof Botha, Sequoia Capital
+Featuring: Steve Huffman, Alexis Ohanian, Chris Slowe, Jen Wong, Alfred Lin</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Reddit is one of the largest and most culturally influential sites on the internet—and its journey is one of the most unusual company stories in internet history. College roommates Steve Huffman and Alexis Ohanian founded Reddit in 2005 and scaled it on a shoestring until Condé Nast acquired it the following year. Struggling for direction under its parent company, the founders left, and Condé Nast ultimately spun it out as an independent company once again. With Reddit buckling under user discontent in 2015, founder Steve Huffman returned as CEO to save the company and navigate the way forward. Over the following nine years, Reddit stabilized and the company’s revenue grew more than 50-fold to a successful IPO 19 years in the making.</p><p>Host: Roelof Botha, Sequoia Capital</p><p>Featuring: Steve Huffman, Alexis Ohanian, Chris Slowe, Jen Wong, Alfred Lin</p>]]>
+      </content:encoded>
+      <itunes:duration>2604</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[9e265e22-656e-11ef-8f4b-4b318b939f48]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI7147703022.mp3?updated=1727236250" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>MongoDB ft. Dev Ittycheria - How an Early Pivot Catalyzed an Open Source Movement</title>
+      <description>MongoDB, founded in 2007, originally aimed to create a platform-as-a-service system with a new database layer. Facing competition from Google, the founders pivoted to focus solely on their database product, MongoDB—a new kind of database built for the scale of the internet era. Founder Dwight Merriman built a product that developers loved, but scaling the company proved challenging until Dev Ittycheria took the reins as CEO in 2014. As cloud computing grew, MongoDB transitioned from on-premise software to Atlas, a fully-managed cloud service. Despite initial skepticism, Atlas now represents 70% of MongoDB's revenue. As Atlas scaled, MongoDB faced another controversial decision: whether to change its open source license model to maintain its commercial moat. These pivotal decisions transformed MongoDB from a niche database to nearly $2 billion in annual revenue.
+
+Host: Roelof Botha, Sequoia Capital
+Featuring: Dwight Merriman, Dev Ittycheria and Tom Killalea
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-mongodb/
+
+00:00 - Cold Open
+00:19 - Introduction
+05:30 - The NoSQL movement
+09:52 - Scrapping the platform for the database
+14:57 - Launching as MongoDB
+19:52 - Moving to the cloud with Atlas
+24:52 - Assigning a directly responsible individual
+30:15 - How Atlas changed MongoDB
+35:03 - Updating the licensing model to avoid “strip mining”
+39:50 - Evolving back into a platform
+41:26 - Executing on points of leverage</description>
+      <pubDate>Thu, 12 Sep 2024 09:00:00 -0000</pubDate>
+      <itunes:title>MongoDB ft Dev Ittycheria - How an Early Pivot Catalyzed an Open Source Movement</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/82ea1b80-656e-11ef-b3fa-d703edce0fda/image/ea5c9287f85dd10379da9a16aa573fcf.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>MongoDB, founded in 2007, originally aimed to create a platform-as-a-service system with a new database layer. </itunes:subtitle>
+      <itunes:summary>MongoDB, founded in 2007, originally aimed to create a platform-as-a-service system with a new database layer. Facing competition from Google, the founders pivoted to focus solely on their database product, MongoDB—a new kind of database built for the scale of the internet era. Founder Dwight Merriman built a product that developers loved, but scaling the company proved challenging until Dev Ittycheria took the reins as CEO in 2014. As cloud computing grew, MongoDB transitioned from on-premise software to Atlas, a fully-managed cloud service. Despite initial skepticism, Atlas now represents 70% of MongoDB's revenue. As Atlas scaled, MongoDB faced another controversial decision: whether to change its open source license model to maintain its commercial moat. These pivotal decisions transformed MongoDB from a niche database to nearly $2 billion in annual revenue.
+
+Host: Roelof Botha, Sequoia Capital
+Featuring: Dwight Merriman, Dev Ittycheria and Tom Killalea
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-mongodb/
+
+00:00 - Cold Open
+00:19 - Introduction
+05:30 - The NoSQL movement
+09:52 - Scrapping the platform for the database
+14:57 - Launching as MongoDB
+19:52 - Moving to the cloud with Atlas
+24:52 - Assigning a directly responsible individual
+30:15 - How Atlas changed MongoDB
+35:03 - Updating the licensing model to avoid “strip mining”
+39:50 - Evolving back into a platform
+41:26 - Executing on points of leverage</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>MongoDB, founded in 2007, originally aimed to create a platform-as-a-service system with a new database layer. Facing competition from Google, the founders pivoted to focus solely on their database product, MongoDB—a new kind of database built for the scale of the internet era. Founder Dwight Merriman built a product that developers loved, but scaling the company proved challenging until Dev Ittycheria took the reins as CEO in 2014. As cloud computing grew, MongoDB transitioned from on-premise software to Atlas, a fully-managed cloud service. Despite initial skepticism, Atlas now represents 70% of MongoDB's revenue. As Atlas scaled, MongoDB faced another controversial decision: whether to change its open source license model to maintain its commercial moat. These pivotal decisions transformed MongoDB from a niche database to nearly $2 billion in annual revenue.</p><p><br></p><p>Host: Roelof Botha, Sequoia Capital</p><p>Featuring: Dwight Merriman, Dev Ittycheria and Tom Killalea</p><p>Transcript: https://www.sequoiacap.com/podcast/crucible-moments-mongodb/</p><p><br></p><p>00:00 - Cold Open</p><p>00:19 - Introduction</p><p>05:30 - The NoSQL movement</p><p>09:52 - Scrapping the platform for the database</p><p>14:57 - Launching as MongoDB</p><p>19:52 - Moving to the cloud with Atlas</p><p>24:52 - Assigning a directly responsible individual</p><p>30:15 - How Atlas changed MongoDB</p><p>35:03 - Updating the licensing model to avoid “strip mining”</p><p>39:50 - Evolving back into a platform</p><p>41:26 - Executing on points of leverage</p>]]>
+      </content:encoded>
+      <itunes:duration>2664</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[82ea1b80-656e-11ef-b3fa-d703edce0fda]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI8972807340.mp3?updated=1726168401" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ServiceNow ft. Frank Slootman and Fred Luddy - From Starting Over at 50 to Dodging a $150B Mistake</title>
+      <description>In 2004, bankrupt after the company where he’d previously worked had imploded, Fred Luddy decided to start over as a first-time founder at age 50. His vision was to reinvent the nascent IT software field for the cloud era. What started as simple help desk replacement software would eventually become a ~$150B market cap company powering digital workflows across the enterprise—but success didn’t come easy. Initially bootstrapped and ultra-lean, the company’s infrastructure began buckling under its own success as customer demand spiked. When the legendary Frank Slootman joined as CEO to help scale the company, he describes being terrified to check his email every morning. Hear how Frank, Fred and the team stabilized the business, expanded their product offerings, and nearly made a $150B+ mistake by selling too early.  
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Fred Luddy, Frank Slootman, Doug Leone, Pat Grady, Carl Eschenbach
+
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-servicenow/
+
+00:00 - Cold open
+00:22 - Introduction
+02:09 - Fred Luddy’s journey to coding
+03:33 - Founding ServiceNow after financial ruin
+07:11 - Finding product-market fit
+15:16 - Finding a new CEO in Frank Slootman 
+22:19 - Overcoming scaling challenges 
+29:54 - Contemplating an acquisition offer
+32:07 - Blocking the sale
+38:17 - Lessons learned</description>
+      <pubDate>Thu, 29 Aug 2024 09:00:00 -0000</pubDate>
+      <itunes:title>ServiceNow ft. Frank Slootman and Fred Luddy - From Starting Over at 50 to Dodging a $150B Mistake</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/9111906a-64a8-11ef-a8e1-6b7444260da9/image/0a9bea44af3306f016575e26ab4abb50.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In 2004, bankrupt after the company where he’d previously worked had imploded, Fred Luddy decided to start over as a first-time founder at age 50.</itunes:subtitle>
+      <itunes:summary>In 2004, bankrupt after the company where he’d previously worked had imploded, Fred Luddy decided to start over as a first-time founder at age 50. His vision was to reinvent the nascent IT software field for the cloud era. What started as simple help desk replacement software would eventually become a ~$150B market cap company powering digital workflows across the enterprise—but success didn’t come easy. Initially bootstrapped and ultra-lean, the company’s infrastructure began buckling under its own success as customer demand spiked. When the legendary Frank Slootman joined as CEO to help scale the company, he describes being terrified to check his email every morning. Hear how Frank, Fred and the team stabilized the business, expanded their product offerings, and nearly made a $150B+ mistake by selling too early.  
+
+Host: Roelof Botha, Sequoia Capital
+
+Featuring: Fred Luddy, Frank Slootman, Doug Leone, Pat Grady, Carl Eschenbach
+
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-servicenow/
+
+00:00 - Cold open
+00:22 - Introduction
+02:09 - Fred Luddy’s journey to coding
+03:33 - Founding ServiceNow after financial ruin
+07:11 - Finding product-market fit
+15:16 - Finding a new CEO in Frank Slootman 
+22:19 - Overcoming scaling challenges 
+29:54 - Contemplating an acquisition offer
+32:07 - Blocking the sale
+38:17 - Lessons learned</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In 2004, bankrupt after the company where he’d previously worked had imploded, Fred Luddy decided to start over as a first-time founder at age 50. His vision was to reinvent the nascent IT software field for the cloud era. What started as simple help desk replacement software would eventually become a ~$150B market cap company powering digital workflows across the enterprise—but success didn’t come easy. Initially bootstrapped and ultra-lean, the company’s infrastructure began buckling under its own success as customer demand spiked. When the legendary Frank Slootman joined as CEO to help scale the company, he describes being terrified to check his email every morning. Hear how Frank, Fred and the team stabilized the business, expanded their product offerings, and nearly made a $150B+ mistake by selling too early.  </p><p><br></p><p>Host: Roelof Botha, Sequoia Capital</p><p><br></p><p>Featuring: Fred Luddy, Frank Slootman, Doug Leone, Pat Grady, Carl Eschenbach</p><p><br></p><p>Transcript: https://www.sequoiacap.com/podcast/crucible-moments-servicenow/</p><p><br></p><p>00:00 - Cold open</p><p>00:22 - Introduction</p><p>02:09 - Fred Luddy’s journey to coding</p><p>03:33 - Founding ServiceNow after financial ruin</p><p>07:11 - Finding product-market fit</p><p>15:16 - Finding a new CEO in Frank Slootman </p><p>22:19 - Overcoming scaling challenges </p><p>29:54 - Contemplating an acquisition offer</p><p>32:07 - Blocking the sale</p><p>38:17 - Lessons learned</p>]]>
+      </content:encoded>
+      <itunes:duration>2562</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[9111906a-64a8-11ef-a8e1-6b7444260da9]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI5883903992.mp3?updated=1724953525" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Crucible Moments Season 2: Coming August 29 </title>
+      <description>In Season 1 of Crucible Moments, we heard from founders like PayPal’s Max Levchin, Block’s Jack Dorsey, Nvidia’s Jensen Huang and more about the turning points and key decisions that shaped their journeys. Now Crucible Moments is back for another exciting season. We’ll get the unvarnished history and inside story from Tony Xu of DoorDash, Drew Houston of Dropbox, Frank Slootman of ServiceNow, Vlad Tenev of Robinhood and more. Hosted by Roelof Botha of Sequoia Capital.</description>
+      <pubDate>Thu, 22 Aug 2024 18:12:44 -0000</pubDate>
+      <itunes:title>Crucible Moments Season 2: Coming August 29 </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/95539484-60a7-11ef-b509-27184c0f00f3/image/e05348dd43c4a609fe5410df808cdd63.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>In Season 1 of Crucible Moments, we heard from founders like PayPal’s Max Levchin, Block’s Jack Dorsey, Nvidia’s Jensen Huang and more about the turning points and key decisions that shaped their journeys.</itunes:subtitle>
+      <itunes:summary>In Season 1 of Crucible Moments, we heard from founders like PayPal’s Max Levchin, Block’s Jack Dorsey, Nvidia’s Jensen Huang and more about the turning points and key decisions that shaped their journeys. Now Crucible Moments is back for another exciting season. We’ll get the unvarnished history and inside story from Tony Xu of DoorDash, Drew Houston of Dropbox, Frank Slootman of ServiceNow, Vlad Tenev of Robinhood and more. Hosted by Roelof Botha of Sequoia Capital.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In Season 1 of Crucible Moments, we heard from founders like PayPal’s Max Levchin, Block’s Jack Dorsey, Nvidia’s Jensen Huang and more about the turning points and key decisions that shaped their journeys. Now Crucible Moments is back for another exciting season. We’ll get the unvarnished history and inside story from Tony Xu of DoorDash, Drew Houston of Dropbox, Frank Slootman of ServiceNow, Vlad Tenev of Robinhood and more. Hosted by Roelof Botha of Sequoia Capital.</p>]]>
+      </content:encoded>
+      <itunes:duration>150</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[95539484-60a7-11ef-b509-27184c0f00f3]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI6231590182.mp3?updated=1724350681" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Introducing "Training Data," a new podcast from Sequoia about the future of A.I.</title>
+      <description>Crucible Moments will be back shortly with season 2. You’ll hear from the founders of YouTube, DoorDash, Reddit, and more. In the meantime, we’d love to introduce you to a new original podcast, Training Data, where Sequoia partners learn from builders, researchers and founders who are defining the technology wave of the future: AI. The following conversation with Harrison Chase of LangChain is all about the future of AI agents—why they’re suddenly seeing a step change in performance, and why they’re key to the promise of AI. 
+
+Follow Training Data wherever you listen to podcasts, and keep an eye out for Season 2 of Crucible Moments, coming soon.
+
+LangChain’s Harrison Chase on Building the Orchestration Layer for AI Agents
+Hosted by: Sonya Huang and Pat Grady, Sequoia Capital
+
+Mentioned: 
+
+
+ReAct: Synergizing Reasoning and Acting in Language Models, the first cognitive architecture for agents
+
+
+SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering, small-model open-source software engineering agent from researchers at Princeton
+
+
+Devin, autonomous software engineering from Cognition
+
+
+V0: Generative UI agent from Vercel
+
+
+GPT Researcher, a research agent 
+
+
+Language Model Cascades: 2022 paper by Google Brain and now OpenAI researcher David Dohan that was influential for Harrison in developing LangChain
+
+
+Transcript: https://www.sequoiacap.com/podcast/training-data-harrison-chase/</description>
+      <pubDate>Thu, 11 Jul 2024 09:00:00 -0000</pubDate>
+      <itunes:title>Introducing "Training Data," a new podcast from Sequoia about the future of A.I.</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/4843807c-3efc-11ef-839c-377ee02f7710/image/56b09a8d4bd4259bf96d8e1cb1e2c701.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Crucible Moments will be back shortly with season 2. You’ll hear from the founders of YouTube, DoorDash, Reddit, and more.</itunes:subtitle>
+      <itunes:summary>Crucible Moments will be back shortly with season 2. You’ll hear from the founders of YouTube, DoorDash, Reddit, and more. In the meantime, we’d love to introduce you to a new original podcast, Training Data, where Sequoia partners learn from builders, researchers and founders who are defining the technology wave of the future: AI. The following conversation with Harrison Chase of LangChain is all about the future of AI agents—why they’re suddenly seeing a step change in performance, and why they’re key to the promise of AI. 
+
+Follow Training Data wherever you listen to podcasts, and keep an eye out for Season 2 of Crucible Moments, coming soon.
+
+LangChain’s Harrison Chase on Building the Orchestration Layer for AI Agents
+Hosted by: Sonya Huang and Pat Grady, Sequoia Capital
+
+Mentioned: 
+
+
+ReAct: Synergizing Reasoning and Acting in Language Models, the first cognitive architecture for agents
+
+
+SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering, small-model open-source software engineering agent from researchers at Princeton
+
+
+Devin, autonomous software engineering from Cognition
+
+
+V0: Generative UI agent from Vercel
+
+
+GPT Researcher, a research agent 
+
+
+Language Model Cascades: 2022 paper by Google Brain and now OpenAI researcher David Dohan that was influential for Harrison in developing LangChain
+
+
+Transcript: https://www.sequoiacap.com/podcast/training-data-harrison-chase/</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Crucible Moments will be back shortly with season 2. You’ll hear from the founders of YouTube, DoorDash, Reddit, and more. In the meantime, we’d love to introduce you to a new original podcast, <a href="https://www.sequoiacap.com/trainingdata/">Training Data</a>, where Sequoia partners learn from builders, researchers and founders who are defining the technology wave of the future: AI. The following conversation with Harrison Chase of LangChain is all about the future of AI agents—why they’re suddenly seeing a step change in performance, and why they’re key to the promise of AI. </p><p><br></p><p>Follow <a href="https://www.sequoiacap.com/trainingdata/">Training Data</a> wherever you listen to podcasts, and keep an eye out for Season 2 of Crucible Moments, coming soon.</p><p><br></p><p>LangChain’s Harrison Chase on Building the Orchestration Layer for AI Agents</p><p>Hosted by: Sonya Huang and Pat Grady, Sequoia Capital</p><p><br></p><p>Mentioned: </p><ul>
+<li>
+<a href="https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/">ReAct: Synergizing Reasoning and Acting in Language Models</a>, the first cognitive architecture for agents</li>
+<li>
+<a href="https://arxiv.org/abs/2405.15793">SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering</a>, small-model open-source software engineering agent from researchers at Princeton</li>
+<li>
+<a href="https://www.cognition.ai/blog/introducing-devin">Devin</a>, autonomous software engineering from Cognition</li>
+<li>
+<a href="https://vercel.com/blog/announcing-v0-generative-ui">V0</a>: Generative UI agent from Vercel</li>
+<li>
+<a href="https://github.com/assafelovic/gpt-researcher">GPT Researcher</a>, a research agent </li>
+<li>
+<a href="https://arxiv.org/abs/2207.10342">Language Model Cascades</a>: 2022 paper by Google Brain and now OpenAI researcher<a href="https://www.ddohan.com/"> David Dohan</a> that was influential for Harrison in developing LangChain</li>
+</ul><p><br></p><p>Transcript:<a href="https://www.sequoiacap.com/podcast/training-data-harrison-chase/"> https://www.sequoiacap.com/podcast/training-data-harrison-chase/</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3079</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[4843807c-3efc-11ef-839c-377ee02f7710]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI5416244146.mp3?updated=1720645758" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Nvidia ft. Jensen Huang - An overnight success story 30 years in the making</title>
+      <description>CEO Jensen Huang tells the legendary story of Nvidia, from the company’s early days pioneering 3D graphics cards for a niche PC gaming market to powering the AI revolution as the sixth most valuable company in the world. Nvidia faced multiple near-death experiences along the way, and their so-called “diving catches,” as Jensen calls them, were some of the most dramatic business stories of the modern era.  
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Jensen Huang, Chris Malachowsky, Andrew Ng, Mark A. Stevens, Alfred Lin, 
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-nvidia/</description>
+      <pubDate>Thu, 30 Nov 2023 10:00:00 -0000</pubDate>
+      <itunes:title>Nvidia ft. Jensen Huang - An overnight success story 30 years in the making</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c811560c-46b5-11ee-b742-bfe1d8e57294/image/5a30e8.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>CEO Jensen Huang tells the legendary story of Nvidia, from the company’s early days pioneering 3D graphics cards for a niche PC gaming market</itunes:subtitle>
+      <itunes:summary>CEO Jensen Huang tells the legendary story of Nvidia, from the company’s early days pioneering 3D graphics cards for a niche PC gaming market to powering the AI revolution as the sixth most valuable company in the world. Nvidia faced multiple near-death experiences along the way, and their so-called “diving catches,” as Jensen calls them, were some of the most dramatic business stories of the modern era.  
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Jensen Huang, Chris Malachowsky, Andrew Ng, Mark A. Stevens, Alfred Lin, 
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-nvidia/</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>CEO Jensen Huang tells the legendary story of Nvidia, from the company’s early days pioneering 3D graphics cards for a niche PC gaming market to powering the AI revolution as the sixth most valuable company in the world. Nvidia faced multiple near-death experiences along the way, and their so-called “diving catches,” as Jensen calls them, were some of the most dramatic business stories of the modern era.  </p><p><br></p><p>Host: Roelof Botha, Sequoia Capital </p><p>Featuring: Jensen Huang, Chris Malachowsky, Andrew Ng, Mark A. Stevens, Alfred Lin, </p><p>Transcript: <a href="https://www.sequoiacap.com/podcast/crucible-moments-nvidia/">https://www.sequoiacap.com/podcast/crucible-moments-nvidia/</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2363</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c811560c-46b5-11ee-b742-bfe1d8e57294]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP9646262377.mp3?updated=1724786502" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>23andMe ft. Anne Wojcicki - How a DNA startup took on the FDA and redefined health tech</title>
+      <description>Millions of customers have explored their genome with 23andMe. But when the company started in 2006, the idea of consumer DNA testing was heresy to the medical establishment. The FDA once even ordered 23andMe to stop selling its health testing product. The company persevered to make allies out of adversaries, and became the only FDA-approved product on the market. Learn how 23andMe defined the DNA testing category, and used its success to enter the massive new field of drug discovery.   
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Anne Wojcicki, Richard Scheller 
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-23andMe/</description>
+      <pubDate>Thu, 16 Nov 2023 10:00:00 -0000</pubDate>
+      <itunes:title>23andMe ft. Anne Wojcicki - How a DNA startup took on the FDA and redefined health tech</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c7ea85fe-46b5-11ee-b742-832748bd6c15/image/d1ca6a.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Millions of customers have explored their genome with 23andMe. </itunes:subtitle>
+      <itunes:summary>Millions of customers have explored their genome with 23andMe. But when the company started in 2006, the idea of consumer DNA testing was heresy to the medical establishment. The FDA once even ordered 23andMe to stop selling its health testing product. The company persevered to make allies out of adversaries, and became the only FDA-approved product on the market. Learn how 23andMe defined the DNA testing category, and used its success to enter the massive new field of drug discovery.   
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Anne Wojcicki, Richard Scheller 
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-23andMe/</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Millions of customers have explored their genome with 23andMe. But when the company started in 2006, the idea of consumer DNA testing was heresy to the medical establishment. The FDA once even ordered 23andMe to stop selling its health testing product. The company persevered to make allies out of adversaries, and became the only FDA-approved product on the market. Learn how 23andMe defined the DNA testing category, and used its success to enter the massive new field of drug discovery.   </p><p><br></p><p>Host: Roelof Botha, Sequoia Capital </p><p>Featuring: Anne Wojcicki, Richard Scheller </p><p>Transcript: <a href="https://www.sequoiacap.com/podcast/crucible-moments-23andMe/">https://www.sequoiacap.com/podcast/crucible-moments-23andMe/</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2325</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c7ea85fe-46b5-11ee-b742-832748bd6c15]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP5447919095.mp3?updated=1724786486" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jawbone ft. Hosain Rahman - The rise and fall of the first wearable technology company</title>
+      <description>Co-founders Hosain Rahman and Alex Asseily, and Chief Creative Officer Yves Behar, recount the meteoric rise and fall of Jawbone. One of the most innovative companies of the mid 2000s, Jawbone pioneered wearable technology with UP, the first wrist-worn fitness tracker, and revolutionized sound with Jambox, the first smart wireless speaker. In one of the most dramatic turns in Silicon Valley history, the company went from a nearly $4 billion valuation to liquidation. This cautionary tale provides valuable lessons that are more relevant now than ever.
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Hosain Rahman, Alex Asseily, Yves Behar
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-jawbone/</description>
+      <pubDate>Thu, 02 Nov 2023 09:00:00 -0000</pubDate>
+      <itunes:title>Jawbone ft. Hosain Rahman - The rise and fall of the first wearable technology company</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c7c44af6-46b5-11ee-b742-1b2fb3bac837/image/d38a66.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Co-founders Hosain Rahman and Alex Asseily, and Creative Director Yves Behar, recount the meteoric rise and fall of Jawbone.</itunes:subtitle>
+      <itunes:summary>Co-founders Hosain Rahman and Alex Asseily, and Chief Creative Officer Yves Behar, recount the meteoric rise and fall of Jawbone. One of the most innovative companies of the mid 2000s, Jawbone pioneered wearable technology with UP, the first wrist-worn fitness tracker, and revolutionized sound with Jambox, the first smart wireless speaker. In one of the most dramatic turns in Silicon Valley history, the company went from a nearly $4 billion valuation to liquidation. This cautionary tale provides valuable lessons that are more relevant now than ever.
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Hosain Rahman, Alex Asseily, Yves Behar
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-jawbone/</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Co-founders Hosain Rahman and Alex Asseily, and Chief Creative Officer Yves Behar, recount the meteoric rise and fall of Jawbone. One of the most innovative companies of the mid 2000s, Jawbone pioneered wearable technology with UP, the first wrist-worn fitness tracker, and revolutionized sound with Jambox, the first smart wireless speaker. In one of the most dramatic turns in Silicon Valley history, the company went from a nearly $4 billion valuation to liquidation. This cautionary tale provides valuable lessons that are more relevant now than ever.</p><p><br></p><p>Host: Roelof Botha, Sequoia Capital </p><p>Featuring: Hosain Rahman, Alex Asseily, Yves Behar</p><p>Transcript: <a href="https://www.sequoiacap.com/podcast/crucible-moments-jawbone/">https://www.sequoiacap.com/podcast/crucible-moments-jawbone/</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2216</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c7c44af6-46b5-11ee-b742-1b2fb3bac837]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP4918135028.mp3?updated=1698865069" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>HubSpot ft. Brian Halligan &amp; Dharmesh Shah - How an underdog helped invent modern marketing, and then took on Goliath</title>
+      <description>Founders Brian Halligan and Dharmesh Shah reveal how they took a blog started as a hobby and turned the ideas behind it into a $20+ billion success. In 2006, HubSpot upended traditional approaches to marketing by taking advantage of the the nascent internet in a new way: By capitalizing on seach engines and social media, they offered a way to pull customers in rather than pushing ads and mailers out. They coined the new category “inbound marketing.” They continued to defy conventional wisdom, deciding to serve small businesses over big enterprises, and taking on a Goliath in a new category. As the founders explain, zigging where others zag is the key to their success.  
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Brian Halligan, Dharmesh Shah, Pat Grady, Dannie Herzberg
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-hubspot/</description>
+      <pubDate>Thu, 19 Oct 2023 09:00:00 -0000</pubDate>
+      <itunes:title>HubSpot ft. Brian Halligan &amp; Dharmesh Shah - How an underdog helped invent modern marketing, and then took on Goliath</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c79da7c0-46b5-11ee-b742-5bba1b9af385/image/642670.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Founders Brian Halligan and Dharmesh Shah reveal how they took a blog started as a hobby and turned the ideas behind it into a $20+ billion success. In 2006, HubSpot upended traditional approaches to marketing by taking advantage of the the nascent internet in a new way: By capitalizing on seach engines and social media, they offered a way to pull customers in rather than pushing ads and mailers out. They coined the new category “inbound marketing.” They continued to defy conventional wisdom, deciding to serve small businesses over big enterprises, and taking on a Goliath in a new category. As the founders explain, zigging where others zag is the key to their success.  
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Brian Halligan, Dharmesh Shah, Pat Grady, Dannie Herzberg
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-hubspot/</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Founders Brian Halligan and Dharmesh Shah reveal how they took a blog started as a hobby and turned the ideas behind it into a $20+ billion success. In 2006, HubSpot upended traditional approaches to marketing by taking advantage of the the nascent internet in a new way: By capitalizing on seach engines and social media, they offered a way to pull customers in rather than pushing ads and mailers out. They coined the new category “inbound marketing.” They continued to defy conventional wisdom, deciding to serve small businesses over big enterprises, and taking on a Goliath in a new category. As the founders explain, zigging where others zag is the key to their success.  </p><p><br></p><p>Host: Roelof Botha, Sequoia Capital </p><p>Featuring: Brian Halligan, Dharmesh Shah, Pat Grady, Dannie Herzberg</p><p>Transcript: <a href="https://www.sequoiacap.com/podcast/crucible-moments-hubspot/">https://www.sequoiacap.com/podcast/crucible-moments-hubspot/</a></p>]]>
+      </content:encoded>
+      <itunes:duration>1988</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c79da7c0-46b5-11ee-b742-5bba1b9af385]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP8890286326.mp3?updated=1724786458" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Eventbrite ft. Julia Hartz - A thriving events company took 14 years to build and nearly disappeared in 14 days </title>
+      <description>What happens to an events company when every event is canceled? “Even if you have spent 14 years building something, it could truly be gone in 14 days.” After working tirelessly to revolutionize how live events are organized, this was the reality Eventbrite CEO Julia Hartz faced in March of 2020 as pandemic lockdowns went into effect, extinguishing the lifeblood of her business. She brought the same strategic thinking and grit that had led the company through its previous inflection points to rally her team and reinvent Eventbrite in the middle of a global shutdown. 
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Julia Hartz, Kevin Hartz
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-eventbrite/</description>
+      <pubDate>Thu, 05 Oct 2023 09:00:00 -0000</pubDate>
+      <itunes:title>Eventbrite ft. Julia Hartz - A thriving events company took 14 years to build and nearly disappeared in 14 days </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c7773676-46b5-11ee-b742-5bde3e14cb1f/image/158171.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>What happens to an events company when every event is canceled? </itunes:subtitle>
+      <itunes:summary>What happens to an events company when every event is canceled? “Even if you have spent 14 years building something, it could truly be gone in 14 days.” After working tirelessly to revolutionize how live events are organized, this was the reality Eventbrite CEO Julia Hartz faced in March of 2020 as pandemic lockdowns went into effect, extinguishing the lifeblood of her business. She brought the same strategic thinking and grit that had led the company through its previous inflection points to rally her team and reinvent Eventbrite in the middle of a global shutdown. 
+
+Host: Roelof Botha, Sequoia Capital 
+Featuring: Julia Hartz, Kevin Hartz
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-eventbrite/</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>What happens to an events company when every event is canceled? “Even if you have spent 14 years building something, it could truly be gone in 14 days.” After working tirelessly to revolutionize how live events are organized, this was the reality Eventbrite CEO Julia Hartz faced in March of 2020 as pandemic lockdowns went into effect, extinguishing the lifeblood of her business. She brought the same strategic thinking and grit that had led the company through its previous inflection points to rally her team and reinvent Eventbrite in the middle of a global shutdown. </p><p><br></p><p>Host: Roelof Botha, Sequoia Capital </p><p>Featuring: Julia Hartz, Kevin Hartz</p><p>Transcript: <a href="https://www.sequoiacap.com/podcast/crucible-moments-block/">https://www.sequoiacap.com/podcast/crucible-moments-eventbrite/</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2719</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c7773676-46b5-11ee-b742-5bde3e14cb1f]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP6225739195.mp3?updated=1696448417" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Block ft. Jack Dorsey - A controversial hack week project becomes the #1 financial services app</title>
+      <description>CEO Jack Dorsey reflects on Block’s origins and defining moments with host Roelof Botha. 
+Dorsey founded Square in 2009 with a clear vision: economic empowerment for all. Their dongle that turns iPhones into credit card readers was just the start. With Square, small business owners were able to reach more customers and better manage their companies. But when Cash App, which emerged from an internal hackathon, started to gain traction, Square had a decision to make: stick to their core focus, or risk building an unproven product for consumers? Dorsey explains how Block succeeded by weaving new products around a core vision, and how a controversial shift in strategy led them to fully deliver on their founding mission.  
+
+Host: Roelof Botha, Managing Partner of Sequoia Capital 
+Featuring: Jack Dorsey, Alyssa Henry, Brian Grassadonia</description>
+      <pubDate>Thu, 21 Sep 2023 13:16:00 -0000</pubDate>
+      <itunes:title>Block ft. Jack Dorsey - A controversial hack week project becomes the #1 financial services app</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c74fcbfe-46b5-11ee-b742-27b627e1ef53/image/4a563a.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>CEO Jack Dorsey reflects on Block’s origins and defining moments with host Roelof Botha. 
+Dorsey founded Square in 2009 with a clear vision: economic empowerment for all. Their dongle that turns iPhones into credit card readers was just the start. With Square, small business owners were able to reach more customers and better manage their companies. But when Cash App, which emerged from an internal hackathon, started to gain traction, Square had a decision to make: stick to their core focus, or risk building an unproven product for consumers? Dorsey explains how Block succeeded by weaving new products around a core vision, and how a controversial shift in strategy led them to fully deliver on their founding mission.  
+
+Host: Roelof Botha, Managing Partner of Sequoia Capital 
+Featuring: Jack Dorsey, Alyssa Henry, Brian Grassadonia</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>CEO Jack Dorsey reflects on Block’s origins and defining moments with host Roelof Botha. </p><p>Dorsey founded Square in 2009 with a clear vision: economic empowerment for all. Their dongle that turns iPhones into credit card readers was just the start. With Square, small business owners were able to reach more customers and better manage their companies. But when Cash App, which emerged from an internal hackathon, started to gain traction, Square had a decision to make: stick to their core focus, or risk building an unproven product for consumers? Dorsey explains how Block succeeded by weaving new products around a core vision, and how a controversial shift in strategy led them to fully deliver on their founding mission.  </p><p><br></p><p>Host: Roelof Botha, Managing Partner of Sequoia Capital </p><p>Featuring: Jack Dorsey, Alyssa Henry, Brian Grassadonia</p>]]>
+      </content:encoded>
+      <itunes:duration>2272</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c74fcbfe-46b5-11ee-b742-27b627e1ef53]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP9525804490.mp3?updated=1695306255" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Airbnb ft. Brian Chesky -  Battling a copycat clone and rebuilding user trust to revolutionize travel  </title>
+      <description>As Airbnb took off in the early 2010s, Brian Chesky remembers worrying, “this is just one accident away from being a dead idea.” That accident finally came in 2011 when a host’s apartment was ransacked. It set off a period of soul searching that became a turning point—the company’s efforts to rebuild trust led it to becoming the global behemoth it is today. In this episode, Brian reveals how this crisis shaped his thinking, and how the lessons would apply to the company’s next defining moments, including a pandemic that shut down global travel.
+
+Host: Roelof Botha, Managing Partner of Sequoia Capital 
+Featuring: Brian Chesky, Ellie Mertz, Alfred Lin
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-airbnb/</description>
+      <pubDate>Thu, 07 Sep 2023 09:30:00 -0000</pubDate>
+      <itunes:title>Airbnb ft. Brian Chesky -  Battling a copycat clone and rebuilding user trust to revolutionize travel  </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c729b89c-46b5-11ee-b742-0f0fcc2dfb7d/image/48f4bf.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>As Airbnb took off in the early 2010s, Brian Chesky remembers worrying, “this is just one accident away from being a dead idea.” That accident finally came in 2011 when a host’s apartment was ransacked. It set off a period of soul searching that became a turning point—the company’s efforts to rebuild trust led it to becoming the global behemoth it is today. In this episode, Brian reveals how this crisis shaped his thinking, and how the lessons would apply to the company’s next defining moments, including a pandemic that shut down global travel.
+
+Host: Roelof Botha, Managing Partner of Sequoia Capital 
+Featuring: Brian Chesky, Ellie Mertz, Alfred Lin
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-airbnb/</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>As Airbnb took off in the early 2010s, Brian Chesky remembers worrying, “this is just one accident away from being a dead idea.” That accident finally came in 2011 when a host’s apartment was ransacked. It set off a period of soul searching that became a turning point—the company’s efforts to rebuild trust led it to becoming the global behemoth it is today. In this episode, Brian reveals how this crisis shaped his thinking, and how the lessons would apply to the company’s next defining moments, including a pandemic that shut down global travel.</p><p><br></p><p>Host: Roelof Botha, Managing Partner of Sequoia Capital </p><p>Featuring: Brian Chesky, Ellie Mertz, Alfred Lin</p><p>Transcript: https://www.sequoiacap.com/podcast/crucible-moments-airbnb/</p>]]>
+      </content:encoded>
+      <itunes:duration>2389</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c729b89c-46b5-11ee-b742-0f0fcc2dfb7d]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP3911495668.mp3?updated=1694100518" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PayPal ft. Max Levchin - A merger of enemies that reshaped Silicon Valley</title>
+      <description>PayPal was the defining tech company of its generation, with alumni going on to start YouTube, Tesla, Yelp, LinkedIn, among many others. But the company nearly didn’t make it. The PayPal of today only exists because of how its team navigated early, unprecedented inflection points. Find out why Max Levchin now says he does “not recommend” a merger of equals to anyone, how the team pioneered CAPTCHA to fight $10M in monthly fraud that nearly sank the fledgling business, and how they maneuvered through ongoing battles with eBay on their way to an IPO.
+
+Host: Roelof Botha, Managing Partner of Sequoia Capital 
+Featuring: Max Levchin, Michael Moritz, Jimmy Soni
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-paypal/</description>
+      <pubDate>Thu, 07 Sep 2023 09:00:00 -0000</pubDate>
+      <itunes:title>PayPal ft. Max Levchin - A merger of enemies that reshaped Silicon Valley</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ccba5082-46b5-11ee-b483-1feeac249f83/image/d9429f.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>PayPal was the defining tech company of its generation, with alumni going on to start YouTube, Tesla, Yelp, LinkedIn, among many others. But the company nearly didn’t make it. The PayPal of today only exists because of how its team navigated early, unprecedented inflection points. Find out why Max Levchin now says he does “not recommend” a merger of equals to anyone, how the team pioneered CAPTCHA to fight $10M in monthly fraud that nearly sank the fledgling business, and how they maneuvered through ongoing battles with eBay on their way to an IPO.
+
+Host: Roelof Botha, Managing Partner of Sequoia Capital 
+Featuring: Max Levchin, Michael Moritz, Jimmy Soni
+Transcript: https://www.sequoiacap.com/podcast/crucible-moments-paypal/</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>PayPal was the defining tech company of its generation, with alumni going on to start YouTube, Tesla, Yelp, LinkedIn, among many others. But the company nearly didn’t make it. The PayPal of today only exists because of how its team navigated early, unprecedented inflection points. Find out why Max Levchin now says he does “not recommend” a merger of equals to anyone, how the team pioneered CAPTCHA to fight $10M in monthly fraud that nearly sank the fledgling business, and how they maneuvered through ongoing battles with eBay on their way to an IPO.</p><p><br></p><p>Host: Roelof Botha, Managing Partner of Sequoia Capital </p><p>Featuring: Max Levchin, Michael Moritz, Jimmy Soni</p><p>Transcript: https://www.sequoiacap.com/podcast/crucible-moments-paypal/</p>]]>
+      </content:encoded>
+      <itunes:duration>2839</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[ccba5082-46b5-11ee-b483-1feeac249f83]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP5528731366.mp3?updated=1694100554" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Introducing "Crucible Moments"</title>
+      <description>A podcast about the inflection points that shaped some of the most important companies of our time. Crucible moments are pivotal decisions that determine your trajectory. Hear from founders like Jack Dorsey of Block, Jensen Huang of Nvidia, and Anne Wojcicki of 23andMe about how they navigated the challenges and opportunities that defined their stories. Hosted by Roelof Botha, Managing Partner of Sequoia Capital, who has spent over 20 years building companies such as Youtube, Square, and Instagram.
+
+The content of this podcast does not constitute investment advice, an offer to provide investment advisory services, or an offer to sell or solicitation of an offer to buy an interest in any investment fund.</description>
+      <pubDate>Wed, 30 Aug 2023 09:00:00 -0000</pubDate>
+      <itunes:title>Introducing "Crucible Moments"</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:subtitle>A podcast about the inflection points that shaped some of the most important companies of our time. </itunes:subtitle>
+      <itunes:summary>A podcast about the inflection points that shaped some of the most important companies of our time. Crucible moments are pivotal decisions that determine your trajectory. Hear from founders like Jack Dorsey of Block, Jensen Huang of Nvidia, and Anne Wojcicki of 23andMe about how they navigated the challenges and opportunities that defined their stories. Hosted by Roelof Botha, Managing Partner of Sequoia Capital, who has spent over 20 years building companies such as Youtube, Square, and Instagram.
+
+The content of this podcast does not constitute investment advice, an offer to provide investment advisory services, or an offer to sell or solicitation of an offer to buy an interest in any investment fund.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A podcast about the inflection points that shaped some of the most important companies of our time. Crucible moments are pivotal decisions that determine your trajectory. Hear from founders like Jack Dorsey of Block, Jensen Huang of Nvidia, and Anne Wojcicki of 23andMe about how they navigated the challenges and opportunities that defined their stories. Hosted by Roelof Botha, Managing Partner of Sequoia Capital, who has spent over 20 years building companies such as Youtube, Square, and Instagram.</p><p><br></p><p><em>The content of this podcast does not constitute investment advice, an offer to provide investment advisory services, or an offer to sell or solicitation of an offer to buy an interest in any investment fund.</em></p>]]>
+      </content:encoded>
+      <itunes:duration>249</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[c701b748-46b5-11ee-b742-97249162db59]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/VMP4770674130.mp3?updated=1694096851" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

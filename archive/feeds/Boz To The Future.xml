@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1801980.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Boz To The Future</title>
+
+  <lastBuildDate>Wed, 09 Apr 2025 04:05:12 -0700</lastBuildDate>
+  <link>https://www.buzzsprout.com/1801980</link>
+  <language>en-us</language>
+  <copyright>© 2025 Boz To The Future</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>9eb3b57f-12da-536e-bf0e-52debdd179f2</podcast:guid>
+  <itunes:author>Andrew Bosworth</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[<p>Produced by Reality Labs at Meta, Boz To The Future is a podcast hosted by Meta CTO Andrew "Boz" Bosworth where he talks to technologists and leaders building the future of technology, entertainment, and beyond. Episodes will talk about the future Meta is building, Reality Labs, AR/VR/XR, and the metaverse, Meta's core businesses, trends across technology, media, and entertainment, as well as offer perspectives on management, leadership, and building communities from the industry’s best and brightest minds.</p>]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:owner>
+    <itunes:name>Andrew Bosworth</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/isfpuj5urpppzr66j446nvwfhmhz?.jpg</url>
+     <title>Boz To The Future</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/isfpuj5urpppzr66j446nvwfhmhz?.jpg" />
+  <itunes:category text="Technology" />
+  <itunes:category text="Business">
+    <itunes:category text="Management" />
+  </itunes:category>
+  <itunes:category text="News">
+    <itunes:category text="Tech News" />
+  </itunes:category>
+  <item>
+    <itunes:title>The Future According to James Cameron</itunes:title>
+    <title>The Future According to James Cameron</title>
+    <itunes:summary><![CDATA[In the latest episode of Boz To The Future, Meta CTO, Head of Reality Labs, and host Andrew “Boz” Bosworth talks to the legendary film-maker, explorer, and inventor James Cameron.  James Cameron is best known for writing, directing, and producing critically acclaimed blockbusters like “The Abyss,” “Titanic,” “True Lies,” “Aliens,” and “The Terminator” and “Avatar” franchises. Beyond producing some of the most iconic science fiction films of all time, he is also an inventor and explorer, ...]]></itunes:summary>
+    <description><![CDATA[<p>In the latest episode of Boz To The Future, Meta CTO, Head of Reality Labs, and host Andrew “Boz” Bosworth talks to the legendary film-maker, explorer, and inventor James Cameron. </p><p>James Cameron is best known for writing, directing, and producing critically acclaimed blockbusters like “The Abyss,” “Titanic,” “True Lies,” “Aliens,” and “The Terminator” and “Avatar” franchises. Beyond producing some of the most iconic science fiction films of all time, he is also an inventor and explorer, having built a marine robotics platform that enabled him to go into the depths of the Mariana Trench, and pioneered some of the groundbreaking visual effects that have advanced filmmaking techniques. </p><p>Together, Boz and James cover the future of 3D entertainment, the promise of generative AI, and how these technologies could enhance filmmaking and creativity. </p><p>Bonus: You can watch this episode presented in stereoscopic-3D 180 in Meta Quest TV if you have a Quest headset. </p><p>Leave Boz feedback on on <a href='https://www.instagram.com/boztank'>Instagram</a>, <a href='https://www.x.com/boztank'>X</a>, and <a href='https://www.threads.net/@boztank'>Threads</a> @boztank </p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In the latest episode of Boz To The Future, Meta CTO, Head of Reality Labs, and host Andrew “Boz” Bosworth talks to the legendary film-maker, explorer, and inventor James Cameron. </p><p>James Cameron is best known for writing, directing, and producing critically acclaimed blockbusters like “The Abyss,” “Titanic,” “True Lies,” “Aliens,” and “The Terminator” and “Avatar” franchises. Beyond producing some of the most iconic science fiction films of all time, he is also an inventor and explorer, having built a marine robotics platform that enabled him to go into the depths of the Mariana Trench, and pioneered some of the groundbreaking visual effects that have advanced filmmaking techniques. </p><p>Together, Boz and James cover the future of 3D entertainment, the promise of generative AI, and how these technologies could enhance filmmaking and creativity. </p><p>Bonus: You can watch this episode presented in stereoscopic-3D 180 in Meta Quest TV if you have a Quest headset. </p><p>Leave Boz feedback on on <a href='https://www.instagram.com/boztank'>Instagram</a>, <a href='https://www.x.com/boztank'>X</a>, and <a href='https://www.threads.net/@boztank'>Threads</a> @boztank </p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ajc24l4q3x1trpgnhcc8vw6vcue4?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/16942831-the-future-according-to-james-cameron.mp3" length="43598434" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16942831</guid>
+    <pubDate>Wed, 09 Apr 2025 04:00:00 -0700</pubDate>
+    <itunes:duration>3629</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Wearables and AR With Alex Himel</itunes:title>
+    <title>The Future of Wearables and AR With Alex Himel</title>
+    <itunes:summary><![CDATA[Welcome back for another episode with guest Alex Himel, Meta’s VP of Wearables.  Alex’s team works on some of the industry’s hardest technical problems, all in the service of helping to build the next computing platform. Like Boz, he’s a tenured leader at Meta, having filled numerous leadership roles across the business in his 15+ years at the company.  Boz and Alex cover a range of topics, including wearables, augmented reality, and how AI is accelerating and improving the kinds of...]]></itunes:summary>
+    <description><![CDATA[<p>Welcome back for another episode with guest Alex Himel, Meta’s VP of Wearables. </p><p>Alex’s team works on some of the industry’s hardest technical problems, all in the service of helping to build the next computing platform. Like Boz, he’s a tenured leader at Meta, having filled numerous leadership roles across the business in his 15+ years at the company. </p><p>Boz and Alex cover a range of topics, including wearables, augmented reality, and how AI is accelerating and improving the kinds of experiences embedded in <a href='https://www.meta.com/smart-glasses/'>Ray-Ban Meta glasses</a> and future products. They go deep on <a href='https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality'>Orion</a> and the positive reception it’s received since Mark Zuckerberg announced it at <a href='https://www.meta.com/blog/quest/connect-2024-keynote-recap-quest-3s-llama-3-2-ai-wearables-mixed-reality'>Connect</a>. </p><p>Stay for the deep dive on Orion, and don&apos;t miss the the sandwich talk. Alex and Boz get into what makes a great sandwich, where tomatoes really go, and which bread is superior. </p><p>Leave Boz feedback on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='https://www.threads.net/@boztank/'>Threads</a> @boztank.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>Welcome back for another episode with guest Alex Himel, Meta’s VP of Wearables. </p><p>Alex’s team works on some of the industry’s hardest technical problems, all in the service of helping to build the next computing platform. Like Boz, he’s a tenured leader at Meta, having filled numerous leadership roles across the business in his 15+ years at the company. </p><p>Boz and Alex cover a range of topics, including wearables, augmented reality, and how AI is accelerating and improving the kinds of experiences embedded in <a href='https://www.meta.com/smart-glasses/'>Ray-Ban Meta glasses</a> and future products. They go deep on <a href='https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality'>Orion</a> and the positive reception it’s received since Mark Zuckerberg announced it at <a href='https://www.meta.com/blog/quest/connect-2024-keynote-recap-quest-3s-llama-3-2-ai-wearables-mixed-reality'>Connect</a>. </p><p>Stay for the deep dive on Orion, and don&apos;t miss the the sandwich talk. Alex and Boz get into what makes a great sandwich, where tomatoes really go, and which bread is superior. </p><p>Leave Boz feedback on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='https://www.threads.net/@boztank/'>Threads</a> @boztank.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/dv0wopu6c6v1s0bbxhafvh2htrgv?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/16090370-the-future-of-wearables-and-ar-with-alex-himel.mp3" length="29381870" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16090370</guid>
+    <pubDate>Tue, 12 Nov 2024 04:00:00 -0800</pubDate>
+    <itunes:duration>2441</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Sports Technology: With Andrew &quot;Hawk&quot; Hawkins and Troy Jones</itunes:title>
+    <title>The Future of Sports Technology: With Andrew &quot;Hawk&quot; Hawkins and Troy Jones</title>
+    <itunes:summary><![CDATA[In today’s episode, Boz is joined by StatusPRO Founders Andrew “Hawk” Hawkins and Troy Jones.  StatusPRO, the company behind the immensely popular game NFL PRO ERA, was founded by former athletes Hawkins and Jones. They leveraged their experience by developing Pre Game Prep, a training product for NFL club coaches and players where they signed the Baltimore Ravens as their first client. They then moved on to develop NFL PRO ERA which is the first NFL- and NFLPA-licensed football simulati...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, Boz is joined by <a href='https://www.status.pro/'>StatusPRO</a> Founders Andrew “Hawk” Hawkins and Troy Jones. </p><p>StatusPRO, the company behind the immensely popular game <a href='https://www.meta.com/experiences/nfl-pro-era/4193975210678121/'><em>NFL PRO ERA</em></a>, was founded by former athletes Hawkins and Jones. They leveraged their experience by developing Pre Game Prep, a training product for NFL club coaches and players where they signed the Baltimore Ravens as their first client. They then moved on to develop <em>NFL PRO ERA</em> which is the first NFL- and NFLPA-licensed football simulation game. </p><p>Together, Hawkins, Jones, and Bosworth go deep on immersive sports and technology, talking about the massive potential of mixed reality to bring a unique, “only in MR” experience to sports fans where they can really feel what it’s like to be an offensive or defensive player for their favorite teams. </p><p>They talk about the nuances between building a training sim and a game for consumers, how AI will transform gameplay, and how the lessons from playing team sports have transformed their approach to leadership and managing teams, as well as Hawkins’s fearless predictions for the NFL’s 105th season.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, Boz is joined by <a href='https://www.status.pro/'>StatusPRO</a> Founders Andrew “Hawk” Hawkins and Troy Jones. </p><p>StatusPRO, the company behind the immensely popular game <a href='https://www.meta.com/experiences/nfl-pro-era/4193975210678121/'><em>NFL PRO ERA</em></a>, was founded by former athletes Hawkins and Jones. They leveraged their experience by developing Pre Game Prep, a training product for NFL club coaches and players where they signed the Baltimore Ravens as their first client. They then moved on to develop <em>NFL PRO ERA</em> which is the first NFL- and NFLPA-licensed football simulation game. </p><p>Together, Hawkins, Jones, and Bosworth go deep on immersive sports and technology, talking about the massive potential of mixed reality to bring a unique, “only in MR” experience to sports fans where they can really feel what it’s like to be an offensive or defensive player for their favorite teams. </p><p>They talk about the nuances between building a training sim and a game for consumers, how AI will transform gameplay, and how the lessons from playing team sports have transformed their approach to leadership and managing teams, as well as Hawkins’s fearless predictions for the NFL’s 105th season.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/rtwhowxlqinznly19ctwfdcuv09a?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/15894613-the-future-of-sports-technology-with-andrew-hawk-hawkins-and-troy-jones.mp3" length="41117499" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15894613</guid>
+    <pubDate>Wed, 09 Oct 2024 04:00:00 -0700</pubDate>
+    <itunes:duration>3422</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future According to Refik Anadol</itunes:title>
+    <title>The Future According to Refik Anadol</title>
+    <itunes:summary><![CDATA[In today’s episode, Boz is joined by internationally renowned media artist and director Refik Anadol. Anadol is a pioneer in the aesthetics of data and machine intelligence. He’s been creating with algorithms since 2008, with projection mapping on an architectural scale since 2010, and in virtual reality since the days of the first Oculus developer kit in 2013. His work locates creativity at the intersection of humans and machines and uses the massive datasets around us as his primary materia...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, Boz is joined by internationally renowned media artist and director <a href='https://www.refikanadol.com'>Refik Anadol</a>.</p><p>Anadol is a pioneer in the aesthetics of data and machine intelligence. He’s been creating with algorithms since 2008, with projection mapping on an architectural scale since 2010, and in virtual reality since the days of the first Oculus developer kit in 2013. His work locates creativity at the intersection of humans and machines and uses the massive datasets around us as his primary material, with the neural network of a computerized mind as a collaborator. Giving people radical visualizations of collective, digitized memories, his groundbreaking interpretations of data have garnered numerous awards. Millions of people have been drawn to his exhibits that generate new forms in real time. </p><p>Follow Refik on <a href='https://www.instagram.com/refikanadol/'>Instagram</a>. You can follow Boz on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='https://www.threads.net/@boztank/'>Threads</a> @boztank.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, Boz is joined by internationally renowned media artist and director <a href='https://www.refikanadol.com'>Refik Anadol</a>.</p><p>Anadol is a pioneer in the aesthetics of data and machine intelligence. He’s been creating with algorithms since 2008, with projection mapping on an architectural scale since 2010, and in virtual reality since the days of the first Oculus developer kit in 2013. His work locates creativity at the intersection of humans and machines and uses the massive datasets around us as his primary material, with the neural network of a computerized mind as a collaborator. Giving people radical visualizations of collective, digitized memories, his groundbreaking interpretations of data have garnered numerous awards. Millions of people have been drawn to his exhibits that generate new forms in real time. </p><p>Follow Refik on <a href='https://www.instagram.com/refikanadol/'>Instagram</a>. You can follow Boz on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='https://www.threads.net/@boztank/'>Threads</a> @boztank.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/908be16ife3kduntf8y4s2y0m1ui?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/15745766-the-future-according-to-refik-anadol.mp3" length="32515990" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15745766</guid>
+    <pubDate>Fri, 13 Sep 2024 04:00:00 -0700</pubDate>
+    <itunes:duration>2703</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future According to Michael Abrash</itunes:title>
+    <title>The Future According to Michael Abrash</title>
+    <itunes:summary><![CDATA[In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by our very own Reality Labs Research Chief Scientist Michael Abrash.   They cover a range of topics, from the progress Reality Labs Research has made through a decade of exploring and prototyping novel ideas, to the technologies it’s brought to Meta’s products in-market, like hand tracking, pancake lenses, and spatial audio. They take a look back at some of the biggest developments of the last 10...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by our very own Reality Labs Research Chief Scientist Michael Abrash. <br/><br/>They cover a range of topics, from the progress Reality Labs Research has made through a decade of exploring and prototyping novel ideas, to the technologies it’s brought to Meta’s products in-market, like hand tracking, <a href='https://www.meta.com/blog/quest/vr-display-optics-pancake-lenses-ppd/'>pancake lenses</a>, and <a href='https://www.meta.com/blog/quest/beyond-surround-sound-audio-advances-in-vr/'>spatial audio</a>. They take a look back at some of the biggest developments of the last 10 years—including Touch controllers and inside-out tracking—and look ahead to the next decade on the horizon. <br/><br/>They discuss the difficult but exciting challenges that lie ahead in building the next generation of computing devices, including full AR glasses with an immersive display. There’s a need to work within compute, power, thermal, and weight constraints, all while pioneering and miniaturizing new technologies to fit in a socially acceptable form factor.</p><p>You can follow Boz on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://www.twitter.com/boztank'>Twitter/X,</a> and <a href='http://www.threads.net/@boztank'>Threads</a> @boztank. </p><p><br/></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by our very own Reality Labs Research Chief Scientist Michael Abrash. <br/><br/>They cover a range of topics, from the progress Reality Labs Research has made through a decade of exploring and prototyping novel ideas, to the technologies it’s brought to Meta’s products in-market, like hand tracking, <a href='https://www.meta.com/blog/quest/vr-display-optics-pancake-lenses-ppd/'>pancake lenses</a>, and <a href='https://www.meta.com/blog/quest/beyond-surround-sound-audio-advances-in-vr/'>spatial audio</a>. They take a look back at some of the biggest developments of the last 10 years—including Touch controllers and inside-out tracking—and look ahead to the next decade on the horizon. <br/><br/>They discuss the difficult but exciting challenges that lie ahead in building the next generation of computing devices, including full AR glasses with an immersive display. There’s a need to work within compute, power, thermal, and weight constraints, all while pioneering and miniaturizing new technologies to fit in a socially acceptable form factor.</p><p>You can follow Boz on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://www.twitter.com/boztank'>Twitter/X,</a> and <a href='http://www.threads.net/@boztank'>Threads</a> @boztank. </p><p><br/></p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/np89llwma8ht9zmoh3d7aa5m0w9s?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/15482821-the-future-according-to-michael-abrash.mp3" length="31037487" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15482821</guid>
+    <pubDate>Mon, 29 Jul 2024 04:00:00 -0700</pubDate>
+    <itunes:duration>2579</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Talking Metaverse with Matthew Ball </itunes:title>
+    <title>Talking Metaverse with Matthew Ball </title>
+    <itunes:summary><![CDATA[In this bonus episode of Boz To The Future, investor, technologist, and author of The Metaverse, Matthew Ball, turns the tables on our host to ask him  about Meta's vision for helping build the metaverse, MR, the challenging path to full augmented reality, investments, and timelines to building the future.   You can follow Boz on Instagram, Twitter/X, and Threads @boztank. Follow Matthew Ball on Twitter/X and Threads and pick up a copy of The Metaverse at your favorite bookstore. ]]></itunes:summary>
+    <description><![CDATA[<p>In this bonus episode of Boz To The Future, investor, technologist, and author of <a href='https://a.co/d/09kefGtz'>The Metaverse</a>, Matthew Ball, turns the tables on our host to ask him  about Meta&apos;s vision for helping build the metaverse, MR, the challenging path to full augmented reality, investments, and timelines to building the future. <br/><br/>You can follow Boz on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='http://www.threads.net/boztank'>Threads</a> @boztank. Follow Matthew Ball on <a href='https://twitter.com/ballmatthew'>Twitter/X</a> and <a href='https://www.threads.net/@ballmatthew'>Threads</a> and pick up a copy of The Metaverse at your favorite bookstore.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this bonus episode of Boz To The Future, investor, technologist, and author of <a href='https://a.co/d/09kefGtz'>The Metaverse</a>, Matthew Ball, turns the tables on our host to ask him  about Meta&apos;s vision for helping build the metaverse, MR, the challenging path to full augmented reality, investments, and timelines to building the future. <br/><br/>You can follow Boz on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='http://www.threads.net/boztank'>Threads</a> @boztank. Follow Matthew Ball on <a href='https://twitter.com/ballmatthew'>Twitter/X</a> and <a href='https://www.threads.net/@ballmatthew'>Threads</a> and pick up a copy of The Metaverse at your favorite bookstore.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/6l2rf3chpw0p4vf6nqdsq3h836w1?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/15388610-talking-metaverse-with-matthew-ball.mp3" length="33443341" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15388610</guid>
+    <pubDate>Tue, 09 Jul 2024 15:00:00 -0700</pubDate>
+    <itunes:duration>2778</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future According to Matthew Ball</itunes:title>
+    <title>The Future According to Matthew Ball</title>
+    <itunes:summary><![CDATA[In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by Epyllion CEO, technologist, investor, and author of The Metaverse Matthew Ball. Ball captured the tech industry’s attention with his insightful and incisive deep dives into industry trends, and his essay about the metaverse was so wildly popular that he expanded it into a book. Since its initial publication, the book has become a bestseller, has been translated into various languages, and is po...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by Epyllion CEO, technologist, investor, and author of <a href='https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/'><em>The Metaverse</em></a> Matthew Ball.</p><p>Ball captured the tech industry’s attention with his insightful and incisive deep dives into industry trends, and his essay about the metaverse was so wildly popular that he expanded it into a book. Since its initial publication, the book has become a bestseller, has been translated into various languages, and is poised to be re-released in a fully revised and updated edition. The new edition will take into account some of the massive changes that have taken place in the industry in recent years, especially in accelerated areas like AI, 3D graphics, consumer hardware, and XR. </p><p>You can follow Bosworth on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='http://www.threads.net/@boztank'>Threads</a> @boztank. Follow Matthew Ball on <a href='https://twitter.com/ballmatthew'>Twitter/X</a> and <a href='https://www.threads.net/@ballmatthew'>Threads</a> and pick up a copy of <em>The Metaverse</em> at your favorite bookstore.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by Epyllion CEO, technologist, investor, and author of <a href='https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/'><em>The Metaverse</em></a> Matthew Ball.</p><p>Ball captured the tech industry’s attention with his insightful and incisive deep dives into industry trends, and his essay about the metaverse was so wildly popular that he expanded it into a book. Since its initial publication, the book has become a bestseller, has been translated into various languages, and is poised to be re-released in a fully revised and updated edition. The new edition will take into account some of the massive changes that have taken place in the industry in recent years, especially in accelerated areas like AI, 3D graphics, consumer hardware, and XR. </p><p>You can follow Bosworth on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='http://www.threads.net/@boztank'>Threads</a> @boztank. Follow Matthew Ball on <a href='https://twitter.com/ballmatthew'>Twitter/X</a> and <a href='https://www.threads.net/@ballmatthew'>Threads</a> and pick up a copy of <em>The Metaverse</em> at your favorite bookstore.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/75zz38e07uud0395h7dpfiu4q0cw?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/14511193-the-future-according-to-matthew-ball.mp3" length="41502289" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14511193</guid>
+    <pubDate>Thu, 15 Feb 2024 11:00:00 -0800</pubDate>
+    <itunes:duration>3452</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future According to Steven Sinofsky</itunes:title>
+    <title>The Future According to Steven Sinofsky</title>
+    <itunes:summary><![CDATA[In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by technologist and author of Hardcore Software Steven Sinofsky to talk about the recurring lessons of standing up new platforms, as well as writing and how AI may benefit the craft.  Together, Sinofsky and Bosworth cover a range of topics, from the massive effort needed to build a new computing platform to the difficulty of building novel technologies in an era where everything “just works.”...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by technologist and author of <a href='https://hardcoresoftware.learningbyshipping.com/'><em>Hardcore Software</em></a> Steven Sinofsky to talk about the recurring lessons of standing up new platforms, as well as writing and how AI may benefit the craft. </p><p>Together, Sinofsky and Bosworth cover a range of topics, from the massive effort needed to build a new computing platform to the difficulty of building novel technologies in an era where everything “just works.” They look at how we’re once again at an exciting time in computing, where new form factors, like smart glasses with integrated AI features, begin to reveal technologies that could become increasingly ubiquitous in the near future.<br/><br/>You can follow Bosworth on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='http://www.threads.net/@boztank'>Threads</a> @boztank. Follow Steven Sinofsky on <a href='https://twitter.com/SteveSi'>Twitter/X</a>, and get the e-book of <em>Hardcore Software</em> <a href='https://www.amazon.com/Hardcore-Software-Inside-Rise-Revolution-ebook/dp/B0BSYF3447'>here</a>.</p><p><br/></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth, is joined by technologist and author of <a href='https://hardcoresoftware.learningbyshipping.com/'><em>Hardcore Software</em></a> Steven Sinofsky to talk about the recurring lessons of standing up new platforms, as well as writing and how AI may benefit the craft. </p><p>Together, Sinofsky and Bosworth cover a range of topics, from the massive effort needed to build a new computing platform to the difficulty of building novel technologies in an era where everything “just works.” They look at how we’re once again at an exciting time in computing, where new form factors, like smart glasses with integrated AI features, begin to reveal technologies that could become increasingly ubiquitous in the near future.<br/><br/>You can follow Bosworth on <a href='https://www.instagram.com/boztank/'>Instagram</a>, <a href='https://twitter.com/boztank'>Twitter/X</a>, and <a href='http://www.threads.net/@boztank'>Threads</a> @boztank. Follow Steven Sinofsky on <a href='https://twitter.com/SteveSi'>Twitter/X</a>, and get the e-book of <em>Hardcore Software</em> <a href='https://www.amazon.com/Hardcore-Software-Inside-Rise-Revolution-ebook/dp/B0BSYF3447'>here</a>.</p><p><br/></p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/5u3xawime0c5xz0792wzj8hmou0g?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/14251817-the-future-according-to-steven-sinofsky.mp3" length="42121285" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14251817</guid>
+    <pubDate>Fri, 05 Jan 2024 04:00:00 -0800</pubDate>
+    <itunes:duration>3506</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of AI Research: With Guests Joelle Pineau and Yann LeCun</itunes:title>
+    <title>The Future of AI Research: With Guests Joelle Pineau and Yann LeCun</title>
+    <itunes:summary><![CDATA[In Boz To The Future’s sixteenth episode, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth talks to Meta’s VP of AI Research Joelle Pineau and Chief AI Scientist Yann LeCun about FAIR, Meta’s Fundamental AI Research Lab, and the future ahead. Now in its tenth year, FAIR celebrates a decade of significant breakthroughs and contributions to the AI community, thanks to Meta’s continued commitment to open research and science.   They talk about how some of this early work laid the fou...]]></itunes:summary>
+    <description><![CDATA[<p>In Boz To The Future’s sixteenth episode, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth talks to Meta’s VP of AI Research Joelle Pineau and Chief AI Scientist Yann LeCun about FAIR, Meta’s Fundamental AI Research Lab, and the future ahead. Now in its tenth year, FAIR celebrates a decade of significant breakthroughs and contributions to the AI community, thanks to Meta’s continued commitment to open research and science.  </p><p>They talk about how some of this early work laid the foundation for the progress we’re seeing today and why it’s important to take a long view of things given how unpredictable this progress can be. </p><p>For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a>, <a href='https://www.threads.net/@boztank'>Threads</a>, or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In Boz To The Future’s sixteenth episode, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth talks to Meta’s VP of AI Research Joelle Pineau and Chief AI Scientist Yann LeCun about FAIR, Meta’s Fundamental AI Research Lab, and the future ahead. Now in its tenth year, FAIR celebrates a decade of significant breakthroughs and contributions to the AI community, thanks to Meta’s continued commitment to open research and science.  </p><p>They talk about how some of this early work laid the foundation for the progress we’re seeing today and why it’s important to take a long view of things given how unpredictable this progress can be. </p><p>For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a>, <a href='https://www.threads.net/@boztank'>Threads</a>, or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/mprgv1d8r96ouw2i90exttyinti1?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/14090862-the-future-of-ai-research-with-guests-joelle-pineau-and-yann-lecun.mp3" length="38012211" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14090862</guid>
+    <pubDate>Tue, 05 Dec 2023 04:00:00 -0800</pubDate>
+    <itunes:duration>3163</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Mixed Reality Development: With Guest Thomas Van Bouwel</itunes:title>
+    <title>The Future of Mixed Reality Development: With Guest Thomas Van Bouwel</title>
+    <itunes:summary><![CDATA[In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth is joined by Thomas Van Bouwel, the indie developer behind beloved puzzle game Cubism. A former architect turned solo XR developer, Van Bouwel has been a pioneer of Meta’s Presence Platform suite of tools—in fact, Cubism was one of first Meta Quest games to integrate Passthrough and hand tracking. Currently, Van Bouwel’s working on a game built for the ground up for mixed reality called Laser Dance. Together...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth is joined by Thomas Van Bouwel, the indie developer behind beloved puzzle game <a href='https://www.meta.com/experiences/2264524423619421'><em>Cubism</em></a>.</p><p>A former architect turned solo XR developer, Van Bouwel has been a pioneer of <a href='https://developer.oculus.com/presence-platform/'>Meta’s Presence Platform</a> suite of tools—in fact, <em>Cubism</em> was one of first Meta Quest games to integrate Passthrough and hand tracking. Currently, Van Bouwel’s working on a game built for the ground up for mixed reality called <a href='https://twitter.com/LaserDanceGame/status/1707814921583681553'><em>Laser Dance</em></a>.</p><p>Together, Boz and Van Bouwel discuss how mixed reality is inspiring creativity among the XR development community. As MR unlocks the ability to blend virtual elements with your physical environment, we find ourselves in an exciting time that mirrors the energy around room-scale VR back in 2017. And there’s a unique opportunity for developers to design and ship MR-native games that interact with your space as opposed to requiring you to move furniture around to create a large enough playspace. Thanks to color Passthrough and our Scene API, there’s more potential for truly room-scale experiences than ever before.</p><p>For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a>, <a href='https://www.threads.net/@boztank'>Threads</a>, or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, our host, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth is joined by Thomas Van Bouwel, the indie developer behind beloved puzzle game <a href='https://www.meta.com/experiences/2264524423619421'><em>Cubism</em></a>.</p><p>A former architect turned solo XR developer, Van Bouwel has been a pioneer of <a href='https://developer.oculus.com/presence-platform/'>Meta’s Presence Platform</a> suite of tools—in fact, <em>Cubism</em> was one of first Meta Quest games to integrate Passthrough and hand tracking. Currently, Van Bouwel’s working on a game built for the ground up for mixed reality called <a href='https://twitter.com/LaserDanceGame/status/1707814921583681553'><em>Laser Dance</em></a>.</p><p>Together, Boz and Van Bouwel discuss how mixed reality is inspiring creativity among the XR development community. As MR unlocks the ability to blend virtual elements with your physical environment, we find ourselves in an exciting time that mirrors the energy around room-scale VR back in 2017. And there’s a unique opportunity for developers to design and ship MR-native games that interact with your space as opposed to requiring you to move furniture around to create a large enough playspace. Thanks to color Passthrough and our Scene API, there’s more potential for truly room-scale experiences than ever before.</p><p>For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a>, <a href='https://www.threads.net/@boztank'>Threads</a>, or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/thh1fed24j0ezccs86wbmcg2h4tq?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/13959272-the-future-of-mixed-reality-development-with-guest-thomas-van-bouwel.mp3" length="27472028" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13959272</guid>
+    <pubDate>Mon, 13 Nov 2023 04:00:00 -0800</pubDate>
+    <itunes:duration>2284</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future According to Jason Rubin</itunes:title>
+    <title>The Future According to Jason Rubin</title>
+    <itunes:summary><![CDATA[In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is joined by Jason Rubin, VP of Metaverse Experiences. Rubin is an industry veteran who started out as co-founder of the gaming studio Naughty Dog, where as a programmer and director he led work on titles like Crash Bandicoot and Jak &amp; Daxter — two pioneering games from the early days of the PlayStation platform. Following that, he worked across a range of gaming, social media, and technology businesses before la...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is<b> </b>joined by Jason Rubin, VP of Metaverse Experiences.</p><p>Rubin is an industry veteran who started out as co-founder of the gaming studio <a href='https://www.naughtydog.com/'>Naughty Dog</a>, where as a programmer and director he led work on titles like <a href='https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)'><em>Crash Bandicoot</em></a><em> </em>and <a href='https://en.wikipedia.org/wiki/Jak_and_Daxter:_The_Precursor_Legacy'><em>Jak &amp; Daxter</em></a> — two pioneering games from the early days of the PlayStation platform. Following that, he worked across a range of gaming, social media, and technology businesses before landing at Oculus in 2014. And he’s played an integral role in the development of the VR gaming and content ecosystem ever since. </p><p>With <a href='https://www.meta.com/blog/quest/vr-hardware-news-quest-3-sneak-peek-price-drop'>Meta Quest 3</a> coming in the fall, Boz and Rubin get into what to expect from our next generation of VR headsets, as well as some of the biggest VR games coming this year, including <a href='https://www.meta.com/blog/quest/asgards-wrath-2-aaa-vr-game-pre-orders/'><em>Asgard’s Wrath 2</em></a>, <a href='https://www.oculus.com/experiences/quest/4746232908818706/'><em>Ghostbusters: Rise of the Ghost Lord</em></a>, <a href='https://www.oculus.com/experiences/quest/5245041552210029/'><em>Arizona Sunshine 2</em></a>, and more. They also discuss why they both love photography so much, what’s the most slept-on VR game out there right now, and the graphic novel you need to be reading in 2023. </p><p>For feedback and suggestions, drop Boz a message @boztank on <a href='http://www.instagram.com/boztank'>Instagram</a> or <a href='http://twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is<b> </b>joined by Jason Rubin, VP of Metaverse Experiences.</p><p>Rubin is an industry veteran who started out as co-founder of the gaming studio <a href='https://www.naughtydog.com/'>Naughty Dog</a>, where as a programmer and director he led work on titles like <a href='https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)'><em>Crash Bandicoot</em></a><em> </em>and <a href='https://en.wikipedia.org/wiki/Jak_and_Daxter:_The_Precursor_Legacy'><em>Jak &amp; Daxter</em></a> — two pioneering games from the early days of the PlayStation platform. Following that, he worked across a range of gaming, social media, and technology businesses before landing at Oculus in 2014. And he’s played an integral role in the development of the VR gaming and content ecosystem ever since. </p><p>With <a href='https://www.meta.com/blog/quest/vr-hardware-news-quest-3-sneak-peek-price-drop'>Meta Quest 3</a> coming in the fall, Boz and Rubin get into what to expect from our next generation of VR headsets, as well as some of the biggest VR games coming this year, including <a href='https://www.meta.com/blog/quest/asgards-wrath-2-aaa-vr-game-pre-orders/'><em>Asgard’s Wrath 2</em></a>, <a href='https://www.oculus.com/experiences/quest/4746232908818706/'><em>Ghostbusters: Rise of the Ghost Lord</em></a>, <a href='https://www.oculus.com/experiences/quest/5245041552210029/'><em>Arizona Sunshine 2</em></a>, and more. They also discuss why they both love photography so much, what’s the most slept-on VR game out there right now, and the graphic novel you need to be reading in 2023. </p><p>For feedback and suggestions, drop Boz a message @boztank on <a href='http://www.instagram.com/boztank'>Instagram</a> or <a href='http://twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/bw05q7qpxozzekxlom9ekwi8aduq?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/12994010-the-future-according-to-jason-rubin.mp3" length="30708424" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12994010</guid>
+    <pubDate>Wed, 07 Jun 2023 04:00:00 -0700</pubDate>
+    <itunes:duration>2524</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future According to John Carmack </itunes:title>
+    <title>The Future According to John Carmack </title>
+    <itunes:summary><![CDATA[In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is joined by John Carmack, former Reality Labs Consulting CTO who is currently heading up AGI at Keen Technologies.  John Carmack is one of the most influential technologists of our time, and his work has shaped multiple generations of software and platforms. As a co-founder of video game company id Software, Carmack developed titles including Wolfenstein 3D, Doom and Quake, which pioneered new approaches to tec...]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is joined by John Carmack, former Reality Labs Consulting CTO who is currently heading up AGI at Keen Technologies. </p><p>John Carmack is one of the most influential technologists of our time, and his work has shaped multiple generations of software and platforms. As a co-founder of video game company id Software, Carmack developed titles including <em>Wolfenstein 3D</em>, <em>Doom</em> and <em>Quake</em>, which pioneered new approaches to technologies like 3D graphics and online multiplayer gaming.</p><p>But Carmack’s impact goes well beyond gaming. In 2013 Carmack left id Software to become the CTO of Oculus VR, where he helped the company pioneer a new era of virtual reality devices. In 2014 Oculus VR was acquired by Meta and Carmack played a key role in the development of the VR technologies that Meta has developed ever since, which formed the foundation for its long term vision to build for the metaverse. </p><p>In short, if you’ve ever played a video game or worn a VR headset, you’ve experienced John Carmack’s legacy. And now, after stepping down from his role at Meta at the end of 2022, Carmack is setting off on a new phase of his career, founding Keen Technologies to work on the pursuit of artificial general intelligence. There’s plenty for Carmack and Boz to talk about, and they cover it all this week, from the incredible new era of AI that’s emerging today to his philosophy on programming, building great software and making users happy. <br/><br/>And as a bonus, Carmack’s recommended reading list for the best sci-fi to understand today’s AI boom, and thoughts on <em>The Last of Us </em>and turning games into TV shows. </p><p>For feedback and suggestions, drop Boz a message @boztank on <a href='http://instagram.com/boztank'>Instagram</a> or <a href='http://twitter.com/boztank'>Twitter</a>. Follow John Carmack on Twitter, <a href='http://twitter.com/id_AA_Carmack'>@id_AA_Carmack</a>.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is joined by John Carmack, former Reality Labs Consulting CTO who is currently heading up AGI at Keen Technologies. </p><p>John Carmack is one of the most influential technologists of our time, and his work has shaped multiple generations of software and platforms. As a co-founder of video game company id Software, Carmack developed titles including <em>Wolfenstein 3D</em>, <em>Doom</em> and <em>Quake</em>, which pioneered new approaches to technologies like 3D graphics and online multiplayer gaming.</p><p>But Carmack’s impact goes well beyond gaming. In 2013 Carmack left id Software to become the CTO of Oculus VR, where he helped the company pioneer a new era of virtual reality devices. In 2014 Oculus VR was acquired by Meta and Carmack played a key role in the development of the VR technologies that Meta has developed ever since, which formed the foundation for its long term vision to build for the metaverse. </p><p>In short, if you’ve ever played a video game or worn a VR headset, you’ve experienced John Carmack’s legacy. And now, after stepping down from his role at Meta at the end of 2022, Carmack is setting off on a new phase of his career, founding Keen Technologies to work on the pursuit of artificial general intelligence. There’s plenty for Carmack and Boz to talk about, and they cover it all this week, from the incredible new era of AI that’s emerging today to his philosophy on programming, building great software and making users happy. <br/><br/>And as a bonus, Carmack’s recommended reading list for the best sci-fi to understand today’s AI boom, and thoughts on <em>The Last of Us </em>and turning games into TV shows. </p><p>For feedback and suggestions, drop Boz a message @boztank on <a href='http://instagram.com/boztank'>Instagram</a> or <a href='http://twitter.com/boztank'>Twitter</a>. Follow John Carmack on Twitter, <a href='http://twitter.com/id_AA_Carmack'>@id_AA_Carmack</a>.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/153svkdlm21ina7qp9uqjco3z0y6?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/12581455-the-future-according-to-john-carmack.mp3" length="44668718" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12581455</guid>
+    <pubDate>Mon, 03 Apr 2023 22:00:00 -0700</pubDate>
+    <itunes:duration>3714</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Meta Accounts and VR: With Guest Mark Rabkin</itunes:title>
+    <title>The Future of Meta Accounts and VR: With Guest Mark Rabkin</title>
+    <itunes:summary><![CDATA[Welcome back for the twelfth episode of Boz to the Future, a monthly podcast from Reality Labs (RL). In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is joined by Mark Rabkin, VP of RL. As you’d expect, Boz and Rabkin take a deep dive this week into all things VR—starting with some context around our brand new Meta accounts. If you missed the news: In August, we’ll begin rolling out a new Meta account structure that gives people more flexibility and control in VR. ...]]></itunes:summary>
+    <description><![CDATA[<p>Welcome back for the twelfth episode of <em>Boz to the Future, </em>a monthly podcast from Reality Labs (RL). In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is joined by Mark Rabkin, VP of RL.</p><p>As you’d expect, Boz and Rabkin take a deep dive this week into all things VR—starting with some context around our brand new Meta accounts. If you <a href='https://www.oculus.com/blog/meta-accounts/'>missed the news</a>: In August, we’ll begin rolling out a new Meta account structure that gives people more flexibility and control in VR. You’ll no longer be required to log into your Meta VR devices with a Facebook account. They discuss why Facebook logins became standard in the first place, and why Meta accounts are a better long-term solution. No surprise, it all comes back to how best to build a community and find friends in VR.</p><p>But of course, Meta accounts are only the first of many topics covered this week. Having been with Meta for most of its existence, Boz and Rabkin also talk about VR and the metaverse as the latest “shift” for the company. How fast is it growing? How does it compare to the early days of mobile? And what do we mean when we call VR the next general compute platform?</p><p>For more on the series, visit <a href='https://tech.fb.com/tag/boz-to-the-future/'>Tech @ Meta</a>.  For feedback and suggestions, drop Boz a message @boztank on <a href='http://www.instagram.com/boztank'>Instagram</a> or Twitter.</p>]]></description>
+    <content:encoded><![CDATA[<p>Welcome back for the twelfth episode of <em>Boz to the Future, </em>a monthly podcast from Reality Labs (RL). In today’s episode, our host, Head of RL, and Meta CTO Andrew “Boz” Bosworth is joined by Mark Rabkin, VP of RL.</p><p>As you’d expect, Boz and Rabkin take a deep dive this week into all things VR—starting with some context around our brand new Meta accounts. If you <a href='https://www.oculus.com/blog/meta-accounts/'>missed the news</a>: In August, we’ll begin rolling out a new Meta account structure that gives people more flexibility and control in VR. You’ll no longer be required to log into your Meta VR devices with a Facebook account. They discuss why Facebook logins became standard in the first place, and why Meta accounts are a better long-term solution. No surprise, it all comes back to how best to build a community and find friends in VR.</p><p>But of course, Meta accounts are only the first of many topics covered this week. Having been with Meta for most of its existence, Boz and Rabkin also talk about VR and the metaverse as the latest “shift” for the company. How fast is it growing? How does it compare to the early days of mobile? And what do we mean when we call VR the next general compute platform?</p><p>For more on the series, visit <a href='https://tech.fb.com/tag/boz-to-the-future/'>Tech @ Meta</a>.  For feedback and suggestions, drop Boz a message @boztank on <a href='http://www.instagram.com/boztank'>Instagram</a> or Twitter.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ynov6t6j7kcemser33gz55t5waw1?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/10968427-the-future-of-meta-accounts-and-vr-with-guest-mark-rabkin.mp3" length="36246455" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10968427</guid>
+    <pubDate>Mon, 18 Jul 2022 04:00:00 -0700</pubDate>
+    <itunes:duration>3015</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of AI: With Guest Yann LeCun</itunes:title>
+    <title>The Future of AI: With Guest Yann LeCun</title>
+    <itunes:summary><![CDATA[Welcome back for episode 11 of Boz To The Future, where Head of Reality Labs and Meta CTO Andrew "Boz" Bosworth is joined by Meta's VP and Chief Scientist of AI Yann LeCun.   In today’s episode, Boz and Yann go on a deep, deep dive looking at the state of AI today and where Yann believes the future is headed. Together, they cover the origins of AI at Meta (née Facebook), in the technology industry in general, and the huge shift we’ve seen in recent years.  For more on the series, visit Tech@M...]]></itunes:summary>
+    <description><![CDATA[<p>Welcome back for episode 11 of Boz To The Future, where Head of Reality Labs and Meta CTO Andrew &quot;Boz&quot; Bosworth is joined by Meta&apos;s VP and Chief Scientist of AI Yann LeCun. <br/><br/>In today’s episode, Boz and Yann go on a deep, deep dive looking at the state of AI today and where Yann believes the future is headed. Together, they cover the origins of AI at Meta (née Facebook), in the technology industry in general, and the huge shift we’ve seen in recent years<b>.<br/><br/></b>For more on the series, visit <a href='https://tech.fb.com/tag/boz-to-the-future/'>Tech@Meta</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a> or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>Welcome back for episode 11 of Boz To The Future, where Head of Reality Labs and Meta CTO Andrew &quot;Boz&quot; Bosworth is joined by Meta&apos;s VP and Chief Scientist of AI Yann LeCun. <br/><br/>In today’s episode, Boz and Yann go on a deep, deep dive looking at the state of AI today and where Yann believes the future is headed. Together, they cover the origins of AI at Meta (née Facebook), in the technology industry in general, and the huge shift we’ve seen in recent years<b>.<br/><br/></b>For more on the series, visit <a href='https://tech.fb.com/tag/boz-to-the-future/'>Tech@Meta</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a> or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/jc2jn4hmvd2jntexwirymoo34ncc?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/10925052-the-future-of-ai-with-guest-yann-lecun.mp3" length="37512919" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10925052</guid>
+    <pubDate>Fri, 08 Jul 2022 04:00:00 -0700</pubDate>
+    <itunes:duration>3119</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of VR Displays: With Guest Douglas Lanman</itunes:title>
+    <title>The Future of VR Displays: With Guest Douglas Lanman</title>
+    <itunes:summary><![CDATA[In Episode 10 of Boz To The Future, Meta CTO Andrew "Boz" Bosworth speaks with Reality Labs' Director of Display Systems Research Douglas Lanman about passing the visual Turing test, what the visual Turing test is, and the technical challenges—and tradeoffs—his team faces on their quest to deliver VR displays that are almost indistinguishable from reality.   For more on the series, visit Tech@Meta. For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter. ]]></itunes:summary>
+    <description><![CDATA[<p>In Episode 10 of Boz To The Future, Meta CTO Andrew &quot;Boz&quot; Bosworth speaks with Reality Labs&apos; Director of Display Systems Research Douglas Lanman about passing the visual Turing test, what the visual Turing test is, and the technical challenges—and tradeoffs—his team faces on their quest to deliver VR displays that are almost indistinguishable from reality. <br/><br/>For more on the series, visit <a href='https://tech.fb.com/tag/boz-to-the-future/'>Tech@Meta</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='http://instagram.com/boztank'>Instagram</a> or <a href='http://twitter.com/boztank'>Twitter</a>.</p>]]></description>
+    <content:encoded><![CDATA[<p>In Episode 10 of Boz To The Future, Meta CTO Andrew &quot;Boz&quot; Bosworth speaks with Reality Labs&apos; Director of Display Systems Research Douglas Lanman about passing the visual Turing test, what the visual Turing test is, and the technical challenges—and tradeoffs—his team faces on their quest to deliver VR displays that are almost indistinguishable from reality. <br/><br/>For more on the series, visit <a href='https://tech.fb.com/tag/boz-to-the-future/'>Tech@Meta</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='http://instagram.com/boztank'>Instagram</a> or <a href='http://twitter.com/boztank'>Twitter</a>.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/snksdy73c8fa1uz99yljqra7og30?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/10834003-the-future-of-vr-displays-with-guest-douglas-lanman.mp3" length="31485671" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10834003</guid>
+    <pubDate>Wed, 22 Jun 2022 03:00:00 -0700</pubDate>
+    <itunes:duration>2616</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Visual Storytelling in Sports: With Guests Alex Honnold and Jon Griffith</itunes:title>
+    <title>The Future of Visual Storytelling in Sports: With Guests Alex Honnold and Jon Griffith</title>
+    <itunes:summary><![CDATA[In Episode 9 of Boz To The Future, Meta CTO Andrew “Boz” Bosworth speaks with photographer, filmmaker, and alpinist Jonathan Griffith and professional adventure rock climber Alex Honnold about virtual reality documentary Alex Honnold: The Soloist VR. They discuss how immersive media like VR can advance unique sports narratives. They also talk about how advances in media technology have also expanded access to extreme sports, giving people an unprecedented view of elite sports that require tre...]]></itunes:summary>
+    <description><![CDATA[<p>In Episode 9 of Boz To The Future, Meta CTO Andrew “Boz” Bosworth speaks with photographer, filmmaker, and alpinist Jonathan Griffith and professional adventure rock climber Alex Honnold about virtual reality documentary <a href='https://www.oculus.com/blog/alex-honnold-the-soloist-vr-brings-the-elite-world-of-free-solo-climbing-home-to-vr/'><em>Alex Honnold: The Soloist VR</em></a>.</p><p>They discuss how immersive media like VR can advance unique sports narratives. They also talk about how advances in media technology have also expanded access to extreme sports, giving people an unprecedented view of elite sports that require tremendous skill, practice, and talent. While historically these challenging adventures have been exclusive to a small subset of athletes, VR lets anyone with a headset take a proverbial walk on the wild side.</p><p>For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In Episode 9 of Boz To The Future, Meta CTO Andrew “Boz” Bosworth speaks with photographer, filmmaker, and alpinist Jonathan Griffith and professional adventure rock climber Alex Honnold about virtual reality documentary <a href='https://www.oculus.com/blog/alex-honnold-the-soloist-vr-brings-the-elite-world-of-free-solo-climbing-home-to-vr/'><em>Alex Honnold: The Soloist VR</em></a>.</p><p>They discuss how immersive media like VR can advance unique sports narratives. They also talk about how advances in media technology have also expanded access to extreme sports, giving people an unprecedented view of elite sports that require tremendous skill, practice, and talent. While historically these challenging adventures have been exclusive to a small subset of athletes, VR lets anyone with a headset take a proverbial walk on the wild side.</p><p>For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/5u6kcwlps69curxpg2guvmz36bl2?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/10583437-the-future-of-visual-storytelling-in-sports-with-guests-alex-honnold-and-jon-griffith.mp3" length="36690289" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10583437</guid>
+    <pubDate>Mon, 09 May 2022 04:00:00 -0700</pubDate>
+    <itunes:duration>3049</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Avatars and Identity: With Guest Aigerim Shorman</itunes:title>
+    <title>The Future of Avatars and Identity: With Guest Aigerim Shorman</title>
+    <itunes:summary><![CDATA[In Episode 8 of Boz To The Future, Meta CTO Andrew “Boz” Bosworth speaks with Aigerim Shorman, General Manager, of Avatars &amp; Identity in Reality Labs’ Metaverse Product Group. Her team is tasked with building avatars and identity and exploring the ways people will want to represent themselves in digital spaces.  In this episode, the two of them talk about how avatars and representation of self will be core to the metaverse, and why continuity will be so important for people who will ...]]></itunes:summary>
+    <description><![CDATA[<p>In Episode 8 of Boz To The Future, Meta CTO Andrew “Boz” Bosworth speaks with Aigerim Shorman, General Manager, of Avatars &amp; Identity in Reality Labs’ Metaverse Product Group. Her team is tasked with building avatars and identity and exploring the ways people will want to represent themselves in digital spaces. </p><p>In this episode, the two of them talk about how avatars and representation of self will be core to the metaverse, and why continuity will be so important for people who will navigate these spaces. </p><p>For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In Episode 8 of Boz To The Future, Meta CTO Andrew “Boz” Bosworth speaks with Aigerim Shorman, General Manager, of Avatars &amp; Identity in Reality Labs’ Metaverse Product Group. Her team is tasked with building avatars and identity and exploring the ways people will want to represent themselves in digital spaces. </p><p>In this episode, the two of them talk about how avatars and representation of self will be core to the metaverse, and why continuity will be so important for people who will navigate these spaces. </p><p>For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/8m6znrwovnbcqu59hnghkib1rw6s?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/10424519-the-future-of-avatars-and-identity-with-guest-aigerim-shorman.mp3" length="24128116" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10424519</guid>
+    <pubDate>Tue, 12 Apr 2022 07:00:00 -0700</pubDate>
+    <itunes:duration>2003</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Input for the Next Computing Platform: With Guest Thomas Reardon</itunes:title>
+    <title>The Future of Input for the Next Computing Platform: With Guest Thomas Reardon</title>
+    <itunes:summary><![CDATA[In Episode 7 of Boz To The Future, Reality Labs VP and incoming Meta CTO Andrew “Boz” Bosworth speaks with RL Director of Neuromotor Interfaces Thomas Reardon about the more intuitive inputs we’re building for future computing platforms like AR glasses. For generations, humans have been adapting to machines and learning how to use the various inputs available. In the future, technologies like EMG at the wrist will help decode electrical signals from our muscles based on very small movements o...]]></itunes:summary>
+    <description><![CDATA[<p>In Episode 7 of Boz To The Future, Reality Labs VP and incoming Meta CTO Andrew “Boz” Bosworth speaks with RL Director of Neuromotor Interfaces Thomas Reardon about the more intuitive inputs we’re building for future computing platforms like AR glasses. For generations, humans have been adapting to machines and learning how to use the various inputs available. In the future, technologies like EMG at the wrist will help decode electrical signals from our muscles based on very small movements of our hands or fingers — and eventually just from the intention to perform a gesture. Those signals can then be used to translate physical actions that we’ve already decided to perform into digital commands in order to directly control a device. It’s a much faster way to act on the instructions that you already send to your device today when you tap to select a song on your phone, click a mouse, or type on a keyboard. It’s exciting work that could transform the way we interact with computers in the future.</p><p>For more on the series, visit <a href='http://www.facebook.com/boztothefuturepod'>facebook.com/boztothefuturepod</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='http://instagram.com/boztank'>Instagram</a> or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In Episode 7 of Boz To The Future, Reality Labs VP and incoming Meta CTO Andrew “Boz” Bosworth speaks with RL Director of Neuromotor Interfaces Thomas Reardon about the more intuitive inputs we’re building for future computing platforms like AR glasses. For generations, humans have been adapting to machines and learning how to use the various inputs available. In the future, technologies like EMG at the wrist will help decode electrical signals from our muscles based on very small movements of our hands or fingers — and eventually just from the intention to perform a gesture. Those signals can then be used to translate physical actions that we’ve already decided to perform into digital commands in order to directly control a device. It’s a much faster way to act on the instructions that you already send to your device today when you tap to select a song on your phone, click a mouse, or type on a keyboard. It’s exciting work that could transform the way we interact with computers in the future.</p><p>For more on the series, visit <a href='http://www.facebook.com/boztothefuturepod'>facebook.com/boztothefuturepod</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='http://instagram.com/boztank'>Instagram</a> or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/0zgvj4lpw274yn6tqd9iag5598w9?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/9827975-the-future-of-input-for-the-next-computing-platform-with-guest-thomas-reardon.mp3" length="26881514" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9827975</guid>
+    <pubDate>Tue, 04 Jan 2022 04:00:00 -0800</pubDate>
+    <itunes:duration>2232</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Platforms: With Guest Chris Cox</itunes:title>
+    <title>The Future of Platforms: With Guest Chris Cox</title>
+    <itunes:summary><![CDATA[In Episode 6 of Boz To The Future, Facebook Reality Labs VP Andrew 'Boz' Bosworth speaks with Facebook's Chief Product Officer, Chris Cox about the impact of the internet and the communication tools native to it on society, how it’s changed the way people relate to each other, the promise of augmented and virtual reality, and how Facebook’s apps could look like  in the metaverse.  For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a messa...]]></itunes:summary>
+    <description><![CDATA[<p>In Episode 6 of Boz To The Future, Facebook Reality Labs VP Andrew &apos;Boz&apos; Bosworth speaks with Facebook&apos;s Chief Product Officer, Chris Cox about the impact of the internet and the communication tools native to it on society, how it’s changed the way people relate to each other, the promise of augmented and virtual reality, and how Facebook’s apps could look like  in the metaverse.<br/><br/>For more on the series, visit <a href='https://www.facebook.com/boztothefuturepod'>facebook.com/boztothefuturepod</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a> or <a href='https://www.twitter.com/boztank'>Twitter</a>. </p>]]></description>
+    <content:encoded><![CDATA[<p>In Episode 6 of Boz To The Future, Facebook Reality Labs VP Andrew &apos;Boz&apos; Bosworth speaks with Facebook&apos;s Chief Product Officer, Chris Cox about the impact of the internet and the communication tools native to it on society, how it’s changed the way people relate to each other, the promise of augmented and virtual reality, and how Facebook’s apps could look like  in the metaverse.<br/><br/>For more on the series, visit <a href='https://www.facebook.com/boztothefuturepod'>facebook.com/boztothefuturepod</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a> or <a href='https://www.twitter.com/boztank'>Twitter</a>. </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/zryyzz1qpaibc95jqgn5tx5m3z0k?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/9412803-the-future-of-platforms-with-guest-chris-cox.mp3" length="36912760" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9412803</guid>
+    <pubDate>Fri, 22 Oct 2021 05:00:00 -0700</pubDate>
+    <itunes:duration>3072</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Digital Spaces: With Guest Ina Fried</itunes:title>
+    <title>The Future of Digital Spaces: With Guest Ina Fried</title>
+    <itunes:summary><![CDATA[In Episode 5 of Boz To The Future, Facebook Reality Labs VP Andrew 'Boz' Bosworth speaks with Axios Chief Technology Correspondent Ina Fried to talk about the disintegration and integration of technology and the role of identity and self-expression in digital spaces—including the metaverse.   For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter. ]]></itunes:summary>
+    <description><![CDATA[<p>In Episode 5 of Boz To The Future, Facebook Reality Labs VP Andrew &apos;Boz&apos; Bosworth speaks with Axios Chief Technology Correspondent Ina Fried to talk about the disintegration and integration of technology and the role of identity and self-expression in digital spaces—including the metaverse. <br/><br/>For more on the series, visit <a href='https://www.facebook.com/boztothefuturepod'>facebook.com/boztothefuturepod</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a> or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p>]]></description>
+    <content:encoded><![CDATA[<p>In Episode 5 of Boz To The Future, Facebook Reality Labs VP Andrew &apos;Boz&apos; Bosworth speaks with Axios Chief Technology Correspondent Ina Fried to talk about the disintegration and integration of technology and the role of identity and self-expression in digital spaces—including the metaverse. <br/><br/>For more on the series, visit <a href='https://www.facebook.com/boztothefuturepod'>facebook.com/boztothefuturepod</a>. For feedback and suggestions, drop Boz a message @boztank on <a href='https://www.instagram.com/boztank'>Instagram</a> or <a href='https://www.twitter.com/boztank'>Twitter</a>.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/a0errubkbbrpwcpv74mygoo8v1iy?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/9250864-the-future-of-digital-spaces-with-guest-ina-fried.mp3" length="34268250" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9250864</guid>
+    <pubDate>Fri, 24 Sep 2021 05:00:00 -0700</pubDate>
+    <itunes:duration>2848</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Wearables: With Guest Rocco Basilico</itunes:title>
+    <title>The Future of Wearables: With Guest Rocco Basilico</title>
+    <itunes:summary><![CDATA[In Episode 4 of Boz To The Future, Facebook Reality Labs VP Andrew 'Boz' Bosworth speaks with special guest and EssilorLuxottica Chief Wearables Officer Rocco Basilico to talk about the shared vision for the newly launched Ray-Ban Stories,  the intersection of fashion and technology, fashion's role in the metaverse, and how Facebook and EssilorLuxottica designed a pair of stylish smart glasses that will allow you to capture memories while staying present in the moment.  For more on ...]]></itunes:summary>
+    <description><![CDATA[<p>In Episode 4 of Boz To The Future, Facebook Reality Labs VP Andrew &apos;Boz&apos; Bosworth speaks with special guest and EssilorLuxottica Chief Wearables Officer Rocco Basilico to talk about the shared vision for the newly launched <a href='https://tech.fb.com/ray-ban-and-facebook-introduce-ray-ban-stories-first-generation-smart-glasses/'>Ray-Ban Stories</a>,  the intersection of fashion and technology, fashion&apos;s role in the metaverse, and how Facebook and EssilorLuxottica designed a pair of stylish smart glasses that will allow you to capture memories while staying present in the moment.<br/><br/>For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In Episode 4 of Boz To The Future, Facebook Reality Labs VP Andrew &apos;Boz&apos; Bosworth speaks with special guest and EssilorLuxottica Chief Wearables Officer Rocco Basilico to talk about the shared vision for the newly launched <a href='https://tech.fb.com/ray-ban-and-facebook-introduce-ray-ban-stories-first-generation-smart-glasses/'>Ray-Ban Stories</a>,  the intersection of fashion and technology, fashion&apos;s role in the metaverse, and how Facebook and EssilorLuxottica designed a pair of stylish smart glasses that will allow you to capture memories while staying present in the moment.<br/><br/>For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter.</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/zpgj4n9w10k5b1qkr3rlygb3ccc9?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/9170672-the-future-of-wearables-with-guest-rocco-basilico.mp3" length="26018004" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9170672</guid>
+    <pubDate>Fri, 10 Sep 2021 05:00:00 -0700</pubDate>
+    <itunes:duration>2160</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Content: With Guest Casey Newton</itunes:title>
+    <title>The Future of Content: With Guest Casey Newton</title>
+    <itunes:summary><![CDATA[In today’s episode of Boz To The Future, Facebook Reality Labs VP Andrew ‘Boz’ Bosworth speaks with Platformer founder and editor Casey Newton. In the first deep dive, they cover how content creation is shaping up with the traditional intermediaries, how greater mobility is leading to the collapse of local communities, and how virtualized communities can help. The second deep dive covers living spaces and how remote work could reshape our homes. ]]></itunes:summary>
+    <description><![CDATA[<p>In today’s episode of Boz To The Future, Facebook Reality Labs VP Andrew ‘Boz’ Bosworth speaks with Platformer founder and editor Casey Newton. In the first deep dive, they cover how content creation is shaping up with the traditional intermediaries, how greater mobility is leading to the collapse of local communities, and how virtualized communities can help. The second deep dive covers living spaces and how remote work could reshape our homes.</p>]]></description>
+    <content:encoded><![CDATA[<p>In today’s episode of Boz To The Future, Facebook Reality Labs VP Andrew ‘Boz’ Bosworth speaks with Platformer founder and editor Casey Newton. In the first deep dive, they cover how content creation is shaping up with the traditional intermediaries, how greater mobility is leading to the collapse of local communities, and how virtualized communities can help. The second deep dive covers living spaces and how remote work could reshape our homes.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/u31hc4f4m83el6xhr0e3xsh7k9kx?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/9102515-the-future-of-content-with-guest-casey-newton.mp3" length="36274980" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9102515</guid>
+    <pubDate>Mon, 30 Aug 2021 05:00:00 -0700</pubDate>
+    <itunes:duration>3015</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Communities: With Guest Fidji Simo</itunes:title>
+    <title>The Future of Communities: With Guest Fidji Simo</title>
+    <itunes:summary><![CDATA[In Episode 2 of Boz To The Future, Facebook Reality Labs VP Andrew 'Boz' Bosworth speaks with Instacart CEO and former head of the Facebook app Fidji Simo on the burgeoning creator economy and the important role communities play in it. Boz To The Future is an original podcast produced by Facebook Reality Labs. For more on the series, visit facebook.com/boztothefuturepod.  For feedback and suggestions, drop Boz a message @boztank on Instagram or Twitter.  ]]></itunes:summary>
+    <description><![CDATA[<p>In Episode 2 of Boz To The Future, Facebook Reality Labs VP Andrew &apos;Boz&apos; Bosworth speaks with Instacart CEO and former head of the Facebook app Fidji Simo on the burgeoning creator economy and the important role communities play in it.</p><p>Boz To The Future is an original podcast produced by Facebook Reality Labs. For more on the series, visit <a href='http://facebook.com/boztothefuturepod'>facebook.com/boztothefuturepod</a>.<br/><br/>For feedback and suggestions, drop Boz a message @boztank on <a href='http://instagram.com/boztank'>Instagram</a> or <a href='http://twitter.com/boztank'>Twitter</a>. </p>]]></description>
+    <content:encoded><![CDATA[<p>In Episode 2 of Boz To The Future, Facebook Reality Labs VP Andrew &apos;Boz&apos; Bosworth speaks with Instacart CEO and former head of the Facebook app Fidji Simo on the burgeoning creator economy and the important role communities play in it.</p><p>Boz To The Future is an original podcast produced by Facebook Reality Labs. For more on the series, visit <a href='http://facebook.com/boztothefuturepod'>facebook.com/boztothefuturepod</a>.<br/><br/>For feedback and suggestions, drop Boz a message @boztank on <a href='http://instagram.com/boztank'>Instagram</a> or <a href='http://twitter.com/boztank'>Twitter</a>. </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/vndpefpp4pqt4mrfpl6hzi69rqu1?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/8944313-the-future-of-communities-with-guest-fidji-simo.mp3" length="34568504" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8944313</guid>
+    <pubDate>Fri, 30 Jul 2021 05:00:00 -0700</pubDate>
+    <itunes:duration>2876</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Future of Connection: With Guest Rebecca Van Dyck</itunes:title>
+    <title>The Future of Connection: With Guest Rebecca Van Dyck</title>
+    <itunes:summary><![CDATA[Listen to Facebook Reality Labs VP Andrew "Boz" Bosworth and VP of Operations Rebecca Van Dyck talk about the excitement and challenges that go into building the next computing platform from the ground up in the first episode of Boz To The Future. Boz To The Future is an original podcast produced by Facebook Reality Labs. For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message  @boztank on Twitter or Instagram. ]]></itunes:summary>
+    <description><![CDATA[<p>Listen to Facebook Reality Labs VP Andrew &quot;Boz&quot; Bosworth and VP of Operations Rebecca Van Dyck talk about the excitement and challenges that go into building the next computing platform from the ground up in the first episode of Boz To The Future. Boz To The Future is an original podcast produced by Facebook Reality Labs. For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message  @boztank on Twitter or Instagram.</p>]]></description>
+    <content:encoded><![CDATA[<p>Listen to Facebook Reality Labs VP Andrew &quot;Boz&quot; Bosworth and VP of Operations Rebecca Van Dyck talk about the excitement and challenges that go into building the next computing platform from the ground up in the first episode of Boz To The Future. Boz To The Future is an original podcast produced by Facebook Reality Labs. For more on the series, visit facebook.com/boztothefuturepod. For feedback and suggestions, drop Boz a message  @boztank on Twitter or Instagram.</p>]]></content:encoded>
+    <link>https://www.facebook.com/boztothefuturepod</link>
+    <itunes:image href="https://storage.buzzsprout.com/3tp6n501zm6whzjgm3mfitycg6vo?.jpg" />
+    <itunes:author>Andrew Bosworth</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1801980/episodes/8753419-the-future-of-connection-with-guest-rebecca-van-dyck.mp3" length="36021928" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8753419</guid>
+    <pubDate>Fri, 25 Jun 2021 08:00:00 -0700</pubDate>
+    <itunes:duration>2993</itunes:duration>
+    <itunes:keywords>Facebook Reality Labs, augmented reality, virtual reality, technology</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

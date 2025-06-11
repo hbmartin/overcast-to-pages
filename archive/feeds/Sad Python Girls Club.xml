@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Sad Python Girls Club ]]></title>
+		<description><![CDATA[This podcast brings refreshing insights of the VS Code Python team, with authentic perspectives on the Python ecosystem and how VS Code fits in it, as seen from a software engineer view and a product manager lens.]]></description>
+		<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 10 Jun 2025 05:47:42 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/8f23717c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Sad Python Girls Club]]></author>
+		<copyright><![CDATA[Sad Python Girls Club]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Sad Python Girls Club</itunes:author>
+		<itunes:summary>This podcast brings refreshing insights of the VS Code Python team, with authentic perspectives on the Python ecosystem and how VS Code fits in it, as seen from a software engineer view and a product manager lens.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Sad Python Girls Club</itunes:name>
+			<itunes:email>sadpythongirlsclub@outlook.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+		<item>
+			<title><![CDATA[S2 Episode 6 - Denny Perez on her journey into the Python community]]></title>
+			<description><![CDATA[<p>🎙️ Welcome to the final episode of the Sad Python Girls Club Podcast for 2024! ✨</p>
+<p>In this special episode, we had the pleasure of speaking with Denny Perez, a Software QA Analyst and PSF Board Member. Denny shares her remarkable journey from the world of accounting to the realm of IT, and eventually into the Python community. Her story is one of transformation and inspiration, as she has become a trusted mentor for many aspiring contributors to a more diverse and inclusive Python ecosystem.</p>
+<p>We also discussed our favorite Python-related news from the past year, reflecting on the highlights and milestones that have shaped the community in 2024 -- make sure to tune in! 🎧</p>
+<p>Links and Resources:</p>
+<ul>
+ <li>Denny Perez @ GitHub: https://github.com/DennyPerez18</li>
+ <li>The Python Software Foundation (PSF): https://www.python.org/psf-landing/</li>
+  <li>Results from 2024 PSF elections: https://discuss.python.org/t/psf-board-election-proposed-bylaws-changes-results-announcement/58465</li>
+  <li>PyCon US: https://us.pycon.org/2025/</li>
+  <li>PyCon Charlas: https://us.pycon.org/2025/speaking/charlas/</li>
+  <li>PyCon Charlas contact e-mail: pyconcharlas@gmail.com</li>
+  <li>Pyladies Con 2024: https://conference.pyladies.com/</li>
+  <li>Octoverse: Python is the top language in GitHub: https://github.blog/news-insights/octoverse/octoverse-2024/</li>
+  <li>The Python Sofware Foundation receives the Wonderfully Welcoming Award from GitHub: https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html</li>
+  <li>Savannah Ostrowski is officially a Python Core Developer: https://discuss.python.org/t/vote-to-promote-savannah-ostrowski/70302</li>
+  <li>Someone like you by Adele: https://www.youtube.com/watch?v=hLQl3WQQoQ0</li>
+  <li>Corazón Multicolor by Luis Fonsi: https://www.youtube.com/watch?v=5c6T5kyR86g</li>
+  <li>Another sad love song by Toni Braxton: https://www.youtube.com/watch?v=2yQ0Fll_9pM</li>
+</ul>
+<p><br /></p>
+<p><br /></p>
+<p>Intro Song: Pastel</p>
+<p>Producer: Blue.P</p>
+<p>Music provided by LogSquare
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S2-Episode-6---Denny-Perez-on-her-journey-into-the-Python-community-e2rvn0p</link>
+			<guid isPermaLink="false">8005bac5-74f7-4f40-bd8c-8cf217b63155</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 06 Dec 2024 15:35:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/95459801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-6%2F3ac3b9be-72b1-b52b-6e27-6374da6ff3ae.mp3" length="25718650" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🎙️ Welcome to the final episode of the Sad Python Girls Club Podcast for 2024! ✨&lt;/p&gt;
+&lt;p&gt;In this special episode, we had the pleasure of speaking with Denny Perez, a Software QA Analyst and PSF Board Member. Denny shares her remarkable journey from the world of accounting to the realm of IT, and eventually into the Python community. Her story is one of transformation and inspiration, as she has become a trusted mentor for many aspiring contributors to a more diverse and inclusive Python ecosystem.&lt;/p&gt;
+&lt;p&gt;We also discussed our favorite Python-related news from the past year, reflecting on the highlights and milestones that have shaped the community in 2024 -- make sure to tune in! 🎧&lt;/p&gt;
+&lt;p&gt;Links and Resources:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Denny Perez @ GitHub: https://github.com/DennyPerez18&lt;/li&gt;
+ &lt;li&gt;The Python Software Foundation (PSF): https://www.python.org/psf-landing/&lt;/li&gt;
+  &lt;li&gt;Results from 2024 PSF elections: https://discuss.python.org/t/psf-board-election-proposed-bylaws-changes-results-announcement/58465&lt;/li&gt;
+  &lt;li&gt;PyCon US: https://us.pycon.org/2025/&lt;/li&gt;
+  &lt;li&gt;PyCon Charlas: https://us.pycon.org/2025/speaking/charlas/&lt;/li&gt;
+  &lt;li&gt;PyCon Charlas contact e-mail: pyconcharlas@gmail.com&lt;/li&gt;
+  &lt;li&gt;Pyladies Con 2024: https://conference.pyladies.com/&lt;/li&gt;
+  &lt;li&gt;Octoverse: Python is the top language in GitHub: https://github.blog/news-insights/octoverse/octoverse-2024/&lt;/li&gt;
+  &lt;li&gt;The Python Sofware Foundation receives the Wonderfully Welcoming Award from GitHub: https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html&lt;/li&gt;
+  &lt;li&gt;Savannah Ostrowski is officially a Python Core Developer: https://discuss.python.org/t/vote-to-promote-savannah-ostrowski/70302&lt;/li&gt;
+  &lt;li&gt;Someone like you by Adele: https://www.youtube.com/watch?v=hLQl3WQQoQ0&lt;/li&gt;
+  &lt;li&gt;Corazón Multicolor by Luis Fonsi: https://www.youtube.com/watch?v=5c6T5kyR86g&lt;/li&gt;
+  &lt;li&gt;Another sad love song by Toni Braxton: https://www.youtube.com/watch?v=2yQ0Fll_9pM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;/p&gt;
+&lt;p&gt;Producer: Blue.P&lt;/p&gt;
+&lt;p&gt;Music provided by LogSquare
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:30:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2 Episode 5 - Vinicius Stock on Ruby & Python: Beyond the Code]]></title>
+			<description><![CDATA[<p>If we ask you what the similarities between Ruby and Python are, it&#39;s likely that the answer will be they&#39;re both dynamically typed interpreted languages. But did you know there&#39;s a lot more than just that? 👀 In the 5th episode of season 2 of the Sad Python Girls Club podcast, Vinicius Stock, Staff Developer at Shopify, joins us to
+explore the similarities between Ruby and Python, extending beyond technical aspects to their vibrant communities ✨ </p>
+<p>Tune in to learn more about how Ruby support in VS Code works, and how it relates to
+our team’s efforts to support diverse scenarios for Python 🐍💎</p>
+<p><br></p>
+<p><strong>Links and Resources:</strong></p>
+<ul>
+ <li><a href="https://github.com/vinistock" target="_blank" rel="noopener noreferer">Vinicius Stock @ GitHub</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack" target="_blank" rel="noopener noreferer">VS Code Ruby extension</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp" target="_blank" rel="noopener noreferer">VS Code Ruby LSP extension</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=sorbet.sorbet-vscode-extension" target="_blank" rel="noopener noreferer">Ruby Sorbet (type checker) VS Code extension</a></li>
+ <li><a href="https://code.visualstudio.com/docs/languages/ruby" target="_blank" rel="noopener noreferer">VS Code Ruby documentation</a></li>
+ <li><a href="https://github.com/Shopify/ruby-lsp" target="_blank" rel="noopener noreferer">Ruby LSP repo</a></li>
+  <li><a href="https://github.com/Shopify/ruby-lsp/blob/main/DESIGN_AND_ROADMAP.md" target="_blank" rel="noopener noreferer">VS Code Ruby design and roadmap doc</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2024-release/#improved-python-discovery-using-python-environment-tools" target="_blank" rel="noopener noreferer">VS Code Python&#39;s new setting, &quot;python.locator&quot; which can be set to &quot;native&quot; or &quot;js&quot;</a></li>
+  <li><a href="https://www.youtube.com/watch?v=dpmAY059TTY" target="_blank" rel="noopener noreferer">Estranged by Guns N&#39; Roses</a></li>
+</ul>
+<p><br></p>
+<p>
+</p>
+<p>Intro Song: Pastel</p>
+<p>Producer: Blue.P</p>
+<p>Music provided by LogSquare</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S2-Episode-5---Vinicius-Stock-on-Ruby--Python-Beyond-the-Code-e2o3kl2</link>
+			<guid isPermaLink="false">c8807290-6aae-423d-9914-02a9d6f3217e</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 06 Sep 2024 23:00:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/91394146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-6%2F616db51c-c85d-8f76-89a4-5822c0d3ae97.mp3" length="27449995" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;If we ask you what the similarities between Ruby and Python are, it&amp;#39;s likely that the answer will be they&amp;#39;re both dynamically typed interpreted languages. But did you know there&amp;#39;s a lot more than just that? 👀 In the 5th episode of season 2 of the Sad Python Girls Club podcast, Vinicius Stock, Staff Developer at Shopify, joins us to
+explore the similarities between Ruby and Python, extending beyond technical aspects to their vibrant communities ✨ &lt;/p&gt;
+&lt;p&gt;Tune in to learn more about how Ruby support in VS Code works, and how it relates to
+our team’s efforts to support diverse scenarios for Python 🐍💎&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links and Resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/vinistock&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Vinicius Stock @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code Ruby extension&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code Ruby LSP extension&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=sorbet.sorbet-vscode-extension&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Ruby Sorbet (type checker) VS Code extension&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/languages/ruby&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code Ruby documentation&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Shopify/ruby-lsp&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Ruby LSP repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Shopify/ruby-lsp/blob/main/DESIGN_AND_ROADMAP.md&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code Ruby design and roadmap doc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2024-release/#improved-python-discovery-using-python-environment-tools&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code Python&amp;#39;s new setting, &amp;quot;python.locator&amp;quot; which can be set to &amp;quot;native&amp;quot; or &amp;quot;js&amp;quot;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dpmAY059TTY&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Estranged by Guns N&amp;#39; Roses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;/p&gt;
+&lt;p&gt;Producer: Blue.P&lt;/p&gt;
+&lt;p&gt;Music provided by LogSquare&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:30:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2 Episode 4 - Charlie Marsh on Astral tools ]]></title>
+			<description><![CDATA[<p>We are over the moon 🌜 to announce a new episode of the Sad Python Girls Club Podcast! 🎉 This time, our co-hosts Dawn Wages and Luciana Abud are joined by Karthik Nadig, Senior Software Engineer at Microsoft. And, as a special guest, we have Charlie Marsh, Founder of Astral and the mind behind the popular Python tools Ruff and uv. 🐍✨ </p>
+<p>In this exciting episode, we dove into the backstory and motivation behind Charlie&#39;s creation of Ruff and how
+that paved the way for Astral. We explore the inner workings of his team and how they manage their awesome tools, and we get an exclusive sneak peek into
+their future plans. 🚀</p>
+<p>It&#39;s a super fun episode featuring tech insights and open source learnings, so make sure you don&#39;t miss it!  </p>
+<p><br></p>
+<p><strong>Links and Resources</strong></p>
+<ul>
+ <li><a href="https://github.com/charliermarsh" target="_blank" rel="noopener noreferer">Charlie Marsh @ GitHub</a></li>
+ <li><a href="https://podcasters.spotify.com/pod/dashboard/episode/e1jkop6" target="_blank" rel="noopener noreferer">SPGC&#39;s S1 Episode 3 - Karthik Nadig </a></li>
+ <li><a href="https://astral.sh/blog/announcing-astral-the-company-behind-ruff" target="_blank" rel="noopener noreferer">Astral announcement </a></li>
+ <li><a href="https://astral.sh/" target="_blank" rel="noopener noreferer">Astral.sh</a></li>
+ <li><a href="https://astral.sh/ruff" target="_blank" rel="noopener noreferer">Ruff: An extremely fast Python linter, written in Rust</a></li>
+ <li><a href="https://astral.sh/uv" target="_blank" rel="noopener noreferer">uv: An extremely fast Python package installer and resolver, written in Rust</a></li>
+ <li><a href="https://rye.astral.sh/" target="_blank" rel="noopener noreferer">Rye: a Hassle-Free Python Experience</a></li>
+ <li><a href="https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/" target="_blank" rel="noopener noreferer">&quot;Rye grows with uv&quot; blog post</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff" target="_blank" rel="noopener noreferer">VS Code Ruff extension</a></li>
+  <li><a href="https://astral.sh/blog/ruff-v0.4.5" target="_blank" rel="noopener noreferer">Ruff language server announcement</a></li>
+  <li><a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferer">GitHub Copilot</a></li>
+  <li><a href="https://www.youtube.com/watch?v=TWcyIpul8OE" target="_blank" rel="noopener noreferer">Holocene by Bon Iver</a></li>
+</ul>
+<ul>
+<p>
+</p>
+<p><br></p>
+</ul>
+<p>Intro Song: Pastel</p>
+<p>Producer: Blue.P</p>
+<p>Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S2-Episode-4---Charlie-Marsh-on-Astral-tools-e2moldc</link>
+			<guid isPermaLink="false">47548775-f0ce-40de-bf9c-c25c8aa80876</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 02 Aug 2024 17:57:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/89985900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-2%2F949117bd-419d-d9ca-161b-efb1ca78054d.mp3" length="47486542" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;We are over the moon 🌜 to announce a new episode of the Sad Python Girls Club Podcast! 🎉 This time, our co-hosts Dawn Wages and Luciana Abud are joined by Karthik Nadig, Senior Software Engineer at Microsoft. And, as a special guest, we have Charlie Marsh, Founder of Astral and the mind behind the popular Python tools Ruff and uv. 🐍✨ &lt;/p&gt;
+&lt;p&gt;In this exciting episode, we dove into the backstory and motivation behind Charlie&amp;#39;s creation of Ruff and how
+that paved the way for Astral. We explore the inner workings of his team and how they manage their awesome tools, and we get an exclusive sneak peek into
+their future plans. 🚀&lt;/p&gt;
+&lt;p&gt;It&amp;#39;s a super fun episode featuring tech insights and open source learnings, so make sure you don&amp;#39;t miss it!  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links and Resources&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/charliermarsh&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Charlie Marsh @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://podcasters.spotify.com/pod/dashboard/episode/e1jkop6&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;SPGC&amp;#39;s S1 Episode 3 - Karthik Nadig &lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://astral.sh/blog/announcing-astral-the-company-behind-ruff&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Astral announcement &lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://astral.sh/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Astral.sh&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://astral.sh/ruff&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Ruff: An extremely fast Python linter, written in Rust&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://astral.sh/uv&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;uv: An extremely fast Python package installer and resolver, written in Rust&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://rye.astral.sh/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Rye: a Hassle-Free Python Experience&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;&amp;quot;Rye grows with uv&amp;quot; blog post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code Ruff extension&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://astral.sh/blog/ruff-v0.4.5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Ruff language server announcement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/features/copilot&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;GitHub Copilot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TWcyIpul8OE&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Holocene by Bon Iver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;Intro Song: Pastel&lt;/p&gt;
+&lt;p&gt;Producer: Blue.P&lt;/p&gt;
+&lt;p&gt;Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:45</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2 Episode 3 - Courtney Webster on being a PM for Python in VS Code]]></title>
+			<description><![CDATA[<p>
+This is the 3rd episode of season 2 of the Sad Python Girls Club Podcast, and we couldn&#39;t be more excited about it! 🥳 We had an awesome chat with Courtney Webster, Product Manager II at Microsoft working on the Python development support in Visual Studio Code and Visual Studio 🐍. She’s also the esteemed author behind our monthly release blog posts for the Python extension in VS Code 📰. Dive in with us as we learn about Courtney’s contributions to the Python community, her work to streamline the &quot;getting started&quot; experience for Python in VS Code, her efforts in package management support and educational initiatives, as well her approach to experimentation 🧪 and data-driven development 📈. </p>
+<p><br><strong>Links and Resources</strong></p>
+<ul>
+ <li><a href="https://github.com/cwebster-99" target="_blank" rel="noopener noreferer">Courtney Webster @ GitHub</a> </li>
+ <li><a href="https://devblogs.microsoft.com/python/" target="_blank" rel="noopener noreferer">Python extension for VS Code blog posts &amp; release notes</a></li>
+  <li><a href="https://visualstudio.microsoft.com/vs/features/python/" target="_blank" rel="noopener noreferer">Python in Visual Studio</a></li>
+  <li><a href="https://privacy.microsoft.com/privacystatement" target="_blank" rel="noopener noreferer">Microsoft&#39;s Privacy Statement</a></li>
+  <li><a href="https://code.visualstudio.com/docs/getstarted/telemetry#_disable-telemetry-reporting" target="_blank" rel="noopener noreferer">How to disable telemetry in VS Code &amp; extensions</a></li>
+  <li><a href="https://www.microsoft.com/research/group/experimentation-platform-exp" target="_blank" rel="noopener noreferer">Microsoft&#39;s Experimentation Platform</a></li>
+  <li><a href="https://github.com/microsoft/tas-client" target="_blank" rel="noopener noreferer">VS Code experimentation client</a></li>
+  <li><a href="https://github.com/microsoft/vscode-python/wiki/AB-Experiments" target="_blank" rel="noopener noreferer">How to opt in, opt out or disable Python extension experiments</a></li>
+  <li><a href="https://discuss.python.org/t/a-look-into-workflow-tools-package-management-in-the-python-extension-for-vs-code/29632" target="_blank" rel="noopener noreferer">A look into workflow tools - package management in the Python extension for VS Code, by Courtney Webster @ discuss.python.org</a></li>
+  <li><a href="https://peps.python.org/pep-0722/" target="_blank" rel="noopener noreferer">PEP 722 - Dependency specification for single-file scripts  [rejected]</a></li>
+  <li><a href="https://peps.python.org/pep-0723/" target="_blank" rel="noopener noreferer">PEP 723 - Inline Script Metadata [accepted]</a></li>
+  <li><a href="https://discuss.python.org/t/pep-722-and-pep-723-user-study-discussion/34871" target="_blank" rel="noopener noreferer">PEP 722 and PEP 723 User Study Discussion by Courtney Webster @ discuss.python.org</a></li>
+  <li><a href="https://code.visualstudio.com/docs/python/environments#_using-the-create-environment-command" target="_blank" rel="noopener noreferer">Python extension&#39;s Create Environment command</a></li>
+  <li><a href="https://code.visualstudio.com/docs/python/python-quick-start" target="_blank" rel="noopener noreferer">Quick Start Guide for Python in VS Code</a></li>
+  <li><a href="https://learn.microsoft.com/" target="_blank" rel="noopener noreferer">Microsoft Learn</a></li>
+  <li><a href="https://learn.microsoft.com/search/?terms=python&category=Training⁠" target="_blank" rel="noopener noreferer">Python Trainings @ Microsoft Learn</a></li>
+  <li><a href="https://us.pycon.org/2024/" target="_blank" rel="noopener noreferer">PyCon US 2024</a></li>
+  <li><a href="https://djangocon.us/" target="_blank" rel="noopener noreferer">DjancoCon US</a></li>
+  <li><a href="https://2024.djangocon.eu/" target="_blank" rel="noopener noreferer">DjangoCon Europe 2024</a></li>
+  <li><a href="https://ep2024.europython.eu/" target="_blank" rel="noopener noreferer">EuroPython 2024</a> </li>
+  <li><a href="https://www.scipy2024.scipy.org/" target="_blank" rel="noopener noreferer">SciPy 2024</a></li>
+  <li><a href="https://www.euroscipy.org/2024/program" target="_blank" rel="noopener noreferer">CFP: EuroScipy 2024 (Poland), open until May 26th, 2024</a></li>
+  <li><a href="https://in.pycon.org/cfp/2024/proposals/" target="_blank" rel="noopener noreferer">CFP: PyCon India 2024, open until May 31st, 2024</a></li>
+  <li><a href="https://cfp.pycon.fr/pyconfr-2024/cfp" target="_blank" rel="noopener noreferer">CFP: PyCon France 2024, open until July 21st, 2024</a></li>
+  <li><a href="https://2024-apac.pycon.id/" target="_blank" rel="noopener noreferer">CFP: PyCon APAC 2024 (Indonesia), open until August 1st, 2024</a></li>
+  <li><a href="https://www.youtube.com/watch?v=bPYefBD1Rzs" target="_blank" rel="noopener noreferer">What a Time by Julia Michaels ft. Niall Horan</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p>
+Intro Song: Pastel</p>
+<p>Producer: Blue.P</p>
+<p>Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S2-Episode-3---Courtney-Webster-on-being-a-PM-for-Python-in-VS-Code-e2j7eoo</link>
+			<guid isPermaLink="false">9718e78d-bccf-4260-ae37-c238b1d1caf6</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 03 May 2024 18:17:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/86276312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-3%2F4ffb7370-c42c-7705-aa99-73bd091f5632.mp3" length="36207010" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;
+This is the 3rd episode of season 2 of the Sad Python Girls Club Podcast, and we couldn&amp;#39;t be more excited about it! 🥳 We had an awesome chat with Courtney Webster, Product Manager II at Microsoft working on the Python development support in Visual Studio Code and Visual Studio 🐍. She’s also the esteemed author behind our monthly release blog posts for the Python extension in VS Code 📰. Dive in with us as we learn about Courtney’s contributions to the Python community, her work to streamline the &amp;quot;getting started&amp;quot; experience for Python in VS Code, her efforts in package management support and educational initiatives, as well her approach to experimentation 🧪 and data-driven development 📈. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;strong&gt;Links and Resources&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/cwebster-99&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Courtney Webster @ GitHub&lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python extension for VS Code blog posts &amp;amp; release notes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://visualstudio.microsoft.com/vs/features/python/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python in Visual Studio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://privacy.microsoft.com/privacystatement&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Microsoft&amp;#39;s Privacy Statement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/getstarted/telemetry#_disable-telemetry-reporting&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;How to disable telemetry in VS Code &amp;amp; extensions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/research/group/experimentation-platform-exp&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Microsoft&amp;#39;s Experimentation Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/tas-client&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code experimentation client&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/vscode-python/wiki/AB-Experiments&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;How to opt in, opt out or disable Python extension experiments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discuss.python.org/t/a-look-into-workflow-tools-package-management-in-the-python-extension-for-vs-code/29632&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;A look into workflow tools - package management in the Python extension for VS Code, by Courtney Webster @ discuss.python.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peps.python.org/pep-0722/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PEP 722 - Dependency specification for single-file scripts  [rejected]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peps.python.org/pep-0723/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PEP 723 - Inline Script Metadata [accepted]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discuss.python.org/t/pep-722-and-pep-723-user-study-discussion/34871&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PEP 722 and PEP 723 User Study Discussion by Courtney Webster @ discuss.python.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/python/environments#_using-the-create-environment-command&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python extension&amp;#39;s Create Environment command&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/python/python-quick-start&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Quick Start Guide for Python in VS Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learn.microsoft.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learn.microsoft.com/search/?terms=python&amp;category=Training⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python Trainings @ Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://us.pycon.org/2024/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PyCon US 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://djangocon.us/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;DjancoCon US&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2024.djangocon.eu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;DjangoCon Europe 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ep2024.europython.eu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;EuroPython 2024&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scipy2024.scipy.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;SciPy 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.euroscipy.org/2024/program&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;CFP: EuroScipy 2024 (Poland), open until May 26th, 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://in.pycon.org/cfp/2024/proposals/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;CFP: PyCon India 2024, open until May 31st, 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cfp.pycon.fr/pyconfr-2024/cfp&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;CFP: PyCon France 2024, open until July 21st, 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2024-apac.pycon.id/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;CFP: PyCon APAC 2024 (Indonesia), open until August 1st, 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=bPYefBD1Rzs&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;What a Time by Julia Michaels ft. Niall Horan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Intro Song: Pastel&lt;/p&gt;
+&lt;p&gt;Producer: Blue.P&lt;/p&gt;
+&lt;p&gt;Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:38:39</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2 Episode 2 - Eleanor Boyd on Python Testing in VS Code]]></title>
+			<description><![CDATA[<p>
+Welcome to episode 2 of the second season of the Sad Python Girls Club Podcast! This time we had the pleasure to chat with Eleanor Boyd, Software Engineer at Microsoft, about her work on improving testing support for Python in VS Code 🧪🐍</p>
+<p>Join us for an episode full of geeky tech talk 🤓 as we peel back the curtain on a major refactoring mission that is enabling the development of new testing features to come (😉😉 Django folks).</p>
+<p><br></p>
+<p><strong>Links and resources:</strong></p>
+<ul>
+ <li><a href="https://github.com/eleanorjboyd" target="_blank" rel="noopener noreferer">Eleanor Boyd @ GitHub</a></li>
+ <li><a href="https://docs.pytest.org/en/8.0.x/" target="_blank" rel="noopener noreferer">pytest</a></li>
+  <li><a href="https://docs.pytest.org/en/4.6.x/writing_plugins.html" target="_blank" rel="noopener noreferer">Pytest plugins</a></li>
+  <li><a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noopener noreferer">unittest</a></li>
+  <li><a href="https://github.com/pypa/packaging" target="_blank" rel="noopener noreferer">Python Packaging repository</a></li>
+  <li><a href="https://github.com/microsoft/vscode-python/issues/73" target="_blank" rel="noopener noreferer">Feature request @ vscode-python to support Django unittests</a> (from November 2017)</li>
+  <li><a href="https://coverage.readthedocs.io/en/7.4.1/" target="_blank" rel="noopener noreferer">Coverage.py</a></li>
+  <li><a href="https://github.com/microsoft/vscode/issues/123713" target="_blank" rel="noopener noreferer">VS Code&#39;s Test Coverage API proposal</a></li>
+  <li><a href="https://code.visualstudio.com/docs/python/testing" target="_blank" rel="noopener noreferer">Python testing in VS Code documentation</a></li>
+  <li><a href="https://podcast.pythontest.com/episodes/214-python-testing-in-vs-code" target="_blank" rel="noopener noreferer">Episode 214 of the Python Test podcast</a>, featuring Eleanor Boyd and Courtney Webster talking about their work on rolling out the changes on testing support for Python in VS Code.</li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p>
+Intro Song: Pastel</p>
+<p>Producer: Blue.P</p>
+<p>Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S2-Episode-2---Eleanor-Boyd-on-Python-Testing-in-VS-Code-e2fsq3k</link>
+			<guid isPermaLink="false">db775267-4d7f-4040-8bde-a7247394a55d</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 16 Feb 2024 22:11:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/82781748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-16%2F1bf3ce80-1fa3-09a6-b425-27f6b43e9b70.mp3" length="26839945" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;
+Welcome to episode 2 of the second season of the Sad Python Girls Club Podcast! This time we had the pleasure to chat with Eleanor Boyd, Software Engineer at Microsoft, about her work on improving testing support for Python in VS Code 🧪🐍&lt;/p&gt;
+&lt;p&gt;Join us for an episode full of geeky tech talk 🤓 as we peel back the curtain on a major refactoring mission that is enabling the development of new testing features to come (😉😉 Django folks).&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links and resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eleanorjboyd&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Eleanor Boyd @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://docs.pytest.org/en/8.0.x/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;pytest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.pytest.org/en/4.6.x/writing_plugins.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Pytest plugins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/library/unittest.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;unittest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pypa/packaging&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python Packaging repository&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/vscode-python/issues/73&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Feature request @ vscode-python to support Django unittests&lt;/a&gt; (from November 2017)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coverage.readthedocs.io/en/7.4.1/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Coverage.py&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/vscode/issues/123713&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code&amp;#39;s Test Coverage API proposal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/python/testing&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python testing in VS Code documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podcast.pythontest.com/episodes/214-python-testing-in-vs-code&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Episode 214 of the Python Test podcast&lt;/a&gt;, featuring Eleanor Boyd and Courtney Webster talking about their work on rolling out the changes on testing support for Python in VS Code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Intro Song: Pastel&lt;/p&gt;
+&lt;p&gt;Producer: Blue.P&lt;/p&gt;
+&lt;p&gt;Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:29:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2 Episode 1 - New Year, New Season! 🎉]]></title>
+			<description><![CDATA[<p>
+We&#39;re ✨ thrilled ✨ to back with another episode of the Sad Python Girls Club Podcast! &quot;New Year, New Season&quot; is a celebratory episode marking the beginning of Season 2 of our podcast, this time hosted by Luciana Abud and Dawn Wages. In this episode, we look back at some of the amazing things that happened in 2023 in the Python community 🐍 as well in our teams here at Microsoft (featuring a yearly review on the Python updates for VS Code!). So grab your favorite ice cream 🍦, put on your headphones 🎧 and join us for an episode full of highlights and hopes for an even better 2024 🚀</p>
+<p><br></p>
+<p><strong>Links &amp; resources:</strong></p>
+<ul>
+ <li><a href="https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-12---Dawn-Wages-e1sbv28⁠" target="_blank" rel="noopener noreferer">S1 Episode 12 of the Sad Python Girls Club podcast with Dawn Wages</a></li>
+ <li><a href="https://docs.python.org/3/whatsnew/3.12.html" target="_blank" rel="noopener noreferer">Python 3.12 updates</a></li>
+  <li><a href="https://peps.python.org/pep-0602" target="_blank" rel="noopener noreferer">PEP 602 - annual release cycle for Python</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/announcing-python-pulse" target="_blank" rel="noopener noreferer">The Python Pulse, happening every second Friday of every month, at 11am PST</a></li>
+  <li><a href="https://www.youtube.com/@code" target="_blank" rel="noopener noreferer">VS Code Channel on YouTube</a></li>
+  <li><a href="https://www.youtube.com/watch?v=lxheR6p1u0A" target="_blank" rel="noopener noreferer">Meet the Python for VS Code team at the Python Pulse</a></li>
+  <li><a href="https://github.blog/2023-11-09-celebrating-the-github-awards-2023-recipients/#wonderfully-welcoming-award" target="_blank" rel="noopener noreferer">Wonderfully Welcoming Award from GitHub to the PSF</a></li>
+  <li><a href="https://pythonpeople.fm" target="_blank" rel="noopener noreferer">Python People podcast</a></li>
+  <li><a href="https://pythonpeople.fm/episodes/brett-cannon" target="_blank" rel="noopener noreferer">Brett Cannon at the Python People podcast</a></li>
+  <li><a href="https://pythonpeople.fm/episodes/mariatta-wijaya" target="_blank" rel="noopener noreferer">Mariatta Wijaya at the Python People podcast</a></li>
+  <li><a href="https://pypodcats.live/episodes" target="_blank" rel="noopener noreferer">Hidden Figures of Python podcast by the Podcats team</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-june-2023-release/#test-discovery-and-execution-rewrite" target="_blank" rel="noopener noreferer">Test discovery and execution rewrite update in VS Code</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2023-release/#automatic-conversion-of-f-strings-with-pylance" target="_blank" rel="noopener noreferer">Automatic conversion of f-strings with Pylance</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2023-release/#automatic-conversion-of-f-strings-with-pylance" target="_blank" rel="noopener noreferer">Code navigation on strings that contain module names with Pylance</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2023-release/#move-symbol-refactoring#move-symbol-refactoring#move-symbol-refactoring" target="_blank" rel="noopener noreferer">Move symbol refactoring with Pylance</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2023-release/#show-type-hierarchy-with-pylance" target="_blank" rel="noopener noreferer">Show Type Hierarchy with Pylance</a></li>
+  <li><a href="https://github.com/microsoft/vscode-python/wiki/Migration-to-Python-Tools-Extensions" target="_blank" rel="noopener noreferer">Migrating Python tools to VS Code extensions</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/data-wrangler-release" target="_blank" rel="noopener noreferer">Data Wrangler extension for VS Code</a></li>
+  <li><a href="https://developer.microsoft.com/python" target="_blank" rel="noopener noreferer">Aka.ms/Python: the new Python at Microsoft website</a></li>
+  <li><a href="https://www.microsoft.com/microsoft-365/python-in-excel" target="_blank" rel="noopener noreferer">Python in Excel</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot" target="_blank" rel="noopener noreferer">GitHub Copilot extension for VS Code</a></li>
+  <li><a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank" rel="noopener noreferer">Azure OpenAI Service</a></li>
+  <li><a href="https://2024.pycascades.com/" target="_blank" rel="noopener noreferer">PyCascades 2024</a></li>
+  <li><a href="https://us.pycon.org/2024" target="_blank" rel="noopener noreferer">PyCon US 2024</a></li>
+  <li><a href="https://2024.djangocon.us" target="_blank" rel="noopener noreferer">DjangoCon US 2024</a></li>
+  <li><a href="https://www.youtube.com/watch?v=wKhRnZZ0cJI" target="_blank" rel="noopener noreferer">The Christmas Song by Nat King Cole</a></li>
+  <li><a href="https://www.youtube.com/watch?v=cnKQN7TF4hQ" target="_blank" rel="noopener noreferer">Home by Stephanie Mills</a></li>
+</ul>
+<p><br></p>
+<p>
+
+Intro Song: Pastel</p>
+<p>Producer: Blue.P</p>
+<p>Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S2-Episode-1---New-Year--New-Season-e2eb1ft</link>
+			<guid isPermaLink="false">6558aece-6eb8-4e9b-ab01-822d21079bbb</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 12 Jan 2024 18:10:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/81150909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-12%2F1cfd753d-d20c-1d14-0c17-79fc583ad56b.mp3" length="21765312" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;
+We&amp;#39;re ✨ thrilled ✨ to back with another episode of the Sad Python Girls Club Podcast! &amp;quot;New Year, New Season&amp;quot; is a celebratory episode marking the beginning of Season 2 of our podcast, this time hosted by Luciana Abud and Dawn Wages. In this episode, we look back at some of the amazing things that happened in 2023 in the Python community 🐍 as well in our teams here at Microsoft (featuring a yearly review on the Python updates for VS Code!). So grab your favorite ice cream 🍦, put on your headphones 🎧 and join us for an episode full of highlights and hopes for an even better 2024 🚀&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links &amp;amp; resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-12---Dawn-Wages-e1sbv28⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;S1 Episode 12 of the Sad Python Girls Club podcast with Dawn Wages&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/whatsnew/3.12.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python 3.12 updates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peps.python.org/pep-0602&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PEP 602 - annual release cycle for Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/announcing-python-pulse&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;The Python Pulse, happening every second Friday of every month, at 11am PST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@code&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code Channel on YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lxheR6p1u0A&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Meet the Python for VS Code team at the Python Pulse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.blog/2023-11-09-celebrating-the-github-awards-2023-recipients/#wonderfully-welcoming-award&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Wonderfully Welcoming Award from GitHub to the PSF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pythonpeople.fm&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python People podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pythonpeople.fm/episodes/brett-cannon&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Brett Cannon at the Python People podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pythonpeople.fm/episodes/mariatta-wijaya&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Mariatta Wijaya at the Python People podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pypodcats.live/episodes&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Hidden Figures of Python podcast by the Podcats team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-june-2023-release/#test-discovery-and-execution-rewrite&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Test discovery and execution rewrite update in VS Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2023-release/#automatic-conversion-of-f-strings-with-pylance&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Automatic conversion of f-strings with Pylance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2023-release/#automatic-conversion-of-f-strings-with-pylance&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Code navigation on strings that contain module names with Pylance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2023-release/#move-symbol-refactoring#move-symbol-refactoring#move-symbol-refactoring&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Move symbol refactoring with Pylance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2023-release/#show-type-hierarchy-with-pylance&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Show Type Hierarchy with Pylance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/vscode-python/wiki/Migration-to-Python-Tools-Extensions&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Migrating Python tools to VS Code extensions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/data-wrangler-release&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Data Wrangler extension for VS Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.microsoft.com/python&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Aka.ms/Python: the new Python at Microsoft website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/microsoft-365/python-in-excel&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python in Excel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;GitHub Copilot extension for VS Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/products/ai-services/openai-service&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Azure OpenAI Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2024.pycascades.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PyCascades 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://us.pycon.org/2024&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PyCon US 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2024.djangocon.us&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;DjangoCon US 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wKhRnZZ0cJI&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;The Christmas Song by Nat King Cole&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=cnKQN7TF4hQ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Home by Stephanie Mills&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+
+Intro Song: Pastel&lt;/p&gt;
+&lt;p&gt;Producer: Blue.P&lt;/p&gt;
+&lt;p&gt;Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:25:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 19 - Jay Miller]]></title>
+			<description><![CDATA[<p>Get ready to be captivated by one of the most inspiring episodes of the Sad Python Girls Club podcast, featuring the incredible Jay Miller! Join us as we delve into Jay&#39;s Python journey, starting with attempts to &quot;pythonize&quot; their way out of a job to their unwavering dedication to the vibrant Python community 🐍. Tune in for an episode full of Python, productivity and music talk 🎶 and discover the incredible work Jay and other passionate folks have been doing to enhance representation of Black and People of Color in our beloved Python Community, featuring some invaluable advice on how we can all become better allies and foster an inclusive and welcoming space to all 🤗🌈 </p>
+<p><br></p>
+<p>Links and resources:</p>
+<ul>
+ <li><a href="https://github.com/kjaymiller⁠" target="_blank" rel="noopener noreferer">Jay Miller @ GitHub</a></li>
+ <li><a href="https://www.youtube.com/@pycommunitynews" target="_blank" rel="noopener noreferer">Python Community News</a></li>
+ <li><a href="https://kjaymiller.com/conduit/conduit⁠" target="_blank" rel="noopener noreferer">Conduit podcast</a></li>
+ <li><a href="https://www.youtube.com/@KJayMiller/shorts⁠" target="_blank" rel="noopener noreferer">Jay Miller&#39;s YouTube shorts</a> </li>
+ <li><a href="⁠https://github.com/stars/kjaymiller/lists/conference-talks⁠" target="_blank" rel="noopener noreferer">Jay Milller&#39;s previous conference talks</a></li>
+ <li><a href=" ⁠https://www.sandiegopython.org/" target="_blank" rel="noopener noreferer">San Diego Python Group</a></li>
+  <li><a href=" ⁠https://www.youtube.com/watch?v=p5mg1KEVYsI" target="_blank" rel="noopener noreferer">Melanie Arbor and Jay Miller&#39;s Keynote @ DjangoCon US 2022</a></li>
+  <li><a href=" ⁠https://pyladies.com/" target="_blank" rel="noopener noreferer">Pyladies</a></li>
+  <li><a href=" ⁠https://twitter.com/pyconafrica⁠" target="_blank" rel="noopener noreferer">PyCon Africa</a></li>
+  <li><a href="https://afropython.org/⁠" target="_blank" rel="noopener noreferer">AfroPython</a></li>
+  <li><a href="https://www.youtube.com/watch?v=6JHu3b-pbh8" target="_blank" rel="noopener noreferer">Thinking bout you by Frank Ocean</a></li>
+  <li><a href="https://www.youtube.com/watch?v=6Ux6SlOE9Qk⁠" target="_blank" rel="noopener noreferer">Face Down by The Red Jumpsuit Apparatus</a></li>
+<p><br></p>
+</ul>
+<p><br></p>
+<p>
+Intro Song: Pastel<br>Producer: Blue.P<br>Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-19---Jay-Miller-e262fek</link>
+			<guid isPermaLink="false">85ffff97-1a8f-460e-b2d4-51091b545260</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 23 Jun 2023 16:54:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/72481684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-22%2F70acf17f-c24c-e625-ab72-8514a09ebc2d.mp3" length="49878706" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Get ready to be captivated by one of the most inspiring episodes of the Sad Python Girls Club podcast, featuring the incredible Jay Miller! Join us as we delve into Jay&amp;#39;s Python journey, starting with attempts to &amp;quot;pythonize&amp;quot; their way out of a job to their unwavering dedication to the vibrant Python community 🐍. Tune in for an episode full of Python, productivity and music talk 🎶 and discover the incredible work Jay and other passionate folks have been doing to enhance representation of Black and People of Color in our beloved Python Community, featuring some invaluable advice on how we can all become better allies and foster an inclusive and welcoming space to all 🤗🌈 &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Links and resources:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kjaymiller⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Jay Miller @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@pycommunitynews&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python Community News&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://kjaymiller.com/conduit/conduit⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Conduit podcast&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@KJayMiller/shorts⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Jay Miller&amp;#39;s YouTube shorts&lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;⁠https://github.com/stars/kjaymiller/lists/conference-talks⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Jay Milller&amp;#39;s previous conference talks&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot; ⁠https://www.sandiegopython.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;San Diego Python Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot; ⁠https://www.youtube.com/watch?v=p5mg1KEVYsI&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Melanie Arbor and Jay Miller&amp;#39;s Keynote @ DjangoCon US 2022&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot; ⁠https://pyladies.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Pyladies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot; ⁠https://twitter.com/pyconafrica⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PyCon Africa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://afropython.org/⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;AfroPython&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6JHu3b-pbh8&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Thinking bout you by Frank Ocean&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6Ux6SlOE9Qk⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Face Down by The Red Jumpsuit Apparatus&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Intro Song: Pastel&lt;br&gt;Producer: Blue.P&lt;br&gt;Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:38:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 18 - 1 Year Anniversary 🥳]]></title>
+			<description><![CDATA[<p>Can you believe it&#39;s already the first podcastversary of the Sad Python Girls Club? Neither can we! 🎂 Thank you again for listening to the podcast (and reading this description), let&#39;s get ready for another year of ice cream suggestions and emo songs! 🎶</p>
+<p><br>In this episode we discuss whether AI tools can be considered mainstream or not, the Copilot X conversational feature in VS Code, and what&#39;s on the horizon for Copilot.  🔮</p>
+<p><br>We also talk about the roadmap for the Python extension, and how the modular extension strategy fits into VS Code&#39;s vision of a snappy experience. </p>
+<p><br>Links and resources:</p>
+<ul>
+ <li><a href="https://github.com/features/preview/copilot-x⁠" target="_blank" rel="noopener noreferer">GitHub Copilot X, the umbrella of Copilot technical previews that includes ChatGPT support in VS Code</a></li>
+ <li><a href="https://replit.com/site/ghostwriter" target="_blank" rel="noopener noreferer">Replit Ghostwriter</a></li>
+ <li><a href="https://aws.amazon.com/codewhisperer/⁠" target="_blank" rel="noopener noreferer">Amazon CodeWhisperer</a></li>
+ <li><a href="https://bard.google.com/⁠" target="_blank" rel="noopener noreferer">Google Bard</a></li>
+ <li><a href="https://killedbygoogle.com/⁠" target="_blank" rel="noopener noreferer">Google Graveyard - Killed by Google</a></li>
+ <li><a href="https://zed.dev/⁠" target="_blank" rel="noopener noreferer">Zed</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets⁠" target="_blank" rel="noopener noreferer">VS Code pets extension</a></li>
+  <li><a href="https://github.com/microsoft/vscode-python/issues?q=is%3Aissue+iteration+label%3Aiteration-plan+" target="_blank" rel="noopener noreferer">Python extension&#39;s current &amp; previous iteration plans</a></li>
+  <li><a href="https://code.visualstudio.com/api/advanced-topics/python-extension-template⁠" target="_blank" rel="noopener noreferer">Python tools extension template</a></li>
+  <li><a href="https://youtu.be/NGFSNE18Ywc⁠" target="_blank" rel="noopener noreferer">Nobody&#39;s Home by Avril Lavigne</a></li>
+  <li><a href="https://youtu.be/6bAPlojfgO0⁠" target="_blank" rel="noopener noreferer">Pity Party by Melanie Martinez</a></li>
+</ul>
+<p><br></p>
+<p>
+Intro Song: Pastel<br>Producer: Blue.P<br>Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-18---1-Year-Anniversary-e23gmdl</link>
+			<guid isPermaLink="false">b7b374eb-8c3c-4e87-a87e-522cd750c5db</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 05 May 2023 17:05:28 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/69801845/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-4%2Fac4406cc-0eff-e186-e7fd-e023e8b4565e.mp3" length="15064677" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Can you believe it&amp;#39;s already the first podcastversary of the Sad Python Girls Club? Neither can we! 🎂 Thank you again for listening to the podcast (and reading this description), let&amp;#39;s get ready for another year of ice cream suggestions and emo songs! 🎶&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;In this episode we discuss whether AI tools can be considered mainstream or not, the Copilot X conversational feature in VS Code, and what&amp;#39;s on the horizon for Copilot.  🔮&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;We also talk about the roadmap for the Python extension, and how the modular extension strategy fits into VS Code&amp;#39;s vision of a snappy experience. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Links and resources:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/features/preview/copilot-x⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;GitHub Copilot X, the umbrella of Copilot technical previews that includes ChatGPT support in VS Code&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://replit.com/site/ghostwriter&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Replit Ghostwriter&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/codewhisperer/⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Amazon CodeWhisperer&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://bard.google.com/⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Google Bard&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://killedbygoogle.com/⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Google Graveyard - Killed by Google&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://zed.dev/⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Zed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code pets extension&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/vscode-python/issues?q=is%3Aissue+iteration+label%3Aiteration-plan+&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python extension&amp;#39;s current &amp;amp; previous iteration plans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/api/advanced-topics/python-extension-template⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python tools extension template&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/NGFSNE18Ywc⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Nobody&amp;#39;s Home by Avril Lavigne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/6bAPlojfgO0⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Pity Party by Melanie Martinez&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Intro Song: Pastel&lt;br&gt;Producer: Blue.P&lt;br&gt;Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:20:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 17 - Sarah Kaiser]]></title>
+			<description><![CDATA[<p>
+Welcome to the 17th episode of the Sad Python Girls Club Podcast! Our special guest this time around is Dr. Sarah Kaiser, Senior Developer Advocate at Microsoft. Sarah is an experimental physicist 👩‍🔬 with a PhD in Quantum Computing, and in this episode she talks a bit of her professional journey from academia 🎓  to software engineering 💻 and now to advocacy 👩‍💻, with Python being there every step of the way.  </p>
+<p>This is a super fun and inspiring episode, where we dive into Sarah&#39;s passion for helping others working on scientific Python applications find and use the right tools to create amazing things. We also get a sneak peek into some of the amazing stories from her career, featuring some laser-shooting 💥 and a lot of Python 🐍.</p>
+<p>This episode was recorded on March 24th, 2023.  </p>
+<p>Links and resources:</p>
+<ul>
+ <li><a href="https://www.sckaiser.com/" target="_blank" rel="noopener noreferer">Sarah Kaiser&#39;s website</a></li>
+ <li><a href="https://mathstodon.xyz/@crazy4pi314" target="_blank" rel="noopener noreferer">Sarah @ Mastodon</a></li>
+ <li><a href="https://github.com/crazy4pi314" target="_blank" rel="noopener noreferer">Sarah @ GitHub</a></li>
+ <li><a href="https://www.linkedin.com/in/sckaiser1/" target="_blank" rel="noopener noreferer">Sarah @ LinkedIn</a></li>
+ <li><a href="https://pyladies.com/" target="_blank" rel="noopener noreferer">Pyladies</a></li>
+ <li><a href="https://en.wikipedia.org/wiki/Quantum_mechanics" target="_blank" rel="noopener noreferer">Quantum mechanics</a></li>
+  <li><a href="https://www.wolfram.com/mathematica/?source=nav" target="_blank" rel="noopener noreferer">Mathematica</a></li>
+  <li><a href="https://uwspace.uwaterloo.ca/handle/10012/10725" target="_blank" rel="noopener noreferer">Quantum key distribution devices: How to make them and how to break them, by Dr. Sarah Kaiser</a></li>
+  <li><a href="https://2023.pycascades.com/" target="_blank" rel="noopener noreferer">PyCascades 2023</a></li>
+  <li><a href="https://www.youtube.com/live/c_kAvhsQKJg?feature=share&t=20188" target="_blank" rel="noopener noreferer">Sarah&#39;s talk at PyCascades, &quot;Eternal Sunshine of the Spotless Development Environment&quot;</a></li>
+  <li><a href="https://containers.dev/" target="_blank" rel="noopener noreferer">Dev containers</a></li>
+  <li><a href="https://pypi.org/project/duecredit/" target="_blank" rel="noopener noreferer">Duecredit Python package</a></li>
+  <li><a href="https://numfocus.org/" target="_blank" rel="noopener noreferer">NumFOCUS</a></li>
+  <li><a href="https://scipy.org/community/" target="_blank" rel="noopener noreferer">SciPy community</a> </li>
+  <li><a href=" https://unitary.fund/" target="_blank" rel="noopener noreferer">Unitary fund</a></li>
+  <li><a href="https://spotifyanchor-web.app.link/e/t99rNK14Kyb" target="_blank" rel="noopener noreferer">Soojin Choi&#39;s episode</a></li>
+  <li>VS Code extensions:</li>
+<ul>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare" target="_blank" rel="noopener noreferer">Live Share</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler" target="_blank" rel="noopener noreferer">Data Wrangler</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter" target="_blank" rel="noopener noreferer">Jupyter notebooks</a></li>
+  <li><a href="https://code.visualstudio.com/docs/editor/profiles" target="_blank" rel="noopener noreferer">VS Code Profiles</a></li>
+</ul>
+  <li><a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noopener noreferer">Anaconda</a></li>
+  <li><a href="https://code.visualstudio.com/docs/python/environments#_using-the-create-environment-command" target="_blank" rel="noopener noreferer">Python extension&#39;s Create environment command</a></li>
+  <li><a href="https://github.com/orgs/community/discussions/37376" target="_blank" rel="noopener noreferer">GitHub Jupyter Notebook Rich Diff feedback discussion</a></li>
+  <li><a href="https://github.com/features/codespaces" target="_blank" rel="noopener noreferer">GitHub Codespaces</a></li>
+  <li><a href="https://www.youtube.com/watch?v=6fp81GzKarQ" target="_blank" rel="noopener noreferer">To Zanarkand, part of Final Fantasy X Soundtrack</a></li>
+<p><br></p>
+<p><br></p>
+</ul>
+<p>Intro Song: Pastel<br>Producer: Blue.P<br>Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-17---Sarah-Kaiser-e21racs</link>
+			<guid isPermaLink="false">90a85aa4-17e4-4e49-960c-764618b5405c</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 07 Apr 2023 16:05:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/68052828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-6%2F462b0182-fd18-a77c-14b8-49d59f7c11b2.mp3" length="35735820" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;
+Welcome to the 17th episode of the Sad Python Girls Club Podcast! Our special guest this time around is Dr. Sarah Kaiser, Senior Developer Advocate at Microsoft. Sarah is an experimental physicist 👩‍🔬 with a PhD in Quantum Computing, and in this episode she talks a bit of her professional journey from academia 🎓  to software engineering 💻 and now to advocacy 👩‍💻, with Python being there every step of the way.  &lt;/p&gt;
+&lt;p&gt;This is a super fun and inspiring episode, where we dive into Sarah&amp;#39;s passion for helping others working on scientific Python applications find and use the right tools to create amazing things. We also get a sneak peek into some of the amazing stories from her career, featuring some laser-shooting 💥 and a lot of Python 🐍.&lt;/p&gt;
+&lt;p&gt;This episode was recorded on March 24th, 2023.  &lt;/p&gt;
+&lt;p&gt;Links and resources:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.sckaiser.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Sarah Kaiser&amp;#39;s website&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://mathstodon.xyz/@crazy4pi314&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Sarah @ Mastodon&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/crazy4pi314&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Sarah @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/sckaiser1/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Sarah @ LinkedIn&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://pyladies.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Pyladies&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Quantum_mechanics&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Quantum mechanics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wolfram.com/mathematica/?source=nav&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Mathematica&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uwspace.uwaterloo.ca/handle/10012/10725&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Quantum key distribution devices: How to make them and how to break them, by Dr. Sarah Kaiser&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2023.pycascades.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PyCascades 2023&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/live/c_kAvhsQKJg?feature=share&amp;t=20188&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Sarah&amp;#39;s talk at PyCascades, &amp;quot;Eternal Sunshine of the Spotless Development Environment&amp;quot;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://containers.dev/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Dev containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pypi.org/project/duecredit/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Duecredit Python package&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://numfocus.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;NumFOCUS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scipy.org/community/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;SciPy community&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot; https://unitary.fund/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Unitary fund&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spotifyanchor-web.app.link/e/t99rNK14Kyb&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Soojin Choi&amp;#39;s episode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VS Code extensions:&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Live Share&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Data Wrangler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Jupyter notebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/editor/profiles&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;VS Code Profiles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.anaconda.com/products/distribution&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Anaconda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/python/environments#_using-the-create-environment-command&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Python extension&amp;#39;s Create environment command&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/orgs/community/discussions/37376&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;GitHub Jupyter Notebook Rich Diff feedback discussion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/features/codespaces&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;GitHub Codespaces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6fp81GzKarQ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;To Zanarkand, part of Final Fantasy X Soundtrack&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;Producer: Blue.P&lt;br&gt;Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:29:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 16 - Isidor Nikolic]]></title>
+			<description><![CDATA[<p>Welcome to the 16th episode of the Sad Python Girls Club Podcast! 🐍 We're thrilled to have Isidor Nikolic, aka the VS Code historian, as our special guest this time around! Isidor not only holds the position of Senior Program Manager at the VS Code team, but he's also been working on the editor since day one! 🤯</p>
+<p>In this episode, Isidor shares his experience working as a Software Engineer on the VS Code debugger 🪲, his journey to becoming a PM, his contributions to making VS Code more accessible, and all about how VS Code is managed and developed. Tune in and join us as we delve deeper into the story behind everyone's favorite code editor! 👩‍💻</p>
+<p><br></p>
+<p><strong>Links and resources</strong></p>
+<ul>
+ <li><a href="https://github.com/isidorn" target="_blank">Isidor Nikolic @ GitHub</a></li>
+ <li><a href=" https://github.com/microsoft/monaco-editor" target="_blank">Monaco editor</a></li>
+ <li><a href="https://vscode.dev/" target="_blank">Vscode.dev</a>&nbsp;</li>
+ <li><a href="https://github.dev/" target="_blank">Github.dev</a></li>
+ <li><a href="https://github.com/microsoft/vscode/issues" target="_blank">Find the current iteration plan for VS Code, pinned at the top of the repo</a></li>
+ <li><a href="https://code.visualstudio.com/updates/" target="_blank">Latest VS Code update and release notes</a></li>
+ <li><a href="https://www.youtube.com/watch?v=hilznKQij7A&amp;t=448s" target="_blank">Erich Gamma's Keynote on developing VS Code in the open</a>&nbsp;</li>
+ <li><a href="https://code.visualstudio.com/docs/editor/debugging" target="_blank">Debugging in VS Code</a></li>
+ <li><a href="https://github.com/Microsoft/debug-adapter-protocol" target="_blank">The Debug Adapter Protocol</a></li>
+ <li><a href="https://github.com/Microsoft/language-server-protocol" target="_blank">The Language Server Protocol</a></li>
+  <li><a href="https://github.com/Microsoft/lsif-node" target="_blank">LSIF</a></li>
+  <li><a href="https://code.visualstudio.com/docs/editor/accessibility" target="_blank">Accessibility in VS Code</a></li>
+  <li><a href="https://www.youtube.com/watch?v=krxU5Y9lCS8" target="_blank">You can't always get what you want by the Rolling Stones</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-16---Isidor-Nikolic-e206i5h</link>
+			<guid isPermaLink="false">db46919c-1a58-4acd-8520-d69cb9604257</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 10 Mar 2023 17:45:48 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/66324081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-10%2Fc456409b-cd45-f585-7a73-6dd5dc1dafe4.mp3" length="29924294" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to the 16th episode of the Sad Python Girls Club Podcast! 🐍 We&apos;re thrilled to have Isidor Nikolic, aka the VS Code historian, as our special guest this time around! Isidor not only holds the position of Senior Program Manager at the VS Code team, but he&apos;s also been working on the editor since day one! 🤯&lt;/p&gt;
+&lt;p&gt;In this episode, Isidor shares his experience working as a Software Engineer on the VS Code debugger 🪲, his journey to becoming a PM, his contributions to making VS Code more accessible, and all about how VS Code is managed and developed. Tune in and join us as we delve deeper into the story behind everyone&apos;s favorite code editor! 👩‍💻&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links and resources&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/isidorn&quot; target=&quot;_blank&quot;&gt;Isidor Nikolic @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot; https://github.com/microsoft/monaco-editor&quot; target=&quot;_blank&quot;&gt;Monaco editor&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://vscode.dev/&quot; target=&quot;_blank&quot;&gt;Vscode.dev&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.dev/&quot; target=&quot;_blank&quot;&gt;Github.dev&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/vscode/issues&quot; target=&quot;_blank&quot;&gt;Find the current iteration plan for VS Code, pinned at the top of the repo&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/updates/&quot; target=&quot;_blank&quot;&gt;Latest VS Code update and release notes&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hilznKQij7A&amp;amp;t=448s&quot; target=&quot;_blank&quot;&gt;Erich Gamma&apos;s Keynote on developing VS Code in the open&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/editor/debugging&quot; target=&quot;_blank&quot;&gt;Debugging in VS Code&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/debug-adapter-protocol&quot; target=&quot;_blank&quot;&gt;The Debug Adapter Protocol&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/language-server-protocol&quot; target=&quot;_blank&quot;&gt;The Language Server Protocol&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/lsif-node&quot; target=&quot;_blank&quot;&gt;LSIF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/editor/accessibility&quot; target=&quot;_blank&quot;&gt;Accessibility in VS Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=krxU5Y9lCS8&quot; target=&quot;_blank&quot;&gt;You can&apos;t always get what you want by the Rolling Stones&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:27:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 15 - Alice Li]]></title>
+			<description><![CDATA[<p>Welcome to the 15th episode of the Sad Python Girls Club Podcast! 🐍 We're excited to have Alice Li, Senior Researcher and the tech lead for the Copilot Model Improvements team at GitHub, as our guest this time around. With all the buzz surrounding OpenAI and ChatGPT, it's an honor to have her with us to discuss her work on GitHub Copilot, and get her take on the Generative AI trend, and whether it will replace humans in the future 🤖</p>
+<p><br></p>
+<p>Links and resources:</p>
+<ul>
+ <li><a href="https://github.com/xalili" target="_blank">Alice Li @ GitHub</a></li>
+ <li><a href="https://www.linkedin.com/in/xaliceli/" target="_blank">Alice Li @ LinkedIn</a></li>
+ <li><a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot" target="_blank">GitHub Copilot VS Code extension</a></li>
+ <li><a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a></li>
+ <li><a href="https://pytorch.org/" target="_blank">PyTorch</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/StyleGAN" target="_blank">StyleGAN</a></li>
+  <li><a href="https://thispersondoesnotexist.com/" target="_blank">"This Person Does Not Exist" website</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/GPT-2" target="_blank">GPT-2</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/GPT-3" target="_blank">GPT-3</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/DALL-E" target="_blank">DALL-E</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Stable_Diffusion" target="_blank">Stable Diffusion</a></li>
+  <li><a href="https://openai.com/blog/chatgpt/" target="_blank">ChatGPT</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Tay_(bot)" target="_blank">Tay (Twitter bot)</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Impostor_syndrome" target="_blank">Impostor syndrome</a></li>
+  <li><a href="https://www.youtube.com/watch?v=dUha0zP2QKI" target="_blank">Red Desert by Puce Mary</a><br>
+<strong><br>
+<br>
+</strong></li>
+</ul>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-15---Alice-Li-e1uo56n</link>
+			<guid isPermaLink="false">92edc419-e7e9-46cc-8c13-ab50a8d8b1bb</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 10 Feb 2023 17:33:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/64803479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-10%2F37e8b91e-5996-6dc6-8b37-8fbd321a9722.mp3" length="31943840" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to the 15th episode of the Sad Python Girls Club Podcast! 🐍 We&apos;re excited to have Alice Li, Senior Researcher and the tech lead for the Copilot Model Improvements team at GitHub, as our guest this time around. With all the buzz surrounding OpenAI and ChatGPT, it&apos;s an honor to have her with us to discuss her work on GitHub Copilot, and get her take on the Generative AI trend, and whether it will replace humans in the future 🤖&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Links and resources:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/xalili&quot; target=&quot;_blank&quot;&gt;Alice Li @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/xaliceli/&quot; target=&quot;_blank&quot;&gt;Alice Li @ LinkedIn&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/features/copilot&quot; target=&quot;_blank&quot;&gt;GitHub Copilot&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&quot; target=&quot;_blank&quot;&gt;GitHub Copilot VS Code extension&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.tensorflow.org/&quot; target=&quot;_blank&quot;&gt;TensorFlow&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://pytorch.org/&quot; target=&quot;_blank&quot;&gt;PyTorch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/StyleGAN&quot; target=&quot;_blank&quot;&gt;StyleGAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thispersondoesnotexist.com/&quot; target=&quot;_blank&quot;&gt;&quot;This Person Does Not Exist&quot; website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/GPT-2&quot; target=&quot;_blank&quot;&gt;GPT-2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/GPT-3&quot; target=&quot;_blank&quot;&gt;GPT-3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/DALL-E&quot; target=&quot;_blank&quot;&gt;DALL-E&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Stable_Diffusion&quot; target=&quot;_blank&quot;&gt;Stable Diffusion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openai.com/blog/chatgpt/&quot; target=&quot;_blank&quot;&gt;ChatGPT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Tay_(bot)&quot; target=&quot;_blank&quot;&gt;Tay (Twitter bot)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot; target=&quot;_blank&quot;&gt;Impostor syndrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dUha0zP2QKI&quot; target=&quot;_blank&quot;&gt;Red Desert by Puce Mary&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:26:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 14 - Savannah Ostrowski]]></title>
+			<description><![CDATA[<p>Get ready for an exciting episode of the Sad Python Girls Club Podcast, episode #14! It's the first episode of 2023 🎆 and we're kicking off the new year with a blast! 💥 Our special guest this time around is the one and only Savannah Ostrowski, Senior Product Manager at Microsoft. Savannah is going to take us on a journey as she shares her experience transitioning from Software Engineering to Product Management while building Pylance from the ground up 🐍. You won't want to miss this episode as Savannah dives into the main challenges her team faced, the lessons their learned and all about her new role as the product lead of the Azure Developer CLI! 👩‍💻</p>
+<p>A few links and resources:</p>
+<ul>
+ <li><a href="https://github.com/savannahostrowski" target="_blank">Savannah @ GitHub</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance" target="_blank">Pylance extension for VS Code</a></li>
+ <li><a href="https://devblogs.microsoft.com/python/announcing-pylance-fast-feature-rich-language-support-for-python-in-visual-studio-code/" target="_blank">Announcing Pylance</a></li>
+ <li><a href="https://devblogs.microsoft.com/python/pylance-has-reached-stable/" target="_blank">Announcing Pylance as the default language server for Python in VS Code</a></li>
+ <li><a href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/measurably-improve-your-product-by-combining-qualitative-and-quantitative-methods/" target="_blank">Savannah's work on using qualitative and quantitative methods to improve the unresolved imports experience in VS Code</a></li>
+ <li><a href="https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview" target="_blank">Azure Developer CLI</a></li>
+  <li><a href="https://azure.github.io/awesome-azd/" target="_blank">Awesome AZD Templates</a></li>
+  <li><a href="https://www.youtube.com/watch?v=dhZTNgAs4Fc" target="_blank">I'm not ok by My Chemical Romance</a></li>
+  <li><a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h" target="_blank">Three Cheers for Sweet Revenge by My Chemical Romance</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-14---Savannah-Ostrowski-e1to3ba</link>
+			<guid isPermaLink="false">04a1a211-3ca3-4b09-ae7a-ccd698bf3cd7</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 20 Jan 2023 18:19:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/63753002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-19%2F1cd8e16f-a0e1-a351-b6bc-90c262c26d56.mp3" length="35705750" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Get ready for an exciting episode of the Sad Python Girls Club Podcast, episode #14! It&apos;s the first episode of 2023 🎆 and we&apos;re kicking off the new year with a blast! 💥 Our special guest this time around is the one and only Savannah Ostrowski, Senior Product Manager at Microsoft. Savannah is going to take us on a journey as she shares her experience transitioning from Software Engineering to Product Management while building Pylance from the ground up 🐍. You won&apos;t want to miss this episode as Savannah dives into the main challenges her team faced, the lessons their learned and all about her new role as the product lead of the Azure Developer CLI! 👩‍💻&lt;/p&gt;
+&lt;p&gt;A few links and resources:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/savannahostrowski&quot; target=&quot;_blank&quot;&gt;Savannah @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance&quot; target=&quot;_blank&quot;&gt;Pylance extension for VS Code&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/announcing-pylance-fast-feature-rich-language-support-for-python-in-visual-studio-code/&quot; target=&quot;_blank&quot;&gt;Announcing Pylance&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/pylance-has-reached-stable/&quot; target=&quot;_blank&quot;&gt;Announcing Pylance as the default language server for Python in VS Code&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/measurably-improve-your-product-by-combining-qualitative-and-quantitative-methods/&quot; target=&quot;_blank&quot;&gt;Savannah&apos;s work on using qualitative and quantitative methods to improve the unresolved imports experience in VS Code&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview&quot; target=&quot;_blank&quot;&gt;Azure Developer CLI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azure.github.io/awesome-azd/&quot; target=&quot;_blank&quot;&gt;Awesome AZD Templates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dhZTNgAs4Fc&quot; target=&quot;_blank&quot;&gt;I&apos;m not ok by My Chemical Romance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h&quot; target=&quot;_blank&quot;&gt;Three Cheers for Sweet Revenge by My Chemical Romance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:29:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 13 - 2022 Reflections 🗓]]></title>
+			<description><![CDATA[<p>Welcome to the last episode of the Sad Python Girls Club Podcast for 2022! Just in time for the new year, in this episode your hosts Kim-Adeline and Luciana reflect over a few of the 2022 highlights in the Python world 🐍, and share their personal and professional goals for the upcoming year. Join us on a (short) memory lane ride over conferences, talks, feedback, survey insights and new releases, and find out what we're looking forward to and planning for 2023 📝. &nbsp;&nbsp;We'd like to thank you so much for listening to and following our podcast over this past year, and we hope you'll join us again in 2023. Above all, we wish you all a happy new year! 🎆</p>
+<p>Links and resources:</p>
+<ul>
+ <li><a href="https://lp.jetbrains.com/python-developers-survey-2021/">2021 Python Developers Survey</a></li>
+ <li><a href="https://survey.stackoverflow.co/2022/">2022 Stack Overflow Developer Survey</a></li>
+ <li><a href=" https://fastapi.tiangolo.com/">Fast API</a></li>
+ <li><a href="https://docs.python.org/3/whatsnew/3.11.html">What's New in Python 3.11</a></li>
+ <li><a href=" https://devblogs.microsoft.com/python/python-311-faster-cpython-team/">Inside the Faster CPython Team at Microsoft</a></li>
+ <li><a href="https://anchor.fm/sad-python-girls-club/episodes/Episode-11---Graham-Wheeler-e1rkaiv">Graham Wheeler's SPGC episode</a></li>
+ <li><a href="https://github.com/features/copilot">GitHub Copilot</a></li>
+ <li><a href="https://youtu.be/AYRxDoUxcfQ">GitHub Universe Day 1 keynote (Python bit ~8:40)</a></li>
+  <li><a href="https://githubuniverse.com/">GitHub Universe official website</a></li>
+  <li><a href="https://www.youtube.com/watch?v=KKgC2Xqg9w0&amp;list=PL0lo9MOBetEGWpxPIXR8I46O-HHV7JbrU&amp;index=18">Harald Kirschner's talk at GitHub Universe</a></li>
+  <li>After the matter update: Copilot cannot predict the future, as Argentina is the well deserved &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;winner of the 2022 World Cup!</li>
+  <li><a href="https://2023.pycascades.com/">PyCascades 2023 in Vancouver</a></li>
+  <li><a href="https://youtu.be/0HzbyQPKW9E">Kim-Adeline's talk at PyCon US 2020</a></li>
+  <li><a href="https://pyscript.net/">PyScript</a></li>
+  <li><a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2022-release/">Experimental Python for Web</a></li>
+  <li><a href="https://www.youtube.com/watch?v=v2m-MGSys0k">De Diepte by S10</a></li>
+  <li><a href="https://www.youtube.com/watch?v=lbSOLBMUvIE">Home by Michael Bublé</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-13---2022-Reflections-e1ssevv</link>
+			<guid isPermaLink="false">7ab3f1fe-6f57-4196-9d85-b8cec3223ab4</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 30 Dec 2022 18:00:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/62847423/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-29%2Fafdef31c-7b57-90ff-9df8-bb4b19a6bc10.mp3" length="33990540" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to the last episode of the Sad Python Girls Club Podcast for 2022! Just in time for the new year, in this episode your hosts Kim-Adeline and Luciana reflect over a few of the 2022 highlights in the Python world 🐍, and share their personal and professional goals for the upcoming year. Join us on a (short) memory lane ride over conferences, talks, feedback, survey insights and new releases, and find out what we&apos;re looking forward to and planning for 2023 📝. &amp;nbsp;&amp;nbsp;We&apos;d like to thank you so much for listening to and following our podcast over this past year, and we hope you&apos;ll join us again in 2023. Above all, we wish you all a happy new year! 🎆&lt;/p&gt;
+&lt;p&gt;Links and resources:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://lp.jetbrains.com/python-developers-survey-2021/&quot;&gt;2021 Python Developers Survey&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://survey.stackoverflow.co/2022/&quot;&gt;2022 Stack Overflow Developer Survey&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot; https://fastapi.tiangolo.com/&quot;&gt;Fast API&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/whatsnew/3.11.html&quot;&gt;What&apos;s New in Python 3.11&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot; https://devblogs.microsoft.com/python/python-311-faster-cpython-team/&quot;&gt;Inside the Faster CPython Team at Microsoft&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/sad-python-girls-club/episodes/Episode-11---Graham-Wheeler-e1rkaiv&quot;&gt;Graham Wheeler&apos;s SPGC episode&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/features/copilot&quot;&gt;GitHub Copilot&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://youtu.be/AYRxDoUxcfQ&quot;&gt;GitHub Universe Day 1 keynote (Python bit ~8:40)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://githubuniverse.com/&quot;&gt;GitHub Universe official website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KKgC2Xqg9w0&amp;amp;list=PL0lo9MOBetEGWpxPIXR8I46O-HHV7JbrU&amp;amp;index=18&quot;&gt;Harald Kirschner&apos;s talk at GitHub Universe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;After the matter update: Copilot cannot predict the future, as Argentina is the well deserved &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;winner of the 2022 World Cup!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2023.pycascades.com/&quot;&gt;PyCascades 2023 in Vancouver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/0HzbyQPKW9E&quot;&gt;Kim-Adeline&apos;s talk at PyCon US 2020&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pyscript.net/&quot;&gt;PyScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2022-release/&quot;&gt;Experimental Python for Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=v2m-MGSys0k&quot;&gt;De Diepte by S10&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lbSOLBMUvIE&quot;&gt;Home by Michael Bublé&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:26:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 12 - Dawn Wages]]></title>
+			<description><![CDATA[<p>Welcome to this new episode of the Sad Python Girls Club podcast! In this episode we are having a blast with Dawn Wages, who&#39;s not only the Python Community Product Manager at Microsoft, but also a PSF director, DjancoCon organizer, Wagtail CMS core team member, and boundless reservoir of energy 🔋</p>
+<p>&quot;I feel like it&#39;s people, who are the solution to all of the world&#39;s woes, and code is but a tool.&quot; Dawn&#39;s powerful statement summarizes this episode, where we talk about the evolution of Django and DjangoCon, shaping codes of conduct while being mindful of ethical questions, and a few thoughts and avenues on how to make communities more welcoming 🤝</p>
+<p>Links and resources:</p>
+<ul>
+ <li><a href="https://github.com/dawnwages">Dawn Wages @ GitHub</a></li>
+ <li><a href="https://twitter.com/BajoranEngineer">Dawn Wages @ Twitter</a></li>
+ <li><a href="https://dawnwages.info/">Dawn Wages&#39; personal website</a></li>
+ <li><a href="https://www.python.org/psf-landing/">Python Software Foundation</a></li>
+  <li><a href="https://www.djangoproject.com/">Django framework</a></li>
+  <li><a href="https://2022.djangocon.us/">DjangoCon US 2022</a><ul>
+  <li><a href="https://2022.djangocon.us/conduct/">DjangoCon US Code of Conduct</a></li>
+  <li><a href="https://www.youtube.com/watch?v=IumYtz0G5v0">Panel Discussion: The State of Django @ DjangoCon US 2022</a> </li>
+</ul>
+</li>
+  <li><a href="https://wagtail.org/">Wagtail CMS</a> </li>
+  <li><a href="https://djangogirls.org/en/">Django Girls</a><ul>
+  <li><a href="https://djangogirls.org/en/resources/">Django Girl handbooks</a></li>
+</ul>
+</li>
+  <li><a href="https://www.contributor-covenant.org/">The Contributor Covenant</a> </li>
+  <li><a href="https://en.wikipedia.org/wiki/The_Land_Before_Time">The Land Before Time</a></li>
+  <li><a href="https://www.youtube.com/watch?v=C-tXt5fLj_s">Dawn&#39;s first talk with dinosaur archetypes</a></li>
+  <li><a href="https://www.youtube.com/watch?v=k4V3Mo61fJM">Fix You by Coldplay</a></li>
+</ul>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-12---Dawn-Wages-e1sbv28</link>
+			<guid isPermaLink="false">a3d63f3e-e88b-4af3-bf97-1a17c69bd958</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 16 Dec 2022 18:00:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/62306824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-16%2F9adfcc79-c7ec-d525-3989-433dfe1992b4.mp3" length="24819646" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to this new episode of the Sad Python Girls Club podcast! In this episode we are having a blast with Dawn Wages, who&amp;#39;s not only the Python Community Product Manager at Microsoft, but also a PSF director, DjancoCon organizer, Wagtail CMS core team member, and boundless reservoir of energy 🔋&lt;/p&gt;
+&lt;p&gt;&amp;quot;I feel like it&amp;#39;s people, who are the solution to all of the world&amp;#39;s woes, and code is but a tool.&amp;quot; Dawn&amp;#39;s powerful statement summarizes this episode, where we talk about the evolution of Django and DjangoCon, shaping codes of conduct while being mindful of ethical questions, and a few thoughts and avenues on how to make communities more welcoming 🤝&lt;/p&gt;
+&lt;p&gt;Links and resources:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/dawnwages&quot;&gt;Dawn Wages @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/BajoranEngineer&quot;&gt;Dawn Wages @ Twitter&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://dawnwages.info/&quot;&gt;Dawn Wages&amp;#39; personal website&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.python.org/psf-landing/&quot;&gt;Python Software Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.djangoproject.com/&quot;&gt;Django framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2022.djangocon.us/&quot;&gt;DjangoCon US 2022&lt;/a&gt;&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2022.djangocon.us/conduct/&quot;&gt;DjangoCon US Code of Conduct&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IumYtz0G5v0&quot;&gt;Panel Discussion: The State of Django @ DjangoCon US 2022&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wagtail.org/&quot;&gt;Wagtail CMS&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://djangogirls.org/en/&quot;&gt;Django Girls&lt;/a&gt;&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://djangogirls.org/en/resources/&quot;&gt;Django Girl handbooks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.contributor-covenant.org/&quot;&gt;The Contributor Covenant&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Land_Before_Time&quot;&gt;The Land Before Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=C-tXt5fLj_s&quot;&gt;Dawn&amp;#39;s first talk with dinosaur archetypes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=k4V3Mo61fJM&quot;&gt;Fix You by Coldplay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:25:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 11 - Graham Wheeler]]></title>
+			<description><![CDATA[<p>Welcome to another episode of the Sad Python Girls Club Podcast! This time our special guest is Graham Wheeler, the Principal Group Software Engineering Manager for the Python runtime team at Microsoft 🏃</p>
+<p>In this episode we talk about how Graham first got started with Python, how Pylance originated,&nbsp;and even how Microsoft ended up with an entire team working on making CPython faster ⚡🐍</p>
+<p>One small correction from our conversation: the Python performance improvements mentioned around the 19-minute mark is/will be available on Python 3.11 and Python 3.12.</p>
+<p>This episode was recorded on September 9th, 2022.</p>
+<p><br></p>
+<p>A few links and resources:</p>
+<p><a href="https://github.com/gramster" target="_blank">Graham Wheeler @ GitHub</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Player_piano" target="_blank">Player pianos</a>&nbsp;</p>
+<p><a href="https://zulko.github.io/blog/2014/02/12/transcribing-piano-rolls/">Transcribing player piano rolls with Python</a></p>
+<p><a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance">Pylance for VS Code</a></p>
+<p><a href="https://github.com/microsoft/pyright" target="_blank">Pyright</a></p>
+<p><a href=" https://typing.readthedocs.io/en/latest/" target="_blank">Typing in Python</a></p>
+<p><a href="https://realpython.com/python-type-checking/">Python type checking @ Real Python</a></p>
+<p><a href="https://code.visualstudio.com/docs/python/settings-reference#_python-language-server-settings" target="_blank">Type checking mode and other settings with Pylance</a></p>
+<p><a href=" https://github.com/python/typeshed" target="_blank">Typeshed</a></p>
+<p><a href=" https://github.com/microsoft/python-type-stubs" target="_blank">Microsoft's Python Type Stubs</a></p>
+<p><a href="https://github.com/pandas-dev/pandas-stubs" target="_blank">Pandas stubs</a></p>
+<p><a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/#inlay-type-hints" target="_blank">Try Python inlay hints in VS Code</a></p>
+<p><a href="https://www.youtube.com/watch?v=hHBp0r4w86g" target="_blank">Jay Miller's video on Python inlay hints</a></p>
+<p><a href="https://pythoncommunitynews.com/" target="_blank">Python Community News</a> (now with 15+ episodes already!)</p>
+<p><a href=" https://devblogs.microsoft.com/python/python-311-faster-cpython-team/" target="_blank">More about the CPython performance team work</a></p>
+<p><a href="https://education.minecraft.net/en-us/resources/computer-science-subject-kit/python-101" target="_blank">Python in Minecraft</a></p>
+<p><a href="https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K?hl=en-us&amp;gl=us">Python @ the Windows store</a></p>
+<p><a href="https://www.youtube.com/watch?v=kH11R-2v3VM" target="_blank">Kissing by Bliss</a></p>
+<p><br></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-11---Graham-Wheeler-e1rkaiv</link>
+			<guid isPermaLink="false">ad190eb1-0e74-4695-9592-9ab2cc2a8eb3</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 02 Dec 2022 18:36:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/61532191/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-1%2F6ed55ac1-1466-6bdc-1f95-5b7086fc4fa1.mp3" length="28669642" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to another episode of the Sad Python Girls Club Podcast! This time our special guest is Graham Wheeler, the Principal Group Software Engineering Manager for the Python runtime team at Microsoft 🏃&lt;/p&gt;
+&lt;p&gt;In this episode we talk about how Graham first got started with Python, how Pylance originated,&amp;nbsp;and even how Microsoft ended up with an entire team working on making CPython faster ⚡🐍&lt;/p&gt;
+&lt;p&gt;One small correction from our conversation: the Python performance improvements mentioned around the 19-minute mark is/will be available on Python 3.11 and Python 3.12.&lt;/p&gt;
+&lt;p&gt;This episode was recorded on September 9th, 2022.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A few links and resources:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/gramster&quot; target=&quot;_blank&quot;&gt;Graham Wheeler @ GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Player_piano&quot; target=&quot;_blank&quot;&gt;Player pianos&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zulko.github.io/blog/2014/02/12/transcribing-piano-rolls/&quot;&gt;Transcribing player piano rolls with Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance&quot;&gt;Pylance for VS Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/pyright&quot; target=&quot;_blank&quot;&gt;Pyright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot; https://typing.readthedocs.io/en/latest/&quot; target=&quot;_blank&quot;&gt;Typing in Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://realpython.com/python-type-checking/&quot;&gt;Python type checking @ Real Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/python/settings-reference#_python-language-server-settings&quot; target=&quot;_blank&quot;&gt;Type checking mode and other settings with Pylance&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot; https://github.com/python/typeshed&quot; target=&quot;_blank&quot;&gt;Typeshed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot; https://github.com/microsoft/python-type-stubs&quot; target=&quot;_blank&quot;&gt;Microsoft&apos;s Python Type Stubs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/pandas-dev/pandas-stubs&quot; target=&quot;_blank&quot;&gt;Pandas stubs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/#inlay-type-hints&quot; target=&quot;_blank&quot;&gt;Try Python inlay hints in VS Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hHBp0r4w86g&quot; target=&quot;_blank&quot;&gt;Jay Miller&apos;s video on Python inlay hints&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pythoncommunitynews.com/&quot; target=&quot;_blank&quot;&gt;Python Community News&lt;/a&gt; (now with 15+ episodes already!)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot; https://devblogs.microsoft.com/python/python-311-faster-cpython-team/&quot; target=&quot;_blank&quot;&gt;More about the CPython performance team work&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://education.minecraft.net/en-us/resources/computer-science-subject-kit/python-101&quot; target=&quot;_blank&quot;&gt;Python in Minecraft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K?hl=en-us&amp;amp;gl=us&quot;&gt;Python @ the Windows store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kH11R-2v3VM&quot; target=&quot;_blank&quot;&gt;Kissing by Bliss&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:32:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 10 - Erik De Bonte]]></title>
+			<description><![CDATA[<p>This is the 10th episode of the Sad Python Girls Club Podcast, and we're excited to have Erik De Bonte as our special guest! Erik is a Principal Software Engineer working on Pylance, the default language server for Python in Visual Studio Code 🐍. In this episode, he shares his learnings and work on typed Python and a bit about what it was like ramping up on Pylance while also writing a PEP for the first time 🤯</p>
+<p>To celebrate the release of our 10th episode, we also made a bingo card that you can use to cross-off things that may happen in each of our episodes 😝. <a href="https://github.com/luabud/sad-python-girls-club/blob/main/SadPythonGirlsClubBingo.png?raw=true">Check it out</a>!</p>
+<p>As usual, here are a few of the resources and references we mentioned throughout the episode:</p>
+<ul>
+ <li><a href="https://github.com/debonte">Erik De Bonte @ GitHub</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance">Pylance extension for VS Code</a></li>
+ <li><a href="https://realpython.com/">Real Python</a> (&amp; their <a href="https://realpython.com/podcasts/rpp/">podcast</a>!)</li>
+ <li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359">Fluent Python by Luciano Ramalho</a></li>
+  <li><a href="https://realpython.com/advanced-visual-studio-code-python/">Advanced Visual Studio Code for Python Developers by Anthony Shaw</a></li>
+  <li><a href="https://github.com/microsoft/pyright">Pyright, the type checker that powers up the Pylance experience in VS Code</a></li>
+  <li><a href="https://github.com/facebook/pyre-check">Pyre</a></li>
+  <li><a href="https://github.com/google/pytype">PyType</a></li>
+  <li><a href="https://mail.python.org/archives/list/typing-sig@python.org/">Typing sig mailing list</a></li>
+  <li><a href="https://docs.python.org/3/library/dataclasses.html">Python Data Classes</a></li>
+  <li><a href="https://peps.python.org/pep-0557/">PEP 557 - Data Classes</a></li>
+  <li><a href="https://peps.python.org/pep-0681/">PEP 681 - Data Class Transforms</a></li>
+  <li><a href="https://docs.python.org/3/library/typing.html?highlight=dataclass_transform#typing.dataclass_transform">The dataclass_transform decorator</a></li>
+  <li><a href="https://www.python.org/downloads/release/python-3110/">Python 3.11</a> (which is out now!)</li>
+  <li><a href="https://docs.python.org/3/glossary.html#term-descriptor">Descriptors in Python</a></li>
+  <li><a href="http://isthisbandemo.com/">Is This Band Emo? website</a>: isthisbandemo.com</li>
+  <li><a href="https://www.youtube.com/watch?v=BFl9F_ZsFIM">Nobody's Hero by Rush</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-10---Erik-De-Bonte-e1prt69</link>
+			<guid isPermaLink="false">e286d6de-2371-477d-b31f-810550271d12</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 11 Nov 2022 18:03:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/59683465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-27%2F39a920bf-6702-8d32-30b2-13fd0427d07a.mp3" length="22649459" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This is the 10th episode of the Sad Python Girls Club Podcast, and we&apos;re excited to have Erik De Bonte as our special guest! Erik is a Principal Software Engineer working on Pylance, the default language server for Python in Visual Studio Code 🐍. In this episode, he shares his learnings and work on typed Python and a bit about what it was like ramping up on Pylance while also writing a PEP for the first time 🤯&lt;/p&gt;
+&lt;p&gt;To celebrate the release of our 10th episode, we also made a bingo card that you can use to cross-off things that may happen in each of our episodes 😝. &lt;a href=&quot;https://github.com/luabud/sad-python-girls-club/blob/main/SadPythonGirlsClubBingo.png?raw=true&quot;&gt;Check it out&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;As usual, here are a few of the resources and references we mentioned throughout the episode:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/debonte&quot;&gt;Erik De Bonte @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance&quot;&gt;Pylance extension for VS Code&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://realpython.com/&quot;&gt;Real Python&lt;/a&gt; (&amp;amp; their &lt;a href=&quot;https://realpython.com/podcasts/rpp/&quot;&gt;podcast&lt;/a&gt;!)&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359&quot;&gt;Fluent Python by Luciano Ramalho&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/advanced-visual-studio-code-python/&quot;&gt;Advanced Visual Studio Code for Python Developers by Anthony Shaw&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/pyright&quot;&gt;Pyright, the type checker that powers up the Pylance experience in VS Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/facebook/pyre-check&quot;&gt;Pyre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/google/pytype&quot;&gt;PyType&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mail.python.org/archives/list/typing-sig@python.org/&quot;&gt;Typing sig mailing list&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/library/dataclasses.html&quot;&gt;Python Data Classes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peps.python.org/pep-0557/&quot;&gt;PEP 557 - Data Classes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peps.python.org/pep-0681/&quot;&gt;PEP 681 - Data Class Transforms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/library/typing.html?highlight=dataclass_transform#typing.dataclass_transform&quot;&gt;The dataclass_transform decorator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/downloads/release/python-3110/&quot;&gt;Python 3.11&lt;/a&gt; (which is out now!)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/glossary.html#term-descriptor&quot;&gt;Descriptors in Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://isthisbandemo.com/&quot;&gt;Is This Band Emo? website&lt;/a&gt;: isthisbandemo.com&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BFl9F_ZsFIM&quot;&gt;Nobody&apos;s Hero by Rush&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:24:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 9 - Spooky Episode 🎃]]></title>
+			<description><![CDATA[<p>Welcome to the spookiest episode of the Sad Python Girls Club Podcast! 🎃👻</p>
+<p>Just in time for Halloween, in this episode your hosts Kim-Adeline and Luciana share some scary stories related to ☠️security ☠️ in the tech world (I know, terrifying topic, right?) and even to the Python extension for VS Code 🐍</p>
+<p>A few links related to the scary stuff that we talked about:</p>
+<ul>
+ <li><a href="https://www.darkreading.com/cloud/phishing-campaign-targets-pypi-users-to-distribute-malicious-code">Phishing attempt towards PyPI users</a></li>
+ <li><a href="https://pythonbytes.fm/episodes/show/299/will-mcgugan-drops-by">Python Bytes episode #299, where they talk a bit more about the incident above</a></li>
+ <li><a href="https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project">Ransomware on PyPI incident</a></li>
+ <li><a href="https://arstechnica.com/gadgets/2021/04/linux-kernel-team-rejects-university-of-minnesota-researchers-apology/">Linux kernel incident</a></li>
+ <li><a href="https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident">npm package incident</a></li>
+ <li><a href="https://github.com/microsoft/vscode-python/issues/481">Open issue for auto indentation with Python in VS Code</a></li>
+  <li><a href="https://www.youtube.com/watch?v=RvnkAtWcKYg">Decode by Paramore</a></li>
+  <li><a href="https://www.youtube.com/watch?v=3iTFnNU3AYg">It's Almost Halloween by Panic! At the Disco</a></li>
+  <li><a href="https://open.spotify.com/playlist/6bHWW6XI7Yy7g74YXvwxt1?si=332218229cfa4c3e">Sad Python Girls Club playlist on Spotify</a><strong>! 🎶</strong></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-9---Spooky-Episode-e1prt4n</link>
+			<guid isPermaLink="false">7737d13d-87ba-48bd-8ee8-f66d2e81cc79</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 28 Oct 2022 16:46:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/59683415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-27%2F019466a5-2af6-2a4c-a011-51cf71559097.mp3" length="24119026" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to the spookiest episode of the Sad Python Girls Club Podcast! 🎃👻&lt;/p&gt;
+&lt;p&gt;Just in time for Halloween, in this episode your hosts Kim-Adeline and Luciana share some scary stories related to ☠️security ☠️ in the tech world (I know, terrifying topic, right?) and even to the Python extension for VS Code 🐍&lt;/p&gt;
+&lt;p&gt;A few links related to the scary stuff that we talked about:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.darkreading.com/cloud/phishing-campaign-targets-pypi-users-to-distribute-malicious-code&quot;&gt;Phishing attempt towards PyPI users&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://pythonbytes.fm/episodes/show/299/will-mcgugan-drops-by&quot;&gt;Python Bytes episode #299, where they talk a bit more about the incident above&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project&quot;&gt;Ransomware on PyPI incident&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2021/04/linux-kernel-team-rejects-university-of-minnesota-researchers-apology/&quot;&gt;Linux kernel incident&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident&quot;&gt;npm package incident&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/vscode-python/issues/481&quot;&gt;Open issue for auto indentation with Python in VS Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RvnkAtWcKYg&quot;&gt;Decode by Paramore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3iTFnNU3AYg&quot;&gt;It&apos;s Almost Halloween by Panic! At the Disco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/playlist/6bHWW6XI7Yy7g74YXvwxt1?si=332218229cfa4c3e&quot;&gt;Sad Python Girls Club playlist on Spotify&lt;/a&gt;&lt;strong&gt;! 🎶&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:26:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 8 - Don Jayamanne]]></title>
+			<description><![CDATA[<p>Welcome to another episode of the Sad Python Girls Club Podcast! 🐍 This time we're thrilled to host Don Jayamanne, the creator of the Python extension for Visual Studio Code! 🥇 In this episode Don talks about his journey, from creating what's now the most popular extension for VS Code, to being a software engineer at Microsoft now working on the Jupyter extension (as well as becoming one of the most popular VS Code extension creators/publishers out there in the Marketplace 😎).</p>
+<p>A few relevant links:</p>
+<ul>
+ <li><a href="https://github.com/DonJayamanne/">Don Jayamanne @ GitHub</a></li>
+ <li><a href="https://devblogs.microsoft.com/python/don-jayamanne-joins-microsoft/">Blog post announcement when Don joined Microsoft back in 2017</a></li>
+ <li><a href="https://spotifyanchor-web.app.link/e/BU76w7mUUtb">Sad Python Girls Club episode with Soojin Choi, the PM for the Jupyter extension</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">Don's Git History extension</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager">Don's Python Environment Manager extension</a> (and our <a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2021-release/#python-environment-manager-extension">blog post featuring it</a>)</li>
+ <li><a href="https://marketplace.visualstudio.com/search?term=publisher%3A%22Don%20Jayamanne%22&amp;target=VSCode&amp;category=All%20categories&amp;sortBy=Relevance">All of Don's VS Code extensions</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><strong>Intro Song: Pastel</strong><br>
+<strong>Producer: Blue.P</strong><br>
+<strong>Music provided by LogSquare</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-8---Don-Jayamanne-e1osp9r</link>
+			<guid isPermaLink="false">d3b8c3d2-b4c7-4be5-9523-12ee679570d8</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 07 Oct 2022 17:01:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/58663675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-6%2Fc5e21873-650a-c976-dce3-fec8757438b0.mp3" length="20686091" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to another episode of the Sad Python Girls Club Podcast! 🐍 This time we&apos;re thrilled to host Don Jayamanne, the creator of the Python extension for Visual Studio Code! 🥇 In this episode Don talks about his journey, from creating what&apos;s now the most popular extension for VS Code, to being a software engineer at Microsoft now working on the Jupyter extension (as well as becoming one of the most popular VS Code extension creators/publishers out there in the Marketplace 😎).&lt;/p&gt;
+&lt;p&gt;A few relevant links:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/DonJayamanne/&quot;&gt;Don Jayamanne @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://devblogs.microsoft.com/python/don-jayamanne-joins-microsoft/&quot;&gt;Blog post announcement when Don joined Microsoft back in 2017&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://spotifyanchor-web.app.link/e/BU76w7mUUtb&quot;&gt;Sad Python Girls Club episode with Soojin Choi, the PM for the Jupyter extension&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory&quot;&gt;Don&apos;s Git History extension&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager&quot;&gt;Don&apos;s Python Environment Manager extension&lt;/a&gt; (and our &lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2021-release/#python-environment-manager-extension&quot;&gt;blog post featuring it&lt;/a&gt;)&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/search?term=publisher%3A%22Don%20Jayamanne%22&amp;amp;target=VSCode&amp;amp;category=All%20categories&amp;amp;sortBy=Relevance&quot;&gt;All of Don&apos;s VS Code extensions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intro Song: Pastel&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Producer: Blue.P&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Music provided by LogSquare&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:23:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 7 - Soojin Choi]]></title>
+			<description><![CDATA[<p>Here's a new episode of the Sad Python Girls Club Podcast! 🐍 This time we're with Soojin Choi, the Product Manager for the Jupyter Notebooks 📒 extension for Visual Studio Code. In this episode we talk about the new features the Jupyter team has been working on, how it's like being a PM, and resilience while working in tech 🧑‍💻.</p>
+<p>A few links for the things we talked about in this episode:</p>
+<ul>
+ <li><a href="https://github.com/minsa110">Soojin Choi @ GitHub</a></li>
+ <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter">Jupyter extension for VS Code</a></li>
+ <li><a href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks#_connect-to-a-remote-jupyter-server">How to connect VS Code to a remote Jupyter server</a></li>
+ <li><a href="https://vscode.dev/">VS Code on the browser</a></li>
+ <li><a href="https://www.microsoft.com/en-us/leap/">Microsoft Leap program</a></li>
+ <li><a href="https://en.wikipedia.org/wiki/Impostor_syndrome">Imposter syndrome in Wikipedia</a></li>
+  <li><a href="https://www.youtube.com/watch?v=hLQl3WQQoQ0">Someone lilke you by Adele</a></li>
+  <li><a href="https://www.youtube.com/watch?v=gPDcwjJ8pLg">Dirty Little Secrets by All American Rejects</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-7---Soojin-Choi-e1nibnp</link>
+			<guid isPermaLink="false">7ed1086c-fe9e-4053-b56d-9b578fb8d183</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 09 Sep 2022 17:03:15 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/57273529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-8%2Fa500a9d4-9d1e-73b3-e790-3c5d5bc6a9fb.mp3" length="24340993" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Here&apos;s a new episode of the Sad Python Girls Club Podcast! 🐍 This time we&apos;re with Soojin Choi, the Product Manager for the Jupyter Notebooks 📒 extension for Visual Studio Code. In this episode we talk about the new features the Jupyter team has been working on, how it&apos;s like being a PM, and resilience while working in tech 🧑‍💻.&lt;/p&gt;
+&lt;p&gt;A few links for the things we talked about in this episode:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/minsa110&quot;&gt;Soojin Choi @ GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter&quot;&gt;Jupyter extension for VS Code&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/datascience/jupyter-notebooks#_connect-to-a-remote-jupyter-server&quot;&gt;How to connect VS Code to a remote Jupyter server&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://vscode.dev/&quot;&gt;VS Code on the browser&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/en-us/leap/&quot;&gt;Microsoft Leap program&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;Imposter syndrome in Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hLQl3WQQoQ0&quot;&gt;Someone lilke you by Adele&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=gPDcwjJ8pLg&quot;&gt;Dirty Little Secrets by All American Rejects&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:28:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 6 - Anthony Kim]]></title>
+			<description><![CDATA[<p>Welcome to another episode of the Sad Python Girls Club Podcast! This episode is full of end of summer vibes 🌥️, featuring Anthony Kim talking about the end of his summer internship on the Python extension for Visual Studio Code 🐍! Come learn all about his project, some tips on how to get started with contributing to the Python extension and how you can actually make more money&nbsp;💵&nbsp;&nbsp;with Python 👀</p>
+<p>Here are some of the things we referenced in this episode:</p>
+<p>- <a href="https://github.com/ksy7588" rel="noreferrer noopener" target="_blank">Anthony Kim @ GitHub</a></p>
+<p>- <a href="https://github.com/microsoft/vscode-python/pull/19386" rel="noreferrer noopener" target="_blank">Anthony's PR for rewriting unittest execution</a></p>
+<p>-&nbsp;<a href="https://pypi.org/project/yahoo-finance/" rel="noreferrer noopener" target="_blank">yahoo-finance package on PyPI</a></p>
+<p>- <a href="https://devblogs.microsoft.com/python/" rel="noreferrer noopener" target="_blank">Python @ Microsoft blog website</a>, where we will post our release updates featuring Anthony's work</p>
+<p>-&nbsp;<a href="https://www.youtube.com/watch?v=so6ExplQlaY" rel="noreferrer noopener" target="_blank">Kiss the rain by Yiruma</a></p>
+<p>- <a href="https://open.spotify.com/playlist/6bHWW6XI7Yy7g74YXvwxt1?si=94bc46c315d44042" target="_blank">Sad Python Girls Club playlist on Spotify</a>! 🎶</p>
+<p><br></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-6---Anthony-Kim-e1n0lvp</link>
+			<guid isPermaLink="false">29bc8909-29bf-4a8a-b9aa-f8d5a5ae1de8</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 26 Aug 2022 19:04:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/56694201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-26%2Ff55898be-ea1a-6cbe-cbf7-65ebae3a16a3.mp3" length="19016162" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to another episode of the Sad Python Girls Club Podcast! This episode is full of end of summer vibes 🌥️, featuring Anthony Kim talking about the end of his summer internship on the Python extension for Visual Studio Code 🐍! Come learn all about his project, some tips on how to get started with contributing to the Python extension and how you can actually make more money&amp;nbsp;💵&amp;nbsp;&amp;nbsp;with Python 👀&lt;/p&gt;
+&lt;p&gt;Here are some of the things we referenced in this episode:&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://github.com/ksy7588&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Anthony Kim @ GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://github.com/microsoft/vscode-python/pull/19386&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Anthony&apos;s PR for rewriting unittest execution&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;-&amp;nbsp;&lt;a href=&quot;https://pypi.org/project/yahoo-finance/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;yahoo-finance package on PyPI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://devblogs.microsoft.com/python/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Python @ Microsoft blog website&lt;/a&gt;, where we will post our release updates featuring Anthony&apos;s work&lt;/p&gt;
+&lt;p&gt;-&amp;nbsp;&lt;a href=&quot;https://www.youtube.com/watch?v=so6ExplQlaY&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Kiss the rain by Yiruma&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://open.spotify.com/playlist/6bHWW6XI7Yy7g74YXvwxt1?si=94bc46c315d44042&quot; target=&quot;_blank&quot;&gt;Sad Python Girls Club playlist on Spotify&lt;/a&gt;! 🎶&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:21:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 5 - Not a Summer Break 🏝️]]></title>
+			<description><![CDATA[<p>This is the 5th episode of the Sad Python Girls Club Podcast, and this time Kim-Adeline and Luciana have a nice and lightweight chat about Kim-Adeline's new job at GitHub 🐙😺 and Luciana's presence at EuroPython 2022, which happened mid-July in Dublin, Ireland 🍀. We now also have <a href="https://l.messenger.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F6bHWW6XI7Yy7g74YXvwxt1&amp;h=AT3p6xqvtEyFO5___sDhxvfRWWpNRfj4v7_-beQ88Wz7oszaPWI0omusSqVeag6fNEYVfcj03GaN08md-PB5RRsk3p0eCxR4zAQgC3chttOb1xNXahitEZZ3P8oS4qVZu3U">a playlist on Spotify </a>with all of the sad songs 🎶 we mention in our episodes -- check it out!&nbsp;</p>
+<p><br></p>
+<p>Here are some of the things that were mentioned in this episode:</p>
+<p>- <a href="https://github.com/features/copilot/">GitHub Copilot</a></p>
+<p>- <a href="https://ep2022.europython.eu/" target="_blank">EuroPython 2022</a></p>
+<p>- <a href="https://devblogs.microsoft.com/python/microsoft-at-europython-2022/">Microsoft at EuroPython 2022</a>&nbsp;</p>
+<p>- <a href="https://www.youtube.com/c/EuroPythonConference/videos" target="_blank">EuroPython's YoutTube Channel</a>, where Jeffrey Mew's talk on <a href="https://ep2022.europython.eu/session/python-visual-studio-code-revolutionizing-the-way-you-do-data-science" target="_blank">"Revolutionizing the way you do data science"</a> will probably be posted in</p>
+<p>- <a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008">Luciano Ramalho's book: Fluent Python</a></p>
+<p>- <a href="https://python.org.br/" target="_blank">Python Brasil</a></p>
+<p>- <a href="https://l.messenger.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F6bHWW6XI7Yy7g74YXvwxt1&amp;h=AT3p6xqvtEyFO5___sDhxvfRWWpNRfj4v7_-beQ88Wz7oszaPWI0omusSqVeag6fNEYVfcj03GaN08md-PB5RRsk3p0eCxR4zAQgC3chttOb1xNXahitEZZ3P8oS4qVZu3U">Sad Python Girls Club playlist on Spotify</a>! 🎶</p>
+<p>- <a href="https://www.youtube.com/watch?v=gH476CxJxfg">Bad Day by Daniel Powter</a></p>
+<p>- <a href="https://www.youtube.com/watch?v=TdrL3QxjyVw" target="_blank">Summertime Sadness by Lana Del Rey</a></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-5---Not-a-Summer-Break-e1lp8hk</link>
+			<guid isPermaLink="false">c65e2b85-f7d1-453b-b0b6-5083a6f339a7</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 29 Jul 2022 17:48:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/55402484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-27%2F82d0094e-c462-433b-1f13-fe4b2ba4fac7.mp3" length="13172908" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This is the 5th episode of the Sad Python Girls Club Podcast, and this time Kim-Adeline and Luciana have a nice and lightweight chat about Kim-Adeline&apos;s new job at GitHub 🐙😺 and Luciana&apos;s presence at EuroPython 2022, which happened mid-July in Dublin, Ireland 🍀. We now also have &lt;a href=&quot;https://l.messenger.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F6bHWW6XI7Yy7g74YXvwxt1&amp;amp;h=AT3p6xqvtEyFO5___sDhxvfRWWpNRfj4v7_-beQ88Wz7oszaPWI0omusSqVeag6fNEYVfcj03GaN08md-PB5RRsk3p0eCxR4zAQgC3chttOb1xNXahitEZZ3P8oS4qVZu3U&quot;&gt;a playlist on Spotify &lt;/a&gt;with all of the sad songs 🎶 we mention in our episodes -- check it out!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Here are some of the things that were mentioned in this episode:&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://github.com/features/copilot/&quot;&gt;GitHub Copilot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://ep2022.europython.eu/&quot; target=&quot;_blank&quot;&gt;EuroPython 2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://devblogs.microsoft.com/python/microsoft-at-europython-2022/&quot;&gt;Microsoft at EuroPython 2022&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://www.youtube.com/c/EuroPythonConference/videos&quot; target=&quot;_blank&quot;&gt;EuroPython&apos;s YoutTube Channel&lt;/a&gt;, where Jeffrey Mew&apos;s talk on &lt;a href=&quot;https://ep2022.europython.eu/session/python-visual-studio-code-revolutionizing-the-way-you-do-data-science&quot; target=&quot;_blank&quot;&gt;&quot;Revolutionizing the way you do data science&quot;&lt;/a&gt; will probably be posted in&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008&quot;&gt;Luciano Ramalho&apos;s book: Fluent Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://python.org.br/&quot; target=&quot;_blank&quot;&gt;Python Brasil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://l.messenger.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F6bHWW6XI7Yy7g74YXvwxt1&amp;amp;h=AT3p6xqvtEyFO5___sDhxvfRWWpNRfj4v7_-beQ88Wz7oszaPWI0omusSqVeag6fNEYVfcj03GaN08md-PB5RRsk3p0eCxR4zAQgC3chttOb1xNXahitEZZ3P8oS4qVZu3U&quot;&gt;Sad Python Girls Club playlist on Spotify&lt;/a&gt;! 🎶&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://www.youtube.com/watch?v=gH476CxJxfg&quot;&gt;Bad Day by Daniel Powter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://www.youtube.com/watch?v=TdrL3QxjyVw&quot; target=&quot;_blank&quot;&gt;Summertime Sadness by Lana Del Rey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:14:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23914647/23914647-1652991482040-2ef67ee8c772e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 4 - Kartik Raj]]></title>
+			<description><![CDATA[<p>Welcome to the 4th episode of the Sad Python Girls Club Podcast! This time we are chatting with Kartik Raj, one of the software engineers working on the Python extension for Visual Studio Code 🐍. In this episode we talk about Kartik’s journey on the team (including a funny story on the first time he met Brett Cannon 👀), his work on improving the discovery of Python environments and what’s coming next in that area ⏭️.</p>
+<p>A few links for the things we talked about in this episode:</p>
+<ul>
+ <li>Using Python environments in VS Code: <a href="https://code.visualstudio.com/docs/python/environments" target="_blank">https://code.visualstudio.com/docs/python/environments</a></li>
+ <li>Feature request to no longer store interpreter path on settings.json: <a href="https://github.com/microsoft/vscode-python/issues/2125" target="_blank">https://github.com/microsoft/vscode-python/issues/2125</a></li>
+ <li>Discussion on the proposed design for environments API: <a href="https://github.com/microsoft/vscode-python/discussions/18888" target="_blank">https://github.com/microsoft/vscode-python/discussions/18888</a></li>
+ <li>Pylint extension: <a href="https://aka.ms/vscode-pylint" target="_blank">https://aka.ms/vscode-pylint</a></li>
+ <li>Summer of 69 by Bryan Adams: <a href="https://youtu.be/9f06QZCVUHg" target="_blank">https://youtu.be/9f06QZCVUHg</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-4---Kartik-Raj-e1kmriv</link>
+			<guid isPermaLink="false">0390bdde-8336-4ffd-ad38-f55836fa3da9</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 01 Jul 2022 17:25:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/54275103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-1%2F100bd9e9-f3ae-8158-697d-d32ada2251c2.mp3" length="25863420" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to the 4th episode of the Sad Python Girls Club Podcast! This time we are chatting with Kartik Raj, one of the software engineers working on the Python extension for Visual Studio Code 🐍. In this episode we talk about Kartik’s journey on the team (including a funny story on the first time he met Brett Cannon 👀), his work on improving the discovery of Python environments and what’s coming next in that area ⏭️.&lt;/p&gt;
+&lt;p&gt;A few links for the things we talked about in this episode:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Using Python environments in VS Code: &lt;a href=&quot;https://code.visualstudio.com/docs/python/environments&quot; target=&quot;_blank&quot;&gt;https://code.visualstudio.com/docs/python/environments&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Feature request to no longer store interpreter path on settings.json: &lt;a href=&quot;https://github.com/microsoft/vscode-python/issues/2125&quot; target=&quot;_blank&quot;&gt;https://github.com/microsoft/vscode-python/issues/2125&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Discussion on the proposed design for environments API: &lt;a href=&quot;https://github.com/microsoft/vscode-python/discussions/18888&quot; target=&quot;_blank&quot;&gt;https://github.com/microsoft/vscode-python/discussions/18888&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Pylint extension: &lt;a href=&quot;https://aka.ms/vscode-pylint&quot; target=&quot;_blank&quot;&gt;https://aka.ms/vscode-pylint&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Summer of 69 by Bryan Adams: &lt;a href=&quot;https://youtu.be/9f06QZCVUHg&quot; target=&quot;_blank&quot;&gt;https://youtu.be/9f06QZCVUHg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:22:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/23914647/23914647-1652991483316-47c2da71d8a.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 3 - Karthik Nadig]]></title>
+			<description><![CDATA[<p>This is the third episode of the Sad Python Girls Podcast, and we're excited to be featuring another special guest: Karthik Nadig, the dev lead of the Python extension for Visual Studio Code! In this episode Karthik shared a bit of his experience and expertise on rewriting 🔃 and working on the Python extension, debugpy 🐛🥧 and debuggers in general, as well as dad jokes 🙃.</p>
+<p>Here are some of the fun things that we referenced in this episode:</p>
+<ul>
+ <li>Debugpy: <a href="https://pypi.org/project/debugpy/">https://pypi.org/project/debugpy/</a></li> <br>
+ <li>Auto reload configuration when debugging files: <a href="https://code.visualstudio.com/docs/python/debugging#_autoreload">https://code.visualstudio.com/docs/python/debugging#_autoreload</a></li> <br>
+ <li>Jump to cursor feature when debugging: <a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2020-release/#in-case-you-missed-it-jump-to-cursor">https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2020-release/#in-case-you-missed-it-jump-to-cursor</a></li> <br>
+ <li>Black formatter extension: &nbsp;<a href="https://aka.ms/vscode-black-formatter">https://aka.ms/vscode-black-formatter</a></li> <br>
+ <li>Pylint extension: &nbsp;<a href="https://aka.ms/vscode-pylint">https://aka.ms/vscode-pylint</a></li> <br>
+ <li>isort extension: &nbsp;<a href="https://aka.ms/vscode-isort">https://aka.ms/vscode-isort</a></li> <br>
+ <li>Python extension release blog posts: <a href="https://devblogs.microsoft.com/python">https://devblogs.microsoft.com/python</a></li> <br>
+ <li>Firestarter by The Prodigy: <a href="https://www.youtube.com/watch?v=wmin5WkOuPw">https://www.youtube.com/watch?v=wmin5WkOuPw</a></li> <br>
+ <li>Klondike, the card game not the ice cream: <a href="https://en.wikipedia.org/wiki/Klondike_(solitaire">https://en.wikipedia.org/wiki/Klondike_(solitaire</a>)</li> <br>
+</ul>
+<br><br><br>
+Intro Song: Pastel <br>
+Producer: Blue.P <br>
+Music provided by LogSquare <br>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-3---Karthik-Nadig-e1jkop6</link>
+			<guid isPermaLink="false">84058c9a-d751-450e-9be2-dd5e95e20c5a</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 10 Jun 2022 17:29:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/53158118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-7%2Fac54fda8-ca9b-57b3-1da0-754af52b2624.mp3" length="23675151" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This is the third episode of the Sad Python Girls Podcast, and we&apos;re excited to be featuring another special guest: Karthik Nadig, the dev lead of the Python extension for Visual Studio Code! In this episode Karthik shared a bit of his experience and expertise on rewriting 🔃 and working on the Python extension, debugpy 🐛🥧 and debuggers in general, as well as dad jokes 🙃.&lt;/p&gt;
+&lt;p&gt;Here are some of the fun things that we referenced in this episode:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Debugpy: &lt;a href=&quot;https://pypi.org/project/debugpy/&quot;&gt;https://pypi.org/project/debugpy/&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Auto reload configuration when debugging files: &lt;a href=&quot;https://code.visualstudio.com/docs/python/debugging#_autoreload&quot;&gt;https://code.visualstudio.com/docs/python/debugging#_autoreload&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Jump to cursor feature when debugging: &lt;a href=&quot;https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2020-release/#in-case-you-missed-it-jump-to-cursor&quot;&gt;https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2020-release/#in-case-you-missed-it-jump-to-cursor&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Black formatter extension: &amp;nbsp;&lt;a href=&quot;https://aka.ms/vscode-black-formatter&quot;&gt;https://aka.ms/vscode-black-formatter&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Pylint extension: &amp;nbsp;&lt;a href=&quot;https://aka.ms/vscode-pylint&quot;&gt;https://aka.ms/vscode-pylint&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;isort extension: &amp;nbsp;&lt;a href=&quot;https://aka.ms/vscode-isort&quot;&gt;https://aka.ms/vscode-isort&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Python extension release blog posts: &lt;a href=&quot;https://devblogs.microsoft.com/python&quot;&gt;https://devblogs.microsoft.com/python&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Firestarter by The Prodigy: &lt;a href=&quot;https://www.youtube.com/watch?v=wmin5WkOuPw&quot;&gt;https://www.youtube.com/watch?v=wmin5WkOuPw&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Klondike, the card game not the ice cream: &lt;a href=&quot;https://en.wikipedia.org/wiki/Klondike_(solitaire&quot;&gt;https://en.wikipedia.org/wiki/Klondike_(solitaire&lt;/a&gt;)&lt;/li&gt; &lt;br&gt;
+&lt;/ul&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+Intro Song: Pastel &lt;br&gt;
+Producer: Blue.P &lt;br&gt;
+Music provided by LogSquare &lt;br&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:23:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/23914647/23914647-1652991483316-47c2da71d8a.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 2 - Brett Cannon]]></title>
+			<description><![CDATA[<p>In this episode we have a very special guest. He's a member of the Python Steering Council and also the Engineering Manager for Python in VS Code: the one and only ✨ Brett Cannon ✨ ! Come learn more about Brett's background before he joined the VS Code team 🎓, how you can get more involved in the Python community 🐍 and even where the sorting algorithm for Java ☕ came from (spoiler alert: it has to do with Python).</p>
+
+<p>Here are a few links related to things we talked about in this episode:</p>
+<ul>
+ <li>Brett's Twitter account: <a href="https://twitter.com/brettsky">https://twitter.com/brettsky</a></li> <br>
+ <li>Brett's blog: <a href="https://snarky.ca/">https://snarky.ca/</a></li> <br>
+ <li>Black formatter extension: <a href="https://aka.ms/vscode-black-formatter">https://aka.ms/vscode-black-formatter</a></li> <br>
+  <li>Pylint extension: <a href="https://aka.ms/vscode-pylint">https://aka.ms/vscode-pylint</a></li>  <br>
+  <li>Isort extensions: <a href="https://aka.ms/vscode-isort">https://aka.ms/vscode-isort</a></li>  <br>
+  <li>Pyodide: <a href="https://pyodide.org/">https://pyodide.org/</a></li>  <br>
+  <li>WASI: <a href="https://wasi.dev/">https://wasi.dev/</a></li>  <br>
+  <li>The Sweater Song by Weezer: <a href="https://www.youtube.com/watch?v=LHQqqM5sr7g">https://www.youtube.com/watch?v=LHQqqM5sr7g</a></li>  <br>
+  <li>Perfect by Simple Plan: <a href="https://www.youtube.com/watch?v=RUi54JTgL5s">https://www.youtube.com/watch?v=RUi54JTgL5s</a></li>  <br>
+  <li>Wake Me Up When September Ends by Green Day: <a href="https://www.youtube.com/watch?v=NU9JoFKlaZ0">https://www.youtube.com/watch?v=NU9JoFKlaZ0</a></li>  <br>
+</ul>
+
+<br> <br> <br>
+Intro Song: Pastel  <br>
+Producer: Blue.P  <br>
+Music provided by LogSquare  <br>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-2---Brett-Cannon-e1ipjca</link>
+			<guid isPermaLink="false">0bd0ba75-400e-4c84-8a8e-86633cab3116</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 20 May 2022 17:43:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/52267850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-19%2F2133a85c-216d-cf77-a4a1-dc54ed3c4f61.mp3" length="33583526" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode we have a very special guest. He&apos;s a member of the Python Steering Council and also the Engineering Manager for Python in VS Code: the one and only ✨ Brett Cannon ✨ ! Come learn more about Brett&apos;s background before he joined the VS Code team 🎓, how you can get more involved in the Python community 🐍 and even where the sorting algorithm for Java ☕ came from (spoiler alert: it has to do with Python).&lt;/p&gt;
+
+&lt;p&gt;Here are a few links related to things we talked about in this episode:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Brett&apos;s Twitter account: &lt;a href=&quot;https://twitter.com/brettsky&quot;&gt;https://twitter.com/brettsky&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Brett&apos;s blog: &lt;a href=&quot;https://snarky.ca/&quot;&gt;https://snarky.ca/&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;Black formatter extension: &lt;a href=&quot;https://aka.ms/vscode-black-formatter&quot;&gt;https://aka.ms/vscode-black-formatter&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+  &lt;li&gt;Pylint extension: &lt;a href=&quot;https://aka.ms/vscode-pylint&quot;&gt;https://aka.ms/vscode-pylint&lt;/a&gt;&lt;/li&gt;  &lt;br&gt;
+  &lt;li&gt;Isort extensions: &lt;a href=&quot;https://aka.ms/vscode-isort&quot;&gt;https://aka.ms/vscode-isort&lt;/a&gt;&lt;/li&gt;  &lt;br&gt;
+  &lt;li&gt;Pyodide: &lt;a href=&quot;https://pyodide.org/&quot;&gt;https://pyodide.org/&lt;/a&gt;&lt;/li&gt;  &lt;br&gt;
+  &lt;li&gt;WASI: &lt;a href=&quot;https://wasi.dev/&quot;&gt;https://wasi.dev/&lt;/a&gt;&lt;/li&gt;  &lt;br&gt;
+  &lt;li&gt;The Sweater Song by Weezer: &lt;a href=&quot;https://www.youtube.com/watch?v=LHQqqM5sr7g&quot;&gt;https://www.youtube.com/watch?v=LHQqqM5sr7g&lt;/a&gt;&lt;/li&gt;  &lt;br&gt;
+  &lt;li&gt;Perfect by Simple Plan: &lt;a href=&quot;https://www.youtube.com/watch?v=RUi54JTgL5s&quot;&gt;https://www.youtube.com/watch?v=RUi54JTgL5s&lt;/a&gt;&lt;/li&gt;  &lt;br&gt;
+  &lt;li&gt;Wake Me Up When September Ends by Green Day: &lt;a href=&quot;https://www.youtube.com/watch?v=NU9JoFKlaZ0&quot;&gt;https://www.youtube.com/watch?v=NU9JoFKlaZ0&lt;/a&gt;&lt;/li&gt;  &lt;br&gt;
+&lt;/ul&gt;
+
+&lt;br&gt; &lt;br&gt; &lt;br&gt;
+Intro Song: Pastel  &lt;br&gt;
+Producer: Blue.P  &lt;br&gt;
+Music provided by LogSquare  &lt;br&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/23914647/23914647-1652991483316-47c2da71d8a.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1 Episode 1 - Origin Story 📖]]></title>
+			<description><![CDATA[<p>Welcome to the Sad Python Girls Club podcast! In this first episode we will be talking about our origin story 🌠, a little bit of what it is like to work on the VS Code Python team at Microsoft and PyCon US 2022! 🐍 &nbsp;</p>
+<p>Here are a few of links related to what we talked about in this episode:&nbsp;</p>
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=0HzbyQPKW9E&amp;t" target="_blank">Kim-Adeline's talk at PyCon US 2020</a></li> <br>
+ <li><a href="https://github.com/luabud/wordle" target="_blank">Wordle demo for PyCon US 2022</a> -- if you don't know what wordle is, watch <a href="https://www.instagram.com/p/CY7VNA1FptM/? utm_source=ig_embed&amp;utm_campaign=embed_video_watch_again">Trevor Noah's accurate and relatable description</a>&nbsp;</li> <br>
+ <li><a href="https://twitter.com/sadpythongirls" target="_blank">Our Twitter account @sadpythongirls</a></li> <br>
+ <li><a href="https://snarky.ca/">Brett Cannon (aka Tall, Snarky Canadian)'s blog post</a></li> <br>
+</ul>
+<p><br><br><br></p>
+<p>Intro Song: Pastel<br>
+Producer: Blue.P<br>
+Music provided by LogSquare</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/sad-python-girls-club/episodes/S1-Episode-1---Origin-Story-e1hlkmd</link>
+			<guid isPermaLink="false">c4a54a1d-d2e8-4f81-aace-deb7578b802c</guid>
+			<dc:creator><![CDATA[Sad Python Girls Club]]></dc:creator>
+			<pubDate>Fri, 29 Apr 2022 16:00:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8f23717c/podcast/play/51089549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-25%2Fc997a626-c853-30e8-b7ff-e12dbd07a8ee.mp3" length="16689578" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to the Sad Python Girls Club podcast! In this first episode we will be talking about our origin story 🌠, a little bit of what it is like to work on the VS Code Python team at Microsoft and PyCon US 2022! 🐍 &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Here are a few of links related to what we talked about in this episode:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0HzbyQPKW9E&amp;amp;t&quot; target=&quot;_blank&quot;&gt;Kim-Adeline&apos;s talk at PyCon US 2020&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/luabud/wordle&quot; target=&quot;_blank&quot;&gt;Wordle demo for PyCon US 2022&lt;/a&gt; -- if you don&apos;t know what wordle is, watch &lt;a href=&quot;https://www.instagram.com/p/CY7VNA1FptM/? utm_source=ig_embed&amp;amp;utm_campaign=embed_video_watch_again&quot;&gt;Trevor Noah&apos;s accurate and relatable description&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/sadpythongirls&quot; target=&quot;_blank&quot;&gt;Our Twitter account @sadpythongirls&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+ &lt;li&gt;&lt;a href=&quot;https://snarky.ca/&quot;&gt;Brett Cannon (aka Tall, Snarky Canadian)&apos;s blog post&lt;/a&gt;&lt;/li&gt; &lt;br&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Intro Song: Pastel&lt;br&gt;
+Producer: Blue.P&lt;br&gt;
+Music provided by LogSquare&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:18:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/23914647/23914647-1653060631413-77416d4a8a12e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,67 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="http://justcast.herokuapp.com/shows/harold-martin-machine-learning/audioposts.rss"/>
+    <title>Machine Learning</title>
+    <description></description>
+    <link>http://justcast.herokuapp.com/shows/harold-martin-machine-learning/audioposts</link>
+    <language>en</language>
+    <itunes:summary></itunes:summary>
+    <itunes:image href="https://s3.amazonaws.com/podcastApp/shows/images/000/002/772/original/"/>
+    <itunes:author>Harold Martin</itunes:author>
+    <itunes:owner>
+      <itunes:name>Harold Martin</itunes:name>
+      <itunes:email>harold.martin@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit></itunes:explicit>
+    <pubDate>Tue, 16 Feb 2016 13:36:11 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Feb 2016 13:36:11 +0000</lastBuildDate>
+    <item>
+      <title>Waking Up (Unabridged)</title>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <pubDate>Tue, 16 Feb 2016 13:36:11 +0000</pubDate>
+      <enclosure url="https://download.justcast.com/s/29z3yqi90taxjg2/Waking%20Up%20%28Unabridged%29.m4a?dl=0" length="147431490" type="audio/x-m4a"/>
+      <link>http://justcast.herokuapp.com/shows/harold-martin-machine-learning/audioposts/193379</link>
+      <guid>http://justcast.herokuapp.com/shows/harold-martin-machine-learning/audioposts/193379.m4a</guid>
+      <itunes:title>Waking Up (Unabridged)</itunes:title>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit></itunes:explicit>
+      <itunes:duration></itunes:duration>
+    </item>
+    <item>
+      <title>CS 61B Lecture 20- Algorithm Analysis</title>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <pubDate>Sun, 24 Jan 2016 18:18:58 +0000</pubDate>
+      <enclosure url="https://download.justcast.com/s/ieobh5raiduvly6/CS%2061B%20Lecture%2020-%20Algorithm%20Analysis.m4a?dl=0" length="32329693" type="audio/x-m4a"/>
+      <link>http://justcast.herokuapp.com/shows/harold-martin-machine-learning/audioposts/193378</link>
+      <guid>http://justcast.herokuapp.com/shows/harold-martin-machine-learning/audioposts/193378.m4a</guid>
+      <itunes:title>CS 61B Lecture 20- Algorithm Analysis</itunes:title>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit></itunes:explicit>
+      <itunes:duration></itunes:duration>
+    </item>
+    <item>
+      <title>CS 61B Lecture 19- Asymptotic Analysis</title>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <pubDate>Sun, 24 Jan 2016 18:18:26 +0000</pubDate>
+      <enclosure url="https://download.justcast.com/s/79r3ncvxvlmqwz6/CS%2061B%20Lecture%2019-%20Asymptotic%20Analysis.m4a?dl=0" length="35686293" type="audio/x-m4a"/>
+      <link>http://justcast.herokuapp.com/shows/harold-martin-machine-learning/audioposts/193377</link>
+      <guid>http://justcast.herokuapp.com/shows/harold-martin-machine-learning/audioposts/193377.m4a</guid>
+      <itunes:title>CS 61B Lecture 19- Asymptotic Analysis</itunes:title>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit></itunes:explicit>
+      <itunes:duration></itunes:duration>
+    </item>
+  </channel>
+</rss>

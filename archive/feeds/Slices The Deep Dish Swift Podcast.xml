@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/static/rss.xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     version="2.0">
+<channel>
+<title>Slices: The Deep Dish Swift Podcast</title>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co</link>
+<atom:link href="https://pinecast.com/feed/slices-the-deep-dish-swift-pod" rel="self" type="application/rss+xml" />
+<generator>Pinecast (https://pinecast.com)</generator>
+<language>en-US</language><itunes:author>Kai Dombrowski &amp; Malin Sundberg</itunes:author>
+<description><![CDATA[A podcast for the Deep Dish Swift Conference where the hosts, Kai and Malin chat with the organizers and speakers of the conference.]]></description>
+<itunes:owner>
+<itunes:name>Kai Dombrowski &amp; Malin Sundberg</itunes:name>
+<itunes:email>mail@kaidombrowski.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="https://storage.pinecast.net/podcasts/covers/e5babbcb-6231-4188-be01-fdf62045b052/Icon_Mark_Outline.jpg" />
+<image>
+<title>Slices: The Deep Dish Swift Podcast</title>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co</link>
+<url>https://storage.pinecast.net/podcasts/covers/e5babbcb-6231-4188-be01-fdf62045b052/Icon_Mark_Outline.jpg</url>
+</image><itunes:type>episodic</itunes:type>
+<copyright>Copyright 2025</copyright>
+<itunes:category text="Technology" />
+<item><title>S3E18: Charlie Chapman</title>
+<guid isPermaLink="false">https://pinecast.com/guid/31a3680f-372e-46c4-b98b-b8600bb2e7f0</guid>
+<pubDate>Thu, 24 Apr 2025 14:41:00 -0000</pubDate>
+
+<itunes:duration>01:13:03</itunes:duration>
+<itunes:subtitle>In the 18th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Charlie Chapman.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/31a3680f/charlie-chapman</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/e178b5e0-df31-4bcc-b537-779056754020/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 18th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Charlie Chapman.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/_chuckyc" rel="nofollow">Charlie on X</a><br>
+<a href="https://mastodon.social/@charliemchapman" rel="nofollow">Charlie on Mastodon</a><br>
+<a href="https://bsky.app/profile/charliemchapman.com" rel="nofollow">Charlie on Bluesky</a><br>
+<a href="https://apps.apple.com/us/app/dark-noise-ambient-sounds/id1465439395" rel="nofollow">Dark Noise</a><br>
+<a href="https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519" rel="nofollow">Framous</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://podcasts.apple.com/us/podcast/charlie-chapman/id1670026071?i=1000610891293" rel="nofollow">Charlie on Slices S01</a><br>
+<a href="https://podcasts.apple.com/us/podcast/charlie-chapman/id1670026071?i=1000654499628" rel="nofollow">Charlie on Slices S02</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Charlie Chapman</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/31a3680f-372e-46c4-b98b-b8600bb2e7f0.mp3?source=rss&amp;ext=asset.mp3" length="36780952" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>18</itunes:episode>
+</item>
+<item><title>S3E17: Xingyu Wang &amp; Carter Levin</title>
+<guid isPermaLink="false">https://pinecast.com/guid/6906a605-dca0-4880-866b-bc51f3be5c15</guid>
+<pubDate>Tue, 22 Apr 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:30:33</itunes:duration>
+<itunes:subtitle>In the 17th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Xingyu Wang and Carter Levin.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/6906a605/xingyu-wang-carter-levin</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/c976955e-e50e-44f0-aa41-4fbd38f2d9d0/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 17th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Xingyu Wang and Carter Levin.  </p>
+<h1>Special Guests</h1>
+<p><a href="https://x.com/rubyxw3" rel="nofollow">Xingyu on X</a><br>
+<a href="https://www.linkedin.com/in/carter-levin-7a070a96/" rel="nofollow">Carter on Linkedin</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://www.duolingo.com" rel="nofollow">Duolingo</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Xingyu Wang &amp; Carter Levin</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/6906a605-dca0-4880-866b-bc51f3be5c15.mp3?source=rss&amp;ext=asset.mp3" length="15142785" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>17</itunes:episode>
+</item>
+<item><title>S3E16: Jordan Morgan</title>
+<guid isPermaLink="false">https://pinecast.com/guid/ee34ba20-e8a7-464b-b774-ae12afd714e7</guid>
+<pubDate>Mon, 21 Apr 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:44:41</itunes:duration>
+<itunes:subtitle>In the 16th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Jordan Morgan.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/ee34ba20/jordan-morgan</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/64012544-40bb-4578-ab50-c816ffcf0afa/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 16th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Jordan Morgan.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/JordanMorgan10" rel="nofollow">Jordan on X</a><br>
+<a href="https://mastodon.social/@jordanmorgan" rel="nofollow">Jordan on Mastodon</a><br>
+<a href="https://bsky.app/profile/jordanmorgan10.bsky.social" rel="nofollow">Jordan on Bluesky</a><br>
+<a href="https://apps.apple.com/app/basketball-coach-elite-hoops/id6443711183" rel="nofollow">Elite Hoops</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://www.bestinclassiosapp.com" rel="nofollow">A Best-in-Class iOS App</a><br>
+<a href="https://www.swiftjectivec.com" rel="nofollow">Swiftjective-C</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Jordan Morgan</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/ee34ba20-e8a7-464b-b774-ae12afd714e7.mp3?source=rss&amp;aid=c84bee11-23e8-4960-beac-e74ededf7f40.mp3" length="21790037" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>16</itunes:episode>
+</item>
+<item><title>S3E15: Matthew Cassinelli</title>
+<guid isPermaLink="false">https://pinecast.com/guid/cc8ebfbb-9780-4a3c-8d6c-53a2255983e2</guid>
+<pubDate>Fri, 11 Apr 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:46:06</itunes:duration>
+<itunes:subtitle>In the 15th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Matthew Cassinelli.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/cc8ebfbb/matthew-cassinelli</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/f28c11f3-a69e-4750-a651-f28399017aea/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 15th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Matthew Cassinelli.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/mattcassinelli" rel="nofollow">Matthew on X</a><br>
+<a href="https://mastodon.social/@matthewcassinelli" rel="nofollow">Matthew on Mastodon</a><br>
+<a href="https://bsky.app/profile/matthewcassinelli.bsky.social" rel="nofollow">Matthew on Bluesky</a><br>
+<a href="https://matthewcassinelli.com" rel="nofollow">Matthew's Website</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://matthewcassinelli.com/consulting" rel="nofollow">Cassinelli Consulting</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Matthew Cassinelli</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/cc8ebfbb-9780-4a3c-8d6c-53a2255983e2.mp3?source=rss&amp;ext=asset.mp3" length="22322466" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>15</itunes:episode>
+</item>
+<item><title>S3E14: Allison McEntire</title>
+<guid isPermaLink="false">https://pinecast.com/guid/bc3400d6-7b2d-4cbd-8d1a-d5801e6fac89</guid>
+<pubDate>Thu, 10 Apr 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:15:03</itunes:duration>
+<itunes:subtitle>In the 14th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Allison McEntire.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/bc3400d6/allison-mcentire</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/1b704275-f4a3-455f-9ede-98c086172748/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 14th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Allison McEntire.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://www.linkedin.com/in/allison-mcentire-ab348076/" rel="nofollow">Allison on Linkedin</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://www.nuuly.com" rel="nofollow">Nuuly</a><br>
+<a href="https://apps.apple.com/us/app/nuuly-rent/id1511548818" rel="nofollow">Nuuly on the App Store</a><br>
+<a href="https://deepdishswift.com/delivery" rel="nofollow">Deep Dish Swift: Delivery</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Allison McEntire</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/bc3400d6-7b2d-4cbd-8d1a-d5801e6fac89.mp3?source=rss&amp;ext=asset.mp3" length="7595915" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>14</itunes:episode>
+</item>
+<item><title>S3E13: Harlan Haskins</title>
+<guid isPermaLink="false">https://pinecast.com/guid/a2f8cdec-bb55-4f3c-beee-9d5e5e85fd48</guid>
+<pubDate>Mon, 07 Apr 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:41:01</itunes:duration>
+<itunes:subtitle>In the 13th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Harlan Haskins.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/a2f8cdec/harlan-haskins</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/61fd7dc7-23a3-4ad8-9284-0a6e302ef6ff/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 13th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Harlan Haskins.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://bsky.app/profile/harlanhaskins.com" rel="nofollow">Harlan on Bluesky</a><br>
+<a href="https://mastodon.social/@harlan" rel="nofollow">Harlan on Mastodon</a><br>
+<a href="https://harlanhaskins.com" rel="nofollow">Harlan's Website</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://github.com/harlanhaskins/SwiftGBA" rel="nofollow">SwiftGBA</a><br>
+<a href="https://www.typo.inc" rel="nofollow">Typo*</a><br>
+<a href="https://www.youtube.com/watch?v=0e3GPea1Tyg" rel="nofollow">MrBeast – Squid Game</a><br>
+<a href="https://www.youtube.com/watch?v=hdt18p-VMmQ" rel="nofollow">MrBeast – Squid Game – Behind the Scenes</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Harlan Haskins</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/a2f8cdec-bb55-4f3c-beee-9d5e5e85fd48.mp3?source=rss&amp;ext=asset.mp3" length="20181210" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>13</itunes:episode>
+</item>
+<item><title>S3E12: Tyler Thompson</title>
+<guid isPermaLink="false">https://pinecast.com/guid/2f625ea6-5648-43cf-94d9-c9723af6ac54</guid>
+<pubDate>Fri, 04 Apr 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:30:57</itunes:duration>
+<itunes:subtitle>In the 12th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Tyler Thompson.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/2f625ea6/tyler-thompson</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/96bc73bd-3dce-48f4-9b4b-e1e74826023b/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 12th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Tyler Thompson.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://github.com/Tyler-Keith-Thompson" rel="nofollow">Tyler on GitHub</a><br>
+<a href="https://github.com/Tyler-Keith-Thompson/Afluent" rel="nofollow">Afluent</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Tyler Thompson</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/2f625ea6-5648-43cf-94d9-c9723af6ac54.mp3?source=rss&amp;ext=asset.mp3" length="15865963" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>12</itunes:episode>
+</item>
+<item><title>S3E11: Michael Flarup</title>
+<guid isPermaLink="false">https://pinecast.com/guid/8aef3bef-5a67-4a85-904f-d6f8966bf48b</guid>
+<pubDate>Wed, 02 Apr 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:54:32</itunes:duration>
+<itunes:subtitle>In the 11th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Michael Flarup.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/8aef3bef/michael-flarup</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/5c68eacf-9764-41f3-a535-11ab6f293607/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 11th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Michael Flarup.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/flarup" rel="nofollow">Michael on X</a><br>
+<a href="https://bsky.app/profile/flarup.bsky.social" rel="nofollow">Michael on Bluesky</a><br>
+<a href="https://flarup.co" rel="nofollow">Michael's Website</a>  </p>
+<p><a href="https://store.steampowered.com/app/2587620/Dinolords/" rel="nofollow">Dinolords on Steam</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://www.northplay.co" rel="nofollow">Northplay</a><br>
+<a href="https://www.flarup.email/p/the-death-of-design" rel="nofollow">The Death of Design</a><br>
+<a href="https://www.appiconbook.com" rel="nofollow">The App Icon Book</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Michael Flarup</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/8aef3bef-5a67-4a85-904f-d6f8966bf48b.mp3?source=rss&amp;aid=3e64874b-4515-488d-a9f6-558cfdbc3a78.mp3" length="27149935" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>11</itunes:episode>
+</item>
+<item><title>S3E10: Laksh Chakraborty</title>
+<guid isPermaLink="false">https://pinecast.com/guid/5f7e764a-376d-43cc-862f-58ce9bb1bf35</guid>
+<pubDate>Mon, 31 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:47:08</itunes:duration>
+<itunes:subtitle>In the 10th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Laksh Chakraborty.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/5f7e764a/laksh-chakraborty</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/c95c06c6-15e6-4083-9979-af5645aba295/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 10th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Laksh Chakraborty.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/_nullref_" rel="nofollow">Laksh on X</a><br>
+<a href="https://hachyderm.io/@reftonull" rel="nofollow">Laksh on Mastodon</a><br>
+<a href="https://lakshchakraborty.com" rel="nofollow">Laksh's Website</a><br>
+<a href="https://apps.apple.com/us/app/perspectives-to-do-list/id6476648057" rel="nofollow">Perspectives</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://www.typo.inc" rel="nofollow">Typo*</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Laksh Chakraborty</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/5f7e764a-376d-43cc-862f-58ce9bb1bf35.mp3?source=rss&amp;ext=asset.mp3" length="22909220" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>10</itunes:episode>
+</item>
+<item><title>S3E9: Daniel Gauthier</title>
+<guid isPermaLink="false">https://pinecast.com/guid/2106f636-6e0e-4dc6-b588-5c675ebf241c</guid>
+<pubDate>Fri, 28 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:33:29</itunes:duration>
+<itunes:subtitle>In the 9th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Daniel Gauthier.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/2106f636/daniel-gauthier</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/dbb66b0a-f829-41c3-b7f0-ee6d710befcd/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 9th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Daniel Gauthier.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@danielmgauthier" rel="nofollow">Daniel on Mastodon</a><br>
+<a href="https://danielgauthier.me" rel="nofollow">Daniel's Website</a><br>
+<a href="https://apps.apple.com/us/app/up-ahead-countdown-widgets/id1583147528" rel="nofollow">Up Ahead</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a><br>
+<a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  </p>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a><br>
+<a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://ohbother.app" rel="nofollow">Oh Bother</a><br>
+<a href="https://eggplant.show" rel="nofollow">Eggplant: The Secret Lives of Games</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Daniel Gauthier</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/2106f636-6e0e-4dc6-b588-5c675ebf241c.mp3?source=rss&amp;ext=asset.mp3" length="16655653" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>9</itunes:episode>
+</item>
+<item><title>S3E8: Vidit Bhargava</title>
+<guid isPermaLink="false">https://pinecast.com/guid/cd4e9562-4c1b-47f5-a111-fb11ff71963a</guid>
+<pubDate>Wed, 26 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:43:15</itunes:duration>
+<itunes:subtitle>In the 8th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Vidit Bhargava.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/cd4e9562/vidit-bhargava</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/16e0222e-5a68-47bc-9b9e-44ded4b68fb6/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 8th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Vidit Bhargava.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/viditb" rel="nofollow">Vidit on X</a><br>
+<a href="https://mastodon.social/@Viditb" rel="nofollow">Vidit on Mastodon</a><br>
+<a href="https://viditb.com" rel="nofollow">Vidit's website</a><br>
+<a href="https://apps.apple.com/us/app/lookup-english-dictionary/id872564448" rel="nofollow">LookUp</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Links</h1>
+<p><a href="https://en.wikipedia.org/wiki/Mark_Weiser" rel="nofollow">Mark Weiser</a><br>
+<a href="https://dynamicland.org" rel="nofollow">Dynamicland</a>  </p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Vidit Bhargava</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/cd4e9562-4c1b-47f5-a111-fb11ff71963a.mp3?source=rss&amp;ext=asset.mp3" length="21625495" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>8</itunes:episode>
+</item>
+<item><title>S3E7: Matt Heaney</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c8b7534d-41ff-432e-959c-bffa5817ea1a</guid>
+<pubDate>Mon, 24 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:33:16</itunes:duration>
+<itunes:subtitle>In the 7th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Matt Heaney.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/c8b7534d/matt-heaney</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/81f0b0a0-99ae-41e8-af5a-989ed0066b1f/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 7th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Matt Heaney.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/MattHeaney23" rel="nofollow">Matt on X</a><br>
+<a href="https://bsky.app/profile/mattheaney23.bsky.social" rel="nofollow">Matt on Bluesky</a>  </p>
+<p><a href="https://github.com/MattHeaney23/AppClipped" rel="nofollow">AppClipped</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>]]></description>
+<itunes:title>Matt Heaney</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c8b7534d-41ff-432e-959c-bffa5817ea1a.mp3?source=rss&amp;ext=asset.mp3" length="16140881" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>7</itunes:episode>
+</item>
+<item><title>S3E6: Hidde van der Ploeg</title>
+<guid isPermaLink="false">https://pinecast.com/guid/79eb09f8-fe11-41ca-8688-f340476b2af6</guid>
+<pubDate>Fri, 21 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:39:16</itunes:duration>
+<itunes:subtitle>In the 6th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Hidde van der Ploeg.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/79eb09f8/hidde-van-der-ploeg</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/73c943d7-885e-4f6b-9a52-d491face2505/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 6th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Hidde van der Ploeg.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/hiddevdploeg" rel="nofollow">Hidde on X</a><br>
+<a href="https://mastodon.design/@hidde" rel="nofollow">Hidde on Mastodon</a><br>
+<a href="https://bsky.app/profile/hiddevdploeg.bsky.social" rel="nofollow">Hidde on Bluesky</a>  </p>
+<p><a href="https://helm-app.com" rel="nofollow">Helm</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://cirruslabs.org" rel="nofollow">Cirrus Labs</a><br>
+<a href="https://bitdrift.io" rel="nofollow">bitdrift</a><br>
+<a href="https://swiftly-workspace.com" rel="nofollow">Swiftly-Workspace</a></p>]]></description>
+<itunes:title>Hidde van der Ploeg</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/79eb09f8-fe11-41ca-8688-f340476b2af6.mp3?source=rss&amp;ext=asset.mp3" length="19520179" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>6</itunes:episode>
+</item>
+<item><title>S3E5: Antoine van der Lee</title>
+<guid isPermaLink="false">https://pinecast.com/guid/37346aa5-5492-47fd-8138-aa5de1970c95</guid>
+<pubDate>Wed, 19 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:42:49</itunes:duration>
+<itunes:subtitle>In the 5th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Antoine van der Lee.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/37346aa5/antoine-van-der-lee</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/525f83d2-b23a-4742-932d-f71e64204df6/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 5th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Antoine van der Lee.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/twannl" rel="nofollow">Antoine on X</a><br>
+<a href="https://bsky.app/profile/avanderlee.com" rel="nofollow">Antoine on Bluesky</a>  </p>
+<p><a href="https://www.avanderlee.com" rel="nofollow">SwiftLee</a><br>
+<a href="https://www.rocketsim.app" rel="nofollow">RocketSim</a><br>
+<a href="https://swiftconcurrencycourse.com" rel="nofollow">Swift Concurrency Course</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://cirruslabs.org" rel="nofollow">Cirrus Labs</a><br>
+<a href="https://bitdrift.io" rel="nofollow">bitdrift</a><br>
+<a href="https://swiftly-workspace.com" rel="nofollow">Swiftly-Workspace</a></p>]]></description>
+<itunes:title>Antoine van der Lee</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/37346aa5-5492-47fd-8138-aa5de1970c95.mp3?source=rss&amp;ext=asset.mp3" length="20970800" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>5</itunes:episode>
+</item>
+<item><title>S3E4: Adrian Eves</title>
+<guid isPermaLink="false">https://pinecast.com/guid/7c384cda-b103-41f3-aaa3-c93c8c939325</guid>
+<pubDate>Mon, 17 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:41:07</itunes:duration>
+<itunes:subtitle>In the 4th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Adrian Eves.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/7c384cda/adrian-eves</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/38218205-18fb-46a1-9273-45c394de721a/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 4th episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Adrian Eves.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://x.com/swifteves" rel="nofollow">Adrian on X</a><br>
+<a href="https://mastodon.social/@swifteves" rel="nofollow">Adrian on Mastodon</a><br>
+<a href="https://bsky.app/profile/swifteves.bsky.social" rel="nofollow">Adrian on Bluesky</a>  </p>
+<p><a href="https://apps.apple.com/us/app/log-child-vitals-pediapal/id6739232517" rel="nofollow">Pediapal</a><br>
+<a href="https://club.macstories.net/posts/app-debuts-453" rel="nofollow">Pediapal on Club MacStories</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://bsky.app/profile/malinsundberg.com" rel="nofollow">Malin on Bluesky</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://bsky.app/profile/kaidombrowski.com" rel="nofollow">Kai on Bluesky</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://cirruslabs.org" rel="nofollow">Cirrus Labs</a><br>
+<a href="https://bitdrift.io" rel="nofollow">bitdrift</a><br>
+<a href="https://swiftly-workspace.com" rel="nofollow">Swiftly-Workspace</a></p>]]></description>
+<itunes:title>Adrian Eves</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/7c384cda-b103-41f3-aaa3-c93c8c939325.mp3?source=rss&amp;aid=fe7704d6-c9ba-432b-8339-fd139c0d5822.mp3" length="19916051" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>4</itunes:episode>
+</item>
+<item><title>S3E3: Danielle Lewis</title>
+<guid isPermaLink="false">https://pinecast.com/guid/3d73a13f-9557-49df-b740-d9c1e21f9f51</guid>
+<pubDate>Fri, 14 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:38:09</itunes:duration>
+<itunes:subtitle>In the 3rd episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Danielle Lewis.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/3d73a13f/danielle-lewis</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/9254ff6e-1f12-4767-9df5-f1d774c7c014/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 3rd episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Danielle Lewis.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://daniellelewis.dev" rel="nofollow">Danielle's Website</a><br>
+<a href="https://bsky.app/profile/daniellelewis.dev" rel="nofollow">Danielle on Bluesky</a><br>
+<a href="https://iosdev.space/@dlewisdev" rel="nofollow">Danielle on Mastodon</a>  </p>
+<h1>10 Apps</h1>
+<p><strong>iOS Apps:</strong></p>
+<ul>
+<li><a href="https://apps.apple.com/us/app/shinydex-shiny-tracker/id6504899853" rel="nofollow">ShinyDex - Shiny Tracker</a>  </li>
+<li><a href="https://apps.apple.com/us/app/whack-a-num/id6445917135" rel="nofollow">Whack-A-Num</a>  </li>
+<li><a href="https://apps.apple.com/us/app/legal-terms-law-dictionary/id6445917136" rel="nofollow">Legal Terms: Law Dictionary</a>  </li>
+<li><a href="https://apps.apple.com/us/app/cannoisseur/id6445917137" rel="nofollow">Cannoisseur</a>  </li>
+</ul>
+<p><strong>macOS App:</strong></p>
+<ul>
+<li><a href="https://apps.apple.com/us/app/codedump/id6445917138" rel="nofollow">CodeDump</a>  </li>
+</ul>
+<p><strong>visionOS Apps:</strong></p>
+<ul>
+<li><a href="https://apps.apple.com/us/app/shinydex-shiny-tracker/id6504899853" rel="nofollow">ShinyDex - Shiny Tracker</a>  </li>
+<li><a href="https://apps.apple.com/us/app/spatial-currency-converter/id6445917139" rel="nofollow">Spatial Currency Converter</a>  </li>
+<li><a href="https://apps.apple.com/us/app/vinyl-vision/id6445917140" rel="nofollow">Vinyl Vision</a>  </li>
+<li><a href="https://apps.apple.com/us/app/spatial-calculator/id6445917141" rel="nofollow">Spatial Calculator</a>  </li>
+<li><a href="https://apps.apple.com/us/app/spatial-timer/id6445917142" rel="nofollow">Spatial Timer</a>  </li>
+<li><a href="https://apps.apple.com/us/app/spatial-metronome/id6445917143" rel="nofollow">Spatial Metronome</a>  </li>
+</ul>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://www.threads.net/@malinsundberg" rel="nofollow">Malin on Threads</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://www.threads.net/@kaidombrowski" rel="nofollow">Kai on Threads</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>
+<h1>Links</h1>
+<p><a href="https://wiki.c2.com/?WardExplainsDebtMetaphor" rel="nofollow">Ward Explains Debt Metaphor</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://cirruslabs.org" rel="nofollow">Cirrus Labs</a><br>
+<a href="https://bitdrift.io" rel="nofollow">bitdrift</a><br>
+<a href="https://swiftly-workspace.com" rel="nofollow">Swiftly-Workspace</a></p>]]></description>
+<itunes:title>Danielle Lewis</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/3d73a13f-9557-49df-b740-d9c1e21f9f51.mp3?source=rss&amp;ext=asset.mp3" length="18455418" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>3</itunes:episode>
+</item>
+<item><title>S3E2: Jacob Rakidzich</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9f016957-237a-4d35-af55-3ad11a4cd697</guid>
+<pubDate>Wed, 12 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>00:39:30</itunes:duration>
+<itunes:subtitle>In the 2nd episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Jacob Rakidzich.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/9f016957/jacob-rakidzich</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/0798b334-a871-4eb4-80c2-476995e5b586/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 2nd episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Jacob Rakidzich.  </p>
+<h1>Special Guest</h1>
+<p><a href="https://jacobzivandesign.com" rel="nofollow">Jacob's Website</a><br>
+<a href="https://bsky.app/profile/jacobzivandesign.bsky.social" rel="nofollow">Jacob on Bluesky</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://www.threads.net/@malinsundberg" rel="nofollow">Malin on Threads</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://www.threads.net/@kaidombrowski" rel="nofollow">Kai on Threads</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>
+<h1>Links</h1>
+<p><a href="https://wiki.c2.com/?WardExplainsDebtMetaphor" rel="nofollow">Ward Explains Debt Metaphor</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://cirruslabs.org" rel="nofollow">Cirrus Labs</a><br>
+<a href="https://bitdrift.io" rel="nofollow">bitdrift</a><br>
+<a href="https://swiftly-workspace.com" rel="nofollow">Swiftly-Workspace</a></p>]]></description>
+<itunes:title>Jacob Rakidzich</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9f016957-237a-4d35-af55-3ad11a4cd697.mp3?source=rss&amp;ext=asset.mp3" length="19065654" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>2</itunes:episode>
+</item>
+<item><title>S3E1: Adam Shaw</title>
+<guid isPermaLink="false">https://pinecast.com/guid/2e7d4ec1-a54c-4b43-a785-d367dda58a83</guid>
+<pubDate>Mon, 10 Mar 2025 16:41:00 -0000</pubDate>
+
+<itunes:duration>01:03:43</itunes:duration>
+<itunes:subtitle>In the 1st episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Adam Shaw.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/2e7d4ec1/adam-shaw</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/207a1a84-42ff-42c6-8583-69c24116ea1f/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 3</h1>
+<p>In the 1st episode of Season 3 of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Adam Shaw.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@KabukiVision" rel="nofollow">Adam on Mastodon</a><br>
+<a href="https://kabukivision.com" rel="nofollow">Adam's Website</a><br>
+<a href="https://bonobolabs.com" rel="nofollow">Bonobo Labs</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://www.threads.net/@malinsundberg" rel="nofollow">Malin on Threads</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://www.threads.net/@kaidombrowski" rel="nofollow">Kai on Threads</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://cirruslabs.org" rel="nofollow">Cirrus Labs</a><br>
+<a href="https://bitdrift.io" rel="nofollow">bitdrift</a><br>
+<a href="https://swiftly-workspace.com" rel="nofollow">Swiftly-Workspace</a></p>]]></description>
+<itunes:title>Adam Shaw</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/2e7d4ec1-a54c-4b43-a785-d367dda58a83.mp3?source=rss&amp;ext=asset.mp3" length="30769199" type="audio/mpeg" />
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+</item>
+<item><title>S2E19: Matt Massicotte</title>
+<guid isPermaLink="false">https://pinecast.com/guid/f6377a07-7e77-4045-8f63-527e219beb93</guid>
+<pubDate>Fri, 07 Mar 2025 17:41:00 -0000</pubDate>
+
+<itunes:duration>00:53:05</itunes:duration>
+<itunes:subtitle>In the 19th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Matt Massicotte.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/f6377a07/matt-massicotte</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/9d94f6d7-465f-40d7-9020-e684267b6881/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the 19th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Matt Massicotte.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a></p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@mattiem" rel="nofollow">Matt on Mastodon</a><br>
+<a href="https://www.massicotte.org" rel="nofollow">Matt's Website</a></p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://www.threads.net/@malinsundberg" rel="nofollow">Malin on Threads</a></p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://www.threads.net/@kaidombrowski" rel="nofollow">Kai on Threads</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://appdab.app" rel="nofollow">AppDab</a><br>
+<a href="https://shockoe.com" rel="nofollow">shockoe</a></p>]]></description>
+<itunes:title>Matt Massicotte</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/f6377a07-7e77-4045-8f63-527e219beb93.mp3?source=rss&amp;ext=asset.mp3" length="25781694" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>19</itunes:episode>
+</item>
+<item><title>S2E18: Ariel Michaeli</title>
+<guid isPermaLink="false">https://pinecast.com/guid/58034f6b-1492-4824-b067-76a7e0ae59b5</guid>
+<pubDate>Thu, 06 Mar 2025 07:00:00 -0000</pubDate>
+
+<itunes:duration>01:00:59</itunes:duration>
+<itunes:subtitle>In the 18th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ariel Michaeli.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/58034f6b/ariel-michaeli</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/0d80617c-9868-4017-99b1-45af3025cd81/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the 18th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ariel Michaeli.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://x.com/DeepDishSwift" rel="nofollow">Deep Dish Swift X</a>  </p>
+<h1>Special Guests</h1>
+<p><a href="https://x.com/arielmichaeli" rel="nofollow">Ariel on X</a>  
+<a href="https://www.youtube.com/channel/UCfvk5lomVsbHBYWciRVNHlg" rel="nofollow">Ariel on YouTube</a>  </p>
+<p><a href="https://appfigures.com" rel="nofollow">Appfigures</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://x.com/malinsundberg" rel="nofollow">Malin on X</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  
+<a href="https://www.threads.net/@malinsundberg" rel="nofollow">Malin on Threads</a>  </p>
+<p><a href="https://x.com/airkai" rel="nofollow">Kai on X</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  
+<a href="https://www.threads.net/@kaidombrowski" rel="nofollow">Kai on Threads</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>   </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://appdab.app" rel="nofollow">AppDab</a><br>
+<a href="https://shockoe.com" rel="nofollow">shockoe</a></p>]]></description>
+<itunes:title>Ariel Michaeli</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/58034f6b-1492-4824-b067-76a7e0ae59b5.mp3?source=rss&amp;ext=asset.mp3" length="29717482" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>18</itunes:episode>
+</item>
+<item><title>S2E17: Charlie Chapman</title>
+<guid isPermaLink="false">https://pinecast.com/guid/281af33f-7bb2-4a89-b23d-90dd26c4e4ea</guid>
+<pubDate>Sat, 04 May 2024 05:50:00 -0000</pubDate>
+
+<itunes:duration>02:02:25</itunes:duration>
+<itunes:subtitle>In the 17th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Charlie Chapman.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/281af33f/charlie-chapman</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/d34fe789-ae6a-4334-ba88-5c8445cdb8c5/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the 17th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Charlie Chapman.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guests</h1>
+<p><a href="https://twitter.com/_chuckyc" rel="nofollow">Charlie on Twitter</a>  
+<a href="https://mastodon.social/@charliemchapman" rel="nofollow">Charlie on Mastodon</a><br>
+<a href="https://www.threads.net/@charliemchapman" rel="nofollow">Charlie on Threads</a>  </p>
+<p><a href="https://podcasts.apple.com/us/podcast/charlie-chapman/id1670026071?i=1000610891293" rel="nofollow">Charlie on Season 1 of Slices</a><br>
+<a href="https://darknoise.app" rel="nofollow">Dark Noise</a><br>
+<a href="https://launchedfm.com" rel="nofollow">Launched</a>  </p>
+<p><a href="https://drive.google.com/file/d/1O8j3hM3s4FDH05d587YTjHeeoJ9txENf/view?usp=share_link" rel="nofollow">🍌🍕</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  
+<a href="https://www.threads.net/@malinsundberg" rel="nofollow">Malin on Threads</a>  </p>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  
+<a href="https://www.threads.net/@kaidombrowski" rel="nofollow">Kai on Threads</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Slice by Slice – Lyrics</h1>
+<p>[Verse]<br>
+Grab a slice of the action<br>
+We're here to make it happen<br>
+Deep Dish Swift<br>
+The conference is crackin'<br>
+In the Windy City<br>
+Where it's oh so chill<br>
+We're bringing developers together<br>
+It's a thrill  </p>
+<p>[Verse 2]<br>
+From beginners to pros<br>
+We've got it covered<br>
+Apple platform dev<br>
+We'll leave you smothered<br>
+With knowledge and connections<br>
+We'll help you grow<br>
+Indie developer day<br>
+You know it's gonna show  </p>
+<p>[Chorus]<br>
+Slice by slice<br>
+We're taking a bite<br>
+At Deep Dish Swift<br>
+We're gonna ignite<br>
+Pizza puns and Swift code<br>
+It's all in play<br>
+At the conference where the magic stays  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://appdab.app" rel="nofollow">AppDab</a><br>
+<a href="https://shockoe.com" rel="nofollow">shockoe</a></p>]]></description>
+<itunes:title>Charlie Chapman</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/281af33f-7bb2-4a89-b23d-90dd26c4e4ea.mp3?source=rss&amp;aid=08f3cbbe-3775-400d-a127-38c4699f0344.mp3" length="118639282" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>17</itunes:episode>
+</item>
+<item><title>S2E16: Jamie Blumberg &amp; Jay Soumphount</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c9c2a22d-c361-459b-9373-9fae62880bbc</guid>
+<pubDate>Fri, 03 May 2024 22:38:22 -0000</pubDate>
+
+<itunes:duration>00:47:31</itunes:duration>
+<itunes:subtitle>In the 17th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Jamie Blumberg &amp; Jay Soumphount.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/c9c2a22d/jamie-blumberg-jay-soumphount</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/a88fa472-2807-448b-b898-1b88098a8dd6/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the 15th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with James Dempsey, Mac and iOS developer, trainer, and songwriter.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guests</h1>
+<p><a href="https://hachyderm.io/@jamie_blumberg/" rel="nofollow">Jamie on Mastodon</a>  
+<a href="https://twitter.com/JSoumphont" rel="nofollow">Jay on Twitter</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://appdab.app" rel="nofollow">AppDab</a><br>
+<a href="https://shockoe.com" rel="nofollow">shockoe</a></p>]]></description>
+<itunes:title>Jamie Blumberg &amp; Jay Soumphount</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c9c2a22d-c361-459b-9373-9fae62880bbc.mp3?source=rss&amp;ext=asset.mp3" length="22891128" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>16</itunes:episode>
+</item>
+<item><title>S2E15: James Dempsey</title>
+<guid isPermaLink="false">https://pinecast.com/guid/8f1fcdf8-6d46-4c39-83e3-f3ceab283a90</guid>
+<pubDate>Thu, 02 May 2024 03:40:18 -0000</pubDate>
+
+<itunes:duration>01:33:34</itunes:duration>
+<itunes:subtitle>In the 15th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with James Dempsey, Mac and iOS developer, trainer, and songwriter.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/8f1fcdf8/james-dempsey</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/f322f54e-db56-4613-b572-fb203b83c283/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the 15th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with James Dempsey, Mac and iOS developer, trainer, and songwriter.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@jamesdempsey" rel="nofollow">James on Mastodon</a>  
+<a href="https://jamesdempsey.net" rel="nofollow">James's website</a><br>
+<a href="https://swiftversion.net" rel="nofollow">Swift Version</a><br>
+<a href="https://buildsettingextractor.com" rel="nofollow">BuildSettingExtractor</a>  </p>
+<p><a href="https://www.amicis.com" rel="nofollow">Amici's East Coast Pizzaria</a></p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://appdab.app" rel="nofollow">AppDab</a><br>
+<a href="https://shockoe.com" rel="nofollow">shockoe</a></p>]]></description>
+<itunes:title>James Dempsey</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/8f1fcdf8-6d46-4c39-83e3-f3ceab283a90.mp3?source=rss&amp;ext=asset.mp3" length="45003979" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>15</itunes:episode>
+</item>
+<item><title>S2E14: Kim Arnett</title>
+<guid isPermaLink="false">https://pinecast.com/guid/b699571d-ccf9-459c-9009-9971c13e94bb</guid>
+<pubDate>Wed, 01 May 2024 07:13:06 -0000</pubDate>
+
+<itunes:duration>00:47:11</itunes:duration>
+<itunes:subtitle>In the 14th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin talk with Kim Arnett, iOS developer and mobile team lead. </itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/b699571d/kim-arnett</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/245a8e8d-6323-4514-8371-0d43a4e1ee59/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the 14th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin talk with Kim Arnett, iOS developer and mobile team lead.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/kaydacode" rel="nofollow">Kim on Twitter</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io" rel="nofollow">Sentry</a><br>
+<a href="https://appdab.app" rel="nofollow">AppDab</a></p>]]></description>
+<itunes:title>Kim Arnett</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/b699571d-ccf9-459c-9009-9971c13e94bb.mp3?source=rss&amp;ext=asset.mp3" length="22757061" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>14</itunes:episode>
+</item>
+<item><title>S2E13: Brad Larson</title>
+<guid isPermaLink="false">https://pinecast.com/guid/f885ba0a-ce70-4b5e-bd5b-e28349fc8bf2</guid>
+<pubDate>Wed, 01 May 2024 01:15:59 -0000</pubDate>
+
+<itunes:duration>00:47:48</itunes:duration>
+<itunes:subtitle>In the 13th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin talk with Brad Larson, developer behind GPUImage, Molecules, Pi Cubed, and much more.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/f885ba0a/brad-larson</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/cc0f167a-7e87-4584-bca4-4b12fb647b41/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the 13th episode of Slices: The Deep Dish Swift Podcast, Kai and Malin talk with Brad Larson, developer behind GPUImage, Molecules, Pi Cubed, and much more.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://hachyderm.io/@bradlarson" rel="nofollow">Brad on Mastodon</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://www.modular.com" rel="nofollow">Modular</a>  
+<a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Brad Larson</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/f885ba0a-ce70-4b5e-bd5b-e28349fc8bf2.mp3?source=rss&amp;ext=asset.mp3" length="23097361" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>13</itunes:episode>
+</item>
+<item><title>S2E12: Dave DeLong</title>
+<guid isPermaLink="false">https://pinecast.com/guid/99968c7d-ec93-4ca0-8f24-cf49568af0a3</guid>
+<pubDate>Sat, 27 Apr 2024 05:04:37 -0000</pubDate>
+
+<itunes:duration>00:49:09</itunes:duration>
+<itunes:subtitle>In the twelfth episode of Slices: The Deep Dish Swift Podcast, Kai and Malin talk with Dave DeLong, software developer and date math connoisseur.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/99968c7d/dave-delong</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/09627bc1-3ff2-44ce-b481-6005beab1fd2/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the twelfth episode of Slices: The Deep Dish Swift Podcast, Kai and Malin talk with Dave DeLong, software developer and date math connoisseur.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@davedelong" rel="nofollow">Dave on Mastodon</a>  
+<a href="https://davedelong.com" rel="nofollow">Dave's Website</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://yourcalendricalfallacyis.com" rel="nofollow">Your Calendrical Fallacy Is...</a>  
+<a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Dave DeLong</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/99968c7d-ec93-4ca0-8f24-cf49568af0a3.mp3?source=rss&amp;ext=asset.mp3" length="23697394" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>12</itunes:episode>
+</item>
+<item><title>S2E11: Kabir Oberai</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9cee1e2a-76fd-4ca5-ba22-57f61f1c1493</guid>
+<pubDate>Wed, 24 Apr 2024 23:15:46 -0000</pubDate>
+
+<itunes:duration>01:01:52</itunes:duration>
+<itunes:subtitle>In the eleventh episode of Slices: The Deep Dish Swift Podcast, Kai and Malin speak with Kabir Oberai, iOS lead developer and University of Waterloo student. They discuss Kabir's iOS development journey, the co-op program at Waterloo, and his insights on </itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/9cee1e2a/kabir-oberai</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/0022fa70-3783-45c2-8640-50dbc0fa9b4c/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the eleventh episode of Slices: The Deep Dish Swift Podcast, Kai and Malin speak with Kabir Oberai, iOS lead developer and University of Waterloo student. They discuss Kabir's iOS development journey, the co-op program at Waterloo, and his insights on app security and much more. </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@kabiroberai" rel="nofollow">Kabir on Mastodon</a>  
+<a href="https://twitter.com/kabiroberai" rel="nofollow">Kabir on Twitter</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Kabir Oberai</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9cee1e2a-76fd-4ca5-ba22-57f61f1c1493.mp3?source=rss&amp;ext=asset.mp3" length="29803881" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>11</itunes:episode>
+</item>
+<item><title>S2E10: Daniel Steinberg</title>
+<guid isPermaLink="false">https://pinecast.com/guid/505cc3ab-7b8b-4cdb-adaf-1c1ac58275c6</guid>
+<pubDate>Mon, 22 Apr 2024 04:06:37 -0000</pubDate>
+
+<itunes:duration>00:47:07</itunes:duration>
+<itunes:subtitle>In the tenth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Daniel Steinberg, a seasoned author and developer. Daniel shares his journey from mathematics to software development, early experience with iPhone programm</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/505cc3ab/daniel-steinberg</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/0e649d1b-ce42-4f9f-8f63-f561e27dc363/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the tenth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Daniel Steinberg, a seasoned author and developer. Daniel shares his journey from mathematics to software development, early experience with iPhone programming, and his approach to teaching and writing about iOS and Swift programming.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@dimsumthinking" rel="nofollow">Daniel on Mastodon</a>  
+<a href="https://editorscut.com/Books/" rel="nofollow">Daniel's Books</a><br>
+<a href="https://dimsumthinking.com" rel="nofollow">Dim Sum Thinking Website</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Daniel Steinberg</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/505cc3ab-7b8b-4cdb-adaf-1c1ac58275c6.mp3?source=rss&amp;ext=asset.mp3" length="22933078" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>10</itunes:episode>
+</item>
+<item><title>S2E9: Jessie Linden</title>
+<guid isPermaLink="false">https://pinecast.com/guid/f7ec489f-6e5e-4ea0-b553-b5001817e69c</guid>
+<pubDate>Mon, 15 Apr 2024 00:37:18 -0000</pubDate>
+
+<itunes:duration>00:45:32</itunes:duration>
+<itunes:subtitle>In the ninth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin talk with Jessie Linden, a drummer, percussionist, and iOS developer. We’re chatting about Jessie’s dual career path in music and iOS development, performing on stage</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/f7ec489f/jessie-linden</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/1bce293e-85db-4ebe-a39f-613ea9aa0cc4/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the ninth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin talk with Jessie Linden, a drummer, percussionist, and iOS developer. We’re chatting about Jessie’s dual career path in music and iOS development, performing on stage, NYC, landline phones, and much more.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/jessielinden" rel="nofollow">Jessie on Twitter</a>  
+<a href="https://mastodon.online/@jessielinden" rel="nofollow">Jessie on Mastodon</a>  
+<a href="https://bento.me/jessielinden" rel="nofollow">Jessie's Website</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Jessie Linden</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/f7ec489f-6e5e-4ea0-b553-b5001817e69c.mp3?source=rss&amp;ext=asset.mp3" length="22325679" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>9</itunes:episode>
+</item>
+<item><title>S2E8: Craig Clayton</title>
+<guid isPermaLink="false">https://pinecast.com/guid/67adadb0-284c-443f-8b7c-391869e2f4d3</guid>
+<pubDate>Sat, 13 Apr 2024 06:43:25 -0000</pubDate>
+
+<itunes:duration>00:59:44</itunes:duration>
+<itunes:subtitle>In the eighth episode of season two of Slices: The Deep Dish Swift Podcast, hosts Kai and Malin speak with Craig Clayton, a senior iOS engineer and educator. Craig discusses his journey from Flash to iOS development, his current projects, and his passion </itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/67adadb0/craig-clayton</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/72d3341c-1fe8-476e-9bb8-2fae86875823/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the eighth episode of season two of Slices: The Deep Dish Swift Podcast, hosts Kai and Malin speak with Craig Clayton, a senior iOS engineer and educator. Craig discusses his journey from Flash to iOS development, his current projects, and his passion for teaching and SwiftUI.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a></p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/thedevme" rel="nofollow">Craig on Twitter</a><br>
+<a href="https://mastodon.cloud/@thedevme" rel="nofollow">Craig on Mastodon</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a></p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a></p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a></p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Craig Clayton</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/67adadb0-284c-443f-8b7c-391869e2f4d3.mp3?source=rss&amp;ext=asset.mp3" length="28784877" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>8</itunes:episode>
+</item>
+<item><title>S2E7: Tim Condon</title>
+<guid isPermaLink="false">https://pinecast.com/guid/204a8bbf-f1c8-4720-b326-ea294949e565</guid>
+<pubDate>Sun, 31 Mar 2024 00:32:37 -0000</pubDate>
+
+<itunes:duration>00:39:45</itunes:duration>
+<itunes:subtitle>In the seventh episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Tim Condon, part of the Vapor Core Team, the Swift Server Work Group, and the server-side Swift team at Kodeco.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/204a8bbf/tim-condon</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/e1cc6a32-43b0-4b6d-bfc1-5f49f3b29823/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the seventh episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Tim Condon, part of the Vapor Core Team, the Swift Server Work Group, and the server-side Swift team at Kodeco.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/0xTim" rel="nofollow">Tim on Twitter</a>  
+<a href="https://hachyderm.io/@0xTim" rel="nofollow">Tim on Mastodon</a>  
+<a href="https://www.timc.dev/" rel="nofollow">Tim's Webside</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Tim Condon</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/204a8bbf-f1c8-4720-b326-ea294949e565.mp3?source=rss&amp;ext=asset.mp3" length="19212947" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>7</itunes:episode>
+</item>
+<item><title>S2E6: Stewart Lynch</title>
+<guid isPermaLink="false">https://pinecast.com/guid/0d917a33-3c02-4529-bfff-4d488cbf9dcd</guid>
+<pubDate>Wed, 27 Mar 2024 07:17:02 -0000</pubDate>
+
+<itunes:duration>00:47:04</itunes:duration>
+<itunes:subtitle>In the sixth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Stewart Lynch, independent iOS developer and YouTuber.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/0d917a33/stewart-lynch</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/cbdca708-e612-4891-b1d7-d55180775ac9/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the sixth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Stewart Lynch, independent iOS developer and YouTuber.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/StewartLynch" rel="nofollow">Stewart on Twitter</a>  
+<a href="https://iosdev.space/@StewartLynch" rel="nofollow">Stewart on Mastodon</a>  
+<a href="https://www.youtube.com/@StewartLynch" rel="nofollow">Stewart on YouTube</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Stewart Lynch</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/0d917a33-3c02-4529-bfff-4d488cbf9dcd.mp3?source=rss&amp;ext=asset.mp3" length="22758993" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>6</itunes:episode>
+</item>
+<item><title>S2E5: Krzysztof Zabłocki</title>
+<guid isPermaLink="false">https://pinecast.com/guid/02f8bcc7-9f2e-4fc4-8060-ddf1f7b32726</guid>
+<pubDate>Thu, 21 Mar 2024 21:00:00 -0000</pubDate>
+
+<itunes:duration>00:47:51</itunes:duration>
+<itunes:subtitle>In the fifth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Krzysztof Zabłocki, the author of tools like Sourcery Pro and Inject and the creator of Swifty Stack.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/02f8bcc7/krzysztof-zab-ocki</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/f16ef8fb-bac3-4f12-a904-6752d821d518/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the fifth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Krzysztof Zabłocki, the author of tools like Sourcery Pro and Inject and the creator of Swifty Stack.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/merowing_" rel="nofollow">Krzysztof on Twitter</a>  
+<a href="https://www.merowing.info" rel="nofollow">Krzysztof's Webside</a>  
+<a href="https://www.swiftystack.com" rel="nofollow">Swifty Stack</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Krzysztof Zabłocki</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/02f8bcc7-9f2e-4fc4-8060-ddf1f7b32726.mp3?source=rss&amp;ext=asset.mp3" length="23074189" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>5</itunes:episode>
+</item>
+<item><title>S2E4: Christian Selig</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c1c689e2-eafb-4736-aeca-4c1c479ca46c</guid>
+<pubDate>Mon, 18 Mar 2024 06:26:18 -0000</pubDate>
+
+<itunes:duration>00:49:58</itunes:duration>
+<itunes:subtitle>In the fourth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Christian Selig, the developer and creator of Pixel Pals, Juno, and Apollo.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/c1c689e2/christian-selig</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/7e5d2992-3c01-45b0-916f-b18553f675b7/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the fourth episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Christian Selig, the developer and creator of Pixel Pals, Juno, and Apollo.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/ChristianSelig" rel="nofollow">Christian on Twitter</a>  
+<a href="https://mastodon.social/@christianselig" rel="nofollow">Christian on Mastodon</a>  
+<a href="https://apps.apple.com/app/pixel-pals-widget-pet-game/id6443919232" rel="nofollow">Pixel Pals</a>  
+<a href="https://apps.apple.com/app/juno-for-youtube/id6476961640" rel="nofollow">Juno</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<p><a href="https://apps.apple.com/app/apple-store/id1621800675" rel="nofollow">Mercury Weather</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Christian Selig</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c1c689e2-eafb-4736-aeca-4c1c479ca46c.mp3?source=rss&amp;ext=asset.mp3" length="24091052" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>4</itunes:episode>
+</item>
+<item><title>S2E3: Chris Vasselli</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c2609a82-6c98-4dfb-ae09-c23158d371c0</guid>
+<pubDate>Tue, 12 Mar 2024 07:10:00 -0000</pubDate>
+
+<itunes:duration>00:52:09</itunes:duration>
+<itunes:subtitle>In the third episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Chris Vasselli, the indie developer behind the Japanese dictionary and study tools Nihongo and Nihongo Lessons.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/c2609a82/chris-vasselli</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/c2191bc0-e9f2-4001-943c-be00f45dbe17/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the third episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Chris Vasselli, the indie developer behind the Japanese dictionary and study tools Nihongo and Nihongo Lessons.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a>  
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a>  
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/chrisvasselli" rel="nofollow">Chris on Twitter</a>  
+<a href="https://mstdn.social/@chrisvasselli" rel="nofollow">Chris on Mastodon</a>  
+<a href="https://nihongo-app.com" rel="nofollow">Nihongo</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a>  
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a>  
+<a href="https://www.runway.team" rel="nofollow">Runway</a>  
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a>  
+<a href="https://superwall.com" rel="nofollow">Superwall</a>  
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Chris Vasselli</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c2609a82-6c98-4dfb-ae09-c23158d371c0.mp3?source=rss&amp;ext=asset.mp3" length="25143866" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>3</itunes:episode>
+</item>
+<item><title>S2E2: Jordi Bruin</title>
+<guid isPermaLink="false">https://pinecast.com/guid/47932fe6-f879-481e-b096-cd47a94100ce</guid>
+<pubDate>Fri, 08 Mar 2024 23:00:00 -0000</pubDate>
+
+<itunes:duration>00:58:42</itunes:duration>
+<itunes:subtitle>In the second episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Jordi Bruin, indie dev at Good Snooze, building cool things like MacWhisper, Navi, Posture Pal, Vivid and much more.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/47932fe6/jordi-bruin</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/4722f9ac-dcf4-44d7-b0b5-9c3dc85e0895/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the second episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Jordi Bruin, indie dev at Good Snooze, building cool things like MacWhisper, Navi, Posture Pal, Vivid and much more.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/jordibruin" rel="nofollow">Jordi on Twitter</a><br>
+<a href="https://goodsnooze.gumroad.com" rel="nofollow">Good Snooze on Gumroad</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a><br>
+<a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a>  </p>
+<p><a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a><br>
+<a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>Jordi Bruin</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/47932fe6-f879-481e-b096-cd47a94100ce.mp3?source=rss&amp;ext=asset.mp3" length="28285869" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>2</itunes:episode>
+</item>
+<item><title>S2E1: How the Pie Is Made, Again!</title>
+<guid isPermaLink="false">https://pinecast.com/guid/23d27085-fe70-4d93-b7ba-821cc1088fa3</guid>
+<pubDate>Tue, 05 Mar 2024 10:00:00 -0000</pubDate>
+
+<itunes:duration>00:53:38</itunes:duration>
+<itunes:subtitle>In the first episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Josh Holtz and Kari Holtz, the organizers of the Deep Dish Swift Conference.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/23d27085/how-the-pie-is-made-again-</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/70773817-2ad0-48a3-a512-9d2ecda82a7b/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast – Season 2</h1>
+<p>In the first episode of season two of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Josh Holtz and Kari Holtz, the organizers of the Deep Dish Swift Conference.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guests</h1>
+<p><a href="https://twitter.com/krenzel22" rel="nofollow">Kari on Twitter</a><br>
+<a href="https://mastodon.social/@joshdholtz" rel="nofollow">Josh on Mastodon</a><br>
+<a href="https://twitter.com/joshdholtz" rel="nofollow">Josh on Twitter</a></p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://superwall.com" rel="nofollow">Superwall</a><br>
+<a href="https://sentry.io/" rel="nofollow">Sentry</a></p>]]></description>
+<itunes:title>How the Pie Is Made, Again!</itunes:title>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/23d27085-fe70-4d93-b7ba-821cc1088fa3.mp3?source=rss&amp;aid=e5a7cdec-005e-4ec4-baa4-7ba24d00ac94.mp3" length="25821926" type="audio/mpeg" />
+<itunes:season>2</itunes:season>
+<itunes:episode>1</itunes:episode>
+</item>
+<item><title>Charlie Chapman</title>
+<guid isPermaLink="false">https://pinecast.com/guid/61b92f0b-ee25-4c60-9a50-e6ba2249fd50</guid>
+<pubDate>Thu, 27 Apr 2023 15:00:00 -0000</pubDate>
+
+<itunes:duration>01:31:41</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Charlie Chapman, iOS Developer, the creator of Dark Noise, the host of the Launched Podcast, podcaster at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/61b92f0b/charlie-chapman</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/89012d0b-210e-4e81-a0d7-8242763e7f3c/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Charlie Chapman, iOS Developer, the creator of Dark Noise, the host of the Launched Podcast, podcaster at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/_chuckyc" rel="nofollow">Charlie on Twitter</a><br>
+<a href="https://mastodon.social/@charliemchapman" rel="nofollow">Charlie on Mastodon</a><br>
+<a href="https://charliemchapman.com/" rel="nofollow">Charlie’s Blog</a><br>
+<a href="https://darknoise.app/" rel="nofollow">Dark Noise</a><br>
+<a href="https://launchedfm.com/" rel="nofollow">Launched</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/61b92f0b-ee25-4c60-9a50-e6ba2249fd50.mp3?source=rss&amp;aid=40bb6c62-2ce2-48e2-b958-839e6545d6a5.mp3" length="44089099" type="audio/mpeg" />
+</item>
+<item><title>Zach Brass</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c9247f8c-c443-4599-b76b-893300d3824f</guid>
+<pubDate>Wed, 26 Apr 2023 15:00:00 -0000</pubDate>
+
+<itunes:duration>01:04:01</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Zach Brass, iOS Developer, mentor at Underdog Devs, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/c9247f8c/zach-brass</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/d69b5ab8-b6c9-4fa3-b14b-3e54fd6ffe83/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Zach Brass, iOS Developer, mentor at Underdog Devs, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<p><a href="https://www.youtube.com/watch?v=knbVWXzL4-4" rel="nofollow">Not Just Bikes – Why the Dutch Wait Less at Traffic Lights</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/zhbrass" rel="nofollow">Zach on Twitter</a><br>
+<a href="https://www.underdogdevs.org/" rel="nofollow">Underdog Devs</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c9247f8c-c443-4599-b76b-893300d3824f.mp3?source=rss&amp;ext=asset.mp3" length="30834313" type="audio/mpeg" />
+</item>
+<item><title>Ben Proothi</title>
+<guid isPermaLink="false">https://pinecast.com/guid/01bdda91-ffe5-4b30-85e8-337459ae285d</guid>
+<pubDate>Tue, 25 Apr 2023 15:00:00 -0000</pubDate>
+
+<itunes:duration>00:44:02</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ben Proothi, Software Engineer, student, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/01bdda91/ben-proothi</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/d686e253-1b26-493a-a709-6e7af956a627/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ben Proothi, Software Engineer, student, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/benproothi" rel="nofollow">Ben on Twitter</a><br>
+<a href="https://twitter.com/benproothi" rel="nofollow">Ben on Instagram</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/01bdda91-ffe5-4b30-85e8-337459ae285d.mp3?source=rss&amp;ext=asset.mp3" length="21239939" type="audio/mpeg" />
+</item>
+<item><title>Rudrank Riyam</title>
+<guid isPermaLink="false">https://pinecast.com/guid/08d6d8d7-9a3c-47a1-881b-088ac4739188</guid>
+<pubDate>Mon, 24 Apr 2023 03:00:00 -0000</pubDate>
+
+<itunes:duration>00:43:15</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Rudrank Riyam, developer relations engineer, technical writer, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/08d6d8d7/rudrank-riyam</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/9e89603f-aaa1-412b-bb32-3ea9cfcff015/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Rudrank Riyam, developer relations engineer, technical writer, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/rudrankriyam" rel="nofollow">Rudrank on Twitter</a><br>
+<a href="https://mastodon.social/@rudrank" rel="nofollow">Rudrank on Mastodon</a><br>
+<a href="https://rryam.com/" rel="nofollow">Rudrank’s Blog</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/08d6d8d7-9a3c-47a1-881b-088ac4739188.mp3?source=rss&amp;ext=asset.mp3" length="20864105" type="audio/mpeg" />
+</item>
+<item><title>Vui Nguyen</title>
+<guid isPermaLink="false">https://pinecast.com/guid/fa5ff18c-d259-4763-a14a-29549383db23</guid>
+<pubDate>Sun, 23 Apr 2023 00:10:46 -0000</pubDate>
+
+<itunes:duration>00:41:37</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Vui Nguyen, iOS Engineer, Volunteer Lead of Women Who Code Mobile, Google WomenTechmakers Ambassador, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/fa5ff18c/vui-nguyen</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/d8826d58-6d88-4fed-9fb0-15c61f5a3b3d/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Vui Nguyen, iOS Engineer, Volunteer Lead of Women Who Code Mobile, Google WomenTechmakers Ambassador, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://sunfishempire.wordpress.com/" rel="nofollow">Vui’s Website</a><br>
+<a href="https://twitter.com/sunfishgurl" rel="nofollow">Vui on Twitter</a><br>
+<a href="https://www.linkedin.com/in/vuinguyen/" rel="nofollow">Vui on Linkedin</a><br>
+<a href="https://www.womenwhocode.com/" rel="nofollow">Women who Code</a><br>
+<a href="https://developers.google.com/womentechmakers" rel="nofollow">Women Techmakers</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/fa5ff18c-d259-4763-a14a-29549383db23.mp3?source=rss&amp;ext=asset.mp3" length="20338034" type="audio/mpeg" />
+</item>
+<item><title>Ben Scheirman</title>
+<guid isPermaLink="false">https://pinecast.com/guid/63c3ea49-0826-41c3-a7a2-b611a2709487</guid>
+<pubDate>Sun, 16 Apr 2023 18:00:00 -0000</pubDate>
+
+<itunes:duration>00:54:25</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ben Scheirman, iOS Engineer at Nike, the creator of Combine Swift Course and NSScreenCast, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/63c3ea49/ben-scheirman</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/f9de7908-705a-4aec-a074-521f0372b7a9/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ben Scheirman, iOS Engineer at Nike, the creator of Combine Swift Course and NSScreenCast, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.xyz/@bens" rel="nofollow">Ben on Mastodon</a><br>
+<a href="https://nsscreencast.com/episodes" rel="nofollow">NSScreenCast</a><br>
+<a href="https://combineswift.com/" rel="nofollow">Combine Swift</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/63c3ea49-0826-41c3-a7a2-b611a2709487.mp3?source=rss&amp;ext=asset.mp3" length="26200338" type="audio/mpeg" />
+</item>
+<item><title>Marc Aupont</title>
+<guid isPermaLink="false">https://pinecast.com/guid/a7a979c4-a5b6-4831-9631-e6c46eda2193</guid>
+<pubDate>Sat, 15 Apr 2023 07:30:00 -0000</pubDate>
+
+<itunes:duration>00:56:35</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Marc Aupont, an iOS Engineer, Technical Writer,  a mentor to HBCU students, a member of the Swift Core Team, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/a7a979c4/marc-aupont</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/3764fcf2-72e0-426f-a925-3f5e92320564/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Marc Aupont, an iOS Engineer, Technical Writer,  a mentor to HBCU students, a member of the Swift Core Team, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/digimarktech" rel="nofollow">Marc on Twitter</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/a7a979c4-a5b6-4831-9631-e6c46eda2193.mp3?source=rss&amp;ext=asset.mp3" length="27238168" type="audio/mpeg" />
+</item>
+<item><title>Vince Davis</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9f89c401-6e13-4313-b3a3-a1f334ee6821</guid>
+<pubDate>Sun, 09 Apr 2023 15:00:00 -0000</pubDate>
+
+<itunes:duration>00:37:58</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Vince Davis, an iOS Engineer, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/9f89c401/vince-davis</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/eeee3305-82c1-4675-8da6-69bab5cc14c6/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Vince Davis, an iOS Engineer, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/vincedavis" rel="nofollow">Vince on Twitter</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9f89c401-6e13-4313-b3a3-a1f334ee6821.mp3?source=rss&amp;ext=asset.mp3" length="18647491" type="audio/mpeg" />
+</item>
+<item><title>Simon B. Støvring</title>
+<guid isPermaLink="false">https://pinecast.com/guid/90abbc75-5d37-40d8-89d6-34f776c49ad2</guid>
+<pubDate>Thu, 06 Apr 2023 02:30:00 -0000</pubDate>
+
+<itunes:duration>00:55:33</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Simon B. Støvring, indie developer of apps like Runestone and Scriptable, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/90abbc75/simon-b-st-vring</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/75a56fc8-6ede-4117-97c1-2f5f60743860/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Tunde Adegoroye, lead app developer, YouTuber, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@simonbs" rel="nofollow">Simon on Mastodon</a><br>
+<a href="https://twitter.com/simonbs" rel="nofollow">Simon on Twitter</a><br>
+<a href="https://simonbs.dev/" rel="nofollow">Simon’s Website</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/90abbc75-5d37-40d8-89d6-34f776c49ad2.mp3?source=rss&amp;ext=asset.mp3" length="26746139" type="audio/mpeg" />
+</item>
+<item><title>Tunde Adegoroye</title>
+<guid isPermaLink="false">https://pinecast.com/guid/943cb1c2-63c4-483d-9d96-47489e64dcec</guid>
+<pubDate>Wed, 29 Mar 2023 06:00:00 -0000</pubDate>
+
+<itunes:duration>00:48:13</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Tunde Adegoroye, lead app developer, YouTuber, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/943cb1c2/tunde-adegoroye</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/ee1352b4-e3c7-4dc5-aab0-931f5355ebe9/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Tunde Adegoroye, lead app developer, YouTuber, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://iosdev.space/@tundsdev" rel="nofollow">Tunde on Mastodon</a><br>
+<a href="https://twitter.com/tundsdev" rel="nofollow">Tunde on Twitter</a><br>
+<a href="https://www.youtube.com/@tundsdev" rel="nofollow">Tunde on YouTube</a><br>
+<a href="https://tunds.dev/" rel="nofollow">Tunde’s Website</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/943cb1c2-63c4-483d-9d96-47489e64dcec.mp3?source=rss&amp;ext=asset.mp3" length="23212465" type="audio/mpeg" />
+</item>
+<item><title>Paul Hudson</title>
+<guid isPermaLink="false">https://pinecast.com/guid/660f7ed1-8799-49e7-b2cc-71780864d6ed</guid>
+<pubDate>Fri, 24 Mar 2023 06:00:00 -0000</pubDate>
+
+<itunes:duration>00:55:22</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Paul Hudson, the creator of Hacking with Swift, author, coder, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/660f7ed1/paul-hudson</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/56c38587-a8f8-4f5d-ae96-c687f081b8f2/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Paul Hudson, the creator of Hacking with Swift, author, coder, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@twostraws" rel="nofollow">Paul on Mastodon</a><br>
+<a href="https://twitter.com/twostraws" rel="nofollow">Paul on Twitter</a><br>
+<a href="https://www.hackingwithswift.com/" rel="nofollow">Hacking with Swift</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/660f7ed1-8799-49e7-b2cc-71780864d6ed.mp3?source=rss&amp;ext=asset.mp3" length="26650585" type="audio/mpeg" />
+</item>
+<item><title>Via Fairchild</title>
+<guid isPermaLink="false">https://pinecast.com/guid/75a6ef85-ecb9-433c-8edc-d337f02143a5</guid>
+<pubDate>Thu, 16 Mar 2023 13:00:00 -0000</pubDate>
+
+<itunes:duration>00:33:50</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Via Fairchild, an iOS Developer and, of course, speaker at Deep Dish Swift, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/75a6ef85/via-fairchild</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/1a58ee59-e93f-47f5-aabe-6342bf53e69f/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Via Fairchild, an iOS Developer and, of course, speaker at Deep Dish Swift, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://techhub.social/@codingmilf" rel="nofollow">Via on Mastodon</a><br>
+<a href="https://twitter.com/codingmilf" rel="nofollow">Via on Twitter</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/75a6ef85-ecb9-433c-8edc-d337f02143a5.mp3?source=rss&amp;ext=asset.mp3" length="16308618" type="audio/mpeg" />
+</item>
+<item><title>Ellen Shapiro</title>
+<guid isPermaLink="false">https://pinecast.com/guid/0c04cbf5-892a-4b07-9717-9a9ba5a135c1</guid>
+<pubDate>Wed, 08 Mar 2023 02:00:00 -0000</pubDate>
+
+<itunes:duration>00:57:21</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ellen Shapiro, an iOS and Android Developer, serial-speaker at a lot of conferences all over the world (including Deep Dish Swift, of course), and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/0c04cbf5/ellen-shapiro</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/59d84c36-bbca-4e0b-be75-dc1c85349755/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ellen Shapiro, an iOS and Android Developer, serial-speaker at a lot of conferences all over the world (including Deep Dish Swift, of course), and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@designatednerd" rel="nofollow">Ellen on Mastodon</a><br>
+<a href="https://twitter.com/designatednerd" rel="nofollow">Ellen on Twitter</a><br>
+<a href="https://designatednerd.com" rel="nofollow">Ellen’s Website</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/0c04cbf5-892a-4b07-9717-9a9ba5a135c1.mp3?source=rss&amp;ext=asset.mp3" length="27614615" type="audio/mpeg" />
+</item>
+<item><title>Danijela Vrzan</title>
+<guid isPermaLink="false">https://pinecast.com/guid/e1f8c581-c004-481f-917d-61c16a091996</guid>
+<pubDate>Mon, 27 Feb 2023 18:00:00 -0000</pubDate>
+
+<itunes:duration>00:31:10</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Danijela Vrzan, iOS Developer, technical writer, speaker at the Deep Dish Swift Conference, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/e1f8c581/danijela-vrzan</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/3fa1205a-2493-4e8f-898a-9687758d472b/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Danijela Vrzan, iOS Developer, technical writer, speaker at the Deep Dish Swift Conference, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://iosdev.space/@dvrzan" rel="nofollow">Danijela on Mastodon</a><br>
+<a href="https://twitter.com/dvrzan" rel="nofollow">Danijela on Twitter</a><br>
+<a href="https://www.danijelavrzan.com/" rel="nofollow">Danijela’s Blog</a>  </p>
+<p><a href="https://apps.apple.com/app/up-ahead-countdown-widgets/id1583147528" rel="nofollow">Favorite iOS app – Up Ahead</a><br>
+<a href="https://proxyman.io" rel="nofollow">Favorite macOS app – Proxyman</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/e1f8c581-c004-481f-917d-61c16a091996.mp3?source=rss&amp;ext=asset.mp3" length="15043417" type="audio/mpeg" />
+</item>
+<item><title>Mikaela Caron</title>
+<guid isPermaLink="false">https://pinecast.com/guid/297bdaaf-f82e-46df-b60b-1b4811324c03</guid>
+<pubDate>Tue, 21 Feb 2023 04:30:00 -0000</pubDate>
+
+<itunes:duration>00:43:28</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Mikaela Caron, iOS Engineer, YouTuber, Freelancer, speaker at the Deep Dish Swift Conference, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/297bdaaf/mikaela-caron</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/287af6c2-69b5-4dc0-b1fd-cb0c6e2540ce/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Mikaela Caron, iOS Engineer, YouTuber, Freelancer, speaker at the Deep Dish Swift Conference, and an overall terrific person.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@mikaelacaron@swiftdevs.space" rel="nofollow">Mikaela on Mastodon</a><br>
+<a href="https://twitter.com/mikaela__caron" rel="nofollow">Mikaela on Twitter</a><br>
+<a href="https://www.instagram.com/mikaelacaron/" rel="nofollow">Mikaela on Instagram</a><br>
+<a href="https://www.youtube.com/@MikaelaCaron" rel="nofollow">Mikaela on YouTube</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/297bdaaf-f82e-46df-b60b-1b4811324c03.mp3?source=rss&amp;ext=asset.mp3" length="21021473" type="audio/mpeg" />
+</item>
+<item><title>Ariel Michaeli</title>
+<guid isPermaLink="false">https://pinecast.com/guid/596d4522-8a62-42c8-b405-1996c62c4a4c</guid>
+<pubDate>Sat, 18 Feb 2023 01:00:00 -0000</pubDate>
+
+<itunes:duration>00:39:31</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ariel Michaeli, the founder and CEO of Appfigures, speaker at the Deep Dish Swift Conference, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/596d4522/ariel-michaeli</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/a8964f93-628c-4366-a0b0-b6071a42a8c0/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Ariel Michaeli, the founder and CEO of Appfigures, speaker at the Deep Dish Swift Conference, and an overall terrific person.  </p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://twitter.com/arielmichaeli" rel="nofollow">Ariel on Twitter</a><br>
+<a href="https://www.youtube.com/@appfigures" rel="nofollow">Ariel on YouTube</a><br>
+<a href="https://appfigures.com/" rel="nofollow">Appfigures</a>  </p>
+<p><a href="https://apps.apple.com/us/app/youtube-studio/id888530356" rel="nofollow">Favorite iOS app: YouTube Studio</a><br>
+<a href="https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&amp;mt=12" rel="nofollow">Favorite Mac app: Bear</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/596d4522-8a62-42c8-b405-1996c62c4a4c.mp3?source=rss&amp;ext=asset.mp3" length="19052528" type="audio/mpeg" />
+</item>
+<item><title>Emmanuel Crouvisier</title>
+<guid isPermaLink="false">https://pinecast.com/guid/c28cf6e6-5fc1-4808-9008-5528a6a9b859</guid>
+<pubDate>Mon, 13 Feb 2023 19:00:00 -0000</pubDate>
+
+<itunes:duration>00:39:53</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Emmanuel Crouvisier, the developer of CardPointers, race driver, speaker at the Deep Dish Swift Conference, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/c28cf6e6/emmanuel-crouvisier</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/be631133-a5e8-4c97-bd10-1abddabfc301/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Emmanuel Crouvisier, the developer of CardPointers, race driver, speaker at the Deep Dish Swift Conference, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@emcro" rel="nofollow">Emmanuel on Mastodon</a><br>
+<a href="https://twitter.com/emcro" rel="nofollow">Emmanuel on Twitter</a><br>
+<a href="https://cardpointers.com/" rel="nofollow">CardPointers</a></p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/c28cf6e6-5fc1-4808-9008-5528a6a9b859.mp3?source=rss&amp;ext=asset.mp3" length="19253716" type="audio/mpeg" />
+</item>
+<item><title>Curtis Herbert</title>
+<guid isPermaLink="false">https://pinecast.com/guid/1ea6906f-52fa-480a-9696-b5b507a63be4</guid>
+<pubDate>Sun, 12 Feb 2023 02:00:00 -0000</pubDate>
+
+<itunes:duration>00:36:18</itunes:duration>
+<itunes:subtitle>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Curtis Herbert, the developer of Slopes, speaker at the Deep Dish Swift Conference, and an overall terrific person.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/1ea6906f/curtis-herbert</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/775b08c8-85f8-4297-b5e2-a7c3cc0b48eb/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In this episode of Slices: The Deep Dish Swift Podcast, Kai and Malin chat with Curtis Herbert, the developer of Slopes, speaker at the Deep Dish Swift Conference, and an overall terrific person.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@parrots" rel="nofollow">Curtis on Mastodon</a><br>
+<a href="https://twitter.com/parrots" rel="nofollow">Curtis on Twitter</a><br>
+<a href="https://curtisherbert.com/" rel="nofollow">Curtis’ Website</a><br>
+<a href="https://getslopes.com/" rel="nofollow">Slopes</a></p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com/" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io/start/" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com/" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team/" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com/" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com/" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com/" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/1ea6906f-52fa-480a-9696-b5b507a63be4.mp3?source=rss&amp;aid=90c5c5f0-1b4d-4b3c-8653-da73ccfce4de.mp3" length="17532222" type="audio/mpeg" />
+</item>
+<item><title>How the Pie Is Made</title>
+<guid isPermaLink="false">https://pinecast.com/guid/51594cc8-ebd1-4908-a1dc-0cf57e91a34b</guid>
+<pubDate>Tue, 07 Feb 2023 07:00:00 -0000</pubDate>
+
+<itunes:duration>00:49:05</itunes:duration>
+<itunes:subtitle>In the first episode of Slices: The Deep Dish Swift Podcast. Kai and Malin chat with Josh Holtz, the organizer of the Deep Dish Swift conference.</itunes:subtitle>
+<link>https://slices-the-deep-dish-swift-pod.pinecast.co/episode/51594cc8/how-the-pie-is-made</link>
+<itunes:image href="https://storage.pinecast.net/podcasts/f9c0dd9d-5838-4c2e-9bbb-7de849e63153/artwork/3c02ba42-94b6-4137-a179-fd51856859e6/image.png" />
+<description><![CDATA[<h1>Slices: The Deep Dish Swift Podcast</h1>
+<p>In the first episode of Slices: The Deep Dish Swift Podcast. Kai and Malin chat with Josh Holtz, the organizer of the Deep Dish Swift conference.</p>
+<h1>Links</h1>
+<p><a href="https://deepdishswift.com" rel="nofollow">Deep Dish Swift Website (the place to get your ticket!)</a><br>
+<a href="https://mastodon.social/@DeepDishSwift@iosdev.space" rel="nofollow">Deep Dish Swift Mastodon</a><br>
+<a href="https://twitter.com/DeepDishSwift" rel="nofollow">Deep Dish Swift Twitter</a>  </p>
+<h1>Special Guest</h1>
+<p><a href="https://mastodon.social/@joshdholtz" rel="nofollow">Josh on Mastodon</a><br>
+<a href="https://twitter.com/joshdholtz" rel="nofollow">Josh on Twitter</a>  </p>
+<h1>Hosts</h1>
+<p><a href="https://mastodon.social/@kaidombrowski" rel="nofollow">Kai on Mastodon</a><br>
+<a href="https://twitter.com/airkai" rel="nofollow">Kai on Twitter</a>  </p>
+<p><a href="https://mastodon.social/@malin" rel="nofollow">Malin on Mastodon</a><br>
+<a href="https://twitter.com/malinsundberg" rel="nofollow">Malin on Twitter</a>  </p>
+<h1>Deep Dish Swift Sponsors</h1>
+<p><a href="https://www.revenuecat.com" rel="nofollow">Revenue Cat</a><br>
+<a href="https://codemagic.io" rel="nofollow">Codemagic</a><br>
+<a href="https://onesignal.com" rel="nofollow">OneSignal</a><br>
+<a href="https://www.runway.team" rel="nofollow">Runway</a><br>
+<a href="https://www.emergetools.com" rel="nofollow">Emerge Tools</a><br>
+<a href="https://getstream.io/chat/sdk/swiftui/?utm_source=deepdish&amp;utm_medium=Promoted_Newsletter&amp;utm_content=Developer&amp;utm_campaign=deeepdish_April2022_SwiftUI_klmh22" rel="nofollow">Stream</a><br>
+<a href="https://michiganlabs.com" rel="nofollow">MichiganLabs</a><br>
+<a href="https://happyscale.com" rel="nofollow">Happy Scale</a></p>]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/51594cc8-ebd1-4908-a1dc-0cf57e91a34b.mp3?source=rss&amp;aid=0f9fdc7e-6f71-48be-a62f-7709e73c51f8.mp3" length="23612655" type="audio/mpeg" />
+</item>
+</channel>
+<!-- generated in 0s 35235us -->
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1880618.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Coding in Flow Podcast</title>
+
+  <lastBuildDate>Sat, 31 Aug 2024 10:10:40 +0200</lastBuildDate>
+  <link>https://codinginflow.com</link>
+  <language>en-us</language>
+  <copyright>© 2024 Florian Walther</copyright>
+  <podcast:locked>yes</podcast:locked>
+  <podcast:funding url="https://www.patreon.com/codinginflow">Support this Podcast</podcast:funding>
+  <podcast:guid>243206a9-c7aa-5104-af0d-d88be280833e</podcast:guid>
+  <itunes:author>Florian Walther</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[Welcome to the Coding in Flow podcast! My name is Florian Walther, I'm a self-taught programmer from Germany. And in this show, I interview interesting people from the programming industry to learn from them about software engineering, career development, and life in general. You can also watch the video version of this podcast on Youtube: https://www.youtube.com/c/codinginflow ]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:keywords>programmer, programming, coding, code, android, android development, web development, mobile development, kotlin</itunes:keywords>
+  <itunes:owner>
+    <itunes:name>Florian Walther</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/ptwqz02qbipsnxk7rtvo6bp9fj25?.jpg</url>
+     <title>Coding in Flow Podcast</title>
+     <link>https://codinginflow.com</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/ptwqz02qbipsnxk7rtvo6bp9fj25?.jpg" />
+  <itunes:category text="Technology" />
+</channel>
+</rss>

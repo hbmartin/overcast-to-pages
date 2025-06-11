@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[Open Source CXO: The Tech Leader's Podcast]]></title>
+    <link>https://www.oscxo.com</link>
+    <atom:link href="https://media.rss.com/oscxo/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description><![CDATA[<p>A video podcast designed to enlighten and empower technology leaders across industries. With every episode, we delve into the complexities of tech trends, software development, and digital strategy, offering fresh perspectives and actionable insights to navigate the ever-evolving digital landscape.</p>]]></description>
+    <generator>RSS.com v2.17.0</generator>
+    <lastBuildDate>Wed, 21 May 2025 17:30:25 GMT</lastBuildDate>
+    <language>en</language>
+    <copyright><![CDATA[ActiveLogic Labs LLC 2023]]></copyright>
+    <itunes:image href="https://media.rss.com/oscxo/20231117_041152_8745dcca8a9cef29276569ef1ef54520.jpg"/>
+    <podcast:guid>cc4fcb9c-d2fb-59c9-afa7-536de7be8302</podcast:guid>
+    <image>
+      <url>https://media.rss.com/oscxo/20231117_041152_8745dcca8a9cef29276569ef1ef54520.jpg</url>
+      <title>Open Source CXO: The Tech Leader's Podcast</title>
+      <link>https://www.oscxo.com</link>
+    </image>
+    <podcast:locked>yes</podcast:locked>
+    <podcast:license>ActiveLogic Labs LLC 2023</podcast:license>
+    <itunes:author>Open Source CXO</itunes:author>
+    <itunes:owner>
+      <itunes:name>Open Source CXO</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title><![CDATA[Ep. 025: The Innovation Gap in American Manufacturing | w/ Special Guest Arturo Pino]]></title>
+      <itunes:title><![CDATA[Ep. 025: The Innovation Gap in American Manufacturing | w/ Special Guest Arturo Pino]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Open Source CXO, we sit down with Arturo Pino, CTO of HIX Corporation, for a deep dive into the evolving role of technology in American manufacturing. Arturo brings a unique perspective, combining mechanical engineering expertise with advanced computer science training, to shed light on the critical tech challenges that small to midsize manufacturers are facing today.</p><p>From workforce shortages to legacy systems, Arturo unpacks the growing gap between U.S.-based manufacturing and global competitors when it comes to innovation and digital transformation. He highlights the urgent need for scalable solutions, smarter infrastructure, and modernized processes—especially as a significant portion of the industry's leadership nears retirement. </p><p>Whether you're a technologist, executive, or just curious about the state of American industry, this conversation offers a clear-eyed look at what’s holding us back—and where the biggest opportunities lie. Tune in to hear how manufacturing can reclaim its competitive edge with the right blend of strategy, software, and execution.</p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/2039027</link>
+      <enclosure url="https://media.rss.com/oscxo/2025_05_21_16_00_07_d833cd63-f7ff-443d-9428-5aa26e1a2377.mp3" length="47948833" type="audio/mpeg"/>
+      <guid isPermaLink="false">57339c8f-72cb-4979-af57-e83e5de76b53</guid>
+      <itunes:duration>2996</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 May 2025 17:30:25 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20250521_030542_e6f7ff2e0a2f055f9fcb28891fe2f57a.jpg"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/2039027" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 024: The Blueprint for Industrial Innovation: A CTO’s P.O.V | w/ Special Guest Arturo Pino of HIX Corporation]]></title>
+      <itunes:title><![CDATA[Ep. 024: The Blueprint for Industrial Innovation: A CTO’s P.O.V | w/ Special Guest Arturo Pino of HIX Corporation]]></itunes:title>
+      <description><![CDATA[<p><em>In this episode of Open Source CXO: The Tech Leader's Podcast, we sit down with Arturo Pino, Chief Technology Officer at HIX Corporation, to explore the transformative role of open-source technology in the manufacturing sector. Arturo shares his journey from mechanical engineering to leading technological innovation, highlighting how open-source solutions are driving efficiency and adaptability in industrial operations.</em></p><p><em>Arturo delves into the challenges and opportunities of integrating open-source tools within traditional manufacturing frameworks, offering insights into fostering a culture of innovation. Whether you're a tech enthusiast or a manufacturing professional, this conversation provides valuable perspectives on leveraging open-source technology for industrial advancement.</em></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/2007652</link>
+      <enclosure url="https://media.rss.com/oscxo/2025_04_29_22_09_14_867b365e-74a1-4449-a355-d771953f8c33.mp3" length="27413662" type="audio/mpeg"/>
+      <guid isPermaLink="false">188fc86d-7a13-4d33-848f-cf1cdc447ac7</guid>
+      <itunes:duration>1713</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 30 Apr 2025 14:01:03 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20250429_100451_495072177770ea5cc50205107594104d.png"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/2007652" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 023: From Data Centers to Decision-Making — Tech Governance in Higher Education | w/ Special Guest Adam Caylor of Ottawa University]]></title>
+      <itunes:title><![CDATA[Ep. 023: From Data Centers to Decision-Making — Tech Governance in Higher Education | w/ Special Guest Adam Caylor of Ottawa University]]></itunes:title>
+      <description><![CDATA[<p>In this episode of the Open Source CXO podcast, we sit down with Adam Caylor, the Chief Technology Officer (CTO) at Ottawa University. Adam shares insights into the unique challenges and strategies involved in leading IT for a nonprofit educational institution. With over eight years at Ottawa University, Adam has overseen significant projects like the establishment of multiple campuses and the deployment of innovative tech strategies. </p><p>Throughout the conversation, Adam explains the importance of tech governance committees in fostering collaboration and making strategic decisions that impact multiple campuses. We also discuss Ottawa's approach to integrating students into their IT workforce through graduate assistant roles, how they are leveraging technology for operational efficiency, and how their team is adapting to post-pandemic education trends.</p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1671463</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_09_25_05_47_24_4f767523-4348-4f05-8858-9b6ed7a59de1.mp3" length="23788285" type="audio/mpeg"/>
+      <guid isPermaLink="false">bf35ba94-de0a-41f0-8995-cd340d3d4ca4</guid>
+      <itunes:duration>1486</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 25 Sep 2024 13:20:20 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240925_050903_4123d2087765f2cd0442a5841684c48a.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1671463/transcript" type="application/x-subrip"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 022: The School of Hard Knocks — From Cubicle to Code Master | w/ Special Guest Alexander Savenok of Rig Technologies]]></title>
+      <itunes:title><![CDATA[Ep. 022: The School of Hard Knocks — From Cubicle to Code Master | w/ Special Guest Alexander Savenok of Rig Technologies]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Open Source CXO, Alex Savenok, CEO and CTO of Rig, joins the conversation to discuss his evolution from an intern at HSBC to leading innovative tech startups. Alex dives deep into his journey, highlighting the challenges and rewards of building and scaling a tech company. He shares his experiences with Vertigo, a social music platform, where he navigated the complex world of music licensing and technology, and the importance of adaptability in a rapidly changing industry.</p><p>Alex emphasizes the critical role of fast iteration and the dangers of being too comfortable in one's tech stack. He also discusses the value of hiring individuals who are eager to learn and the pitfalls of rewriting existing software, drawing from his experience with Vertigo’s unique tech challenges. Additionally, Alex reflects on the importance of controlling product scope and the impact of leadership dynamics on a company's success.</p><p>Tune in to gain insights on managing the delicate balance between innovation and practicality, the necessity of continuous learning, and the lessons Alex learned from both his successes and setbacks in the fast-paced world of tech startups!</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1620282</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_08_20_20_11_25_8f0e139e-9581-4d3b-b688-80508228c1d2.mp3" length="25623961" type="audio/mpeg"/>
+      <guid isPermaLink="false">d2845e0f-5eb5-4efa-80e0-28bb1c92c03c</guid>
+      <itunes:duration>1601</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 Aug 2024 13:30:22 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240820_080808_b2db5a4d4aaf942ddc38a4db0045c93d.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1620282/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1620282" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 021: The Serious Side of SaaS Start Ups | w/ Special Guest Alex Savenok of Rig Technologies]]></title>
+      <itunes:title><![CDATA[Ep. 021: The Serious Side of SaaS Start Ups | w/ Special Guest Alex Savenok of Rig Technologies]]></itunes:title>
+      <description><![CDATA[<p>Join Alex Savenok, CEO and CTO of Rig, on this week’s episode of Open Source CXO. Dive into the world of SaaS innovation as Alex shares his journey from being a tech leader to spearheading a startup focused on solving inefficiencies in the trucking industry. Rig offers a unique marketplace solution for emergency breakdowns in the trucking space, connecting truck drivers with skilled mechanics in real-time.</p><p>In this episode, Alex discusses the challenges of transitioning from a tech-focused role to leading a company, the hurdles of marketing to a non-tech-savvy audience, and the strategies that have helped Rig grow amidst a tough economic climate. He also breaks down the potential and limitations of AI in the trucking industry, exploring how the technology can be leveraged for predictive maintenance and operational efficiency, while cautioning against the overhype and challenges that come with integrating AI into real-world applications.</p><p>Tune in to explore the intersection of technology, marketing and artificial intelligence as Alex reveals the secrets to building a successful marketplace in a highly specialized industry. Gain insights into the importance of adaptability, continuous iteration, and understanding the unique needs of your user base in creating a product that not only meets but anticipates market demands.</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1610927</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_08_13_18_21_07_cb23a567-13e6-42b9-98a2-e4798d0fbb8b.mp3" length="36734570" type="audio/mpeg"/>
+      <guid isPermaLink="false">79ab7c88-69d2-4c18-a864-e57cfbefee51</guid>
+      <itunes:duration>2295</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 14 Aug 2024 14:37:56 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240813_060838_460b93eaf038c3da9cff676c5cdd2f26.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1610927/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1610927" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 020: The Data-Backed Benefits of In-Person Development Teams | w/ Special Guest Geoff Vandegrift of Ad Astra]]></title>
+      <itunes:title><![CDATA[Ep. 020: The Data-Backed Benefits of In-Person Development Teams | w/ Special Guest Geoff Vandegrift of Ad Astra]]></itunes:title>
+      <description><![CDATA[<p>Ad Astra’s very own Geoff Vandegrift is back for our 20th episode of Open Source CXO. Geoff shares his journey from being a developer to leading Ad Astra’s technology initiatives and then shifts gears to stir the “WFH” pot. He dives into the evolving dynamics of work environments, emphasizing the data-backed benefits and challenges of working from home versus in-office collaboration.</p><p>Geoff highlights the importance of a flat organizational structure, small cross-functional teams, and the need for high-bandwidth communication facilitated by in-office collaboration. He also discusses the challenges and benefits of maintaining a Kansas City-based development team, emphasizing the value of social cohesion and spontaneous communication in producing better software.</p><p>Tune in to gain valuable insights on navigating the complexities of integrating innovative management practices, fostering a collaborative engineering culture, and maintaining a mission-driven approach in the fast-paced tech industry!</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1561936</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_07_09_17_19_49_61bbe282-52f3-41e1-a7e5-b11b6dbabcc4.mp3" length="19480379" type="audio/mpeg"/>
+      <guid isPermaLink="false">86920a8c-1fc3-4bf2-9b38-5920e705ab6a</guid>
+      <itunes:duration>1217</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 17 Jul 2024 13:50:22 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240709_050733_d9a9c8331bc23ad98b2b2be02a04ae6b.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1561936/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1561936" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 019: What the Holacracy? The Basics & Benefits of Flat Organizations in Development | w/ Special Guest Geoff Vandegrift of Ad Astra]]></title>
+      <itunes:title><![CDATA[Ep. 019: What the Holacracy? The Basics & Benefits of Flat Organizations in Development | w/ Special Guest Geoff Vandegrift of Ad Astra]]></itunes:title>
+      <description><![CDATA[<p>Episode Summary:</p><p>Join Geoff Vandegrift, Chief Technology Officer at Ad Astra, on this week's episode of Open Source CXO. We’re examining the evolving landscape of technology leadership as Geoff shares his journey and experiences from different companies, culminating in his current role at Ad Astra. With Ad Astra's mission being ‘to graduate more students faster,’ Geoff and his team provide higher education institutions with solutions to offer the right courses in the right format at the right place.</p><p>Highlighting the transition to a cloud-native, serverless architecture, Geoff acknowledges the benefits and challenges of holacracy. He emphasizes how it allows for greater flexibility and empowerment among team members, fostering a self-managed and collaborative work environment.</p><p>Tune in to gain valuable insights into managing a self-managed organization, integrating innovative practices like holacracy, and maintaining a mission-driven approach in the fast-paced tech industry. Geoff's story offers a unique perspective on fostering an agile, customer-focused engineering culture while navigating the complexities of the higher education sector.</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1561925</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_07_09_17_13_40_ab40d624-baec-4cf5-a9cc-895738d9f977.mp3" length="27384405" type="audio/mpeg"/>
+      <guid isPermaLink="false">e868dc17-1a2b-42f0-a150-35c5994441e6</guid>
+      <itunes:duration>1711</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 Jul 2024 13:50:20 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240709_050720_ec81076048d9c3d273a2b29db37184c6.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1561925/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1561925" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 018: Metrics That Matter - Data Points for Technology Leaders | w/ Special Guest Sebastian Kline of Nelnet Community Engagement]]></title>
+      <itunes:title><![CDATA[Ep. 018: Metrics That Matter - Data Points for Technology Leaders | w/ Special Guest Sebastian Kline of Nelnet Community Engagement]]></itunes:title>
+      <description><![CDATA[<p>Cbass is back for another episode of Open Source CXO, but this time we’re digging into data points and metrics that matter! Sebastian shares his experiences and strategies for effective team management as he follows a very objective, data-based approach. From his journey at Aware3 to his current role at Nelnet, Sebastian provides a deep dive into the metrics that matter, such as deployment frequency, code coverage, and customer-detected bugs.</p><p>Sebastian elaborates on the evolution of his management style, emphasizing the importance of coaching and the role of metrics in driving performance. He discusses the challenges and rewards of integrating startups into larger corporate structures and maintaining a high-performance team. His insights into the importance of tenure, equitable compensation, and the retention of employees through engagement and purpose are invaluable for any engineering leader.</p><p>Tune in to gain practical advice on managing technical teams, fostering a no-blame culture, and leveraging networks for personal and professional growth. This episode is packed with actionable insights and thought-provoking discussions on how to excel in engineering leadership.</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1509373</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_06_03_21_38_26_06e4cb4b-db27-4167-9c46-543be980b769.mp3" length="32865522" type="audio/mpeg"/>
+      <guid isPermaLink="false">d88e3a97-f310-4b8e-9274-78c77fda8c92</guid>
+      <itunes:duration>2054</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 05 Jun 2024 13:00:59 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240604_040632_5d49587e78691f95c445c689e4b259b2.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1509373/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1509373" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 017: Bringing It Back to the ‘Why’ of Your Business | w/ Special Guest Sebastian Kline of Nelnet Community Engagement]]></title>
+      <itunes:title><![CDATA[Ep. 017: Bringing It Back to the ‘Why’ of Your Business | w/ Special Guest Sebastian Kline of Nelnet Community Engagement]]></itunes:title>
+      <description><![CDATA[<p>Join Sebastian Kline, Vice President of Engineering at Nelnet, on this week's episode of Open Source CXO, hosted by Robert Kehoe and Don Blackburn. Explore the dynamic landscape of engineering leadership as Sebastian shares insights from his journey from Aware3 to Nelnet, beginning from a small startup to integration with a larger corporation.</p><p>Sebastian breaks down the evolution of his team from developing mobile apps for nonprofits to overseeing significant technical debts and scaling operations. He highlights the strategic acquisition by Nelnet and the subsequent challenges and opportunities in merging teams. More specifically the need for maintaining consistent quality communication across global and local developers all while being diligent in focusing on the “why” of the business.</p><p>Tune in to gain valuable perspectives on navigating the complexities of integrating startups into larger corporate structures, managing international teams, and the ongoing efforts to maintain a customer-focused, agile engineering culture. </p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1498997</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_05_29_13_59_15_cf912d25-88e8-4f81-bdfc-7d1d11f1c215.mp3" length="35207347" type="audio/mpeg"/>
+      <guid isPermaLink="false">626e0be4-b493-43d0-bed8-e2d49b98161c</guid>
+      <itunes:duration>2200</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 29 May 2024 14:13:45 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240529_010550_1cecd1b0635c48ff63287be2836c0b5e.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1498997/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1498997" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 016: Analyzing AI for the Enterprise — Current & Future States Pt. 2 | w/ Special Guest John Keddy of Lazarus AI]]></title>
+      <itunes:title><![CDATA[Ep. 016: Analyzing AI for the Enterprise — Current & Future States Pt. 2 | w/ Special Guest John Keddy of Lazarus AI]]></itunes:title>
+      <description><![CDATA[<p>The AI conversations just weren’t ready to end! John Keddy from LazarusAI is back for another exciting episode of Open Source CXO. This week’s episode provides a deeper look at how foundational AI technologies are crafted and the pivotal role they play in shaping business practices.</p><p>John dives into the operational aspects of Lazarus AI, discussing how they utilize advanced AI models to enhance data accuracy and decision-making within heavily regulated sectors. He explains the importance of prompt engineering and its impact on the reliability and efficiency of AI applications in business environments.</p><p>Throughout the episode, John shares insights on the challenges of integrating AI into existing business infrastructures, the critical nature of data accuracy, and the ethical considerations of AI deployment. The conversation also covers the evolution of AI applications from simple task automation to complex problem-solving tools that are revolutionizing industry standards and practices.</p><p>#AIInnovation #ArtificialIntelligence #TechLeadership #EnterpriseAI</p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1459507</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_04_30_18_15_00_7d798941-40cb-4c4c-bc9e-a30364156028.mp3" length="22105581" type="audio/mpeg"/>
+      <guid isPermaLink="false">2ca69e3c-9ddb-4812-9c3e-80b378ef255a</guid>
+      <itunes:duration>1381</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 08 May 2024 13:47:16 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240508_010509_bde5b0a6cff8d6c40112951bc1fae9c3.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1459507/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1459507" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 015: Analyzing AI for the Enterprise — Current & Future States Pt. 1 | w/ Special Guest John Keddy of Lazarus AI]]></title>
+      <itunes:title><![CDATA[Ep. 015: Analyzing AI for the Enterprise — Current & Future States Pt. 1 | w/ Special Guest John Keddy of Lazarus AI]]></itunes:title>
+      <description><![CDATA[<p>Join John Keddy from Lazarus AI on this week's episode of Open Source CXO. Dive into the innovative world of AI technologies as John discusses Lazarus AI's role in developing foundational AI systems, including large and small language models, and their applications in heavily regulated industries like insurance.</p><p>John provides a detailed look into the everyday applications of AI at Lazarus AI, explaining how they utilize proprietary OCR products to enhance data ingestion and leverage AI for precise document handling and decision-making. He also elaborates on the company's strategic focus on business-oriented AI solutions that reduce error rates and enhance operational efficiency.</p><p>Discover Lazarus AI's journey from its inception, focusing on the insurance sector to its expansion into other domains requiring meticulous data analysis and compliance adherence. John highlights the challenges and opportunities that come with integrating AI in such regulated environments and the importance of 'human in the loop' to maintain quality control.</p><p>Tune into this insightful episode to understand how AI is transforming business practices and offering competitive advantages in complex industries.</p><p>#AIInnovation #ArtificialIntelligence #TechLeadership #BusinessAI</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1459504</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_04_30_18_13_37_8c3e91de-2276-44b2-818e-d48b08b0048a.mp3" length="22408601" type="audio/mpeg"/>
+      <guid isPermaLink="false">02347199-f988-4a56-a738-dd6bf108fdc6</guid>
+      <itunes:duration>1400</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 01 May 2024 13:50:26 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240430_060422_723f84aa72465b6b58be9581933214ac.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1459504/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1459504" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 014: Digitizing the Paper Trail of Healthcare Inventory Management | w/ Special Guest Welsh Harris of Ascendco Health]]></title>
+      <itunes:title><![CDATA[Ep. 014: Digitizing the Paper Trail of Healthcare Inventory Management | w/ Special Guest Welsh Harris of Ascendco Health]]></itunes:title>
+      <description><![CDATA[<p>Join Welsh Harris, Co-Founder and CTO of Ascendco Health, on this week’s episode of Open Source CXO with hosts Rob and Don to get an insider's view of the software and technological frameworks revolutionizing the healthcare and surgery sectors across the nation. Discover how Ascendco uses cutting-edge tools like Domo for business intelligence and integrates strategically with major electronic medical record systems to manage inventory accurately. Welsh also highlights the significance of continuous improvement and the potential of AI to boost operational forecasts and decision-making.</p><p>Welsh shares Ascendco’s origin story, from the initial idea of creating an "Amazon for surgical instruments" to developing a tailored platform that meets the unique demands of hospital operations. He discusses the challenges of maintaining precise data, the complexities of managing reusable surgical instruments, and the vital importance of compliance in the medical field.</p><p>Tune into this episode to learn how digital transformation is being implemented in healthcare, propelled by innovative leadership and technological progress.</p><p>#TechHealth #InnovationLeadership #DigitalTransformation</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a></p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1440806</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_04_17_14_08_41_363076d2-faea-4ea1-904f-c3ff24168f2d.mp3" length="32173382" type="audio/mpeg"/>
+      <guid isPermaLink="false">2b5b3457-8cdb-4d14-b713-f131133ab0c6</guid>
+      <itunes:duration>2010</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 17 Apr 2024 14:09:05 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240417_020421_ce707dd3bd662dce0e209d34d18816e1.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1440806/transcript" type="application/x-subrip"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 013: Avoiding the “Easy-Button” of Hiring Developers | w/ Special Guest Nick Ide of Ascend Learning]]></title>
+      <itunes:title><![CDATA[Ep. 013: Avoiding the “Easy-Button” of Hiring Developers | w/ Special Guest Nick Ide of Ascend Learning]]></itunes:title>
+      <description><![CDATA[<p>Nick Ide from Ascend Learning is back for another episode of Open Source CXO! This week, we're pivoting to discuss a variety of topics, including the challenges and strategies of leading a global team, authentic methods of measuring success beyond typical KPIs, fostering effective communication, and prioritizing quality over quantity in hiring.</p><p>Drawing once again from his diverse experiences, Nick offers valuable insights from his early days as a hiring manager and shares how these experiences have shaped him as a leader. Tune in to the full episode to hear all that Nick has to share in his encore appearance on OSCXO!</p><p>#LetsTalkTech #OSCXO #TechLeadership</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1401477</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_03_21_18_43_23_89a9e5e5-5062-4438-b1b0-ccd227e2b5c5.mp3" length="28546332" type="audio/mpeg"/>
+      <guid isPermaLink="false">80bf46c4-f3ab-4380-9a53-94c0976605eb</guid>
+      <itunes:duration>1784</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 Apr 2024 13:50:18 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240321_060304_702882644382e0d09be87b1d13de3b49.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1401477/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1401477" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 012: Tech-ulture: The Importance of Culture in Technology | w/ Special Guest Nick Ide of Ascend Learning]]></title>
+      <itunes:title><![CDATA[Ep. 012: Tech-ulture: The Importance of Culture in Technology | w/ Special Guest Nick Ide of Ascend Learning]]></itunes:title>
+      <description><![CDATA[<p>Don and Rob sit down with Nick Ide, VP of Software Engineering at Ascend Learning, to explore crucial aspects of workplace culture and team productivity in the tech industry. This technical trio breaks down the common misconceptions about workplace culture, strategies for cultivating positive environments, considerations for scaling teams while preserving culture, and more.</p><p>Drawing from his dual perspective as a technology leader and software engineer, Nick offers valuable insights into the importance of maintaining a healthy culture within development teams. Tune into the full episode for Nick’s comprehensive advice, and stay tuned for part 2 next week, where we’ll tackle the challenges of avoiding shortcut hiring practices and collaborating with international teams.</p><p>#LetsTalkTech #OSCXO #TechLeadership</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a target="_blank" rel="noopener noreferrer nofollow" href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a target="_blank" rel="noopener noreferrer nofollow" href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1401473</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_03_21_18_41_07_061d9b96-2027-4c45-96af-53437e1bb977.mp3" length="36108049" type="audio/mpeg"/>
+      <guid isPermaLink="false">474092cf-a191-45c0-aabc-8c9d39214311</guid>
+      <itunes:duration>2256</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 03 Apr 2024 14:12:12 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240321_060345_ed436fd190ee2c5781cf81d8e3222619.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1401473/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1401473" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep 011: Jim’s Path to Leadership: Navigating Organizational Change & Securing Stakeholder Buy-In | w/ Special Guest Jim Poteet of Oracle Health]]></title>
+      <itunes:title><![CDATA[Ep 011: Jim’s Path to Leadership: Navigating Organizational Change & Securing Stakeholder Buy-In | w/ Special Guest Jim Poteet of Oracle Health]]></itunes:title>
+      <description><![CDATA[<p>The conversations from our previous episode kept on rolling, so Jim Poteet is back on Open Source CXO. In this episode, we dive deep into strategies for navigating organizational change and securing stakeholder buy-in, exploring everything from 6 AM company tailgates to blogging throughout the COVID lockdowns. Jim also emphasizes the significance of hiring for passion and dedication, as well as the methods he uses to cultivate a culture of perfection and accountability in highly regulated industries. </p><p>Join us as we unpack these insights and more, offering valuable lessons on leadership and team dynamics in the tech world.</p><p>#LetsTalkTech #OSCXO #TechLeadership #TechManagement #LeadershipStyles</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1397661</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_03_19_18_57_54_f267661e-cc65-48f0-9800-14322fdcf04f.mp3" length="19249247" type="audio/mpeg"/>
+      <guid isPermaLink="false">794f59e1-957a-4d41-a1c9-99fd8c737be6</guid>
+      <itunes:duration>1203</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 20 Mar 2024 20:02:51 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240319_060332_bed4931dc99d50fedc1945d4efc22452.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1397661/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1397661" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 010: Overcoming Cultural Barriers & Keeping Connected as a Tech Leader | w/ Special Guest Jim Poteet of Oracle Health]]></title>
+      <itunes:title><![CDATA[Ep. 010: Overcoming Cultural Barriers & Keeping Connected as a Tech Leader | w/ Special Guest Jim Poteet of Oracle Health]]></itunes:title>
+      <description><![CDATA[<p>We kick off our first double-digit episode by sitting down with Jim Poteet, a senior leader at Oracle Health, to discuss the intricacies of overseeing international development teams and overcoming some of the cultural barriers that inevitably arise. With an extensive, 13-year history at Cerner before its acquisition by Oracle, Poteet shares his journey through the evolving tech landscape, highlighting the transition from Cerner’s product-driven approach to Oracle’s engineering-led culture. </p><p>Poteet also discusses the impact of COVID-19 on remote management and team cohesion, sharing his  unique methods he employed to keep teams engaged and connected. From blogs that bridge the cultural divide to fostering open dialogue during 1-on-1s, his approach spans from “traditional” to creative with a quickness.</p><p>Be sure to give us a listen and follow us on our socials below! #LetsTalkTech #OSCXOpodcast</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1397645</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_03_19_18_51_58_508f87ac-f0e0-47de-8772-ddfb0eb09e93.mp3" length="26412650" type="audio/mpeg"/>
+      <guid isPermaLink="false">25e3ddc0-af8c-4a05-8034-b442847dd3fc</guid>
+      <itunes:duration>1650</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 20 Mar 2024 16:30:31 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240319_060340_c779649450ac91f1cf1da2b568db6a0d.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1397645/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1397645" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 009: Succeeding as an Introverted Leader in Technology | w/ Special Guest Shahzad Zafar of Trualta]]></title>
+      <itunes:title><![CDATA[Ep. 009: Succeeding as an Introverted Leader in Technology | w/ Special Guest Shahzad Zafar of Trualta]]></itunes:title>
+      <description><![CDATA[<p>Being an introvert is NOT a barrier to being in leadership - and we’re sitting down with Shahzad Zafar, CTO of Trualta, to discuss why. Shahzad discusses his journey over the years to become a leading figure in the tech industry, highlighting the transitions, challenges, and lessons learned along the way</p><p>He shares his insights on navigating the complexities of remote work, the intricacies of leading teams in varying company sizes, and the unique challenges of integrating introversion into effective leadership. His expertise is especially valuable for those grappling with the nuances of building and managing tech teams in today's fast-paced environment.</p><p>Tune in to gain a deeper understanding of modern leadership strategies, team building in remote settings, and the evolving role of a tech leader in today's corporate landscape.</p><p>#LetsTalkTech #OSCXO #TechLeaders #LeadershipDevelopment #TechInnovation</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a>&nbsp;&nbsp;</p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1376375</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_03_06_16_15_00_8f9095a2-3bdd-4d5e-9500-6c9bc1fa102b.mp3" length="29258116" type="audio/mpeg"/>
+      <guid isPermaLink="false">d11674ef-f37f-4d5d-8f85-a823aba488b7</guid>
+      <itunes:duration>1828</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 06 Mar 2024 17:19:44 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240306_040357_50e8d27a1359cf73dbc83fe82e67421b.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1376375/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1376375" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 008: Scaling & Leading Tech Teams in Startup vs. Enterprise Organizations | w/ Special Guest Shahzad Zafar of Trualta]]></title>
+      <itunes:title><![CDATA[Ep. 008: Scaling & Leading Tech Teams in Startup vs. Enterprise Organizations | w/ Special Guest Shahzad Zafar of Trualta]]></itunes:title>
+      <description><![CDATA[<p>We’re breaking down some of the major differences &amp; similarities of startup and enterprise environments when in the technology industry. Shahzad Zafar joins Don and Rob as he recounts his role in growing the development teams at Cerner, Rx Savings Solutions, and now Trualta.&nbsp;</p><p>This episode explores the nuances of building and scaling teams in a rapidly evolving industry, fostering a culture of learning and adaptation, and the challenges of maintaining productivity and cohesion in remote work environments.&nbsp;</p><p>Join us for insightful discussions on leadership, team dynamics, and the future of healthcare technology.</p><p>#LetsTalkTech #OSCXO #TechLeaders #LeadershipDevelopment #TechInnovation</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a>&nbsp;&nbsp;</p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1376337</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_03_06_15_46_19_29c9baf7-f369-442a-8ada-7367e1de7ac7.mp3" length="25794489" type="audio/mpeg"/>
+      <guid isPermaLink="false">0c05d89c-873a-4b50-8804-2b7d8081c6b3</guid>
+      <itunes:duration>1612</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 06 Mar 2024 17:19:35 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240306_030353_578bccb69fa9883faf401758d0903458.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1376337/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1376337" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 007: Navigating Mergers and Acquisitions in the Technology Industry as a Team Leader | w/ Special Guest Ben Kittrell of Quext]]></title>
+      <itunes:title><![CDATA[Ep. 007: Navigating Mergers and Acquisitions in the Technology Industry as a Team Leader | w/ Special Guest Ben Kittrell of Quext]]></itunes:title>
+      <description><![CDATA[<p>We’re exploring the journey of Ben Kittrell and the acquisition of his company, <a href="http://Homebase.ai">Homebase.ai</a>, a smart building technology firm. Ben offers an insider's perspective on the complexities and strategies involved in tech mergers and acquisitions. The discussion covers the challenges of integrating different technology stacks, managing team dynamics during and after the transition, and the critical role of emotional intelligence and transparent communication. This episode provides valuable insights into the nuanced process of merging companies in the fast-paced tech industry.</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a>&nbsp;&nbsp;</p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1354352</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_02_20_18_48_39_15ea47a7-b9e1-4cec-a893-4af9a24e9cb2.mp3" length="15611331" type="audio/mpeg"/>
+      <guid isPermaLink="false">5c706655-977e-4d5b-a261-f9229f21e084</guid>
+      <itunes:duration>975</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 Feb 2024 17:30:24 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240221_040240_04b93ec7f3a1cf918789c3793e1777bc.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1354352/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1354352" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[ Ep. 006: Building Team Cultures in Remote & Hybrid Teams | w/ Special Guest Ben Kittrell of Quext]]></title>
+      <itunes:title><![CDATA[ Ep. 006: Building Team Cultures in Remote & Hybrid Teams | w/ Special Guest Ben Kittrell of Quext]]></itunes:title>
+      <description><![CDATA[<p>We’re diving into the art of cultivating a strong team culture within remote/hybrid technology teams. Our guest, Ben Kittrell - VP of Engineering at Homebase.ai, discusses the company's journey following its acquisition by Quext. He shares insights on leading a distributed team, the importance of maintaining discipline, and fostering connections in a remote setting.&nbsp;</p><p>This conversation sheds light on the evolving work dynamics in the tech industry, offering insights into building a cohesive team culture amidst the shifts toward remote and hybrid work models. Join us for a deep dive into creating and nurturing the culture of technology teams in today's ever-changing environment.</p><p>#LetsTalkTech #OSCXO #TeamCulture #RemoteTeams #HybridTeams #RemoteCulture #HybridCulture</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a>&nbsp;&nbsp;</p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1354344</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_02_20_18_42_53_74afbe4d-ebc9-4e3b-9abf-19f702179b39.mp3" length="36503857" type="audio/mpeg"/>
+      <guid isPermaLink="false">58bbc77d-6266-4009-9f3c-a8635f6d3c3b</guid>
+      <itunes:duration>2281</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 Feb 2024 17:30:24 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240220_060227_06c79df42546b0ef68730f1fdd92eb66.png"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1354344/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1354344" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 005: SOC 2 Compliance - What is it? Is it Right for my Business? | w/ Special Guest Vance Collins]]></title>
+      <itunes:title><![CDATA[Ep. 005: SOC 2 Compliance - What is it? Is it Right for my Business? | w/ Special Guest Vance Collins]]></itunes:title>
+      <description><![CDATA[<p>As we shift gears, Vance enlightens us to all that SOC 2 compliance has to offer in the name of organization-wide security. He explains the comprehensive scope of SOC 2, covering both software and hardware aspects, and elaborates on the critical levels of compliance, particularly focusing on Type 1 and Type 2 audits.</p><p>Boasting over 20 years of technical leadership across esteemed organizations like Simplifyy, DSI, and Service Management Group, Vance brings a wealth of experience and a robust understanding of servant leadership. He has long studied the core concepts of SOC 2 compliance, implementing them into organizations with &amp; without prior experience with it’s intricacies.&nbsp;</p><p>#LetsTalkTech #OSCXO #ServantLeadership #LeadershipDevelopment #TechLeaders</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a>&nbsp;&nbsp;</p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1335971</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_02_07_16_07_19_1e62a208-7e74-44ed-9326-8480e4b74f29.mp3" length="23057692" type="audio/mpeg"/>
+      <guid isPermaLink="false">8ed39000-5f1e-4163-b416-b8cb14a23be7</guid>
+      <itunes:duration>1441</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 07 Feb 2024 17:57:36 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240207_040259_7eaadbc7a512a1e95761025e632c554f.jpg"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1335971/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1335971" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 004 Servant Leadership: Flipping the Importance Paradigm on it’s Head | w/ Special Guest Vance Collins of Flight Schedule Pro]]></title>
+      <itunes:title><![CDATA[Ep. 004 Servant Leadership: Flipping the Importance Paradigm on it’s Head | w/ Special Guest Vance Collins of Flight Schedule Pro]]></itunes:title>
+      <description><![CDATA[<p>Are you a leader or a servant leader? Understanding this distinction can redefine your organizational approach. Join us as we chat with Vance Collins from Flight Schedule Pro and dive into the essential principles of servant leadership. Discover how to seamlessly integrate them into both your personal leadership style and your organization's culture.</p><p>Boasting over 20 years of technical leadership across esteemed organizations like Simplifyy, DSI, and Service Management Group, Vance brings a wealth of experience and a robust understanding of servant leadership. He has long studied the tenets of servant leadership and is eager to share the insights that have shaped his leadership path.</p><p>Join us for Part 2 of our conversation in a couple of weeks, where we shift gears to a crucial topic in the tech world — SOC 2 compliance. Discover the benefits and impacts of SOC 2 for a range of technical organizations. Don’t miss this opportunity to gain valuable insights to enhance your organization's compliance and security standards.</p><p>#LetsTalkTech #OSCXO #ServantLeadership #LeadershipDevelopment #TechLeaders</p><p>—————</p><p></p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a></p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1312870</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_01_23_16_40_16_e640b0ef-0709-4230-9b61-07d05dfd2fca.mp3" length="56827540" type="audio/mpeg"/>
+      <guid isPermaLink="false">8c1ac90d-c9e7-48b0-a156-0578c03fc414</guid>
+      <itunes:duration>3551</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 24 Jan 2024 18:00:31 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240124_060137_add50d6c3f2d1e930ce90a5463aa5763.jpg"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1312870/transcript" type="application/x-subrip"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 003 Different Ways of Sourcing Software Development Work | w/ Special Guest Matt Watson of FullScale.io]]></title>
+      <itunes:title><![CDATA[Ep. 003 Different Ways of Sourcing Software Development Work | w/ Special Guest Matt Watson of FullScale.io]]></itunes:title>
+      <description><![CDATA[<p>We’re sitting down with <a href="http://Fullscale.io">Fullscale.io</a> Founder, CEO, and CIO, Matt Watson to discuss the age old question: How should you manage your company’s development work? Is building an internal team the best route, or is outsourcing to an agency more effective? We’re taking the time to examine the advantages and pitfalls of each option.</p><p>Bringing over two decades of experience in the technology industry and having founded four distinct companies, Matt provides invaluable insights into various hiring strategies. His expertise is particularly beneficial for those venturing into this domain for the first time, contemplating another hire, or exploring alternative approaches.</p><p>#LetsTalkTech #OSCXO #SoftwareDevelopment #Outsourcing #HiringDevelopers</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a></p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1295759</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_01_10_16_43_32_03cacf86-de9e-4332-8cf6-1d22596a1649.mp3" length="29369711" type="audio/mpeg"/>
+      <guid isPermaLink="false">c3fb798d-7a91-4b65-bb93-a8d7612533cc</guid>
+      <itunes:duration>1835</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 Jan 2024 17:00:40 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240124_060113_ee817c054ee6053f60de29209aef09dc.jpg"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1295759/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1295759" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 002 The Proper Use of Bots in Healthcare Technology | w/ Special Guest Phil Merrell of PromptCare Companies]]></title>
+      <itunes:title><![CDATA[Ep. 002 The Proper Use of Bots in Healthcare Technology | w/ Special Guest Phil Merrell of PromptCare Companies]]></itunes:title>
+      <description><![CDATA[<p>Welcome back to Open Source CXO: The Tech Leader’s Podcast! We continue our conversation with Phil Merrell, CIO of PromptCare Companies, he sheds light on the use cases &amp; benefits of robotic process automation (RPA). In other words - bots. Phil brings a wealth of knowledge from his time at Blue Cross Blue Shield and other healthcare organizations, providing a fascinating glimpse into this dynamic robotic world.</p><p>Phil sheds light on the concept of 'Shiny Object Syndrome' in AI and machine learning, emphasizing the importance of starting small and scaling up. The discussion also covers the integration of bots into organizational culture, distinguishing between assistive and unassisted bots and their respective roles.</p><p>Phil shares practical examples of how bots streamline processes, particularly in nursing, and how these automated tools are trained and deployed to boost efficiency and productivity. The conversation touches on the use of platforms like Uipath, the significance of data security, and the broader implications of bots in healthcare. Join us as we explore the future of healthcare technology with Phil's expert insights!</p><p>#LetsTalkTech #OSCXO #MedTech #SoftwareSecurity #ITSecurity</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a></p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1295786</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_01_10_16_47_17_49126399-85c1-4a1b-b4f6-bed3bfa89dc0.mp3" length="17577829" type="audio/mpeg"/>
+      <guid isPermaLink="false">c984bcfa-084f-4df7-8f22-c162356f6ade</guid>
+      <itunes:duration>1098</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 Jan 2024 17:00:39 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240124_060103_aef436218c0222b2a071f12912bf1cbe.jpg"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1295786/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1295786" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Ep. 001 Exploring the Technological Side of Healthcare | w/ Special Guest Phil Merrell of PromptCare Companies]]></title>
+      <itunes:title><![CDATA[Ep. 001 Exploring the Technological Side of Healthcare | w/ Special Guest Phil Merrell of PromptCare Companies]]></itunes:title>
+      <description><![CDATA[<p>Welcome to Open Source CXO: The Tech Leader’s Podcast! In our inaugural episode, we have the privilege of sitting down with Phil Merrell, CIO of PromptCare Companies. As a leading provider of in-home respiratory, infusion, and specialty pharmaceutical therapies nationwide, PromptCare stands at the forefront of the medtech industry.</p><p>Part 1 of our discussion centers around Phil's unique perspective as both a leader and a beneficiary of medtech services. We take the time to cover a range of topics including the integration and impact of Artificial Intelligence (AI) in healthcare, the intricacies of security and compliance, and the various challenges and pitfalls that define the industry.</p><p>Be sure to tune in for Part 2, where our conversation evolves to explore the widespread benefits of bots in healthcare and beyond, offering insightful views on their growing relevance in our daily lives.</p><p>#LetsTalkTech #OSCXO #MedTech #SoftwareSecurity #ITSecurity</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a></p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow up on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a></p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1295714</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_01_10_16_20_01_21c39510-e93c-4bb9-9d03-2ca0c8411ca0.mp3" length="50034031" type="audio/mpeg"/>
+      <guid isPermaLink="false">1e12c708-1699-4789-867e-49fd3520129b</guid>
+      <itunes:duration>3127</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 Jan 2024 17:00:36 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240124_060152_8c1fdbdea76fc74ae0ffd52de45ea3ea.jpg"/>
+      <podcast:transcript url="https://transcripts.rss.com/237988/1295714/transcript" type="application/x-subrip"/>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1295714" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title><![CDATA[Open Source CXO - Introduction & Trailer]]></title>
+      <itunes:title><![CDATA[Open Source CXO - Introduction & Trailer]]></itunes:title>
+      <description><![CDATA[<p>As we prepare for the full launch of Open Source CXO: The Tech Leader's Podcast, we wanted to release the audio of our introduction trailer. This brief trailer aims to introduce our two hosts, Robert Kehoe and Don Blackburn, as well as provide information for the format of our upcoming episodes.</p><p>—————</p><p>Open Source CXO is proudly presented by Active Logic - <a href="https://activelogic.com/">https://activelogic.com/</a></p><p>Check us out online: <a href="https://oscxo.com/">https://oscxo.com/</a>  </p><p>Check us out on LinkedIn - <a href="https://www.linkedin.com/company/oscxopodcast">https://www.linkedin.com/company/oscxopodcast</a></p><p>Follow us on Instagram! - <a href="https://www.instagram.com/oscxopodcast/?hl=en">https://www.instagram.com/oscxopodcast/?hl=en</a> </p>]]></description>
+      <link>https://rss.com/podcasts/oscxo/1294351</link>
+      <enclosure url="https://media.rss.com/oscxo/2024_01_09_17_39_50_4f8f82fa-fd77-46d2-a125-01d2229d95db.mp3" length="826443" type="audio/mpeg"/>
+      <guid isPermaLink="false">8073f649-9f8f-44d0-83de-8eccf49dde17</guid>
+      <itunes:duration>51</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 09 Jan 2024 17:40:03 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/oscxo/ep_cover_20240109_050148_7ee84727981167215de02549c6979fbe.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[The iOS Dev Podcast]]></title>
+		<description><![CDATA[Welcome to the iOS Dev Podcast hosted by Jason Dubon. Join us for candid conversations with fellow devs on their unique journeys, personal stories, and the amazing projects they are building.
+
+
+Get ready to dive into the captivating world of iOS development with the iOS Dev Podcast. Let's embark on this journey together and unlock the potential of our iOS projects while having a great time doing it!
+
+Tune in every week for a new episode!]]></description>
+		<link>https://podcasters.spotify.com/pod/show/iosdevpodcast</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 10 Jun 2025 06:37:15 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/b4381454/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Jason Dubon]]></author>
+		<copyright><![CDATA[Jason Dubon]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Jason Dubon</itunes:author>
+		<itunes:summary>Welcome to the iOS Dev Podcast hosted by Jason Dubon. Join us for candid conversations with fellow devs on their unique journeys, personal stories, and the amazing projects they are building.
+
+
+Get ready to dive into the captivating world of iOS development with the iOS Dev Podcast. Let&apos;s embark on this journey together and unlock the potential of our iOS projects while having a great time doing it!
+
+Tune in every week for a new episode!</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Jason Dubon</itunes:name>
+			<itunes:email>jasonsdubon@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/30135741/30135741-1707228105201-b14d07d1b457c.jpg"/>
+		<item>
+			<title><![CDATA[Going From Dead-End Job to Pro iOS Developer with Kilo Loco #27]]></title>
+			<description><![CDATA[<p>Aspiring iOS Developers: https://breakintoios.com/
+
+In this episode we dive into Kilo Loco&#39;s (Kyle Lee) story of becoming an iOS developer from service worker and how he did it and built a successful career as an iOS developer. Kilo Loco also has a YouTube channel where he dives into software development. 
+
+Kilo Loco Twitter: https://twitter.com/Kilo_Loco
+
+----------------- Follow Me On Social Media --------------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/thejasondubon</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Going-From-Dead-End-Job-to-Pro-iOS-Developer-with-Kilo-Loco-27-e2fqv7g</link>
+			<guid isPermaLink="false">02959303-5839-4552-bf17-19307416148e</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 20 Feb 2024 10:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/82721456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F367578775-44100-2-ecab3a51e541a.mp3" length="46364211" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Aspiring iOS Developers: https://breakintoios.com/
+
+In this episode we dive into Kilo Loco&amp;#39;s (Kyle Lee) story of becoming an iOS developer from service worker and how he did it and built a successful career as an iOS developer. Kilo Loco also has a YouTube channel where he dives into software development. 
+
+Kilo Loco Twitter: https://twitter.com/Kilo_Loco
+
+----------------- Follow Me On Social Media --------------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/thejasondubon&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/30135741/30135741-1707228105201-b14d07d1b457c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Building Secure Mobile (iOS) Applications with Dave Poirier #26]]></title>
+			<description><![CDATA[<p>Aspiring iOS Developers: https://breakintoios.com/
+
+In this episode we dive into app security, building secure and sustainable iOS apps, the dos and donts of cybersecurty and how nothing is really secure 👀.
+
+Dave Poirier LinkedIn: https://www.linkedin.com/in/dave-poirier-a9b25a9/
+
+----------------- Follow Me On Social Media --------------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/thejasondubon</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Building-Secure-Mobile-iOS-Applications-with-Dave-Poirier-26-e2fhdfa</link>
+			<guid isPermaLink="false">2f77d69d-49b1-415c-8130-7645c0d393e3</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 13 Feb 2024 10:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/82408362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-8%2F366743906-44100-2-50bcbd0a79eb3.mp3" length="46915081" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Aspiring iOS Developers: https://breakintoios.com/
+
+In this episode we dive into app security, building secure and sustainable iOS apps, the dos and donts of cybersecurty and how nothing is really secure 👀.
+
+Dave Poirier LinkedIn: https://www.linkedin.com/in/dave-poirier-a9b25a9/
+
+----------------- Follow Me On Social Media --------------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/thejasondubon&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1707747969794-fddf6f2aff89e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Is VisionPro a FLOP?? | VisionOS Dev Podcast #25]]></title>
+			<description><![CDATA[<p>Aspiring iOS Developers: https://breakintoios.com/
+
+In this episode we dive into the new Vision Pro give our thoughts and Bryce unveils his initial experience and thoughts on the revolutionary device.
+
+#iosdev #visionpro #visionos</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Is-VisionPro-a-FLOP----VisionOS-Dev-Podcast-25-e2favnj</link>
+			<guid isPermaLink="false">0169f019-24b9-407e-bb7e-3fdb675a5f80</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 06 Feb 2024 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/82197683/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-4%2F366141598-44100-2-c65d5b18397a.mp3" length="43749876" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Aspiring iOS Developers: https://breakintoios.com/
+
+In this episode we dive into the new Vision Pro give our thoughts and Bryce unveils his initial experience and thoughts on the revolutionary device.
+
+#iosdev #visionpro #visionos&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1707005715459-6cc0ef9c65348.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Breaking into iOS Development & Landing First iOS Dev Job with Bryce Ellis #24]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, Bryce and I, dive into his journey into iOS development and the process to the get there. 
+
+Break into iOS: https://www.breakintoios.com/
+
+YouTube Video: https://youtu.be/hi5i7i4pTts
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+----------------- Follow Me On Social Media --------------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/thejasondubon
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+#iosdev #developermindset #iosdeveloper</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Breaking-into-iOS-Development--Landing-First-iOS-Dev-Job-with-Bryce-Ellis-24-e2e3deh</link>
+			<guid isPermaLink="false">75e28f38-b856-488e-8c47-14995ce59b00</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 09 Jan 2024 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/80901009/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-6%2F362443755-44100-2-3a525ff727858.mp3" length="32480443" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, Bryce and I, dive into his journey into iOS development and the process to the get there. 
+
+Break into iOS: https://www.breakintoios.com/
+
+YouTube Video: https://youtu.be/hi5i7i4pTts
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+----------------- Follow Me On Social Media --------------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/thejasondubon
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+#iosdev #developermindset #iosdeveloper&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:33:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1704579761861-80d10ff94d49e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Four Lessons Learned in 2023 From Other iOS Developers #23]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, a solo episode giving a recap of lessons I learned from talking to some of the best iOS developers in the world and through building my own apps. 
+
+Break into iOS: https://www.breakintoios.com/
+YouTube Video: https://youtu.be/bosY4PKxPac
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+(0:00) Four Lessons Learned From Some of Best iOS Developers
+() Lesson Learned From Building and Releasing on AppStore 
+() Break into iOS &amp; More
+
+----------------- Follow Me On Social Media ---------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/</p>
+<p>Twitter: https://twitter.com/thejasondubon
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+#iosdev #developermindset #iosdeveloper</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Four-Lessons-Learned-in-2023-From-Other-iOS-Developers-23-e2dq426</link>
+			<guid isPermaLink="false">121ac2d7-7f56-428c-a4fe-56ebe680d751</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Fri, 29 Dec 2023 20:21:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/80596486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-29%2F361590752-44100-2-7b8ff1405627d.mp3" length="12060211" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, a solo episode giving a recap of lessons I learned from talking to some of the best iOS developers in the world and through building my own apps. 
+
+Break into iOS: https://www.breakintoios.com/
+YouTube Video: https://youtu.be/bosY4PKxPac
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+(0:00) Four Lessons Learned From Some of Best iOS Developers
+() Lesson Learned From Building and Releasing on AppStore 
+() Break into iOS &amp;amp; More
+
+----------------- Follow Me On Social Media ---------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/&lt;/p&gt;
+&lt;p&gt;Twitter: https://twitter.com/thejasondubon
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+#iosdev #developermindset #iosdeveloper&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:12:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/30135741/30135741-1707228105201-b14d07d1b457c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[How to Prepare and Pass iOS Developer Interviews with Mayank Gupta #22]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, I sat down with Mayank Gupta, the founder of SwiftAnytime and author of cracking the iOS interview. 
+
+Affiliate Link for Cracking iOS Interview Book:Use code BlackFridayAnytime for 30% at checkout.
+https://gumroad.com/a/187185107/fcpxi</p>
+<p>
+SwiftAnytime: https://www.swiftanytime.com/
+
+YouTube Video: https://youtu.be/UgKjyzW_AnM
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Mayank&#39;s Twitter: https://twitter.com/iosmayank
+Mayank&#39;s YouTube: https://www.youtube.com/@iosmayank
+
+----------------- Follow Me On Social Media --------------------LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/JasonDubonYT
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Cracking iOS Interview Book</p>
+<p>(6:34)Thoughts on Data Structure &amp; Algorithm Questions
+(9:43) Advice for iOS Interviews </p>
+<p>(13:45) Behavioral Interviews </p>
+<p>(15:35) Mistake Developers Make For Interviews</p>
+<p>(19:55) Preparing for Junior vs Senior Interviews </p>
+<p>(24:04) Mayank’s Approach to Conducting Interviews</p>
+<p>(28:10) Advice During The Down Market</p>
+<p>(33:28) Getting into iOS Development</p>
+<p>(44:00) What is SwiftAnyTime?
+
+#iosdev #iosdevinterviews #techinterview</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/How-to-Prepare-and-Pass-iOS-Developer-Interviews-with-Mayank-Gupta-22-e2c6jq0</link>
+			<guid isPermaLink="false">f982d91a-6d1c-498c-91f4-650d3b5f532b</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 21 Nov 2023 13:36:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/78908672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-21%2F356540179-44100-2-a1b18686b0786.mp3" length="46389288" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, I sat down with Mayank Gupta, the founder of SwiftAnytime and author of cracking the iOS interview. 
+
+Affiliate Link for Cracking iOS Interview Book:Use code BlackFridayAnytime for 30% at checkout.
+https://gumroad.com/a/187185107/fcpxi&lt;/p&gt;
+&lt;p&gt;
+SwiftAnytime: https://www.swiftanytime.com/
+
+YouTube Video: https://youtu.be/UgKjyzW_AnM
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Mayank&amp;#39;s Twitter: https://twitter.com/iosmayank
+Mayank&amp;#39;s YouTube: https://www.youtube.com/@iosmayank
+
+----------------- Follow Me On Social Media --------------------LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/JasonDubonYT
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Cracking iOS Interview Book&lt;/p&gt;
+&lt;p&gt;(6:34)Thoughts on Data Structure &amp;amp; Algorithm Questions
+(9:43) Advice for iOS Interviews &lt;/p&gt;
+&lt;p&gt;(13:45) Behavioral Interviews &lt;/p&gt;
+&lt;p&gt;(15:35) Mistake Developers Make For Interviews&lt;/p&gt;
+&lt;p&gt;(19:55) Preparing for Junior vs Senior Interviews &lt;/p&gt;
+&lt;p&gt;(24:04) Mayank’s Approach to Conducting Interviews&lt;/p&gt;
+&lt;p&gt;(28:10) Advice During The Down Market&lt;/p&gt;
+&lt;p&gt;(33:28) Getting into iOS Development&lt;/p&gt;
+&lt;p&gt;(44:00) What is SwiftAnyTime?
+
+#iosdev #iosdevinterviews #techinterview&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1700573777705-2b0b4d3943818.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[What It Takes To Build A SaaS with Mac Martine #21]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, I sat down with Mac Martine. We covered topics such as building SaaS companies, indie hacking, marketing as a developer and much more.
+
+YouTube Video: https://youtu.be/mkWuRPanhpY
+Apple Podcast: https://podcasts.apple.com/us/podcast/what-it-takes-to-build-a-saas-with-mac-martine-21/id1643028172?i=1000633987161
+Spotify: https://open.spotify.com/episode/2IrbsvRlTQ6W4CMfi5apSp?si=Gf6QDB2YS0GVCsyNY_vCYw
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Saas Bootstrapper: https://www.thesaasbootstrapper.co/
+Mac&#39;s Personal Site: https://macmartine.com/
+Mac&#39;s Twitter: https://twitter.com/saasmakermac
+
+----------------- Follow Me On Social Media --------------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/JasonDubonYT
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+
+#saas #indiehacking #indiehackers</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/What-It-Takes-To-Build-A-SaaS-with-Mac-Martine-21-e2bitfq</link>
+			<guid isPermaLink="false">914a7ce6-ef1b-48e8-a8ef-d395eccd8d77</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 07 Nov 2023 10:54:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/78263226/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-6%2F354400469-44100-2-3bbaaf2504c24.mp3" length="47926124" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, I sat down with Mac Martine. We covered topics such as building SaaS companies, indie hacking, marketing as a developer and much more.
+
+YouTube Video: https://youtu.be/mkWuRPanhpY
+Apple Podcast: https://podcasts.apple.com/us/podcast/what-it-takes-to-build-a-saas-with-mac-martine-21/id1643028172?i=1000633987161
+Spotify: https://open.spotify.com/episode/2IrbsvRlTQ6W4CMfi5apSp?si=Gf6QDB2YS0GVCsyNY_vCYw
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Saas Bootstrapper: https://www.thesaasbootstrapper.co/
+Mac&amp;#39;s Personal Site: https://macmartine.com/
+Mac&amp;#39;s Twitter: https://twitter.com/saasmakermac
+
+----------------- Follow Me On Social Media --------------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/JasonDubonYT
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+
+#saas #indiehacking #indiehackers&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:49:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1699354397602-006338adf3d8b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Growing App & Going Full-Time Indie with Chris Vasselli #20]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, I sat down with Chris Vasselli. We covered topics such as indie development, having app randomly blow up, going full time indie, getting into iOS development, living in Japan, SwiftLeeds and much more.
+
+YouTube Video: https://youtu.be/QmD6uiffqbs
+Apple Podcast: 
+Spotify: 
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Chris&#39;s Twitter: https://twitter.com/chrisvasselli
+Chris&#39;s Mastadon: https://mstdn.social/@chrisvasselli
+Chris&#39;s Hihongo App: https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245?ls=1
+
+----------------- Follow Me On Social Media -----------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/JasonDubonYT
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Intro
+0:20) Nihongo
+(6:10) Nihongo’s Big Breakout
+(13:59) Shifting App from One Time Payment to Subscription Model
+(17:38) Going Full-Time Indie Dev
+(28:39) Journey into iOS Development
+(34:57) SwiftLeeds and First Conference Talk
+(37:41) Indie App Unit Testing, CD/CI
+(44:25) Selecting Topic for Conference Talk
+(48:20) Future Conferences? 👀
+
+#iosdev #indiedevelopment #indiedev</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Growing-App--Going-Full-Time-Indie-with-Chris-Vasselli-20-e2b8u0u</link>
+			<guid isPermaLink="false">65c3abf7-5e95-4720-b274-ac95eccbf52b</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 31 Oct 2023 10:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/77936094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-30%2F353401944-44100-2-d2b788fc6097e.mp3" length="48197380" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, I sat down with Chris Vasselli. We covered topics such as indie development, having app randomly blow up, going full time indie, getting into iOS development, living in Japan, SwiftLeeds and much more.
+
+YouTube Video: https://youtu.be/QmD6uiffqbs
+Apple Podcast: 
+Spotify: 
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Chris&amp;#39;s Twitter: https://twitter.com/chrisvasselli
+Chris&amp;#39;s Mastadon: https://mstdn.social/@chrisvasselli
+Chris&amp;#39;s Hihongo App: https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245?ls=1
+
+----------------- Follow Me On Social Media -----------------
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Twitter: https://twitter.com/JasonDubonYT
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Intro
+0:20) Nihongo
+(6:10) Nihongo’s Big Breakout
+(13:59) Shifting App from One Time Payment to Subscription Model
+(17:38) Going Full-Time Indie Dev
+(28:39) Journey into iOS Development
+(34:57) SwiftLeeds and First Conference Talk
+(37:41) Indie App Unit Testing, CD/CI
+(44:25) Selecting Topic for Conference Talk
+(48:20) Future Conferences? 👀
+
+#iosdev #indiedevelopment #indiedev&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1698697969742-d10812b2b1a3a.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[A Guide To Freelancing As A Developer with Rudrank Riyam #19]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, I sat down with Rudrank Riyam and we broke down how to get started freelancing, how to get your first client and what mistakes to avoid. We also covered being a digital nomad and what the future holds.
+
+YouTube Video: https://youtu.be/_dVDybM--DM
+Apple Podcast: https://podcasts.apple.com/us/podcast/a-guide-to-freelancing-as-a-developer-with-rudrank-riyam-19/id1643028172?i=1000632426401Spotify: https://open.spotify.com/episode/0V8mtkixAFEcz05xZRjJJU?si=Kxs1B6DzTYakE4NZJt1ajw
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Rudrank&#39;s Twitter: https://twitter.com/rudrankriyam
+Rudrank&#39;s Site: https://www.rudrank.com/
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+(0:00) Preview
+(0:50) Freelancing as iOS Developer</p>
+<p>(2:55) First Step to Become a Freelancer as a Developer</p>
+<p>(7:47) Landing First Freelancing Client</p>
+<p>(14:29) Pitfalls to avoid as a freelancer</p>
+<p>(16:26) Tradeoffs Between Freelancing &amp; Full-Time Role</p>
+<p>(22:29) Digital Nomad Experience</p>
+<p>(30:23) Getting Started with iOS Development</p>
+<p>(35:05) Internship Experience at Apple </p>
+<p>(37:05) The Angela Yu Course </p>
+<p>(38:20) Rudrank’s Recent Works</p>
+<p>(41:05) Future Plans</p>
+<p>(45:10) Outro
+
+#iosdev #freelancing #freelancer</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/A-Guide-To-Freelancing-As-A-Developer-with-Rudrank-Riyam-19-e2arcms</link>
+			<guid isPermaLink="false">46c27b3f-6370-45a2-b9e6-12307e0fc760</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 24 Oct 2023 12:09:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/77492380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-20%2F352012295-44100-2-0fd0dbbfef8da.mp3" length="44078392" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, I sat down with Rudrank Riyam and we broke down how to get started freelancing, how to get your first client and what mistakes to avoid. We also covered being a digital nomad and what the future holds.
+
+YouTube Video: https://youtu.be/_dVDybM--DM
+Apple Podcast: https://podcasts.apple.com/us/podcast/a-guide-to-freelancing-as-a-developer-with-rudrank-riyam-19/id1643028172?i=1000632426401Spotify: https://open.spotify.com/episode/0V8mtkixAFEcz05xZRjJJU?si=Kxs1B6DzTYakE4NZJt1ajw
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Rudrank&amp;#39;s Twitter: https://twitter.com/rudrankriyam
+Rudrank&amp;#39;s Site: https://www.rudrank.com/
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+(0:00) Preview
+(0:50) Freelancing as iOS Developer&lt;/p&gt;
+&lt;p&gt;(2:55) First Step to Become a Freelancer as a Developer&lt;/p&gt;
+&lt;p&gt;(7:47) Landing First Freelancing Client&lt;/p&gt;
+&lt;p&gt;(14:29) Pitfalls to avoid as a freelancer&lt;/p&gt;
+&lt;p&gt;(16:26) Tradeoffs Between Freelancing &amp;amp; Full-Time Role&lt;/p&gt;
+&lt;p&gt;(22:29) Digital Nomad Experience&lt;/p&gt;
+&lt;p&gt;(30:23) Getting Started with iOS Development&lt;/p&gt;
+&lt;p&gt;(35:05) Internship Experience at Apple &lt;/p&gt;
+&lt;p&gt;(37:05) The Angela Yu Course &lt;/p&gt;
+&lt;p&gt;(38:20) Rudrank’s Recent Works&lt;/p&gt;
+&lt;p&gt;(41:05) Future Plans&lt;/p&gt;
+&lt;p&gt;(45:10) Outro
+
+#iosdev #freelancing #freelancer&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1698087256241-32b1dd938360c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[How I would become an iOS Developer in 2024 with Jason Dubon #18]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, its different!! A solo episode this time! I covered topics such as what I&#39;ve been up to, how I would become a developer today, and what makes someone an iOS developer. 
+
+YouTube Video: https://youtu.be/UUmABP7wr4o
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+</p>
+<p>(0:00) Intro
+(0:29) What I&#39;ve Been Up To
+(6:21) How I would become an iOS Developer ?
+(16:25) What makes someone an iOS developer ?
+(18:42) Outro</p>
+<p>
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+#iosdev #developermindset #iosdeveloper</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/How-I-would-become-an-iOS-Developer-in-2024-with-Jason-Dubon-18-e2ad6no</link>
+			<guid isPermaLink="false">eb8f789a-c3bd-41b0-a205-60e01d1b90e0</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 10 Oct 2023 15:42:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/77027512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-10%2F350544554-44100-2-945b746d3ceb7.mp3" length="19386199" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, its different!! A solo episode this time! I covered topics such as what I&amp;#39;ve been up to, how I would become a developer today, and what makes someone an iOS developer. 
+
+YouTube Video: https://youtu.be/UUmABP7wr4o
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+&lt;/p&gt;
+&lt;p&gt;(0:00) Intro
+(0:29) What I&amp;#39;ve Been Up To
+(6:21) How I would become an iOS Developer ?
+(16:25) What makes someone an iOS developer ?
+(18:42) Outro&lt;/p&gt;
+&lt;p&gt;
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+#iosdev #developermindset #iosdeveloper&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:20:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/30135741/30135741-1707228105201-b14d07d1b457c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Mindset of A Developer & Indie Hacking with Logan Koshenka #17]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, I sat down with Logan for another round. Logan is an iOS Engineer at Spotify and indie developer with 7+ years of experience. We covered topics such as mindset of a developer, becoming a developer, indie hacking and twitter aka X. 
+
+YouTube Video: https://youtu.be/8Hb49qMdiTQ
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Logan&#39;s Twitter: https://twitter.com/logankoshenka
+Logan&#39;s YouTube: https://www.youtube.com/c/logankoshenka
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Preview
+(0:39) Smarts vs Mindset to Become a Developer</p>
+<p>(11:11) Indie apps and Inspiration</p>
+<p>(21:49) Skill stack of indie developer</p>
+<p>(31:09) Just Keep Shipping</p>
+<p>(36:16) Getting Honest Feedback </p>
+<p>(39:39) Whats Going on with Twitter/X ?</p>
+<p>(42:39) Moving to Threads?
+
+#iosdev #developermindset #indiedevelopment</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Mindset-of-A-Developer--Indie-Hacking-with-Logan-Koshenka-17-e29tv66</link>
+			<guid isPermaLink="false">0e7a8e4e-53ac-4844-a380-b06c2c4b4c09</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 03 Oct 2023 10:57:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/76528262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-29%2F348987609-44100-2-cf99bc822cff6.mp3" length="48988577" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, I sat down with Logan for another round. Logan is an iOS Engineer at Spotify and indie developer with 7+ years of experience. We covered topics such as mindset of a developer, becoming a developer, indie hacking and twitter aka X. 
+
+YouTube Video: https://youtu.be/8Hb49qMdiTQ
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Logan&amp;#39;s Twitter: https://twitter.com/logankoshenka
+Logan&amp;#39;s YouTube: https://www.youtube.com/c/logankoshenka
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Preview
+(0:39) Smarts vs Mindset to Become a Developer&lt;/p&gt;
+&lt;p&gt;(11:11) Indie apps and Inspiration&lt;/p&gt;
+&lt;p&gt;(21:49) Skill stack of indie developer&lt;/p&gt;
+&lt;p&gt;(31:09) Just Keep Shipping&lt;/p&gt;
+&lt;p&gt;(36:16) Getting Honest Feedback &lt;/p&gt;
+&lt;p&gt;(39:39) Whats Going on with Twitter/X ?&lt;/p&gt;
+&lt;p&gt;(42:39) Moving to Threads?
+
+#iosdev #developermindset #indiedevelopment&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1696330623196-a08b79be60841.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Growing Your Apps with Pietro Messineo #16]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, I had the pleasure of sitting down with Pietro Messineo. We covered what it takes to grow your apps, having an app go viral, building apps in high school and much more. 
+
+YouTube Video: https://youtu.be/f9_3m6Pg41U
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Pietro&#39;s LinkedIn: https://www.linkedin.com/in/pietromessineo/
+Pietro&#39;s Twitter: https://twitter.com/pietro_messineo
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Preview</p>
+<p>(0:52) What makes an app worth buying</p>
+<p>(4:12) Getting more app downloads</p>
+<p>(11:39) App Going Viral &amp; Exiting</p>
+<p>(16:57) Criteria for App Ideas</p>
+<p>(21:08) Getting into iOS Development in High School</p>
+<p>(24:42) Sideloading iPhone Apps</p>
+<p>(25:42) Building Apps in College</p>
+<p>(28:52) Moving To Czech Republic as iOS Developer</p>
+<p>(30:36) Market for iOS Developers in Czech Republic &amp; Europe</p>
+<p>(34:10) Advice for Young Developers</p>
+<p>(36:27) Building for watchOS and tvOS</p>
+<p>(38:04) SwiftUI vs UIKit for Indie Apps</p>
+<p>(41:26) Speaking at Conferences</p>
+<p>(45:07) Favorite Conference</p>
+<p>(45:52) Preventing Security Issues in your App</p>
+<p>
+Growing your apps </p>
+<p>how to grow your app</p>
+<p>ASO - App Store optimization</p>
+<p>
+#iosdev #swift #appgrowth </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Growing-Your-Apps-with-Pietro-Messineo-16-e29n76t</link>
+			<guid isPermaLink="false">31f724d2-f3f9-4450-86a4-2950ed100421</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 26 Sep 2023 10:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/76307101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-24%2F348312077-44100-2-b34ebb3d126e8.mp3" length="46790529" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, I had the pleasure of sitting down with Pietro Messineo. We covered what it takes to grow your apps, having an app go viral, building apps in high school and much more. 
+
+YouTube Video: https://youtu.be/f9_3m6Pg41U
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Pietro&amp;#39;s LinkedIn: https://www.linkedin.com/in/pietromessineo/
+Pietro&amp;#39;s Twitter: https://twitter.com/pietro_messineo
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Preview&lt;/p&gt;
+&lt;p&gt;(0:52) What makes an app worth buying&lt;/p&gt;
+&lt;p&gt;(4:12) Getting more app downloads&lt;/p&gt;
+&lt;p&gt;(11:39) App Going Viral &amp;amp; Exiting&lt;/p&gt;
+&lt;p&gt;(16:57) Criteria for App Ideas&lt;/p&gt;
+&lt;p&gt;(21:08) Getting into iOS Development in High School&lt;/p&gt;
+&lt;p&gt;(24:42) Sideloading iPhone Apps&lt;/p&gt;
+&lt;p&gt;(25:42) Building Apps in College&lt;/p&gt;
+&lt;p&gt;(28:52) Moving To Czech Republic as iOS Developer&lt;/p&gt;
+&lt;p&gt;(30:36) Market for iOS Developers in Czech Republic &amp;amp; Europe&lt;/p&gt;
+&lt;p&gt;(34:10) Advice for Young Developers&lt;/p&gt;
+&lt;p&gt;(36:27) Building for watchOS and tvOS&lt;/p&gt;
+&lt;p&gt;(38:04) SwiftUI vs UIKit for Indie Apps&lt;/p&gt;
+&lt;p&gt;(41:26) Speaking at Conferences&lt;/p&gt;
+&lt;p&gt;(45:07) Favorite Conference&lt;/p&gt;
+&lt;p&gt;(45:52) Preventing Security Issues in your App&lt;/p&gt;
+&lt;p&gt;
+Growing your apps &lt;/p&gt;
+&lt;p&gt;how to grow your app&lt;/p&gt;
+&lt;p&gt;ASO - App Store optimization&lt;/p&gt;
+&lt;p&gt;
+#iosdev #swift #appgrowth &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1695664661120-4f35b4f9fef0b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[What Developers Get WRONG When Applying to Jobs with Eugene Berezin #15]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, I had the pleasure of sitting down with Eugene Berezin. We covered the interview and application process for iOS Developers, Self Development, and mistakes developers make.
+
+YouTube Video: https://youtu.be/bI8ewKdenmE
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Eugene&#39;s LinkedIn: https://www.linkedin.com/in/eugene-berezin/
+Eugene&#39;s Twitter: https://twitter.com/eugeneiosdev
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Preview
+(1:00) Mistakes Developers Make in Application Process?
+(8:04) How Aspiring Developers Can Break into The Field?
+(10:31) State of the Job Market
+(14:19) QA Testing into iOS Development
+(18:47) Junior Developers Who Feel Stuck
+(21:58) Business of One Mindset
+(24:30) Remote vs In-office
+(30:50) Morning Routine
+(31:43) What&#39;s the most impactful thing to do?
+(35:28) Inspiration for Career Coach
+(39:05) If Started Today as Developer
+(42:36) UIKit vs SwiftUI
+(44:05) AI and iOS Development
+(47:48) How Improving Emotional Intelligence and Self Improves Your Career
+
+#iosdev #swift #iosdevinterviews</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/What-Developers-Get-WRONG-When-Applying-to-Jobs-with-Eugene-Berezin-15-e29e0o6</link>
+			<guid isPermaLink="false">c939b7ca-baba-4e48-8d51-2768629b3f9b</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 19 Sep 2023 09:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/76005574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-17%2F347370004-44100-2-3d656c17d82bc.mp3" length="49387310" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, I had the pleasure of sitting down with Eugene Berezin. We covered the interview and application process for iOS Developers, Self Development, and mistakes developers make.
+
+YouTube Video: https://youtu.be/bI8ewKdenmE
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Eugene&amp;#39;s LinkedIn: https://www.linkedin.com/in/eugene-berezin/
+Eugene&amp;#39;s Twitter: https://twitter.com/eugeneiosdev
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Preview
+(1:00) Mistakes Developers Make in Application Process?
+(8:04) How Aspiring Developers Can Break into The Field?
+(10:31) State of the Job Market
+(14:19) QA Testing into iOS Development
+(18:47) Junior Developers Who Feel Stuck
+(21:58) Business of One Mindset
+(24:30) Remote vs In-office
+(30:50) Morning Routine
+(31:43) What&amp;#39;s the most impactful thing to do?
+(35:28) Inspiration for Career Coach
+(39:05) If Started Today as Developer
+(42:36) UIKit vs SwiftUI
+(44:05) AI and iOS Development
+(47:48) How Improving Emotional Intelligence and Self Improves Your Career
+
+#iosdev #swift #iosdevinterviews&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1694965083651-b2f7acca1dc0c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Having A Successful Career in Tech with Jeroen Leenarts #14]]></title>
+			<description><![CDATA[<p>In this episode of the iOS developer podcast, I had the pleasure of sitting down with Jeroen Leenarts, the host of the AppForce1 podcast. We covered a wide range of topics such as the Do iOS Conference, Sr Dev vs Dev Relations, GetStream.io (aka Stream), career advice for iOS developers.
+
+YouTube Video: https://youtu.be/kHEsWtaSTPo
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+AppForce1&#39;s Twitter: https://twitter.com/AppForce1
+Do iOS Conference: https://do-ios.com/
+AppForce1: https://appforce1.net/
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+0:00 Preview
+0:53 Criteria for Conference Speakers
+4:45 Orchestrating Do iOS Conference
+31:36 Going from Java developer to iOS developer
+39:30 Deciding between Senior iOS developer and Developer relations
+46:35 Working at Startups
+48:55 Staying at Job Too Long53:05 Benefits of GetStream.io 
+59:50 Biggest Takeaway from 20 years in Tech
+1:05:55 Importance of Taking Breaks
+1:13:45 Conducting iOS Developer Interviews
+
+
+#iosdev #swift #iosinterviews</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Having-A-Successful-Career-in-Tech-with-Jeroen-Leenarts-14-e293fpd</link>
+			<guid isPermaLink="false">12b8c5e5-79bc-448c-81f9-fc8e3f0232b2</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 12 Sep 2023 09:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/75660525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-9%2F346297769-44100-2-828949451c809.mp3" length="78140394" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS developer podcast, I had the pleasure of sitting down with Jeroen Leenarts, the host of the AppForce1 podcast. We covered a wide range of topics such as the Do iOS Conference, Sr Dev vs Dev Relations, GetStream.io (aka Stream), career advice for iOS developers.
+
+YouTube Video: https://youtu.be/kHEsWtaSTPo
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+AppForce1&amp;#39;s Twitter: https://twitter.com/AppForce1
+Do iOS Conference: https://do-ios.com/
+AppForce1: https://appforce1.net/
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+0:00 Preview
+0:53 Criteria for Conference Speakers
+4:45 Orchestrating Do iOS Conference
+31:36 Going from Java developer to iOS developer
+39:30 Deciding between Senior iOS developer and Developer relations
+46:35 Working at Startups
+48:55 Staying at Job Too Long53:05 Benefits of GetStream.io 
+59:50 Biggest Takeaway from 20 years in Tech
+1:05:55 Importance of Taking Breaks
+1:13:45 Conducting iOS Developer Interviews
+
+
+#iosdev #swift #iosinterviews&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:21:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1694268765863-6516ca5c05045.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Inventing Apps & Cracking the Interviews with Logan Koshenka #13]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Logan Koshenka. We covered a wide range of topics such as Startup accelerators, Indie development, interviewing at big tech companies, and much more with Logan Koshenka.
+
+YouTube Video: https://youtu.be/sGqLUGOppZo
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Logan&#39;s Twitter: https://twitter.com/logankoshenka
+Logan&#39;s YouTube: https://www.youtube.com/c/logankoshenka
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+Intro</p>
+<p>Getting Into Tech</p>
+<p>Learning iOS Development</p>
+<p>Inventing Apps in Silicon Valley</p>
+<p>First iOS Dev Job</p>
+<p>AccuFit &amp; Fitness Apps</p>
+<p>Pulling the Plug on Ideas</p>
+<p>Landing Job at Spotify</p>
+<p>Productive days</p>
+<p>How to Land Job in Big Tech</p>
+<p>Pyschology based UI</p>
+<p><br></p>
+<p>#iosdev #swift #iosinterviews</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Inventing-Apps--Cracking-the-Interviews-with-Logan-Koshenka-13-e28r52r</link>
+			<guid isPermaLink="false">5875b2a3-13b7-4a81-83ab-b8b4b5030f68</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 05 Sep 2023 09:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/75387419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-2%2F345445541-44100-2-a2a6a99b32f0e.mp3" length="51873331" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Logan Koshenka. We covered a wide range of topics such as Startup accelerators, Indie development, interviewing at big tech companies, and much more with Logan Koshenka.
+
+YouTube Video: https://youtu.be/sGqLUGOppZo
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Logan&amp;#39;s Twitter: https://twitter.com/logankoshenka
+Logan&amp;#39;s YouTube: https://www.youtube.com/c/logankoshenka
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+Intro&lt;/p&gt;
+&lt;p&gt;Getting Into Tech&lt;/p&gt;
+&lt;p&gt;Learning iOS Development&lt;/p&gt;
+&lt;p&gt;Inventing Apps in Silicon Valley&lt;/p&gt;
+&lt;p&gt;First iOS Dev Job&lt;/p&gt;
+&lt;p&gt;AccuFit &amp;amp; Fitness Apps&lt;/p&gt;
+&lt;p&gt;Pulling the Plug on Ideas&lt;/p&gt;
+&lt;p&gt;Landing Job at Spotify&lt;/p&gt;
+&lt;p&gt;Productive days&lt;/p&gt;
+&lt;p&gt;How to Land Job in Big Tech&lt;/p&gt;
+&lt;p&gt;Pyschology based UI&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;#iosdev #swift #iosinterviews&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:54:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1693690599396-6b9b9a6baaf61.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Startups, Snapchat, and Going Indie with Mazen Kourouche #12]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Mazen Kourouche. We covered a wide range of topics such as working at startups, UX &amp; UI design, indie development, working at SnapChat, getting acquired by big tech and much more! 
+
+YouTube Video: https://youtu.be/FY1-6IbKCUc
+Audio Version: https://www.iosdevpodcast.com/links
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Mazen&#39;s Twitter: https://twitter.com/mazenkourouche
+Mazen&#39;s YouTube: https://www.youtube.com/@mazenkourouche
+Mazen&#39;s Site: https://www.mazenkourouche.com/
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Intro</p>
+<p>(0:29) Differences between Startups &amp; Big Companies</p>
+<p>(4:28) H.A.G.S Startup</p>
+<p>(8:55) Leaving Deloitte to Join Startup</p>
+<p>(11:54) Getting Acquired by SnapChat</p>
+<p>(14:27) Design Engineering &amp; SwiftUI</p>
+<p>(19:28) Improving Design Skills</p>
+<p>(27:05) Camping out for the iPhone</p>
+<p>(33:48) Working at SnapChat</p>
+<p>(36:45) Leaving Job to Go Indie</p>
+<p>(42:27) Biggest Struggle as Indie Dev</p>
+<p>(47:02) Time Management as Indie Dev</p>
+<p>(50:10) BeMyChef &amp; Cooking</p>
+<p>(57:30) WWDC Scholar
+
+#iosdev #swift #snapchat</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Startups--Snapchat--and-Going-Indie-with-Mazen-Kourouche-12-e28j2il</link>
+			<guid isPermaLink="false">0d603a42-dbc9-4a06-a7b6-b0941d51d97f</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 29 Aug 2023 09:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/75122709/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-27%2F344621449-44100-2-d13da58b02a52.mp3" length="59657403" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Mazen Kourouche. We covered a wide range of topics such as working at startups, UX &amp;amp; UI design, indie development, working at SnapChat, getting acquired by big tech and much more! 
+
+YouTube Video: https://youtu.be/FY1-6IbKCUc
+Audio Version: https://www.iosdevpodcast.com/links
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+
+Mazen&amp;#39;s Twitter: https://twitter.com/mazenkourouche
+Mazen&amp;#39;s YouTube: https://www.youtube.com/@mazenkourouche
+Mazen&amp;#39;s Site: https://www.mazenkourouche.com/
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Intro&lt;/p&gt;
+&lt;p&gt;(0:29) Differences between Startups &amp;amp; Big Companies&lt;/p&gt;
+&lt;p&gt;(4:28) H.A.G.S Startup&lt;/p&gt;
+&lt;p&gt;(8:55) Leaving Deloitte to Join Startup&lt;/p&gt;
+&lt;p&gt;(11:54) Getting Acquired by SnapChat&lt;/p&gt;
+&lt;p&gt;(14:27) Design Engineering &amp;amp; SwiftUI&lt;/p&gt;
+&lt;p&gt;(19:28) Improving Design Skills&lt;/p&gt;
+&lt;p&gt;(27:05) Camping out for the iPhone&lt;/p&gt;
+&lt;p&gt;(33:48) Working at SnapChat&lt;/p&gt;
+&lt;p&gt;(36:45) Leaving Job to Go Indie&lt;/p&gt;
+&lt;p&gt;(42:27) Biggest Struggle as Indie Dev&lt;/p&gt;
+&lt;p&gt;(47:02) Time Management as Indie Dev&lt;/p&gt;
+&lt;p&gt;(50:10) BeMyChef &amp;amp; Cooking&lt;/p&gt;
+&lt;p&gt;(57:30) WWDC Scholar
+
+#iosdev #swift #snapchat&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:02:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1693228247775-cf45ad42c8bc1.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[App Building as a Full-Time Pilot with Dan O'Leary #11]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Dan O&#39;Leary. We covered a wide range of topics such as indie development, business side of building apps, iOS development while being a pilot, and much more! 
+
+Audio Version: https://www.iosdevpodcast.com/links
+YouTube Video: https://youtu.be/9GaRUzgVQ_A
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+Podcast Website: https://www.iosdevpodcast.com/
+
+Dan&#39;s Twitter: https://twitter.com/olearydan
+Jet Fuel Dev: https://www.jetfueleddevs.com/
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Intro</p>
+<p>(0:53) First App on AppStore</p>
+<p>(7:36) Getting into Software Development</p>
+<p>(14:11) Leveling Up Development Skills</p>
+<p>(19:18) Juggling Flying Planes and Indie Development</p>
+<p>(26:35) Going All In on iOS?</p>
+<p>(31:03) Entrepreneurship as A Developer</p>
+<p>(39:43) Business Side of App Development</p>
+<p>(48:58) Origin of Jet Fueled Dev Podcast</p>
+<p>(56:44) Indie Development &amp; Talking to your Customers</p>
+<p>(59:05) Most Difficult Learning iOS Development or Flying A Plane?
+
+#iosdev #swift #pilot</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/App-Building-as-a-Full-Time-Pilot-with-Dan-OLeary-11-e28aomp</link>
+			<guid isPermaLink="false">64752456-4be7-4360-938c-e6466875ef2a</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 22 Aug 2023 09:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/74850457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-21%2F343906361-44100-2-74903de65b2f8.mp3" length="66142039" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Dan O&amp;#39;Leary. We covered a wide range of topics such as indie development, business side of building apps, iOS development while being a pilot, and much more! 
+
+Audio Version: https://www.iosdevpodcast.com/links
+YouTube Video: https://youtu.be/9GaRUzgVQ_A
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+Podcast Website: https://www.iosdevpodcast.com/
+
+Dan&amp;#39;s Twitter: https://twitter.com/olearydan
+Jet Fuel Dev: https://www.jetfueleddevs.com/
+
+----------------- Follow Me On Social Media --------------------
+Twitter: https://twitter.com/JasonDubonYT
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Instagram: https://www.instagram.com/thedubon/
+TikTok: https://www.tiktok.com/@thedubon
+
+(0:00) Intro&lt;/p&gt;
+&lt;p&gt;(0:53) First App on AppStore&lt;/p&gt;
+&lt;p&gt;(7:36) Getting into Software Development&lt;/p&gt;
+&lt;p&gt;(14:11) Leveling Up Development Skills&lt;/p&gt;
+&lt;p&gt;(19:18) Juggling Flying Planes and Indie Development&lt;/p&gt;
+&lt;p&gt;(26:35) Going All In on iOS?&lt;/p&gt;
+&lt;p&gt;(31:03) Entrepreneurship as A Developer&lt;/p&gt;
+&lt;p&gt;(39:43) Business Side of App Development&lt;/p&gt;
+&lt;p&gt;(48:58) Origin of Jet Fueled Dev Podcast&lt;/p&gt;
+&lt;p&gt;(56:44) Indie Development &amp;amp; Talking to your Customers&lt;/p&gt;
+&lt;p&gt;(59:05) Most Difficult Learning iOS Development or Flying A Plane?
+
+#iosdev #swift #pilot&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:08:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1692631142357-08838931ecacb.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Going from Junior to Senior iOS Developer with Catalin Patrascu #10]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Catalin Patrascu. We covered a wide range of topics such as differences between junior and senior iOS developer, freelancing, journey into tech, SwiftUI vs UIKit, best architecture, Singleton design pattern, and much more! Hope you enjoy! 
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/5YSbgKAV98k
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+Podcast Website: https://www.iosdevpodcast.com/
+
+Catalin&#39;s Twitter: https://twitter.com/cpatrascudev
+Catalin&#39;s LinkedIn: https://www.linkedin.com/in/catalin-patrascu/
+Catalin&#39;s Site: https://catalinpatrascu.com/
+
+Building Scalable &amp; Maintainable Apps by Catalin: https://cpatrascudev.gumroad.com/l/iosdnablueprint?layout=profile
+
+----------------- Follow Me On Social Media --------------------
+Instagram: https://www.instagram.com/thedubon/
+Twitter: https://twitter.com/JasonDubonYT
+TikTok: https://www.tiktok.com/@thedubon
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Threads: https://www.threads.net/@thedubon
+
+0:00 Intro
+0:54 Moment Catalin went from Jr. to Sr.
+2:38 How did you get into Tech?
+8:10 Getting into Freelancing
+13:45 First iMac
+20:05 First Major iOS Role
+23:12 What Separates a Jr iOS Dev from Sr iOS Dev
+25:42 Differences between a Lead iOS Dev and Sr iOS Dev
+28:36 Trends in Mobile Development
+30:17 Native vs Cross Platform for Startup
+31:54 iPhone vs Android Globally 
+34:25 Apps Shifting To Subscription Model
+35:54 SwiftUI vs UIKit ?
+38:54 Best Architecture for SwiftUI 
+43:50 Pros and Cons of Singleton Design Pattern
+46:30 Writing and Creating iOS content 
+51:48 Foundations for Young Developers 
+53:04 Outro
+
+#iosdev #swift #ioslead</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Going-from-Junior-to-Senior-iOS-Developer-with-Catalin-Patrascu-10-e280lqf</link>
+			<guid isPermaLink="false">b1cf72ce-8fdb-4938-a53b-4154a2e90d2e</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 15 Aug 2023 09:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/74519823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F342757235-44100-2-537d1681e7a96.mp3" length="51653484" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Catalin Patrascu. We covered a wide range of topics such as differences between junior and senior iOS developer, freelancing, journey into tech, SwiftUI vs UIKit, best architecture, Singleton design pattern, and much more! Hope you enjoy! 
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/5YSbgKAV98k
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletter
+Podcast Website: https://www.iosdevpodcast.com/
+
+Catalin&amp;#39;s Twitter: https://twitter.com/cpatrascudev
+Catalin&amp;#39;s LinkedIn: https://www.linkedin.com/in/catalin-patrascu/
+Catalin&amp;#39;s Site: https://catalinpatrascu.com/
+
+Building Scalable &amp;amp; Maintainable Apps by Catalin: https://cpatrascudev.gumroad.com/l/iosdnablueprint?layout=profile
+
+----------------- Follow Me On Social Media --------------------
+Instagram: https://www.instagram.com/thedubon/
+Twitter: https://twitter.com/JasonDubonYT
+TikTok: https://www.tiktok.com/@thedubon
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Threads: https://www.threads.net/@thedubon
+
+0:00 Intro
+0:54 Moment Catalin went from Jr. to Sr.
+2:38 How did you get into Tech?
+8:10 Getting into Freelancing
+13:45 First iMac
+20:05 First Major iOS Role
+23:12 What Separates a Jr iOS Dev from Sr iOS Dev
+25:42 Differences between a Lead iOS Dev and Sr iOS Dev
+28:36 Trends in Mobile Development
+30:17 Native vs Cross Platform for Startup
+31:54 iPhone vs Android Globally 
+34:25 Apps Shifting To Subscription Model
+35:54 SwiftUI vs UIKit ?
+38:54 Best Architecture for SwiftUI 
+43:50 Pros and Cons of Singleton Design Pattern
+46:30 Writing and Creating iOS content 
+51:48 Foundations for Young Developers 
+53:04 Outro
+
+#iosdev #swift #ioslead&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:53:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1691795453884-cce676535b9df.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Software Intern at 18 & Deep Dish Swift with Josh Holtz #9]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Josh Holtz we covered topics such as getting into software development at early age, app building during smartphone boom, RevenueCat, Deep Dish Swift and much more.
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/woWRmbn0bI4
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletterPodcast Website: https://www.iosdevpodcast.com/
+
+Josh&#39;s Twitter: https://twitter.com/joshdholtz
+Josh&#39;s Mastodon: https://mastodon.social/@joshdholtz
+Josh&#39;s Site: https://www.joshholtz.com/</p>
+<p>
+----------------- Follow Me On Social Media --------------------
+Instagram: https://www.instagram.com/thedubon/
+Twitter: https://twitter.com/JasonDubonYT
+TikTok: https://www.tiktok.com/@thedubon
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Threads: https://www.threads.net/@thedubon
+
+0:00 Intro
+0:52 Getting into Development
+6:50 Software Internship at 18
+8:52 Post-College
+10:05 App Building during Smart Phone Boom
+13:33 Moving Away from Software Agency
+23:43 Power of RevenueCat
+28:28 Maintaining and Benefits of Fastlane
+35:43 Origin of Deep Dish Swift
+47:28 How Children Changed Life As Developer
+52:51 Overcoming Stutter
+
+#iosdev #swift #podcast</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Software-Intern-at-18--Deep-Dish-Swift-with-Josh-Holtz-9-e27q9kk</link>
+			<guid isPermaLink="false">18f8e164-1fa6-4351-ae4c-9697009907b5</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 08 Aug 2023 09:40:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/74310740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-6%2F342122981-44100-2-fe4c27d4bc21e.mp3" length="57335221" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Josh Holtz we covered topics such as getting into software development at early age, app building during smartphone boom, RevenueCat, Deep Dish Swift and much more.
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/woWRmbn0bI4
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: https://www.iosdevpodcast.com/newsletterPodcast Website: https://www.iosdevpodcast.com/
+
+Josh&amp;#39;s Twitter: https://twitter.com/joshdholtz
+Josh&amp;#39;s Mastodon: https://mastodon.social/@joshdholtz
+Josh&amp;#39;s Site: https://www.joshholtz.com/&lt;/p&gt;
+&lt;p&gt;
+----------------- Follow Me On Social Media --------------------
+Instagram: https://www.instagram.com/thedubon/
+Twitter: https://twitter.com/JasonDubonYT
+TikTok: https://www.tiktok.com/@thedubon
+LinkedIn: https://www.linkedin.com/in/jasondubon/
+Threads: https://www.threads.net/@thedubon
+
+0:00 Intro
+0:52 Getting into Development
+6:50 Software Internship at 18
+8:52 Post-College
+10:05 App Building during Smart Phone Boom
+13:33 Moving Away from Software Agency
+23:43 Power of RevenueCat
+28:28 Maintaining and Benefits of Fastlane
+35:43 Origin of Deep Dish Swift
+47:28 How Children Changed Life As Developer
+52:51 Overcoming Stutter
+
+#iosdev #swift #podcast&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1691351097856-22461ebf40dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Power of the iOS Community with Mikaela Caron #8]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Mikaela we cover topics such as becoming an iOS Dev, the iOS Community, Conferences, and the power of networking. 
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/0RFdk5BlU6o
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: http://eepurl.com/iu9nS2 
+
+Mikaela&#39;s Twitter: https://twitter.com/mikaela__caron
+Mikaela&#39;s YouTube: https://www.youtube.com/@mikaelacaron
+Mikaela&#39;s Site: https://mikaelacaron.com/links/
+
+----------------- Follow Me On Social Media --------------------</p>
+<p>
+Instagram: https://www.instagram.com/thedubon/</p>
+<p>
+Twitter: https://twitter.com/JasonDubonYT
+</p>
+<p>TikTok: https://www.tiktok.com/@thedubon</p>
+<p><br></p>
+<p>LinkedIn: https://www.linkedin.com/in/jasondubon/
+</p>
+<p>Threads: https://www.threads.net/@thedubon
+
+0:00 Intro</p>
+<p>0:47 Login vs Sign In
+5:19 Working at Steel Company &amp; Getting into Programming</p>
+<p>9:15 Day to Day Working on Tech Stack of Steel Company</p>
+<p>13:20 Shifting into iOS &amp; First iOS Dev Job</p>
+<p>22:02 Being Active in the Community &amp; Networking</p>
+<p>25: 21 Swift &amp; iOS Conferences</p>
+<p>27:20 Advice for Devs Giving Their First Talk at Conference</p>
+<p>31:28 iOS Dev Happy Hour</p>
+<p>36:01 Becoming an organizer</p>
+<p>38:31 How would you learn iOS Development if You Started Today (2023)</p>
+<p>43:46 Trade-offs Between Clean Code &amp; Speed 
+50:00 Story Behind the Unicorn</p>
+<p>54:00 Outro
+
+#iosdev #swift #podcast</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Power-of-the-iOS-Community-with-Mikaela-Caron-8-e27i9sr</link>
+			<guid isPermaLink="false">35682c13-8a0d-4c9c-96df-2386057a12ae</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 01 Aug 2023 09:30:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/74048859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-31%2F341417349-44100-2-bf29a58b109d8.mp3" length="53143091" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Mikaela we cover topics such as becoming an iOS Dev, the iOS Community, Conferences, and the power of networking. 
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/0RFdk5BlU6o
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: http://eepurl.com/iu9nS2 
+
+Mikaela&amp;#39;s Twitter: https://twitter.com/mikaela__caron
+Mikaela&amp;#39;s YouTube: https://www.youtube.com/@mikaelacaron
+Mikaela&amp;#39;s Site: https://mikaelacaron.com/links/
+
+----------------- Follow Me On Social Media --------------------&lt;/p&gt;
+&lt;p&gt;
+Instagram: https://www.instagram.com/thedubon/&lt;/p&gt;
+&lt;p&gt;
+Twitter: https://twitter.com/JasonDubonYT
+&lt;/p&gt;
+&lt;p&gt;TikTok: https://www.tiktok.com/@thedubon&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: https://www.linkedin.com/in/jasondubon/
+&lt;/p&gt;
+&lt;p&gt;Threads: https://www.threads.net/@thedubon
+
+0:00 Intro&lt;/p&gt;
+&lt;p&gt;0:47 Login vs Sign In
+5:19 Working at Steel Company &amp;amp; Getting into Programming&lt;/p&gt;
+&lt;p&gt;9:15 Day to Day Working on Tech Stack of Steel Company&lt;/p&gt;
+&lt;p&gt;13:20 Shifting into iOS &amp;amp; First iOS Dev Job&lt;/p&gt;
+&lt;p&gt;22:02 Being Active in the Community &amp;amp; Networking&lt;/p&gt;
+&lt;p&gt;25: 21 Swift &amp;amp; iOS Conferences&lt;/p&gt;
+&lt;p&gt;27:20 Advice for Devs Giving Their First Talk at Conference&lt;/p&gt;
+&lt;p&gt;31:28 iOS Dev Happy Hour&lt;/p&gt;
+&lt;p&gt;36:01 Becoming an organizer&lt;/p&gt;
+&lt;p&gt;38:31 How would you learn iOS Development if You Started Today (2023)&lt;/p&gt;
+&lt;p&gt;43:46 Trade-offs Between Clean Code &amp;amp; Speed 
+50:00 Story Behind the Unicorn&lt;/p&gt;
+&lt;p&gt;54:00 Outro
+
+#iosdev #swift #podcast&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:55:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1690810171371-9978495448f8a.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Former Apple Engineer on SwiftUI Team with Natalia Panferova #7]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Natalia Panferova we cover topics such as getting into tech, web &amp; iOS development, working at Apple, and other iOS projects. 
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/caMp8bR2Vmk
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: http://eepurl.com/iu9nS2 
+</p>
+<p>Clips YouTube Channel: https://www.youtube.com/@iOSDevPodcast</p>
+<p>
+Natalia&#39;s Twitter: https://twitter.com/natpanferova
+Natalia&#39;s LinkedIn: https://www.linkedin.com/in/nataliapanferova/
+Natalia&#39;s Mastodon: https://mastodon.cloud/@natpanferova
+Nil Coalescing: https://nilcoalescing.com/
+SwiftUI in UIKit Apps Book: https://books.nilcoalescing.com/integrating-swiftui
+
+----------------- Follow Me On Social Media --------------------
+Instagram: https://www.instagram.com/thedubon/
+Twitter: https://twitter.com/JasonDubonYT
+TikTok: https://www.tiktok.com/@thedubon
+Threads: https://www.threads.net/@thedubon</p>
+<p><br></p>
+<p>0:00 Intro
+0:33 Lingistics Background
+1:47 Shifting into Tech
+3:43 Web Development
+4:57 Transitioning into iOS Development
+7:05 Nil Coalescing Blog
+8:30 Getting Job at Apple
+13:30 Biggest Difference of Working at Apple
+14:45 Advice for Landing a Job at Apple
+16:20 Most Undervalued Part of SwiftUI
+18:01 What Makes a Good iOS App ?
+19:25 Indie Projects
+22:55 SwiftUI in UIKit Apps Book
+24:33 Hardest Part of Transitioning UIKit Apps to SwiftUI
+25:33 Writing a Book 
+27:56 New iOS 17 Frameworks
+29:00 Family of iOS Developers
+31:45 Outro 
+
+#iosdev #swift #appledeveloper</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Former-Apple-Engineer-on-SwiftUI-Team-with-Natalia-Panferova-7-e278823</link>
+			<guid isPermaLink="false">2c3c586a-d9a4-475f-b84c-77e817102de5</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Tue, 25 Jul 2023 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/73719299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-22%2F340269171-44100-2-15c9a06512022.mp3" length="31091564" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Natalia Panferova we cover topics such as getting into tech, web &amp;amp; iOS development, working at Apple, and other iOS projects. 
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/caMp8bR2Vmk
+
+Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: http://eepurl.com/iu9nS2 
+&lt;/p&gt;
+&lt;p&gt;Clips YouTube Channel: https://www.youtube.com/@iOSDevPodcast&lt;/p&gt;
+&lt;p&gt;
+Natalia&amp;#39;s Twitter: https://twitter.com/natpanferova
+Natalia&amp;#39;s LinkedIn: https://www.linkedin.com/in/nataliapanferova/
+Natalia&amp;#39;s Mastodon: https://mastodon.cloud/@natpanferova
+Nil Coalescing: https://nilcoalescing.com/
+SwiftUI in UIKit Apps Book: https://books.nilcoalescing.com/integrating-swiftui
+
+----------------- Follow Me On Social Media --------------------
+Instagram: https://www.instagram.com/thedubon/
+Twitter: https://twitter.com/JasonDubonYT
+TikTok: https://www.tiktok.com/@thedubon
+Threads: https://www.threads.net/@thedubon&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;0:00 Intro
+0:33 Lingistics Background
+1:47 Shifting into Tech
+3:43 Web Development
+4:57 Transitioning into iOS Development
+7:05 Nil Coalescing Blog
+8:30 Getting Job at Apple
+13:30 Biggest Difference of Working at Apple
+14:45 Advice for Landing a Job at Apple
+16:20 Most Undervalued Part of SwiftUI
+18:01 What Makes a Good iOS App ?
+19:25 Indie Projects
+22:55 SwiftUI in UIKit Apps Book
+24:33 Hardest Part of Transitioning UIKit Apps to SwiftUI
+25:33 Writing a Book 
+27:56 New iOS 17 Frameworks
+29:00 Family of iOS Developers
+31:45 Outro 
+
+#iosdev #swift #appledeveloper&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:32:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1690057222497-a16b6b2dcc6ef.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[From Stock Trader to Software Developer with Taylor Covington #6 ]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Taylor Covington. We cover topics such as breaking into the tech industry, web development, iOS development, indie projects, and coding bootcamps. </p>
+<p>
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/iVRcHd5hLB4
+</p>
+<p>Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: http://eepurl.com/iu9nS2 
+
+Macroflex: https://twitter.com/macroflexio
+Taylor Covington&#39;s Twitter: https://twitter.com/buildwithtaylor
+Taylor Covington&#39;s Site: https://taylorjcovington.com/
+
+~~~ Follow Me On Social Media ~~~~
+Instagram: https://www.instagram.com/thedubon/
+Twitter: https://twitter.com/JasonDubonYT
+TikTok: https://www.tiktok.com/@thedubon
+Threads: https://www.threads.net/@thedubon</p>
+<p><br></p>
+<p>0:00 Intro
+1:15 Changing Careers: Stock Trader to Developer
+7:22 Deciding What Language To Learn?
+9:23 Advice For Attending Bootcamp
+11:25 Benefits of Soft Skills
+12:11 Getting First Job As A Dev
+13:21 Cultural Shift From Finance to Tech
+17:44 Advice For Your Younger Self
+19:20 Dealing with Imposter Syndrome
+23:00 ChatGPT - Developers Best Friend
+23:53 Story of MacroFlex
+27:21 Biggest Like &amp; Dislike of iOS Development
+30:03 Plans for MacroFlex
+32:30 Tech Marketing &amp; Business Side
+36:10 Advice for Web Developers learning iOS Development
+37:37 Where would you Travel ? 
+39:32 Outro #iosdev #swift #careerchange</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/From-Stock-Trader-to-Software-Developer-with-Taylor-Covington-6-e26qkqc</link>
+			<guid isPermaLink="false">b6a5b12d-b5a4-4a62-ad36-ebbd9692f14f</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Sun, 16 Jul 2023 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/73273612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-11%2F338861886-44100-2-e2381de82beea.mp3" length="39406026" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Taylor Covington. We cover topics such as breaking into the tech industry, web development, iOS development, indie projects, and coding bootcamps. &lt;/p&gt;
+&lt;p&gt;
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/iVRcHd5hLB4
+&lt;/p&gt;
+&lt;p&gt;Support the show on Patreon: https://www.patreon.com/JasonDubon
+Newsletter: http://eepurl.com/iu9nS2 
+
+Macroflex: https://twitter.com/macroflexio
+Taylor Covington&amp;#39;s Twitter: https://twitter.com/buildwithtaylor
+Taylor Covington&amp;#39;s Site: https://taylorjcovington.com/
+
+~~~ Follow Me On Social Media ~~~~
+Instagram: https://www.instagram.com/thedubon/
+Twitter: https://twitter.com/JasonDubonYT
+TikTok: https://www.tiktok.com/@thedubon
+Threads: https://www.threads.net/@thedubon&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;0:00 Intro
+1:15 Changing Careers: Stock Trader to Developer
+7:22 Deciding What Language To Learn?
+9:23 Advice For Attending Bootcamp
+11:25 Benefits of Soft Skills
+12:11 Getting First Job As A Dev
+13:21 Cultural Shift From Finance to Tech
+17:44 Advice For Your Younger Self
+19:20 Dealing with Imposter Syndrome
+23:00 ChatGPT - Developers Best Friend
+23:53 Story of MacroFlex
+27:21 Biggest Like &amp;amp; Dislike of iOS Development
+30:03 Plans for MacroFlex
+32:30 Tech Marketing &amp;amp; Business Side
+36:10 Advice for Web Developers learning iOS Development
+37:37 Where would you Travel ? 
+39:32 Outro #iosdev #swift #careerchange&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:41:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1689254941395-b3a7ca752e008.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[From Macintosh to iOS with Stewart Lynch #5]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, I had the pleasure of sitting down with Stewart Lynch. We covered topics such as the home computer renaissance of the 1970s, early forms of coding, indie development, and learning iOS development.
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/Bx3WGSCtznM</p>
+<p>Newsletter: http://eepurl.com/iu9nS2 
+
+Stewart Lynch&#39;s YouTube: https://www.youtube.com/@StewartLynch
+Stewart Lynch&#39;s Twitter: https://twitter.com/StewartLynch
+Stewart Lynch&#39;s Site: https://www.createchsol.com/
+
+Follow Jason On IG: https://www.instagram.com/thedubon/
+Follow Jason On Twitter: https://twitter.com/JasonDubonYT
+Follow Jason on TikTok: https://www.tiktok.com/@thedubon</p>
+<p><br></p>
+<p>0:00 Intro</p>
+<p>0:25 Early Fascination with Tech</p>
+<p>1:35 Early Forms of Coding
+3:30 Tech Renaissance in 70s and Early Career</p>
+<p>10:30 Diving into iOS Development</p>
+<p>12:30 Indie Apps</p>
+<p>17:00 YouTube &amp; Benefits of Teaching </p>
+<p>23:00 Current Projects</p>
+<p>25:50 Vision Pro</p>
+<p>28:58 Self-Taught vs Self-Directed </p>
+<p>31:26 The iOS Community</p>
+<p>33:55 Are We Moving to Mastodon?</p>
+<p>38:30 Favorite Wine &amp; Book</p>
+<p>41:40 Outro</p>
+<p><br></p>
+<p>#iosdev #swift #stewartlynch</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/From-Macintosh-to-iOS-with-Stewart-Lynch-5-e26klmj</link>
+			<guid isPermaLink="false">aee01de4-a31b-4213-89e9-435eedac261f</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Sun, 09 Jul 2023 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/73077907/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-6%2F338247265-44100-2-e6d49e9fcdd6b.mp3" length="41501674" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, I had the pleasure of sitting down with Stewart Lynch. We covered topics such as the home computer renaissance of the 1970s, early forms of coding, indie development, and learning iOS development.
+
+Audio Version: https://podcasters.spotify.com/pod/show/iosdevpodcast
+YouTube Video: https://youtu.be/Bx3WGSCtznM&lt;/p&gt;
+&lt;p&gt;Newsletter: http://eepurl.com/iu9nS2 
+
+Stewart Lynch&amp;#39;s YouTube: https://www.youtube.com/@StewartLynch
+Stewart Lynch&amp;#39;s Twitter: https://twitter.com/StewartLynch
+Stewart Lynch&amp;#39;s Site: https://www.createchsol.com/
+
+Follow Jason On IG: https://www.instagram.com/thedubon/
+Follow Jason On Twitter: https://twitter.com/JasonDubonYT
+Follow Jason on TikTok: https://www.tiktok.com/@thedubon&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;0:00 Intro&lt;/p&gt;
+&lt;p&gt;0:25 Early Fascination with Tech&lt;/p&gt;
+&lt;p&gt;1:35 Early Forms of Coding
+3:30 Tech Renaissance in 70s and Early Career&lt;/p&gt;
+&lt;p&gt;10:30 Diving into iOS Development&lt;/p&gt;
+&lt;p&gt;12:30 Indie Apps&lt;/p&gt;
+&lt;p&gt;17:00 YouTube &amp;amp; Benefits of Teaching &lt;/p&gt;
+&lt;p&gt;23:00 Current Projects&lt;/p&gt;
+&lt;p&gt;25:50 Vision Pro&lt;/p&gt;
+&lt;p&gt;28:58 Self-Taught vs Self-Directed &lt;/p&gt;
+&lt;p&gt;31:26 The iOS Community&lt;/p&gt;
+&lt;p&gt;33:55 Are We Moving to Mastodon?&lt;/p&gt;
+&lt;p&gt;38:30 Favorite Wine &amp;amp; Book&lt;/p&gt;
+&lt;p&gt;41:40 Outro&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;#iosdev #swift #stewartlynch&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:43:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1688658036988-3e486f2487cb6.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Stop using MVVM with AzamSharp #4]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, we spoke with Mohammad Azam, AzamSharp, about his iOS dev journey, SwiftData, MVVM in SwiftUI, and iOS bootcamps.
+
+Audio Version: https://podcasters.spotify.com/pod/show/jason-dubon
+YouTube Video: https://youtu.be/1qQO_6kRR0o
+
+AzamSharp&#39;s YouTube: https://www.youtube.com/channel/UCKvDySsrOVgUgRLhWHeyHJA
+AzamSharp&#39;s Twitter: https://twitter.com/azamsharp
+AzamSharp&#39;s Blog Post on SwiftUI Architecture: https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
+NYC try! Swift conference: https://www.tryswift.co/events/2023/nyc/
+
+Follow Jason On IG: https://www.instagram.com/thedubon/
+Follow Jason On Twitter: https://twitter.com/JasonDubonYT
+Follow Jason on TikTok: https://www.tiktok.com/@thedubon
+
+0:00 Intro
+0:30 SwiftData
+1:53 iOS dev journey
+7:05 The biggest mistake bootcamp students make
+9:12 Advice for studying new topic
+10:30 Udemy course approach
+14:27 Future of VisionPro &amp; iOS development
+18:40 Best cross dev platform 
+20:10 Indie dev: Native vs. Cross platform
+21:20 Stop using MVVM
+25:30 Architecture for CoreData apps
+28:00 Biggest takeaway from 3 years of SwiftUI
+31:45 Advice for aspiring iOS developers
+32:40 Bootcamp or no bootcamp
+35:04 ChatGPT &amp; AI
+38:20 Outro 
+
+#iosdev #udemyswift #azamsharp</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Stop-using-MVVM-with-AzamSharp-4-e264ljd</link>
+			<guid isPermaLink="false">999a4963-cc77-47d1-b993-304562da549c</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Sun, 25 Jun 2023 11:40:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/72553517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F336604152-44100-2-b9b87aa6f98c5.mp3" length="37602532" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, we spoke with Mohammad Azam, AzamSharp, about his iOS dev journey, SwiftData, MVVM in SwiftUI, and iOS bootcamps.
+
+Audio Version: https://podcasters.spotify.com/pod/show/jason-dubon
+YouTube Video: https://youtu.be/1qQO_6kRR0o
+
+AzamSharp&amp;#39;s YouTube: https://www.youtube.com/channel/UCKvDySsrOVgUgRLhWHeyHJA
+AzamSharp&amp;#39;s Twitter: https://twitter.com/azamsharp
+AzamSharp&amp;#39;s Blog Post on SwiftUI Architecture: https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
+NYC try! Swift conference: https://www.tryswift.co/events/2023/nyc/
+
+Follow Jason On IG: https://www.instagram.com/thedubon/
+Follow Jason On Twitter: https://twitter.com/JasonDubonYT
+Follow Jason on TikTok: https://www.tiktok.com/@thedubon
+
+0:00 Intro
+0:30 SwiftData
+1:53 iOS dev journey
+7:05 The biggest mistake bootcamp students make
+9:12 Advice for studying new topic
+10:30 Udemy course approach
+14:27 Future of VisionPro &amp;amp; iOS development
+18:40 Best cross dev platform 
+20:10 Indie dev: Native vs. Cross platform
+21:20 Stop using MVVM
+25:30 Architecture for CoreData apps
+28:00 Biggest takeaway from 3 years of SwiftUI
+31:45 Advice for aspiring iOS developers
+32:40 Bootcamp or no bootcamp
+35:04 ChatGPT &amp;amp; AI
+38:20 Outro 
+
+#iosdev #udemyswift #azamsharp&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1688468543054-b58156353ec2c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Being an iOS developer in Egypt, Vision Pro and WWDC with Amr Hossam #3]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, we spoke with Amr Hossam about being an iOS developer in Egypt, creating content as an iOS developer, and getting his course on freeCodeCamp. 
+
+Audio Version: https://podcasters.spotify.com/pod/show/jason-dubon</p>
+<p>YouTube Video: https://youtu.be/3k8egDpi7Ys</p>
+<p><br></p>
+<p>Amr&#39;s YouTube: https://www.youtube.com/@Amrhossam96/
+Amr&#39;s Twitter: https://twitter.com/Amourr96
+Amr&#39;s LinkedIn: https://www.linkedin.com/in/amrhossam96/</p>
+<p>Amr&#39;s Netflix Clone on freeCodeCamp: https://www.youtube.com/watch?v=KCgYDCKqato
+
+Follow Jason On IG: https://www.instagram.com/thedubon/
+Follow Jason On Twitter: https://twitter.com/JasonDubonYT
+Follow Jason on TikTok: https://www.tiktok.com/@thedubon</p>
+<p><br></p>
+<p>0:00 Intro
+0:50 Vision Pro &amp; WWDC 2023
+12:22 Getting Started Creating iOS Dev Content
+26:10 Being an iOS Developer in Egypt
+31:50 Advice for Aspiring Devs in Egypt
+37:10 How Amr got his first iOS Dev Job
+41:35 Mechanical Engineering Backstory
+43:45 Typical Work Day of an iOS Dev in Egypt
+46:20 Freelancing on Upwork
+52:18 Current Egyptians Thoughts On Ancient Egypt? 
+55:15 Best Places to Go In Egypt
+56:40 Outro 
+
+Outro Song: https://soundcloud.com/flvmoveli/imagination?si=c16fa3ede3644a8399f2a3760960bd67&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing</p>
+<p>#iosdev #swift #egypt</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Being-an-iOS-developer-in-Egypt--Vision-Pro-and-WWDC-with-Amr-Hossam-3-e25htr8</link>
+			<guid isPermaLink="false">72770eb0-f32f-4d2e-a6b4-372541fcb58e</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Mon, 12 Jun 2023 10:15:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/71939368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-10%2F334442114-44100-2-c624eb7061162.mp3" length="55969331" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, we spoke with Amr Hossam about being an iOS developer in Egypt, creating content as an iOS developer, and getting his course on freeCodeCamp. 
+
+Audio Version: https://podcasters.spotify.com/pod/show/jason-dubon&lt;/p&gt;
+&lt;p&gt;YouTube Video: https://youtu.be/3k8egDpi7Ys&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Amr&amp;#39;s YouTube: https://www.youtube.com/@Amrhossam96/
+Amr&amp;#39;s Twitter: https://twitter.com/Amourr96
+Amr&amp;#39;s LinkedIn: https://www.linkedin.com/in/amrhossam96/&lt;/p&gt;
+&lt;p&gt;Amr&amp;#39;s Netflix Clone on freeCodeCamp: https://www.youtube.com/watch?v=KCgYDCKqato
+
+Follow Jason On IG: https://www.instagram.com/thedubon/
+Follow Jason On Twitter: https://twitter.com/JasonDubonYT
+Follow Jason on TikTok: https://www.tiktok.com/@thedubon&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;0:00 Intro
+0:50 Vision Pro &amp;amp; WWDC 2023
+12:22 Getting Started Creating iOS Dev Content
+26:10 Being an iOS Developer in Egypt
+31:50 Advice for Aspiring Devs in Egypt
+37:10 How Amr got his first iOS Dev Job
+41:35 Mechanical Engineering Backstory
+43:45 Typical Work Day of an iOS Dev in Egypt
+46:20 Freelancing on Upwork
+52:18 Current Egyptians Thoughts On Ancient Egypt? 
+55:15 Best Places to Go In Egypt
+56:40 Outro 
+
+Outro Song: https://soundcloud.com/flvmoveli/imagination?si=c16fa3ede3644a8399f2a3760960bd67&amp;amp;utm_source=clipboard&amp;amp;utm_medium=text&amp;amp;utm_campaign=social_sharing&lt;/p&gt;
+&lt;p&gt;#iosdev #swift #egypt&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:58:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1688468649702-3640a9980d93d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Becoming an iOS developer and Ultra Running with Bryce Ellie #2]]></title>
+			<description><![CDATA[<p>In this episode of the iOS dev podcast, we spoke with Bryce Ellis on the journey to becoming an iOS developer, watchOS development, Augmented Reality, and Ultramarathons.
+
+Audio Version: https://podcasters.spotify.com/pod/show/jason-dubon
+
+Bryce&#39;s Twitter: https://twitter.com/bryce_ellis99
+Bryce&#39;s LinkedIn: https://LinkedIn.com/in/zbe
+Stamina bar: http://staminabar.app 
+
+Follow Jason On IG: https://www.instagram.com/thedubon/
+Follow Jason On Twitter: https://twitter.com/JasonDubonYT
+Follow Jason on TikTok: https://www.tiktok.com/@thedubon</p>
+<p><br></p>
+<p>0:00 Started with iOS Development
+3:15 Augmented Reality
+11:54 Shifting into iOS development
+19:20 iOS dev struggles
+24:35 Advice for aspiring iOS devs
+27:25 Future plans for Stamina Bar
+30:15 Journey to Marathon Running
+39:10 The 50 Miler 
+52:20 Next Race? 
+59:00 Outro 
+
+
+Outro Song: https://soundcloud.com/flvmoveli/imagination?si=c16fa3ede3644a8399f2a3760960bd67&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing#iosdev #swift #ultrarunning</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Becoming-an-iOS-developer-and-Ultra-Running-with-Bryce-Ellie-2-e254evi</link>
+			<guid isPermaLink="false">6161680c-63cc-4f3a-b295-03731c9d4ca3</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Sun, 04 Jun 2023 10:00:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/71498162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F333086064-44100-2-23a73f64a83e3.mp3" length="58118477" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the iOS dev podcast, we spoke with Bryce Ellis on the journey to becoming an iOS developer, watchOS development, Augmented Reality, and Ultramarathons.
+
+Audio Version: https://podcasters.spotify.com/pod/show/jason-dubon
+
+Bryce&amp;#39;s Twitter: https://twitter.com/bryce_ellis99
+Bryce&amp;#39;s LinkedIn: https://LinkedIn.com/in/zbe
+Stamina bar: http://staminabar.app 
+
+Follow Jason On IG: https://www.instagram.com/thedubon/
+Follow Jason On Twitter: https://twitter.com/JasonDubonYT
+Follow Jason on TikTok: https://www.tiktok.com/@thedubon&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;0:00 Started with iOS Development
+3:15 Augmented Reality
+11:54 Shifting into iOS development
+19:20 iOS dev struggles
+24:35 Advice for aspiring iOS devs
+27:25 Future plans for Stamina Bar
+30:15 Journey to Marathon Running
+39:10 The 50 Miler 
+52:20 Next Race? 
+59:00 Outro 
+
+
+Outro Song: https://soundcloud.com/flvmoveli/imagination?si=c16fa3ede3644a8399f2a3760960bd67&amp;amp;utm_source=clipboard&amp;amp;utm_medium=text&amp;amp;utm_campaign=social_sharing#iosdev #swift #ultrarunning&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:00:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1688468729192-990106dc78f7e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Journey to iOS Development, Getting into Crypto and More with JimBeanLit ]]></title>
+			<description><![CDATA[<p>In this episode, we discuss the journey to becoming an iOS developer, how devs can get into crypto, and more with JimBeanLit.
+</p>
+<p>Follow JimBean On Twitter: https://twitter.com/jimbeanLit</p>
+<p>
+YT Video: https://youtube.com/live/S2sNaOPe5SE
+
+Follow Me On IG: https://www.instagram.com/thedubon/</p>
+<p>
+Follow Me On Twitter: https://twitter.com/JasonDubonYT</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Journey-to-iOS-Development--Getting-into-Crypto-and-More-with-JimBeanLit-e242ak7</link>
+			<guid isPermaLink="false">7600a706-8176-4ba8-81f2-ea28a8a3d700</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Mon, 15 May 2023 10:00:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/70379591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-14%2F329517034-44100-2-d66ede8c59f36.mp3" length="28320913" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, we discuss the journey to becoming an iOS developer, how devs can get into crypto, and more with JimBeanLit.
+&lt;/p&gt;
+&lt;p&gt;Follow JimBean On Twitter: https://twitter.com/jimbeanLit&lt;/p&gt;
+&lt;p&gt;
+YT Video: https://youtube.com/live/S2sNaOPe5SE
+
+Follow Me On IG: https://www.instagram.com/thedubon/&lt;/p&gt;
+&lt;p&gt;
+Follow Me On Twitter: https://twitter.com/JasonDubonYT&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:29:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1688468769380-df0facd47fd37.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Third Time is the Charm | Journey to Becoming iOS Developer]]></title>
+			<description><![CDATA[<p>In this video, I go over my trials and tribulation to become a iOS Developer and hope to show that you can do it as well. It'll just require a good mindset and commitment to daily practice. &nbsp;</p>
+<p>Let me know in the comment section what videos you would like to see in the future. &nbsp;Feel free to reach out to me if you need any help or advice. Happy Coding :) &nbsp;&nbsp;</p>
+<p>Connect with me on LinkedIn: https://www.linkedin.com/in/jasondubon/&nbsp;</p>
+<p>Udemy iOS Bootcamp by Angela Yu: https://www.udemy.com/course/ios-13-app-development-bootcamp/&nbsp;</p>
+<p>Free Code Camp: https://www.youtube.com/c/Freecodecamp&nbsp;</p>
+<p>Deep Thoughts Podcast: https://open.spotify.com/show/154ptkEQ3PyS5t8v2mu1hP?si=4fde28ce9d674562&nbsp;</p>
+<p>Shoutout to NonStop: https://www.youtube.com/channel/UCuEcSIgaoxm6R5O_k8FMu5g&nbsp;</p>
+<p>(0:00) Intro</p>
+<p>(0:31) Previous Attempts to Become Software Engineer&nbsp;</p>
+<p>(3:49) Challenges of 2021&nbsp;</p>
+<p>(5:54) Learning Journey&nbsp;</p>
+<p>(11:19) Move to ATL&nbsp;</p>
+<p>(13:51) Job Search&nbsp;</p>
+<p>(15:31) Audible Interviews&nbsp;</p>
+<p>(21:21) Search Continues&nbsp;</p>
+<p>(24:00) Conclusion &nbsp;</p>
+<p>#swift #ios #iosdeveloper &nbsp;#xcode #iosdev #swiftdeveloper #swiftui</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/iosdevpodcast/episodes/Third-Time-is-the-Charm--Journey-to-Becoming-iOS-Developer-e1n8gt2</link>
+			<guid isPermaLink="false">fa52756e-4308-4f1e-ac54-8f1deb00d47d</guid>
+			<dc:creator><![CDATA[Jason Dubon]]></dc:creator>
+			<pubDate>Thu, 01 Sep 2022 18:47:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b4381454/podcast/play/56951138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-1%2F283582993-44100-2-b702b0434aa88.mp3" length="24674219" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this video, I go over my trials and tribulation to become a iOS Developer and hope to show that you can do it as well. It&apos;ll just require a good mindset and commitment to daily practice. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Let me know in the comment section what videos you would like to see in the future. &amp;nbsp;Feel free to reach out to me if you need any help or advice. Happy Coding :) &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Connect with me on LinkedIn: https://www.linkedin.com/in/jasondubon/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Udemy iOS Bootcamp by Angela Yu: https://www.udemy.com/course/ios-13-app-development-bootcamp/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Free Code Camp: https://www.youtube.com/c/Freecodecamp&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Deep Thoughts Podcast: https://open.spotify.com/show/154ptkEQ3PyS5t8v2mu1hP?si=4fde28ce9d674562&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Shoutout to NonStop: https://www.youtube.com/channel/UCuEcSIgaoxm6R5O_k8FMu5g&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(0:00) Intro&lt;/p&gt;
+&lt;p&gt;(0:31) Previous Attempts to Become Software Engineer&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(3:49) Challenges of 2021&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(5:54) Learning Journey&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(11:19) Move to ATL&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(13:51) Job Search&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(15:31) Audible Interviews&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(21:21) Search Continues&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(24:00) Conclusion &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;#swift #ios #iosdeveloper &amp;nbsp;#xcode #iosdev #swiftdeveloper #swiftui&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:25:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/30135741/30135741-1688468887846-96f4060bd85b2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

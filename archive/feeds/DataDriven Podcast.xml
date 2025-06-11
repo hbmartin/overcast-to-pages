@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1928904.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Data-Driven Podcast</title>
+
+  <lastBuildDate>Fri, 08 Nov 2024 09:05:08 -0500</lastBuildDate>
+  <link>https://www.buzzsprout.com/1928904</link>
+  <language>en-us</language>
+  <copyright>© 2024 Data-Driven Podcast</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>2732140c-8a2a-57a2-be75-d42de3b8c58d</podcast:guid>
+  <itunes:author>AtScale</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[The Data-Driven AtScale Podcast is designed to explore the impact of making smarter data-driven decisions at scale with foremost Data / AI / BI thought leaders and top technologists.Here you will find a collection of practical advice and candid conversations with industry innovators, covering technology trends, lessons learned, organizational transformation experiences, best use cases, career advice, and much more. You can find and watch all of our episodes from this page. Be sure to subscribe.]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:owner>
+    <itunes:name>AtScale</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/6simweegur2bu4y4u9e2a2n8v6ca?.jpg</url>
+     <title>Data-Driven Podcast</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/6simweegur2bu4y4u9e2a2n8v6ca?.jpg" />
+  <itunes:category text="Technology" />
+  <item>
+    <itunes:title> Open Source Semantics: Setting the Standard for Interoperability with Databricks and AtScale</itunes:title>
+    <title> Open Source Semantics: Setting the Standard for Interoperability with Databricks and AtScale</title>
+    <itunes:summary><![CDATA[In this episode of the Data Driven Podcast, Dave Mariani, CTO and Co-Founder of AtScale, sits down with Dale Williamson, EMEA CTO at Databricks, to explore the transformative role of open source standards and semantic layers in modern analytics. They discuss the importance of interoperability in data infrastructure, the impact of generative AI on democratizing analytics, and how the right semantic layer can bridge complex data to natural language for everyone. Together, AtScale and Databricks...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode of the Data Driven Podcast, Dave Mariani, CTO and Co-Founder of AtScale, sits down with Dale Williamson, EMEA CTO at Databricks, to explore the transformative role of open source standards and <a href='https://www.atscale.com/glossary/semantic-layer/'>semantic layers</a> in modern analytics. They discuss the importance of interoperability in data infrastructure, the impact of generative AI on democratizing analytics, and how the right semantic layer can bridge complex data to <a href='https://www.atscale.com/resource/natural-language-prompting-with-semantic-layer-genai/'>natural language</a> for everyone. Together, <a href='https://www.atscale.com/integrations/atscale-and-databricks/'>AtScale and Databricks</a> envision a future where data insights are accessible to all, empowering organizations to build with flexibility, trust, and freedom from vendor lock-in.</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode of the Data Driven Podcast, Dave Mariani, CTO and Co-Founder of AtScale, sits down with Dale Williamson, EMEA CTO at Databricks, to explore the transformative role of open source standards and <a href='https://www.atscale.com/glossary/semantic-layer/'>semantic layers</a> in modern analytics. They discuss the importance of interoperability in data infrastructure, the impact of generative AI on democratizing analytics, and how the right semantic layer can bridge complex data to <a href='https://www.atscale.com/resource/natural-language-prompting-with-semantic-layer-genai/'>natural language</a> for everyone. Together, <a href='https://www.atscale.com/integrations/atscale-and-databricks/'>AtScale and Databricks</a> envision a future where data insights are accessible to all, empowering organizations to build with flexibility, trust, and freedom from vendor lock-in.</p><p><br/></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/16065741-open-source-semantics-setting-the-standard-for-interoperability-with-databricks-and-atscale.mp3" length="22416384" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16065741</guid>
+    <pubDate>Fri, 08 Nov 2024 09:00:00 -0500</pubDate>
+    <itunes:duration>1866</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>34</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Introducing SML: The Open Standard for Seamless Semantic Layer Integration</itunes:title>
+    <title>Introducing SML: The Open Standard for Seamless Semantic Layer Integration</title>
+    <itunes:summary><![CDATA[In this episode, AtScale’s CTO and Co-founder, Dave Mariani and VP of Engineering John Langton, discuss the exciting open-source release of the Semantic Modeling Language (SML) and its transformative potential for the data analytics industry. They dive into how SML establishes the first open standard for the semantic layer, enabling businesses to seamlessly define, share, and scale their data models across platforms like Power BI, Tableau, and Looker. John also explores the broader industry i...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, AtScale’s CTO and Co-founder, Dave Mariani and VP of Engineering John Langton, discuss the exciting open-source release of the <a href='https://github.com/semanticdatalayer/SML'>Semantic Modeling Language</a> (SML) and its transformative potential for the data analytics industry. They dive into how SML establishes the first open standard for the semantic layer, enabling businesses to seamlessly define, share, and scale their data models across platforms like Power BI, Tableau, and Looker. John also explores the broader industry impact, highlighting how SML will foster cross-platform collaboration, enhance AI capabilities, and drive innovation by creating a unified data language that empowers businesses to unlock the full potential of their data.</p><p>For additional details on SML, check out this <a href='https://www.atscale.com/blog/introduction-to-sml-a-standard-semantic-modeling-language/'>blog post</a>.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, AtScale’s CTO and Co-founder, Dave Mariani and VP of Engineering John Langton, discuss the exciting open-source release of the <a href='https://github.com/semanticdatalayer/SML'>Semantic Modeling Language</a> (SML) and its transformative potential for the data analytics industry. They dive into how SML establishes the first open standard for the semantic layer, enabling businesses to seamlessly define, share, and scale their data models across platforms like Power BI, Tableau, and Looker. John also explores the broader industry impact, highlighting how SML will foster cross-platform collaboration, enhance AI capabilities, and drive innovation by creating a unified data language that empowers businesses to unlock the full potential of their data.</p><p>For additional details on SML, check out this <a href='https://www.atscale.com/blog/introduction-to-sml-a-standard-semantic-modeling-language/'>blog post</a>.</p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/16032693-introducing-sml-the-open-standard-for-seamless-semantic-layer-integration.mp3" length="13221348" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16032693</guid>
+    <pubDate>Fri, 01 Nov 2024 13:00:00 -0400</pubDate>
+    <itunes:duration>1100</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>33</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Revolutionizing Data: New Research on Natural Language Prompting with AtScale’s Semantic Layer and Generative AI</itunes:title>
+    <title>Revolutionizing Data: New Research on Natural Language Prompting with AtScale’s Semantic Layer and Generative AI</title>
+    <itunes:summary><![CDATA[Welcome to the latest episode of the Data-Driven Podcast! Host Dave Mariani is joined by Jeff Curran, Lead Data Scientist at AtScale, for a deep dive into the transformative power of Generative AI in business intelligence. Jeff shares his pioneering research, demonstrating how AtScale’s semantic layer bridges the gap between natural language queries and accurate business insights. Explore the challenges and solutions in integrating AI with BI tools and learn how this innovation can make data-...]]></itunes:summary>
+    <description><![CDATA[<p>Welcome to the latest episode of the Data-Driven Podcast! Host Dave Mariani is joined by Jeff Curran, Lead Data Scientist at AtScale, for a deep dive into the transformative power of Generative AI in business intelligence. Jeff shares his pioneering research, demonstrating how AtScale’s semantic layer bridges the gap between natural language queries and accurate business insights.</p><p>Explore the challenges and solutions in integrating AI with BI tools and learn how this innovation can make data-driven decision-making more efficient and precise. Don’t miss this opportunity to stay ahead in the evolving landscape of AI and business intelligence.</p><p>For more information, <a href='https://www.atscale.com/resource/natural-language-prompting-with-semantic-layer-genai/'>download the white paper now!</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Welcome to the latest episode of the Data-Driven Podcast! Host Dave Mariani is joined by Jeff Curran, Lead Data Scientist at AtScale, for a deep dive into the transformative power of Generative AI in business intelligence. Jeff shares his pioneering research, demonstrating how AtScale’s semantic layer bridges the gap between natural language queries and accurate business insights.</p><p>Explore the challenges and solutions in integrating AI with BI tools and learn how this innovation can make data-driven decision-making more efficient and precise. Don’t miss this opportunity to stay ahead in the evolving landscape of AI and business intelligence.</p><p>For more information, <a href='https://www.atscale.com/resource/natural-language-prompting-with-semantic-layer-genai/'>download the white paper now!</a></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/16032664-revolutionizing-data-new-research-on-natural-language-prompting-with-atscale-s-semantic-layer-and-generative-ai.mp3" length="21002988" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16032664</guid>
+    <pubDate>Fri, 01 Nov 2024 13:00:00 -0400</pubDate>
+    <itunes:duration>1749</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>32</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Power BI Evolution: An MVP’s Unfiltered Journey</itunes:title>
+    <title>The Power BI Evolution: An MVP’s Unfiltered Journey</title>
+    <itunes:summary><![CDATA[In this episode, AtScale CTO and co-founder Dave Mariani chats with Greg Deckler, Vice President at a global IT services firm and a seven-time Microsoft MVP. They discuss Microsoft’s strategy with Power BI and its integration with Microsoft Fabric, with Deckler critiquing the rushed release and its early limitations. Both express skepticism about business users adopting more complex tools, citing ongoing challenges like measuring totals. They also discuss the impact of generative AI on busine...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, <a href='https://www.atscale.com/'>AtScale</a> CTO and co-founder Dave Mariani chats with Greg Deckler, Vice President at a global IT services firm and a seven-time Microsoft MVP. They discuss Microsoft’s strategy with Power BI and its integration with Microsoft Fabric, with Deckler critiquing the rushed release and its early limitations. Both express skepticism about business users adopting more complex tools, citing ongoing challenges like measuring totals.</p><p>They also discuss the impact of generative AI on <a href='https://www.atscale.com/glossary/business-intelligence/'>business intelligence</a> tools like Power BI, urging caution about data security and governance. They also highlight the underutilization of natural language queries in Power BI despite frequent demos. Deckler speculates the future of Power BI’s support for various data platforms and Microsoft’s strategy to integrate these with Fabric.</p><p>To learn more, read Deckler’s 3 part blog series, “<a href='https://www.atscale.com/blog/is-fabric-and-direct-lake-a-game-changer-for-microsoft/'>Is Fabric and Direct Lake a Game Changer For Microsoft?</a>”</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, <a href='https://www.atscale.com/'>AtScale</a> CTO and co-founder Dave Mariani chats with Greg Deckler, Vice President at a global IT services firm and a seven-time Microsoft MVP. They discuss Microsoft’s strategy with Power BI and its integration with Microsoft Fabric, with Deckler critiquing the rushed release and its early limitations. Both express skepticism about business users adopting more complex tools, citing ongoing challenges like measuring totals.</p><p>They also discuss the impact of generative AI on <a href='https://www.atscale.com/glossary/business-intelligence/'>business intelligence</a> tools like Power BI, urging caution about data security and governance. They also highlight the underutilization of natural language queries in Power BI despite frequent demos. Deckler speculates the future of Power BI’s support for various data platforms and Microsoft’s strategy to integrate these with Fabric.</p><p>To learn more, read Deckler’s 3 part blog series, “<a href='https://www.atscale.com/blog/is-fabric-and-direct-lake-a-game-changer-for-microsoft/'>Is Fabric and Direct Lake a Game Changer For Microsoft?</a>”</p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/16032637-the-power-bi-evolution-an-mvp-s-unfiltered-journey.mp3" length="21950484" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16032637</guid>
+    <pubDate>Fri, 01 Nov 2024 13:00:00 -0400</pubDate>
+    <itunes:duration>1828</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>31</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Navigating the Intersection of Semantics, AI, and Enterprise Innovation with Juan Sequeda</itunes:title>
+    <title>Navigating the Intersection of Semantics, AI, and Enterprise Innovation with Juan Sequeda</title>
+    <itunes:summary><![CDATA[Dave Mariani interviews Juan Sequeda, the Principal Scientist at data.world. They discuss Juan’s Benchmark report on Knowledge Graphics and semantics. The conversation also covers generative AI and its role in the future of enterprise innovation. ]]></itunes:summary>
+    <description><![CDATA[<p>Dave Mariani interviews Juan Sequeda, the Principal Scientist at data.world. They discuss Juan’s <a href='https://arxiv.org/abs/2311.07509'>Benchmark report on Knowledge Graphics and semantics</a>. The conversation also covers generative AI and its role in the future of enterprise innovation.</p>]]></description>
+    <content:encoded><![CDATA[<p>Dave Mariani interviews Juan Sequeda, the Principal Scientist at data.world. They discuss Juan’s <a href='https://arxiv.org/abs/2311.07509'>Benchmark report on Knowledge Graphics and semantics</a>. The conversation also covers generative AI and its role in the future of enterprise innovation.</p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/16032564-navigating-the-intersection-of-semantics-ai-and-enterprise-innovation-with-juan-sequeda.mp3" length="23230456" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-16032564</guid>
+    <pubDate>Fri, 01 Nov 2024 13:00:00 -0400</pubDate>
+    <itunes:duration>1934</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Observability, Founders Journey and GenAI with Kunal Agarwal, CEO, Unravel Data</itunes:title>
+    <title>Data Observability, Founders Journey and GenAI with Kunal Agarwal, CEO, Unravel Data</title>
+    <itunes:summary><![CDATA[David Mariani interviews Kunal Agarwal, CEO of Unravel Data, delving into his entrepreneurial journey and the innovative world of data observability. Kunal recounts the compelling origin story of Unravel Data, revealing how the company's vision adapted over time. He shares the challenges faced and key learnings, offering priceless advice to future entrepreneurs. The conversation then shifts to the essence of data observability, its distinction from traditional monitoring, and the unique value...]]></itunes:summary>
+    <description><![CDATA[<p><b>David Mariani interviews Kunal Agarwal, CEO of Unravel Data, delving into his entrepreneurial journey and the innovative world of data observability. Kunal recounts the compelling origin story of Unravel Data, revealing how the company&apos;s vision adapted over time. He shares the challenges faced and key learnings, offering priceless advice to future entrepreneurs. The conversation then shifts to the essence of data observability, its distinction from traditional monitoring, and the unique value Unravel Data offers to its customers, illustrated through a notable success story. Kunal concludes by expressing his excitement for future trends, particularly the integration of Generative AI, providing a glimpse into the evolving landscape of data technology.</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>David Mariani interviews Kunal Agarwal, CEO of Unravel Data, delving into his entrepreneurial journey and the innovative world of data observability. Kunal recounts the compelling origin story of Unravel Data, revealing how the company&apos;s vision adapted over time. He shares the challenges faced and key learnings, offering priceless advice to future entrepreneurs. The conversation then shifts to the essence of data observability, its distinction from traditional monitoring, and the unique value Unravel Data offers to its customers, illustrated through a notable success story. Kunal concludes by expressing his excitement for future trends, particularly the integration of Generative AI, providing a glimpse into the evolving landscape of data technology.</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/14404981-data-observability-founders-journey-and-genai-with-kunal-agarwal-ceo-unravel-data.mp3" length="20446459" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14404981</guid>
+    <pubDate>Tue, 30 Jan 2024 08:00:00 -0500</pubDate>
+    <itunes:duration>1702</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Contracts with Andrew Jones, Principal Engineer, GoCardless</itunes:title>
+    <title>Data Contracts with Andrew Jones, Principal Engineer, GoCardless</title>
+    <itunes:summary><![CDATA[David Mariani interviews Andrew Jones, Principal Engineer, GoCardless and a thought leader in data and analytics. Andrew outlines the concept of 'data contracts' and their relevance for leaders in the field. He then provides practical advice for fostering a data-driven culture within organizations, highlighting successful strategies and common pitfalls. The discussion also touches on the use of data products as competitive tools and the importance of data quality. Concluding with a look at th...]]></itunes:summary>
+    <description><![CDATA[<p><b>David Mariani interviews Andrew Jones, Principal Engineer, GoCardless and a thought leader in data and analytics. Andrew outlines the concept of &apos;data contracts&apos; and their relevance for leaders in the field. He then provides practical advice for fostering a data-driven culture within organizations, highlighting successful strategies and common pitfalls. The discussion also touches on the use of data products as competitive tools and the importance of data quality. Concluding with a look at the future, Andrew shares his perspective on the impact of AI and machine learning tools like ChatGPT and his book. This podcast offers essential insights for anyone looking to excel in the rapidly evolving world of data and analytics.</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>David Mariani interviews Andrew Jones, Principal Engineer, GoCardless and a thought leader in data and analytics. Andrew outlines the concept of &apos;data contracts&apos; and their relevance for leaders in the field. He then provides practical advice for fostering a data-driven culture within organizations, highlighting successful strategies and common pitfalls. The discussion also touches on the use of data products as competitive tools and the importance of data quality. Concluding with a look at the future, Andrew shares his perspective on the impact of AI and machine learning tools like ChatGPT and his book. This podcast offers essential insights for anyone looking to excel in the rapidly evolving world of data and analytics.</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/14392647-data-contracts-with-andrew-jones-principal-engineer-gocardless.mp3" length="22939128" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14392647</guid>
+    <pubDate>Sun, 28 Jan 2024 14:00:00 -0500</pubDate>
+    <itunes:duration>1910</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Navigating Data Literacy: Insights from Jordan Morrow</itunes:title>
+    <title>Navigating Data Literacy: Insights from Jordan Morrow</title>
+    <itunes:summary><![CDATA[David Mariani sits with Jordan Morrow, a renowned expert in Data Literacy. They discuss effective strategies for embedding data literacy in organizations, emphasizing its significance beyond a buzzword. Jordan shares insights on fostering a data-driven culture, including key dos and don'ts. The conversation highlights the impact of data literacy through real-world success stories and explores the role of tools, processes, and cultural shifts in enhancing industry-wide data literacy. They also...]]></itunes:summary>
+    <description><![CDATA[<p><b>David Mariani sits with Jordan Morrow, a renowned expert in Data Literacy. They discuss effective strategies for embedding data literacy in organizations, emphasizing its significance beyond a buzzword. Jordan shares insights on fostering a data-driven culture, including key dos and don&apos;ts. The conversation highlights the impact of data literacy through real-world success stories and explores the role of tools, processes, and cultural shifts in enhancing industry-wide data literacy. They also delve into the challenges and successes of data leaders in creating engaging, data-informed environments, balancing self-service with data integrity.</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>David Mariani sits with Jordan Morrow, a renowned expert in Data Literacy. They discuss effective strategies for embedding data literacy in organizations, emphasizing its significance beyond a buzzword. Jordan shares insights on fostering a data-driven culture, including key dos and don&apos;ts. The conversation highlights the impact of data literacy through real-world success stories and explores the role of tools, processes, and cultural shifts in enhancing industry-wide data literacy. They also delve into the challenges and successes of data leaders in creating engaging, data-informed environments, balancing self-service with data integrity.</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/14317905-navigating-data-literacy-insights-from-jordan-morrow.mp3" length="27369368" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14317905</guid>
+    <pubDate>Tue, 16 Jan 2024 05:00:00 -0500</pubDate>
+    <itunes:duration>2279</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Leveraging Data as a Product: Strategies for Growth with Liat Ben-Zur</itunes:title>
+    <title>Leveraging Data as a Product: Strategies for Growth with Liat Ben-Zur</title>
+    <itunes:summary><![CDATA[Elif Tutuk interviews Liat Ben-Zur, a tech executive, on applying product-led growth (PLG) principles to data management. They discuss understanding customer needs, defining value propositions, and PLG techniques like freemium models. The conversation also covers key metrics and feedback methods for data product success, offering valuable insights for those aiming to leverage data for organizational growth. ]]></itunes:summary>
+    <description><![CDATA[<p><b>Elif Tutuk interviews Liat Ben-Zur, a tech executive, on applying product-led growth (PLG) principles to data management. They discuss understanding customer needs, defining value propositions, and PLG techniques like freemium models. The conversation also covers key metrics and feedback methods for data product success, offering valuable insights for those aiming to leverage data for organizational growth.</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>Elif Tutuk interviews Liat Ben-Zur, a tech executive, on applying product-led growth (PLG) principles to data management. They discuss understanding customer needs, defining value propositions, and PLG techniques like freemium models. The conversation also covers key metrics and feedback methods for data product success, offering valuable insights for those aiming to leverage data for organizational growth.</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/14098673-leveraging-data-as-a-product-strategies-for-growth-with-liat-ben-zur.mp3" length="25245645" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14098673</guid>
+    <pubDate>Wed, 06 Dec 2023 06:00:00 -0500</pubDate>
+    <itunes:duration>2102</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data and Analytics FinOps</itunes:title>
+    <title>Data and Analytics FinOps</title>
+    <itunes:summary><![CDATA[Join host Elif Tutuk in a captivating conversation with Mark Stange-Tregear as they uncover the power of Financial Operations (FinOps) in the realm of data analytics. The episode starts with a primer on FinOps, explaining its significance in today's data-driven landscape. Diving into Data and Analytics FinOps, they explore how it streamlines operations and optimizes costs, providing practical insights for all. Cross-functional collaboration is key. Elif and Mark discuss aligning finance, IT, ...]]></itunes:summary>
+    <description><![CDATA[<p>Join host Elif Tutuk in a captivating conversation with Mark Stange-Tregear as they uncover the power of Financial Operations (FinOps) in the realm of data analytics. The episode starts with a primer on FinOps, explaining its significance in today&apos;s data-driven landscape.</p><p>Diving into Data and Analytics FinOps, they explore how it streamlines operations and optimizes costs, providing practical insights for all.</p><p>Cross-functional collaboration is key. Elif and Mark discuss aligning finance, IT, and data teams for maximum value.</p><p>They examine cutting-edge tools and technologies, including AtScale Metrics dashboard, which offers invaluable insights into analytics query consumption and semantic model usage on cloud data warehouses.</p><p>Cost allocation and chargebacks are demystified, ensuring equitable distribution of analytics expenses.</p><p>The episode concludes with a glimpse into the future, discussing emerging FinOps trends that will shape the data analytics landscape.</p><p>Whether you&apos;re a data enthusiast or FinOps practitioner, this episode promises invaluable insights into mastering Data Analytics FinOps. </p>]]></description>
+    <content:encoded><![CDATA[<p>Join host Elif Tutuk in a captivating conversation with Mark Stange-Tregear as they uncover the power of Financial Operations (FinOps) in the realm of data analytics. The episode starts with a primer on FinOps, explaining its significance in today&apos;s data-driven landscape.</p><p>Diving into Data and Analytics FinOps, they explore how it streamlines operations and optimizes costs, providing practical insights for all.</p><p>Cross-functional collaboration is key. Elif and Mark discuss aligning finance, IT, and data teams for maximum value.</p><p>They examine cutting-edge tools and technologies, including AtScale Metrics dashboard, which offers invaluable insights into analytics query consumption and semantic model usage on cloud data warehouses.</p><p>Cost allocation and chargebacks are demystified, ensuring equitable distribution of analytics expenses.</p><p>The episode concludes with a glimpse into the future, discussing emerging FinOps trends that will shape the data analytics landscape.</p><p>Whether you&apos;re a data enthusiast or FinOps practitioner, this episode promises invaluable insights into mastering Data Analytics FinOps. </p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/13842560-data-and-analytics-finops.mp3" length="34909192" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13842560</guid>
+    <pubDate>Wed, 25 Oct 2023 07:00:00 -0400</pubDate>
+    <itunes:duration>2908</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Leveraging Data Analytics and AI for Business Success with Richard Langlois, President at IT Architecture and Strategy</itunes:title>
+    <title>Leveraging Data Analytics and AI for Business Success with Richard Langlois, President at IT Architecture and Strategy</title>
+    <itunes:summary><![CDATA[In this interview Dave Mariani welcomes Richard Langlois, President at IT Architecture and Strategy. Richard discusses his history, being an early adopter of AtScale, and how he achieved significant performance improvements. He delves into the importance of a strong data foundation, including ontology, governance, MDM, and a flexible data analytics platform. Richard emphasizes the need for a well-planned roadmap aligned with business benefits and highlights the potential of AI and innovation ...]]></itunes:summary>
+    <description><![CDATA[<p>In this interview Dave Mariani welcomes Richard Langlois, President at IT Architecture and Strategy. Richard discusses his history, being an early adopter of AtScale, and how he achieved significant performance improvements. He delves into the importance of a strong data foundation, including ontology, governance, MDM, and a flexible data analytics platform. Richard emphasizes the need for a well-planned roadmap aligned with business benefits and highlights the potential of AI and innovation in the future of data and analytics.</p><p><a href='https://www.atscale.com/podcasts/'><br/></a><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>In this interview Dave Mariani welcomes Richard Langlois, President at IT Architecture and Strategy. Richard discusses his history, being an early adopter of AtScale, and how he achieved significant performance improvements. He delves into the importance of a strong data foundation, including ontology, governance, MDM, and a flexible data analytics platform. Richard emphasizes the need for a well-planned roadmap aligned with business benefits and highlights the potential of AI and innovation in the future of data and analytics.</p><p><a href='https://www.atscale.com/podcasts/'><br/></a><br/></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/13748531-leveraging-data-analytics-and-ai-for-business-success-with-richard-langlois-president-at-it-architecture-and-strategy.mp3" length="24941365" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13748531</guid>
+    <pubDate>Tue, 10 Oct 2023 01:00:00 -0400</pubDate>
+    <itunes:duration>2077</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Overcoming Challenges as a Woman in Tech and Data Analytics</itunes:title>
+    <title>Overcoming Challenges as a Woman in Tech and Data Analytics</title>
+    <itunes:summary><![CDATA[In this episode Jess Ramos, a senior data analyst at Crunchbase shares her journey into the field of data analytics, starting with her background in Math and Spanish during her undergraduate studies. She discusses how she discovered her passion for data analytics while working as a data analyst intern and eventually pursued a master's degree in business analytics. Jess also talks about the challenges and biases she has encountered as a woman in the tech industry and provides insights on build...]]></itunes:summary>
+    <description><![CDATA[<p><b>In this episode Jess Ramos, a senior data analyst at Crunchbase shares her journey into the field of data analytics, starting with her background in Math and Spanish during her undergraduate studies. She discusses how she discovered her passion for data analytics while working as a data analyst intern and eventually pursued a master&apos;s degree in business analytics. Jess also talks about the challenges and biases she has encountered as a woman in the tech industry and provides insights on building a more inclusive culture. Throughout the conversation, she emphasizes the importance of representation, encouragement, and equitable practices to attract and retain women in analytics and technology fields.</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>In this episode Jess Ramos, a senior data analyst at Crunchbase shares her journey into the field of data analytics, starting with her background in Math and Spanish during her undergraduate studies. She discusses how she discovered her passion for data analytics while working as a data analyst intern and eventually pursued a master&apos;s degree in business analytics. Jess also talks about the challenges and biases she has encountered as a woman in the tech industry and provides insights on building a more inclusive culture. Throughout the conversation, she emphasizes the importance of representation, encouragement, and equitable practices to attract and retain women in analytics and technology fields.</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/13583566-overcoming-challenges-as-a-woman-in-tech-and-data-analytics.mp3" length="22717495" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13583566</guid>
+    <pubDate>Wed, 13 Sep 2023 07:00:00 -0400</pubDate>
+    <itunes:duration>1892</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Evolution of Data Lakes and the Entrepreneurial Journey with Justin Borgman</itunes:title>
+    <title>The Evolution of Data Lakes and the Entrepreneurial Journey with Justin Borgman</title>
+    <itunes:summary><![CDATA[In this episode of the Data-Driven podcast, host David Mariani sits down with Justin Borgman, the CEO and founder of Starburst. The two seasoned entrepreneurs discuss the evolution of big data analytics, sharing their own journeys from the early days of Hadoop to the current landscape of data lakes and cloud-based solutions. Justin delves into the founding of Starburst, the challenges and opportunities in building a startup, and why he believes data lakes are experiencing a resurgence. The co...]]></itunes:summary>
+    <description><![CDATA[<p><b>In this episode of the Data-Driven podcast, host David Mariani sits down with Justin Borgman, the CEO and founder of Starburst. The two seasoned entrepreneurs discuss the evolution of big data analytics, sharing their own journeys from the early days of Hadoop to the current landscape of data lakes and cloud-based solutions. Justin delves into the founding of Starburst, the challenges and opportunities in building a startup, and why he believes data lakes are experiencing a resurgence. The conversation also touches on the importance of focus and experience for entrepreneurs, offering valuable insights for anyone navigating the complex world of data analytics.</b></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p><b>In this episode of the Data-Driven podcast, host David Mariani sits down with Justin Borgman, the CEO and founder of Starburst. The two seasoned entrepreneurs discuss the evolution of big data analytics, sharing their own journeys from the early days of Hadoop to the current landscape of data lakes and cloud-based solutions. Justin delves into the founding of Starburst, the challenges and opportunities in building a startup, and why he believes data lakes are experiencing a resurgence. The conversation also touches on the importance of focus and experience for entrepreneurs, offering valuable insights for anyone navigating the complex world of data analytics.</b></p><p><br/></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/13482013-the-evolution-of-data-lakes-and-the-entrepreneurial-journey-with-justin-borgman.mp3" length="27709221" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13482013</guid>
+    <pubDate>Mon, 28 Aug 2023 07:00:00 -0400</pubDate>
+    <itunes:duration>2308</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Journey of Zenlytic, Semantic Layer, LLMs and the Future of Data-driven Insights</itunes:title>
+    <title>Journey of Zenlytic, Semantic Layer, LLMs and the Future of Data-driven Insights</title>
+    <itunes:summary><![CDATA[In this interview, Dave Mariani interviews Ryan Janssen, the CEO and founder of Zenlytic, and Paul Blankly, the CTO and founder of Zenlytic. They discussed the importance of Generative AI, Natural Language Query, and analytics in the data industry. The conversation delves into the role of analysts in the evolving landscape and the potential of LLMs and the semantic layer to revolutionize data consumption. Overall, they explore the opportunities and considerations in leveraging LLMs and the se...]]></itunes:summary>
+    <description><![CDATA[<p><b>In this interview, Dave Mariani interviews Ryan Janssen, the CEO and founder of Zenlytic, and Paul Blankly, the CTO and founder of Zenlytic. They discussed the importance of Generative AI, Natural Language Query, and analytics in the data industry. The conversation delves into the role of analysts in the evolving landscape and the potential of LLMs and the semantic layer to revolutionize data consumption. Overall, they explore the opportunities and considerations in leveraging LLMs and the semantic layer for data-driven insights.</b></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p><b>In this interview, Dave Mariani interviews Ryan Janssen, the CEO and founder of Zenlytic, and Paul Blankly, the CTO and founder of Zenlytic. They discussed the importance of Generative AI, Natural Language Query, and analytics in the data industry. The conversation delves into the role of analysts in the evolving landscape and the potential of LLMs and the semantic layer to revolutionize data consumption. Overall, they explore the opportunities and considerations in leveraging LLMs and the semantic layer for data-driven insights.</b></p><p><br/></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/13238289-journey-of-zenlytic-semantic-layer-llms-and-the-future-of-data-driven-insights.mp3" length="28074415" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13238289</guid>
+    <pubDate>Mon, 17 Jul 2023 12:00:00 -0400</pubDate>
+    <itunes:duration>2338</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Semantic Layer, Data Analytics and Artificial Intelligence with David Jayatillake, Co-Founder &amp; CEO at Delphi Labs</itunes:title>
+    <title>Semantic Layer, Data Analytics and Artificial Intelligence with David Jayatillake, Co-Founder &amp; CEO at Delphi Labs</title>
+    <itunes:summary><![CDATA[In this interview, Dave and David J will discuss the value of the semantic layer in data management. They explored two different perspectives on delivering this value and shared insights about their respective paths that led them to co-found and start companies. The conversation will revolve around data analytics, the role of the semantic layer, and their experiences in the field of data management.   ]]></itunes:summary>
+    <description><![CDATA[<p><b>In this interview, Dave and David J will discuss the value of the semantic layer in data management. They explored two different perspectives on delivering this value and shared insights about their respective paths that led them to co-found and start companies. The conversation will revolve around data analytics, the role of the semantic layer, and their experiences in the field of data management.</b></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p><b>In this interview, Dave and David J will discuss the value of the semantic layer in data management. They explored two different perspectives on delivering this value and shared insights about their respective paths that led them to co-found and start companies. The conversation will revolve around data analytics, the role of the semantic layer, and their experiences in the field of data management.</b></p><p><br/></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/13194543-semantic-layer-data-analytics-and-artificial-intelligence-with-david-jayatillake-co-founder-ceo-at-delphi-labs.mp3" length="22522627" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13194543</guid>
+    <pubDate>Mon, 10 Jul 2023 11:00:00 -0400</pubDate>
+    <itunes:duration>1875</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Inflection Point of Generative AI, Analytics role in AI and AtScale &lt;&gt; Dataiku with 🦾Jepson Taylor</itunes:title>
+    <title>The Inflection Point of Generative AI, Analytics role in AI and AtScale &lt;&gt; Dataiku with 🦾Jepson Taylor</title>
+    <itunes:summary><![CDATA[Listen to 🦾Jepson Taylor and discover the transformative power of generative AI and its impact on the future of artificial intelligence. Gain insights into the role of analytics leaders in driving AI adoption and overcoming challenges in legacy systems and data modernization. Explore strategies for success and understand the benefits of integrating platforms like Dataiku and AtScale in accelerating data transformation and delivering actionable insights across industries. ]]></itunes:summary>
+    <description><![CDATA[<p><b>Listen to 🦾Jepson Taylor and discover the transformative power of generative AI and its impact on the future of artificial intelligence. Gain insights into the role of analytics leaders in driving AI adoption and overcoming challenges in legacy systems and data modernization. Explore strategies for success and understand the benefits of integrating platforms like Dataiku and AtScale in accelerating data transformation and delivering actionable insights across industries.</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>Listen to 🦾Jepson Taylor and discover the transformative power of generative AI and its impact on the future of artificial intelligence. Gain insights into the role of analytics leaders in driving AI adoption and overcoming challenges in legacy systems and data modernization. Explore strategies for success and understand the benefits of integrating platforms like Dataiku and AtScale in accelerating data transformation and delivering actionable insights across industries.</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/13081523-the-inflection-point-of-generative-ai-analytics-role-in-ai-and-atscale-dataiku-with-jepson-taylor.mp3" length="33247333" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13081523</guid>
+    <pubDate>Wed, 21 Jun 2023 09:00:00 -0400</pubDate>
+    <itunes:duration>2769</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Learn about Business intelligence (BI) and data warehousing, along with evolution of Power BI with Christopher Wagner</itunes:title>
+    <title>Learn about Business intelligence (BI) and data warehousing, along with evolution of Power BI with Christopher Wagner</title>
+    <itunes:summary><![CDATA[Listen to Christopher Wagner discuss paths into analytics, bridging the gap between technical and business aspects, and his experience working with business intelligence (BI) and data warehousing technologies such as Oracle and Microsoft Power BI. You also get to learn more about the evolution of Power BI and its interconnectivity. Chris also talks about the importance of enjoying what you do and having a passion for data and analytics. ]]></itunes:summary>
+    <description><![CDATA[<p><b>Listen to Christopher Wagner discuss paths into analytics, bridging the gap between technical and business aspects, and his experience working with business intelligence (BI) and data warehousing technologies such as Oracle and Microsoft Power BI. You also get to learn more about the evolution of Power BI and its interconnectivity. Chris also talks about the importance of enjoying what you do and having a passion for data and analytics.</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>Listen to Christopher Wagner discuss paths into analytics, bridging the gap between technical and business aspects, and his experience working with business intelligence (BI) and data warehousing technologies such as Oracle and Microsoft Power BI. You also get to learn more about the evolution of Power BI and its interconnectivity. Chris also talks about the importance of enjoying what you do and having a passion for data and analytics.</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/12850754-learn-about-business-intelligence-bi-and-data-warehousing-along-with-evolution-of-power-bi-with-christopher-wagner.mp3" length="22777483" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12850754</guid>
+    <pubDate>Mon, 15 May 2023 08:00:00 -0400</pubDate>
+    <itunes:duration>1897</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Gaming Industry, Machine Learning, and ChatGPT with Carly Taylor, Machine Learning, at Call of Duty, Activision</itunes:title>
+    <title>Gaming Industry, Machine Learning, and ChatGPT with Carly Taylor, Machine Learning, at Call of Duty, Activision</title>
+    <itunes:summary><![CDATA[Listen to Carly Taylor, an expert in gaming and machine learning. She shared insights on the rise of mobile gaming, player engagement, and how machine learning improves gaming experiences. We also discussed Carly’s experience with ChatGPT, finding it engaging and informative. The episode provides a look at how gaming and machine learning intersect, and the potential for chatbots like ChatGPT in various industries. ]]></itunes:summary>
+    <description><![CDATA[<p>Listen to Carly Taylor, an expert in gaming and machine learning. She shared insights on the rise of mobile gaming, player engagement, and how machine learning improves gaming experiences. We also discussed Carly’s experience with ChatGPT, finding it engaging and informative. The episode provides a look at how gaming and machine learning intersect, and the potential for chatbots like ChatGPT in various industries.</p>]]></description>
+    <content:encoded><![CDATA[<p>Listen to Carly Taylor, an expert in gaming and machine learning. She shared insights on the rise of mobile gaming, player engagement, and how machine learning improves gaming experiences. We also discussed Carly’s experience with ChatGPT, finding it engaging and informative. The episode provides a look at how gaming and machine learning intersect, and the potential for chatbots like ChatGPT in various industries.</p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/12619745-gaming-industry-machine-learning-and-chatgpt-with-carly-taylor-machine-learning-at-call-of-duty-activision.mp3" length="22888440" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12619745</guid>
+    <pubDate>Mon, 10 Apr 2023 04:00:00 -0400</pubDate>
+    <itunes:duration>1906</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Mesh, Data Ownership, self-service data infrastructure with Sharon Richardson, Data+AI Strategist, Databricks</itunes:title>
+    <title>Data Mesh, Data Ownership, self-service data infrastructure with Sharon Richardson, Data+AI Strategist, Databricks</title>
+    <itunes:summary><![CDATA[Listen to Sharon Richardson, Databricks talks about the data mesh concept and how Databricks enables organizations to implement it. Elif and Sharon also discussed the four principles of data mesh, which include domain-oriented data ownership, managing data like a product, having a common self-service data infrastructure as a platform, and governance through federated computational governance. They focus on the challenge of understanding what is meant by federated computational governance and ...]]></itunes:summary>
+    <description><![CDATA[<p><b>Listen to Sharon Richardson, Databricks talks about the data mesh concept and how Databricks enables organizations to implement it. Elif and Sharon also discussed the four principles of data mesh, which include domain-oriented data ownership, managing data like a product, having a common self-service data infrastructure as a platform, and governance through federated computational governance. They focus on the challenge of understanding what is meant by federated computational governance and how technology enables it</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>Listen to Sharon Richardson, Databricks talks about the data mesh concept and how Databricks enables organizations to implement it. Elif and Sharon also discussed the four principles of data mesh, which include domain-oriented data ownership, managing data like a product, having a common self-service data infrastructure as a platform, and governance through federated computational governance. They focus on the challenge of understanding what is meant by federated computational governance and how technology enables it</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/12619742-data-mesh-data-ownership-self-service-data-infrastructure-with-sharon-richardson-data-ai-strategist-databricks.mp3" length="31788468" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12619742</guid>
+    <pubDate>Mon, 10 Apr 2023 04:00:00 -0400</pubDate>
+    <itunes:duration>2648</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Strategy, Data Monetization, and more with Vin Vashishta</itunes:title>
+    <title>Data Strategy, Data Monetization, and more with Vin Vashishta</title>
+    <itunes:summary><![CDATA[Listen to Vin Vashishta sharing about his experience in the data industry for over 20 years, helping organizations make data-driven decisions and achieve their business goals through effective data management and analysis. Vin spoke about data strategy, data monetization, and the future of data, and has worked with a diverse range of clients across industries. ]]></itunes:summary>
+    <description><![CDATA[<p><b>Listen to Vin Vashishta sharing about his experience in the data industry for over 20 years, helping organizations make data-driven decisions and achieve their business goals through effective data management and analysis. Vin spoke about data strategy, data monetization, and the future of data, and has worked with a diverse range of clients across industries.</b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>Listen to Vin Vashishta sharing about his experience in the data industry for over 20 years, helping organizations make data-driven decisions and achieve their business goals through effective data management and analysis. Vin spoke about data strategy, data monetization, and the future of data, and has worked with a diverse range of clients across industries.</b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/12271788-data-strategy-data-monetization-and-more-with-vin-vashishta.mp3" length="25239673" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12271788</guid>
+    <pubDate>Fri, 17 Feb 2023 03:00:00 -0500</pubDate>
+    <itunes:duration>2102</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Semantic Layer, Data Observability and more with Sanjeev Mohan, SanjMo Ex VP Gartner</itunes:title>
+    <title>Semantic Layer, Data Observability and more with Sanjeev Mohan, SanjMo Ex VP Gartner</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/11668960-semantic-layer-data-observability-and-more-with-sanjeev-mohan-sanjmo-ex-vp-gartner.mp3" length="24410906" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11668960</guid>
+    <pubDate>Thu, 10 Nov 2022 06:00:00 -0500</pubDate>
+    <itunes:duration>2033</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Trends in AI &amp; ML, Feature Stores and more with Miles Adkins, Snowflake</itunes:title>
+    <title>Trends in AI &amp; ML, Feature Stores and more with Miles Adkins, Snowflake</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/11513854-trends-in-ai-ml-feature-stores-and-more-with-miles-adkins-snowflake.mp3" length="21042965" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11513854</guid>
+    <pubDate>Mon, 17 Oct 2022 07:00:00 -0400</pubDate>
+    <itunes:duration>1752</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Actionable Data Intelligence with Peggy Tsai, CDO, BigID</itunes:title>
+    <title>Actionable Data Intelligence with Peggy Tsai, CDO, BigID</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/11235614-actionable-data-intelligence-with-peggy-tsai-cdo-bigid.mp3" length="20440447" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11235614</guid>
+    <pubDate>Wed, 31 Aug 2022 08:00:00 -0400</pubDate>
+    <itunes:duration>1702</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data &amp; Analytics with Elif Tutuk, Global Head of Product</itunes:title>
+    <title>Data &amp; Analytics with Elif Tutuk, Global Head of Product</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/11158976-data-analytics-with-elif-tutuk-global-head-of-product.mp3" length="19529819" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11158976</guid>
+    <pubDate>Thu, 18 Aug 2022 04:00:00 -0400</pubDate>
+    <itunes:duration>1626</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Engineering and Modern Data Analytics</itunes:title>
+    <title>Data Engineering and Modern Data Analytics</title>
+    <itunes:summary><![CDATA[Listen to Deepak Prasad share his thoughts on embracing automation and why the semantic layer is on the rise due to the big persistent problem of inconsistent BI reporting impacting Enterprises’ across the board.  ]]></itunes:summary>
+    <description><![CDATA[<p><b>Listen to Deepak Prasad share his thoughts on embracing automation and why the semantic layer is on the rise due to the big persistent problem of inconsistent BI reporting impacting Enterprises’ across the board. </b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>Listen to Deepak Prasad share his thoughts on embracing automation and why the semantic layer is on the rise due to the big persistent problem of inconsistent BI reporting impacting Enterprises’ across the board. </b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/11035329-data-engineering-and-modern-data-analytics.mp3" length="34573186" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11035329</guid>
+    <pubDate>Wed, 27 Jul 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>2880</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Mesh - Data Teams &amp; Tiers with Ben Stancil, Chief Analytics Officer + Founder</itunes:title>
+    <title>Data Mesh - Data Teams &amp; Tiers with Ben Stancil, Chief Analytics Officer + Founder</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10985376-data-mesh-data-teams-tiers-with-ben-stancil-chief-analytics-officer-founder.mp3" length="35101149" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10985376</guid>
+    <pubDate>Tue, 19 Jul 2022 06:00:00 -0400</pubDate>
+    <itunes:duration>2924</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Modern Data Stack with Chad Sanderson</itunes:title>
+    <title>Modern Data Stack with Chad Sanderson</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10718596-modern-data-stack-with-chad-sanderson.mp3" length="28899067" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10718596</guid>
+    <pubDate>Wed, 01 Jun 2022 09:00:00 -0400</pubDate>
+    <itunes:duration>2407</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Why is Data Quality important with Tom Redman</itunes:title>
+    <title>Why is Data Quality important with Tom Redman</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10624763-why-is-data-quality-important-with-tom-redman.mp3" length="28399480" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10624763</guid>
+    <pubDate>Mon, 16 May 2022 06:00:00 -0400</pubDate>
+    <itunes:duration>2365</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Benefits of AI &amp; BI in Business</itunes:title>
+    <title>Benefits of AI &amp; BI in Business</title>
+    <itunes:summary><![CDATA[Listen to this discussion with Bill Sandblom on using AI to improve business outcomes at his PetroChemical where he is the CIO. He discusses tips for getting more of your team’s time focused on actual AI and Analytics work vs data prep and wrangling. He also shares advice for how to identify the right areas of the business to make a real impact on profits with machine learning &amp; AI.  ]]></itunes:summary>
+    <description><![CDATA[<p><b>Listen to this discussion with Bill Sandblom on using AI to improve business outcomes at his PetroChemical where he is the CIO. He discusses tips for getting more of your team’s time focused on actual AI and Analytics work vs data prep and wrangling. He also shares advice for how to identify the right areas of the business to make a real impact on profits with machine learning &amp; AI. </b></p>]]></description>
+    <content:encoded><![CDATA[<p><b>Listen to this discussion with Bill Sandblom on using AI to improve business outcomes at his PetroChemical where he is the CIO. He discusses tips for getting more of your team’s time focused on actual AI and Analytics work vs data prep and wrangling. He also shares advice for how to identify the right areas of the business to make a real impact on profits with machine learning &amp; AI. </b></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10514123-benefits-of-ai-bi-in-business.mp3" length="28674924" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10514123</guid>
+    <pubDate>Wed, 27 Apr 2022 09:00:00 -0400</pubDate>
+    <itunes:duration>2388</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Building High-performing Analytics Teams with John Thompson</itunes:title>
+    <title>Building High-performing Analytics Teams with John Thompson</title>
+    <itunes:summary><![CDATA[Listen to this discussion on building high-performing analytics teams, the evolution of the enterprise data warehouse, and what’s in store for the future of analytical technologies.   ]]></itunes:summary>
+    <description><![CDATA[<p><b>Listen to this discussion on building high-performing analytics teams, the evolution of the enterprise data warehouse, and what’s in store for the future of analytical technologies.</b></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p><b>Listen to this discussion on building high-performing analytics teams, the evolution of the enterprise data warehouse, and what’s in store for the future of analytical technologies.</b></p><p><br/></p>]]></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10352846-building-high-performing-analytics-teams-with-john-thompson.mp3" length="27723601" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10352846</guid>
+    <pubDate>Thu, 31 Mar 2022 07:00:00 -0400</pubDate>
+    <itunes:duration>2309</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Literacy Programs with Mariska Veenhof-Bulten at bol.com</itunes:title>
+    <title>Data Literacy Programs with Mariska Veenhof-Bulten at bol.com</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10055518-data-literacy-programs-with-mariska-veenhof-bulten-at-bol-com.mp3" length="27730815" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10055518</guid>
+    <pubDate>Fri, 11 Feb 2022 06:00:00 -0500</pubDate>
+    <itunes:duration>2309</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Strategy with Brian Prascak at Wawa</itunes:title>
+    <title>Data Strategy with Brian Prascak at Wawa</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>AtScale</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10055434-data-strategy-with-brian-prascak-at-wawa.mp3" length="24810492" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10055434</guid>
+    <pubDate>Fri, 11 Feb 2022 06:00:00 -0500</pubDate>
+    <itunes:duration>2066</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Literacy Programs with Megan Brown at Starbucks </itunes:title>
+    <title>Data Literacy Programs with Megan Brown at Starbucks </title>
+    <itunes:summary><![CDATA[We discussed why is Data Literacy important for every organisation today with Megan C. Brown, Ph.D.  at length  #data #dataliteracy #datascience #datadrivenpodcast ]]></itunes:summary>
+    <description><![CDATA[<p>We discussed why is Data Literacy important for every organisation today with Megan C. Brown, Ph.D.  at length<br/><br/>#data #dataliteracy #datascience #datadrivenpodcast</p>]]></description>
+    <content:encoded><![CDATA[<p>We discussed why is Data Literacy important for every organisation today with Megan C. Brown, Ph.D.  at length<br/><br/>#data #dataliteracy #datascience #datadrivenpodcast</p>]]></content:encoded>
+    <itunes:author>Ravit</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10055234-data-literacy-programs-with-megan-brown-at-starbucks.mp3" length="27805087" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10055234</guid>
+    <pubDate>Fri, 11 Feb 2022 05:00:00 -0500</pubDate>
+    <itunes:duration>2316</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Data Lakehouse with Bill Inmon,&quot;Father of the Data Warehouse&quot;</itunes:title>
+    <title>Data Lakehouse with Bill Inmon,&quot;Father of the Data Warehouse&quot;</title>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded></content:encoded>
+    <itunes:author>Ravit</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1928904/episodes/10034138-data-lakehouse-with-bill-inmon-father-of-the-data-warehouse.mp3" length="19803483" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10034138</guid>
+    <pubDate>Tue, 08 Feb 2022 07:00:00 -0500</pubDate>
+    <itunes:duration>1649</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,1648 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Apple Treats</title>
+        <link>https://appletreats.substack.com</link>
+        <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>Apple Treats</copyright>
+        <description>Bite-sized news for Apple developers.
+
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+Your daily source of mobile news: https://appletreats.substack.com
+
+Our social media:
+Linktree: https://linktr.ee/AppleTreats
+Mastodon: https://mastodon.social/@AppleTreats
+Instagram: https://instagram.com/AppleTreatsNews
+YouTube: https://www.youtube.com/@AppleTreatsNews
+Twitter: https://twitter.com/AppleTreatsNews
+Telegram: https://t.me/AppleTreatsNews
+        </description>
+        <content:encoded>
+            <![CDATA[Bite-sized news for Apple developers.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://appletreats.substack.com">AppleTreats.substack.com</a><br/><br/>
+Our social media:<br/>
+Linktree: <a href="https://linktr.ee/AppleTreats">@AppleTreats</a><br/><br/>
+Mastodon: <a href="https://mastodon.social/@AppleTreats">@AppleTreats@mastodon.social</a><br/><br/>
+Instagram: <a href="https://instagram.com/AppleTreatsNews">@AppleTreatsNews</a><br/><br/>
+YouTube: <a href="https://www.youtube.com/@AppleTreatsNews">@AppleTreatsNews</a><br/><br/>
+Twitter: <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a><br/><br/>
+Telegram: <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a>.]]>
+        </content:encoded>
+        <itunes:subtitle>Bite-sized news for Apple developers.</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Apple Treats</itunes:name>
+            <itunes:email>furor.stoop0j@icloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Apple Treats</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        <image>
+            <url>https://appletreats.github.io/images/logoBig.png</url>
+            <title>Apple Treats</title>
+            <link>https://twitter.com/AppleTreatsNews</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0101c</guid>
+            <title>Feb 9, 2021 – pilot</title>
+            <pubDate>Wed, 10 Feb 2021 15:10:43 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=lJlM0S2yZac</link>
+            <itunes:duration>00:38:06</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>On today's show:
+- new releases and new betas of Apple OSes;
+- M1 Macs get more and more attention from developers;
+- SwiftUI is taking its steps outside Apple ecosystem;
+- Apple invites developers for special events. Well, at least some of the developers.</description>
+            <itunes:subtitle>This our pilot episode where we're getting familiar with podcasting and discussing beginning of 2021.</itunes:subtitle>
+            <content:encoded><![CDATA[On today's show:<br/>
+- new releases and new betas of Apple OSes;<br/>
+- M1 Macs get more and more attention from developers;<br/>
+- SwiftUI is taking its steps outside Apple ecosystem;<br/>
+- Apple invites developers for special events. Well, at least some of the developers.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=lJlM0S2yZac">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/983290042-mobilepeopletalks-apple-treats-pilot.mp3" length="54890974"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0102c</guid>
+            <title>Feb 23, 2021 – Privacy, tracking and developers</title>
+            <pubDate>Wed, 24 Feb 2021 07:33:07 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=gUI-iUYu5WU</link>
+            <itunes:duration>00:48:14</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>We cover privacy, tracking and how iOS 14.5 will affect developers.
+Also on today's show:
+- Apple's efforts to make iOS more secure;
+- how to deal with analytics in modern era;
+- how authorities and industry reacts to Apple's moves in data privacy;
+- what's new in beta and release updates;
+- how apps and developers affect our lives.</description>
+            <itunes:subtitle>We cover privacy, tracking and how iOS 14.5 will affect developers.</itunes:subtitle>
+            <content:encoded><![CDATA[Also on today's show:<br/>
+- Apple's efforts to make iOS more secure;<br/>
+- how to deal with analytics in modern era;<br/>
+- how authorities and industry reacts to Apple's moves in data privacy;<br/>
+- what's new in beta and release updates;<br/>
+- how apps and developers affect our lives.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=gUI-iUYu5WU">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/991761313-mobilepeopletalks-at-s01e02-privacy.mp3" length="69514321"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0103s</guid>
+            <title>Mar 8, 2021 – International Women's Day</title>
+            <pubDate>Sun, 07 Mar 2021 21:05:44 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=bHqhrOHEAjI</link>
+            <itunes:duration>00:36:48</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>Special episode of Apple Treats devoted to International Women's Day. We cover stories of girls getting into iOS development and discuss what it takes to make apps for women, and look into smartphone addiction from developers' perspective.
+
+Our guests:
+- Sitora Guliamova, iOS engineer at EPAM Systems, cat-lover, Instagram: https://instagram.com/sitic_16
+- Svetlana Shardakova, iOS engineer at EPAM Systems, Instagram: https://instagram.com/sunny_junne</description>
+            <itunes:subtitle>Special episode of Apple Treats devoted to International Women's Day.</itunes:subtitle>
+            <content:encoded><![CDATA[We cover stories of girls getting into iOS development and discuss what it takes to make apps for women, and look into smartphone addiction from developers' perspective.<br/><br/>
+Our guests:<br/>
+- Sitora Guliamova, iOS engineer at EPAM Systems, cat-lover, Instagram: <a href="https://instagram.com/sitic_16">@sitic_16</a>.<br/>
+- Svetlana Shardakova, iOS engineer at EPAM Systems, Instagram: <a href="https://instagram.com/sunny_junne">@sunny_junne</a>.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=bHqhrOHEAjI">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/999448021-mobilepeopletalks-at-s01e03-iwd.mp3" length="53036489"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0104c</guid>
+            <title>Mar 23, 2021 – Teamwork on mobile projects</title>
+            <pubDate>Wed, 24 Mar 2021 08:59:29 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=qVQV__8h3yA</link>
+            <itunes:duration>00:35:07</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>On this episode we're discussing specifics of working on mobile projects in big (or small) teams.
+
+Our guest:
+- Nikita Leonov, principal developer at Atlassian, https://twitter.com/leonovco</description>
+            <itunes:subtitle>On this episode we're discussing specifics of working on mobile projects in big (or small) teams.</itunes:subtitle>
+            <content:encoded><![CDATA[How to work on mobile projects? What does it take to scale the team? How Atlassian works on its projects? Did last year change much in development? All of these questions are addressed in this episode.<br/><br/>
+Our guest:<br/>
+- Nikita Leonov, principal developer at Atlassian, Twitter: <a href="https://twitter.com/leonovco">@leonovco</a>.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=qVQV__8h3yA">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1015320184-mobilepeopletalks-teamwork-on-mobile-projects.mp3" length="50611490"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0105c</guid>
+            <title>Apr 6, 2021 – Security for developers</title>
+            <pubDate>Wed, 07 Apr 2021 06:35:04 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=qa7vkbL4pAQ</link>
+            <itunes:duration>00:39:43</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <description>In our fifth episode we talk on Application Security and, of course, about privacy.
+What are our expectations of WWDC21? What iOS 14.5 brings to users and developers? Apple rejects apps using privacy-unfriendly SDKs, China apps use their own fingerprinting approachs.
+Of course, we couldn't avoid discussing Facebook and leak of 526M accounts. We also talk on new threats for developers and basic things to start with, if you're interested in increasing app's security.
+
+Further reading and watching:
+Apple Platform Security: https://support.apple.com/guide/security/welcome/web
+OWASP Mobile Security Testing Guide: https://github.com/OWASP/owasp-mstg
+OWASP Mobile Application Security Verification Standard: https://github.com/OWASP/owasp-masvs
+
+Workbook for "Security data management for app devs": https://github.com/vixentael/security-data-management-for-app-devs-workshop
+Mobile Notts 2021 talk: End-to-end encrypted doesn't mean secure: https://www.youtube.com/watch?v=CqsrA4eeGSs
+
+Our guest:
+- Anastasiia Voitova, Head of Customer Solutions, Security Software engineer at Cossack Labs, https://twitter.com/vixentael</description>
+            <itunes:subtitle>In our fifth episode we talk on Application Security and, of course, about privacy.</itunes:subtitle>
+            <content:encoded><![CDATA[What are our expectations of WWDC21? What iOS 14.5 brings to users and developers? Apple rejects apps using privacy-unfriendly SDKs, China apps use their own fingerprinting approachs.<br/>
+Of course, we couldn't avoid discussing Facebook and leak of 526M accounts. We also talk on new threats for developers and basic things to start with, if you're interested in increasing app's security.<br/><br/>
+Further reading and watching:<br/>
+<a href="https://support.apple.com/guide/security/welcome/web">Apple Platform Security</a><br/><br/>
+<a href="https://github.com/OWASP/owasp-mstg">OWASP Mobile Security Testing Guide</a><br/><br/>
+<a href="https://github.com/OWASP/owasp-masvs">OWASP Mobile Application Security Verification Standard</a><br/><br/>
+<a href="https://github.com/vixentael/security-data-management-for-app-devs-workshop">Workbook for "Security data management for app devs"</a><br/><br/>
+Mobile Notts 2021 talk: <a href="https://www.youtube.com/watch?v=CqsrA4eeGSs">End-to-end encrypted doesn't mean secure</a><br/><br/>
+Our guest:<br/>
+- Anastasiia Voitova, Head of Customer Solutions, Security Software engineer at Cossack Labs, <a href="https://twitter.com/vixentael">@vixentael</a>.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=qa7vkbL4pAQ">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1024115680-mobilepeopletalks-at-s01e05-security-for-developers.mp3" length="57245129"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0106c</guid>
+            <title>Apr 20, 2021 – Special pre-event show</title>
+            <pubDate>Wed, 21 Apr 2021 07:39:30 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=UqALtmQfT3w</link>
+            <itunes:duration>00:27:10</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <description>Apple announces "Spring Loaded" special event for April 20. So we gathered with our team and friends to make some predictions.
+Listen to this episode to find out, if our predictions were correct. Interestingly, there were still announcements that we did not expect.
+
+Our guests:
+- Andrii Zhatkin, iOS developer at EPAM Systems, stream engineer for Apple Treats, https://twitter.com/AndriiZhatkin
+- Aleksandr Denisov, GDG Moscow organizer, Co-Head of Flutter Competency at EPAM, Mobile People Talks co-host, https://twitter.com/ShuregDenisov
+- Vladimir Burdukov, iOS developer at EPAM Systems, iOS developer by day and Rust maniac by night, stream engineer for Apple Treats, https://twitter.com/chippcheg</description>
+            <itunes:subtitle>Apple announces "Spring Loaded" special event for April 20. So we gathered with our team and friends to make some predictions.</itunes:subtitle>
+            <content:encoded><![CDATA[Listen to this episode to find out, if our predictions were correct. Interestingly, there were still announcements that we did not expect.<br/><br/>
+Our guests:<br/>
+- Andrii Zhatkin, iOS developer at EPAM Systems, stream engineer for Apple Treats, <a href="https://twitter.com/AndriiZhatkin">@AndriiZhatkin</a><br/><br/>
+- Aleksandr Denisov, GDG Moscow organizer, сo-Head of Flutter Competency at EPAM Systems, Mobile People Talks podcast co-host, <a href="https://twitter.com/ShuregDenisov">@ShuregDenisov</a><br/><br/>
+- Vladimir Burdukov, iOS developer at EPAM Systems, iOS developer by day and Rust maniac by night, stream engineer for Apple Treats, <a href="https://twitter.com/chippcheg">@chippcheg</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=UqALtmQfT3w">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1033768750-mobilepeopletalks-at-s01e06-special-event.mp3" length="39162334"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0107c</guid>
+            <title>May 4, 2021 – Sourcery for developers</title>
+            <pubDate>Wed, 05 May 2021 08:10:47 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=nxzHcUTm20E</link>
+            <itunes:duration>00:52:36</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <description>We are joined by Krzysztof Zabłocki to talk about Sourcery, Sourcery Pro and his other projects. As well, as his path in IT.
+What is Sourcery, and how Pro is different? Unexpected uses of Sourcery, chances of "sherlocking", approaches to keep healthy development habits and being fit – are just some of the topics we cover today.
+
+Our guest:
+- Krzysztof Zabłocki, Lead iOS Developer, author of Sourcery and Sourcery Pro, https://twitter.com/merowing_
+
+More info:
+Blog: https://merowing.info/
+Fit geek blog post: https://merowing.info/2014/02/fit-geek/
+Sourcery: https://github.com/krzysztofzablocki/Sourcery
+Sourcery Pro: https://merowing.info/sourcery-pro/
+Sourcery Workshops: https://github.com/krzysztofzablocki/SourceryWorkshops
+Automatic Settings: https://github.com/krzysztofzablocki/AutomaticSettings</description>
+            <itunes:subtitle>Krzysztof Zabłocki comes to Apple Treats and we'll going to talk about Sourcery and what it could do for developers.</itunes:subtitle>
+            <content:encoded><![CDATA[We are joined by Krzysztof Zabłocki to talk about Sourcery, Sourcery Pro and his other projects. As well, as his path in IT.<br/>
+What is Sourcery, and how Pro is different? Unexpected uses of Sourcery, chances of "sherlocking", approaches to keep healthy development habits and being fit – are just some of the topics we cover today.<br/><br/>
+Our guest:<br/>
+- Krzysztof Zabłocki, Lead iOS Developer, author of Sourcery and Sourcery Pro, <a href="https://twitter.com/merowing_">@merowing_</a>.<br/><br/>
+
+More info:<br/>
+<a href="https://merowing.info/">Krzysztof's Blog</a><br/><br/>
+<a href="https://merowing.info/2014/02/fit-geek/">Fit geek blog post</a><br/><br/>
+<a href="https://github.com/krzysztofzablocki/Sourcery">Sourcery</a><br/><br/>
+<a href="https://merowing.info/sourcery-pro/">Sourcery Pro</a><br/><br/>
+<a href="https://github.com/krzysztofzablocki/SourceryWorkshops">Sourcery Workshops</a><br/><br/>
+<a href="https://github.com/krzysztofzablocki/AutomaticSettings">Automatic Settings</a><br/><br/>
+
+Watch this episode on <a href="https://www.youtube.com/watch?v=nxzHcUTm20E">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1042930687-mobilepeopletalks-at-s01e07-sourcery.mp3" length="75791232"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0108c</guid>
+            <title>May 18, 2021 – Open source projects</title>
+            <pubDate>Wed, 19 May 2021 19:06:52 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=a0R_RmXxzcQ</link>
+            <itunes:duration>00:28:30</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <description>Stuart Breckenridge from NetNewsWire team comes to our podcast. We're discussing origins of NetNewsWire, practices of open source developments, and recommendations for those who want to start contributing to open source or willing to start their own project.
+
+Our guest:
+- Stuart Breckenridge, NetNewsWire developer, https://twitter.com/stuarticus
+
+NetNewsWire project: https://github.com/Ranchero-Software/NetNewsWire
+</description>
+            <itunes:subtitle>Stuart Breckenridge from NetNewsWire team comes to our podcast. We're discussing origins of NetNewsWire, practices of open source developments, and recommendations for those who want to start contributing to open source or willing to start their own project.</itunes:subtitle>
+            <content:encoded><![CDATA[Stuart Breckenridge from NetNewsWire team comes to our podcast. We're discussing origins of NetNewsWire, practices of open source developments, and recommendations for those who want to start contributing to open source or willing to start their own project.<br/><br/>
+Our guest:<br/>
+- Stuart Breckenridge, NetNewsWire developer, <a href="https://twitter.com/stuarticus">@stuarticus</a>.<br/><br/>
+NetNewsWire project: <a href="https://github.com/Ranchero-Software/NetNewsWire">GitHub</a>.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=a0R_RmXxzcQ">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1051638211-mobilepeopletalks-at-s01e08-open-source.mp3" length="41088290"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0109c</guid>
+            <title>Jun 1, 2021 – Kids vs apps</title>
+            <pubDate>Wed, 02 Jun 2021 09:04:25 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=WEVbTlsJE3Y</link>
+            <itunes:duration>00:48:38</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <description>We're celebrating Children's Day. Together with our guest, Olexandra Dmytrenko, we're discussing all the ways our kid interact with mobile devices. We try to define the age when you should first allow your kid playing with the phone. Or when you should consider teaching him or her development. We also look into mobile apps for kids and how they are different.
+
+Our guest:
+- Olexandra Dmytrenko, eKids program lead trainer, EPAM Systems, https://twitter.com/LadyInIT
+
+Useful links:
+- Programming Garden blog (in Russian), http://olexandradmytrenko.blogspot.com/
+- Scratch, https://apps.apple.com/us/app/scratch/id1446785996
+- Logo Mindstorms Inventor, https://apps.apple.com/us/app/lego-mindstorms-inventor/id1515448947
+- Greenfoot, https://www.greenfoot.org/
+- Sphero Edu, https://apps.apple.com/us/app/sphero-edu/id1017847674
+- Python Recipes, https://apps.apple.com/us/app/python-recipes/id1180825853
+</description>
+            <itunes:subtitle>We're celebrating Children's Day. Together with our guest, Olexandra Dmytrenko, we're discussing all the ways our kid interact with mobile devices.</itunes:subtitle>
+            <content:encoded><![CDATA[We're celebrating Children's Day. Together with our guest, Olexandra Dmytrenko, we're discussing all the ways our kid interact with mobile devices. We try to define the age when you should first allow your kid playing with the phone. Or when you should consider teaching him or her development. We also look into mobile apps for kids and how they are different.<br/><br/>
+Our guest:<br/>
+- Olexandra Dmytrenko, eKids program lead trainer, EPAM Systems, <a href="https://twitter.com/LadyInIT">@LadyInIT</a>.<br/><br/>
+Useful links:<br/>
+- <a href="https://olexandradmytrenko.blogspot.com/">Programming Garden</a> blog (in Russian)<br/><br/>
+- <a href="https://apps.apple.com/us/app/scratch/id1446785996">Scratch</a><br/><br/>
+- <a href="https://apps.apple.com/us/app/lego-mindstorms-inventor/id1515448947">Logo Mindstorms Inventor</a><br/><br/>
+- <a href="https://www.greenfoot.org/">Greenfoot</a><br/><br/>
+- <a href="https://apps.apple.com/us/app/sphero-edu/id1017847674">Sphero Edu</a><br/><br/>
+- <a href="https://apps.apple.com/us/app/python-recipes/id1180825853">Python Recipes</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=WEVbTlsJE3Y">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1060369597-mobilepeopletalks-at-s01e09-kids-vs-apps.mp3" length="70084835"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0110c</guid>
+            <title>Jun 8, 2021 – WWDC21!</title>
+            <pubDate>Wed, 09 Jun 2021 06:40:00 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=iNWRlE6s4OA</link>
+            <itunes:duration>00:41:15</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <description>We’re discussing all the things announced by Apple on Keynote and State of the Union. What developers should do the whole next year, what technologies will be trending, what tools we should adopt.
+From Xcode Cloud to SharePlay, from AirPods to iPad multitasking, and everything else.
+</description>
+            <itunes:subtitle>We're under impression of the WWDC21 first day. Let's dive deep into all the announcements we've heard.</itunes:subtitle>
+            <content:encoded><![CDATA[We’re discussing all the things announced by Apple on Keynote and State of the Union. What developers should do the whole next year, what technologies will be trending, what tools we should adopt.<br/>
+                From Xcode Cloud to SharePlay, from AirPods to iPad multitasking, and everything else.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=iNWRlE6s4OA">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1064793478-mobilepeopletalks-at-s01e10-wwdc21.mp3" length="75658552"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0111c</guid>
+            <title>Jun 22, 2021 – Swift for Web</title>
+            <pubDate>Wed, 23 Jun 2021 07:18:14 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=rfO5ff-79ws</link>
+            <itunes:duration>00:47:16</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>11</itunes:episode>
+            <description>In this episode we're discussing interesting topic of Swift getting into new platforms. Server-side Swift, Swift WebAssembly, Tokamak – we're covering these and other topics with our special guest – Max Desiatov. He is leading a lot of activities promoting Swift to new platforms.
+
+Our guest:
+Max Desiatov, co-maintainer of SwiftWasm and Tokamak, https://twitter.com/maxdesiatov
+
+Useful links:
+Swift WebAssembly https://swiftwasm.org
+SwiftWasm Discord https://discord.gg/ashJW8T8yp
+Tokamak https://tokamak.dev
+
+Watch this episode: https://www.youtube.com/watch?v=rfO5ff-79ws
+</description>
+            <itunes:subtitle>Swift goes to new places. What can Swift do on the Web?</itunes:subtitle>
+            <content:encoded><![CDATA[In this episode we're discussing interesting topic of Swift getting into new platforms. Server-side Swift, Swift WebAssembly, Tokamak – we're covering these and other topics with our special guest – Max Desiatov. He is leading a lot of activities promoting Swift to new platforms.<br/><br/>
+Our guest:<br/>
+Max Desiatov, co-maintainer of SwiftWasm and Tokamak, <a href="https://twitter.com/maxdesiatov">@maxdesiatov</a><br/><br/>
+Useful links:<br/>
+<a href="https://swiftwasm.org">Swift WebAssembly</a><br/><br/>
+<a href="https://discord.gg/ashJW8T8yp">SwiftWasm Discord</a><br/><br/>
+<a href="https://tokamak.dev">Tokamak</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=rfO5ff-79ws">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1074162862-mobilepeopletalks-at-s01e11-swift-for-web.mp3" length="89864231"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0112c</guid>
+            <title>Jul 6, 2021 – Server-side Swift and VAPOR</title>
+            <pubDate>Wed, 07 Jul 2021 07:22:44 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=NINNVePLLR4</link>
+            <itunes:duration>00:39:16</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>12</itunes:episode>
+            <description>We've already discussed how Swift expands to Web. So, now it's time to focus on server-side Swift. And, yes, VAPOR. Tim Condon joins our podcast to talk on Swift's future on server, VAPOR roadmap, and all things Swift.
+
+Our guest:
+Tim Condon, VAPOR core team, https://twitter.com/0xtim
+
+Useful links:
+Swift on Server Development Guide – https://github.com/swift-server/guides
+
+VAPOR Docs – https://docs.vapor.codes/4.0/
+
+Learn web development with Swift – https://www.raywenderlich.com/server-side-swift
+
+Tim's Book - Server-Side Swift with Vapor – https://www.raywenderlich.com/books/server-side-swift-with-vapor
+
+Smoke Framework – https://github.com/amzn/smoke-framework
+
+Soto, Swift SDK for Amazon Web Services – https://soto.codes
+
+Watch this episode: https://www.youtube.com/watch?v=NINNVePLLR4
+</description>
+            <itunes:subtitle>Swift on server? Yes! Even better than expected.</itunes:subtitle>
+            <content:encoded><![CDATA[We've already discussed how Swift expands to Web. So, now it's time to focus on server-side Swift. And, yes, VAPOR. Tim Condon joins our podcast to talk on Swift's future on server, VAPOR roadmap, and all things Swift.<br/><br/>
+Our guest:<br/>
+Tim Condon, VAPOR core team, <a href="https://twitter.com/0xtim">@0xtim</a><br/><br/>
+Useful links:<br/>
+<a href="https://github.com/swift-server/guides">Swift on Server Development Guide</a><br/><br/>
+<a href="https://docs.vapor.codes/4.0/">VAPOR Docs</a><br/><br/>
+<a href="https://www.raywenderlich.com/server-side-swift">Learn web development with Swift</a><br/><br/>
+<a href="https://www.raywenderlich.com/books/server-side-swift-with-vapor">Tim's Book &quot;Server-Side Swift with Vapor&quot;</a><br/><br/>
+<a href="https://github.com/amzn/smoke-framework">Smoke Framework</a><br/><br/>
+<a href="https://soto.codes">Soto, Swift SDK for Amazon Web Services</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=NINNVePLLR4">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1083008533-mobilepeopletalks-at-s01e12-server-side-swift-and-vapor.mp3" length="74596180"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0113c</guid>
+            <title>Jul 20, 2021 – Future of Combine</title>
+            <pubDate>Wed, 21 Jul 2021 07:47:45 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=XdoVFDDVdj0</link>
+            <itunes:duration>00:40:26</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>13</itunes:episode>
+            <description>We're getting into reactive programming. WWDC21 has zero attention to Combine. Is it alive? What is the future? How Swift Structured Concurrency will affect it?
+And we're also touching DocC a bit. Why? Our guest has something to say about it. Not much though :)
+
+Our guest:
+Marin Todorov, developer, book author, trainer, speaker, https://twitter.com/icanzilb
+
+Useful links:
+Timelane – https://timelane.tools
+Marin's books – https://underplot.com/#books
+</description>
+            <itunes:subtitle>Swift on server? Yes! Even better than expected.</itunes:subtitle>
+            <content:encoded><![CDATA[We're getting into reactive programming. WWDC21 has zero attention to Combine. Is it alive? What is the future? How Swift Structured Concurrency will affect it?<br/><br/>
+And we're also touching DocC a bit. Why? Our guest has something to say about it. Not much though :)<br/><br/>
+Our guest:<br/>
+Marin Todorov, developer, book author, trainer, speaker, <a href="https://twitter.com/icanzilb">@icanzilb</a><br/><br/>
+Useful links:<br/>
+<a href="https://timelane.tools">Timelane</a><br/><br/>
+<a href="https://underplot.com/#books">Marin's books</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1091300758-mobilepeopletalks-at-s01e13-future-of-combine.mp3" length="75024087"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0114c</guid>
+            <title>Aug 3, 2021 – Day in iOS developer's life</title>
+            <pubDate>Wed, 04 Aug 2021 05:33:40 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=jHQL5FavZsI</link>
+            <itunes:duration>00:47:11</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>14</itunes:episode>
+            <description>Summer is still quite busy time for developers. While Apple readies iOS for release, we're still doing our projects. So, let's look what are developers doing these days.
+We're getting into our own daily routines – and it's not just the podcast. How many hours we spend coding? Which frameworks we use and which we tend to avoid? Are mobile apps just ways of displaying JSON on screen?
+
+Our guest:
+Vladimir Burdukov, Apple Treats team, https://twitter.com/chippcheg
+
+Links:
+LifeLog: https://apps.apple.com/app/lifelog-personal-diary/id1524950438
+
+Watch this episode: https://www.youtube.com/watch?v=jHQL5FavZsI
+</description>
+            <itunes:subtitle>Podcast hosts show their true self and talk their iOS development background.</itunes:subtitle>
+            <content:encoded><![CDATA[Summer is still quite busy time for developers. While Apple readies iOS for release, we're still doing our projects. So, let's look what are developers doing these days.<br/><br/>
+We're getting into our own daily routines – and it's not just the podcast. How many hours we spend coding? Which frameworks we use and which we tend to avoid? Are mobile apps just ways of displaying JSON on screen?<br/><br/>
+Our guest:<br/>
+Vladimir Burdukov, Apple Treats team, <a href="https://twitter.com/chippcheg">@chippcheg</a><br/><br/>
+Links:<br/>
+<a href="https://apps.apple.com/app/lifelog-personal-diary/id1524950438">LifeLog</a> – SwiftUI app example.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=jHQL5FavZsI">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1099760488-mobilepeopletalks-s01e14-day-in-life.mp3" length="82371703"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0115c</guid>
+            <title>Sep 7, 2021 – Talks on Swift</title>
+            <pubDate>Wed, 08 Sep 2021 07:37:05 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=5tcZH-8RwK8</link>
+            <itunes:duration>00:53:49</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>15</itunes:episode>
+            <description>While we’re waiting for new iPhone, release of iOS 15 and other platforms, Swift 5.5 getting out of beta, let’s talk with Chris Eidhof, founder of objc.io and Swift Talk.
+We’re covering SwiftUI, Swift and the need for true Swift runtime, future of Swift on other platforms.
+
+Our guest:
+Chris Eidhof, objc.io founder, https://twitter.com/chriseidhof
+
+Links:
+objc.io books: https://www.objc.io/books/
+Swift Talk: https://talk.objc.io
+
+Watch this episode: https://www.youtube.com/watch?v=5tcZH-8RwK8
+</description>
+            <itunes:subtitle>We welcome Chris Eidhof from Swift Talk to ... talk Swift.</itunes:subtitle>
+            <content:encoded><![CDATA[While we’re waiting for new iPhone, release of iOS 15 and other platforms, Swift 5.5 getting out of beta, let’s talk with Chris Eidhof, founder of objc.io and Swift Talk.<br/>
+We’re covering SwiftUI, Swift and the need for true Swift runtime, future of Swift on other platforms.<br/><br/>
+Our guest:<br/>
+Chris Eidhof, <a href="https://objc.io">objc.io</a> founder, <a href="https://twitter.com/chriseidhof">@chriseidhof</a><br/><br/>
+Links:<br/>
+<a href="https://www.objc.io/books/">objc.io books</a><br/><br/>
+<a href="https://talk.objc.io">Swift Talk</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=5tcZH-8RwK8">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1120860202-mobilepeopletalks-at-s01e15-talks-on-swift.mp3" length="102064983"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0116c</guid>
+            <title>Sep 21, 2021 – iOS 15 is here!</title>
+            <pubDate>Wed, 22 Sep 2021 07:33:57 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=vs46b3H8SEA</link>
+            <itunes:duration>00:38:57</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>16</itunes:episode>
+            <description>Apple Treats team gets back to news. iPhone 13, iPad mini, but that's not all. Epic Games v Apple, rulings in Japan and South Korea – what does it mean for the future of App Store.
+And, of course, iOS 15. Weird update approach, new features, unreleased features, and so on.
+
+Watch this episode: https://www.youtube.com/watch?v=vs46b3H8SEA
+</description>
+            <itunes:subtitle>iOS 15 is released, iPhone 13 is shown. Let's discuss the recent news.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple Treats team gets back to news. iPhone 13, iPad mini, but that's not all. Epic Games v Apple, rulings in Japan and South Korea – what does it mean for the future of App Store.<br/><br/>
+And, of course, iOS 15. Weird update approach, new features, unreleased features, and so on.<br/><br/>
+Links:<br/>
+<a href="https://www.objc.io/books/">objc.io books</a><br/><br/>
+<a href="https://talk.objc.io">Swift Talk</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=vs46b3H8SEA">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1129011502-mobilepeopletalks-s01e16-ios-15-is-here.mp3" length="59891510"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0117d</guid>
+            <title>Oct 5, 2021 – What's new for developers?..</title>
+            <pubDate>Wed, 06 Oct 2021 07:47:18 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=PDWycpbyoB0</link>
+            <itunes:duration>00:41:33</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>17</itunes:episode>
+            <description>iOS 15 is released. Xcode 13 is. So is Swift 5.5. And new SDKs. Together with Vladimir Burdukov we're discussing recent changes and overall impressions of modern day development for iOS and other Apple platforms.
+How new SDK affects normal apps? What's wrong with new concurrency features? SwiftUI – are we there yet?
+
+Today's co-host: Vladimir Burdukov, EPAM Systems, https://twitter.com/chippcheg
+
+Watch this episode: https://www.youtube.com/watch?v=PDWycpbyoB0
+</description>
+            <itunes:subtitle>Two old developers yell at cloud. And discuss modern development.</itunes:subtitle>
+            <content:encoded><![CDATA[iOS 15 is released. Xcode 13 is. So is Swift 5.5. And new SDKs. Together with Vladimir Burdukov we're discussing recent changes and overall impressions of modern day development for iOS and other Apple platforms.<br/><br/>
+How new SDK affects normal apps? What's wrong with new concurrency features? SwiftUI – are we there yet?<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=PDWycpbyoB0">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1136830000-mobilepeopletalks-whats-new-for-developers.mp3" length="76769348"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0118d</guid>
+            <title>Oct 19, 2021 – Pet projects and open source</title>
+            <pubDate>Wed, 20 Oct 2021 05:25:56 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=XOJXEimbVZ0</link>
+            <itunes:duration>00:37:59</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>18</itunes:episode>
+            <description>We've invited Alex Grebenyuk to discuss pet projects, open source activities, problems and benefits. How to find time, how to contribute and how to pay respects to those who publish their work.
+Also we share our first impressions on Apple's special event and plan next upgrades.
+
+Our guest: Alex Grebenyuk, author of Nuke, Pulse, Align, https://twitter.com/a_grebenyuk
+
+Today's co-host: Vladimir Burdukov, EPAM Systems, https://twitter.com/chippcheg
+
+Useful links:
+Blog - https://kean.blog
+Pulse - https://github.com/kean/Pulse
+Nuke - https://github.com/kean/Nuke
+
+Watch this episode: https://www.youtube.com/watch?v=XOJXEimbVZ0
+</description>
+            <itunes:subtitle>Sometimes developers help open source projects, sometimes.. open source projects help developers.</itunes:subtitle>
+            <content:encoded><![CDATA[We've invited Alex Grebenyuk to discuss pet projects, open source activities, problems and benefits. How to find time, how to contribute and how to pay respects to those who publish their work.<br/><br/>
+Also we share our first impressions on Apple's &quot;Unleashed.&quot; Special event and plan next upgrades.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=XOJXEimbVZ0">YouTube</a>.<br/><br/>
+Our guest:<br/>
+Alex Grebenyuk, author of Nuke, Pulse, Align, <a href="https://twitter.com/a_grebenyuk">@a_grebenyuk</a>.<br/><br/>
+Useful links:<br/>
+<a href="https://kean.blog">Blog</a><br/><br/>
+<a href="https://github.com/kean/Pulse">Pulse</a><br/><br/>
+<a href="https://github.com/kean/Nuke">Nuke</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1144778359-mobilepeopletalks-pet-projects-and-open-source.mp3" length="54717044"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0119d</guid>
+            <title>Nov 2, 2021 – Kotlin Multiplatform Mobile</title>
+            <pubDate>Wed, 03 Nov 2021 07:22:40 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=3-e8dEf2WYE</link>
+            <itunes:duration>00:46:44</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>19</itunes:episode>
+            <description>Kotlin Multiplatform Mobile got some updates recently. We invited Anna Zharkova, Kotlin GDE to discuss it and compare to Swift.
+We're discussing Kotlin and Swift from developers' perspective, looking for similarities and differences. And, also, looking into mobile platforms' communities.
+
+Our guest: Anna Zharkova, Kotlin GDE, Lead Mobile Developer iOS/Android, https://twitter.com/anioutkajarkova
+
+Useful links:
+Info - https://anioutkazharkova.github.io
+Telegram channel - https://t.me/prettygeeknotes
+Blog - https://anioutkazharkova.medium.com
+
+Watch this episode: https://www.youtube.com/watch?v=3-e8dEf2WYE
+</description>
+            <itunes:subtitle>Apple Treats talks ... Kotlin?.. Yes. But no worries. We're covering Swift too.</itunes:subtitle>
+            <content:encoded><![CDATA[Kotlin Multiplatform Mobile got some updates recently. We invited Anna Zharkova, Kotlin GDE to discuss it and compare to Swift.<br/><br/>
+                We're discussing Kotlin and Swift from developers' perspective, looking for similarities and differences. And, also, looking into mobile platforms' communities.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=3-e8dEf2WYE">YouTube</a>.<br/><br/>
+Our guest:<br/>
+Anna Zharkova, Kotlin GDE, Lead Mobile Developer iOS/Android, <a href="https://twitter.com/anioutkajarkova">@anioutkajarkova</a><br/><br/>
+Useful links:<br/>
+<a href="https://anioutkazharkova.github.io">Info</a><br/><br/>
+<a href="https://t.me/prettygeeknotes">Telegram channel</a><br/><br/>
+<a href="https://anioutkazharkova.medium.com">Blog</a><br/><br/>
+Podcast host:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1152956035-mobilepeopletalks-s01e19-kmm.mp3" length="88228467"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0120d</guid>
+            <title>Nov 16, 2021 – Platforms and services</title>
+            <pubDate>Wed, 17 Nov 2021 07:50:20 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=J2zlDsaEBfg</link>
+            <itunes:duration>00:52:34</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>20</itunes:episode>
+            <description>Apple made couple of interesting announces and released couple of updates which affect us, developers. Business essentials program and updates in macOS and iOS, SharePlay and ProMotion displays – we got it covered.
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=J2zlDsaEBfg
+</description>
+            <itunes:subtitle>Apple Treats talks ... Kotlin?.. Yes. But no worries. We're covering Swift too.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple made couple of interesting announces and released couple of updates which affect us, developers. <a href="https://mobilepeople.news/blog/2021/11/apple-launches-business-essentials-program/">Business essentials program</a> and <a href="https://mobilepeople.news/blog/2021/11/new-beta-for-ios-macos-and-other-oses-are-published/">updates in macOS and iOS</a>, <a href="https://mobilepeople.news/blog/2021/10/macos-12-1-beta-is-released-with-shareplay-enabled/">SharePlay</a> and <a href="https://mobilepeople.news/blog/2021/11/safari-technology-preview-135-adds-support-for-120hz-promotion-displays-on-new-macbooks/">ProMotion displays</a> – we got it covered.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=J2zlDsaEBfg">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1161723358-mobilepeopletalks-at-s01e20-platforms-and-services.mp3" length="104513291"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0121d</guid>
+            <title>Nov 30, 2021 – Lawsuits and frameworks</title>
+            <pubDate>Tue, 30 Nov 2021 16:26:35 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=3VLKTGakz_w</link>
+            <itunes:duration>00:46:30</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>21</itunes:episode>
+            <description>Some say these were slow weeks in Apple developers' world... Probably not so much.
+Apple sues NSO Group and launches two programs – Self Service Repairs and MacBook Upgrade. New beta versions are here. And some cool third party frameworks are here too – they're even open-sourced. Let's dive in!
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=3VLKTGakz_w
+</description>
+            <itunes:subtitle>Some say these were slow weeks in Apple developers' world... Probably not so much.</itunes:subtitle>
+            <content:encoded><![CDATA[<a href="https://mobilepeople.news/blog/2021/11/apple-sues-nso-group-over-spyware-and-imessage-exploits/">Apple sues NSO Group</a> and launches two programs – <a href="https://mobilepeople.news/blog/2021/11/apple-announces-self-service-repair-program/">Self Service Repairs</a> and <a href="https://mobilepeople.news/blog/2021/11/apple-launches-macbook-upgrade-program-for-business-partners/">MacBook Upgrade</a>. <a href="https://mobilepeople.news/blog/2021/11/next-round-of-betas-is-released-for-ios-and-other-platforms/">New beta versions</a> are here. And <a href="https://mobilepeople.news/blog/2021/11/spotify-releases-xcremotecache-to-public/">some</a> <a href="https://mobilepeople.news/blog/2021/11/point-free-open-sources-swiftui-navigation/">cool</a> third party frameworks are here too – they're even open-sourced. Let's dive in!<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=3VLKTGakz_w">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1169351611-mobilepeopletalks-s01e21-lawsuits-and-frameworks.mp3" length="88466075"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0122d</guid>
+            <title>Dec 14, 2021 – Betas and education</title>
+            <pubDate>Wed, 15 Dec 2021 09:47:39 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=PCDfOCyV1Cc</link>
+            <itunes:duration>00:53:52</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>22</itunes:episode>
+            <description>Apple publishes new OS releases just before the show. So these are no longer betas. Meanwhile, Apple partners with Boys &amp; Girls Clubs of America to teach kids how to code.
+
+And, yes, we're talking privacy. Again.
+
+This and all other Apple news for these two weeks.
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=PCDfOCyV1Cc
+</description>
+            <itunes:subtitle>We expected this episode to be short. We were wrong.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple publishes new OS releases just before the show. So these are no longer betas. Meanwhile, Apple partners with Boys &amp; Girls Clubs of America to teach kids how to code.<br/><br/>
+And, yes, we're talking privacy. Again.<br/><br/>
+This and all other Apple news for these two weeks.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=PCDfOCyV1Cc">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1178214232-mobilepeopletalks-betas-and-education.mp3" length="101846700"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0123d</guid>
+            <title>Dec 28, 2021 – New Year resolutions</title>
+            <pubDate>Wed, 29 Dec 2021 07:36:12 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=GdaWQ6dZUBA</link>
+            <itunes:duration>01:20:16</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>23</itunes:episode>
+            <description>For the finishing episode of the season we decided to look into next year. For the New Year some developers might want to see new Swift IDE to be released. And so... we've invited Marcin Krzyżanowski to discuss Swift Studio. And we even show it real life (you might want to watch this episode too).
+
+Was it hard to build new IDE? What is the main purpose of Swift Studio? How does recent VSCode Swift extension affects the development?
+
+And finally – when it is going to be released? :)
+
+Our guest:
+Marcin Krzyżanowski, Swift Studio founder, https://twitter.com/krzyzanowskim
+
+Personal projects: https://swift.best
+
+GitHub: https://github.com/krzyzanowskim
+
+Sponsor Marcin: https://github.com/sponsors/krzyzanowskim
+
+Judo app: https://www.judo.app
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=GdaWQ6dZUBA
+</description>
+            <itunes:subtitle>Season finale! It is almost 2022. Let's make our New Year resolutions... and discuss Swift Studio :)</itunes:subtitle>
+            <content:encoded><![CDATA[For the finishing episode of the season we decided to look into next year. For the New Year some developers might want to see new Swift IDE to be released. And so... we've invited Marcin Krzyżanowski to discuss Swift Studio. And we even show it real life (you might want to watch this episode too).<br/><br/>
+Was it hard to build new IDE? What is the main purpose of Swift Studio? How does recent VSCode Swift extension affects the development?<br/><br/>
+And finally – when it is going to be released? :)<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=GdaWQ6dZUBA">YouTube</a>.<br/><br/>
+Our guest:<br/>
+Marcin Krzyżanowski, Swift Studio founder, <a href="https://twitter.com/krzyzanowskim">@krzyzanowskim</a><br/><br/>
+<a href="https://swift.best">Personal projects</a><br/><br/>
+<a href="https://github.com/krzyzanowskim">GitHub</a><br/><br/>
+<a href="https://github.com/sponsors/krzyzanowskim">Sponsor Marcin</a><br/><br/>
+<a href="https://www.judo.app">Judo app</a><br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1186559065-mobilepeopletalks-s01e23-new-year-resolutions.mp3" length="152911258"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0201d</guid>
+            <title>Winter updates</title>
+            <pubDate>Wed, 09 Feb 2022 07:30:23 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=5lWbKUOT42w</link>
+            <itunes:duration>00:44:23</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>We're back! With great new co-host! Probably, with some new podcast sections. And with more fun :)
+
+Let's review, what happened in the winter for Apple developers. And there is a lot, actually. Unlisted app distribution, new releases and betas, South Korea and Netherlands and much more.
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+- Svetlana Shardakova: software engineer at EPAM Systems, http://instagram.com/sunny_junne
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=5lWbKUOT42w
+</description>
+            <itunes:subtitle>We're back! With great new co-host! </itunes:subtitle>
+            <content:encoded><![CDATA[Probably, with some new podcast sections. And with more fun :)<br/><br/>
+Let's review, what happened in the winter for Apple developers. And there is a lot, actually. Unlisted app distribution, new releases and betas, South Korea and Netherlands and much more.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=5lWbKUOT42w">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Svetlana Shardakova: software engineer at EPAM Systems, Instagram <a href="http://instagram.com/sunny_junne">@sunny_junne</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1212534607-mobilepeopletalks-winter-updates.mp3" length="88242780"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0202d</guid>
+            <title>WWDC22 personal favorites</title>
+            <pubDate>Thu, 21 Jul 2022 20:15:24 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=d7PoEbtPI0I</link>
+            <itunes:duration>00:43:32</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>Apple Treats returns to regular programming with episode on WWDC22.
+Yes... Better late than never.
+
+We're discussing our own personal favorite announcements of WWDC22. Kind of clunky episode, though. :)
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+- Svetlana Shardakova: software engineer at EPAM Systems, http://instagram.com/sunny_junne
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=d7PoEbtPI0I
+</description>
+            <itunes:subtitle>Apple Treats returns to regular programming with episode on WWDC22.</itunes:subtitle>
+            <content:encoded><![CDATA[Yes... Better late than never.<br/><br/>
+We're discussing our own personal favorite announcements of WWDC22. Kind of clunky episode, though. :)<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=d7PoEbtPI0I">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Svetlana Shardakova: software engineer at EPAM Systems, Instagram <a href="http://instagram.com/sunny_junne">@sunny_junne</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1309484170-mobilepeopletalks-s02e02-wwdc22.mp3" length="83460315"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0203d</guid>
+            <title>Waiting for the release</title>
+            <pubDate>Fri, 19 Aug 2022 00:10:52 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=UokRBCjbo8M</link>
+            <itunes:duration>00:48:01</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>It's August. We're all waiting for the big releases to happen next months.
+                
+And the only thing we could do today is go through current news and updates for Apple developers. Market reports, Swift community news, interesting features in new beta versions, and even some good news in Apple Pay.
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+
+Interesting links:
+- Mozilla Foundation report: https://foundation.mozilla.org/en/privacynotincluded/categories/reproductive-health/
+- Figma Preview for SwiftUI: https://github.com/eDeniska/figma-preview-swiftui
+- Stuff app: https://github.com/eDeniska/stuff-app
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=UokRBCjbo8M
+</description>
+            <itunes:subtitle>We're working on some new activities on the podcast. But those are not yet ready.</itunes:subtitle>
+            <content:encoded><![CDATA[It's August. We're all waiting for the big releases to happen next months.<br/><br/>
+And the only thing we could do today is go through current news and updates for Apple developers. Market reports, Swift community news, interesting features in new beta versions, and even some good news in Apple Pay.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=UokRBCjbo8M">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Interesting links:<br/>
+<a href="https://foundation.mozilla.org/en/privacynotincluded/categories/reproductive-health/">Mozilla Foundation report</a><br/><br/>
+<a href="https://github.com/eDeniska/figma-preview-swiftui">Figma Preview for SwiftUI</a><br/><br/>
+<a href="https://github.com/eDeniska/stuff-app">Stuff app</a><br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1326783853-mobilepeopletalks-s02e03-waiting-for-the-release.mp3" length="88568227"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0204d</guid>
+            <title>Looking far out</title>
+            <pubDate>Thu, 08 Sep 2022 21:04:59 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=aZ5Ke7KZNBU</link>
+            <itunes:duration>00:52:27</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>Apple announced new Apple Watches, AirPods and iPhones on 'Far Out.' special event. Podcast team goes through all of the announcements and reflects on possible signs of new features during WWDC22.
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+- Svetlana Shardakova: software engineer at EPAM Systems, http://instagram.com/sunny_junne
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=aZ5Ke7KZNBU
+</description>
+            <itunes:subtitle>We've just seen Far Out. Are you excited about Dynamic Island or Ultra watch?..</itunes:subtitle>
+            <content:encoded><![CDATA[Apple announced new Apple Watches, AirPods and iPhones on 'Far Out.' special event. Podcast team goes through all of the announcements and reflects on possible signs of new features during WWDC22.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=aZ5Ke7KZNBU">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Svetlana Shardakova: software engineer at EPAM Systems, Instagram <a href="http://instagram.com/sunny_junne">@sunny_junne</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1340321836-mobilepeopletalks-s02-e04-looking-far-out.mp3" length="99971375"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0205d</guid>
+            <title>All the news</title>
+            <pubDate>Thu, 20 Oct 2022 18:56:15 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=QPWe4v092pA</link>
+            <itunes:duration>00:41:47</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <description>We're back with couple of recent updates. New iPads are weird. Especially, the pencil. Macros are coming to Swift. iPhones are dominating in US and iOS 16 adoption is also good.
+And all other news important to developers.
+
+Useful links:
+- A Possible Vision for Macros in Swift: https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71
+
+- Forum discussion: https://forums.swift.org/t/a-possible-vision-for-macros-in-swift/60900
+                
+- Compiling Swift Generics: http://download.swift.org/docs/assets/generics.pdf
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=QPWe4v092pA
+</description>
+            <itunes:subtitle>Long time no see... We've got something to talk about.</itunes:subtitle>
+            <content:encoded><![CDATA[We're back with couple of recent updates. New iPads are weird. Especially, the pencil. Macros are coming to Swift. iPhones are dominating in US and iOS 16 adoption is also good.<br/>
+And all other news important to developers.<br/><br/>
+Useful links:<br/>
+<a href="https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71">A Possible Vision for Macros in Swift</a> (<a href="https://forums.swift.org/t/a-possible-vision-for-macros-in-swift/60900">Forum discussion</a>)<br/><br/>
+<a href="http://download.swift.org/docs/assets/generics.pdf">Compiling Swift Generics</a> (PDF)<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=QPWe4v092pA">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1366973701-mobilepeopletalks-all-the-news.mp3" length="79312731"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0206d</guid>
+            <title>No special event November</title>
+            <pubDate>Thu, 17 Nov 2022 20:18:18 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=tq97UZiVHoE</link>
+            <itunes:duration>00:47:46</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <description>We decided to talk about current news. Fears of recession, new beta versions, Stage Manager in production, SwiftUI on Mac. Not much news to report, but still a lot to discuss. And we’ve even tried Continuity Camera for the first time at podcast. Check out, how it went.
+
+Useful links:
+A companion for SwiftUI: https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=tq97UZiVHoE
+</description>
+            <itunes:subtitle>We’ve waited for a month, but Apple did not have any special events for Macs this year.</itunes:subtitle>
+            <content:encoded><![CDATA[We decided to talk about current news. Fears of recession, new beta versions, Stage Manager in production, SwiftUI on Mac. Not much news to report, but still a lot to discuss. And we’ve even tried Continuity Camera for the first time at podcast. Check out, how it went.<br/><br/>
+Useful links:<br/>
+<a href="https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12">A companion for SwiftUI</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=tq97UZiVHoE">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1385264596-mobilepeopletalks-no-special-event-november.mp3" length="90626682"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0207d</guid>
+            <title>Holiday Special</title>
+            <pubDate>Thu, 29 Dec 2022 22:08:43 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=nUWPqJHHfwg</link>
+            <itunes:duration>00:58:59</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <description>2022 is almost over. Podcast team gathered together in a festive mood to look into the year from developer's perspective.
+
+What devices captured our attention, events, new features?.. And also, couple of the recent news which definitely needed our attention.
+
+Happy holidays everybody! And see you next year!
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=nUWPqJHHfwg
+</description>
+            <itunes:subtitle>2022 is almost over. Podcast team gathered together in a festive mood to look into the year from developer's perspective.</itunes:subtitle>
+            <content:encoded><![CDATA[2022 is almost over. Podcast team gathered together in a festive mood to look into the year from developer's perspective.<br/><br/>
+What devices captured our attention, events, new features?.. And also, couple of the recent news which definitely needed our attention.<br/><br/>
+Happy holidays everybody! And see you next year!<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=nUWPqJHHfwg">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1412620621-mobilepeopletalks-holiday-special.mp3" length="111608264"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0301</guid>
+            <title>International Women's Day</title>
+            <pubDate>Wed, 08 Mar 2023 21:04:16 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=dLcF_fxErRw</link>
+            <itunes:duration>00:49:26</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>Apple Treats is back! Finally! And we have another special episode devoted to International Women's Day!
+                
+We invited Natalia Penferova (from Nil Coalescing) to talk about development, books and IT community and general.
+This was really nice and inspiring talk with some interesting insights on how to get recognized by big companies or how to actually start to write a book. :)
+
+Useful links:
+Natalia Panferova: https://twitter.com/natpanferova and https://mastodon.cloud/@natpanferova
+Exsto app: https://apps.apple.com/app/apple-store/id6444933770
+Nil Coalescing blog: https://nilcoalescing.com/blog/
+Integrating SwiftUI into UIKit Apps book: https://books.nilcoalescing.com/integrating-swiftui
+
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=dLcF_fxErRw
+</description>
+            <itunes:subtitle>Apple Treats is back! Finally! And we have another special episode devoted to International Women's Day!</itunes:subtitle>
+            <content:encoded><![CDATA[Apple Treats is back! Finally! And we have another special episode devoted to International Women's Day!<br/><br/>
+We invited Natalia Penferova (from Nil Coalescing) to talk about development, books and IT community and general.<br/><br/>
+This was really nice and inspiring talk with some interesting insights on how to get recognized by big companies or how to actually start to write a book. :)<br/><br/>
+Useful links:<br/><br/>
+Natalia Panferova: Twitter <a href="https://twitter.com/natpanferova">@pantpanferova</a>, Mastodon <a href="https://mastodon.cloud/@natpanferova">@natpanferova@mastodon.cloud</a><br/><br/>
+<a href="https://apps.apple.com/app/apple-store/id6444933770">Exsto app</a><br/><br/>
+<a href="https://nilcoalescing.com/blog/">Nil Coalescing blog</a><br/><br/>
+<a href="https://books.nilcoalescing.com/integrating-swiftui">Integrating SwiftUI into UIKit Apps book</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=dLcF_fxErRw">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1464372628-mobilepeopletalks-international-womens-day.mp3" length="90395122"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0302</guid>
+            <title>Let's chat about GPT</title>
+            <pubDate>Thu, 06 Apr 2023 18:17:10 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=o9lVWnZcrL4</link>
+            <itunes:duration>00:49:26</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>The world is going crazy about generative machine learning models. Now it's not just funny profile pictures, but also chat bots. Or answering machines. Or even junior developers.
+                
+Let's check what's this hype is all about. What are these large language models are capable of? How could they affect mobile apps? And what is the future of software development?
+
+And, yes, we're about our expectations for WWDC23.
+
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=o9lVWnZcrL4
+</description>
+            <itunes:subtitle>The world is going crazy about generative machine learning models. Let's check what's this hype is all about.</itunes:subtitle>
+            <content:encoded><![CDATA[The world is going crazy about generative machine learning models. Now it's not just funny profile pictures, but also chat bots. Or answering machines. Or even junior developers.<br/><br/>
+Let's check what's this hype is all about. What are these large language models are capable of? How could they affect mobile apps? And what is the future of software development?<br/><br/>
+And, yes, we're about our expectations for WWDC23.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=o9lVWnZcrL4">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1486749127-mobilepeopletalks-s03e02-lets-chat-about-gpt.mp3" length="94834006"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0303</guid>
+            <title>New Hope</title>
+            <pubDate>Thu, 01 Jun 2023 17:45:07 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=IhXiDJTzQps</link>
+            <itunes:duration>00:57:11</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>WWDC23 is just around the corner. Apple Treats team hopes that there will be some new hype. XR headset? Maybe. New Swift features – definitely. Something else – for sure.
+
+We're playing prediction games – what are we actually expecting from WWDC this year. We'll revise our predictions in the next episode.
+
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+All our links: https://linktr.ee/AppleTreats
+
+Watch this episode: https://www.youtube.com/watch?v=IhXiDJTzQps
+</description>
+            <itunes:subtitle>What would WWDC23 bring us?</itunes:subtitle>
+            <content:encoded><![CDATA[WWDC23 is just around the corner. Apple Treats team hopes that there will be some new hype. XR headset? Maybe. New Swift features – definitely. Something else – for sure.<br/><br/>
+                We're playing prediction games – what are we actually expecting from WWDC this year. We'll revise our predictions in the next episode.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=IhXiDJTzQps">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1528064773-mobilepeopletalks-s03e03-new-hope.mp3" length="109301885"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0304</guid>
+            <title>Spatial computing!</title>
+            <pubDate>Wed, 14 Jun 2023 17:51:19 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=wQ-4ClIvf7U</link>
+            <itunes:duration>01:06:18</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>We're yet processing everything we've seen and heard at WWDC23. This was a truly packed event. And now we have to learn new thing – spatial computing. What it is, what it is for and many other questions.
+                
+We're also reflecting on other announcements made at WWDC – new watchOS design language, SwiftData, SwiftUI observables, Swift macros and many other big and small changes across Apple platforms.
+
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+All our links: https://linktr.ee/AppleTreats
+
+Watch this episode: https://www.youtube.com/watch?v=wQ-4ClIvf7U
+</description>
+            <itunes:subtitle>Vision Pro and other WWDC23 announcements.</itunes:subtitle>
+            <content:encoded><![CDATA[We're yet processing everything we've seen and heard at WWDC23. This was a truly packed event. And now we have to learn new thing – spatial computing. What it is, what it is for and many other questions.<br/><br/>
+                We're also reflecting on other announcements made at WWDC – new watchOS design language, SwiftData, SwiftUI observables, Swift macros and many other big and small changes across Apple platforms.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=wQ-4ClIvf7U">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1539944137-mobilepeopletalks-spatial-computing.mp3" length="130773523"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0305</guid>
+            <title>Wonders of the fall</title>
+            <pubDate>Thu, 14 Sep 2023 18:18:19 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=HFb_tEw-z_o</link>
+            <itunes:duration>00:43:59</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <description>It's been a long time, we get it. Finally, Apple hosts their regular annual event. New devices, new things to talk about.
+Let's go through the announcements and also discuss everything happened this summer.
+
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+                 
+Daily source of mobile news: https://mobilepeople.news
+                 
+Don't forget to subscribe:
+Linktree: https://linktr.ee/AppleTreats
+Twitter: https://twitter.com/AppleTreatsNews
+Telegram: https://t.me/AppleTreatsNews
+Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+Watch this episode: https://www.youtube.com/watch?v=HFb_tEw-z_o
+</description>
+            <itunes:subtitle>Wonderlust Apple Special Event recap.</itunes:subtitle>
+            <content:encoded><![CDATA[It's been a long time, we get it. Finally, Apple hosts their regular annual event. New devices, new things to talk about.<br/><br/>
+                Let's go through the announcements and also discuss everything happened this summer.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=HFb_tEw-z_o">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1616602752-mobilepeopletalks-s03e05-wonders-of-the-fall.mp3" length="87502983"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0306</guid>
+            <title>2023 in review</title>
+            <pubDate>Thu, 28 Dec 2023 17:51:19 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=Y8mhPH5O7x4</link>
+            <itunes:duration>01:01:16</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <description>Season finale. Podcast team discusses all the news and updates for Apple developers happened in 2023.
+
+New devices, new frameworks, new regulations. And almost no predictions for 2024.
+                
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+Daily source of mobile news: https://mobilepeople.news
+
+Don't forget to subscribe:
+Linktree: https://linktr.ee/AppleTreats
+Twitter: https://twitter.com/AppleTreatsNews
+Telegram: https://t.me/AppleTreatsNews
+Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+Watch this episode: https://www.youtube.com/watch?v=Y8mhPH5O7x4
+            </description>
+            <itunes:subtitle>Season finale. Podcast team discusses all the news and updates for Apple developers happened in 2023.</itunes:subtitle>
+            <content:encoded><![CDATA[Season finale. Podcast team discusses all the news and updates for Apple developers happened in 2023.<br/><br/>
+New devices, new frameworks, new regulations. And almost no predictions for 2024.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=Y8mhPH5O7x4">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1702148313-mobilepeopletalks-s03e06-2023-in-review.mp3" length="88242595"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0401a</guid>
+            <title>Acedemical Studies</title>
+            <pubDate>Thu, 15 Feb 2024 22:35:55 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=KYOZ_WPtqjE</link>
+            <itunes:duration>00:45:34</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>Together with Svetlana Shardakova we talk about her experience at Apple Developer Academy in Naples.
+                
+And.. there is a small tease for our next episode :)
+
+The Apple Developer Academy is a partnership between the University of Napoli Federico II and Apple.
+It is aimed at curious and open-minded learners from all around the world and from a wide range of backgrounds, every kind of different educational context and with diverse interests and passions to become world-class developers.
+
+The Apple Developer Academy is now welcoming applications for the a.y. 2024-2025.
+Apply on the official website:  https://www.developeracademy.unina.it/
+In case of additional questions contact with the Academy via an official mailbox developeracademy@unina.it
+
+The Apple Developer Academy offers two types of programs:
+• The foundation program, opened for university students, is an intensive 1-month course that covers specific topic areas.
+• The standard Academy program, opened for everyone, a 9-month educational course that dives deeper into all the skills necessary to become an app developer.
+
+Requirements:
+• A high school Diploma
+• 18 years of age by the start of the Academy
+• good English level
+
+Podcast guest:
+- Svetlana Shardakova, iOS developer, Apple Developer Academy 23/24 year student, IoT fan and eco activist, https://instagram.com/sunny_junne
+                
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+
+Daily source of mobile news: https://mobilepeople.news
+
+Don't forget to subscribe:
+Linktree: https://linktr.ee/AppleTreats
+Twitter: https://twitter.com/AppleTreatsNews
+Telegram: https://t.me/AppleTreatsNews
+Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+Watch this episode: https://www.youtube.com/watch?v=KYOZ_WPtqjE
+            </description>
+            <itunes:subtitle>New Season! Podcast team discusses Apple Developer Academy.</itunes:subtitle>
+            <content:encoded><![CDATA[Together with Svetlana Shardakova we talk about her experience at Apple Developer Academy in Naples.<br/><br/>
+And.. there is a small tease for our next episode :)<br/><br/>
+The Apple Developer Academy is a partnership between the University of Napoli Federico II and Apple.<br/><br/>
+It is aimed at curious and open-minded learners from all around the world and from a wide range of backgrounds, every kind of different educational context and with diverse interests and passions to become world-class developers.<br/><br/>
+The Apple Developer Academy is now welcoming applications for the a.y. 2024-2025.<br/><br/>
+Apply on the official <a href="https://www.developeracademy.unina.it/">website</a>.<br/><br/>
+In case of additional questions contact with the Academy via an official mailbox <a href="mailto:developeracademy@unina.it">developeracademy@unina.it</a><br/><br/>
+<br/><br/>The Apple Developer Academy offers two types of programs:
+<ul>
+<li>The foundation program, opened for university students, is an intensive 1-month course that covers specific topic areas.
+<li>The standard Academy program, opened for everyone, a 9-month educational course that dives deeper into all the skills necessary to become an app developer.
+</ul><br/>
+Requirements:
+<ul>
+<li>A high school Diploma
+<li>18 years of age by the start of the Academy
+<li>good English level
+</ul><br/>
+Podcast guest:<br/>
+- Svetlana Shardakova, iOS developer, Apple Developer Academy 23/24 year student, IoT fan and eco activist, <a href="https://instagram.com/sunny_junne">@sunny_junne</a>.
+Watch this episode on <a href="https://www.youtube.com/watch?v=KYOZ_WPtqjE">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast host:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1748366466-mobilepeopletalks-s04e01-acedemical-studies.mp3" length="87506362"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0402</guid>
+            <title>Visions of the future</title>
+            <pubDate>Thu, 14 Mar 2024 23:10:37 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=6-N1Iz_LVK4</link>
+            <itunes:duration>01:08:05</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>Finally! Apple Treats reviews Vision Pro. What's it like to work with Vision Pro? What are development challenges?
+
+And just general impressions of all the features, capabilities and limitations.
+
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+Daily source of mobile news: https://mobilepeople.news
+
+Don't forget to subscribe:
+Linktree: https://linktr.ee/AppleTreats
+Twitter: https://twitter.com/AppleTreatsNews
+Telegram: https://t.me/AppleTreatsNews
+Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+Watch this episode: https://www.youtube.com/watch?v=6-N1Iz_LVK4
+            </description>
+            <itunes:subtitle>Apple Vision Pro! Yes, we're now sharing our experiences!</itunes:subtitle>
+            <content:encoded><![CDATA[Finally! Apple Treats reviews Vision Pro. What's it like to work with Vision Pro? What are development challenges?<br/><br/>
+And just general impressions of all the features, capabilities and limitations.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=KYOZ_WPtqjE">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1774933578-mobilepeopletalks-visions-of-the-future.mp3" length="130733374"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-sgFYcNmg69TAy60F-hqyqmA-t3000x3000.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0403</guid>
+            <title>WWDC24</title>
+            <pubDate>Thu, 13 Jun 2024 19:12:57 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=Ij0FImLaecg</link>
+            <itunes:duration>01:10:04</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>WWDC24 is here. Apple Treats goes through OS updates, Swift features and, of course, Apple Intelligence!
+
+                Podcast hosts:
+                - Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+                - Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+                Daily source of mobile news: https://appletreats.substack.com
+
+                Don't forget to subscribe:
+                Linktree: https://linktr.ee/AppleTreats
+                Twitter: https://twitter.com/AppleTreatsNews
+                Telegram: https://t.me/AppleTreatsNews
+                Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+                Watch this episode: https://www.youtube.com/watch?v=Ij0FImLaecg
+            </description>
+            <itunes:subtitle>Apple Treats reviews WWDC24 announcements!</itunes:subtitle>
+            <content:encoded><![CDATA[WWDC24 is here. Apple Treats goes through OS updates, Swift features and, of course, Apple Intelligence!<br/><br/>
+                Watch this episode on <a href="https://www.youtube.com/watch?v=Ij0FImLaecg">YouTube</a>.<br/><br/>
+                Your daily source of mobile news: <a href="https://appletreats.substack.com">AppleTreats.substack.com</a><br/><br/>
+                Podcast hosts:<br/>
+                Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+                Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+                All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1846815921-mobilepeopletalks-wwdc24.mp3" length="134537639"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0404</guid>
+            <title>2024 in review</title>
+            <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=_xbiNY-fnn0</link>
+            <itunes:duration>00:57:35</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>Apple Treats reviews 2024 – Apple Intelligence, Apple Vision Pro, Mac mini and a little bit of other stuff.
+
+                Podcast hosts:
+                - Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+                - Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+                Daily source of mobile news: https://appletreats.substack.com
+
+                Don't forget to subscribe:
+                Linktree: https://linktr.ee/AppleTreats
+                Twitter: https://twitter.com/AppleTreatsNews
+                Telegram: https://t.me/AppleTreatsNews
+                Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+                Watch this episode: https://www.youtube.com/watch?v=_xbiNY-fnn0
+            </description>
+            <itunes:subtitle>Team is back! And we might have another episode this year. Or not.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple Treats reviews 2024 – Apple Intelligence, Apple Vision Pro, Mac mini and a little bit of other stuff.<br/><br/>
+                Watch this episode on <a href="https://www.youtube.com/watch?v=_xbiNY-fnn0">YouTube</a>.<br/><br/>
+                Your daily source of mobile news: <a href="https://appletreats.substack.com">AppleTreats.substack.com</a><br/><br/>
+                Podcast hosts:<br/>
+                Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+                Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+                All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1981112631-mobilepeopletalks-2024-in-review.mp3" length="110570187"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-QjGLGyp8cxXju1Oi-wPXJEw-t3000x3000.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0501</guid>
+            <title>Monthly Update – February 2025</title>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=T6D2kFaH4PY</link>
+            <itunes:duration>00:42:13</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>5</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>Apple Treats returns with new kind of the episode – monthly updates. Or bi-monthly. Depends. Nevertheless, here are some news for Apple developers happened in 2025 so far.
+
+                Podcast host:
+                - Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+
+                Daily source of mobile news: https://appletreats.substack.com
+
+                Don't forget to subscribe:
+                Linktree: https://linktr.ee/AppleTreats
+
+                Watch this episode: https://www.youtube.com/watch?v=T6D2kFaH4PY
+
+                And here are the topics covered in this episode.
+
+                UK government orders Apple to create and provide iCloud backdoor - https://appletreats.substack.com/p/apple-no-longer-allows-uk-residents
+
+                Apple brings Apple Intelligence to Vision Pro with visionOS 2.4 beta 1 - https://appletreats.substack.com/p/apple-brings-apple-intelligence-to
+
+                Apple announces iPhone 16e - https://appletreats.substack.com/p/apple-announces-iphone-16e
+
+                Apple announces Powerbeats Pro 2 headphones with heart rate monitoring - https://appletreats.substack.com/p/apple-announces-powerbeats-pro-2
+
+                Apple releases Invites app - https://appletreats.substack.com/p/apple-releases-invite-app
+
+                Swift Student Challenge - https://appletreats.substack.com/p/swift-student-challenge-2025-has
+
+                Illinois residents now could use Apple Wallet to store their Driver’s License - https://appletreats.substack.com/p/illinois-residents-will-be-able-to
+
+                Asahi Linux developer lead resigns due to burnout and disagreements with Linux maintainers - https://appletreats.substack.com/p/asahi-linux-developer-lead-resigns
+
+                Parallels introduces x86 emulation support on Apple Silicon - https://appletreats.substack.com/p/parallels-introduces-x86-emulation
+
+                Apple releases iOS 18.3.1, macOS Sequoia 15.3.1 and other platforms - https://appletreats.substack.com/p/apple-releases-ios-183-macos-sequoia, https://appletreats.substack.com/p/apple-issues-updates-to-its-operating
+
+                Apple publishes iOS and iPadOS adoption statistics - https://appletreats.substack.com/p/76-of-modern-iphones-have-ios-18
+
+                Another alternative iOS marketplace launches in Europe - https://appletreats.substack.com/p/another-alternative-ios-marketplace
+
+                EU alternative iOS marketplace hosts adult-content application - https://appletreats.substack.com/p/eu-alternative-ios-marketplace-hosts
+
+                New legal requirements in App Store in Vietnam and South Korea - https://appletreats.substack.com/p/apple-announces-game-license-requirements, https://appletreats.substack.com/p/apple-announces-new-regulatory-requirements
+
+                Trader status becomes mandatory on App Store for EU app distribution - https://appletreats.substack.com/p/apple-warns-developers-about-trader, https://appletreats.substack.com/p/trader-status-requirement-is-in-effect
+
+                Apple announces price and tax updates for several regions in App Store - https://appletreats.substack.com/p/apple-announces-price-and-tax-updates-761
+
+                Apple announces updates on cryptography algorithms and certificates on App Store services - https://appletreats.substack.com/p/app-store-receipt-signing-intermediate, https://appletreats.substack.com/p/apple-warns-developers-on-apple-pay
+
+                Apple Push Notification service now provides more authentication key options - https://appletreats.substack.com/p/apple-push-notification-service-now
+
+                Apple announces Advanced Commerce API - https://appletreats.substack.com/p/apple-introduces-new-tools-for-in
+
+                Swift Build is now open source - https://appletreats.substack.com/p/apple-open-sources-swift-build
+
+                Swift team announces gRPC Swift 2 library - https://appletreats.substack.com/p/swift-team-announces-grpc-swift-2
+
+                Visual Studio Code Swift extension is now published on marketplace - https://appletreats.substack.com/p/visual-studio-code-swift-extension
+
+                Apple now allows to migrate digital purchases between Apple accounts - https://appletreats.substack.com/p/apple-clarifies-requirements-for
+
+                Emerge Tools announce Build Distribution service - https://appletreats.substack.com/p/emerge-tools-announce-build-distribution
+            </description>
+            <itunes:subtitle>New season, new episode, new format. Sort of. Getting back to basics.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple Treats returns with new kind of the episode – monthly updates. Or bi-monthly. Depends. Nevertheless, here are some news for Apple developers happened in 2025 so far.<br/><br/>
+                Watch this episode on <a href="https://www.youtube.com/watch?v=T6D2kFaH4PY">YouTube</a>.<br/><br/>
+                Your daily source of mobile news: <a href="https://appletreats.substack.com">AppleTreats.substack.com</a><br/><br/>
+                Podcast host:<br/>
+                Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+                All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.<br/><br/>
+                And here are the topics covered in this episode.<br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-no-longer-allows-uk-residents">UK government orders Apple to create and provide iCloud backdoor</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-brings-apple-intelligence-to">Apple brings Apple Intelligence to Vision Pro with visionOS 2.4 beta 1</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-announces-iphone-16e">Apple announces iPhone 16e</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-announces-powerbeats-pro-2">Apple announces Powerbeats Pro 2 headphones with heart rate monitoring</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-releases-invite-app">Apple releases Invites app</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/swift-student-challenge-2025-has">Swift Student Challenge</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/illinois-residents-will-be-able-to">Illinois residents now could use Apple Wallet to store their Driver’s License</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/asahi-linux-developer-lead-resigns">Asahi Linux developer lead resigns due to burnout and disagreements with Linux maintainers</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/parallels-introduces-x86-emulation">Parallels introduces x86 emulation support on Apple Silicon</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-issues-updates-to-its-operating">Apple releases iOS 18.3.1, macOS Sequoia 15.3.1 and other platforms</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/76-of-modern-iphones-have-ios-18">Apple publishes iOS and iPadOS adoption statistics</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/another-alternative-ios-marketplace">Another alternative iOS marketplace launches in Europe</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/eu-alternative-ios-marketplace-hosts">EU alternative iOS marketplace hosts adult-content application</a><br/><br/>
+                New legal requirements in App Store in <a href="https://appletreats.substack.com/p/apple-announces-game-license-requirements,">Vietnam</a> and <a href="https://appletreats.substack.com/p/apple-announces-new-regulatory-requirements">South Korea</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/trader-status-requirement-is-in-effect">Trader status becomes mandatory on App Store for EU app distribution</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-announces-price-and-tax-updates-761">Apple announces price and tax updates for several regions in App Store</a><br/><br/>
+                Apple announces updates on <a href="https://appletreats.substack.com/p/app-store-receipt-signing-intermediate">cryptography</a> <a href="https://appletreats.substack.com/p/apple-warns-developers-on-apple-pay">algorithms</a> and certificates on App Store services<br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-push-notification-service-now">Apple Push Notification service now provides more authentication key options</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-introduces-new-tools-for-in">Apple announces Advanced Commerce API</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-open-sources-swift-build">Swift Build is now open source</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/swift-team-announces-grpc-swift-2">Swift team announces gRPC Swift 2 library</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/visual-studio-code-swift-extension">Visual Studio Code Swift extension is now published on marketplace</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-clarifies-requirements-for">Apple now allows to migrate digital purchases between Apple accounts</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/emerge-tools-announce-build-distribution">Emerge Tools announce Build Distribution service</a>]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2039746856-mobilepeopletalks-monthly-update-february-2025.mp3" length="81086509"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-QjGLGyp8cxXju1Oi-wPXJEw-t3000x3000.png"/>
+        </item>
+    </channel>
+</rss>

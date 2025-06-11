@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[The Infra Pod]]></title>
+		<description><![CDATA[The Infra Pod brings you insightful and thought-provoking discussions on the world of infrastructure software. This podcast is started by two engineers, Ian Livingstone (tech advisor for Snyk) and Tim Chen (General Partner at Essence VC), team up with a rotating cast of guests to dive deep into the latest trends and hot topics in the software infrastructure space.]]></description>
+		<link>http://infrapod.io</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 10 Jun 2025 07:34:17 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/e25182bc/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[The Infra Pod]]></author>
+		<copyright><![CDATA[The Infra Pod]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>The Infra Pod</itunes:author>
+		<itunes:summary>The Infra Pod brings you insightful and thought-provoking discussions on the world of infrastructure software. This podcast is started by two engineers, Ian Livingstone (tech advisor for Snyk) and Tim Chen (General Partner at Essence VC), team up with a rotating cast of guests to dive deep into the latest trends and hot topics in the software infrastructure space.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>The Infra Pod</itunes:name>
+			<itunes:email>tim@essencevc.fund</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+		<item>
+			<title><![CDATA[Helping enterprises to adopt AI the real way - Chat with Hamel Hussain]]></title>
+			<description><![CDATA[<p>Ian and Tim host a conversation with Hamel Husain, an AI influencer and consultant who has worked with major tech companies like GitHub and Airbnb. They delve into Husain&#39;s journey to becoming an independent consultant, his insights on the common struggles with AI evaluation and data literacy, and his pragmatic approach to improving AI systems. The discussion also covers the importance of error analysis, measuring AI performance, and the evolving role of AI engineering in enhancing software development.00:23 Hamel&#39;s Background in AI and Machine Learning01:18 Challenges in AI and Machine Learning02:15 Importance of Data Literacy in AI04:02 Common Struggles in AI Development05:05 The Role of AI Engineers08:39 Focus on Processes Over Tools11:10 Error Analysis and Practical Examples15:52 Case Study: Improving AI Products26:05 The Role of Agents in AI</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Helping-enterprises-to-adopt-AI-the-real-way---Chat-with-Hamel-Hussain-e32v39m</link>
+			<guid isPermaLink="false">a72c5daf-e269-4f51-9712-24aed2f32bef</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Tue, 03 Jun 2025 04:15:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/102779638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2Fdbc537fe-6259-dd3f-4ef1-2916af98cf47.mp3" length="94184588" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim host a conversation with Hamel Husain, an AI influencer and consultant who has worked with major tech companies like GitHub and Airbnb. They delve into Husain&amp;#39;s journey to becoming an independent consultant, his insights on the common struggles with AI evaluation and data literacy, and his pragmatic approach to improving AI systems. The discussion also covers the importance of error analysis, measuring AI performance, and the evolving role of AI engineering in enhancing software development.00:23 Hamel&amp;#39;s Background in AI and Machine Learning01:18 Challenges in AI and Machine Learning02:15 Importance of Data Literacy in AI04:02 Common Struggles in AI Development05:05 The Role of AI Engineers08:39 Focus on Processes Over Tools11:10 Error Analysis and Practical Examples15:52 Case Study: Improving AI Products26:05 The Role of Agents in AI&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Owning both software and hardware to run the best cloud for deployment - Chat with Jake from Railway]]></title>
+			<description><![CDATA[<p>In this episode of the Infra Pod, Tim and Ian sit down with Jake, CEO of Railway, to explore how Railway is reinventing cloud deployment. </p><p><br></p><p>Jake shares the origin story of Railway, their unique approach to simplifying cloud deployments, and the innovations that separate Railway from traditional cloud providers. With a focus on developer experience, cost efficiency, and leveraging hard-to-build technologies, Jake outlines Railway&#39;s journey from supporting small projects to attracting large-scale enterprises. The discussion delves into organizational strategies, technical challenges, and the potential future impact of AI on cloud infrastructure management.00:22 Railway&#39;s Mission and Approach22:45 Deep Dive into Orchestration and Kernel-Level Work30:07 Leveraging AI and In-House Tools31:55 The Spicy Future: Hot Takes and Predictions</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Owning-both-software-and-hardware-to-run-the-best-cloud-for-deployment---Chat-with-Jake-from-Railway-e326172</link>
+			<guid isPermaLink="false">b226d00b-4d26-4fe1-a730-95637220da41</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/101958306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-29%2F306af3cd-6046-8336-9a60-9b9d1773ab44.mp3" length="96466772" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the Infra Pod, Tim and Ian sit down with Jake, CEO of Railway, to explore how Railway is reinventing cloud deployment. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jake shares the origin story of Railway, their unique approach to simplifying cloud deployments, and the innovations that separate Railway from traditional cloud providers. With a focus on developer experience, cost efficiency, and leveraging hard-to-build technologies, Jake outlines Railway&amp;#39;s journey from supporting small projects to attracting large-scale enterprises. The discussion delves into organizational strategies, technical challenges, and the potential future impact of AI on cloud infrastructure management.00:22 Railway&amp;#39;s Mission and Approach22:45 Deep Dive into Orchestration and Kernel-Level Work30:07 Leveraging AI and In-House Tools31:55 The Spicy Future: Hot Takes and Predictions&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Bring Your Own Cloud (BYOC) tide is coming! Chat with Jon from Nuon]]></title>
+			<description><![CDATA[<p>Tim from Essence and Ian dive deep into why Bring Your Own Cloud (BYOC) is now getting hot with special guest Jon Morehouse, CEO of Nuon. The discussion traverses Jon's journey to founding Nuon, the significance and complexities of BYOC, and the emerging trends shaping the future of software deployment. Jon shares insights on the shifting paradigms in SaaS, the integration of AI in BYOC models, and the evolving conversations in the boardroom that are driving these changes.00:00 Introduction00:27 John Morehouse's Journey03:14 Understanding Bring Your Own Cloud12:55 Challenges in BYOC Implementation17:40 Pricing and Packaging of BYOC28:33 The Future of BYOC and AI</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/The-Bring-Your-Own-Cloud-BYOC-tide-is-coming--Chat-with-Jon-from-Nuon-e31gdfr</link>
+			<guid isPermaLink="false">eda35c7f-1191-49c0-96dd-efb5bc6b5eb3</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 05 May 2025 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/101249979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-14%2F14ddd802-446c-8602-cfc2-f8690fb7a8b1.mp3" length="89918528" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Tim from Essence and Ian dive deep into why Bring Your Own Cloud (BYOC) is now getting hot with special guest Jon Morehouse, CEO of Nuon. The discussion traverses Jon&apos;s journey to founding Nuon, the significance and complexities of BYOC, and the emerging trends shaping the future of software deployment. Jon shares insights on the shifting paradigms in SaaS, the integration of AI in BYOC models, and the evolving conversations in the boardroom that are driving these changes.00:00 Introduction00:27 John Morehouse&apos;s Journey03:14 Understanding Bring Your Own Cloud12:55 Challenges in BYOC Implementation17:40 Pricing and Packaging of BYOC28:33 The Future of BYOC and AI&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[AI needs a browser infra! Chat with Paul from Browserbase]]></title>
+			<description><![CDATA[<p>In this episode of the Infra Pod, Tim from Essence and Ian Livingston host Paul Klein, CEO of Browser Base, to discuss the intricacies and future of browser automation, the challenges of running headless browsers, and the emergence of AI-driven web agents.00:29 What's Browserbase?01:20 Challenges with Headless Browsers02:57 AI Agents and Headless Browsers09:21 The Future of Browser Automation13:26 Technical Challenges in Browser Automation18:10 Differences between Browserbase and Other Tools21:12 Addressing Use Cases and Developer Experience</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/AI-needs-a-browser-infra--Chat-with-Paul-from-Browserbase-e30jlc2</link>
+			<guid isPermaLink="false">1ae7d678-a13d-4da9-a13c-5b52a7e889a1</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 21 Apr 2025 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/100307778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-24%2F358fa400-39d0-db76-f2f7-4dc4d3bc07b8.mp3" length="109593728" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the Infra Pod, Tim from Essence and Ian Livingston host Paul Klein, CEO of Browser Base, to discuss the intricacies and future of browser automation, the challenges of running headless browsers, and the emergence of AI-driven web agents.00:29 What&apos;s Browserbase?01:20 Challenges with Headless Browsers02:57 AI Agents and Headless Browsers09:21 The Future of Browser Automation13:26 Technical Challenges in Browser Automation18:10 Differences between Browserbase and Other Tools21:12 Addressing Use Cases and Developer Experience&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:39</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Building a serverless full-text + vector search on S3! Chat with Simon from Turbopuffer]]></title>
+			<description><![CDATA[<p>In this episode of Infra Pod, Ian and Tim chat with Simon, the CEO of Turbopuffer, about his journey from working at Shopify to building the fastest vector store known to man. They delve into the intricacies of scaling infrastructure, the challenges with traditional databases like Postgres and MySQL, and why Simon believes in building databases on top of object storage. They also explore the trade-offs Turbo Puffer has made, including its unique approach to consistency and high write latency.00:36 Scaling Shopify&#39;s Infrastructure01:56 Challenges with Postgres02:19 Building Turbo Puffer16:30 Trade-offs and Performance of Turbo Puffer22:32 Importance of Consistency in Databases26:29 BYOC (Bring Your Own Cloud) Option32:03 Customer Use Cases and Integration35:11 Spicy Future!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Building-a-serverless-full-text--vector-search-on-S3--Chat-with-Simon-from-Turbopuffer-e30bn69</link>
+			<guid isPermaLink="false">8596a6a1-ab1b-4c22-b6ba-537b7b2c3231</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 07 Apr 2025 16:03:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/100047497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-18%2F71a1be45-a41a-90f1-1e5a-305f16972daf.mp3" length="93645248" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Infra Pod, Ian and Tim chat with Simon, the CEO of Turbopuffer, about his journey from working at Shopify to building the fastest vector store known to man. They delve into the intricacies of scaling infrastructure, the challenges with traditional databases like Postgres and MySQL, and why Simon believes in building databases on top of object storage. They also explore the trade-offs Turbo Puffer has made, including its unique approach to consistency and high write latency.00:36 Scaling Shopify&amp;#39;s Infrastructure01:56 Challenges with Postgres02:19 Building Turbo Puffer16:30 Trade-offs and Performance of Turbo Puffer22:32 Importance of Consistency in Databases26:29 BYOC (Bring Your Own Cloud) Option32:03 Customer Use Cases and Integration35:11 Spicy Future!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Infra to talk to your AI in real-time (Chat with Russ from Livekit)]]></title>
+			<description><![CDATA[<p>In this engaging episode of the Infra Pod, Tim and Ian dives deep into the world of real-time audio and video infrastructure with Russ D&#39;sa, CEO of Livekit. Russ shares the story of how Livekit evolved from an open-source project into a company and discusses the challenges it tackles, including scaling real-time communication, building AI infrastructure, and the future of human-computer interaction. They also explore LiveKit&#39;s role in transforming various industries, from customer support to robotics and AI-powered applications.00:22 The Origin and Evolution of LiveKit02:47 Challenges in Real-Time Audio and Video06:18 LiveKit&#39;s Impact and Use Cases18:52 AI and Real-Time Infrastructure29:43 Future of Human-Computer Interaction</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Infra-to-talk-to-your-AI-in-real-time-Chat-with-Russ-from-Livekit-e2vfkpr</link>
+			<guid isPermaLink="false">6b5515db-f46d-4262-928b-40480e0655e3</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/99127547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2F85dee8d4-e715-2bcc-e789-e602897c4694.mp3" length="98734208" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this engaging episode of the Infra Pod, Tim and Ian dives deep into the world of real-time audio and video infrastructure with Russ D&amp;#39;sa, CEO of Livekit. Russ shares the story of how Livekit evolved from an open-source project into a company and discusses the challenges it tackles, including scaling real-time communication, building AI infrastructure, and the future of human-computer interaction. They also explore LiveKit&amp;#39;s role in transforming various industries, from customer support to robotics and AI-powered applications.00:22 The Origin and Evolution of LiveKit02:47 Challenges in Real-Time Audio and Video06:18 LiveKit&amp;#39;s Impact and Use Cases18:52 AI and Real-Time Infrastructure29:43 Future of Human-Computer Interaction&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:41:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[AI agents is on the rise with the crew! Chat with Joao (CEO of Crew AI) ]]></title>
+			<description><![CDATA[<p>In this episode of the Infra Pod, hosts Tim Chen and Ian Livingston welcome Joao, CEO and founder of Crew AI. The discussion dives deep into the world of AI agents, exploring the journey of Crew AI, the intricacies of multi-agent systems, and the future possibilities of automation using AI. Joe shares his personal journey, founding stories, and hot takes on the evolving landscape of AI, including the rise of open-source solutions like DeepSeek.00:00 Introduction to the Infrapod00:28 Meet Joe, CEO of Crew AI00:31 The Journey of Crew AI's Early Days02:15 From Closed-Source to Open-Source05:07 Joe's Passion for AI Agents07:03 Defining Agents and Crew AI's Vision09:39 Successful Use Cases of AI Agents14:01 Cutting-Edge Agent Applications17:49 How Multi-Agent Systems Work22:23 Designing Effective Agent Flows24:33 Control and Flexibility in Agent Operations30:29 Future of Generalized Agent Platforms37:02 Quality Assurance in Agent Outputs40:46 Spicy Takes on AI's Future</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/AI-agents-is-on-the-rise-with-the-crew--Chat-with-Joao-CEO-of-Crew-AI-e2ume3u</link>
+			<guid isPermaLink="false">82ed063a-af3c-4d8a-aa02-d3b0adede82c</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 10 Mar 2025 16:10:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/98301502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-21%2Ff83be73a-2bae-4e7e-ca3c-b6423ff0e608.mp3" length="107695808" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the Infra Pod, hosts Tim Chen and Ian Livingston welcome Joao, CEO and founder of Crew AI. The discussion dives deep into the world of AI agents, exploring the journey of Crew AI, the intricacies of multi-agent systems, and the future possibilities of automation using AI. Joe shares his personal journey, founding stories, and hot takes on the evolving landscape of AI, including the rise of open-source solutions like DeepSeek.00:00 Introduction to the Infrapod00:28 Meet Joe, CEO of Crew AI00:31 The Journey of Crew AI&apos;s Early Days02:15 From Closed-Source to Open-Source05:07 Joe&apos;s Passion for AI Agents07:03 Defining Agents and Crew AI&apos;s Vision09:39 Successful Use Cases of AI Agents14:01 Cutting-Edge Agent Applications17:49 How Multi-Agent Systems Work22:23 Designing Effective Agent Flows24:33 Control and Flexibility in Agent Operations30:29 Future of Generalized Agent Platforms37:02 Quality Assurance in Agent Outputs40:46 Spicy Takes on AI&apos;s Future&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:44:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[What is Platform Engineering? Chat with Ian Nowland]]></title>
+			<description><![CDATA[<p>In this episode of the Infrapod, Tim and Ian sat down with Ian Nowland (ex-SVP of Datadog, co-author of Platform Engineering book), a platform engineering expert and co-founder of Junction Labs. They dive deep into the nuances of platform engineering, discussing the evolution of roles like sysadmin, DevOps, and SRE, and the current state and future of platform engineering. Ian shares his journey from Amazon to Datadog and talks about his new company, Junction Labs, which aims to simplify microservices networking. Tim and Ian explore the challenges and solutions in platform engineering, and Ian provides insights on building effective, user-friendly platforms.
+
+00:00 Introduction and Welcome
+00:21 Ian Noland&#39;s Background and Journey
+01:49 Understanding Platform Engineering
+04:03 Challenges in Platform Engineering
+19:56 Effective Strategies and Common Pitfalls
+25:02 Insights on Buying Software for Platforms
+39:48 Conclusion</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/What-is-Platform-Engineering--Chat-with-Ian-Nowland-e2ucvd9</link>
+			<guid isPermaLink="false">8433b5c8-109f-4e59-aa5f-971dfd4b4564</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 24 Feb 2025 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/97991529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2Ffded3a98-16b3-3cf8-3254-e5a2b6038583.mp3" length="96242048" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of the Infrapod, Tim and Ian sat down with Ian Nowland (ex-SVP of Datadog, co-author of Platform Engineering book), a platform engineering expert and co-founder of Junction Labs. They dive deep into the nuances of platform engineering, discussing the evolution of roles like sysadmin, DevOps, and SRE, and the current state and future of platform engineering. Ian shares his journey from Amazon to Datadog and talks about his new company, Junction Labs, which aims to simplify microservices networking. Tim and Ian explore the challenges and solutions in platform engineering, and Ian provides insights on building effective, user-friendly platforms.
+
+00:00 Introduction and Welcome
+00:21 Ian Noland&amp;#39;s Background and Journey
+01:49 Understanding Platform Engineering
+04:03 Challenges in Platform Engineering
+19:56 Effective Strategies and Common Pitfalls
+25:02 Insights on Buying Software for Platforms
+39:48 Conclusion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Materialized View infra influencer is back again! Chat with Chris Riccomini]]></title>
+			<description><![CDATA[<p>
+In this episode of &#39;The Infra Pod,&#39; Tim and Ian delve into a deep, insightful conversation with a special guest, Chris 
+Chris Riccomini. As an acclaimed author and inventive mind in the realm of infrastructure, Chris shares his spicy takes on durable execution, BYOC, and modern infrastructure trends. They also discuss the evolving roles of analytics engineers, data pipelines, and the complex web of modern application architecture.
+
+00:00 Introduction and Guest Welcome
+01:52 BYOC and Security Perspectives
+03:04 Confluent, Warpstream, and Future Insights
+17:06 Challenges in Building BYOC Infrastructure
+17:25 Waves in Current Infrastructure Trends
+23:21 Challenges &amp; Usability of Distributed Architectures
+30:01 Final Thoughts and Spicy Takes on Analytics Engineers
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/The-Materialized-View-infra-influencer-is-back-again--Chat-with-Chris-Riccomini-e2tl8m0</link>
+			<guid isPermaLink="false">4fdf59a3-b01c-47bf-8657-46cf4fa93895</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 10 Feb 2025 16:58:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/97214592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-21%2F1b01bd40-de22-e08a-4e8c-80f23db057d4.mp3" length="89185088" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;
+In this episode of &amp;#39;The Infra Pod,&amp;#39; Tim and Ian delve into a deep, insightful conversation with a special guest, Chris 
+Chris Riccomini. As an acclaimed author and inventive mind in the realm of infrastructure, Chris shares his spicy takes on durable execution, BYOC, and modern infrastructure trends. They also discuss the evolving roles of analytics engineers, data pipelines, and the complex web of modern application architecture.
+
+00:00 Introduction and Guest Welcome
+01:52 BYOC and Security Perspectives
+03:04 Confluent, Warpstream, and Future Insights
+17:06 Challenges in Building BYOC Infrastructure
+17:25 Waves in Current Infrastructure Trends
+23:21 Challenges &amp;amp; Usability of Distributed Architectures
+30:01 Final Thoughts and Spicy Takes on Analytics Engineers
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[How to invest in infrastructure companies since inception stage? Chat with Elliot at Boldstart VC]]></title>
+			<description><![CDATA[<p>In this episode of The Infra Pod, Tim and Ian are joined by guest Elliot Durbin, General Partner at Bold Start Ventures. They dive deep into the world of inception-stage investing, the evolution of venture capital, and shed light on the complexities of backing infrastructure companies.
+
+00:00 Introduction
+00:14 Guest Introduction
+00:53 Investing Across Technological Waves
+02:02 What to Look for in Founders
+29:58 Premature Scaling and Failure Modes
+37:54 Future of AI and Venture Capital
+45:50 Closing Remarks
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/How-to-invest-in-infrastructure-companies-since-inception-stage--Chat-with-Elliot-at-Boldstart-VC-e2t5186</link>
+			<guid isPermaLink="false">b5b198f9-621c-4b55-8473-a3337d5c14fb</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 27 Jan 2025 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/96682694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-6%2F83a969cf-cfc9-e3fd-61a0-7511ca915a53.mp3" length="111665408" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of The Infra Pod, Tim and Ian are joined by guest Elliot Durbin, General Partner at Bold Start Ventures. They dive deep into the world of inception-stage investing, the evolution of venture capital, and shed light on the complexities of backing infrastructure companies.
+
+00:00 Introduction
+00:14 Guest Introduction
+00:53 Investing Across Technological Waves
+02:02 What to Look for in Founders
+29:58 Premature Scaling and Failure Modes
+37:54 Future of AI and Venture Capital
+45:50 Closing Remarks
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:46:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Why do we need a cloud native data lake for geospatial data? Chat with cofounders of Earthmover (Ryan and Joe) ]]></title>
+			<description><![CDATA[<p>Future of Data in Climate and Earth Sciences
+
+In this episode of The Infra Pod, Tim and Ian sat down with the cofounders of Earthmover Ryan and Joe to discuss the cloud native multi-dimensional data lake they're building for climate and geospatial data. They delve into the role of advanced data handling methods, multidimensional array data, the impact of cloud-native technologies, and how these influence various sectors ranging from insurance to environmental resilience.
+
+00:00 Introduction
+00:09 Excitement for Earthmover
+00:44 Ryan's Background
+03:46 Joe's Involvement
+07:54 Definition and Value of Earth Science Data
+10:08 Industry Applications
+14:37 Challenges and Traditional Methods
+19:19 Cloud-Native Solutions
+27:09 Data Management in the Cloud
+35:05 Spicy Future!
+40:46 Contact and Conclusion
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Why-do-we-need-a-cloud-native-data-lake-for-geospatial-data--Chat-with-cofounders-of-Earthmover-Ryan-and-Joe-e2sfgn5</link>
+			<guid isPermaLink="false">4a1af17f-f5b5-41b4-969e-c33284865f51</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 13 Jan 2025 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/95977637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-18%2F8155072a-62f7-4f03-b859-79d9f2db519c.mp3" length="100426688" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Future of Data in Climate and Earth Sciences
+
+In this episode of The Infra Pod, Tim and Ian sat down with the cofounders of Earthmover Ryan and Joe to discuss the cloud native multi-dimensional data lake they&apos;re building for climate and geospatial data. They delve into the role of advanced data handling methods, multidimensional array data, the impact of cloud-native technologies, and how these influence various sectors ranging from insurance to environmental resilience.
+
+00:00 Introduction
+00:09 Excitement for Earthmover
+00:44 Ryan&apos;s Background
+03:46 Joe&apos;s Involvement
+07:54 Definition and Value of Earth Science Data
+10:08 Industry Applications
+14:37 Challenges and Traditional Methods
+19:19 Cloud-Native Solutions
+27:09 Data Management in the Cloud
+35:05 Spicy Future!
+40:46 Contact and Conclusion
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:41:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Let's review our favorite infra hot takes in 2024!]]></title>
+			<description><![CDATA[<p>Ian and Tim this time around sat down and talk about their learnings interviewing the great guests we had on this podcast, and picked our favorite moments and learnings.</p>
+<p><br /></p>
+<p>And of course, our own spicy hot takes for 2025!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Lets-review-our-favorite-infra-hot-takes-in-2024-e2stfeb</link>
+			<guid isPermaLink="false">45249a6f-f71e-4fc8-afce-b1b8a274d636</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Tue, 31 Dec 2024 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/96435083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-31%2F858e48b7-35ab-74da-8020-4190b34e3cd0.mp3" length="94850048" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim this time around sat down and talk about their learnings interviewing the great guests we had on this podcast, and picked our favorite moments and learnings.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;And of course, our own spicy hot takes for 2025!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Navigating the Future of API Development with AI! Chat with Speakeasy CEO Sagar Batchu]]></title>
+			<description><![CDATA[<p>In this episode of The Infra Pod, Tim and Ian sat down with with Sagar Batchu (CEO of Speakeasy) about APIs and software development. Sagar shares his journey in creating Speakeasy, challenges in API development, market trends, and his unique perspective on the future of QA in the context of rapidly advancing AI technology. </p>
+<p>A must-listen for anyone involved in the tech and developer tools / API space!
+
+00:00 Introduction
+00:16 Guest Introduction: Sagar Batchu
+00:22 Founding Speakeasy
+01:36 Insights and Catalyst for Building APIs
+02:02 Challenges in API Development
+03:57 Who Needs to Build an API?
+07:09 Speakeasy's Unique API Product
+12:11 Customer Journeys and Learnings
+18:00 API Design Principles and Success
+28:08 Spicy Future: QA's Resurgence
+36:22 AI's Impact on APIs
+38:33 Closure and Contacts
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Navigating-the-Future-of-API-Development-with-AI--Chat-with-Speakeasy-CEO-Sagar-Batchu-e2se163</link>
+			<guid isPermaLink="false">512bb6d5-0787-4e0e-b4e0-24893d114132</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 30 Dec 2024 17:36:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/95928963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-17%2F6a43b901-81b3-6ee9-8bf5-600ecdcaf0b3.mp3" length="97230848" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of The Infra Pod, Tim and Ian sat down with with Sagar Batchu (CEO of Speakeasy) about APIs and software development. Sagar shares his journey in creating Speakeasy, challenges in API development, market trends, and his unique perspective on the future of QA in the context of rapidly advancing AI technology. &lt;/p&gt;
+&lt;p&gt;A must-listen for anyone involved in the tech and developer tools / API space!
+
+00:00 Introduction
+00:16 Guest Introduction: Sagar Batchu
+00:22 Founding Speakeasy
+01:36 Insights and Catalyst for Building APIs
+02:02 Challenges in API Development
+03:57 Who Needs to Build an API?
+07:09 Speakeasy&apos;s Unique API Product
+12:11 Customer Journeys and Learnings
+18:00 API Design Principles and Success
+28:08 Spicy Future: QA&apos;s Resurgence
+36:22 AI&apos;s Impact on APIs
+38:33 Closure and Contacts
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Code refactoring is more than a AI problem! Chat with Jonathan at Moderne]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Jonathan Schneider, CEO of Moderne, about large-scale source code refactoring and the journey of starting a company focused on automating this complex task. Jonathan shares insights from his experience at Netflix and discusses the intricacies of automatic refactoring, the importance of maintaining code consistency, and the interplay between deterministic rules and AI tools in managing code migrations. The conversation touches on the applications and challenges of using AI in code refactoring and explores the potential for hybrid solutions in the future.
+
+00:00 Introduction to the Infra Pod
+00:19 Jonathan Schneider's Background and Journey
+01:07 Challenges in Code Migrations
+03:16 Moderne's Unique Approach to Code Refactoring
+05:13 Technical Deep Dive: Abstract Syntax Trees and Lossless Semantic Trees
+15:05 AI in Code Refactoring
+25:10 Future of Code Migrations and Hybrid Approaches
+32:40 Spicy Takes and Industry Predictions
+39:35 Conclusion and Contact Information
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Code-refactoring-is-more-than-a-AI-problem--Chat-with-Jonathan-at-Moderne-e2ruf6b</link>
+			<guid isPermaLink="false">b55943b2-7e5c-4539-babd-c397da168756</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 16 Dec 2024 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/95419019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2F07147477-5931-018b-4dff-2f75a9c69a7c.mp3" length="96939008" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Jonathan Schneider, CEO of Moderne, about large-scale source code refactoring and the journey of starting a company focused on automating this complex task. Jonathan shares insights from his experience at Netflix and discusses the intricacies of automatic refactoring, the importance of maintaining code consistency, and the interplay between deterministic rules and AI tools in managing code migrations. The conversation touches on the applications and challenges of using AI in code refactoring and explores the potential for hybrid solutions in the future.
+
+00:00 Introduction to the Infra Pod
+00:19 Jonathan Schneider&apos;s Background and Journey
+01:07 Challenges in Code Migrations
+03:16 Moderne&apos;s Unique Approach to Code Refactoring
+05:13 Technical Deep Dive: Abstract Syntax Trees and Lossless Semantic Trees
+15:05 AI in Code Refactoring
+25:10 Future of Code Migrations and Hybrid Approaches
+32:40 Spicy Takes and Industry Predictions
+39:35 Conclusion and Contact Information
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Big Announcement! We are now called ....]]></title>
+			<description><![CDATA[<p>You probably already notice our name has changed if you get this episode!</p>
+<p><br /></p>
+<p>Listen to Tim and Ian talk about how we started this podcast, why we changed our name and what we're planning for the podcast as well.</p>
+<p><br /></p>
+<p>Follow and share us in all the social channels -&gt;</p>
+<p><br /></p>
+<p>http://www.infrapod.io</p>
+<p><br /></p>
+<p>X: @theinfrapod</p>
+<p>Linkedin: https://www.linkedin.com/company/the-infra-pod/</p>
+<p>Youtube: https://www.youtube.com/@TheInfraPod</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Big-Announcement--We-are-now-called-e2rfrug</link>
+			<guid isPermaLink="false">7e415c2a-b018-4923-946f-7a9365a5bb66</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 02 Dec 2024 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/94940560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-25%2F6765c62c-8945-63fc-9042-2bef41b9d801.mp3" length="26656448" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;You probably already notice our name has changed if you get this episode!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Listen to Tim and Ian talk about how we started this podcast, why we changed our name and what we&apos;re planning for the podcast as well.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Follow and share us in all the social channels -&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;http://www.infrapod.io&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;X: @theinfrapod&lt;/p&gt;
+&lt;p&gt;Linkedin: https://www.linkedin.com/company/the-infra-pod/&lt;/p&gt;
+&lt;p&gt;Youtube: https://www.youtube.com/@TheInfraPod&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:11:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[AI native development is more than just using copilots! Chat with Guy Podjarny (CEO of Tessl)]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Guy Podjarny (CEO of Tessl, ex-CEO of Snyk) to talk about his new journey to build Tessl, that's aiming to build a fundamental change in AI-native software development. We sat down to talk about Guy's views on what's happening in AI powered developer tools, why he's taking a bold bet and how it can change this whole industry.
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/AI-native-development-is-more-than-just-using-copilots--Chat-with-Guy-Podjarny-CEO-of-Tessl-e2r0f4p</link>
+			<guid isPermaLink="false">2b83041d-8f31-4570-8aba-7f535363f6fd</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Fri, 15 Nov 2024 02:20:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/94435929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-14%2Fffba9954-9f63-daac-a383-31fa759a7824.mp3" length="140960768" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Guy Podjarny (CEO of Tessl, ex-CEO of Snyk) to talk about his new journey to build Tessl, that&apos;s aiming to build a fundamental change in AI-native software development. We sat down to talk about Guy&apos;s views on what&apos;s happening in AI powered developer tools, why he&apos;s taking a bold bet and how it can change this whole industry.
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:58:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Will AI agents automate security in the enterprise? Chat with Mukund (Senior Director of Product Security at Chime)]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Mukund (Senior Director of Product Security at Chime) to talk about his history to building security teams and projects, and how he views the industry when it comes to building a product security culture, evaluating buy vs build, and how AI is already changing the security practice. </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Will-AI-agents-automate-security-in-the-enterprise--Chat-with-Mukund-Senior-Director-of-Product-Security-at-Chime-e2qi49n</link>
+			<guid isPermaLink="false">2149ccbb-af9c-47b7-b38a-5c79f7f6c8f6</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 04 Nov 2024 20:32:57 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/93966071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2Fcd6a9b94-21ec-7ce2-ad23-2abdf020dd84.mp3" length="89231168" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Mukund (Senior Director of Product Security at Chime) to talk about his history to building security teams and projects, and how he views the industry when it comes to building a product security culture, evaluating buy vs build, and how AI is already changing the security practice. &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[How Github grew from 0 to millions of developers, and now bringing that to Devops! (Chat with Ted, ex-CTO of Github)]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Ted Nyman (ex-CTO of Github, CEO of Cased) to chat about how it feels like to be part of the early days of Github, how did it made its way from a little known project to what it became today. We also discussed about Ted's new startup Cased and how it's transforming Devops as well.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/How-Github-grew-from-0-to-millions-of-developers--and-now-bringing-that-to-Devops--Chat-with-Ted--ex-CTO-of-Github-e2pko94</link>
+			<guid isPermaLink="false">27054fe7-c077-4073-acac-16f7a84284e7</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 14 Oct 2024 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/93003492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-14%2F061cd823-458e-a094-6272-f1d31b5867fc.mp3" length="87152768" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Ted Nyman (ex-CTO of Github, CEO of Cased) to chat about how it feels like to be part of the early days of Github, how did it made its way from a little known project to what it became today. We also discussed about Ted&apos;s new startup Cased and how it&apos;s transforming Devops as well.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Incubating Infrastructure at Scale (Chat with Dane at Cloudflare)]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Dane (SVP of Emerging Tech and Incubation at Cloudflare) to chat about Cloudflare&#39;s journey of incubating emerging infra areas like security and AI, and how it becomes products Cloudflare customers can use at scale.
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Incubating-Infrastructure-at-Scale-Chat-with-Dane-at-Cloudflare-e2mrk6l</link>
+			<guid isPermaLink="false">8100e923-8acb-45bd-be25-ab35f154c982</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 19 Aug 2024 15:43:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/90082965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-19%2F8f95090e-4f41-0ebb-3b08-77b0cffea107.mp3" length="79938368" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Dane (SVP of Emerging Tech and Incubation at Cloudflare) to chat about Cloudflare&amp;#39;s journey of incubating emerging infra areas like security and AI, and how it becomes products Cloudflare customers can use at scale.
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:33:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Security is moving to the frontend?! Chat with David at Arcjet]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with David (founder of Arcjet and Console.dev), where David is building a new company that&#39;s bringing security to the frontend stack, so developers can provide security from day one and at the edge.</p>
+<p><br></p>
+<p>Come listen to how this trend is starting and what is David believing that would happen for security in the future!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Security-is-moving-to-the-frontend---Chat-with-David-at-Arcjet-e2memp1</link>
+			<guid isPermaLink="false">47b18633-4a8e-4fd0-b409-3752500dfffd</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 05 Aug 2024 18:27:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/89659617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F121e8f7a-ff17-d251-4046-227ad87a4f4e.mp3" length="97205888" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with David (founder of Arcjet and Console.dev), where David is building a new company that&amp;#39;s bringing security to the frontend stack, so developers can provide security from day one and at the edge.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Come listen to how this trend is starting and what is David believing that would happen for security in the future!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Will HTAP database eat both OLAP & OLTP? Chat with Moritz & Christian at CedarDB]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with the cofounders of CedarDB (https://cedardb.com/) that&#39;s building a all-in-one database that merges both OLAP and OLTP into one. Listen to our chat to hear how they got started from the academics and now jumping into making this database to take on all workloads.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Will-HTAP-database-eat-both-OLAP--OLTP--Chat-with-Moritz--Christian-at-CedarDB-e2m2alc</link>
+			<guid isPermaLink="false">17af9a46-c606-49e0-a030-cdce5b822440</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 22 Jul 2024 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/89253996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-15%2Fb36f0ca8-dd7d-7f37-9243-e7606cf17dc3.mp3" length="89774528" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with the cofounders of CedarDB (https://cedardb.com/) that&amp;#39;s building a all-in-one database that merges both OLAP and OLTP into one. Listen to our chat to hear how they got started from the academics and now jumping into making this database to take on all workloads.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Why do we need a functional package manager like Nix? Chat with Ron at Flox]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Ron (CEO of Flox, Nix foundation chair) to talk about the origins of Nix (functional package manager for Unix-like systems) and the adoption story so far, what are Flox doing to bring adoption to the masses.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Why-do-we-need-a-functional-package-manager-like-Nix--Chat-with-Ron-at-Flox-e2le4ms</link>
+			<guid isPermaLink="false">d23ca61e-aaec-48fe-99b9-bcc6f7feba75</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 08 Jul 2024 22:18:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/88592540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-28%2Fe30389a4-580d-263f-626a-e926253076ad.mp3" length="90301568" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Ron (CEO of Flox, Nix foundation chair) to talk about the origins of Nix (functional package manager for Unix-like systems) and the adoption story so far, what are Flox doing to bring adoption to the masses.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Quantum is breaking security soon?! Chat with Michele from EvolutionQ]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Michele (CEO of EvolutionQ, founder of Institute for Quantum Computing) that has been building quantum safe security products for enterprises to adopt, to talk about where Quantum Computing is today and how close we are to see the tipping point where majority enterprises will care and adopt solutions.</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Quantum-is-breaking-security-soon---Chat-with-Michele-from-EvolutionQ-e2kkil4</link>
+			<guid isPermaLink="false">b63cd518-02dc-4f30-975d-45ffff68bfa6</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 10 Jun 2024 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/87754852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-7%2F21b9f775-cb6a-5729-cb40-152dc513179b.mp3" length="86045888" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Michele (CEO of EvolutionQ, founder of Institute for Quantum Computing) that has been building quantum safe security products for enterprises to adopt, to talk about where Quantum Computing is today and how close we are to see the tipping point where majority enterprises will care and adopt solutions.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[English is the default programming language via GPTScript! Chat with Darren from Acron]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Darren who is the cofounder of Acorn Labs that&#39;s building open source infrastructure to build AI applications.</p>
+<p>We chatted about their first project which is GPTScript, allows developers to use english language mixed with programming languages and templates to generate apps in a more structured way.</p>
+<p>Join us to listen about how the team brought their experience from working on Kubernetes during the Rancher days, and what their outlook and spicy take about the future of developers powered with AIs!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/English-is-the-default-programming-language-via-GPTScript--Chat-with-Darren-from-Acron-e2ia6ed</link>
+			<guid isPermaLink="false">2fc47bcd-f7e5-49df-9cab-b90f654d457c</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 13 May 2024 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/85317517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-12%2F8b562d10-9913-1fc4-3222-0e5cc5025ef1.mp3" length="90967808" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Darren who is the cofounder of Acorn Labs that&amp;#39;s building open source infrastructure to build AI applications.&lt;/p&gt;
+&lt;p&gt;We chatted about their first project which is GPTScript, allows developers to use english language mixed with programming languages and templates to generate apps in a more structured way.&lt;/p&gt;
+&lt;p&gt;Join us to listen about how the team brought their experience from working on Kubernetes during the Rancher days, and what their outlook and spicy take about the future of developers powered with AIs!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Infrastructure cost will change how company runs in the future! Chat with Damon from Millwork Analytics]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Damon Fletcher (CEO of Millwork Analytics), after running as a CFO at DataRobot and Tableau for many years, decided to start a startup as he sees how infrastructure cost is no longer a feature but a product that he sees organizations need to run their business successfully in the future.</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Infrastructure-cost-will-change-how-company-runs-in-the-future--Chat-with-Damon-from-Millwork-Analytics-e2i43fk</link>
+			<guid isPermaLink="false">2da385c6-ef87-41fa-b2fd-34fb81f93479</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 29 Apr 2024 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/85117876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-8%2Fd9f41813-7923-3424-5cfd-aa51eeccb1b3.mp3" length="91645580" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Damon Fletcher (CEO of Millwork Analytics), after running as a CFO at DataRobot and Tableau for many years, decided to start a startup as he sees how infrastructure cost is no longer a feature but a product that he sees organizations need to run their business successfully in the future.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:38:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[A new S3 is coming, for every data system to be built on S3! Chat with Ovais from Tigris Data]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Ovais Tariq from Tigris Data, that&#39;s building a new S3 that&#39;s globally distributed by default, etc.</p>
+<p><br></p>
+<p>Listen in if you are intrigued about why we need a new S3, and what would the world look like if we see everything built on object storage!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/A-new-S3-is-coming--for-every-data-system-to-be-built-on-S3--Chat-with-Ovais-from-Tigris-Data-e2i004o</link>
+			<guid isPermaLink="false">ddce7c89-bff4-4602-b41c-9c59ebbc017a</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 15 Apr 2024 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/84983384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-4%2F0c9d9815-43cf-072b-b7f7-95a49caabfc9.mp3" length="75193088" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Ovais Tariq from Tigris Data, that&amp;#39;s building a new S3 that&amp;#39;s globally distributed by default, etc.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Listen in if you are intrigued about why we need a new S3, and what would the world look like if we see everything built on object storage!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:31:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Vector databases is not a feature? Let's dive deeper with Chang]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Chang She from LanceDB to talk about what&#39;s happening on the vector db world, and how Lance started from a file format into a tensor data lake.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Vector-databases-is-not-a-feature--Lets-dive-deeper-with-Chang-e2hfeul</link>
+			<guid isPermaLink="false">87b1a397-4049-42bf-b1a9-729121df8a7f</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 01 Apr 2024 16:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/84441493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-23%2Fec3a7ef7-fd78-0d59-6074-53132e371673.mp3" length="95267648" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Chang She from LanceDB to talk about what&amp;#39;s happening on the vector db world, and how Lance started from a file format into a tensor data lake.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Databases are becoming commodity, what's next? Chat with Chris from Materialized View]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with <a href="https://cnr.sh/">Chris Riccomini (ex-Distinguished eng at Wepay, co-creator of Apache Samza</a>) to talk about the spicy takes he has been sharing on his blog Materialized View and even further takes in the future of what the data system world will look like!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Databases-are-becoming-commodity--whats-next--Chat-with-Chris-from-Materialized-View-e2h9tl7</link>
+			<guid isPermaLink="false">ef5a0bdd-ca88-4f0a-a42d-86c54e8da851</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Tue, 19 Mar 2024 19:24:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/84259943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-19%2F48afb818-0a17-1f0f-8c63-4beccadaec80.mp3" length="91822208" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with &lt;a href=&quot;https://cnr.sh/&quot;&gt;Chris Riccomini (ex-Distinguished eng at Wepay, co-creator of Apache Samza&lt;/a&gt;) to talk about the spicy takes he has been sharing on his blog Materialized View and even further takes in the future of what the data system world will look like!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:38:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Billing is a infrastructure problem, and it's shifting fast! Chat with Alvaro from Orb]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Alvaro (CEO of Orb) about how he dived into the Billing problem as a engineer, and now building a company Orb that&#39;s powering a developer facing infra for Billing.</p>
+<p><br></p>
+<p>Come join our discussions to talk about how Billing has evolved, why it&#39;s a infra problem, and how having a infra powers billing and everything around it for companies to move much faster than before.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Billing-is-a-infrastructure-problem--and-its-shifting-fast--Chat-with-Alvaro-from-Orb-e2cqbg7</link>
+			<guid isPermaLink="false">2e9688e2-c5fa-415f-b8fd-6dfe825aa02a</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Tue, 30 Jan 2024 15:48:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/79555527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-4%2Fae21a939-e26a-925c-0c94-b970a744d010.mp3" length="85837568" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Alvaro (CEO of Orb) about how he dived into the Billing problem as a engineer, and now building a company Orb that&amp;#39;s powering a developer facing infra for Billing.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Come join our discussions to talk about how Billing has evolved, why it&amp;#39;s a infra problem, and how having a infra powers billing and everything around it for companies to move much faster than before.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:45</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Infra Reflection on 2023 with Tim and Ian!]]></title>
+			<description><![CDATA[<p>Tim and Ian sat down to talk about what we learned in 2023 and our reflection on Infrastructure companies and projects as a whole!</p>
+<p><br></p>
+<p>Come sit down and chat with us :) Feel free to post yours on X and tag us @tnachen and @ianlivingstone!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Infra-Reflection-on-2023-with-Tim-and-Ian-e2dtur0</link>
+			<guid isPermaLink="false">c4a9e8a2-00dc-4544-959a-7736d81f9dc0</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 08 Jan 2024 18:01:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/80722208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2Fb74a719b-e67d-de26-3b94-b4fe46fb06ab.mp3" length="69689408" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Tim and Ian sat down to talk about what we learned in 2023 and our reflection on Infrastructure companies and projects as a whole!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Come sit down and chat with us :) Feel free to post yours on X and tag us @tnachen and @ianlivingstone!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:29:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Rust is for big data! Chat with Andy Grove]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Andy Grove (creator Datafusion, Apache Arrow PMC chair) to talk about his original mission to build the Big Data ecosystem in Rust, and how that has evolved until now.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Rust-is-for-big-data--Chat-with-Andy-Grove-e2cl7ka</link>
+			<guid isPermaLink="false">4d4ffbfb-8135-4579-9628-65aab81469c9</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 18 Dec 2023 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/79387722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-30%2F7dc9664e-8210-374a-4e62-6247ec0b2a30.mp3" length="88303808" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Andy Grove (creator Datafusion, Apache Arrow PMC chair) to talk about his original mission to build the Big Data ecosystem in Rust, and how that has evolved until now.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Modal is upping the game for serverless! Chat with Erik]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Erik (CEO of Modal Labs) that&#39;s gaining wide adoption of the serverless platform built for data teams. </p>
+<p><br></p>
+<p>Come sit down and listen with us how the journey started, and what&#39;s Erik hot spicy future take on the serverless infra.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Modal-is-upping-the-game-for-serverless--Chat-with-Erik-e2bf98f</link>
+			<guid isPermaLink="false">01d4b853-4982-46c9-bc20-eac316acd1e0</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 04 Dec 2023 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/78144207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-3%2Fb34ff4d0-38a6-d202-b71a-33674df1b7db.mp3" length="88440128" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Erik (CEO of Modal Labs) that&amp;#39;s gaining wide adoption of the serverless platform built for data teams. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Come sit down and listen with us how the journey started, and what&amp;#39;s Erik hot spicy future take on the serverless infra.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Let's stop prompting and start programming... Chat with Omar about DSPy]]></title>
+			<description><![CDATA[<p>Ian and Tim sat down with Omar Khattab about the research project DSPy, that&#39;s changing how users interact with LLMs from creating prompts to have a programming framework that searches and optimizes the best prompts for the task.</p>
+<p><br></p>
+<p>Come listen about the thought process around DSPy and how it can fundamentally changes how we interact with LLMs and AI models as a whole!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Lets-stop-prompting-and-start-programming----Chat-with-Omar-about-DSPy-e2b6og4</link>
+			<guid isPermaLink="false">6da684b5-03e5-48d3-8097-4ad6643d8bd7</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 06 Nov 2023 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/77864900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-29%2F0bf15eee-39c7-5008-f992-878fc00fb9ae.mp3" length="87909248" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim sat down with Omar Khattab about the research project DSPy, that&amp;#39;s changing how users interact with LLMs from creating prompts to have a programming framework that searches and optimizes the best prompts for the task.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Come listen about the thought process around DSPy and how it can fundamentally changes how we interact with LLMs and AI models as a whole!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Are all future data infra products will be built on Cloud storage? Chat with Warpstream]]></title>
+			<description><![CDATA[<p>Ian and Tim invited the cofounders of Warpstream (Serverless Kafka built on S3) to talk about the tradeoffs of building a new Streaming product that is designed from ground up to work on top of Cloud storage like S3, and also what the future implications mean.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Are-all-future-data-infra-products-will-be-built-on-Cloud-storage--Chat-with-Warpstream-e2a9vos</link>
+			<guid isPermaLink="false">85911fec-7c05-4521-be60-6b2a5aca5c26</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 23 Oct 2023 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/76922076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-8%2Fbb2d6764-6057-a101-4835-65f1d439bbc2.mp3" length="79644608" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim invited the cofounders of Warpstream (Serverless Kafka built on S3) to talk about the tradeoffs of building a new Streaming product that is designed from ground up to work on top of Cloud storage like S3, and also what the future implications mean.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:33:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[What happens when LLMs have a API App store? Let's chat Gorilla and beyond!]]></title>
+			<description><![CDATA[<p>Ian and Tim are back to interview another YAIGer <a href="https://people.eecs.berkeley.edu/~shishirpatil/">Shishir G. Patil</a>, who is a PhD at Berkeley that worked on the popular LLM research + project Gorilla, that allows LLMs to call APIs automatically.</p>
+<p><br></p>
+<p>We dive into how Gorilla works and what is the future implications it brings to the infra / developer space.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/What-happens-when-LLMs-have-a-API-App-store--Lets-chat-Gorilla-and-beyond-e2a9vig</link>
+			<guid isPermaLink="false">5abf8349-6442-4368-b8b1-512c31bea11b</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 09 Oct 2023 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/76921872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-8%2Ff9750dad-78cf-a135-fc1b-f6eec7367b7f.mp3" length="90091328" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and Tim are back to interview another YAIGer &lt;a href=&quot;https://people.eecs.berkeley.edu/~shishirpatil/&quot;&gt;Shishir G. Patil&lt;/a&gt;, who is a PhD at Berkeley that worked on the popular LLM research + project Gorilla, that allows LLMs to call APIs automatically.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We dive into how Gorilla works and what is the future implications it brings to the infra / developer space.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Security problems are.... infra problems! Chat w/ Mike Malone from Smallstep]]></title>
+			<description><![CDATA[<p>Ian (Snyk) and Tim (Essence VC) sat down with Mike (CEO of Smallstep) to talk about how software security will change, as we see more security problems becomes infrastructure problems.</p>
+<p><br></p>
+<p>How does the industry potentially change if we think about security problems from the infra angle? What&#39;s the hurdle and benefits?</p>
+<p><br></p>
+<p>Listen in to learn more!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Security-problems-are-----infra-problems--Chat-w-Mike-Malone-from-Smallstep-e28i8r0</link>
+			<guid isPermaLink="false">008a6cc0-8bd6-4689-a3de-2de7bed5bc8d</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 04 Sep 2023 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/75096352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-26%2Ff91277ba-71cc-59ea-b2e9-c1e22d51cdb6.mp3" length="85452608" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian (Snyk) and Tim (Essence VC) sat down with Mike (CEO of Smallstep) to talk about how software security will change, as we see more security problems becomes infrastructure problems.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;How does the industry potentially change if we think about security problems from the infra angle? What&amp;#39;s the hurdle and benefits?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Listen in to learn more!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[When will AI take over developers? Debate with Guido Appenzeller]]></title>
+			<description><![CDATA[<p><strong>YAIG Maxis Ian Livingstone (Snyk) and Timothy Chen (Essence VC) are back this time with another maxi Guido Appenzeller (ex-VMWare &amp; Intel Group CTO) to debate about how AI will change (replace) developers in the near future.</strong></p>
+<p><br></p>
+<p><strong>There are more questions generated than answers, but dive in with us to talk about some of the possible things that can happen!</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/When-will-AI-take-over-developers--Debate-with-Guido-Appenzeller-e2892je</link>
+			<guid isPermaLink="false">1ec53314-edaa-4128-9f30-a0be06e0aefc</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 21 Aug 2023 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/74795054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-18%2F28a62de0-485b-609c-bffc-f60d3ced8707.mp3" length="93923648" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;YAIG Maxis Ian Livingstone (Snyk) and Timothy Chen (Essence VC) are back this time with another maxi Guido Appenzeller (ex-VMWare &amp;amp; Intel Group CTO) to debate about how AI will change (replace) developers in the near future.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;There are more questions generated than answers, but dive in with us to talk about some of the possible things that can happen!&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Transactions don't belong to databases anymore, let's discuss the Modern Tx Stack (w/ Yoko from A16z + Tony from Inngest)]]></title>
+			<description><![CDATA[<p>Transactions is what makes critical applications with state works in production, and it has been decades of research and iterations of having developers leveraging the tools that exists to implement transactions in their applications.</p>
+<p><br></p>
+<p>Ian and I are sitting down with Yoko (investor from a16z) and Tony (CTO from Inngest) to chat about the new Modern Transactional Stack (https://a16z.com/2023/04/14/the-modern-transactional-stack/), and how it&#39;s looking to shape up the industry in the near future.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Transactions-dont-belong-to-databases-anymore--lets-discuss-the-Modern-Tx-Stack-w-Yoko-from-A16z--Tony-from-Inngest-e26e7ck</link>
+			<guid isPermaLink="false">5e194797-8a91-46e1-a38f-8dac93a0dd08</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 31 Jul 2023 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/72866644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-1%2Fd4ce8926-5e07-759d-c9ed-faac9634eb24.mp3" length="110795648" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Transactions is what makes critical applications with state works in production, and it has been decades of research and iterations of having developers leveraging the tools that exists to implement transactions in their applications.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ian and I are sitting down with Yoko (investor from a16z) and Tony (CTO from Inngest) to chat about the new Modern Transactional Stack (https://a16z.com/2023/04/14/the-modern-transactional-stack/), and how it&amp;#39;s looking to shape up the industry in the near future.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:46:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[How will the world run on GPUs? (w/ Stephen Balaban from Lambda Labs)]]></title>
+			<description><![CDATA[<p>Ian and I sat down with Stephen Balaban (CEO / founder from Lambda labs), to talk about how Stephen started Lambda Labs inspired by Japanese Anime, into a Computer Vision API, and finally a GPU hosted cloud.</p>
+<p><br></p>
+<p>We also introduced a new section called the &quot;Spicy Future&quot;, and we got spicy :) Come listen to how we noodled on how we will get closer to AGI and what will happen when it does.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/How-will-the-world-run-on-GPUs--w-Stephen-Balaban-from-Lambda-Labs-e26en1q</link>
+			<guid isPermaLink="false">baae5266-bddf-4505-a48c-09da52914ca6</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 17 Jul 2023 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/72882682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-2%2F0baf361a-4df0-00c7-7ac5-08405a7d8696.mp3" length="89853248" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ian and I sat down with Stephen Balaban (CEO / founder from Lambda labs), to talk about how Stephen started Lambda Labs inspired by Japanese Anime, into a Computer Vision API, and finally a GPU hosted cloud.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We also introduced a new section called the &amp;quot;Spicy Future&amp;quot;, and we got spicy :) Come listen to how we noodled on how we will get closer to AGI and what will happen when it does.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Let's learn how to survive in the Modern Data Stack in 2023... Chat with Josh Wills (ex-Slack)]]></title>
+			<description><![CDATA[<p>The Modern Data Stack swept in the industry last few years, and even though it&#39;s still in the buzz, it seems more daunting than empowering. </p>
+<p><br></p>
+<p>Ian and Tim sat down to chat with Josh Wills (ex-Director of Data at Slack / Cloudera) to talk about all things data, his dbt + duckdb package that he wants no more open source contributions.</p>
+<p><br></p>
+<p>Sit down and relax with this one, but we&#39;re sure you&#39;ll pick up something here with our YAIGers.</p>
+<p><br></p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Lets-learn-how-to-survive-in-the-Modern-Data-Stack-in-2023----Chat-with-Josh-Wills-ex-Slack-e24jjg5</link>
+			<guid isPermaLink="false">99c9336d-6f8e-4c1e-b66c-42f1c43e9cda</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 03 Jul 2023 16:23:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/70945733/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-24%2F6c9f850b-7bab-e8ac-a553-9fc382eab8ab.mp3" length="42849172" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;The Modern Data Stack swept in the industry last few years, and even though it&amp;#39;s still in the buzz, it seems more daunting than empowering. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ian and Tim sat down to chat with Josh Wills (ex-Director of Data at Slack / Cloudera) to talk about all things data, his dbt + duckdb package that he wants no more open source contributions.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Sit down and relax with this one, but we&amp;#39;re sure you&amp;#39;ll pick up something here with our YAIGers.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Ditch the cloud for bare metal in 2023? Chat with Zach (Equinix, ex-Packet)]]></title>
+			<description><![CDATA[<p>2023 is when the cloud should have 100% adoption right? However, we&#39;re seeing a surge of embracing your own bare metal in 2023 from companies all over the world.</p>
+<p><br></p>
+<p>Ian and Tim sat down with Zachery Smith (Head of Global edge at Equinix, ex-CEO of Packet) about his journey of starting Packet and the customer trends he&#39;s seeing from Equinix in 2023.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Ditch-the-cloud-for-bare-metal-in-2023--Chat-with-Zach-Equinix--ex-Packet-e24jj2l</link>
+			<guid isPermaLink="false">eda86ef8-6880-4423-bdab-aac65ab2f0e7</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Tue, 20 Jun 2023 02:26:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/70945301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fe25182bc%2F70945301%2F32a839f7dc720b5c9ec5d7b3e5234ffa.m4a" length="38584587" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;2023 is when the cloud should have 100% adoption right? However, we&amp;#39;re seeing a surge of embracing your own bare metal in 2023 from companies all over the world.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ian and Tim sat down with Zachery Smith (Head of Global edge at Equinix, ex-CEO of Packet) about his journey of starting Packet and the customer trends he&amp;#39;s seeing from Equinix in 2023.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:45</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[State of WASM beyond the browser with Steve at Dylibso]]></title>
+			<description><![CDATA[<p>WebAsseembly (WASM) is growing immensely now beyond the browser, and now everyone is talking about how / when the adoption will happen everywhere else.</p>
+<p><br></p>
+<p>Ian and Tim sat down at Steve (CEO of Dylibso) that worked on WebAssembly in multiple companies and now building a developer tools company around WebAssembly.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/State-of-WASM-beyond-the-browser-with-Steve-at-Dylibso-e24ifoe</link>
+			<guid isPermaLink="false">47781d9a-98f8-461f-a4a8-99e4c111a09e</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 05 Jun 2023 17:10:26 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/70909134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fe25182bc%2F70909134%2F652a887b1b4f39d1bee4a5d57a4bd530.m4a" length="41090763" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;WebAsseembly (WASM) is growing immensely now beyond the browser, and now everyone is talking about how / when the adoption will happen everywhere else.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ian and Tim sat down at Steve (CEO of Dylibso) that worked on WebAssembly in multiple companies and now building a developer tools company around WebAssembly.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:42:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Is frontend eating the whole stack? Chat with Kurt (Fly.io), Jack (Amplitude) and David (Stately)]]></title>
+			<description><![CDATA[<p>Is backend dead? Is front-end eating the whole stack? </p>
+<p><br></p>
+<p>Ian and Tim invited several YAIGers to discuss about how front end and back end is changing, with guests:</p>
+<p>- Kurt, Fly.io founder</p>
+<p>- Jack, Principal Lead at Amplitude</p>
+<p>- David, Stately founder</p>
+<p><br></p>
+<p>We all sat in a room with our phones on the table, and recorded this lovely chat before the SF meetup!</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/Is-frontend-eating-the-whole-stack--Chat-with-Kurt-Fly-io--Jack-Amplitude-and-David-Stately-e24hb07</link>
+			<guid isPermaLink="false">56cd8364-e8ca-428b-8ba9-9c729de3d1b7</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Tue, 23 May 2023 02:27:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/70871495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fe25182bc%2F70871495%2F61ba20e04287c554c19c35286e66db72.m4a" length="54863939" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Is backend dead? Is front-end eating the whole stack? &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ian and Tim invited several YAIGers to discuss about how front end and back end is changing, with guests:&lt;/p&gt;
+&lt;p&gt;- Kurt, Fly.io founder&lt;/p&gt;
+&lt;p&gt;- Jack, Principal Lead at Amplitude&lt;/p&gt;
+&lt;p&gt;- David, Stately founder&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We all sat in a room with our phones on the table, and recorded this lovely chat before the SF meetup!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:56:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

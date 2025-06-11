@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>Algorithms and Data Science Study</title>
+    <atom:link href="https://feed.podbean.com/haroldmartin/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://haroldmartin.podbean.com</link>
+    <description>A generated podcast to aid studying for the UC Boulder Masters program. (Unaffiliated and unofficial)</description>
+    <pubDate>Thu, 29 May 2025 09:38:06 -0700</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+    <spotify:countryOfOrigin>us</spotify:countryOfOrigin>
+    <copyright>Creative Commons Attribution-ShareAlike 4.0 International</copyright>
+    <category>Education:Courses</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+          <itunes:summary></itunes:summary>
+        <itunes:author>haroldmartin</itunes:author>
+	<itunes:category text="Education">
+		<itunes:category text="Courses" />
+	</itunes:category>
+    <itunes:owner>
+        <itunes:name>haroldmartin</itunes:name>
+            </itunes:owner>
+    	<itunes:block>No</itunes:block>
+	<itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/20646568/ChatGPT_Image_Apr_21_2025_09_26_40_AM83f0c.png" />
+    <image>
+        <url>https://pbcdn1.podbean.com/imglogo/image-logo/20646568/ChatGPT_Image_Apr_21_2025_09_26_40_AM83f0c.png</url>
+        <title>Algorithms and Data Science Study</title>
+        <link>https://haroldmartin.podbean.com</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>Decoding CRE Tech - Yardi's Power, the REstack Puzzle, and the AI Revolution</title>
+        <itunes:title>Decoding CRE Tech - Yardi's Power, the REstack Puzzle, and the AI Revolution</itunes:title>
+        <link>https://haroldmartin.podbean.com/e/decoding-cre-tech-yardis-power-the-restack-puzzle-and-the-ai-revolution/</link>
+                    <comments>https://haroldmartin.podbean.com/e/decoding-cre-tech-yardis-power-the-restack-puzzle-and-the-ai-revolution/#comments</comments>        <pubDate>Thu, 29 May 2025 09:38:06 -0700</pubDate>
+        <guid isPermaLink="false">haroldmartin.podbean.com/4d9d8868-b633-36fe-9896-d5ce282dc6c5</guid>
+                                    <description><![CDATA[<p>This report provides an in-depth analysis of Yardi Systems and REstack platforms within the commercial real estate (CRE) technology sector. Yardi is identified as a dominant provider of comprehensive, integrated software solutions that are designed to manage the entire lifecycle of CRE assets, from property and asset management to accounting and investment oversight, emphasizing a "single platform" </p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>This report provides an in-depth analysis of Yardi Systems and REstack platforms within the commercial real estate (CRE) technology sector. Yardi is identified as a dominant provider of comprehensive, integrated software solutions that are designed to manage the entire lifecycle of CRE assets, from property and asset management to accounting and investment oversight, emphasizing a "single platform" </p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/dcvttsg2atrveq5e/Decoding_CRE_Tech_-_Yardi_s_Power_the_REstack_Puzzle_and_the_AI_Revolution8jy35.mp3" length="15462374" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[This report provides an in-depth analysis of Yardi Systems and REstack platforms within the commercial real estate (CRE) technology sector. Yardi is identified as a dominant provider of comprehensive, integrated software solutions that are designed to manage the entire lifecycle of CRE assets, from property and asset management to accounting and investment oversight, emphasizing a "single platform" ]]></itunes:summary>
+        <itunes:author>haroldmartin</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>32:12</itunes:duration>
+                <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>ARIA VRM</title>
+        <itunes:title>ARIA VRM</itunes:title>
+        <link>https://haroldmartin.podbean.com/e/aria-vrm/</link>
+                    <comments>https://haroldmartin.podbean.com/e/aria-vrm/#comments</comments>        <pubDate>Fri, 23 May 2025 06:35:34 -0700</pubDate>
+        <guid isPermaLink="false">haroldmartin.podbean.com/8100396e-7cea-36b3-acc0-d665263bd0b6</guid>
+                                    <description><![CDATA[]]></description>
+                                                            <content:encoded><![CDATA[]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/ean2yri2ngwfgef2/ARIA_Virtual_Rights_Management_LLC_Darren_Mannbur8t.mp3" length="3486572" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>haroldmartin</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>14:31</itunes:duration>
+                <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Asymptotic Notation: Big-O, Omega, and Theta_Notation</title>
+        <itunes:title>Asymptotic Notation: Big-O, Omega, and Theta_Notation</itunes:title>
+        <link>https://haroldmartin.podbean.com/e/asymptotic-notation-big-o-omega-and-theta_notation/</link>
+                    <comments>https://haroldmartin.podbean.com/e/asymptotic-notation-big-o-omega-and-theta_notation/#comments</comments>        <pubDate>Mon, 21 Apr 2025 09:28:09 -0700</pubDate>
+        <guid isPermaLink="false">haroldmartin.podbean.com/90a7f5bd-b80a-36ae-8bd1-2a6f8a5287af</guid>
+                                    <description><![CDATA[<p>Summarizes chapter 3 of Introduction to Algorithms by Thomas H Coremen and accompanying lectures.</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>Summarizes chapter 3 of Introduction to Algorithms by Thomas H Coremen and accompanying lectures.</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/f4ckizuh2itf2yus/Asymptotic_Notation_Big-O_Omega_and_Theta_Notationacxwg.mp3" length="3672812" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[Summarizes chapter 3 of Introduction to Algorithms by Thomas H Coremen and accompanying lectures.]]></itunes:summary>
+        <itunes:author>haroldmartin</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>15:18</itunes:duration>
+                <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+</channel>
+</rss>

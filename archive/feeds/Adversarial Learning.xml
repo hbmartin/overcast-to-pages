@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Adversarial Learning]]></title>
+		<description><![CDATA[@joelgrus and @akm talk about data, science, data science, Shingy, and whatever else they feel like]]></description>
+		<link>https://podcasters.spotify.com/pod/show/adversarial-learning</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Wed, 11 Jun 2025 08:34:28 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/4738e388/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Joel Grus]]></author>
+		<copyright><![CDATA[Joel Grus]]></copyright>
+		<language><![CDATA[en-us]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Joel Grus</itunes:author>
+		<itunes:summary>@joelgrus and @akm talk about data, science, data science, Shingy, and whatever else they feel like</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Joel Grus</itunes:name>
+			<itunes:email>podcasts60+4738e388@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/11849106/e27b3aa89601738c.jpeg"/>
+		<item>
+			<title><![CDATA[Adversarial Restarting]]></title>
+			<description><![CDATA[<p>It&#39;s been a couple of years, so Joel and Andrew catch up on what&#39;s new in life and in data science.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Adversarial-Restarting-e20ppu7</link>
+			<guid isPermaLink="false">9f340da2-03f5-40ce-8dbe-14c751469aed</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Mon, 20 Mar 2023 17:44:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/66954631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-20%2F319197181-44100-2-2bf6a50a68208.mp3" length="54995904" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;It&amp;#39;s been a couple of years, so Joel and Andrew catch up on what&amp;#39;s new in life and in data science.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:57:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/11849106/e27b3aa89601738c.jpeg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Adversarial Distancing, Episode 4: Joel's Fizz Buzz Book]]></title>
+			<description><![CDATA[<div> <div>It turns out Joel wrote another book: <a href= "http://leanpub.com/fizzbuzz/c/adversarial_l">Ten Essays on Fizz Buzz</a> (Quarantine does strange things to a person.)</div> <br /> <div>In this episode Andrew and Joel discuss Fizz Buzz, what makes the book interesting, the value of deconstructing problems in different ways, Joel's <a href= "https://www.youtube.com/playlist?list=PLeDtc0GP5ICmdvla18vKjGqMBqMLrZiNK"> side career in acting</a>, why fluffy talks are easier to write than technical talks, the importance of staying fresh, whether "blocklist admin" is the job of the future, Minecraft classes, and how the quarantine is affecting our kids.</div> <br /> <div>Please listen to it.</div> </div>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Adversarial-Distancing--Episode-4-Joels-Fizz-Buzz-Book-eooh7s</link>
+			<guid isPermaLink="false">4c6a6c97-eb75-4061-9d4e-c19de10d3d58</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Thu, 06 Aug 2020 13:50:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119490-16000-2-577ab6ac71668692.mp3" length="22092444" type="audio/mpeg"/>
+			<itunes:summary>&lt;div&gt; &lt;div&gt;It turns out Joel wrote another book: &lt;a href= &quot;http://leanpub.com/fizzbuzz/c/adversarial_l&quot;&gt;Ten Essays on Fizz Buzz&lt;/a&gt; (Quarantine does strange things to a person.)&lt;/div&gt; &lt;br /&gt; &lt;div&gt;In this episode Andrew and Joel discuss Fizz Buzz, what makes the book interesting, the value of deconstructing problems in different ways, Joel&apos;s &lt;a href= &quot;https://www.youtube.com/playlist?list=PLeDtc0GP5ICmdvla18vKjGqMBqMLrZiNK&quot;&gt; side career in acting&lt;/a&gt;, why fluffy talks are easier to write than technical talks, the importance of staying fresh, whether &quot;blocklist admin&quot; is the job of the future, Minecraft classes, and how the quarantine is affecting our kids.&lt;/div&gt; &lt;br /&gt; &lt;div&gt;Please listen to it.&lt;/div&gt; &lt;/div&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:53:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/8dc7aa4b3c964494.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Adversarial Distancing, Episode 3: Two Conversations with Jowanza]]></title>
+			<description><![CDATA[<div> <div>About a month ago we recorded a podcast with <a href= "https://www.jowanza.com/">Jowanza Joseph</a> about engineering and COVID-19 and other mundane topics.</div> <br /> <div>While I (Joel) was procrastinating on editing it, <a href= "https://en.wikipedia.org/wiki/George_Floyd_protests">a lot happened in the world</a>. And then Jowanza wrote <a href= "https://www.jowanza.com/blog/2020/6/1/how-racism-shapes-my-habits"> a blog post about his experiences with racism</a> and how they've affected his life.</div> <br /> <div>Which made it feel really weird to just put out an episode with him that doesn't mention any of these issues. So the three of us went back into the (metaphorical) studio and recorded another episode mostly about his blog post, about racism, and about the state of the world. (As always, we are incapable of staying 100% on-topic, but we did pretty good.)</div> <br /> <div>These aren't necessarily easy topics to discuss, but I think we did a respectful job of it, and I hope you find it interesting and worthwhile. The original podcast episode follows the new one, so you get two episodes in one.</div> <br /> <div>Please listen to it.</div> </div>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Adversarial-Distancing--Episode-3-Two-Conversations-with-Jowanza-eooh7q</link>
+			<guid isPermaLink="false">40acf1e7-d884-43a6-9925-45ff8d708c62</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Mon, 15 Jun 2020 18:19:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119495-16000-2-66ac85aabd31109e.mp3" length="36470521" type="audio/mpeg"/>
+			<itunes:summary>&lt;div&gt; &lt;div&gt;About a month ago we recorded a podcast with &lt;a href= &quot;https://www.jowanza.com/&quot;&gt;Jowanza Joseph&lt;/a&gt; about engineering and COVID-19 and other mundane topics.&lt;/div&gt; &lt;br /&gt; &lt;div&gt;While I (Joel) was procrastinating on editing it, &lt;a href= &quot;https://en.wikipedia.org/wiki/George_Floyd_protests&quot;&gt;a lot happened in the world&lt;/a&gt;. And then Jowanza wrote &lt;a href= &quot;https://www.jowanza.com/blog/2020/6/1/how-racism-shapes-my-habits&quot;&gt; a blog post about his experiences with racism&lt;/a&gt; and how they&apos;ve affected his life.&lt;/div&gt; &lt;br /&gt; &lt;div&gt;Which made it feel really weird to just put out an episode with him that doesn&apos;t mention any of these issues. So the three of us went back into the (metaphorical) studio and recorded another episode mostly about his blog post, about racism, and about the state of the world. (As always, we are incapable of staying 100% on-topic, but we did pretty good.)&lt;/div&gt; &lt;br /&gt; &lt;div&gt;These aren&apos;t necessarily easy topics to discuss, but I think we did a respectful job of it, and I hope you find it interesting and worthwhile. The original podcast episode follows the new one, so you get two episodes in one.&lt;/div&gt; &lt;br /&gt; &lt;div&gt;Please listen to it.&lt;/div&gt; &lt;/div&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:31:45</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/d2ef6a5a1a5b4eca.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Adversarial Distancing - Episode 2]]></title>
+			<description><![CDATA[<p>Joel and Andrew break quarantine (metaphorically) to discuss treehouses, remote work, distance schooling, outschool.com, Joel's attempt to teach his daughter Python, old-school text adventures, socially-distanced eating, the Twitter UI, what happens to school in the fall, OKRs, and whether we should keep the economy closed or re-open it and kill people.</p> <p>Please listen to it.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Adversarial-Distancing---Episode-2-eooh7o</link>
+			<guid isPermaLink="false">fe209fc1-d876-4aa3-a6d0-03e89af5f7cf</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Sat, 16 May 2020 16:31:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119491-16000-2-1939c089c87e75e7.mp3" length="20539152" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Joel and Andrew break quarantine (metaphorically) to discuss treehouses, remote work, distance schooling, outschool.com, Joel&apos;s attempt to teach his daughter Python, old-school text adventures, socially-distanced eating, the Twitter UI, what happens to school in the fall, OKRs, and whether we should keep the economy closed or re-open it and kill people.&lt;/p&gt; &lt;p&gt;Please listen to it.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/c011bb5884cfe599.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Adversarial Distancing - Episode 1]]></title>
+			<description><![CDATA[in which Joel and Andrew briefly break quarantine to talk about Covid-19, social distancing, and the data science grift
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Adversarial-Distancing---Episode-1-eooh7n</link>
+			<guid isPermaLink="false">49ddd0ad-3698-467a-a7a8-3e302980e77e</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Sun, 22 Mar 2020 00:37:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969911/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119487-16000-1-2bf6a5a8a057d06a.mp3" length="13544743" type="audio/mpeg"/>
+			<itunes:summary>in which Joel and Andrew briefly break quarantine to talk about Covid-19, social distancing, and the data science grift
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/394d20249a60918f.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 21: The Cold Start Problem for Becoming a DJ]]></title>
+			<description><![CDATA[<p>Our guest this week is Pardis Noorzad (<a href= "https://twitter.com/djpardis">@djpardis</a>), former data science manager at Twitter and now Head of Data Science at <a href= "https://carbonhealth.com/">Carbon Health</a>. Our conversation spans a wide range of topics:</p> <ul> <li>the Tenderloin</li> <li>Carbon Health</li> <li>what Duran Duran has to do with Black History Month</li> <li>the "cold start problem" for becoming a DJ</li> <li>how long it takes to achieve domain expertise</li> <li>how many people there are in Canada</li> <li>how getting that first data science job is like DJ-ing</li> <li>loyalty</li> <li>the Go programming language</li> <li>the Hopper-Causey effect</li> <li>data science as quality control</li> </ul> <p>Please listen to it.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-21-The-Cold-Start-Problem-for-Becoming-a-DJ-eooh7r</link>
+			<guid isPermaLink="false">b64cd6a60ed342348cfa5d03667ee5bf</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 08 Nov 2019 14:00:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969915/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119494-44100-2-674438c22b64a9bd.mp3" length="42410095" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this week is Pardis Noorzad (&lt;a href= &quot;https://twitter.com/djpardis&quot;&gt;@djpardis&lt;/a&gt;), former data science manager at Twitter and now Head of Data Science at &lt;a href= &quot;https://carbonhealth.com/&quot;&gt;Carbon Health&lt;/a&gt;. Our conversation spans a wide range of topics:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;the Tenderloin&lt;/li&gt; &lt;li&gt;Carbon Health&lt;/li&gt; &lt;li&gt;what Duran Duran has to do with Black History Month&lt;/li&gt; &lt;li&gt;the &quot;cold start problem&quot; for becoming a DJ&lt;/li&gt; &lt;li&gt;how long it takes to achieve domain expertise&lt;/li&gt; &lt;li&gt;how many people there are in Canada&lt;/li&gt; &lt;li&gt;how getting that first data science job is like DJ-ing&lt;/li&gt; &lt;li&gt;loyalty&lt;/li&gt; &lt;li&gt;the Go programming language&lt;/li&gt; &lt;li&gt;the Hopper-Causey effect&lt;/li&gt; &lt;li&gt;data science as quality control&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please listen to it.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/28f4b4b26aa8ae5d.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 20: Churn! Churn! Churn!]]></title>
+			<description><![CDATA[Our guest this episode is Carl Gold (@carl24k),
+Chief Data Scientist at Zuora and author of the forthcoming book
+Fighting Churn with Data. 
+Use the discount code podadvl19 to save some unspecified amount on it.
+
+Topics include
+
+* churn
+* writing a book
+* churn
+* running a subscription business
+* churn
+* domain expertise
+* p-hacking
+* churn
+* how Joel picks what song to use for the podcast intro
+* churn
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-20-Churn--Churn--Churn-eooh87</link>
+			<guid isPermaLink="false">895fd85efa774528a985935c6f566930</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Wed, 30 Oct 2019 15:18:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119513-44100-2-2e4423acc7c735c0.mp3" length="54532201" type="audio/mpeg"/>
+			<itunes:summary>Our guest this episode is Carl Gold (@carl24k),
+Chief Data Scientist at Zuora and author of the forthcoming book
+Fighting Churn with Data. 
+Use the discount code podadvl19 to save some unspecified amount on it.
+
+Topics include
+
+* churn
+* writing a book
+* churn
+* running a subscription business
+* churn
+* domain expertise
+* p-hacking
+* churn
+* how Joel picks what song to use for the podcast intro
+* churn
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:09:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/cb7dd34e70481dc6.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 19: Writing the Same Book Twice]]></title>
+			<description><![CDATA[On this episode, Andrew is joined by Joel Grus (@joelgrus), the author of Data Science from Scratch, whose second edition just came out. They discuss spreadsheets, writing a book, Python 3, type annotations, Jupyter notebooks, reproducibility, and what it's like to do standup comedy at a conference that has a code of conduct.
+
+Please listen to it.
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-19-Writing-the-Same-Book-Twice-eooh7p</link>
+			<guid isPermaLink="false">8207e56aa2ff46d1959a30b8261c407e</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 24 May 2019 13:23:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119500-24000-2-d9835ac7177f8f54.mp3" length="29199128" type="audio/mpeg"/>
+			<itunes:summary>On this episode, Andrew is joined by Joel Grus (@joelgrus), the author of Data Science from Scratch, whose second edition just came out. They discuss spreadsheets, writing a book, Python 3, type annotations, Jupyter notebooks, reproducibility, and what it&apos;s like to do standup comedy at a conference that has a code of conduct.
+
+Please listen to it.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:49:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/7a5ff9898ecbfd7b.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 18: Never Insult a Pigeon Driving a Bus]]></title>
+			<description><![CDATA[<p>Our guest this episode is data scientist <a href= "https://twitter.com/Springcoil">Peadar Coyle</a>.</p> <p>Topics include</p> <ul> <li>Brexit</li> <li>whether Europe is a Python continent or an R continent</li> <li>GDPR</li> <li>how data science is different in Europe than it is in the USA</li> <li>Joel's stock rant against "domain expertise"</li> <li>PyMC3 and Bayesian Analysis</li> <li>teaching online courses</li> <li>whether "primer" is pronounced "primer" or "primer"</li> <li>what Joel and Andrew are most excited about in data science</li> </ul> <p>Please listen to it.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-18-Never-Insult-a-Pigeon-Driving-a-Bus-eooh8e</link>
+			<guid isPermaLink="false">3df941145d334acbb831fa5d51cb1400</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Tue, 12 Mar 2019 13:46:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119502-44100-2-9384cd01bef1777a.mp3" length="56056350" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this episode is data scientist &lt;a href= &quot;https://twitter.com/Springcoil&quot;&gt;Peadar Coyle&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Topics include&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Brexit&lt;/li&gt; &lt;li&gt;whether Europe is a Python continent or an R continent&lt;/li&gt; &lt;li&gt;GDPR&lt;/li&gt; &lt;li&gt;how data science is different in Europe than it is in the USA&lt;/li&gt; &lt;li&gt;Joel&apos;s stock rant against &quot;domain expertise&quot;&lt;/li&gt; &lt;li&gt;PyMC3 and Bayesian Analysis&lt;/li&gt; &lt;li&gt;teaching online courses&lt;/li&gt; &lt;li&gt;whether &quot;primer&quot; is pronounced &quot;primer&quot; or &quot;primer&quot;&lt;/li&gt; &lt;li&gt;what Joel and Andrew are most excited about in data science&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please listen to it.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:08:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/3648683a6cddd288.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 17: Josh Wills]]></title>
+			<description><![CDATA[Adversarial Learning is back from its extended hiatus!
+
+Our guest is famous data scientist Josh Wills. 
+We discuss why Josh is a famous data scientist,
+what it's like working at Slack, 
+data science conferences,
+NLP's "imagenet moment",
+whether Joel should remove the MapReduce chapter from the 2nd edition of Data Science from Scratch,
+and which is the best Rush album.
+
+Please listen to it.
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-17-Josh-Wills-eooh81</link>
+			<guid isPermaLink="false">6d1a0a23a4624e6c81477869365306e3</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Mon, 04 Feb 2019 15:23:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119501-44100-2-01ee3a4cd4b9a647.mp3" length="60225199" type="audio/mpeg"/>
+			<itunes:summary>Adversarial Learning is back from its extended hiatus!
+
+Our guest is famous data scientist Josh Wills. 
+We discuss why Josh is a famous data scientist,
+what it&apos;s like working at Slack, 
+data science conferences,
+NLP&apos;s &quot;imagenet moment&quot;,
+whether Joel should remove the MapReduce chapter from the 2nd edition of Data Science from Scratch,
+and which is the best Rush album.
+
+Please listen to it.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:13:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/9d05e8fb278d6f0c.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 16: My Code of Ethics Will Forbid YAML]]></title>
+			<description><![CDATA[<p>Adversarial Learning is back!<br /> In this long-delayed episode (thanks, technical difficulties)<br /> we are joined by data scientist<br /> <a href="https://twitter.com/SchaunW">Schaun Wheeler</a> to discuss our favorite topic, data ethics. Highlights include:</p> <p>* Schaun's <a href= "https://towardsdatascience.com/an-ethical-code-cant-be-about-ethics-66acaea6f16f"> Medium post</a> "An ethical code can’t be about ethics"<br /> * Do we need a "Hippocratic Oath" for data science<br /> * How to hire data scientists who won't steal people's kidneys<br /> * Why Joel has a Values Mug<br /> * The <a href="https://datapractices.org/manifesto/">Manifesto for Data Practices</a><br /> * Is this all secretly a competency problem?<br /> * Skin in the Game<br /> * Are data ethics issues really just business ethics issues?</p> <p>Please listen to it! </p> <p>(More episodes coming soon!)</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-16-My-Code-of-Ethics-Will-Forbid-YAML-eooh90</link>
+			<guid isPermaLink="false">17c188c3c788475bb08d01f8b5df2142</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 25 May 2018 13:42:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119504-44100-2-c2b7bb8b6e681424.mp3" length="47321675" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Adversarial Learning is back!&lt;br /&gt; In this long-delayed episode (thanks, technical difficulties)&lt;br /&gt; we are joined by data scientist&lt;br /&gt; &lt;a href=&quot;https://twitter.com/SchaunW&quot;&gt;Schaun Wheeler&lt;/a&gt; to discuss our favorite topic, data ethics. Highlights include:&lt;/p&gt; &lt;p&gt;* Schaun&apos;s &lt;a href= &quot;https://towardsdatascience.com/an-ethical-code-cant-be-about-ethics-66acaea6f16f&quot;&gt; Medium post&lt;/a&gt; &quot;An ethical code can’t be about ethics&quot;&lt;br /&gt; * Do we need a &quot;Hippocratic Oath&quot; for data science&lt;br /&gt; * How to hire data scientists who won&apos;t steal people&apos;s kidneys&lt;br /&gt; * Why Joel has a Values Mug&lt;br /&gt; * The &lt;a href=&quot;https://datapractices.org/manifesto/&quot;&gt;Manifesto for Data Practices&lt;/a&gt;&lt;br /&gt; * Is this all secretly a competency problem?&lt;br /&gt; * Skin in the Game&lt;br /&gt; * Are data ethics issues really just business ethics issues?&lt;/p&gt; &lt;p&gt;Please listen to it! &lt;/p&gt; &lt;p&gt;(More episodes coming soon!)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:49:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/2c768d1992d5ff6a.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 15: Could You Rephrase That As An Ethical Question?]]></title>
+			<description><![CDATA[<p>Our guest this week is data scientist for good<br /> <a href="https://twitter.com/boudicca">Lisa Green</a>. </p> <p>Topics of discussion include</p> <ul> <li><a href= "https://twitter.com/joelgrus/status/911973776065044482">What is ethics</a> </li> <li>Joel's previous life as a financial analyst and the ethical dilemmas therein</li> <li>whether there's anything incriminating in Joel's Yahoo history</li> <li>"identity theft" as a <a href= "https://twitter.com/pierre_rochard/status/910265558767214592">bullshit concept</a> </li> <li>Google's corrupt bargain with the NHS</li> <li>what the medical code of ethics <a href= "https://www.ama-assn.org/delivering-care/ama-code-medical-ethics">actually says</a> </li> <li><a href= "https://en.wikipedia.org/wiki/Polycentric_law">polycentric</a> ethics</li> <li>the difference between unethical and incompetent</li> <li>what good a code of ethics does when the "ethical" problems are emergent from the choices of many people</li> <li><a href= "http://www.thestranger.com/news/2017/10/04/25451102/we-snuck-into-seattles-super-secret-white-nationalist-convention"> that terrible article</a> about the Seattle Nazi convention</li> <li><a href= "https://en.wikipedia.org/wiki/Neuroticism">neuroticism</a> </li> <li><a href= "https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/"> the Joel test</a> </li> <li>vgr's <a href= "https://twitter.com/vgr/status/915820735528026112">bad tweet</a></li> </ul> <p>Please listen to it.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-15-Could-You-Rephrase-That-As-An-Ethical-Question-eooh86</link>
+			<guid isPermaLink="false">ee7e715830e1008e75e0a917acb82579</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Thu, 12 Oct 2017 13:50:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119529-44100-2-7634d11d8ebec8ad.mp3" length="61635524" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this week is data scientist for good&lt;br /&gt; &lt;a href=&quot;https://twitter.com/boudicca&quot;&gt;Lisa Green&lt;/a&gt;. &lt;/p&gt; &lt;p&gt;Topics of discussion include&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href= &quot;https://twitter.com/joelgrus/status/911973776065044482&quot;&gt;What is ethics&lt;/a&gt; &lt;/li&gt; &lt;li&gt;Joel&apos;s previous life as a financial analyst and the ethical dilemmas therein&lt;/li&gt; &lt;li&gt;whether there&apos;s anything incriminating in Joel&apos;s Yahoo history&lt;/li&gt; &lt;li&gt;&quot;identity theft&quot; as a &lt;a href= &quot;https://twitter.com/pierre_rochard/status/910265558767214592&quot;&gt;bullshit concept&lt;/a&gt; &lt;/li&gt; &lt;li&gt;Google&apos;s corrupt bargain with the NHS&lt;/li&gt; &lt;li&gt;what the medical code of ethics &lt;a href= &quot;https://www.ama-assn.org/delivering-care/ama-code-medical-ethics&quot;&gt;actually says&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href= &quot;https://en.wikipedia.org/wiki/Polycentric_law&quot;&gt;polycentric&lt;/a&gt; ethics&lt;/li&gt; &lt;li&gt;the difference between unethical and incompetent&lt;/li&gt; &lt;li&gt;what good a code of ethics does when the &quot;ethical&quot; problems are emergent from the choices of many people&lt;/li&gt; &lt;li&gt;&lt;a href= &quot;http://www.thestranger.com/news/2017/10/04/25451102/we-snuck-into-seattles-super-secret-white-nationalist-convention&quot;&gt; that terrible article&lt;/a&gt; about the Seattle Nazi convention&lt;/li&gt; &lt;li&gt;&lt;a href= &quot;https://en.wikipedia.org/wiki/Neuroticism&quot;&gt;neuroticism&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href= &quot;https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/&quot;&gt; the Joel test&lt;/a&gt; &lt;/li&gt; &lt;li&gt;vgr&apos;s &lt;a href= &quot;https://twitter.com/vgr/status/915820735528026112&quot;&gt;bad tweet&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please listen to it.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:04:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/e3cd9adf8e112f5e.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 14: Totally Derivative]]></title>
+			<description><![CDATA[<p>Our guest this week is flashcard kingpin and former Partially Derivative co-host Chris Albon.</p> <p>Topics of discussion include</p> <ul> <li>how good it feels not to have a podcast</li> <li><a href="https://machinelearningflashcards.com/">machine learning flashcards</a></li> <li>being a "natsec bro"</li> <li>whether Chris would punch a Nazi</li> <li>whether Chris would <a href= "https://twitter.com/bitteranagram/status/909904190364880896">sexually harass</a> a Nazi</li> <li>whether "magister" is <a href= "http://news.rice.edu/2017/04/07/college-master-to-become-college-magister/"> a good woke replacement</a> for "master"</li> <li>whether <a href= "https://www.deeplearning.ai/machinelearningsoftwareengjobdescri">that Andrew Ng job posting</a> is appropriate and whether any of us would apply for it</li> <li>killing your heroes</li> <li>having a day a week without social media</li> <li>treadmill desks</li> <li>Chris's next podcast</li> <li>and somehow Joel gets going on <a href= "https://twitter.com/joelgrus/status/841843521153712128">Harry Potter</a></li> </ul> <p>Please listen to it.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-14-Totally-Derivative-eooh94</link>
+			<guid isPermaLink="false">5ab95144aeebe1a0826813bf79e114c6</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Mon, 25 Sep 2017 13:41:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119514-44100-2-7e12753af2fd10e5.mp3" length="64488931" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this week is flashcard kingpin and former Partially Derivative co-host Chris Albon.&lt;/p&gt; &lt;p&gt;Topics of discussion include&lt;/p&gt; &lt;ul&gt; &lt;li&gt;how good it feels not to have a podcast&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://machinelearningflashcards.com/&quot;&gt;machine learning flashcards&lt;/a&gt;&lt;/li&gt; &lt;li&gt;being a &quot;natsec bro&quot;&lt;/li&gt; &lt;li&gt;whether Chris would punch a Nazi&lt;/li&gt; &lt;li&gt;whether Chris would &lt;a href= &quot;https://twitter.com/bitteranagram/status/909904190364880896&quot;&gt;sexually harass&lt;/a&gt; a Nazi&lt;/li&gt; &lt;li&gt;whether &quot;magister&quot; is &lt;a href= &quot;http://news.rice.edu/2017/04/07/college-master-to-become-college-magister/&quot;&gt; a good woke replacement&lt;/a&gt; for &quot;master&quot;&lt;/li&gt; &lt;li&gt;whether &lt;a href= &quot;https://www.deeplearning.ai/machinelearningsoftwareengjobdescri&quot;&gt;that Andrew Ng job posting&lt;/a&gt; is appropriate and whether any of us would apply for it&lt;/li&gt; &lt;li&gt;killing your heroes&lt;/li&gt; &lt;li&gt;having a day a week without social media&lt;/li&gt; &lt;li&gt;treadmill desks&lt;/li&gt; &lt;li&gt;Chris&apos;s next podcast&lt;/li&gt; &lt;li&gt;and somehow Joel gets going on &lt;a href= &quot;https://twitter.com/joelgrus/status/841843521153712128&quot;&gt;Harry Potter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please listen to it.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:07:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/b62065a2c5ef3c1d.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 12: Data Science Myths]]></title>
+			<description><![CDATA[<div> <div>Data scientist <a href= "https://twitter.com/vboykis">Vicki Boykis</a> joins Joel and Andrew to variously debunk and rebunk common Data Science Myths. Is data the new oil? Do data scientists spend 80% of their time munging and cleaning data? What happens if you look in the mirror and say "data science" five times? And many, many, many more.</div> <br /> <div>Please listen to it.</div> </div>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-12-Data-Science-Myths-eooh7u</link>
+			<guid isPermaLink="false">3a35b9baf3a7475fcae53f035759fdd8</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Mon, 07 Aug 2017 13:43:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969918/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119499-44100-2-71fceae5c3a2ddcf.mp3" length="52101039" type="audio/mpeg"/>
+			<itunes:summary>&lt;div&gt; &lt;div&gt;Data scientist &lt;a href= &quot;https://twitter.com/vboykis&quot;&gt;Vicki Boykis&lt;/a&gt; joins Joel and Andrew to variously debunk and rebunk common Data Science Myths. Is data the new oil? Do data scientists spend 80% of their time munging and cleaning data? What happens if you look in the mirror and say &quot;data science&quot; five times? And many, many, many more.&lt;/div&gt; &lt;br /&gt; &lt;div&gt;Please listen to it.&lt;/div&gt; &lt;/div&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:54:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/b5816bb829a16e21.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 11: Data Conferences]]></title>
+			<description><![CDATA[<div> <div>Andrew and Joel come out of hiatus to discuss data conferences:</div> <div>when to attend them, how to get your talk accepted,</div> <div>how to network, optimal heckling strategies, where to stay,</div> <div>and so on. Somehow they also end up talking about fidget spinners,</div> <div>the "objective" section on resumes, the right way to use LinkedIn,</div> <div>why Andrew doesn't think much of data science bootcamps,</div> <div>and why Joel can't convince any data science bootcamps</div> <div>to sponsor the podcast.</div> <br /> <div>Please listen to it.</div> </div>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-11-Data-Conferences-eooh7t</link>
+			<guid isPermaLink="false">d0296bace361bfd3c8e13957fa9c7edf</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Wed, 26 Jul 2017 13:53:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969917/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119498-44100-2-b06b97f2a24c924f.mp3" length="50674544" type="audio/mpeg"/>
+			<itunes:summary>&lt;div&gt; &lt;div&gt;Andrew and Joel come out of hiatus to discuss data conferences:&lt;/div&gt; &lt;div&gt;when to attend them, how to get your talk accepted,&lt;/div&gt; &lt;div&gt;how to network, optimal heckling strategies, where to stay,&lt;/div&gt; &lt;div&gt;and so on. Somehow they also end up talking about fidget spinners,&lt;/div&gt; &lt;div&gt;the &quot;objective&quot; section on resumes, the right way to use LinkedIn,&lt;/div&gt; &lt;div&gt;why Andrew doesn&apos;t think much of data science bootcamps,&lt;/div&gt; &lt;div&gt;and why Joel can&apos;t convince any data science bootcamps&lt;/div&gt; &lt;div&gt;to sponsor the podcast.&lt;/div&gt; &lt;br /&gt; &lt;div&gt;Please listen to it.&lt;/div&gt; &lt;/div&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:52:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/1e34d23c170c694b.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 10: Stories of Degradation and Humiliation]]></title>
+			<description><![CDATA[<p>Friend of the podcast <a href="https://twitter.com/tdhopper">Tim Hopper</a> joins us as we share stories of Very Bad Interviews we've been on. (As you probably expect, Joel has the most humiliating stories.)</p> <p>If you've ever gone on a terrible interview, listen and commiserate. If you've never gone on a terrible interview, listen and live vicariously.</p> <p>Halfway through, Andrew's Internet flakes out and his part stops getting recorded. Thanks to the magic of editing, you'll hardly even notice!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-10-Stories-of-Degradation-and-Humiliation-eooh82</link>
+			<guid isPermaLink="false">81b4e63a1925dfc4f37e62fb67ff683d</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Mon, 22 May 2017 13:31:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119509-44100-2-a58a40859279752d.mp3" length="57213098" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Friend of the podcast &lt;a href=&quot;https://twitter.com/tdhopper&quot;&gt;Tim Hopper&lt;/a&gt; joins us as we share stories of Very Bad Interviews we&apos;ve been on. (As you probably expect, Joel has the most humiliating stories.)&lt;/p&gt; &lt;p&gt;If you&apos;ve ever gone on a terrible interview, listen and commiserate. If you&apos;ve never gone on a terrible interview, listen and live vicariously.&lt;/p&gt; &lt;p&gt;Halfway through, Andrew&apos;s Internet flakes out and his part stops getting recorded. Thanks to the magic of editing, you&apos;ll hardly even notice!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:35</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/e43037fa2e42f89f.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 9: Owning a Planet]]></title>
+			<description><![CDATA[<p>Our guests this week are Curtis Yarvin and Galen Wolfe-Pauly, which means that our topic is <a href= "https://www.urbit.org/">Urbit</a> ("a virtual city of general-purpose personal servers"). What is it?  Why is it? Is is a political project? And does it have anything to offer data science types?</p> <p>Curtis and Galen try to explain what Urbit is and answer Joel's objections, while Andrew keeps trying to tie everything back to ham radio.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-9-Owning-a-Planet-eooh84</link>
+			<guid isPermaLink="false">7f2c4d62c07f800afbc9064290e93c9a</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Mon, 20 Mar 2017 14:02:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969924/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119505-44100-2-6c72ce6b1ccd7fa3.mp3" length="63390117" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guests this week are Curtis Yarvin and Galen Wolfe-Pauly, which means that our topic is &lt;a href= &quot;https://www.urbit.org/&quot;&gt;Urbit&lt;/a&gt; (&quot;a virtual city of general-purpose personal servers&quot;). What is it?  Why is it? Is is a political project? And does it have anything to offer data science types?&lt;/p&gt; &lt;p&gt;Curtis and Galen try to explain what Urbit is and answer Joel&apos;s objections, while Andrew keeps trying to tie everything back to ham radio.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:06:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/8f9e270b99f79234.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 8: On Flink]]></title>
+			<description><![CDATA[<p>Our guest this week is Trevor Grant (<a href= "https://twitter.com/rawkintrevo">@rawkintrevo</a>), an Open Source Technology Developer Evangelist (or similar) at IBM. We discuss how to be a high-energy public speaker, all sorts of weirdly-named Apache projects, <a href= "https://twitter.com/snare/status/835962354814734337">the "my name is" meme</a>, why Joel and Andrew don't like Jupyter-style notebooks, Voltron, and how to talk to your kid about "normies".</p> <p>Please listen to it.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-8-On-Flink-eooh8m</link>
+			<guid isPermaLink="false">4e8a976b06e60b9045ecf6f6a8ce0c2e</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 03 Mar 2017 14:42:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119515-44100-2-90c2f9cec2f032bc.mp3" length="57450916" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this week is Trevor Grant (&lt;a href= &quot;https://twitter.com/rawkintrevo&quot;&gt;@rawkintrevo&lt;/a&gt;), an Open Source Technology Developer Evangelist (or similar) at IBM. We discuss how to be a high-energy public speaker, all sorts of weirdly-named Apache projects, &lt;a href= &quot;https://twitter.com/snare/status/835962354814734337&quot;&gt;the &quot;my name is&quot; meme&lt;/a&gt;, why Joel and Andrew don&apos;t like Jupyter-style notebooks, Voltron, and how to talk to your kid about &quot;normies&quot;.&lt;/p&gt; &lt;p&gt;Please listen to it.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/3bcd0e05997cd2e3.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 7: Telling a Bot to Go Shove It]]></title>
+			<description><![CDATA[<p>Our guest this week is Juliet Hougland (<a href= "https://twitter.com/j_houg">@j_houg</a>), data scientist and engineer at Cloudera. We discuss that <a href= "https://www.wired.com/2017/01/move-coders-physicists-will-soon-rule-silicon-valley/"> bad Wired article about physics and software engineering</a>, why Juliet knows so much about <a href= "https://www.urbit.org/">Urbit</a>, censorship (<a href= "https://twitter.com/joelgrus/status/834603442077265920">Twitter</a> and otherwise), dark patterns (<a href= "https://twitter.com/joelgrus/status/834421686585872386">LinkedIn</a> and otherwise),<br /> and why none of us was savvy enough to start a social network for data people<br /> and raise $19M.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-7-Telling-a-Bot-to-Go-Shove-It-eooh85</link>
+			<guid isPermaLink="false">d49622bc47b6b92a2a728721761030f1</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 24 Feb 2017 15:08:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119519-44100-2-fd59b99e091d7dc2.mp3" length="69485634" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this week is Juliet Hougland (&lt;a href= &quot;https://twitter.com/j_houg&quot;&gt;@j_houg&lt;/a&gt;), data scientist and engineer at Cloudera. We discuss that &lt;a href= &quot;https://www.wired.com/2017/01/move-coders-physicists-will-soon-rule-silicon-valley/&quot;&gt; bad Wired article about physics and software engineering&lt;/a&gt;, why Juliet knows so much about &lt;a href= &quot;https://www.urbit.org/&quot;&gt;Urbit&lt;/a&gt;, censorship (&lt;a href= &quot;https://twitter.com/joelgrus/status/834603442077265920&quot;&gt;Twitter&lt;/a&gt; and otherwise), dark patterns (&lt;a href= &quot;https://twitter.com/joelgrus/status/834421686585872386&quot;&gt;LinkedIn&lt;/a&gt; and otherwise),&lt;br /&gt; and why none of us was savvy enough to start a social network for data people&lt;br /&gt; and raise $19M.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:12:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/e2746f26316bdcf8.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 6: Good Data Science Is Always Political]]></title>
+			<description><![CDATA[<p>Is good data science always political? Our regularly scheduled guest had to cancel at the last minute, so Joel and Andrew decided to talk about politics. </p> <p>Topics covered include:<br /> <br /></p> <ul> <li>the one data scientist who’s not on twitter</li> <li>how much Joel hates the xkcd cartoon</li> <li>free speech in Canada (which Joel gets very wrong, please don't @ me)</li> <li>how one (or one's bot) gets banned from twitter</li> <li>Joel getting a phone call from his kid's school</li> <li>#YarvinGate and #YarvinGate2</li> <li>how good it feels to hold a pitchfork</li> <li>loving one's neighbor vs tolerating one's neighbor</li> <li>why everyone hates Kant</li> <li>Nazi-punching</li> <li>the pros and cons of street violence</li> <li>whether companies should take political stands</li> <li>whether Shopify should power the Breitbart store</li> <li>what the hell do they even sell in the Breitbart store anyway?</li> <li>the difference between refusing to do business with customers because you don't approve them and refusing to business with customers because twitter doesn't approve of them</li> </ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-6-Good-Data-Science-Is-Always-Political-eooh7v</link>
+			<guid isPermaLink="false">677cd6736d739d7f04fbc8092a650bef</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 10 Feb 2017 15:06:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119507-44100-2-a83f26ef1993f96d.mp3" length="49556921" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Is good data science always political? Our regularly scheduled guest had to cancel at the last minute, so Joel and Andrew decided to talk about politics. &lt;/p&gt; &lt;p&gt;Topics covered include:&lt;br /&gt; &lt;br /&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;the one data scientist who’s not on twitter&lt;/li&gt; &lt;li&gt;how much Joel hates the xkcd cartoon&lt;/li&gt; &lt;li&gt;free speech in Canada (which Joel gets very wrong, please don&apos;t @ me)&lt;/li&gt; &lt;li&gt;how one (or one&apos;s bot) gets banned from twitter&lt;/li&gt; &lt;li&gt;Joel getting a phone call from his kid&apos;s school&lt;/li&gt; &lt;li&gt;#YarvinGate and #YarvinGate2&lt;/li&gt; &lt;li&gt;how good it feels to hold a pitchfork&lt;/li&gt; &lt;li&gt;loving one&apos;s neighbor vs tolerating one&apos;s neighbor&lt;/li&gt; &lt;li&gt;why everyone hates Kant&lt;/li&gt; &lt;li&gt;Nazi-punching&lt;/li&gt; &lt;li&gt;the pros and cons of street violence&lt;/li&gt; &lt;li&gt;whether companies should take political stands&lt;/li&gt; &lt;li&gt;whether Shopify should power the Breitbart store&lt;/li&gt; &lt;li&gt;what the hell do they even sell in the Breitbart store anyway?&lt;/li&gt; &lt;li&gt;the difference between refusing to do business with customers because you don&apos;t approve them and refusing to business with customers because twitter doesn&apos;t approve of them&lt;/li&gt; &lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/22c45a8819e2e026.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 5: The Legend of Plas Vander]]></title>
+			<description><![CDATA[<p class="p1">Our guest is <a href= "https://twitter.com/jakevdp">Jake VanderPlas</a>, who is a real Data Science Fellow at the UW eScience Institute, and is the author of the recently published <a href= "http://shop.oreilly.com/product/0636920034919.do"><em>Python Data Science Handbook</em></a>. </p> <p class="p1">Topics discussed include</p> <ul> <li class="p1"><a href= "http://grammar.about.com/od/ab/g/Bicapitalization.htm">BiCapitalization</a></li> <li class="p1">bridging the astronomy-astrology divide</li> <li class="p1">whether the e in eScience is the same as the e in eBay</li> <li class="p1">Myers-Briggs</li> <li class="p1">why Jake keeps saying “transcriptable” like it's a real word</li> <li class="p1">whether newsletters have replaced blogs</li> <li class="p1">how to talk to people at parties</li> <li class="p1">what it’s like being a data scientist in academia</li> <li class="p1">whether students still hook up in the library</li> <li class="p1">why your zodiac sign isn’t what you think it is</li> <li class="p1">whether Pluto is a planet and why people care</li> <li class="p1">teaching statistics using simulation</li> <li class="p1">how to pronounce "numpy"</li> <li class="p1">using deep learning to identify new constellations</li> <li class="p1">building an AI that chooses the right data visualization</li> </ul> <p>This week's theme music has a cool Vegas swanky lounge vibe. </p> <p>Please listen to it.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-5-The-Legend-of-Plas-Vander-eooh8k</link>
+			<guid isPermaLink="false">20fdfc9de1c5bb500ef66f5387efe658</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 13 Jan 2017 15:08:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119518-44100-2-32d4f7d7233d11a3.mp3" length="61367612" type="audio/mpeg"/>
+			<itunes:summary>&lt;p class=&quot;p1&quot;&gt;Our guest is &lt;a href= &quot;https://twitter.com/jakevdp&quot;&gt;Jake VanderPlas&lt;/a&gt;, who is a real Data Science Fellow at the UW eScience Institute, and is the author of the recently published &lt;a href= &quot;http://shop.oreilly.com/product/0636920034919.do&quot;&gt;&lt;em&gt;Python Data Science Handbook&lt;/em&gt;&lt;/a&gt;. &lt;/p&gt; &lt;p class=&quot;p1&quot;&gt;Topics discussed include&lt;/p&gt; &lt;ul&gt; &lt;li class=&quot;p1&quot;&gt;&lt;a href= &quot;http://grammar.about.com/od/ab/g/Bicapitalization.htm&quot;&gt;BiCapitalization&lt;/a&gt;&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;bridging the astronomy-astrology divide&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;whether the e in eScience is the same as the e in eBay&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;Myers-Briggs&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;why Jake keeps saying “transcriptable” like it&apos;s a real word&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;whether newsletters have replaced blogs&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;how to talk to people at parties&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;what it’s like being a data scientist in academia&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;whether students still hook up in the library&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;why your zodiac sign isn’t what you think it is&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;whether Pluto is a planet and why people care&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;teaching statistics using simulation&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;how to pronounce &quot;numpy&quot;&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;using deep learning to identify new constellations&lt;/li&gt; &lt;li class=&quot;p1&quot;&gt;building an AI that chooses the right data visualization&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This week&apos;s theme music has a cool Vegas swanky lounge vibe. &lt;/p&gt; &lt;p&gt;Please listen to it.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:03:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/f2d958e3b3081f48.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 4: Datasets We Hate]]></title>
+			<description><![CDATA[<p>Our guest this week is Sarah Guido (@sarah_guido), Senior Data Scientist at Mashable. We discuss datasets we hate, how to pronounce "La Croix", what makes "library science" a science, 9/11, data science networking, Joel's plan to build a Twitter client that automatically inserts a "clap" emoji after every word, and Mashable's "best celebrity feuds" of 2016.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-4-Datasets-We-Hate-eooh8j</link>
+			<guid isPermaLink="false">f8179e071f4a841a1da6207b041964dc</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Tue, 03 Jan 2017 14:34:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119528-44100-2-38b0203555e65283.mp3" length="98078638" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this week is Sarah Guido (@sarah_guido), Senior Data Scientist at Mashable. We discuss datasets we hate, how to pronounce &quot;La Croix&quot;, what makes &quot;library science&quot; a science, 9/11, data science networking, Joel&apos;s plan to build a Twitter client that automatically inserts a &quot;clap&quot; emoji after every word, and Mashable&apos;s &quot;best celebrity feuds&quot; of 2016.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:08:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/250e4289ffa15ad0.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 3: Beantown Data Science]]></title>
+			<description><![CDATA[<p>Our guest this week is Andrew Therriault (@therriaultphd). We talk about data science in the big city, politics, slime in the ice machine, labor unions, how easy it is to join datasets, and whether Boston really deserves to be called Beantown.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-3-Beantown-Data-Science-eooh8d</link>
+			<guid isPermaLink="false">5b7b0f72bce019d4dba02ea6f222d88a</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 23 Dec 2016 05:29:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119534-44100-2-b31f4e2f87b82c6d.mp3" length="90251307" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this week is Andrew Therriault (@therriaultphd). We talk about data science in the big city, politics, slime in the ice machine, labor unions, how easy it is to join datasets, and whether Boston really deserves to be called Beantown.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:02:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/eb8895c889a79974.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode Two: The Tallest Data Scientist]]></title>
+			<description><![CDATA[<p>Our guest this week is Tim Hopper (@tdhopper), the tallest data scientist. We discuss life, blogs, robots, Twitter, and other data-related stuff, but Joel keeps returning to the topic of his height.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-Two-The-Tallest-Data-Scientist-eooh8a</link>
+			<guid isPermaLink="false">b86a6dda91b099450fecf3a32de051cb</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Wed, 07 Dec 2016 05:42:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119545-44100-2-7e012e15c3b2ee74.mp3" length="73120205" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest this week is Tim Hopper (@tdhopper), the tallest data scientist. We discuss life, blogs, robots, Twitter, and other data-related stuff, but Joel keeps returning to the topic of his height.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/a9904d042c946899.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode One: A New Hope]]></title>
+			<description><![CDATA[<p>In the first episode, Joel and Andrew cover who they are, how they met, how they got into data science, why they have a podcast, and chat about topics they have in mind, including but not limited to:</p> <div style="margin-left: 2em;"> <ol> <li style="font-weight: 400;"><span style= "font-weight: 400;">Politics</span></li> <li style="font-weight: 400;"><span style= "font-weight: 400;">Technical tool development</span></li> <li style="font-weight: 400;"><span style= "font-weight: 400;">Whether to get a PhD</span></li> <li style="font-weight: 400;"><span style="font-weight: 400;">How to get into data science</span></li> <li style="font-weight: 400;"><span style="font-weight: 400;">How to hire data scientists</span></li> <li style="font-weight: 400;"><span style= "font-weight: 400;">Ethical questions in data science</span></li> <li style="font-weight: 400;"><span style="font-weight: 400;">Jake van der Plas</span></li> <li style="font-weight: 400;"><span style="font-weight: 400;">Type A vs Type B</span></li> <li style="font-weight: 400;"><span style= "font-weight: 400;">Thinkpiece about why Scala is the future of data science</span></li> <li style="font-weight: 400;"><span style="font-weight: 400;">Dave Shing, AOL’s Digital Prophet, a.k.a. http://twitter.com/shingy</span></li> <li style="font-weight: 400;"><span style="font-weight: 400;">Why is Silicon Valley considered a place you need to set up shop</span></li> </ol> </div>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/adversarial-learning/episodes/Episode-One-A-New-Hope-eooh89</link>
+			<guid isPermaLink="false">47d0cf4b413af5ed37afcd188e5074e6</guid>
+			<dc:creator><![CDATA[Joel Grus]]></dc:creator>
+			<pubDate>Fri, 11 Nov 2016 00:41:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4738e388/podcast/play/24969929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F144119496-44100-2-d03d64039070e1d9.mp3" length="53115343" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the first episode, Joel and Andrew cover who they are, how they met, how they got into data science, why they have a podcast, and chat about topics they have in mind, including but not limited to:&lt;/p&gt; &lt;div style=&quot;margin-left: 2em;&quot;&gt; &lt;ol&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style= &quot;font-weight: 400;&quot;&gt;Politics&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style= &quot;font-weight: 400;&quot;&gt;Technical tool development&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style= &quot;font-weight: 400;&quot;&gt;Whether to get a PhD&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;How to get into data science&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;How to hire data scientists&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style= &quot;font-weight: 400;&quot;&gt;Ethical questions in data science&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Jake van der Plas&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Type A vs Type B&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style= &quot;font-weight: 400;&quot;&gt;Thinkpiece about why Scala is the future of data science&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Dave Shing, AOL’s Digital Prophet, a.k.a. http://twitter.com/shingy&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Why is Silicon Valley considered a place you need to set up shop&lt;/span&gt;&lt;/li&gt; &lt;/ol&gt; &lt;/div&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:36:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/11849106/db4a6395bcab2b7c.jpeg"/>
+		</item>
+	</channel>
+</rss>

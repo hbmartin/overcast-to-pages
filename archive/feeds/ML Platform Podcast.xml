@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:spotify="https://www.spotify.com/ns/rss">
+  <channel>
+    <generator>Fame Host (https://fame.so)</generator>
+    <title>ML Platform Podcast</title>
+    <link>https://podcasts.fame.so/ml-platform-podcast</link>
+    <itunes:new-feed-url>https://feeds.fame.so/ml-platform-podcast</itunes:new-feed-url>
+    <description>Get behind-the-scenes insights into the world of internal ML platforms and MLOps stack components with Piotr Niedźwiedź and Aurimas Griciūnas in their show, where together with ML platform professionals, they discuss design choices, best practices, and real-world solutions to MLOps challenges.
+
+Brought to you by neptune.ai.</description>
+    <copyright>neptune.ai</copyright>
+    <language>en</language>
+    <pubDate>Fri, 29 Apr 2022 08:59:53 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 23:22:42 +0000</lastBuildDate>
+    <image>
+      <url>https://content.fameapp.so/uploads/xzq0lzvq/e1677960-1f16-11ee-bb39-0f7f0023966a/e1677ad0-1f16-11ee-b0de-4f59e6257ea9.jpg</url>
+      <title>ML Platform Podcast</title>
+      <link>https://podcasts.fame.so/ml-platform-podcast</link>
+      <description>Get behind-the-scenes insights into the world of internal ML platforms and MLOps stack components with Piotr Niedźwiedź and Aurimas Griciūnas in their show, where together with ML platform professionals, they discuss design choices, best practices, and real-world solutions to MLOps challenges.
+
+Brought to you by neptune.ai.</description>
+    </image>
+    <googleplay:author>neptune.ai</googleplay:author>
+    <googleplay:image href="https://content.fameapp.so/uploads/xzq0lzvq/e1677960-1f16-11ee-bb39-0f7f0023966a/e1677ad0-1f16-11ee-b0de-4f59e6257ea9.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Technology"/>
+    <googleplay:summary>Get behind-the-scenes insights into the world of internal ML platforms and MLOps stack components with Piotr Niedźwiedź and Aurimas Griciūnas in their show, where together with ML platform professionals, they discuss design choices, best practices, and real-world solutions to MLOps challenges.
+
+Brought to you by neptune.ai.</googleplay:summary>
+    <googleplay:explicit>No</googleplay:explicit>
+    <googleplay:block>No</googleplay:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>neptune.ai</itunes:author>
+    <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/e1677960-1f16-11ee-bb39-0f7f0023966a/e1677ad0-1f16-11ee-b0de-4f59e6257ea9.jpg"/>
+    <itunes:summary>Get behind-the-scenes insights into the world of internal ML platforms and MLOps stack components with Piotr Niedźwiedź and Aurimas Griciūnas in their show, where together with ML platform professionals, they discuss design choices, best practices, and real-world solutions to MLOps challenges.
+
+Brought to you by neptune.ai.</itunes:summary>
+    <itunes:subtitle>Get behind-the-scenes insights into the world of internal ML platforms and MLOps stack components with Piotr Niedźwiedź and Aurimas Griciūnas in their show, where together with ML platform professionals, they discuss design choices, best practices, and real-world solutions to MLOps challenges.
+
+Brought to you by neptune.ai.</itunes:subtitle>
+    <itunes:keywords>neptune.ai, ML, Machine Learning, MLOps, ML platforms, ML teams</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>neptune.ai</itunes:name>
+      <itunes:email>jakub.czakon@neptune.ai</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <item>
+      <title>Navigating Vector Databases: Indexing Strategies, GPU, and More</title>
+      <link>https://podcasts.fame.so/e/1n205y4n-navigating-vector-databases-indexing-strategies-gpu-and-more</link>
+      <itunes:title>Navigating Vector Databases: Indexing Strategies, GPU, and More</itunes:title>
+      <itunes:episode>39</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">219q3j71</guid>
+      <description>On this episode of the ML Platform Podcast, Frank Liu discusses the basics, problems and challenges of vector databases, including indexing strategies, segmentation, vector lengths used in production, GPU-accelerated vector databases, potential use cases, and more.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/E4rNTYN3aIg">Youtube</a> channel<br><br>Resources:<br><br><a href="https://ai.meta.com/blog/imagebind-six-modalities-binding-ai/">ImageBind: Holistic AI learning across six modalities</a><br><a href="https://frankliucs.com/">Frank’s Liu website</a><br><a href="https://milvus.io/">Milvus</a><br><a href="https://osschat.io/">OSS Chat</a></div><div><br>Follow us &amp; stay updated:<br>► Visit our <a href="https://neptune.ai/?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-09">website</a><br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Follow us on <a href="https://twitter.com/neptune_ai">Twitter</a><br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/fzliu/">Frank</a> on Linkedin<br>Connect with <a href="https://twitter.com/frankzliu">Frank</a> on Twitter/X<br><br>The episode was recorded on 7 September 2023, and some information may not be up-to-date.<br><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Fri, 21 Jun 2024 11:30:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wx9nr458.mp3" length="85441662" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/9697e620-2ed9-11ef-abc5-5355c411d12d/9697e790-2ed9-11ef-b10e-7b4e855d99d1.png"/>
+      <itunes:duration>4271</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, Frank Liu discusses the basics, problems and challenges of vector databases, including indexing strategies, segmentation, vector lengths used in production, GPU-accelerated vector databases, potential use cases, and more.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, Frank Liu discusses the basics, problems and challenges of vector databases, including indexing strategies, segmentation, vector lengths used in production, GPU-accelerated vector databases, potential use cases, and more.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Learnings From Building the ML Platform at DoorDash With Hien Luu</title>
+      <link>https://podcasts.fame.so/e/x8vqwxwn-learnings-from-building-the-ml-platform-at-doordash-with-hien-luu</link>
+      <itunes:title>Learnings From Building the ML Platform at DoorDash With Hien Luu</itunes:title>
+      <itunes:episode>38</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">70y7vxv0</guid>
+      <description>On this episode of the ML Platform Podcast, Hien Luu talks about building the ML Platform at DoorDash, including big data models, building platforms at the enterprise level, centralized vs. decentralized ML platform teams, LLM strategy, MLOps in the shadow of LLMs, and more.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/WvH7uqFI48M">Youtube</a> channel<br><br>Resources:<br><br><a href="https://neptune.ai/blog/ml-platform-guide?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-08">Building a Machine Learning Platform [Definitive Guide]</a><br><a href="https://doordash.engineering/2020/04/23/doordash-ml-platform-the-beginning/">DoorDash’s ML Platform – The Beginning</a><br><a href="https://doordash.engineering/2022/04/12/3-principles-for-building-an-ml-platform/">3 Principles for Building an ML Platform That Will Sustain Hypergrowth</a><br><a href="https://www.linkedin.com/posts/hienluu_mlops-mlopscommunity-activity-7096554071439925248-OOul">Hien's LinkedIn Survey</a><br><br>Follow us &amp; stay updated:<br>► Visit our <a href="https://neptune.ai/?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-08">website</a><br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Follow us on <a href="https://twitter.com/neptune_ai">Twitter</a><br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/hienluu">Hien</a> on Linkedin<br><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Fri, 07 Jun 2024 11:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wrjr06vw.mp3" length="79336542" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/1a527b00-1f34-11ef-92c6-01fa15bbc748/1a527c60-1f34-11ef-bc63-11591768c117.png"/>
+      <itunes:duration>3966</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, Hien Luu talks about building the ML Platform at DoorDash, including big data models, building platforms at the enterprise level, centralized vs. decentralized ML platform teams, LLM strategy, MLOps in the shadow of LLMs, and more.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, Hien Luu talks about building the ML Platform at DoorDash, including big data models, building platforms at the enterprise level, centralized vs. decentralized ML platform teams, LLM strategy, MLOps in the shadow of LLMs, and more.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Breaking Down Workflow Orchestration and Pipeline Authoring in MLOps</title>
+      <link>https://podcasts.fame.so/e/pnm5pk0n-breaking-down-workflow-orchestration-and-pipeline-authoring-in-mlops</link>
+      <itunes:title>Breaking Down Workflow Orchestration and Pipeline Authoring in MLOps</itunes:title>
+      <itunes:episode>37</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">71vlq6n1</guid>
+      <description>On this episode of the ML Platform Podcast, Adam Probs and Hamza Tahir discuss workflow orchestration and pipeline authoring in MLOps,  focusing on ZenML's capabilities. They cover the main jobs-to-be-done, challenges behind testing integrations, ZenML’s role in end-to-end ML platforms, ZenML Cloud, the future of MLOps with LLMs, and more.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/UKk8EzVaUvg">YouTube</a> channel<br><br>Resources:<br><br><a href="https://www.zenml.io/blog/oss-dashboard-release">ZenML's big announcement</a><br><a href="https://github.com/zenml-io/zenml">ZenML on Github</a><br><a href="https://neptune.ai/blog/ml-experiment-tracking?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-07">ML Experiment Tracking: What It Is, Why It Matters, and How to Implement It</a></div><div><br></div><div>Follow us &amp; stay updated:<br>► Visit our <a href="https://neptune.ai/?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-07">website</a><br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Follow us on <a href="https://twitter.com/neptune_ai">Twitter</a><br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/adam-probst">Adam</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/hamzatahirofficial">Hamza</a> on Linkedin<br><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Fri, 24 May 2024 11:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8vy4lxzw.mp3" length="62018300" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/bd1f0840-18e9-11ef-8248-036de34a6f90/bd1f0a30-18e9-11ef-b412-ed0d15de138a.png"/>
+      <itunes:duration>3140</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, Adam Probs and Hamza Tahir discuss workflow orchestration and pipeline authoring in MLOps,  focusing on ZenML's capabilities. They cover the main jobs-to-be-done, challenges behind testing integrations, ZenML’s role in end-to-end ML platforms, ZenML Cloud, the future of MLOps with LLMs, and more.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, Adam Probs and Hamza Tahir discuss workflow orchestration and pipeline authoring in MLOps,  focusing on ZenML's capabilities. They cover the main jobs-to-be-done, challenges behind testing integrations, ZenML’s role in end-to-end ML platforms, ZenML Cloud, the future of MLOps with LLMs, and more.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Going Deep On Model Serving, Deploying LLMs and Anything Production-Deployment</title>
+      <link>https://podcasts.fame.so/e/x814yzpn-going-deep-on-model-serving-deploying-llms-and-anything-production-deployment</link>
+      <itunes:title>Going Deep On Model Serving, Deploying LLMs and Anything Production-Deployment</itunes:title>
+      <itunes:episode>36</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">713pq5l0</guid>
+      <description>On this episode of the ML Platform Podcast, Chaoyu Yang discusses the MLOps stack's model serving, model registry and feature store components, online model training, large language model deployment, LLM agents, and more.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/oREWPxJQUEE">YouTube</a> channel<br><br>The episode was recorded on 20 July 2023, and some information may not be up-to-date. Stay tuned for an updated version on our blog</div><div><br><br>Resources:<br><br><a href="https://www.bentoml.com/">BentoML</a><br><a href="https://cloud.bentoml.com/">BentoCloud</a><br><a href="https://youtu.be/B5ABVupqi1U">Learnings From Building the ML Platform at Uber (Michelangelo)</a> <br><a href="https://neptune.ai/blog/ml-platform-guide?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-06">Building a Machine Learning Platform [Definitive Guide] <br></a><br>Follow us &amp; stay updated:<br>► Visit our <a href="https://neptune.ai/?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-06">website</a><br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Follow us on <a href="https://twitter.com/neptune_ai">Twitter</a><br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/parano">Chaoyu</a> on Linkedin<br><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Fri, 10 May 2024 11:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w0vxy2jw.mp3" length="59012274" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/4b2e3760-18e9-11ef-bc6a-6dc088feed30/4b2e3980-18e9-11ef-83f2-df8b206b5cdb.png"/>
+      <itunes:duration>2530</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, Chaoyu Yang discusses the MLOps stack's model serving, model registry and feature store components, online model training, large language model deployment, LLM agents, and more.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, Chaoyu Yang discusses the MLOps stack's model serving, model registry and feature store components, online model training, large language model deployment, LLM agents, and more.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Building Internal ML Platform at Scout24: How to Ship Features that People Actually Need</title>
+      <link>https://podcasts.fame.so/e/x81rp3rn-building-internal-ml-platform-at-scout24-how-to-ship-features-that-people-actually-need</link>
+      <itunes:title>Building Internal ML Platform at Scout24: How to Ship Features that People Actually Need</itunes:title>
+      <itunes:episode>35</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">713zl9z0</guid>
+      <description>On this episode of the ML Platform Podcast, we have Olalekan Elesin as our guest. Olalekan shares insights on building the ML Platform at Scout24, including problems to be solved, reasons for going multi-cloud, point solutions vs. end-to-end platforms, data platforms vs. ML platforms, iterative product development approach, and more.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/2tVUwrgT0Bs">YouTube</a> channel<br><br>Resources:<br><br><a href="https://www.amazon.com/gp/product/1401309666/">The Long Tail: Why the Future of Business is Selling Less of More by Chris Anderson<br></a><a href="https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673/">What Customers Want: Using Outcome-Driven Innovation to Create Breakthrough Products and Services by Anthony Ulwick<br></a><a href="https://handbook.gitlab.com/">The GitLab Handbook</a><br><a href="https://neptune.ai/blog/ml-platform-guide?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-05">Building a Machine Learning Platform [Definitive Guide]</a></div><div><br></div><div>Follow us &amp; stay updated:<br>► Visit our <a href="https://neptune.ai/?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-05">website</a> <br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Follow us on <a href="https://twitter.com/neptune_ai">Twitter</a><br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/elesinolalekan">Olalekan</a> on Linkedin<br><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Fri, 26 Apr 2024 11:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w0v2mm4w.mp3" length="62912466" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/3f62db80-18e9-11ef-9a4b-3b4f50aad842/3f62dd70-18e9-11ef-af42-557bdaa291d4.png"/>
+      <itunes:duration>2965</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, we have Olalekan Elesin as our guest. Olalekan shares insights on building the ML Platform at Scout24, including problems to be solved, reasons for going multi-cloud, point solutions vs. end-to-end platforms, data platforms vs. ML platforms, iterative product development approach, and more.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, we have Olalekan Elesin as our guest. Olalekan shares insights on building the ML Platform at Scout24, including problems to be solved, reasons for going multi-cloud, point solutions vs. end-to-end platforms, data platforms vs. ML platforms, iterative product development approach, and more.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Building ML Platform at Uber, Feature Stores, Vector Databases, and Real-time Feature Management</title>
+      <link>https://podcasts.fame.so/e/v8wk9qz8-building-ml-platform-at-uber-feature-stores-vector-databases-and-real-time-feature-management</link>
+      <itunes:title>Building ML Platform at Uber, Feature Stores, Vector Databases, and Real-time Feature Management</itunes:title>
+      <itunes:episode>34</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">80xnrjy0</guid>
+      <description>On this episode of the ML Platform Podcast, Mike Del Balso is our guest. Mike shares insights on his journey from Google to Tecton, building the ML platform (Michelangelo) at Uber, feature platforms, vector databases, and the future of the MLOps space in the world of foundational models.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/B5ABVupqi1U">YouTube</a> channel<br><br>Resources:</div><div><br><a href="https://research.google/pubs/machine-learning-the-high-interest-credit-card-of-technical-debt/">Machine Learning: The High Interest Credit Card of Technical Debt<br></a><a href="https://www.uber.com/en-PT/blog/michelangelo-machine-learning-platform/">Meet Michelangelo: Uber’s Machine Learning Platform</a><br><a href="https://blog.langchain.dev/feature-stores-and-llms/">Feature Stores and LLMs</a><br><a href="https://neptune.ai/blog/ml-platform-guide?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-04">Building a Machine Learning Platform [Definitive Guide]</a><br><br></div><div>Follow us &amp; stay updated:<br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Join our Slack <a href="https://go.mlops.community/slack">MLOps Community</a> (#neptune-ai)<br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/michaeldelbalso">Mike</a> on Linkedin<br><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Fri, 12 Apr 2024 11:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8954xmj8.mp3" length="100188906" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/31a1f100-18e9-11ef-b50a-254960e49b89/31a1f260-18e9-11ef-b222-1b0e41eaa87a.png"/>
+      <itunes:duration>4565</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, Mike Del Balso is our guest. Mike shares insights on his journey from Google to Tecton, building the ML platform (Michelangelo) at Uber, feature platforms, vector databases, and the future of the MLOps space in the world of foundational models.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, Mike Del Balso is our guest. Mike shares insights on his journey from Google to Tecton, building the ML platform (Michelangelo) at Uber, feature platforms, vector databases, and the future of the MLOps space in the world of foundational models.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Year in Review: LLMs &amp; LLMOps, State of MLOps, and What's Next in 2024</title>
+      <link>https://podcasts.fame.so/e/mn4jylrn-year-in-review-llms-llmops-state-of-mlops-and-whats-next-in-2024</link>
+      <itunes:title>Year in Review: LLMs &amp; LLMOps, State of MLOps, and What's Next in 2024</itunes:title>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">x06znrp0</guid>
+      <description>On this special, end-of-the-year episode of the ML Platform Podcast, Piotr Niedzwiedzi and Aurimas Griciūnas discuss the state of MLOps and LLMOps, the impact of LLMs on layoffs and ML team composition, unsolved LLM challenges, use cases that don’t align with LLMs, MLOps and LLMOps predictions for 2024, and more.
+
+With LLMs and AI being the center of discussion we also decided to experiment with generative AI for this video. Hope you don’t mind the experimentation.</description>
+      <content:encoded><![CDATA[<div>On this special, end-of-the-year episode of the ML Platform Podcast, Piotr Niedzwiedzi and Aurimas Griciūnas discuss the state of MLOps and LLMOps, the impact of LLMs on layoffs and ML team composition, unsolved LLM challenges, use cases that don’t align with LLMs, MLOps and LLMOps predictions for 2024, and more.<br><br>With LLMs and AI being the center of discussion we also decided to experiment with generative AI for this video. Hope you don’t mind the experimentation.<br><br>Find the episode on our <a href="https://youtu.be/UfuC8bZVc3A">YouTube</a> channel<br><br>Resources:</div><ul><li><a href="https://neptune.ai/blog/mlops-is-extension-of-devops?utm_source=podcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-special-23">MLOps is an extension of DevOps. Not a fork</a>&nbsp;</li><li><a href="https://youtu.be/6bfyfZFlT7M">ML Platform Teams, Features Stores, and Where MLOps Extends DevOps With Aurimas Griciunas</a></li><li><a href="https://youtu.be/W-iQoQpgwG4">Learnings From Building the ML Platform at Mailchimp With Mikiko Bazeley</a></li><li><a href="https://resources.tecton.ai/the-state-of-applied-machine-learning-2023-report">The state of applied ML by Tecton</a></li><li><a href="https://clear.ml/new-research-report-mlops-in-2023">MLOps in 2023 by ClearML</a></li></ul><div><br></div><div>Follow us &amp; stay updated:<br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Join our Slack <a href="https://go.mlops.community/slack">MLOps Community</a> (#neptune-ai)<br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Fri, 22 Dec 2023 11:52:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8vy1p9mw.mp3" length="86654637" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/c87ff960-a0c0-11ee-be89-1d12b6d33665/c87ffac0-a0c0-11ee-931d-0b6e06c9e29b.png"/>
+      <itunes:duration>3610</itunes:duration>
+      <itunes:summary>On this special, end-of-the-year episode of the ML Platform Podcast, Piotr Niedzwiedzi and Aurimas Griciūnas discuss the state of MLOps and LLMOps, the impact of LLMs on layoffs and ML team composition, unsolved LLM challenges, use cases that don’t align with LLMs, MLOps and LLMOps predictions for 2024, and more.
+
+With LLMs and AI being the center of discussion we also decided to experiment with generative AI for this video. Hope you don’t mind the experimentation.</itunes:summary>
+      <itunes:subtitle>On this special, end-of-the-year episode of the ML Platform Podcast, Piotr Niedzwiedzi and Aurimas Griciūnas discuss the state of MLOps and LLMOps, the impact of LLMs on layoffs and ML team composition, unsolved LLM challenges, use cases that don’t align with LLMs, MLOps and LLMOps predictions for 2024, and more.
+
+With LLMs and AI being the center of discussion we also decided to experiment with generative AI for this video. Hope you don’t mind the experimentation.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Building MLOps Capabilities at GitLab As a One-Person ML Platform Team With Eduardo Bonet</title>
+      <link>https://podcasts.fame.so/e/2n6m5l68-building-mlops-capabilities-at-gitlab-as-a-one-person-ml-platform-team</link>
+      <itunes:title>Building MLOps Capabilities at GitLab As a One-Person ML Platform Team With Eduardo Bonet</itunes:title>
+      <itunes:episode>32</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">j027pl91</guid>
+      <description>On this episode of the ML Platform Podcast, we have Eduardo Bonet as our guest. Eduardo shares insights on the Staff Incubation Engineer’s work at GitLab, the relationship between MLOps and DevOps, the future of metadata tracking, CI/CD and ML model training pipelines, foundational (LLM) model metadata management, and more.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/UfuC8bZVc3A">YouTube</a> channel or read the <a href="https://neptune.ai/blog/building-mlops-capabilities-at-gitlab?utm_source=bcast&amp;utm_medium=audio&amp;utm_campaign=mlpp-03">podcast transcript</a><br><br>Resources:</div><div><br><a href="https://neptune.ai/blog/mlops-is-extension-of-devops">MLOps Is an Extension of DevOps. Not a Fork</a><br><a href="https://about.gitlab.com/handbook/">The GitLab Handbook</a><br><br></div><div>Follow us &amp; stay updated:<br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Join our Slack <a href="https://go.mlops.community/slack">MLOps Community</a> (#neptune-ai)<br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/eduardobonet">Eduardo</a> on Linkedin</div><div><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 06 Sep 2023 14:15:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wvynpx38.mp3" length="60784074" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/8e02e190-4cbd-11ee-8336-191ddb0b8923/8e02e2d0-4cbd-11ee-aec0-b5d1ae60235f.png"/>
+      <itunes:duration>3798</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, we have Eduardo Bonet as our guest. Eduardo shares insights on the Staff Incubation Engineer’s work at GitLab, the relationship between MLOps and DevOps, the future of metadata tracking, CI/CD and ML model training pipelines, foundational (LLM) model metadata management, and more.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, we have Eduardo Bonet as our guest. Eduardo shares insights on the Staff Incubation Engineer’s work at GitLab, the relationship between MLOps and DevOps, the future of metadata tracking, CI/CD and ML model training pipelines, foundational (LLM) model metadata management, and more.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Learnings From Building the ML Platform at Mailchimp With Mikiko Bazeley</title>
+      <link>https://podcasts.fame.so/e/4n9v63x8-learnings-from-building-ml-platform-at-mailchimp</link>
+      <itunes:title>Learnings From Building the ML Platform at Mailchimp With Mikiko Bazeley</itunes:title>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">v075q2z0</guid>
+      <description>On this episode of the ML Platform Podcast, we have Mikiko Bazeley as our guest. Mikiko shares insights on the ML Platform at Mailchimp, including success stories and golden paths, team structures, templating, generative AI use cases, feedback monitoring, and more.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/W-iQoQpgwG4">Youtube</a> channel<br><br>Resources:<br><a href="https://fullstackdeeplearning.com/course/">The Full Stack Deep Learning course</a><br><br>Follow us &amp; stay updated:<br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a><br>► Check our <a href="https://github.com/neptune-ai">Github</a><br>► Join our Slack <a href="https://go.mlops.community/slack">MLOps Community</a> (#neptune-ai)<br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin<br>Connect with <a href="https://www.linkedin.com/in/mikikobazeley">Mikiko </a>on Linkedin<br><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 09 Aug 2023 09:53:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8qyljmv8.mp3" length="125918253" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/2a53da90-4cc0-11ee-9d6c-f130d6caff9c/2a53dfa0-4cc0-11ee-bc3c-27644eeb73b6.png"/>
+      <itunes:duration>6544</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, we have Mikiko Bazeley as our guest. Mikiko shares insights on the ML Platform at Mailchimp, including success stories and golden paths, team structures, templating, generative AI use cases, feedback monitoring, and more.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, we have Mikiko Bazeley as our guest. Mikiko shares insights on the ML Platform at Mailchimp, including success stories and golden paths, team structures, templating, generative AI use cases, feedback monitoring, and more.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Learnings From Building the ML Platform at Stitch Fix With Stefan Krawczyk</title>
+      <link>https://podcasts.fame.so/e/68rz0pm8-learnings-from-building-ml-platform-at-stitch-fix</link>
+      <itunes:title>Learnings From Building the ML Platform at Stitch Fix With Stefan Krawczyk</itunes:title>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">8054nmy1</guid>
+      <description>On this episode of the ML Platform Podcast, we have Stefan Krawczyk as our guest. Stefan shares insights on the ML Platform at Stitch Fix, including problems solved, success stories and golden paths, team structures and management, product management, feature requests, going open-source, and more.</description>
+      <content:encoded><![CDATA[<div>Find the episode on our <a href="https://youtu.be/GYNsIR4QkZc">Youtube</a> channel<br><br>Resources:<br><a href="https://github.com/DAGWorks-Inc/hamilton">Hamilton</a> <br><a href="https://www.dagworks.io/">DagWorks</a> <br><br>Follow us &amp; stay updated: <br>► Follow us on <a href="https://www.linkedin.com/company/neptuneai/">Linkedin</a> <br>► Check our <a href="https://github.com/neptune-ai">Github</a> <br>► Join our Slack <a href="https://go.mlops.community/slack">MLOps Community</a> (#neptune-ai)<br><br>Connect with <a href="https://www.linkedin.com/in/piotrniedzwiedz/">Piotr</a> on Linkedin <br>Connect with <a href="https://www.linkedin.com/in/aurimas-griciunas/">Aurimas</a> on Linkedin <br>Connect with <a href="https://www.linkedin.com/in/skrawczyk/">Stefan</a> on Linkedin<br><br></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 12 Jul 2023 13:50:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8mky7198.mp3" length="74590920" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/41069770-4cc0-11ee-8005-05674b54aaa2/41069a60-4cc0-11ee-a540-9fb79f1eabd8.png"/>
+      <itunes:duration>4661</itunes:duration>
+      <itunes:summary>On this episode of the ML Platform Podcast, we have Stefan Krawczyk as our guest. Stefan shares insights on the ML Platform at Stitch Fix, including problems solved, success stories and golden paths, team structures and management, product management, feature requests, going open-source, and more.</itunes:summary>
+      <itunes:subtitle>On this episode of the ML Platform Podcast, we have Stefan Krawczyk as our guest. Stefan shares insights on the ML Platform at Stitch Fix, including problems solved, success stories and golden paths, team structures and management, product management, feature requests, going open-source, and more.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Navigating Organizational Barriers by Doing MLOps with Leanne Kim Fitzpatrick</title>
+      <link>https://podcasts.fame.so/e/1n3l3k78-navigating-organizational-barriers-by-doing-mlops-with-leanne-kim-fitzpatrick</link>
+      <itunes:title>Navigating Organizational Barriers by Doing MLOps with Leanne Kim Fitzpatrick</itunes:title>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">m1j5pvw0</guid>
+      <description>In this episode of MLOps Live, Stephen and Sabine speak with Leanne Fitzpatrick, Director of Data Science at Financial TImes. Leanne leads a team of data scientists and engineers who are responsible for building data-driven products and solutions to support the company's journalism, marketing, and subscription efforts. Prior to Financial Times, she held leadership roles at TalkTalk, Hello Soda, and Callcredit Information Group.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!</div><div><br></div><div>Learn more about Leanne Fitzpatrick:</div><ul><li>Leanne’s <a href="https://www.linkedin.com/in/leanne-kim-fitzpatrick-29204341">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li><a href="https://www.linkedin.com/company/4697/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BN2D8IIuPS%2B2dTfqayGmu2g%3D%3D">Financial Times</a></li><li><a href="https://www.tensorflow.org/">TensorFlow</a></li><li><a href="https://pytorch.org/">PyTorch</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Thu, 25 May 2023 08:34:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wmk93ljw.mp3" length="134053093" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/435cca60-fad9-11ed-bc7e-f9b3609f0ef1/435ccba0-fad9-11ed-b424-a9302bd92c06.png"/>
+      <itunes:duration>3351</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen and Sabine speak with Leanne Fitzpatrick, Director of Data Science at Financial TImes. Leanne leads a team of data scientists and engineers who are responsible for building data-driven products and solutions to support the company's journalism, marketing, and subscription efforts. Prior to Financial Times, she held leadership roles at TalkTalk, Hello Soda, and Callcredit Information Group.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen and Sabine speak with Leanne Fitzpatrick, Director of Data Science at Financial TImes. Leanne leads a team of data scientists and engineers who are responsible for building data-driven products and solutions to support the company's journalism, marketing, and subscription efforts. Prior to Financial Times, she held leadership roles at TalkTalk, Hello Soda, and Callcredit Information Group.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Tackling MLOps Challenges in Computer Vision with Marcin Tuszyński</title>
+      <link>https://podcasts.fame.so/e/1npzk21n-tackling-mlops-challenges-in-computer-vision-marcin-tuszynski</link>
+      <itunes:title>Tackling MLOps Challenges in Computer Vision with Marcin Tuszyński</itunes:title>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">z0rmy7r1</guid>
+      <description>In this episode of MLOps Live, Stephen and Sabine speak with Marcin Tuszyński, Data Scientist at ReSpo.Vision, a consulting firm that uses artificial intelligence to revolutionize football analysis. They discuss how AI and MLOps have revolutionized the way we look at football analytics and games, the ideal way to deal with large data sets, and the challenges that you are bound to face when building such a complex AI system.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/watch?v=6bfyfZFlT7M&amp;list=PLKePQLVx9tOczB07_oyDkdQqdNiqLV-zX">YouTube </a>channel to watch this episode!<br><br>Learn more about Marcin Tuszyński:</div><ul><li>Marcin’s <a href="https://www.linkedin.com/in/mtsz93/">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li><a href="https://www.linkedin.com/company/64867451/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXegVpcz8Rq%2B6qCKPLaqWkA%3D%3D">ReSpo.Vision</a></li><li><a href="https://www.linkedin.com/company/2525119/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXegVpcz8Rq%2B6qCKPLaqWkA%3D%3D">Allegro.pl</a></li><li><a href="https://www.linkedin.com/company/1073/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXegVpcz8Rq%2B6qCKPLaqWkA%3D%3D">EY</a></li><li><a href="http://torch.ch/">Torch</a></li><li><a href="https://kedro.org/">Kedro</a></li></ul><div><br><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li></ul><div>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Tue, 09 May 2023 15:36:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w3lp4lm8.mp3" length="118215574" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/6a30ede0-ee55-11ed-863c-55597dbfbada/6a30ef80-ee55-11ed-b712-15c786530c42.png"/>
+      <itunes:duration>2955</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen and Sabine speak with Marcin Tuszyński, Data Scientist at ReSpo.Vision, a consulting firm that uses artificial intelligence to revolutionize football analysis. They discuss how AI and MLOps have revolutionized the way we look at football analytics and games, the ideal way to deal with large data sets, and the challenges that you are bound to face when building such a complex AI system.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen and Sabine speak with Marcin Tuszyński, Data Scientist at ReSpo.Vision, a consulting firm that uses artificial intelligence to revolutionize football analysis. They discuss how AI and MLOps have revolutionized the way we look at football analytics and games, the ideal way to deal with large data sets, and the challenges that you are bound to face when building such a complex AI system.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>What Does GPT-3 Mean For the Future of MLOps? with David Hershey</title>
+      <link>https://podcasts.fame.so/e/68rzzvm8-what-does-gpt-3-mean-for-the-future-of-mlops-david-hershey</link>
+      <itunes:title>What Does GPT-3 Mean For the Future of MLOps? with David Hershey</itunes:title>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">805445y1</guid>
+      <description>In this episode of MLOps Live, Stephen speaks with David Hershey, Vice President at Unusual Ventures, a seed-stage venture capital firm offering hands-on support and expertise to startups on their early-stage journey. David was also previously a senior solutions architect at TechTun. Before TechTun, he worked as a solutions engineer at Determined AI and as a product manager for the ML platform at Ford Motor Company. 
+
+They discuss the impact of GPT-3 on MLOps, explore how language models have made machine learning more accessible, and the challenges of monitoring large language models.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/watch?v=6bfyfZFlT7M&amp;list=PLKePQLVx9tOczB07_oyDkdQqdNiqLV-zX">YouTube </a>channel to watch this episode!<br><br>Learn more about David:</div><ul><li>David’s <a href="https://www.linkedin.com/in/david-hershey">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li><a href="https://github.com/features/copilot">GitHub Copilot&nbsp;</a></li><li><a href="https://openai.com/">OpenAI</a></li><li><a href="https://pytorch.org/">PyTorch</a></li></ul><div><br>If you enjoyed this episode, then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 26 Apr 2023 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8qy092r8.mp3" length="126954056" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/52da0060-e34f-11ed-ac4b-c5e06afc770c/52da01f0-e34f-11ed-a939-e32562f64af1.png"/>
+      <itunes:duration>3173</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen speaks with David Hershey, Vice President at Unusual Ventures, a seed-stage venture capital firm offering hands-on support and expertise to startups on their early-stage journey. David was also previously a senior solutions architect at TechTun. Before TechTun, he worked as a solutions engineer at Determined AI and as a product manager for the ML platform at Ford Motor Company. 
+
+They discuss the impact of GPT-3 on MLOps, explore how language models have made machine learning more accessible, and the challenges of monitoring large language models.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen speaks with David Hershey, Vice President at Unusual Ventures, a seed-stage venture capital firm offering hands-on support and expertise to startups on their early-stage journey. David was also previously a senior solutions architect at TechTun. Before TechTun, he worked as a solutions engineer at Determined AI and as a product manager for the ML platform at Ford Motor Company. 
+
+They discuss the impact of GPT-3 on MLOps, explore how language models have made machine learning more accessible, and the challenges of monitoring large language models.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Managing Data and ML Teams to Deliver Value with Delina Ivanova</title>
+      <link>https://podcasts.fame.so/e/qn0xr7xn-managing-data-and-ml-teams-deliver-value-delina-ivanova</link>
+      <itunes:title>Managing Data and ML Teams to Deliver Value with Delina Ivanova</itunes:title>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">p1kjqwj0</guid>
+      <description>In this episode of MLOps Live, Stephen and Sabine speak with Delina Ivanova, Director of Analytics at Mistplay, a loyalty platform for mobile gamers. Delina was also previously the Associate Director of Data and Insights at HelloFresh. This episode is centered around managing data and machine learning teams to deliver value.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Delina:</div><ul><li>Delina’s <a href="https://www.linkedin.com/in/delina-ivanova/">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li><a href="https://www.mistplay.com/about-us">Mistplay</a></li><li><a href="https://www.linkedin.com/company/hellofresh/">HelloFresh</a></li><li><a href="https://www.linkedin.com/company/257338/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNzI6%2BN1xRF2it9db0oE%2BaA%3D%3D">Schulich School of Business - York University</a></li><li><a href="https://www.linkedin.com/company/846328/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNzI6%2BN1xRF2it9db0oE%2BaA%3D%3D">University of Toronto School of Continuing Studies</a></li><li><a href="https://www.linkedin.com/company/td/">TD</a></li><li><a href="https://www.linkedin.com/company/carly-rian-group/">Carly Rian Group</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 12 Apr 2023 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w7pqmyp8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/9bba4050-d904-11ed-8a0a-d9c6b082c9aa/9bba41a0-d904-11ed-8a13-1b4648d22ab0.png"/>
+      <itunes:duration>3236</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen and Sabine speak with Delina Ivanova, Director of Analytics at Mistplay, a loyalty platform for mobile gamers. Delina was also previously the Associate Director of Data and Insights at HelloFresh. This episode is centered around managing data and machine learning teams to deliver value.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen and Sabine speak with Delina Ivanova, Director of Analytics at Mistplay, a loyalty platform for mobile gamers. Delina was also previously the Associate Director of Data and Insights at HelloFresh. This episode is centered around managing data and machine learning teams to deliver value.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Leveraging MLOps Technologies and Principles at Non-ML Companies with Andreas Malekos and Ivan Chon-Hon Chan</title>
+      <link>https://podcasts.fame.so/e/6nrz3rkn-leveraging-mlops-technologies-principles-at-non-ml-companies</link>
+      <itunes:title>Leveraging MLOps Technologies and Principles at Non-ML Companies with Andreas Malekos and Ivan Chon-Hon Chan</itunes:title>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">8154x6z0</guid>
+      <description>In this episode of MLOps Live, Stephen and Sabine speak with Andreas Malekos, Head of Artificial Intelligence at Continuum Industries, and Ivan Chon-Hon Chan, AI Engineer at the same company. This week’s episode is centered around leveraging MLOps technologies and principles at non-ML companies. They delve into the chasm between their research science and engineering teams and how they solve it, the process of choosing the right MLOps tools, and how MLOps has significantly changed the structure of their teams.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Andreas and Ivan:</div><ul><li>Andreas’ <a href="https://www.linkedin.com/in/andreasmalekos">LinkedIn</a></li><li>Ivan’s <a href="https://www.linkedin.com/in/ivanchc">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li><a href="https://www.linkedin.com/company/18659713/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2FJlu1MmoSeipZC8LHps0AQ%3D%3D">Continuum Industries</a></li><li><a href="https://www.linkedin.com/company/10669902/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2FJlu1MmoSeipZC8LHps0AQ%3D%3D">Hyp-ED</a></li><li><a href="https://www.sciencedirect.com/science/article/pii/S0958946518302683">Study of physical properties and microstructure of aerogel-cement mortars for improving the fire safety of high-performance concrete linings in tunnels</a></li><li><a href="https://uk.comsol.com/paper/using-comsol-for-the-development-of-the-uk-s-second-hyperloop-prototype-66342">Using COMSOL® for the Development of the UK’s Second Hyperloop Prototype</a></li><li><a href="https://github.com/andee96/QuantumComputingProject">Quantum Computing Project</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 29 Mar 2023 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wj06n7lw.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/fcc4b420-ce05-11ed-9caa-ddaa8ab54848/fcc4b6c0-ce05-11ed-9cf9-b1f95d418d7c.png"/>
+      <itunes:duration>2988</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen and Sabine speak with Andreas Malekos, Head of Artificial Intelligence at Continuum Industries, and Ivan Chon-Hon Chan, AI Engineer at the same company. This week’s episode is centered around leveraging MLOps technologies and principles at non-ML companies. They delve into the chasm between their research science and engineering teams and how they solve it, the process of choosing the right MLOps tools, and how MLOps has significantly changed the structure of their teams.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen and Sabine speak with Andreas Malekos, Head of Artificial Intelligence at Continuum Industries, and Ivan Chon-Hon Chan, AI Engineer at the same company. This week’s episode is centered around leveraging MLOps technologies and principles at non-ML companies. They delve into the chasm between their research science and engineering teams and how they solve it, the process of choosing the right MLOps tools, and how MLOps has significantly changed the structure of their teams.</itunes:subtitle>
+      <itunes:keywords>neptune, ai, machine learning</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Doing MLOps for Clinical Research Studies with Silas Bempong and Abhijit Ramesh</title>
+      <link>https://podcasts.fame.so/e/qn0xjm9n-mlops-clinical-research-studies-silas-bempong-abhijit-ramesh</link>
+      <itunes:title>Doing MLOps for Clinical Research Studies with Silas Bempong and Abhijit Ramesh</itunes:title>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">p1kjxky0</guid>
+      <description>In this episode of MLOps Live, Stephen and Sabine speak with Silas Bempong and Abhijit Ramesh, both Machine Learning Research Engineers at Theta Tech AI. This week’s episode is centered around doing MLOps for Clinical Research Studies. They delve into how AI and clinical research are a match made in heaven, how Theta Tech understands the MLOps workflow, and the elephant in the room - generative AI.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Silas and Abhijit:</div><ul><li>Silas’ <a href="https://www.linkedin.com/in/silas-bempong-604916120/">LinkedIn</a></li><li>Abhijit’s <a href="https://www.linkedin.com/in/abhijit-ramesh/">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li><a href="https://www.linkedin.com/school/free-code-camp/">freeCodeCamp</a></li><li><a href="https://www.facebook.com/innovategh/">Innovate Ghana</a></li><li><a href="https://www.linkedin.com/company/theta-tech-ai/">Theta Tech AI</a></li><li><a href="https://www.linkedin.com/company/1680089/">Stanbic Bank Ghana</a></li><li><a href="https://www.linkedin.com/company/afribbean-techcollective/">Afribbean Tech Collective</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 15 Mar 2023 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w3l57428.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/13a99fa0-c301-11ed-8ad3-07fb16e35d1d/13a9a100-c301-11ed-8e8a-3946b1f9efff.png"/>
+      <itunes:duration>3454</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen and Sabine speak with Silas Bempong and Abhijit Ramesh, both Machine Learning Research Engineers at Theta Tech AI. This week’s episode is centered around doing MLOps for Clinical Research Studies. They delve into how AI and clinical research are a match made in heaven, how Theta Tech understands the MLOps workflow, and the elephant in the room - generative AI.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen and Sabine speak with Silas Bempong and Abhijit Ramesh, both Machine Learning Research Engineers at Theta Tech AI. This week’s episode is centered around doing MLOps for Clinical Research Studies. They delve into how AI and clinical research are a match made in heaven, how Theta Tech understands the MLOps workflow, and the elephant in the room - generative AI.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Deploying Conversational AI Products to Production with Jason Flaks</title>
+      <link>https://podcasts.fame.so/e/vn56v6k8-deploying-conversational-ai-products-to-production-jason-flaks</link>
+      <itunes:title>Deploying Conversational AI Products to Production with Jason Flaks</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">80qv8vr1</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen speak with Jason Flaks, Co-founder and CTO at Xembly. Jason gives insight into deploying conversational AI products in production environments. He shares his background in music composition, Math, and Science before transitioning into software engineering. They discuss the two-stage pipeline of speech recognition systems, with Jason explaining conversational AI as building technology and products that are capable of interacting with humans in an unbounded conversational domain space. They go on to examine the complexities involved in deploying conversational AI products, such as describing the space in a way that machines can easily identify it and implementing such items with any necessary nuances or requirements. Jason elaborates on their stack of models for enabling speech-to-text conversion and for identifying distinct speakers in a given conversation.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Jason Flaks:</div><ul><li>Jason's <a href="https://www.linkedin.com/in/jason-flaks-790600">LinkedIn&nbsp;</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>neptune.ai <a href="https://neptune.ai/?utm_source=googleads&amp;utm_medium=googleads&amp;utm_campaign=%5BSG%5D%5BHI%5D%5Bbrand%5D%5Brsa%5D%5Ball%5D&amp;utm_term=neptune%20ai&amp;gclid=EAIaIQobChMIg870qajn_AIV0e93Ch1YXg93EAAYASAAEgILWfD_BwE">Website&nbsp;</a></li><li>Xembly <a href="https://www.xembly.com/">Website</a></li><li><a href="https://aws.amazon.com/">Amazon AWS</a></li><li><a href="https://spacy.io/">spaCy&nbsp;</a></li><li><a href="https://openai.com/blog/chatgpt/">chat GPT</a></li><li><a href="https://labelstud.io/">Label Studio</a></li><li><a href="https://kubernetes.io/">Kubernetes</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 01 Mar 2023 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8k433kvw.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/f2e167b0-bd9c-11ed-8887-413e4944469c/f2e16920-bd9c-11ed-ae8d-936e7a5d102c.png"/>
+      <itunes:duration>3358</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen speak with Jason Flaks, Co-founder and CTO at Xembly. Jason gives insight into deploying conversational AI products in production environments. He shares his background in music composition, Math, and Science before transitioning into software engineering. They discuss the two-stage pipeline of speech recognition systems, with Jason explaining conversational AI as building technology and products that are capable of interacting with humans in an unbounded conversational domain space. They go on to examine the complexities involved in deploying conversational AI products, such as describing the space in a way that machines can easily identify it and implementing such items with any necessary nuances or requirements. Jason elaborates on their stack of models for enabling speech-to-text conversion and for identifying distinct speakers in a given conversation.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen speak with Jason Flaks, Co-founder and CTO at Xembly. Jason gives insight into deploying conversational AI products in production environments. He shares his background in music composition, Math, and Science before transitioning into software engineering. They discuss the two-stage pipeline of speech recognition systems, with Jason explaining conversational AI as building technology and products that are capable of interacting with humans in an unbounded conversational domain space. They go on to examine the complexities involved in deploying conversational AI products, such as describing the space in a way that machines can easily identify it and implementing such items with any necessary nuances or requirements. Jason elaborates on their stack of models for enabling speech-to-text conversion and for identifying distinct speakers in a given conversation.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Implementing Vector Search Engines with Kacper Lukawski</title>
+      <link>https://podcasts.fame.so/e/18pzjww8-implementing-vector-search-engines-ama-kacper-lukawski-developer-advocate-at-qdrant</link>
+      <itunes:title>Implementing Vector Search Engines with Kacper Lukawski</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">z1rmn220</guid>
+      <description>In this episode of MLOps Live, Stephen and Sabine speak with Kacper Lukawski, a Developer Advocate at Qdrant. They discuss the applications vector search can be useful in; why vector search engines can be more useful than keyword search engines; and why teams should consider using it more often. They also delve into just how well vector search scales in production, as well as some of the best practices and tools for benchmarking vector search engines.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Kacper Lukawski:</div><ul><li>Kacper’s <a href="https://www.linkedin.com/in/kacperlukawski/">LinkedIn</a></li><li>Kacper’s <a href="https://twitter.com/LukawskiKacper">Twitter</a></li></ul><div><br>Episode Resources:</div><ul><li><a href="https://medium.com/p/ebfd9b3fd7e8">Vector library vs vector database</a></li><li><a href="https://qdrant.tech/articles/memory-consumption/">Reducing memory usage for vector search</a> <a href="https://qdrant.tech/articles/memory-consumption/">https://qdrant.tech/articles/memory-consumption/</a></li><li><a href="https://medium.com/analytics-vidhya/how-to-implement-a-visual-search-at-no-time-5515270d27e3">Visual search with vector embeddings</a></li><li><a href="https://www.linkedin.com/company/qdrant/">Qdrant</a></li><li><a href="https://www.linkedin.com/company/codete/">Codete GmbH</a></li><li><a href="https://speakerdeck.com/kacperlukawski/bye-bye-miss-ai">Bye-bye, Miss AI</a></li><li><a href="https://www.linkedin.com/company/ai-embassy/">AI Embassy</a></li><li><a href="https://www.linkedin.com/company/codete/">Codete GmbH</a></li><li><a href="https://kubernetes.io/">Kubernetes</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 15 Feb 2023 09:01:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/83l53rzw.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/02016ae0-bd9d-11ed-bb2d-5b10e1e24936/02016c60-bd9d-11ed-a0e8-731b348fbfa1.png"/>
+      <itunes:duration>3151</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen and Sabine speak with Kacper Lukawski, a Developer Advocate at Qdrant. They discuss the applications vector search can be useful in; why vector search engines can be more useful than keyword search engines; and why teams should consider using it more often. They also delve into just how well vector search scales in production, as well as some of the best practices and tools for benchmarking vector search engines.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen and Sabine speak with Kacper Lukawski, a Developer Advocate at Qdrant. They discuss the applications vector search can be useful in; why vector search engines can be more useful than keyword search engines; and why teams should consider using it more often. They also delve into just how well vector search scales in production, as well as some of the best practices and tools for benchmarking vector search engines.</itunes:subtitle>
+      <itunes:keywords>Kacper Lukawski, Qdrant, Implementing Vector Search Engines , MLOps, MLOps Live, neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>ML platform teams, features stores, versioning in data pipelines, and where MLOps extends DevOps with Aurimas Griciūnas and Piotr Niedźwiedź</title>
+      <link>https://podcasts.fame.so/e/68rz9l18-ml-versioning-data-extends-devops-aurimas-griciunas-piotr-niedzwiedz</link>
+      <itunes:title>ML platform teams, features stores, versioning in data pipelines, and where MLOps extends DevOps with Aurimas Griciūnas and Piotr Niedźwiedź</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">8054q8k1</guid>
+      <description>In this episode of MLOps Live, Piotr is joined by Aurimas Griciūnas, a Senior Solutions Architect at neptune.ai. Aurimas elaborates on the distinctions between machine learning (ML) platforms and data platform teams and the advantages of automating an ML stack. He also went over the process normalization requirements for streamlined teams from data platform and ML platform groups. Aurimas explains why data platforms are primarily concerned with displaying results, whereas ML platforms are centered on the frameworks and tooling that machine learning professionals use on a daily basis.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Aurimas Griciūnas and Piotr Niedzwiedz:</div><ul><li>Aurimas's <a href="https://lt.linkedin.com/in/aurimas-griciunas">LinkedIn&nbsp;</a></li><li>Piotr's <a href="https://www.linkedin.com/in/piotrniedzwiedz/">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>neptune.ai <a href="https://neptune.ai/?utm_source=googleads&amp;utm_medium=googleads&amp;utm_campaign=[SG][HI][brand][rsa][all]&amp;utm_term=neptune%20ai&amp;gclid=EAIaIQobChMIg870qajn_AIV0e93Ch1YXg93EAAYASAAEgILWfD_BwE">Website&nbsp;</a></li><li>SwirlAI <a href="https://www.linkedin.com/company/swirl-ai/">Website</a></li><li><a href="https://www.qflow.com/">Qflow</a></li><li><a href="https://kafka.apache.org/">Kafka</a></li><li><a href="https://cassandra.apache.org/_/index.html">Cassandra</a></li><li><a href="https://airflow.app/">Airflow</a></li><li><a href="https://kubernetes.io/">Kubernetes</a></li><li><a href="https://www.swirlai.com/">Swirl AI newsletter</a></li><li><a href="https://neptune.ai/blog">neptune.ai blog</a></li><li><a href="https://www.google.com/search?q=Designing+Machine+Learning+Systems&amp;rlz=1C1VDKB_enPH1009PH1009&amp;oq=Designing+Machine+Learning+Systems&amp;aqs=chrome..69i57.252j0j7&amp;sourceid=chrome&amp;ie=UTF-8">Designing Machine Learning Systems by Chip Huyen</a></li><li><a href="https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302">Fundamentals of Data Engineering by Joe Reis, Matt Housley</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 01 Feb 2023 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w95qn71w.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/7f107930-a1fe-11ed-89cd-6b1b6eb10d55/7f107a60-a1fe-11ed-bbb5-c9e7c029cd31.png"/>
+      <itunes:duration>3283</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Piotr is joined by Aurimas Griciūnas, a Senior Solutions Architect at neptune.ai. Aurimas elaborates on the distinctions between machine learning (ML) platforms and data platform teams and the advantages of automating an ML stack. He also went over the process normalization requirements for streamlined teams from data platform and ML platform groups. Aurimas explains why data platforms are primarily concerned with displaying results, whereas ML platforms are centered on the frameworks and tooling that machine learning professionals use on a daily basis.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Piotr is joined by Aurimas Griciūnas, a Senior Solutions Architect at neptune.ai. Aurimas elaborates on the distinctions between machine learning (ML) platforms and data platform teams and the advantages of automating an ML stack. He also went over the process normalization requirements for streamlined teams from data platform and ML platform groups. Aurimas explains why data platforms are primarily concerned with displaying results, whereas ML platforms are centered on the frameworks and tooling that machine learning professionals use on a daily basis.</itunes:subtitle>
+      <itunes:keywords>Aurimas Griciūnas, Piotr Niedzwiedz, ML platform teams, features stores, versioning in data pipelines, neptune.ai, MLOps Live</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Continuous MLOps Pipelines with Itay Ben Haim</title>
+      <link>https://podcasts.fame.so/e/lnq5q5vn-continuous-mlops-pipelines-with-itay-ben-haim</link>
+      <itunes:title>Continuous MLOps Pipelines with Itay Ben Haim</itunes:title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">81n3y3r0</guid>
+      <description>In this episode of MLOps Live, Stephen is joined by Itay Ben Haim, a software team lead at Superwise. Itay discusses the advantages of automating an ML stack and how it can give data scientists more time to innovate and develop solutions that generate business value and provide businesses with faster deployment of machine learning-based solutions. They identified multiple maturity levels in organizations: level 0, level 1, and level 2 or 3. Moving from Level 0 to Level 1 requires new skills such as a DevOps background, configuration files, Kubernetes, workflow managers, metadata stores, and low-latency databases.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Itay Ben Haim:</div><ul><li>Itay's <a href="https://il.linkedin.com/in/itay-ben-haim1988">LinkedIn&nbsp;</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>Superwise <a href="https://superwise.ai/">Website&nbsp;</a></li><li><a href="https://cloud.google.com/vertex-ai">Google vertex</a>&nbsp;</li><li><a href="https://github.com/">Github</a></li><li><a href="https://www.bentoml.com/">BentoML</a></li><li><a href="https://azure.microsoft.com/en-us/products/machine-learning/">Azure ML</a></li><li><a href="https://kubeflow-pipelines.readthedocs.io/en/latest/source/kfp.compiler.html">Kubeflow's compiler</a></li><li><a href="https://aws.amazon.com/sagemaker/">Amazon SageManager</a>&nbsp;</li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 18 Jan 2023 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wz7lzq18.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/1c098c50-d204-11ed-995c-e114471526c5/1c098dc0-d204-11ed-89fb-f1dcc55e73c4.png"/>
+      <itunes:duration>3148</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen is joined by Itay Ben Haim, a software team lead at Superwise. Itay discusses the advantages of automating an ML stack and how it can give data scientists more time to innovate and develop solutions that generate business value and provide businesses with faster deployment of machine learning-based solutions. They identified multiple maturity levels in organizations: level 0, level 1, and level 2 or 3. Moving from Level 0 to Level 1 requires new skills such as a DevOps background, configuration files, Kubernetes, workflow managers, metadata stores, and low-latency databases.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen is joined by Itay Ben Haim, a software team lead at Superwise. Itay discusses the advantages of automating an ML stack and how it can give data scientists more time to innovate and develop solutions that generate business value and provide businesses with faster deployment of machine learning-based solutions. They identified multiple maturity levels in organizations: level 0, level 1, and level 2 or 3. Moving from Level 0 to Level 1 requires new skills such as a DevOps background, configuration files, Kubernetes, workflow managers, metadata stores, and low-latency databases.</itunes:subtitle>
+      <itunes:keywords>Itay Ben Haim, Superwise, Continuous MLOps Pipelines,  MLOps Live, MLOps, neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Setting Up MLOps at a Healthcare Startup with Vishnu Rachakonda</title>
+      <link>https://podcasts.fame.so/e/28xq7rzn-mlops-at-a-healthcare-startup-vishnu-rachakonda</link>
+      <itunes:title>Setting Up MLOps at a Healthcare Startup with Vishnu Rachakonda</itunes:title>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">60m3nqk0</guid>
+      <description>In this episode of MLOps Live, Stephen and Sabine are joined by Vishnu Rachakonda, Data Scientist at firsthand. Vishnu discusses setting up MLOps at a healthcare startup and how machine learning can help unlock the value of data to make people healthier and empower healthcare professionals. They explore DevOps principles, generative AI adoption, off-the-shelf models and responsible AI ethics.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Vishnu Rachakonda:</div><ul><li>Vishnu's <a href="https://www.linkedin.com/in/vrachakonda">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>Vishnu's <a href="https://verosssr.com/">Publication</a></li><li>firsthand's <a href="https://www.linkedin.com/company/firsthandcares/">Website</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 04 Jan 2023 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w3lr05q8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/4784c400-d204-11ed-a043-cf8893760f7b/4784c590-d204-11ed-bac5-e78dffc52e88.png"/>
+      <itunes:duration>3106</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen and Sabine are joined by Vishnu Rachakonda, Data Scientist at firsthand. Vishnu discusses setting up MLOps at a healthcare startup and how machine learning can help unlock the value of data to make people healthier and empower healthcare professionals. They explore DevOps principles, generative AI adoption, off-the-shelf models and responsible AI ethics.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen and Sabine are joined by Vishnu Rachakonda, Data Scientist at firsthand. Vishnu discusses setting up MLOps at a healthcare startup and how machine learning can help unlock the value of data to make people healthier and empower healthcare professionals. They explore DevOps principles, generative AI adoption, off-the-shelf models and responsible AI ethics.</itunes:subtitle>
+      <itunes:keywords>Vishnu Rachakonda, firsthand, MLOps at a Healthcare Startup, MLOps Live, MLOps, neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Intersecting DevOps With the ML Lifecycle with Shirsha Ray Chaudhuri</title>
+      <link>https://podcasts.fame.so/e/p8mkp1z8-intersecting-devops--ml-lifecycle-shirsha-ray-chaudhuri</link>
+      <itunes:title>Intersecting DevOps With the ML Lifecycle with Shirsha Ray Chaudhuri</itunes:title>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">70v6qz80</guid>
+      <description>In this episode of MLOps Live, Stephen is joined by Shirsha Ray C, Director of Engineering at TR Labs. Shirsha discusses standards and best practices for delivering ML solutions with DevOps and explores metrics to measure performance using AWS tooling, as well as data scientists' understanding of why ML models are used and their dream state for DevOps. They also discuss challenges faced in deploying ML systems and some best practices to bridge the gap between DevOps and ML teams.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Shirsha Ray Chaudhuri:</div><ul><li>Shirsha's <a href="https://in.linkedin.com/in/shirsharay#:~:text=Shirsha%20Ray%20Chaudhuri%20%2D%20Director%20of,TR%20Labs%20%2D%20Thomson%20Reuters%20%7C%20LinkedIn">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>Shirsha's <a href="https://store.hbr.org/product/demand-forecasting-for-perishable-short-shelf-life-home-made-food-at-id-fresh-food/IMB653">Publication</a></li><li>TR Labs'&nbsp;<a href="https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html">Website</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 21 Dec 2022 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w1603n18.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/a73376c0-d202-11ed-ac80-992c9e5025b0/a7338350-d202-11ed-98e0-7302507e472d.png"/>
+      <itunes:duration>2960</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen is joined by Shirsha Ray C, Director of Engineering at TR Labs. Shirsha discusses standards and best practices for delivering ML solutions with DevOps and explores metrics to measure performance using AWS tooling, as well as data scientists' understanding of why ML models are used and their dream state for DevOps. They also discuss challenges faced in deploying ML systems and some best practices to bridge the gap between DevOps and ML teams.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen is joined by Shirsha Ray C, Director of Engineering at TR Labs. Shirsha discusses standards and best practices for delivering ML solutions with DevOps and explores metrics to measure performance using AWS tooling, as well as data scientists' understanding of why ML models are used and their dream state for DevOps. They also discuss challenges faced in deploying ML systems and some best practices to bridge the gap between DevOps and ML teams.</itunes:subtitle>
+      <itunes:keywords>Shirsha Ray Chaudhuri, TR Labs, Intersecting DevOps With the ML Lifecycle, MLOps Live, MLOps, neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Writing Clean, Production-Level ML Code with Laszlo Sragner</title>
+      <link>https://podcasts.fame.so/e/rnk13k5n-writing-clean-production-level-ml-code-laszlo-sragner</link>
+      <itunes:title>Writing Clean, Production-Level ML Code with Laszlo Sragner</itunes:title>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">70w58zk0</guid>
+      <description>In this episode of MLOps Live, Stephen is joined by Laszlo Sragner, Founder at Hypergolic. Laszlo discusses how important clean code and architecture are in developing ML products and uses case studies to explain how teams optimize ML products with clean code refactoring. They also discuss clinical practices of clean code and architecture for developing ML products.
+
+There has been an increase in machine learning, which has caused MLOps engineers to be faced with the challenges of cultivating a culture of implementing clean codes when developing ML products. 
+
+Laszlo sheds light on the standard practices of clean code and clean architecture in the development of ML, how to release better models and production environments, and how to improve your products' quality.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Laszlo Sragner:</div><ul><li>Laszlo's <a href="https://uk.linkedin.com/in/laszlosragner">LinkedIn</a></li><li>Laszlo's <a href="https://twitter.com/xlaszlo">Twitter</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>Laszlo’s <a href="https://laszlo.substack.com/">Newsletter</a></li><li>Hypergolic's&nbsp;<a href="https://hypergolic.co.uk/">Website</a></li><li><a href="https://laszlo.substack.com/p/refactoring-the-titanic">Refactoring the Titanic</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 07 Dec 2022 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8j0v7v48.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/b99fbed0-d204-11ed-b2e4-61d39f9c291e/b99fc050-d204-11ed-91bf-fbf7e49409bf.png"/>
+      <itunes:duration>3023</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Stephen is joined by Laszlo Sragner, Founder at Hypergolic. Laszlo discusses how important clean code and architecture are in developing ML products and uses case studies to explain how teams optimize ML products with clean code refactoring. They also discuss clinical practices of clean code and architecture for developing ML products.
+
+There has been an increase in machine learning, which has caused MLOps engineers to be faced with the challenges of cultivating a culture of implementing clean codes when developing ML products. 
+
+Laszlo sheds light on the standard practices of clean code and clean architecture in the development of ML, how to release better models and production environments, and how to improve your products' quality.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Stephen is joined by Laszlo Sragner, Founder at Hypergolic. Laszlo discusses how important clean code and architecture are in developing ML products and uses case studies to explain how teams optimize ML products with clean code refactoring. They also discuss clinical practices of clean code and architecture for developing ML products.
+
+There has been an increase in machine learning, which has caused MLOps engineers to be faced with the challenges of cultivating a culture of implementing clean codes when developing ML products. 
+
+Laszlo sheds light on the standard practices of clean code and clean architecture in the development of ML, how to release better models and production environments, and how to improve your products' quality.</itunes:subtitle>
+      <itunes:keywords>Laszlo Sragner, Writing Clean, Production-Level ML Code, Hypergolic, MLOps Live, Neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Differences Between Shipping Classic Software and Operating ML Models with a Lead MLOps Engineer at TMNL Simon Stiebellehner, and neptune.ai CEO Piotr Niedzwiedz</title>
+      <link>https://podcasts.fame.so/e/18p17yvn-differences-between-shipping-classic-software-and-operating-ml-models-with-a-lead-mlops-engineer-at-tmnl-simon-stiebellehner-and-neptuneai-ceo-piotr-niedzwiedz</link>
+      <itunes:title>Differences Between Shipping Classic Software and Operating ML Models with a Lead MLOps Engineer at TMNL Simon Stiebellehner, and neptune.ai CEO Piotr Niedzwiedz</itunes:title>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">z1rr4631</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Simon Stiebellehner, a Lead MLOps Engineer at TMNL (Transaction Monitoring Netherlands). Simon explains how DevOps engineers can transition to MLOps engineers, the approaches MLOps engineers use in creating an ML model, and how a vertical prototype is preferable to a horizontal prototype when test-running a model. 
+
+Classical software differs from MLOps due mostly to the model's non-deterministic characteristics. There are significant differences between the design of ML models and that of traditional software; these differences stem mostly from the limits imposed by the time and resources required to test and refine a model prototype before it is put into production. As a result, MLOps engineers will need to put in a lot of effort to overcome these obstacles.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Simon Stiebellehner:</div><ul><li>Simon’s <a href="https://nl.linkedin.com/in/simonstiebellehner">LinkedIn</a></li><li>Piotr's <a href="https://www.linkedin.com/in/piotrniedzwiedz/">LinkedIn</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>TMNL's <a href="https://tmnl.nl/">Website</a></li><li>neptune.ai's <a href="https://neptune.ai/">Website</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 23 Nov 2022 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wx90j0n8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/123b4e40-d205-11ed-b950-99a4d74b2ba4/123b4fc0-d205-11ed-8142-0b1af0b5b410.png"/>
+      <itunes:duration>3755</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Simon Stiebellehner, a Lead MLOps Engineer at TMNL (Transaction Monitoring Netherlands). Simon explains how DevOps engineers can transition to MLOps engineers, the approaches MLOps engineers use in creating an ML model, and how a vertical prototype is preferable to a horizontal prototype when test-running a model. 
+
+Classical software differs from MLOps due mostly to the model's non-deterministic characteristics. There are significant differences between the design of ML models and that of traditional software; these differences stem mostly from the limits imposed by the time and resources required to test and refine a model prototype before it is put into production. As a result, MLOps engineers will need to put in a lot of effort to overcome these obstacles.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Simon Stiebellehner, a Lead MLOps Engineer at TMNL (Transaction Monitoring Netherlands). Simon explains how DevOps engineers can transition to MLOps engineers, the approaches MLOps engineers use in creating an ML model, and how a vertical prototype is preferable to a horizontal prototype when test-running a model. 
+
+Classical software differs from MLOps due mostly to the model's non-deterministic characteristics. There are significant differences between the design of ML models and that of traditional software; these differences stem mostly from the limits imposed by the time and resources required to test and refine a model prototype before it is put into production. As a result, MLOps engineers will need to put in a lot of effort to overcome these obstacles.</itunes:subtitle>
+      <itunes:keywords>TMNL, Simon Stiebellehner,  Guide to Deploying MLOps, MLOps Live, Machine Learning, Piotr Niedzwiedz</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Building Well-Architected Machine Learning Solutions on AWS with Phil Basford</title>
+      <link>https://podcasts.fame.so/e/p8mwl5j8-building-well-architected-machine-learning-solutions-aws-phil-basford</link>
+      <itunes:title>Building Well-Architected Machine Learning Solutions on AWS with Phil Basford</itunes:title>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">70v9jl71</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Phil Basford, CTO of AI and ML at Inawisdom.com. Phil talks about what it takes to architect a good ML solution. He goes into more detail, giving use cases for AWS solutions and optimizing resources to make ML, MLOps, and AI in general more agile. They further discuss ML insights for small teams and teams working on budget ML solutions. 
+
+Having dealt with numerous clients and businesses, Phil Basford talks about some of the worst ML moments and the lessons that professionals can learn from them. With Phil’s wealth of experience, he talks about safety concerns for teams using AWS, compares different ML systems, and speaks on how culture can affect the architectural and design process of an ML solution.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Phil Basford:&nbsp;</div><ul><li>Phil’s <a href="https://uk.linkedin.com/in/philipbasford">LinkedIn</a></li><li>Phil’s <a href="https://twitter.com/philipbasford?lang=en">Twitter&nbsp;</a></li></ul><div><br></div><div>Episode Resources :</div><ul><li>Inawisdom's <a href="https://www.inawisdom.com/">Website</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 09 Nov 2022 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/87p767lw.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/4ad82d70-d205-11ed-bcb3-69cc7619421c/4ad82ec0-d205-11ed-a4ad-61056a43f3c5.png"/>
+      <itunes:duration>3249</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Phil Basford, CTO of AI and ML at Inawisdom.com. Phil talks about what it takes to architect a good ML solution. He goes into more detail, giving use cases for AWS solutions and optimizing resources to make ML, MLOps, and AI in general more agile. They further discuss ML insights for small teams and teams working on budget ML solutions. 
+
+Having dealt with numerous clients and businesses, Phil Basford talks about some of the worst ML moments and the lessons that professionals can learn from them. With Phil’s wealth of experience, he talks about safety concerns for teams using AWS, compares different ML systems, and speaks on how culture can affect the architectural and design process of an ML solution.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Phil Basford, CTO of AI and ML at Inawisdom.com. Phil talks about what it takes to architect a good ML solution. He goes into more detail, giving use cases for AWS solutions and optimizing resources to make ML, MLOps, and AI in general more agile. They further discuss ML insights for small teams and teams working on budget ML solutions. 
+
+Having dealt with numerous clients and businesses, Phil Basford talks about some of the worst ML moments and the lessons that professionals can learn from them. With Phil’s wealth of experience, he talks about safety concerns for teams using AWS, compares different ML systems, and speaks on how culture can affect the architectural and design process of an ML solution.</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Solving the Model Serving Component of the MLOps Stack with Chaoyu Yang</title>
+      <link>https://podcasts.fame.so/e/q804r918-solving-model-serving-component-mlops-stack-chaoyu-yang</link>
+      <itunes:title>Solving the Model Serving Component of the MLOps Stack with Chaoyu Yang</itunes:title>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">p0kmqyl0</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Chaoyu Yang, Co-Founder &amp; CEO of BentoML. They discuss model deployment setups and trade-offs for reasonable scale teams, the prevalence of open-source platforms, and how to deploy the best model serving practices for early-stage and established teams.
+
+Since MLOps is still in its infancy, it isn't easy to find established best practices and model deployment examples to operationalize machine learning solutions, as the latter can vary depending on factors such as the type of business use case, the size of the organization, the structure of the organization, and the availability of resources. Regardless of the machine learning model deployment pipeline, Chaoyu provides insights into the model deployment struggles experienced by various ML Engineers and their teams and the solutions they implemented to solve these model serving components.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Chaoyu Yang:</div><ul><li>Chaoyu’s <a href="https://www.linkedin.com/in/parano/">LinkedIn</a></li><li>Chaoyu’s <a href="https://twitter.com/chaoyu_">Twitter</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>BentoML’s <a href="https://www.bentoml.com/">Website</a></li><li>BentoML’s <a href="https://github.com/bentoml/BentoML">Github</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 26 Oct 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/86l5nvx8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/6e26c580-d205-11ed-b1cf-b51d8625e93e/6e26c6c0-d205-11ed-9fd0-733b5e0e6ca8.png"/>
+      <itunes:duration>3292</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Chaoyu Yang, Co-Founder &amp; CEO of BentoML. They discuss model deployment setups and trade-offs for reasonable scale teams, the prevalence of open-source platforms, and how to deploy the best model serving practices for early-stage and established teams.
+
+Since MLOps is still in its infancy, it isn't easy to find established best practices and model deployment examples to operationalize machine learning solutions, as the latter can vary depending on factors such as the type of business use case, the size of the organization, the structure of the organization, and the availability of resources. Regardless of the machine learning model deployment pipeline, Chaoyu provides insights into the model deployment struggles experienced by various ML Engineers and their teams and the solutions they implemented to solve these model serving components.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Chaoyu Yang, Co-Founder &amp; CEO of BentoML. They discuss model deployment setups and trade-offs for reasonable scale teams, the prevalence of open-source platforms, and how to deploy the best model serving practices for early-stage and established teams.
+
+Since MLOps is still in its infancy, it isn't easy to find established best practices and model deployment examples to operationalize machine learning solutions, as the latter can vary depending on factors such as the type of business use case, the size of the organization, the structure of the organization, and the availability of resources. Regardless of the machine learning model deployment pipeline, Chaoyu provides insights into the model deployment struggles experienced by various ML Engineers and their teams and the solutions they implemented to solve these model serving components.</itunes:subtitle>
+      <itunes:keywords>Chaoyu Yang , BentoML, Model Serving Component, MLOps Stack, MLOps, MLOps Live, Neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>How early-stage startups and small teams tackle MLOps with Duarte Carmo</title>
+      <link>https://podcasts.fame.so/e/r8k1qky8-early-stage-startups-small-teams-mlops-duarte-carmo</link>
+      <itunes:title>How early-stage startups and small teams tackle MLOps with Duarte Carmo</itunes:title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">71w5qzv1</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Duarte Carmo, Machine Learning Engineer at Amplemarket. Duarte draws on his extensive expertise in the field to offer advice on how to effectively execute MLOps within the constraints of limited manpower and resources of a team at a reasonable scale. He describes in-depth most of the critical problems that early-stage start-ups and small teams would encounter while deploying models and how to solve them.
+
+Unlike large corporations whose methods have popularized the field, most ML teams are small and face distinct challenges. Most companies in the machine learning sector are now functioning at a reasonable scale, which this Q&amp;A session caters to.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Duarte Carmo:</div><ul><li>Duarte’s <a href="https://www.linkedin.com/in/duarteocarmo/">LinkedIn</a></li><li>Duarte’s <a href="https://mobile.twitter.com/duarteocarmo">Twitter</a></li></ul><div><br>Episode Resources:</div><ul><li>Duarte’s <a href="https://duarteocarmo.com/">Website</a></li><li>Amplemarket <a href="https://www.linkedin.com/company/amplemarket/">Website</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><br></div><div><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 12 Oct 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/83lr472w.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/b66d15f0-d205-11ed-8468-7966219a6362/b66d1760-d205-11ed-9e7f-4d8ecb5d7b67.png"/>
+      <itunes:duration>3243</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Duarte Carmo, Machine Learning Engineer at Amplemarket. Duarte draws on his extensive expertise in the field to offer advice on how to effectively execute MLOps within the constraints of limited manpower and resources of a team at a reasonable scale. He describes in-depth most of the critical problems that early-stage start-ups and small teams would encounter while deploying models and how to solve them.
+
+Unlike large corporations whose methods have popularized the field, most ML teams are small and face distinct challenges. Most companies in the machine learning sector are now functioning at a reasonable scale, which this Q&amp;A session caters to.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Duarte Carmo, Machine Learning Engineer at Amplemarket. Duarte draws on his extensive expertise in the field to offer advice on how to effectively execute MLOps within the constraints of limited manpower and resources of a team at a reasonable scale. He describes in-depth most of the critical problems that early-stage start-ups and small teams would encounter while deploying models and how to solve them.
+
+Unlike large corporations whose methods have popularized the field, most ML teams are small and face distinct challenges. Most companies in the machine learning sector are now functioning at a reasonable scale, which this Q&amp;A session caters to.</itunes:subtitle>
+      <itunes:keywords>early-stage startups, small teams, Duarte Carmo, MLOps, MLOps Live, Neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>AutoML and MLOps with Adam Becker</title>
+      <link>https://podcasts.fame.so/e/xn15xm3n-automl-and-mlops-with-adam-becker</link>
+      <itunes:title>AutoML and MLOps with Adam Becker</itunes:title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">703njk91</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Adam Becker, Co-Founder at Telepath.io. Adam uses real-world examples from what he has observed teams succeed and fail at to tackle questions about AutoML and MLOps. Additionally, they discuss the path of machine learning technology development as well as the realignment of roles within the industry in the near future.
+
+Machine learning has expanded from the realm of academic study to include practical business solutions. It is now necessary to increase both the process's maturity and its level of widespread adoption. 
+
+Adam sheds more light on the potential effects of the development of ML, the challenge of deploying ML use cases, and the concerns that data scientists may lose their jobs.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Amber Roberts:</div><ul><li>Adam’s <a href="https://www.linkedin.com/in/adamissimo/">LinkedIn</a></li><li>Adam’s <a href="https://twitter.com/adamboazbecker">Twitter</a></li></ul><div><br></div><div>Episode Resources:</div><div><br></div><ul><li>Adam’s <a href="https://medium.com/@adamboazbecker">Medium</a></li><li>Telepath.io <a href="https://telepath.io/">Website</a></li></ul><div><br>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><br></div><div><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 28 Sep 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8rjj60q8.mp3" length="129634219" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/e2c91c40-d205-11ed-b924-e7a19d3d4090/e2c91d90-d205-11ed-a9ae-7da79a7ec1db.png"/>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Adam Becker, Co-Founder at Telepath.io. Adam uses real-world examples from what he has observed teams succeed and fail at to tackle questions about AutoML and MLOps. Additionally, they discuss the path of machine learning technology development as well as the realignment of roles within the industry in the near future.
+
+Machine learning has expanded from the realm of academic study to include practical business solutions. It is now necessary to increase both the process's maturity and its level of widespread adoption. 
+
+Adam sheds more light on the potential effects of the development of ML, the challenge of deploying ML use cases, and the concerns that data scientists may lose their jobs.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Adam Becker, Co-Founder at Telepath.io. Adam uses real-world examples from what he has observed teams succeed and fail at to tackle questions about AutoML and MLOps. Additionally, they discuss the path of machine learning technology development as well as the realignment of roles within the industry in the near future.
+
+Machine learning has expanded from the realm of academic study to include practical business solutions. It is now necessary to increase both the process's maturity and its level of widespread adoption. 
+
+Adam sheds more light on the potential effects of the development of ML, the challenge of deploying ML use cases, and the concerns that data scientists may lose their jobs.</itunes:subtitle>
+      <itunes:keywords>Adam Becker, Telepath.io, AutoML, MLOps, MLOps, Machine Learning, MLOps Live, Neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Embracing Responsible AI for ML Models in Production with Amber Roberts</title>
+      <link>https://podcasts.fame.so/e/4899ymq8-responsible-ai-ml-models--production-amber-roberts</link>
+      <itunes:title>Embracing Responsible AI for ML Models in Production with Amber Roberts</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">v17lyr70</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Amber Roberts, Machine Learning Engineer at Arize AI. They explore the best practices for implementing responsible AI for MLOps that prioritize accountability, fairness, and bias reduction. They further look at the role of observability and explainability in building responsible AI.
+
+Machine learning (ML) applications are now widely used across businesses that want to integrate artificial intelligence (AI) capabilities, moving beyond the realms of academia and research. An increasing interest in the principles, techniques and best practices for using AI ethically and responsibly is growing along with the number of AI and ML solutions.
+
+Amber addresses the diverse questions surrounding aspects of observability, interpretability, privacy, reliability, fairness, transparency, and accountability using her breadth and depth of domain knowledge. She further discusses best practices for monitoring AI applications using tools and procedures that will also be necessary.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Amber Roberts:</div><ul><li>Amber’s <a href="https://www.linkedin.com/in/amber-roberts42/">LinkedIn</a></li><li>Amber’s <a href="https://twitter.com/astronomeramber?lang=en">Twitter</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>Arize’s <a href="https://www.linkedin.com/company/arizeai/">LinkedIn</a></li><li>Arize’s <a href="https://arize.com/blog/">blog</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 14 Sep 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wqy5xpmw.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/fe375820-d205-11ed-b8c3-afc613be61c8/fe3759c0-d205-11ed-a823-bf43cff49701.png"/>
+      <itunes:duration>3070</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Amber Roberts, Machine Learning Engineer at Arize AI. They explore the best practices for implementing responsible AI for MLOps that prioritize accountability, fairness, and bias reduction. They further look at the role of observability and explainability in building responsible AI.
+
+Machine learning (ML) applications are now widely used across businesses that want to integrate artificial intelligence (AI) capabilities, moving beyond the realms of academia and research. An increasing interest in the principles, techniques and best practices for using AI ethically and responsibly is growing along with the number of AI and ML solutions.
+
+Amber addresses the diverse questions surrounding aspects of observability, interpretability, privacy, reliability, fairness, transparency, and accountability using her breadth and depth of domain knowledge. She further discusses best practices for monitoring AI applications using tools and procedures that will also be necessary.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Amber Roberts, Machine Learning Engineer at Arize AI. They explore the best practices for implementing responsible AI for MLOps that prioritize accountability, fairness, and bias reduction. They further look at the role of observability and explainability in building responsible AI.
+
+Machine learning (ML) applications are now widely used across businesses that want to integrate artificial intelligence (AI) capabilities, moving beyond the realms of academia and research. An increasing interest in the principles, techniques and best practices for using AI ethically and responsibly is growing along with the number of AI and ML solutions.
+
+Amber addresses the diverse questions surrounding aspects of observability, interpretability, privacy, reliability, fairness, transparency, and accountability using her breadth and depth of domain knowledge. She further discusses best practices for monitoring AI applications using tools and procedures that will also be necessary.</itunes:subtitle>
+      <itunes:keywords>Responsible AI for ML Models, Arize, Amber Roberts, MLOps, Machine Learning, MLOps Live, Neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Building an MLOps Culture in Your Team with Adam Sroka</title>
+      <link>https://podcasts.fame.so/e/vn595x7n-building-an-mlops-culture-in-your-team-with-adam-sroka</link>
+      <itunes:title>Building an MLOps Culture in Your Team with Adam Sroka</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">80qlq651</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Adam Sroka, Head of Machine Learning Engineering at Origami. They explore principles and frameworks for creating a team culture in MLOps that prioritizes the most important things and sets the team up for success.
+
+Collaboration between teams is necessary to move through the ML life cycle as rapidly and effectively as possible. Adam gives us an idea of what the MLOps culture is at Origami, how he built it, the challenges he encountered, and actions teams can begin taking to build a good MLOps culture. He identifies areas that businesses may capitalize on, including infrastructure, team structure, tools, project ownership, and KPIs for efficient workflow.
+
+Adam has provided clear insights into the methods and tools he has used to build great teams with good quality MLOps culture built over his career. Adam is excited to share his technical and non-technical expertise,  and shed some light on what works, especially now that best practices and playbooks for how to build a good MLOps culture and maximize the value from your projects and teams are not yet readily available.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!</div><div><br></div><div>Learn more about Adam:</div><ul><li>Adam’s <a href="https://www.linkedin.com/in/aesroka/">LinkedIn</a></li><li>Adam’s <a href="https://twitter.com/adzsroka?lang=en">Twitter</a></li></ul><div><br></div><div>Episode Resources:</div><ul><li>Origami’s <a href="https://www.linkedin.com/company/origamienergy/">LinkedIn</a></li><li>Origami’s&nbsp; <a href="https://www.origamienergy.com/">Website</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 31 Aug 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8j0vn4k8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/1749fac0-d206-11ed-bbab-bb2ae8eb15a7/1749fc60-d206-11ed-b96c-3b299d7e9ee7.png"/>
+      <itunes:duration>3174</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Adam Sroka, Head of Machine Learning Engineering at Origami. They explore principles and frameworks for creating a team culture in MLOps that prioritizes the most important things and sets the team up for success.
+
+Collaboration between teams is necessary to move through the ML life cycle as rapidly and effectively as possible. Adam gives us an idea of what the MLOps culture is at Origami, how he built it, the challenges he encountered, and actions teams can begin taking to build a good MLOps culture. He identifies areas that businesses may capitalize on, including infrastructure, team structure, tools, project ownership, and KPIs for efficient workflow.
+
+Adam has provided clear insights into the methods and tools he has used to build great teams with good quality MLOps culture built over his career. Adam is excited to share his technical and non-technical expertise,  and shed some light on what works, especially now that best practices and playbooks for how to build a good MLOps culture and maximize the value from your projects and teams are not yet readily available.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Adam Sroka, Head of Machine Learning Engineering at Origami. They explore principles and frameworks for creating a team culture in MLOps that prioritizes the most important things and sets the team up for success.
+
+Collaboration between teams is necessary to move through the ML life cycle as rapidly and effectively as possible. Adam gives us an idea of what the MLOps culture is at Origami, how he built it, the challenges he encountered, and actions teams can begin taking to build a good MLOps culture. He identifies areas that businesses may capitalize on, including infrastructure, team structure, tools, project ownership, and KPIs for efficient workflow.
+
+Adam has provided clear insights into the methods and tools he has used to build great teams with good quality MLOps culture built over his career. Adam is excited to share his technical and non-technical expertise,  and shed some light on what works, especially now that best practices and playbooks for how to build a good MLOps culture and maximize the value from your projects and teams are not yet readily available.</itunes:subtitle>
+      <itunes:keywords>adam sroka, MLOps Culture, Origami, MLOps, Machine Learning, MLOps Live</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Your First MLOps System: What Does Good Look Like? with Andy McMahon</title>
+      <link>https://podcasts.fame.so/e/rn7mlq7n-your-first-mlops-system-with-andy-mcmahon</link>
+      <itunes:title>Your First MLOps System: What Does Good Look Like? with Andy McMahon</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">k18wjxl0</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Andy McMahon, Machine Learning Engineering Lead of the NatWest Group. They explore concepts around building your first MLOps systems and how teams can understand the processes of optimizing level 0 operations and move towards scalability.
+
+As soon as you commit a piece of code, a properly mature MLOps pipeline may be so powerful that it may be put into production immediately. However, attaining this level of maturity is extremely uncommon. Therefore, it becomes crucial to outline the requirements for creating a system that simplifies future operations, lowers failed deployments, and boosts performance.
+
+The goal is to build an MLOps system that you can easily iterate on and would not break when the time for scale and integrating components (such as model registry and feature stores) arrive. Andy demonstrates how a basic model with an optimal MLOps infrastructure will yield value more quickly than a complex model that is thrown over the fence, which may result in resource wastage. Teams can begin by redefining the deliverable expectations, simplifying them to what is truly necessary, utilizing available tools, and constantly realigning operational considerations to the business problem to be solved.
+
+Andy outlines several essential ideas, from the most basic level (MLOps at level 0), which includes no automation, to the most advanced one (MLOps level 1 and 2), which involves automating both machine learning and CI/CD pipelines.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Andy:</div><ul><li>Andy’s <a href="https://www.linkedin.com/in/andymcmahon629/">LinkedIn</a></li><li>Andy’s <a href="https://twitter.com/electricweegie">Twitter</a></li></ul><div><br></div><div>Episode Resources:</div><div><br></div><ul><li>NatWest Group’s <a href="https://www.linkedin.com/company/natwest-group/">LinkedIn</a></li><li>NatWest Group’s <a href="https://jobs.natwestgroup.com/">Website</a></li><li>AI Right <a href="https://shows.acast.com/ai-right">Podcast</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 17 Aug 2022 09:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wz7lz3l8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/2d144cf0-d206-11ed-a694-33bc1fd2d29c/2d144e30-d206-11ed-9eff-eb87b2148742.png"/>
+      <itunes:duration>3484</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Andy McMahon, Machine Learning Engineering Lead of the NatWest Group. They explore concepts around building your first MLOps systems and how teams can understand the processes of optimizing level 0 operations and move towards scalability.
+
+As soon as you commit a piece of code, a properly mature MLOps pipeline may be so powerful that it may be put into production immediately. However, attaining this level of maturity is extremely uncommon. Therefore, it becomes crucial to outline the requirements for creating a system that simplifies future operations, lowers failed deployments, and boosts performance.
+
+The goal is to build an MLOps system that you can easily iterate on and would not break when the time for scale and integrating components (such as model registry and feature stores) arrive. Andy demonstrates how a basic model with an optimal MLOps infrastructure will yield value more quickly than a complex model that is thrown over the fence, which may result in resource wastage. Teams can begin by redefining the deliverable expectations, simplifying them to what is truly necessary, utilizing available tools, and constantly realigning operational considerations to the business problem to be solved.
+
+Andy outlines several essential ideas, from the most basic level (MLOps at level 0), which includes no automation, to the most advanced one (MLOps level 1 and 2), which involves automating both machine learning and CI/CD pipelines.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Andy McMahon, Machine Learning Engineering Lead of the NatWest Group. They explore concepts around building your first MLOps systems and how teams can understand the processes of optimizing level 0 operations and move towards scalability.
+
+As soon as you commit a piece of code, a properly mature MLOps pipeline may be so powerful that it may be put into production immediately. However, attaining this level of maturity is extremely uncommon. Therefore, it becomes crucial to outline the requirements for creating a system that simplifies future operations, lowers failed deployments, and boosts performance.
+
+The goal is to build an MLOps system that you can easily iterate on and would not break when the time for scale and integrating components (such as model registry and feature stores) arrive. Andy demonstrates how a basic model with an optimal MLOps infrastructure will yield value more quickly than a complex model that is thrown over the fence, which may result in resource wastage. Teams can begin by redefining the deliverable expectations, simplifying them to what is truly necessary, utilizing available tools, and constantly realigning operational considerations to the business problem to be solved.
+
+Andy outlines several essential ideas, from the most basic level (MLOps at level 0), which includes no automation, to the most advanced one (MLOps level 1 and 2), which involves automating both machine learning and CI/CD pipelines.</itunes:subtitle>
+      <itunes:keywords>Andy McMahon, NatWest Group, Your First MLOps System, Neptune.ai, MLOps Learning, Machine learning</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Leveraging Unlabeled Image Data with Self-Supervised Learning or Pseudo Labeling with Mateusz Opala</title>
+      <link>https://podcasts.fame.so/e/qn09zlq8-unlabeled-image-data-with-mateusz-opala</link>
+      <itunes:title>Leveraging Unlabeled Image Data with Self-Supervised Learning or Pseudo Labeling with Mateusz Opala</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">p1ky32p1</guid>
+      <description>In this episode of the MLOps Live podcast, Mateusz Opala, Senior Machine Learning Engineer at Brainly, answers questions about leveraging unlabeled image data with self-supervised learning or pseudo labeling.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Mateusz:</div><ul><li>Mateusz’s <a href="https://www.linkedin.com/in/matthewopala/">LinkedIn</a></li><li>Brainly's <a href="https://www.linkedin.com/company/brainly-com/">LinkedIn</a></li><li>Brainly's <a href="https://brainly.com/">Website</a></li></ul><div><br></div><div>If you enjoyed this episode, then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 03 Aug 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wvyv41x8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/5e8d6280-d206-11ed-aef1-a91ef726d103/5e8d63d0-d206-11ed-b03a-6989c60d08bf.png"/>
+      <itunes:duration>2757</itunes:duration>
+      <itunes:summary>In this episode of the MLOps Live podcast, Mateusz Opala, Senior Machine Learning Engineer at Brainly, answers questions about leveraging unlabeled image data with self-supervised learning or pseudo labeling.</itunes:summary>
+      <itunes:subtitle>In this episode of the MLOps Live podcast, Mateusz Opala, Senior Machine Learning Engineer at Brainly, answers questions about leveraging unlabeled image data with self-supervised learning or pseudo labeling.</itunes:subtitle>
+      <itunes:keywords>Mateusz Opala, Brainly,  Pseudo Labeling, MLOps, MLOps Live, Neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Managing Computer Vision Projects with Michal Tadeusiak</title>
+      <link>https://podcasts.fame.so/e/68r3jl1n-managing-computer-vision-projects-with-michal-tadeusiak</link>
+      <itunes:title>Managing Computer Vision Projects with Michal Tadeusiak</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">805xj8k1</guid>
+      <description>In this episode of the MLOps Live podcast, Michal Tadeusiak, the Director of AI at deepsense.ai, will be answering questions about managing computer vision projects, specifically looking at AI activities spanning computer vision, NLP, and predictive modeling projects.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Michal:</div><ul><li>Michal’s <a href="https://www.linkedin.com/in/michal-tadeusiak">LinkedIn</a></li><li>deepsense.ai <a href="https://www.linkedin.com/company/deepsense.ai/">LinkedIn</a></li><li>deepsense.ai <a href="https://deepsense.ai/">Website</a></li></ul><div><br></div><div>If you enjoyed this episode, then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 20 Jul 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wvyv4vm8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/c392beb0-d206-11ed-8e01-bf3503789fc5/c392c010-d206-11ed-9e6b-b9937924b56c.png"/>
+      <itunes:duration>3182</itunes:duration>
+      <itunes:summary>In this episode of the MLOps Live podcast, Michal Tadeusiak, the Director of AI at deepsense.ai, will be answering questions about managing computer vision projects, specifically looking at AI activities spanning computer vision, NLP, and predictive modeling projects.</itunes:summary>
+      <itunes:subtitle>In this episode of the MLOps Live podcast, Michal Tadeusiak, the Director of AI at deepsense.ai, will be answering questions about managing computer vision projects, specifically looking at AI activities spanning computer vision, NLP, and predictive modeling projects.</itunes:subtitle>
+      <itunes:keywords>Michal Tadeusiak, Managing Computer Vision Projects, deepsense.ai, MLOps, MLOps Live, Neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Data Engineering and MLOps for Neural Search with Fernando Rejon Barrera and Jakub Zavrel</title>
+      <link>https://podcasts.fame.so/e/x8vmmjyn-data-engineering-and-neural-search-with-fernando-and-jakub</link>
+      <itunes:title>Data Engineering and MLOps for Neural Search with Fernando Rejon Barrera and Jakub Zavrel</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">70ymm240</guid>
+      <description>Today, we’re joined by Fernando Rejon, Senior Infrastructure Engineer at Zeta Alpha Vector, and Jakub Zavrel, Founder and CEO of Zeta Alpha Vector. In addition, they discuss MLOps for neural search applications data engineering, and how this innovation is pushing the bounds of search engines.
+
+In this episode, they explore how they use modern deep learning techniques to build an AI research navigator at Zeta Alpha. They engage in an in-depth discussion based on the challenges with setting up MLOps systems for neural search applications, how to evaluate the quality of embedding-based retrieval, progress and numerous pertinent criteria, contrasting the trade-offs of using in neural (information retrieval) search, and the trade-off with using it in practice and theory to standard information retrieval strategies.
+
+Additionally, they put into perspective the most important components you would need to build a POC neural search application. examine neural search models in both the retrieval and ranking phases from the perspective of scalability and predictability. They also outline conditions under which state-of-the-art results can be obtained. They also discuss the enormous work necessary to build and deploy neural search applications, which necessitates the use of greater processing resources, such as GPUs rather than CPUs, to get desirable output.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Fernando and Jakub :</div><ul><li>Fernando’s <a href="https://www.linkedin.com/in/fernando-rejon-barrera/">LinkedIn</a></li><li>Jakub’s <a href="https://www.linkedin.com/in/jakubzavrel/">LinkedIn</a></li><li>Jakub’s <a href="https://twitter.com/jakubzavrel?lang=en">Twitter</a></li><li>Zeta Alpha Vector <a href="https://www.zeta-alpha.com">website</a></li></ul><div><br></div><div>If you enjoyed this episode, then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 06 Jul 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w3lrkr58.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/ddc6e0b0-d206-11ed-853d-0bb8c01aa616/ddc6e220-d206-11ed-83fa-2f39c5d180db.png"/>
+      <itunes:duration>3051</itunes:duration>
+      <itunes:summary>Today, we’re joined by Fernando Rejon, Senior Infrastructure Engineer at Zeta Alpha Vector, and Jakub Zavrel, Founder and CEO of Zeta Alpha Vector. In addition, they discuss MLOps for neural search applications data engineering, and how this innovation is pushing the bounds of search engines.
+
+In this episode, they explore how they use modern deep learning techniques to build an AI research navigator at Zeta Alpha. They engage in an in-depth discussion based on the challenges with setting up MLOps systems for neural search applications, how to evaluate the quality of embedding-based retrieval, progress and numerous pertinent criteria, contrasting the trade-offs of using in neural (information retrieval) search, and the trade-off with using it in practice and theory to standard information retrieval strategies.
+
+Additionally, they put into perspective the most important components you would need to build a POC neural search application. examine neural search models in both the retrieval and ranking phases from the perspective of scalability and predictability. They also outline conditions under which state-of-the-art results can be obtained. They also discuss the enormous work necessary to build and deploy neural search applications, which necessitates the use of greater processing resources, such as GPUs rather than CPUs, to get desirable output.</itunes:summary>
+      <itunes:subtitle>Today, we’re joined by Fernando Rejon, Senior Infrastructure Engineer at Zeta Alpha Vector, and Jakub Zavrel, Founder and CEO of Zeta Alpha Vector. In addition, they discuss MLOps for neural search applications data engineering, and how this innovation is pushing the bounds of search engines.
+
+In this episode, they explore how they use modern deep learning techniques to build an AI research navigator at Zeta Alpha. They engage in an in-depth discussion based on the challenges with setting up MLOps systems for neural search applications, how to evaluate the quality of embedding-based retrieval, progress and numerous pertinent criteria, contrasting the trade-offs of using in neural (information retrieval) search, and the trade-off with using it in practice and theory to standard information retrieval strategies.
+
+Additionally, they put into perspective the most important components you would need to build a POC neural search application. examine neural search models in both the retrieval and ranking phases from the perspective of scalability and predictability. They also outline conditions under which state-of-the-art results can be obtained. They also discuss the enormous work necessary to build and deploy neural search applications, which necessitates the use of greater processing resources, such as GPUs rather than CPUs, to get desirable output.</itunes:subtitle>
+      <itunes:keywords>Jakub Zavrel, Fernando Rejon Barrera, Zeta Alpha, Neural Search, Data Engineering, MLOps, MLOps Live, Neptune Labs</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Navigating ML Observability with Danny Leybzon</title>
+      <link>https://podcasts.fame.so/e/1n2pmq9n-navigating-ml-observability-with-danny-leybzon</link>
+      <itunes:title>Navigating ML Observability with Danny Leybzon</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">219my581</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Danny Leybzon, MLOps Architect at WhyLabs. They examine the differences between monitoring and observability in machine learning models for production and methods for efficient implementation and development.
+
+Observability in MLOps is a holistic and comprehensive way to gain insights into the behavior, data, and performance of a machine learning model throughout its lifespan. It allows for detailed root cause analysis of ML model predictions and aids in the development of responsible models.
+
+Although ML monitoring and observability appear to be similar, Danny points out that monitoring is a continuous system that prompts you when there is a problem. Whereas observability refers to the larger picture, a human-in-the-loop root cause analysis system that allows you to figure out what the problem is and then solve it.
+
+Danny further discusses the unique features of WhyLabs in comparison to other conventional monitoring solutions, such as customizable and opinionated self-serve capabilities that allow users to pick particular metrics to track, especially in the absence of ground truth.</description>
+      <content:encoded><![CDATA[<div>Visit our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Danny Leybzon:</div><ul><li>Danny’s <a href="https://www.linkedin.com/in/dleybz">LinkedIn</a></li><li>Danny’s <a href="https://twitter.com/dleybz">Twitter</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 22 Jun 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/w160m098.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/f9e2a7a0-d206-11ed-b356-094f0b0c2905/f9e2a910-d206-11ed-be02-9784466f5484.png"/>
+      <itunes:duration>3349</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Danny Leybzon, MLOps Architect at WhyLabs. They examine the differences between monitoring and observability in machine learning models for production and methods for efficient implementation and development.
+
+Observability in MLOps is a holistic and comprehensive way to gain insights into the behavior, data, and performance of a machine learning model throughout its lifespan. It allows for detailed root cause analysis of ML model predictions and aids in the development of responsible models.
+
+Although ML monitoring and observability appear to be similar, Danny points out that monitoring is a continuous system that prompts you when there is a problem. Whereas observability refers to the larger picture, a human-in-the-loop root cause analysis system that allows you to figure out what the problem is and then solve it.
+
+Danny further discusses the unique features of WhyLabs in comparison to other conventional monitoring solutions, such as customizable and opinionated self-serve capabilities that allow users to pick particular metrics to track, especially in the absence of ground truth.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Danny Leybzon, MLOps Architect at WhyLabs. They examine the differences between monitoring and observability in machine learning models for production and methods for efficient implementation and development.
+
+Observability in MLOps is a holistic and comprehensive way to gain insights into the behavior, data, and performance of a machine learning model throughout its lifespan. It allows for detailed root cause analysis of ML model predictions and aids in the development of responsible models.
+
+Although ML monitoring and observability appear to be similar, Danny points out that monitoring is a continuous system that prompts you when there is a problem. Whereas observability refers to the larger picture, a human-in-the-loop root cause analysis system that allows you to figure out what the problem is and then solve it.
+
+Danny further discusses the unique features of WhyLabs in comparison to other conventional monitoring solutions, such as customizable and opinionated self-serve capabilities that allow users to pick particular metrics to track, especially in the absence of ground truth.</itunes:subtitle>
+      <itunes:keywords>Danny Leybzon , WhyLabs, Observability, Monitoring, and Explainability, MLOps, MLOps Live, neptune.ai</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Testing Recommender Systems with Federico Bianchi</title>
+      <link>https://podcasts.fame.so/e/28xm20mn-testing-recommender-systems-q-a-session-with-federico-bianchi</link>
+      <itunes:title>Testing Recommender Systems with Federico Bianchi</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">60m5m650</guid>
+      <description>Today, we’re joined by Federico Bianchi, a Postdoctoral Researcher at Università Bocconi. He discusses testing recommender systems, the essential features for any platform with that purpose, testing the relevance of these systems, and how to handle the biases they generate.
+
+With the continuous growth of e-commerce and online media in recent years, there are an increasing number of software-as-a-service recommender systems (RSs) accessible today. Users can get new content from recommender systems, which range from news articles (Google News, Yahoo News) to series and flicks (Netflix, Disney+, Prime Videos), and even products (Amazon, eBay). Today, there are so many products and information available on the internet that no single viewer can possibly see everything that is offered. This is where recommendations come in, allowing products and information to be classified according to their expected relevance to the user's preferences.
+
+They compared offline recommendations to online evaluation platforms, which allow researchers to evaluate their systems in live, real-time scenarios with real people.
+
+Federico discusses the benefits of offline modeling and evaluates the speed and convenience of testing algorithms with predetermined datasets. However, because these statistics are not tied to actual users, there are a lot of biases to consider.</description>
+      <content:encoded><![CDATA[<div>Visit our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Federico Bianchi:</div><ul><li>Federico’s <a href="https://www.linkedin.com/in/federico-bianchi-3b7998121/">LinkedIn</a></li><li>Federico’s <a href="https://twitter.com/federicobianchy?lang=en">Twitter</a></li><li>Federico’s <a href="https://federicobianchi.io/">website</a></li></ul><div><br></div><div>If you enjoyed this episode, then please either:</div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 08 Jun 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/8yq1k1q8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/10984770-d207-11ed-a7ad-d795ded49d19/10984900-d207-11ed-a3cb-c5b5830955ee.png"/>
+      <itunes:duration>3340</itunes:duration>
+      <itunes:summary>Today, we’re joined by Federico Bianchi, a Postdoctoral Researcher at Università Bocconi. He discusses testing recommender systems, the essential features for any platform with that purpose, testing the relevance of these systems, and how to handle the biases they generate.
+
+With the continuous growth of e-commerce and online media in recent years, there are an increasing number of software-as-a-service recommender systems (RSs) accessible today. Users can get new content from recommender systems, which range from news articles (Google News, Yahoo News) to series and flicks (Netflix, Disney+, Prime Videos), and even products (Amazon, eBay). Today, there are so many products and information available on the internet that no single viewer can possibly see everything that is offered. This is where recommendations come in, allowing products and information to be classified according to their expected relevance to the user's preferences.
+
+They compared offline recommendations to online evaluation platforms, which allow researchers to evaluate their systems in live, real-time scenarios with real people.
+
+Federico discusses the benefits of offline modeling and evaluates the speed and convenience of testing algorithms with predetermined datasets. However, because these statistics are not tied to actual users, there are a lot of biases to consider.</itunes:summary>
+      <itunes:subtitle>Today, we’re joined by Federico Bianchi, a Postdoctoral Researcher at Università Bocconi. He discusses testing recommender systems, the essential features for any platform with that purpose, testing the relevance of these systems, and how to handle the biases they generate.
+
+With the continuous growth of e-commerce and online media in recent years, there are an increasing number of software-as-a-service recommender systems (RSs) accessible today. Users can get new content from recommender systems, which range from news articles (Google News, Yahoo News) to series and flicks (Netflix, Disney+, Prime Videos), and even products (Amazon, eBay). Today, there are so many products and information available on the internet that no single viewer can possibly see everything that is offered. This is where recommendations come in, allowing products and information to be classified according to their expected relevance to the user's preferences.
+
+They compared offline recommendations to online evaluation platforms, which allow researchers to evaluate their systems in live, real-time scenarios with real people.
+
+Federico discusses the benefits of offline modeling and evaluates the speed and convenience of testing algorithms with predetermined datasets. However, because these statistics are not tied to actual users, there are a lot of biases to consider.</itunes:subtitle>
+      <itunes:keywords>Federico Bianchi, Universita Bacconi, MLOps, MLOps Live, neptune.ai, Testing Recommender Systems,  Model testing frameworks and approaches,  SMEs approaches, Rationing test sets, Testing retrieval models vs ranking models, Long tail distributions</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Deploying models on GPU with Kyle Morris</title>
+      <link>https://podcasts.fame.so/e/5nzmz2p8-deploying-models-on-gpu-q-a-session-with-kyle-morris-of-banana-ml</link>
+      <itunes:title>Deploying models on GPU with Kyle Morris</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">80zmlpr1</guid>
+      <description>In this episode of MLOps Live, Sabine and Stephen are joined by Kyle Morris, Co-Founder of Banana ML. They discuss running ML in production leveraging GPUs. They delve into GPU performance optimization, approaches, infrastructural and memory implications as well as other cases.
+
+With the increased interest in building production-ready, end-to-end ML pipelines, there’s an increasing need to employ the optimal toolset, which can scale quicker. Modern commodity PCs have a multi-core CPU and at least one GPU, resulting in a low-cost, easily accessible heterogeneous environment for high-performance computing, but due to physical constraints, hardware development now results in greater parallelism rather than improved performance for sequential algorithms.  
+
+Machine Learning Build/Train and Production Execution frequently employ disparate controls, management, run time platforms, and sometimes languages. As a result, understanding the hardware on which one is running is critical in order to take advantage of any optimization that is feasible.</description>
+      <content:encoded><![CDATA[<div>Visit our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br>Learn more about Kyle Morris:</div><ul><li>Kyle’s <a href="https://www.linkedin.com/in/kylejohnmorris/">LinkedIn</a></li><li>Kyle’s <a href="https://twitter.com/kylejohnmorris">Twitter</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:<br><br></div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 25 May 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wz7lzpj8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/28011380-d207-11ed-b932-b9f6f512d043/28011710-d207-11ed-8cf4-1de14b5d7c3b.png"/>
+      <itunes:duration>3355</itunes:duration>
+      <itunes:summary>In this episode of MLOps Live, Sabine and Stephen are joined by Kyle Morris, Co-Founder of Banana ML. They discuss running ML in production leveraging GPUs. They delve into GPU performance optimization, approaches, infrastructural and memory implications as well as other cases.
+
+With the increased interest in building production-ready, end-to-end ML pipelines, there’s an increasing need to employ the optimal toolset, which can scale quicker. Modern commodity PCs have a multi-core CPU and at least one GPU, resulting in a low-cost, easily accessible heterogeneous environment for high-performance computing, but due to physical constraints, hardware development now results in greater parallelism rather than improved performance for sequential algorithms.  
+
+Machine Learning Build/Train and Production Execution frequently employ disparate controls, management, run time platforms, and sometimes languages. As a result, understanding the hardware on which one is running is critical in order to take advantage of any optimization that is feasible.</itunes:summary>
+      <itunes:subtitle>In this episode of MLOps Live, Sabine and Stephen are joined by Kyle Morris, Co-Founder of Banana ML. They discuss running ML in production leveraging GPUs. They delve into GPU performance optimization, approaches, infrastructural and memory implications as well as other cases.
+
+With the increased interest in building production-ready, end-to-end ML pipelines, there’s an increasing need to employ the optimal toolset, which can scale quicker. Modern commodity PCs have a multi-core CPU and at least one GPU, resulting in a low-cost, easily accessible heterogeneous environment for high-performance computing, but due to physical constraints, hardware development now results in greater parallelism rather than improved performance for sequential algorithms.  
+
+Machine Learning Build/Train and Production Execution frequently employ disparate controls, management, run time platforms, and sometimes languages. As a result, understanding the hardware on which one is running is critical in order to take advantage of any optimization that is feasible.</itunes:subtitle>
+      <itunes:keywords>Kyle Morris, Banana ML, MLOps, MLOps Live, neptune.ai, Deploying models on GPU, Containerization and Kubernetes, Use cases for GPUs, Model maintenance</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Building a Visual Search Engine with Kuba Cieslik</title>
+      <link>https://podcasts.fame.so/e/5nzyq4w8-building-a-visual-search-engine-with-kuba-cieslik</link>
+      <itunes:title>Building a Visual Search Engine with Kuba Cieslik</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">80z8j630</guid>
+      <description>Today, we’re joined by Kuba Cieslik, CEO and Ai Engineer at tuul.ai. He has experience in building ML products and solutions and has a deep understanding of how to build visual search solutions. 
+
+Visual search technology has been around for quite some time, as part of Google Pictures or Pinterest Lens. It has become increasingly popular in e-commerce, allowing customers to simply upload what they're looking for instead of going through a slew of attribute filters. Kuba discusses how one might go about creating such a visual search engine from the ground up, as well as what approaches work and the challenges in such a complex sector.</description>
+      <content:encoded><![CDATA[<div>Subscribe to our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!<br><br></div><div>Learn more about Kuba Cieslik:</div><ul><li>Kuba’s <a href="https://www.linkedin.com/in/jakubcieslik/">LinkedIn</a></li></ul><div><br></div><div>Episode resources:</div><ul><li>Kuba’s post on Neptune AI’s <a href="https://neptune.ai/blog/data-exploration-for-image-segmentation-and-object-detection">Blog</a></li><li>tuul.ai's <a href="https://www.tuul.ai/">Website</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><div><br></div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><a href="https://neptune.ai/events"><br>Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 11 May 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wx90npx8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/3e2f68d0-d20f-11ed-baa7-4b7da06bfed6/3e2f6a60-d20f-11ed-adc4-0bb80a72f4e3.png"/>
+      <itunes:duration>3202</itunes:duration>
+      <itunes:summary>Today, we’re joined by Kuba Cieslik, CEO and Ai Engineer at tuul.ai. He has experience in building ML products and solutions and has a deep understanding of how to build visual search solutions. 
+
+Visual search technology has been around for quite some time, as part of Google Pictures or Pinterest Lens. It has become increasingly popular in e-commerce, allowing customers to simply upload what they're looking for instead of going through a slew of attribute filters. Kuba discusses how one might go about creating such a visual search engine from the ground up, as well as what approaches work and the challenges in such a complex sector.</itunes:summary>
+      <itunes:subtitle>Today, we’re joined by Kuba Cieslik, CEO and Ai Engineer at tuul.ai. He has experience in building ML products and solutions and has a deep understanding of how to build visual search solutions. 
+
+Visual search technology has been around for quite some time, as part of Google Pictures or Pinterest Lens. It has become increasingly popular in e-commerce, allowing customers to simply upload what they're looking for instead of going through a slew of attribute filters. Kuba discusses how one might go about creating such a visual search engine from the ground up, as well as what approaches work and the challenges in such a complex sector.</itunes:subtitle>
+      <itunes:keywords>Kuba Cieslik,  Fitly.ai, AI engineer, MLOps, MLOps Live, OCR technology, Integrating visual search engines,  ector similarity tools and solutions,  Common problems with visual search</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>MLOps at a Reasonable Scale: Approaches &amp; Challenges with Jacopo Tagliabue</title>
+      <link>https://podcasts.fame.so/e/vnwl36l8-mlops-at-a-reasonable-scale-approaches-challenges-with-jacopo-tagliabue</link>
+      <itunes:title>MLOps at a Reasonable Scale: Approaches &amp; Challenges with Jacopo Tagliabue</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">81x89p81</guid>
+      <description>Today, we’re joined by Jacopo Tagliabue, Director of A.I. at Coveo. He currently combines product thinking and research-like curiosity to build better data-driven systems at scale. They examine how immature data pipelines are impeding a substantial part of industry practitioners from profiting from the latest ML research. 
+
+People from super-advanced, hyperscale companies come up with the majority of ideas for machine learning best practices and tools, examples are Big Tech companies like Google, Uber, and Airbnb, with sophisticated ML infrastructure to handle their petabytes of data. However, 98% of businesses aren't using machine learning in production at hyperscale but rather on a smaller (reasonable) scale.
+
+Jacopo discusses how businesses may get started with machine learning at a modest size. Most of these organizations are early adopters of machine learning, and with their good sized proprietary datasets they can also reap the benefits of ML without requiring all of the super-advanced hyper-real-time infrastructure.</description>
+      <content:encoded><![CDATA[<div>Visit our <a href="https://www.youtube.com/c/NeptuneAI/playlists">YouTube </a>channel to watch this episode!</div><div><br>Learn more about Jacopo Tagliabue:</div><ul><li>Jacopo’s <a href="https://www.linkedin.com/in/jacopotagliabue/">LinkedIn</a></li><li>Jacopo’s <a href="https://twitter.com/jacopotagliabue">Twitter</a></li><li>Coveo's <a href="https://connect.coveo.com/s/">Community</a></li></ul><div><br></div><div>Episode resources:</div><ul><li>Chip’s <a href="https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969">book</a></li></ul><div><br></div><div>If you enjoyed this episode then please either:</div><div><br></div><ul><li>Subscribe, rate, and review on <a href="https://podcasts.apple.com/us/podcast/mlops-live/id1622835619">Apple Podcasts</a></li><li>Follow on <a href="https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x">Spotify</a></li><li>RSS <a href="https://feeds.bcast.fm/mlops-live">Feed</a></li></ul><div><br><a href="https://neptune.ai/events">Register</a> for the new live event</div><div>Brought to you by&nbsp;<a href="http://bit.ly/3TF5Ci7">neptune.ai</a></div>]]></content:encoded>
+      <pubDate>Wed, 11 May 2022 08:00:00 +0000</pubDate>
+      <author>neptune.ai</author>
+      <enclosure url="https://media.fame.so/wk4nk5q8.mp3" length="" type="audio/mpeg"/>
+      <itunes:author>neptune.ai</itunes:author>
+      <itunes:image href="https://content.fameapp.so/uploads/xzq0lzvq/6c236ca0-d207-11ed-9f83-4124af2d2062/6c236e40-d207-11ed-93ba-31d519d6833d.png"/>
+      <itunes:duration>3371</itunes:duration>
+      <itunes:summary>Today, we’re joined by Jacopo Tagliabue, Director of A.I. at Coveo. He currently combines product thinking and research-like curiosity to build better data-driven systems at scale. They examine how immature data pipelines are impeding a substantial part of industry practitioners from profiting from the latest ML research. 
+
+People from super-advanced, hyperscale companies come up with the majority of ideas for machine learning best practices and tools, examples are Big Tech companies like Google, Uber, and Airbnb, with sophisticated ML infrastructure to handle their petabytes of data. However, 98% of businesses aren't using machine learning in production at hyperscale but rather on a smaller (reasonable) scale.
+
+Jacopo discusses how businesses may get started with machine learning at a modest size. Most of these organizations are early adopters of machine learning, and with their good sized proprietary datasets they can also reap the benefits of ML without requiring all of the super-advanced hyper-real-time infrastructure.</itunes:summary>
+      <itunes:subtitle>Today, we’re joined by Jacopo Tagliabue, Director of A.I. at Coveo. He currently combines product thinking and research-like curiosity to build better data-driven systems at scale. They examine how immature data pipelines are impeding a substantial part of industry practitioners from profiting from the latest ML research. 
+
+People from super-advanced, hyperscale companies come up with the majority of ideas for machine learning best practices and tools, examples are Big Tech companies like Google, Uber, and Airbnb, with sophisticated ML infrastructure to handle their petabytes of data. However, 98% of businesses aren't using machine learning in production at hyperscale but rather on a smaller (reasonable) scale.
+
+Jacopo discusses how businesses may get started with machine learning at a modest size. Most of these organizations are early adopters of machine learning, and with their good sized proprietary datasets they can also reap the benefits of ML without requiring all of the super-advanced hyper-real-time infrastructure.</itunes:subtitle>
+      <itunes:keywords>Jacopo Tagliabue,  Coveo, MLOps, MLOps Live, neptune.ai, Models for product categories, Optimizing model training with GPUs, Sagemaker,  Navigating culture to adapt to reasonable processes, Tooling for ML pipeline, Metaflow and kubernetes,  Structuring teams for MLOps,  ML at a reasonable scale</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+  </channel>
+</rss>

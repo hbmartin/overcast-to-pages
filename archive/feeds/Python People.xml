@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/python-people" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>Python People</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/python-people</itunes:new-feed-url>
+    <description>The Python community is awesome because of the people. Python People is a weekly podcast about getting to know the people who help make the Python community great.
+It's less about the tech, and more about the people.</description>
+    <copyright>@ 2023 Brian Okken</copyright>
+    <podcast:guid>8b3fc168-4684-5c14-919c-251b6b13d596</podcast:guid>
+    <podcast:locked owner="pythonpeople@pythontest.com">no</podcast:locked>
+    <podcast:funding url="https://www.patreon.com/PythonPeople">Support this podcast on Patreon</podcast:funding>
+    <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+    <language>en</language>
+    <pubDate>Wed, 17 Jul 2024 09:51:15 -0700</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:36:35 -0800</lastBuildDate>
+    <link>https://pythonpeople.fm</link>
+    <image>
+      <url>https://img.transistor.fm/AiGpfipL2XU3JF6eFE-kvaCN9BMjo2CEaM-wRPo2DNg/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQyNjQ1LzE2ODg2/NjIyMDktYXJ0d29y/ay5qcGc.jpg</url>
+      <title>Python People</title>
+      <link>https://pythonpeople.fm</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Brian Okken</itunes:author>
+    <itunes:image href="https://img.transistor.fm/AiGpfipL2XU3JF6eFE-kvaCN9BMjo2CEaM-wRPo2DNg/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQyNjQ1LzE2ODg2/NjIyMDktYXJ0d29y/ay5qcGc.jpg"/>
+    <itunes:summary>The Python community is awesome because of the people. Python People is a weekly podcast about getting to know the people who help make the Python community great.
+It's less about the tech, and more about the people.</itunes:summary>
+    <itunes:subtitle>The Python community is awesome because of the people.</itunes:subtitle>
+    <itunes:keywords>Python</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Brian Okken</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Shauna Gordon-McKeon - Open Source Governance, Women's Soccer, and Django</title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>Shauna Gordon-McKeon - Open Source Governance, Women's Soccer, and Django</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">88f6601b-4984-4ecc-b69b-e64125a8a820</guid>
+      <link>https://pythonpeople.fm/episodes/shauna-gordon-mckeon</link>
+      <description>
+        <![CDATA[<p>This is a really fun talk with Shauna.  </p><p>We talk about: </p><ul><li>Going from academia to tech</li><li>Django</li><li>Open source project governance and <a href="https://governingopen.com">Governing Open</a></li><li><a href="https://www.nwslsoccer.com/">Womens Soccer</a> and the NWSL</li></ul><p>Shauna's technical consulting business is <a href="http://www.galaxyriseconsulting.com/">Galaxy Rise Consulting</a></p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>This is a really fun talk with Shauna.  </p><p>We talk about: </p><ul><li>Going from academia to tech</li><li>Django</li><li>Open source project governance and <a href="https://governingopen.com">Governing Open</a></li><li><a href="https://www.nwslsoccer.com/">Womens Soccer</a> and the NWSL</li></ul><p>Shauna's technical consulting business is <a href="http://www.galaxyriseconsulting.com/">Galaxy Rise Consulting</a></p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Thu, 09 May 2024 07:41:29 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/407f0a5a/2f925a7c.mp3" length="31103132" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/sdW8uIW_jL9LSIMLD7w7Y9Nd7d5DFJgSm5dpwYrTS_g/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2OTExMzMv/MTcwNTM2NDc1Ny1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2586</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>This is a really fun talk with Shauna.  </p><p>We talk about: </p><ul><li>Going from academia to tech</li><li>Django</li><li>Open source project governance and <a href="https://governingopen.com">Governing Open</a></li><li><a href="https://www.nwslsoccer.com/">Womens Soccer</a> and the NWSL</li></ul><p>Shauna's technical consulting business is <a href="http://www.galaxyriseconsulting.com/">Galaxy Rise Consulting</a></p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="http://shaunagm.net" img="https://img.transistor.fm/LeVEI1rFSbhKa8Ot0LvsOpvHl_29TsATW7AAybV_YlA/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMmZmM2EzZGYt/NDQwZS00YjMwLWI1/MzctOGQ5ZGMzMDhl/ZjA1LzE3MDUzNjQ0/NTAtaW1hZ2UuanBn.jpg">Shauna Gordon-McKeon</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/407f0a5a/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/407f0a5a/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/407f0a5a/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/407f0a5a/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/407f0a5a/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Rob Ludwick - Getting the most out of PyCon, including juggling</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>Rob Ludwick - Getting the most out of PyCon, including juggling</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6a0fdfe5-16cb-44ee-b427-2c96694da315</guid>
+      <link>https://pythonpeople.fm/episodes/rob-ludwick-getting-the-most-out-of-pycon-including-juggling</link>
+      <description>
+        <![CDATA[<p>PyCon US is just around the corner.  I've asked Rob Ludwick to come on the show to discuss how to get the most out of your PyCon experience. There's a lot to do. A lot of activities to juggle, including actual juggling, which is where we start the conversation.</p><p>Even if you never get a chance to go to PyCon, I hope this interview helps you get a feel for the welcoming aspect of the Python community.</p><p>We talk about: <br>- Juggling at PyCon<br>- How to get the most out of PyCon<br>    - Watching talks<br>    - Hallway track<br>    - Open spaces<br>    - Lightening talks<br>    - Expo hall / vendor space<br>    - Poster sessions<br>    - Job fair<br>    - A welcoming community<br>    - Tutorials <br>    - Sprints<br>    - But mostly about the people of Python and PyCon.</p><p>"Python enables smart people to work faster" - Rob Ludwick</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>PyCon US is just around the corner.  I've asked Rob Ludwick to come on the show to discuss how to get the most out of your PyCon experience. There's a lot to do. A lot of activities to juggle, including actual juggling, which is where we start the conversation.</p><p>Even if you never get a chance to go to PyCon, I hope this interview helps you get a feel for the welcoming aspect of the Python community.</p><p>We talk about: <br>- Juggling at PyCon<br>- How to get the most out of PyCon<br>    - Watching talks<br>    - Hallway track<br>    - Open spaces<br>    - Lightening talks<br>    - Expo hall / vendor space<br>    - Poster sessions<br>    - Job fair<br>    - A welcoming community<br>    - Tutorials <br>    - Sprints<br>    - But mostly about the people of Python and PyCon.</p><p>"Python enables smart people to work faster" - Rob Ludwick</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Sat, 04 May 2024 14:57:00 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/0200566d/db2d5fe8.mp3" length="28474325" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/DuKXlnf_byeHnOkCLYXuWCXPKTnA3UWKgY_3IEDOrG0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mYWVj/MDViNzllYmFlMmFh/ZTVhN2ZiYzJjZjA2/NmNjMy5wbmc.jpg"/>
+      <itunes:duration>2372</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>PyCon US is just around the corner.  I've asked Rob Ludwick to come on the show to discuss how to get the most out of your PyCon experience. There's a lot to do. A lot of activities to juggle, including actual juggling, which is where we start the conversation.</p><p>Even if you never get a chance to go to PyCon, I hope this interview helps you get a feel for the welcoming aspect of the Python community.</p><p>We talk about: <br>- Juggling at PyCon<br>- How to get the most out of PyCon<br>    - Watching talks<br>    - Hallway track<br>    - Open spaces<br>    - Lightening talks<br>    - Expo hall / vendor space<br>    - Poster sessions<br>    - Job fair<br>    - A welcoming community<br>    - Tutorials <br>    - Sprints<br>    - But mostly about the people of Python and PyCon.</p><p>"Python enables smart people to work faster" - Rob Ludwick</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://pythonpeople.fm/people/rob-ludwick" img="https://img.transistor.fm/3UYkwIH9dAAE4qOUqoSWAUKFhEIm7weYlMFA-Qxe1Ko/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNDky/MWE2OGFhZDBiMjJl/NmJjNTk3Yzk0NTNm/MTMyOC5qcGVn.jpg">Rob Ludwick</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/0200566d/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0200566d/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0200566d/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0200566d/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0200566d/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Nikita Karamov - Russia, Germany, Django, and Jazzband</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>Nikita Karamov - Russia, Germany, Django, and Jazzband</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">947d2d3d-57c6-4089-939e-05fce762c761</guid>
+      <link>https://pythonpeople.fm/episodes/nikita-karamov</link>
+      <description>
+        <![CDATA[<p>Nikita Karamov is a Python developer and maintainer on various open source Python projects.</p><p>Some topics covered:</p><ul><li>Notes on university education in programming and engineering vs theory</li><li>Jazzband for maintaining Django projects</li><li>Contributing to open source makes you a better programmer</li><li>Moving from Russia to Germany during college</li><li>Cultural differences between Russia, Germany, and Oregon</li><li>The nice lack of drama in the Python community</li><li>A lack of universities teaching Python for web development</li></ul><p><br>Links from the show</p><ul><li><a href="https://jazzband.co">Jazzband</a></li><li><a href="https://jazzband.co/projects/django-simple-menu">django-simple-menu</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Nikita Karamov is a Python developer and maintainer on various open source Python projects.</p><p>Some topics covered:</p><ul><li>Notes on university education in programming and engineering vs theory</li><li>Jazzband for maintaining Django projects</li><li>Contributing to open source makes you a better programmer</li><li>Moving from Russia to Germany during college</li><li>Cultural differences between Russia, Germany, and Oregon</li><li>The nice lack of drama in the Python community</li><li>A lack of universities teaching Python for web development</li></ul><p><br>Links from the show</p><ul><li><a href="https://jazzband.co">Jazzband</a></li><li><a href="https://jazzband.co/projects/django-simple-menu">django-simple-menu</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Thu, 08 Feb 2024 11:08:09 -0800</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/03d0fbba/5111ca5c.mp3" length="28616040" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/ZlkaK_lrjlZaV-tC0bfGKc_vJO705-wD_vroEpUZyPI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2OTEwMTMv/MTcwNTM2NDY5NS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2379</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Nikita Karamov is a Python developer and maintainer on various open source Python projects.</p><p>Some topics covered:</p><ul><li>Notes on university education in programming and engineering vs theory</li><li>Jazzband for maintaining Django projects</li><li>Contributing to open source makes you a better programmer</li><li>Moving from Russia to Germany during college</li><li>Cultural differences between Russia, Germany, and Oregon</li><li>The nice lack of drama in the Python community</li><li>A lack of universities teaching Python for web development</li></ul><p><br>Links from the show</p><ul><li><a href="https://jazzband.co">Jazzband</a></li><li><a href="https://jazzband.co/projects/django-simple-menu">django-simple-menu</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://www.kytta.dev" img="https://img.transistor.fm/r9BhN9MyapbXiaWfMt20iHQjqD5GzkNLxlS5ZwBn4jI/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMmIwNTFmY2Mt/NzU1MC00ODI2LTg4/NzEtMGNlYWFlNWNk/NWMwLzE3MDUzNTQ2/OTUtaW1hZ2UuanBn.jpg">Nikita Karamov</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/03d0fbba/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/03d0fbba/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/03d0fbba/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/03d0fbba/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/03d0fbba/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Pamela Fox - Teaching Python, Accessibility, and Tools</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>Pamela Fox - Teaching Python, Accessibility, and Tools</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">fea2d9b5-67a2-4309-b99f-14657d7b5713</guid>
+      <link>https://pythonpeople.fm/episodes/pamela-fox</link>
+      <description>
+        <![CDATA[<p>Pamela Fox is a Python Cloud Developer Advocate at Microsoft. </p><p><br>Topics include:</p><ul><li>Girl Develop It</li><li>Django Girls</li><li>Girls Who Code</li><li>Teaching a language vs teaching a tool</li><li>What a dev advocate does</li><li>Accessibility (A11y) testing</li><li>Playwright</li><li>axe-core</li><li>Snapshot testing</li><li>pytest plugin authoring</li><li>Flask SQLAlchemy</li><li>Relearning Go</li></ul><p>Links from the show:</p><ul><li><a href="https://pythonbytes.fm/episodes/show/323/ai-search-wars-have-begun">Python Bytes 323 with Pamela: AI search wars have begun</a></li><li><a href="https://podcast.pythontest.com/episodes/199-is-azure-right-for-a-side-project">Python Test 199 with Pamela: Is Azure Right for a Side Project?</a></li><li><a href="https://girldevelopit.com">gdi: Girl Develop It</a></li><li><a href="https://djangogirls.org/en/">Django Girls</a></li><li><a href="https://girlswhocode.com">Girls Who Code</a></li><li><a href="https://www.youtube.com/watch?v=J-4Qa6PSomM">"Automated accessibility audits" - Pamela Fox (North Bay Python 2023)</a></li><li><a href="https://playwright.dev">Playwright</a></li><li><a href="https://github.com/dequelabs/axe-core">axe-core</a></li><li><a href="https://github.com/pamelafox/pytest-axe-playwright-snapshot">pytest-axe-playwright-snapshot</a>, plugin from Pamela</li><li><a href="https://www.youtube.com/watch?v=kevcz8NRcQU">pytest-crayons plugin is from a PyCascades talk about building plugins</a></li><li><a href="https://github.com/okken/pytest-check">pytest-check</a>, yet another plugin</li><li><a href="https://flask-sqlalchemy.palletsprojects.com/en/3.1.x/">FlaskSQLAlchemy</a></li><li><a href="https://www.youtube.com/watch?v=oV9rvDllKEg">Concurrency is not Parallelism by Rob Pike</a></li></ul><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Pamela Fox is a Python Cloud Developer Advocate at Microsoft. </p><p><br>Topics include:</p><ul><li>Girl Develop It</li><li>Django Girls</li><li>Girls Who Code</li><li>Teaching a language vs teaching a tool</li><li>What a dev advocate does</li><li>Accessibility (A11y) testing</li><li>Playwright</li><li>axe-core</li><li>Snapshot testing</li><li>pytest plugin authoring</li><li>Flask SQLAlchemy</li><li>Relearning Go</li></ul><p>Links from the show:</p><ul><li><a href="https://pythonbytes.fm/episodes/show/323/ai-search-wars-have-begun">Python Bytes 323 with Pamela: AI search wars have begun</a></li><li><a href="https://podcast.pythontest.com/episodes/199-is-azure-right-for-a-side-project">Python Test 199 with Pamela: Is Azure Right for a Side Project?</a></li><li><a href="https://girldevelopit.com">gdi: Girl Develop It</a></li><li><a href="https://djangogirls.org/en/">Django Girls</a></li><li><a href="https://girlswhocode.com">Girls Who Code</a></li><li><a href="https://www.youtube.com/watch?v=J-4Qa6PSomM">"Automated accessibility audits" - Pamela Fox (North Bay Python 2023)</a></li><li><a href="https://playwright.dev">Playwright</a></li><li><a href="https://github.com/dequelabs/axe-core">axe-core</a></li><li><a href="https://github.com/pamelafox/pytest-axe-playwright-snapshot">pytest-axe-playwright-snapshot</a>, plugin from Pamela</li><li><a href="https://www.youtube.com/watch?v=kevcz8NRcQU">pytest-crayons plugin is from a PyCascades talk about building plugins</a></li><li><a href="https://github.com/okken/pytest-check">pytest-check</a>, yet another plugin</li><li><a href="https://flask-sqlalchemy.palletsprojects.com/en/3.1.x/">FlaskSQLAlchemy</a></li><li><a href="https://www.youtube.com/watch?v=oV9rvDllKEg">Concurrency is not Parallelism by Rob Pike</a></li></ul><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Tue, 16 Jan 2024 06:00:00 -0800</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/6c2c2e71/2c26f537.mp3" length="36363657" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/2nSHXVImIH3VdjIOiOqRWdr0bAsh5i9vQfQrOpOEaB0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2OTA5NjYv/MTcwNTM1MzcyMC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>3025</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Pamela Fox is a Python Cloud Developer Advocate at Microsoft. </p><p><br>Topics include:</p><ul><li>Girl Develop It</li><li>Django Girls</li><li>Girls Who Code</li><li>Teaching a language vs teaching a tool</li><li>What a dev advocate does</li><li>Accessibility (A11y) testing</li><li>Playwright</li><li>axe-core</li><li>Snapshot testing</li><li>pytest plugin authoring</li><li>Flask SQLAlchemy</li><li>Relearning Go</li></ul><p>Links from the show:</p><ul><li><a href="https://pythonbytes.fm/episodes/show/323/ai-search-wars-have-begun">Python Bytes 323 with Pamela: AI search wars have begun</a></li><li><a href="https://podcast.pythontest.com/episodes/199-is-azure-right-for-a-side-project">Python Test 199 with Pamela: Is Azure Right for a Side Project?</a></li><li><a href="https://girldevelopit.com">gdi: Girl Develop It</a></li><li><a href="https://djangogirls.org/en/">Django Girls</a></li><li><a href="https://girlswhocode.com">Girls Who Code</a></li><li><a href="https://www.youtube.com/watch?v=J-4Qa6PSomM">"Automated accessibility audits" - Pamela Fox (North Bay Python 2023)</a></li><li><a href="https://playwright.dev">Playwright</a></li><li><a href="https://github.com/dequelabs/axe-core">axe-core</a></li><li><a href="https://github.com/pamelafox/pytest-axe-playwright-snapshot">pytest-axe-playwright-snapshot</a>, plugin from Pamela</li><li><a href="https://www.youtube.com/watch?v=kevcz8NRcQU">pytest-crayons plugin is from a PyCascades talk about building plugins</a></li><li><a href="https://github.com/okken/pytest-check">pytest-check</a>, yet another plugin</li><li><a href="https://flask-sqlalchemy.palletsprojects.com/en/3.1.x/">FlaskSQLAlchemy</a></li><li><a href="https://www.youtube.com/watch?v=oV9rvDllKEg">Concurrency is not Parallelism by Rob Pike</a></li></ul><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://www.pamelafox.org/" img="https://img.transistor.fm/B4MX8kiA65FTTU1wzhf7BPIfR1adn70qRi38fKyd_tA/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMGU1MDFiMWUt/YzM4NC00NzlmLWEy/N2UtNDU2NDRjYzBi/OGQwLzE3MDUzNTIw/OTgtaW1hZ2UuanBn.jpg">Pamela Fox</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/6c2c2e71/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/6c2c2e71/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/6c2c2e71/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/6c2c2e71/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/6c2c2e71/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Julian Sequeira - Pybites, Australia, Mindset, and Teaching New Programmers </title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>Julian Sequeira - Pybites, Australia, Mindset, and Teaching New Programmers </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4e2730d4-9744-4720-8eba-8699be08d2e3</guid>
+      <link>https://pythonpeople.fm/episodes/julian-sequeira</link>
+      <description>
+        <![CDATA[<p>Julian Sequeira is a cofounder of Pybites. <br>He's a Python coach, a podcaster, a career mindset advocate, and is learning guitar.</p><p>Topics include:</p><ul><li>Learning guitar</li><li>Vacationing in Canada</li><li>Pybites</li><li>Splitting finances with Bob</li><li>Building a community and a team</li><li>Coaching</li><li>Conscious positivity</li><li>Australia is full of animals that want to kill you. Except kangaroos.</li><li>Teaching Python to non-technical people</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Julian Sequeira is a cofounder of Pybites. <br>He's a Python coach, a podcaster, a career mindset advocate, and is learning guitar.</p><p>Topics include:</p><ul><li>Learning guitar</li><li>Vacationing in Canada</li><li>Pybites</li><li>Splitting finances with Bob</li><li>Building a community and a team</li><li>Coaching</li><li>Conscious positivity</li><li>Australia is full of animals that want to kill you. Except kangaroos.</li><li>Teaching Python to non-technical people</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Sat, 13 Jan 2024 13:55:47 -0800</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/8c96ff62/572886a3.mp3" length="38926537" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/ceAiYlyZxH4Sot-p7xfG741R0wDNjL2I7vj0U17GgcE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2ODg4NDIv/MTcwNTE4Mjg5OS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>3241</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Julian Sequeira is a cofounder of Pybites. <br>He's a Python coach, a podcaster, a career mindset advocate, and is learning guitar.</p><p>Topics include:</p><ul><li>Learning guitar</li><li>Vacationing in Canada</li><li>Pybites</li><li>Splitting finances with Bob</li><li>Building a community and a team</li><li>Coaching</li><li>Conscious positivity</li><li>Australia is full of animals that want to kill you. Except kangaroos.</li><li>Teaching Python to non-technical people</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://pybit.es" img="https://img.transistor.fm/ORwdWJs0A6OetCzCoZ9rdXmrRnspQKLguGmkUc_ovo0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMzU4ZjhmNTYt/YzYzMS00ZWJkLTgw/MzUtYzdkOTVhMjc0/NTBlLzE3MDUxODI5/MjAtaW1hZ2UuanBn.jpg">Julian Sequeira</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/8c96ff62/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/8c96ff62/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/8c96ff62/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/8c96ff62/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/8c96ff62/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Will Vincent - Django, Writing Technical Books</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>Will Vincent - Django, Writing Technical Books</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6bc0713e-7df2-479f-86fb-aabdc163d117</guid>
+      <link>https://pythonpeople.fm/episodes/will-vincent-django-writing-technical-books</link>
+      <description>
+        <![CDATA[<p>Will Vincent is a former board member of the Django Software Foundation. He's written 3 books on Django, writes a django newsletter, is a podcast co-host for Django Chat.</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Will Vincent is a former board member of the Django Software Foundation. He's written 3 books on Django, writes a django newsletter, is a podcast co-host for Django Chat.</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Sun, 07 Jan 2024 17:21:33 -0800</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/df2a6d9a/6dfc81ac.mp3" length="34706530" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/0q0Ri7fy7ikrSyUevHeSWVuAsrifM9BzeW2oPJiSRRQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2NzcwNTMv/MTcwNDY3NTE4Ny1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2887</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Will Vincent is a former board member of the Django Software Foundation. He's written 3 books on Django, writes a django newsletter, is a podcast co-host for Django Chat.</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Guest" href="https://learndjango.com/" img="https://img.transistor.fm/6uyr7XgITshZymJ05YV1bpHFdifMIodgAEPRZRWSW7M/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMzRiZThmYzMt/NjU5NS00YWNiLTgy/ZTgtNWZiNTJmYTFk/MDUxLzE3MDQ2NzQx/MjAtaW1hZ2UuanBn.jpg">Will Vincent</podcast:person>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/df2a6d9a/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/df2a6d9a/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/df2a6d9a/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/df2a6d9a/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/df2a6d9a/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Carlton Gibson - Django, Spain, Parenting, and Open Source</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>Carlton Gibson - Django, Spain, Parenting, and Open Source</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">40701962-2c97-4223-b171-8d893b1bb270</guid>
+      <link>https://pythonpeople.fm/episodes/carlton-gibson</link>
+      <description>
+        <![CDATA[<p>Carlton recently stepped down as a Django Fellow, maintains many Django related projects, is starting two SaaS companies, and is a podcast host on "Django Chat".</p><p>Some of what we talk about:</p><ul><li>Being a Django fellow for 5 years</li><li>Maintaining several Django related open source projects</li><li>Client work </li><li>Time with family</li><li>Building a couple Software as a Service projects</li><li>Kids and travel</li><li>Kids and food</li><li>Living in Spain as a British citizen</li><li>How Brexit has affected his options</li><li>Being an open source maintainer and that it's ok to pause it when life takes precedence.</li><li>Being kind to other maintainers and acknowledging them as human</li><li>Django 5 form template imporovements</li><li>Good places to be a tourist in Spain</li><li>Spains wonderful train system</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Carlton recently stepped down as a Django Fellow, maintains many Django related projects, is starting two SaaS companies, and is a podcast host on "Django Chat".</p><p>Some of what we talk about:</p><ul><li>Being a Django fellow for 5 years</li><li>Maintaining several Django related open source projects</li><li>Client work </li><li>Time with family</li><li>Building a couple Software as a Service projects</li><li>Kids and travel</li><li>Kids and food</li><li>Living in Spain as a British citizen</li><li>How Brexit has affected his options</li><li>Being an open source maintainer and that it's ok to pause it when life takes precedence.</li><li>Being kind to other maintainers and acknowledging them as human</li><li>Django 5 form template imporovements</li><li>Good places to be a tourist in Spain</li><li>Spains wonderful train system</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Wed, 25 Oct 2023 07:19:19 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/89104a3f/ab82a150.mp3" length="34234351" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/-7MgG7vqbqTYu2mu8oMr_oWRFHjTQSbbV7qD4Wj9B7g/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NjMzODIv/MTY5ODE5NDk0My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2846</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Carlton recently stepped down as a Django Fellow, maintains many Django related projects, is starting two SaaS companies, and is a podcast host on "Django Chat".</p><p>Some of what we talk about:</p><ul><li>Being a Django fellow for 5 years</li><li>Maintaining several Django related open source projects</li><li>Client work </li><li>Time with family</li><li>Building a couple Software as a Service projects</li><li>Kids and travel</li><li>Kids and food</li><li>Living in Spain as a British citizen</li><li>How Brexit has affected his options</li><li>Being an open source maintainer and that it's ok to pause it when life takes precedence.</li><li>Being kind to other maintainers and acknowledging them as human</li><li>Django 5 form template imporovements</li><li>Good places to be a tourist in Spain</li><li>Spains wonderful train system</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://noumenal.es/" img="https://img.transistor.fm/9lOH8f83Ef8ZECBygEWKLlJUDhOoMv411f6uKMTtZWg/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZGFhYjkyM2Yt/ZTM1Mi00NTQ2LWJh/ZWItOTMxYjk1OWI4/NDNkLzE2OTgxOTMy/NjgtaW1hZ2UuanBn.jpg">Carlton Gibson</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/89104a3f/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/89104a3f/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/89104a3f/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/89104a3f/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/89104a3f/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Mariatta Wijaya - Python Documentation, PyLadies, Keeping Fish, Public Speaking</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>Mariatta Wijaya - Python Documentation, PyLadies, Keeping Fish, Public Speaking</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">c7fdfb5a-0b43-4735-b63c-975149c1b7e8</guid>
+      <link>https://pythonpeople.fm/episodes/mariatta-wijaya</link>
+      <description>
+        <![CDATA[<p>Mariatta has been a contributor to Python for many years and is a very inspiring public speaker.</p><p>Some of what we talk about:</p><ul><li>Python Documentation Working Group</li><li>GitHub bots, <a href="https://mariatta.ca/posts/talks/theres-an-api-for-that/">There's an API for that</a></li><li><a href="https://pyladies.com">PyLadies</a></li><li><a href="https://conference.pyladies.com">PyLadiesCon</a></li><li>Typo of the Day (maintainerd, verbossity, work-lie balance, etc.)</li><li>A fish aquarium</li><li>Cooking, Baking</li><li>History of Tempura</li><li>Working with APIs with Python</li><li>Public Speaking / Giving Talks</li><li>The power of seeing other women give talks</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Mariatta has been a contributor to Python for many years and is a very inspiring public speaker.</p><p>Some of what we talk about:</p><ul><li>Python Documentation Working Group</li><li>GitHub bots, <a href="https://mariatta.ca/posts/talks/theres-an-api-for-that/">There's an API for that</a></li><li><a href="https://pyladies.com">PyLadies</a></li><li><a href="https://conference.pyladies.com">PyLadiesCon</a></li><li>Typo of the Day (maintainerd, verbossity, work-lie balance, etc.)</li><li>A fish aquarium</li><li>Cooking, Baking</li><li>History of Tempura</li><li>Working with APIs with Python</li><li>Public Speaking / Giving Talks</li><li>The power of seeing other women give talks</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Thu, 14 Sep 2023 06:00:00 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/88f00a92/315c3a78.mp3" length="32417803" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/6WKvjkfCwfTvpIRL9SLRlBX9JLeM6ttQpgkg7nw_mmk/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE0ODIzMzIv/MTY5MzM4MDgxNi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2694</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Mariatta has been a contributor to Python for many years and is a very inspiring public speaker.</p><p>Some of what we talk about:</p><ul><li>Python Documentation Working Group</li><li>GitHub bots, <a href="https://mariatta.ca/posts/talks/theres-an-api-for-that/">There's an API for that</a></li><li><a href="https://pyladies.com">PyLadies</a></li><li><a href="https://conference.pyladies.com">PyLadiesCon</a></li><li>Typo of the Day (maintainerd, verbossity, work-lie balance, etc.)</li><li>A fish aquarium</li><li>Cooking, Baking</li><li>History of Tempura</li><li>Working with APIs with Python</li><li>Public Speaking / Giving Talks</li><li>The power of seeing other women give talks</li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://mariatta.ca" img="https://img.transistor.fm/VEnICabwj_HvibcGSOHMk2TYLS5rPCehKuRSmCJ5FfA/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vNWUyNjY3MTYt/YzI0NC00ZGRiLTk3/NjAtODhjZmU4YWU1/ODQxLzE2OTMzNzk1/MTMtaW1hZ2UuanBn.jpg">Mariatta Wijaya</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/88f00a92/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/88f00a92/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/88f00a92/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/88f00a92/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/88f00a92/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Naomi Ceder - Quick Python, Leadership Transitions, Diversity</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>Naomi Ceder - Quick Python, Leadership Transitions, Diversity</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">abf8fbe9-8741-4d85-853e-21a9059853cb</guid>
+      <link>https://pythonpeople.fm/episodes/naomi-ceder</link>
+      <description>
+        <![CDATA[<p>Naomi is an elected fellow of the PSF, and has served as chair of its board of directors. </p><p>Topics:<br>- Building replacement leadership for every endeavor you start<br>- What the PSF board does<br>- Keeping Python's growth in increasing diversity<br>- Learning foreign languages<br>- PyCon Charlas<br>- London<br>- Guitar and music<br>- The Quick Python Book<br>- Community building<br>- Retiring</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Naomi is an elected fellow of the PSF, and has served as chair of its board of directors. </p><p>Topics:<br>- Building replacement leadership for every endeavor you start<br>- What the PSF board does<br>- Keeping Python's growth in increasing diversity<br>- Learning foreign languages<br>- PyCon Charlas<br>- London<br>- Guitar and music<br>- The Quick Python Book<br>- Community building<br>- Retiring</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Tue, 29 Aug 2023 23:47:51 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/82b28369/3975ac61.mp3" length="28219747" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/Imu15xTkJb_GIkBx8wmuCR0bmqURw5MhOcVrS2yi4pk/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE0ODIzMDAv/MTY5MzM3NzIwNi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2345</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Naomi is an elected fellow of the PSF, and has served as chair of its board of directors. </p><p>Topics:<br>- Building replacement leadership for every endeavor you start<br>- What the PSF board does<br>- Keeping Python's growth in increasing diversity<br>- Learning foreign languages<br>- PyCon Charlas<br>- London<br>- Guitar and music<br>- The Quick Python Book<br>- Community building<br>- Retiring</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://naomiceder.tech" img="https://img.transistor.fm/D9QEh6THdAVvJtmHdC8pSen-NtFgM6acV-IqO0bWZ4Y/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2UzZmNmYjMt/OThjYi00NzRjLWIx/MjAtYmIyZWU1OWYw/MTJkLzE2OTMzNzUw/MDktaW1hZ2UuanBn.jpg">Naomi Ceder</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/82b28369/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/82b28369/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/82b28369/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/82b28369/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/82b28369/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Bob Belderbos - Python Challengs, Coaching, Spain</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>Bob Belderbos - Python Challengs, Coaching, Spain</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">77cd365f-03b8-4799-8dd0-9aa5a91617f4</guid>
+      <link>https://pythonpeople.fm/episodes/bob-belderbos</link>
+      <description>
+        <![CDATA[<p>Bob Belderbos built Pybites with Julian Sequeira. Pybites started with code challenges to help people learn Python, and has grown into a learning platform and community, and now includes coaching.</p><p>We talk about:</p><ul><li>The history of Pybites</li><li>Code challenges</li><li>Coaching and now even growing the team of coaches</li><li>Spain</li><li>Books</li></ul><p>Links:</p><ul><li><a href="https://pybit.es">PyBites</a></li><li><a href="https://codechalleng.es">Code Challenges platform</a></li></ul><p><strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>and you can hear your name on the show. How cool is that?</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Bob Belderbos built Pybites with Julian Sequeira. Pybites started with code challenges to help people learn Python, and has grown into a learning platform and community, and now includes coaching.</p><p>We talk about:</p><ul><li>The history of Pybites</li><li>Code challenges</li><li>Coaching and now even growing the team of coaches</li><li>Spain</li><li>Books</li></ul><p>Links:</p><ul><li><a href="https://pybit.es">PyBites</a></li><li><a href="https://codechalleng.es">Code Challenges platform</a></li></ul><p><strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>and you can hear your name on the show. How cool is that?</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 09 Aug 2023 20:40:07 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/d4a11876/291e7274.mp3" length="23480430" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/L00p85WxhWnemIBeS9aYnx-IGmZRooyPvOImDa1froA/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE0NDg2OTcv/MTY5MTI1MTc2My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1951</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Bob Belderbos built Pybites with Julian Sequeira. Pybites started with code challenges to help people learn Python, and has grown into a learning platform and community, and now includes coaching.</p><p>We talk about:</p><ul><li>The history of Pybites</li><li>Code challenges</li><li>Coaching and now even growing the team of coaches</li><li>Spain</li><li>Books</li></ul><p>Links:</p><ul><li><a href="https://pybit.es">PyBites</a></li><li><a href="https://codechalleng.es">Code Challenges platform</a></li></ul><p><strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>and you can hear your name on the show. How cool is that?</p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://bio.link/bbelderbos" img="https://img.transistor.fm/M6945x9dF8Koi1JD60G3BIfF8k-HXyL8TSGAKpE3_eA/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZGZlYWU2N2Yt/NThkNS00YTA2LTky/MjgtMmVjNjhlNmVk/NjI0LzE2OTEyNTAz/NzctaW1hZ2UuanBn.jpg">Bob Belderbos</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/d4a11876/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/d4a11876/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/d4a11876/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/d4a11876/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/d4a11876/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Barry Warsaw - OG Python, Bass Guitar, Tai Chi</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>Barry Warsaw - OG Python, Bass Guitar, Tai Chi</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d5f075a6-461a-4fe5-920f-4649230ed784</guid>
+      <link>https://pythonpeople.fm/episodes/barry-warsaw</link>
+      <description>
+        <![CDATA[<p>Barry Warsaw has been with Python almost from the beginning, and is still at it.</p><ul><li>The early days of Python</li><li>The tone and feel of the Python community came from Guido</li><li>Tai Chi</li><li>Meditation</li><li>Bass Guitar</li></ul><p>Stick around until the very end of the show for a special treat, Barry Warsaw and The Zen of Python.</p><p>Links from the show:</p><ul><li><a href="https://en.wikipedia.org/wiki/Cheng_Man-ch%27ing">Cheng Man-ch'ing</a></li><li><a href="https://soundcloud.com/pumpichank">Barry's soundcloud</a></li><li><a href="https://www.youtube.com/@thezbwedicon3541">Barry on YouTube</a></li><li><a href="https://peps.python.org/pep-0401/">Barry is the official Python FLUFL</a></li><li><a href="https://www.wefearchange.org/2020/05/zenofpython.rst.html">The Zen of Python, put to music</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Barry Warsaw has been with Python almost from the beginning, and is still at it.</p><ul><li>The early days of Python</li><li>The tone and feel of the Python community came from Guido</li><li>Tai Chi</li><li>Meditation</li><li>Bass Guitar</li></ul><p>Stick around until the very end of the show for a special treat, Barry Warsaw and The Zen of Python.</p><p>Links from the show:</p><ul><li><a href="https://en.wikipedia.org/wiki/Cheng_Man-ch%27ing">Cheng Man-ch'ing</a></li><li><a href="https://soundcloud.com/pumpichank">Barry's soundcloud</a></li><li><a href="https://www.youtube.com/@thezbwedicon3541">Barry on YouTube</a></li><li><a href="https://peps.python.org/pep-0401/">Barry is the official Python FLUFL</a></li><li><a href="https://www.wefearchange.org/2020/05/zenofpython.rst.html">The Zen of Python, put to music</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Fri, 04 Aug 2023 22:21:49 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/65c4bdfe/22956bb0.mp3" length="33518632" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/X54Lv4JaIIJZYobtd5mnxjqJynRxy2cxsvHcjX2EBLI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE0NDgwMzAv/MTY5MTE4MTA3NC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2785</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Barry Warsaw has been with Python almost from the beginning, and is still at it.</p><ul><li>The early days of Python</li><li>The tone and feel of the Python community came from Guido</li><li>Tai Chi</li><li>Meditation</li><li>Bass Guitar</li></ul><p>Stick around until the very end of the show for a special treat, Barry Warsaw and The Zen of Python.</p><p>Links from the show:</p><ul><li><a href="https://en.wikipedia.org/wiki/Cheng_Man-ch%27ing">Cheng Man-ch'ing</a></li><li><a href="https://soundcloud.com/pumpichank">Barry's soundcloud</a></li><li><a href="https://www.youtube.com/@thezbwedicon3541">Barry on YouTube</a></li><li><a href="https://peps.python.org/pep-0401/">Barry is the official Python FLUFL</a></li><li><a href="https://www.wefearchange.org/2020/05/zenofpython.rst.html">The Zen of Python, put to music</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="http://barry.warsaw.us" img="https://img.transistor.fm/dBHhunyN0kED9XoDYZw3qS7LteT0pQylKDfv5JOOEhw/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vOTk5NTk5ODkt/MjQ4OS00YTIwLWJj/OWMtMzZmOGE5YmU2/NjM1LzE2OTEyMTIw/ODUtaW1hZ2UuanBn.jpg">Barry Warsaw</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/65c4bdfe/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/65c4bdfe/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/65c4bdfe/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/65c4bdfe/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/65c4bdfe/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Brett Cannon - Core Python, Fountain Pens</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>Brett Cannon - Core Python, Fountain Pens</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0c8e7d25-0248-457e-b1ad-cbc63815769b</guid>
+      <link>https://pythonpeople.fm/episodes/brett-cannon</link>
+      <description>
+        <![CDATA[<p>Topics:</p><ul><li>“I don't know about the rest of you... I came for the language, but I stayed for the community." Brett Cannon, Python Core Dev, Pycon US 2014 Opening remarks</li><li>Public speaking</li><li>Being encouraging to others</li><li>Why Canada</li><li>Meanings of Back Bacon, Toque, and Pop</li><li>Walking in Vancouver</li><li>Snowshoeing</li><li>Philosophy and thinking logically</li><li>Proving the existence of God</li><li>Rewriting code. “You’re probably going to have to write this 3 times before you’re happy with it.”</li><li>1 week per month on technical debt.</li><li>Fountain pens</li><li>Writing a gratitude journal</li><li>Books</li><li>“What goes on in your brain is not the same as everyone else’s.”</li><li>"Steeped in the world of tea." - nice pun</li></ul><p>Links from the show:</p><ul><li>Podcast interviews<ul><li><a href="https://djangochat.com/episodes/20-years-of-python-brett-cannon">Django Chat - 20 Years of Python - Brett Cannon</a></li><li><a href="https://changelog.com/friends/5%20">The Changelog - There’s a whole PEP about that - Brett Cannon</a></li></ul></li><li><a href="https://waitbutwhy.com/2016/03/my-ted-talk.html">Tim Urban’s TED talk</a> which is about procrastination and not public speaking, so I have no idea what Brett is talking about. Good talk though. </li><li>Brett’s PyCascades talk: <a href="https://www.youtube.com/watch?v=1OVyuw5_PDk&amp;list=PLcNrB7gPa-NedACvFYa9iVUIhnku_EBSz&amp;index=3">Python's Syntactic Sugar</a></li><li>Brian’s PyCascades talk: <a href="https://www.youtube.com/watch?v=kevcz8NRcQU&amp;list=PLcNrB7gPa-NedACvFYa9iVUIhnku_EBSz&amp;index=13%20">Sharing is Caring: Sharing pytest Fixtures</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Topics:</p><ul><li>“I don't know about the rest of you... I came for the language, but I stayed for the community." Brett Cannon, Python Core Dev, Pycon US 2014 Opening remarks</li><li>Public speaking</li><li>Being encouraging to others</li><li>Why Canada</li><li>Meanings of Back Bacon, Toque, and Pop</li><li>Walking in Vancouver</li><li>Snowshoeing</li><li>Philosophy and thinking logically</li><li>Proving the existence of God</li><li>Rewriting code. “You’re probably going to have to write this 3 times before you’re happy with it.”</li><li>1 week per month on technical debt.</li><li>Fountain pens</li><li>Writing a gratitude journal</li><li>Books</li><li>“What goes on in your brain is not the same as everyone else’s.”</li><li>"Steeped in the world of tea." - nice pun</li></ul><p>Links from the show:</p><ul><li>Podcast interviews<ul><li><a href="https://djangochat.com/episodes/20-years-of-python-brett-cannon">Django Chat - 20 Years of Python - Brett Cannon</a></li><li><a href="https://changelog.com/friends/5%20">The Changelog - There’s a whole PEP about that - Brett Cannon</a></li></ul></li><li><a href="https://waitbutwhy.com/2016/03/my-ted-talk.html">Tim Urban’s TED talk</a> which is about procrastination and not public speaking, so I have no idea what Brett is talking about. Good talk though. </li><li>Brett’s PyCascades talk: <a href="https://www.youtube.com/watch?v=1OVyuw5_PDk&amp;list=PLcNrB7gPa-NedACvFYa9iVUIhnku_EBSz&amp;index=3">Python's Syntactic Sugar</a></li><li>Brian’s PyCascades talk: <a href="https://www.youtube.com/watch?v=kevcz8NRcQU&amp;list=PLcNrB7gPa-NedACvFYa9iVUIhnku_EBSz&amp;index=13%20">Sharing is Caring: Sharing pytest Fixtures</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Tue, 25 Jul 2023 17:47:12 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/0f7e21ed/783b9876.mp3" length="47926776" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/JaYK2WzBENtMPFPcmm9XVglapmzDSghMfsKcxKH-CFY/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE0MzI0NDAv/MTY5MDMyNDQyNS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>3988</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Topics:</p><ul><li>“I don't know about the rest of you... I came for the language, but I stayed for the community." Brett Cannon, Python Core Dev, Pycon US 2014 Opening remarks</li><li>Public speaking</li><li>Being encouraging to others</li><li>Why Canada</li><li>Meanings of Back Bacon, Toque, and Pop</li><li>Walking in Vancouver</li><li>Snowshoeing</li><li>Philosophy and thinking logically</li><li>Proving the existence of God</li><li>Rewriting code. “You’re probably going to have to write this 3 times before you’re happy with it.”</li><li>1 week per month on technical debt.</li><li>Fountain pens</li><li>Writing a gratitude journal</li><li>Books</li><li>“What goes on in your brain is not the same as everyone else’s.”</li><li>"Steeped in the world of tea." - nice pun</li></ul><p>Links from the show:</p><ul><li>Podcast interviews<ul><li><a href="https://djangochat.com/episodes/20-years-of-python-brett-cannon">Django Chat - 20 Years of Python - Brett Cannon</a></li><li><a href="https://changelog.com/friends/5%20">The Changelog - There’s a whole PEP about that - Brett Cannon</a></li></ul></li><li><a href="https://waitbutwhy.com/2016/03/my-ted-talk.html">Tim Urban’s TED talk</a> which is about procrastination and not public speaking, so I have no idea what Brett is talking about. Good talk though. </li><li>Brett’s PyCascades talk: <a href="https://www.youtube.com/watch?v=1OVyuw5_PDk&amp;list=PLcNrB7gPa-NedACvFYa9iVUIhnku_EBSz&amp;index=3">Python's Syntactic Sugar</a></li><li>Brian’s PyCascades talk: <a href="https://www.youtube.com/watch?v=kevcz8NRcQU&amp;list=PLcNrB7gPa-NedACvFYa9iVUIhnku_EBSz&amp;index=13%20">Sharing is Caring: Sharing pytest Fixtures</a></li></ul>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://snarky.ca" img="https://img.transistor.fm/nlCXXrg56HMUjIlmjKeV2-w5ycU_hYZGZlHw93o5Smo/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZjQ2ZDNmMmQt/MWQ1Mi00YmRiLTll/MGEtODU5YmI3ZWEw/ZTMxLzE2OTAzMjI1/OTYtaW1hZ2UuanBn.jpg">Brett Cannon</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/0f7e21ed/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0f7e21ed/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0f7e21ed/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0f7e21ed/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0f7e21ed/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Paul Everitt - Early Python, Coaching</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>Paul Everitt - Early Python, Coaching</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e9be3bda-ca62-4693-ab9d-c93bd474ffa5</guid>
+      <link>https://pythonpeople.fm/episodes/paul-everitt</link>
+      <description>
+        <![CDATA[<p>Paul Everitt is a developer advocate for JetBrains and PyCharm. <br>Covered topics include:</p><ul><li>The transition of Python from BDFL to steering committee</li><li>Brainstorming topics for this podcast</li><li>Django, function based vs class based views, and Nancy Pelosi</li><li>Coaching Lacrosse, "we're not in the lacrosse business, we're in the leadership business"</li><li>Sports, if done the right way, can be a positive influence</li><li>We don't need heroes, we need the next generation of heroes</li><li>Volunteering work is a lot like open source</li><li>Skateboarding and collaboration over competition</li></ul><p><br></p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Paul Everitt is a developer advocate for JetBrains and PyCharm. <br>Covered topics include:</p><ul><li>The transition of Python from BDFL to steering committee</li><li>Brainstorming topics for this podcast</li><li>Django, function based vs class based views, and Nancy Pelosi</li><li>Coaching Lacrosse, "we're not in the lacrosse business, we're in the leadership business"</li><li>Sports, if done the right way, can be a positive influence</li><li>We don't need heroes, we need the next generation of heroes</li><li>Volunteering work is a lot like open source</li><li>Skateboarding and collaboration over competition</li></ul><p><br></p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Jul 2023 12:27:07 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/da2684d1/53a3c8f8.mp3" length="28608078" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/PWVU3nBy2qFl8KBwwAbQRTTCBqS4d11MYcq2AuekqXs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE0MjIwMzIv/MTY4OTYxNTU5NS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2379</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Paul Everitt is a developer advocate for JetBrains and PyCharm. <br>Covered topics include:</p><ul><li>The transition of Python from BDFL to steering committee</li><li>Brainstorming topics for this podcast</li><li>Django, function based vs class based views, and Nancy Pelosi</li><li>Coaching Lacrosse, "we're not in the lacrosse business, we're in the leadership business"</li><li>Sports, if done the right way, can be a positive influence</li><li>We don't need heroes, we need the next generation of heroes</li><li>Volunteering work is a lot like open source</li><li>Skateboarding and collaboration over competition</li></ul><p><br></p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="https://pythonpeople.fm/people/paul-everitt" img="https://img.transistor.fm/HzGCC2AoeOj3E3hSh1d2S0nBmkx2PkJxHGZT3sVC8kA/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vZjhlM2IxZjgt/ZWUwNi00Y2Y1LTk2/MDktNjhmOWE0MDFl/ZjQxLzE2ODk2NDAy/NTAtaW1hZ2UuanBn.jpg">Paul Everitt</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/da2684d1/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/da2684d1/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/da2684d1/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/da2684d1/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/da2684d1/transcription" type="text/html"/>
+    </item>
+    <item>
+      <title>Michael Kennedy - Talk Python and Motorcycles</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Michael Kennedy - Talk Python and Motorcycles</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">31c3cc43-161a-4af8-b390-06722c173ced</guid>
+      <link>https://pythonpeople.fm/episodes/michael-kennedy</link>
+      <description>
+        <![CDATA[<p>Michael is the host of the podcasts <a href="https://talkpython.fm">Talk Python to Me</a> and <a href="https://pythonbytes.fm">Python Bytes</a> and runs the Python online course site <a href="https://training.talkpython.fm">Talk Python Training</a>.<br>He is also pretty serious about motorcycling, spends some time with simulated racing, and used to play billiards for cash.</p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Michael is the host of the podcasts <a href="https://talkpython.fm">Talk Python to Me</a> and <a href="https://pythonbytes.fm">Python Bytes</a> and runs the Python online course site <a href="https://training.talkpython.fm">Talk Python Training</a>.<br>He is also pretty serious about motorcycling, spends some time with simulated racing, and used to play billiards for cash.</p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Thu, 06 Jul 2023 16:15:35 -0700</pubDate>
+      <author>Brian Okken</author>
+      <enclosure url="https://media.transistor.fm/0a5da2a0/71a99360.mp3" length="21514832" type="audio/mpeg"/>
+      <itunes:author>Brian Okken</itunes:author>
+      <itunes:image href="https://img.transistor.fm/yyXB23q0fsAbmIaLJjzaWRgZUJ8tMFzR_WMrevH-970/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEzOTk0MDMv/MTY4ODY4NDUzMi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1783</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Michael is the host of the podcasts <a href="https://talkpython.fm">Talk Python to Me</a> and <a href="https://pythonbytes.fm">Python Bytes</a> and runs the Python online course site <a href="https://training.talkpython.fm">Talk Python Training</a>.<br>He is also pretty serious about motorcycling, spends some time with simulated racing, and used to play billiards for cash.</p><p><br></p>
+<br><p><strong>The Complete pytest Course</strong></p><ul><li>Level up your testing skills and save time during coding and maintenance.</li><li>Check out <a href="https://courses.pythontest.com/p/complete-pytest-course">courses.pythontest.com</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/PythonPeople" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>Python</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://pythontest.com" img="https://img.transistor.fm/tZIkGJ5p3-6-Su02FiyNLOTE8TGhP-itvweKbQIunFU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vY2MyNTI3Nzct/YThlYS00ODI0LWE4/NWEtNjBiYzhlNjdl/ZmI2LzE2ODc4MjQ4/MTAtaW1hZ2UuanBn.jpg">Brian Okken</podcast:person>
+      <podcast:person role="Guest" href="http://mkennedy.codes" img="https://img.transistor.fm/bG9RJIx_XWpOecq_d1FDQWWN1LhzJAgUtXWJo8qzIZg/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vOWM2MWU2MDMt/YmE0YS00MzU3LThl/ODktODk1YzNkN2Fm/NjE3LzE2ODc4MjY2/NDMtaW1hZ2UuanBn.jpg">Michael Kennedy</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/0a5da2a0/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0a5da2a0/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0a5da2a0/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0a5da2a0/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/0a5da2a0/transcription" type="text/html"/>
+    </item>
+  </channel>
+</rss>

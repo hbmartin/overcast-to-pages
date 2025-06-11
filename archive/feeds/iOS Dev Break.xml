@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/ios-dev-break" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>iOS Dev Break</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/ios-dev-break</itunes:new-feed-url>
+    <description>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</description>
+    <copyright>Copyright 2016-2024 Evan K. Stone</copyright>
+    <podcast:guid>d965afbd-3812-5a33-bca4-b3aa43427458</podcast:guid>
+    <podcast:locked owner="iosdevbreak@interactivelogic.net">no</podcast:locked>
+    <language>en</language>
+    <pubDate>Wed, 16 Oct 2024 21:33:38 -0700</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2025 08:15:59 -0800</lastBuildDate>
+    <link>http://iosdevbreak.com/</link>
+    <image>
+      <url>https://img.transistor.fm/RIVxKAdgEEJo3X8UxEcFoNahBS0GseDnFQkrK6utgZI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQ4MjQ2LzE3MDQx/MzE5MTUtYXJ0d29y/ay5qcGc.jpg</url>
+      <title>iOS Dev Break</title>
+      <link>http://iosdevbreak.com/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Evan K. Stone</itunes:author>
+    <itunes:image href="https://img.transistor.fm/RIVxKAdgEEJo3X8UxEcFoNahBS0GseDnFQkrK6utgZI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQ4MjQ2LzE3MDQx/MzE5MTUtYXJ0d29y/ay5qcGc.jpg"/>
+    <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</itunes:summary>
+    <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers.</itunes:subtitle>
+    <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Evan K. Stone</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Not That Kind of Dependency Management - IDB049</title>
+      <itunes:episode>49</itunes:episode>
+      <podcast:episode>49</podcast:episode>
+      <itunes:title>Not That Kind of Dependency Management - IDB049</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">97e73089-0457-4d3c-a9a9-6fd403a958dd</guid>
+      <link>https://share.transistor.fm/s/14b3ebfc</link>
+      <description>
+        <![CDATA[<p>In this episode: Juno for visionOS removed from the App Store—what does it mean for developers? Also: Patreon news and update, as well as Swift Remote Studio Coworking BETA!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode: Juno for visionOS removed from the App Store—what does it mean for developers? Also: Patreon news and update, as well as Swift Remote Studio Coworking BETA!</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 16 Oct 2024 21:33:36 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/14b3ebfc/ffd33f5d.mp3" length="15678533" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/3JIJGeSDW8QmApXQaQdcT4QTT5PcvYy6eA0Z14UPz8g/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yY2Iz/YzNmNWNhMWFiNjFj/ZGUzMWY3YWE4NzA5/M2VhNi5qcGc.jpg"/>
+      <itunes:duration>1263</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode: Juno for visionOS removed from the App Store—what does it mean for developers? Also: Patreon news and update, as well as Swift Remote Studio Coworking BETA!</p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>It's Glowtime with Josh Hrach - IDB048</title>
+      <itunes:episode>48</itunes:episode>
+      <podcast:episode>48</podcast:episode>
+      <itunes:title>It's Glowtime with Josh Hrach - IDB048</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8479ec61-1bde-43db-9089-60eee22a8c0b</guid>
+      <link>https://share.transistor.fm/s/657d63dd</link>
+      <description>
+        <![CDATA[<p>In this episode, Evan and Josh discuss the latest products announced at the "It's Glowtime" Apple event that happened on September 9, 2024, and their implications and importance to iOS developers.</p><p><strong>Show Links</strong></p><ul><li><a href="https://iosdev.space/@JoshHrach">Josh Hrach's Mastodon Account</a></li><li><a href="https://www.random-projects.com/">Random Projects Website</a></li><li><a href="https://developer.apple.com/documentation/avfoundation/capture_setup/enhancing_your_app_experience_with_the_camera_control">Apple Developer - Enhancing your app experience with the Camera Control</a></li><li><a href="https://developer.apple.com/design/human-interface-guidelines/camera-control">Apple HIG - Camera Control</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Evan and Josh discuss the latest products announced at the "It's Glowtime" Apple event that happened on September 9, 2024, and their implications and importance to iOS developers.</p><p><strong>Show Links</strong></p><ul><li><a href="https://iosdev.space/@JoshHrach">Josh Hrach's Mastodon Account</a></li><li><a href="https://www.random-projects.com/">Random Projects Website</a></li><li><a href="https://developer.apple.com/documentation/avfoundation/capture_setup/enhancing_your_app_experience_with_the_camera_control">Apple Developer - Enhancing your app experience with the Camera Control</a></li><li><a href="https://developer.apple.com/design/human-interface-guidelines/camera-control">Apple HIG - Camera Control</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 10 Sep 2024 12:22:27 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/657d63dd/80ff0eed.mp3" length="30334238" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/naXrF7TiI-c0c0YLZtHJTjDnZRaOKGx9eG0AuYB7DP8/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85OGZh/N2UxYWI1MDZkZGMy/NGExYzZmYmYwODA2/NDYyOC5qcGc.jpg"/>
+      <itunes:duration>2485</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Evan and Josh discuss the latest products announced at the "It's Glowtime" Apple event that happened on September 9, 2024, and their implications and importance to iOS developers.</p><p><strong>Show Links</strong></p><ul><li><a href="https://iosdev.space/@JoshHrach">Josh Hrach's Mastodon Account</a></li><li><a href="https://www.random-projects.com/">Random Projects Website</a></li><li><a href="https://developer.apple.com/documentation/avfoundation/capture_setup/enhancing_your_app_experience_with_the_camera_control">Apple Developer - Enhancing your app experience with the Camera Control</a></li><li><a href="https://developer.apple.com/design/human-interface-guidelines/camera-control">Apple HIG - Camera Control</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, apple, ios development</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Next Stop Dub Dub - IDB047</title>
+      <itunes:episode>47</itunes:episode>
+      <podcast:episode>47</podcast:episode>
+      <itunes:title>Next Stop Dub Dub - IDB047</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7acfee82-2950-42e2-8f64-b9cd71853c64</guid>
+      <link>https://share.transistor.fm/s/d971f6f0</link>
+      <description>
+        <![CDATA[<p>Some thoughts on the upcoming WWDC, Let Loose with new iPads, and other Dub Dub goings on!</p><p>Show Links<br><a href="https://developer.apple.com/wwdc24/">WWDC24</a><br><a href="https://www.swiftremotestudio.com/">Swift Remote Studio</a><br><a href="https://omt-conf.com/">One More Thing Conference</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Some thoughts on the upcoming WWDC, Let Loose with new iPads, and other Dub Dub goings on!</p><p>Show Links<br><a href="https://developer.apple.com/wwdc24/">WWDC24</a><br><a href="https://www.swiftremotestudio.com/">Swift Remote Studio</a><br><a href="https://omt-conf.com/">One More Thing Conference</a></p>]]>
+      </content:encoded>
+      <pubDate>Fri, 17 May 2024 17:20:30 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/d971f6f0/b51d50db.mp3" length="10344640" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/Eh8d1oteVZNWkkotStlU8r9-I9OEaWdB2AgFEl-atu0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mMjEy/OTI5NjBjMWM5ZjEy/YTRkZWFiMzFjNDEw/Y2ZkZi5wbmc.jpg"/>
+      <itunes:duration>860</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Some thoughts on the upcoming WWDC, Let Loose with new iPads, and other Dub Dub goings on!</p><p>Show Links<br><a href="https://developer.apple.com/wwdc24/">WWDC24</a><br><a href="https://www.swiftremotestudio.com/">Swift Remote Studio</a><br><a href="https://omt-conf.com/">One More Thing Conference</a></p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, iOS, development, programming</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>When Enhancements Are Not Enhancements - IDB046</title>
+      <itunes:episode>46</itunes:episode>
+      <podcast:episode>46</podcast:episode>
+      <itunes:title>When Enhancements Are Not Enhancements - IDB046</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">66239233-9905-4eb0-9845-671cf640709d</guid>
+      <link>https://share.transistor.fm/s/a8ed9f8d</link>
+      <description>
+        <![CDATA[<p>In this episode: When enhancements are not enhancements, and using ChatGPT for Swift development.</p><p>Be sure to check out Swift Remote Studio too!</p><p><strong>Show Links</strong></p><p><a href="https://www.swiftremotestudio.com/">Swift Remote Studio</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode: When enhancements are not enhancements, and using ChatGPT for Swift development.</p><p>Be sure to check out Swift Remote Studio too!</p><p><strong>Show Links</strong></p><p><a href="https://www.swiftremotestudio.com/">Swift Remote Studio</a></p>]]>
+      </content:encoded>
+      <pubDate>Mon, 01 Jan 2024 18:28:55 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/a8ed9f8d/6dd60f64.mp3" length="12757239" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/2HS80zirpFaCTl56ZN27_2PWe_NMRwUobm784XLDhJ0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2NjkxNTMv/MTcwNDE2MjUzNS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1060</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode: When enhancements are not enhancements, and using ChatGPT for Swift development.</p><p>Be sure to check out Swift Remote Studio too!</p><p><strong>Show Links</strong></p><p><a href="https://www.swiftremotestudio.com/">Swift Remote Studio</a></p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Vision Pro Labs and Wonderlust - IDB045</title>
+      <itunes:episode>45</itunes:episode>
+      <podcast:episode>45</podcast:episode>
+      <itunes:title>Vision Pro Labs and Wonderlust - IDB045</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dcea4ed3-9e16-462a-a7e8-3264edc0a9b3</guid>
+      <link>https://share.transistor.fm/s/7473639b</link>
+      <description>
+        <![CDATA[<p>We're back! Evan relates what he can about his experience with the Apple Vision Pro labs held at Apple, and discusses the Apple September "Wonderlust" Event and the Swift Remote Studio viewing party taking place that morning!</p> <p> </p> <p>Show Links</p> <p><a title="Inside the Apple Vision Pro labs" href="https://developer.apple.com/news/?id=5nn2hddv" rel="noopener">Inside the Apple Vision Pro labs</a></p> <p><a title="Swift Remote Studio" href="https://www.swiftremotestudio.com/" rel="noopener">Swift Remote Studio</a></p> <p><a title="Apple September " href="https://www.apple.com/apple-events/" rel="noopener">Apple September "Wonderlust" Event</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>We're back! Evan relates what he can about his experience with the Apple Vision Pro labs held at Apple, and discusses the Apple September "Wonderlust" Event and the Swift Remote Studio viewing party taking place that morning!</p> <p> </p> <p>Show Links</p> <p><a title="Inside the Apple Vision Pro labs" href="https://developer.apple.com/news/?id=5nn2hddv" rel="noopener">Inside the Apple Vision Pro labs</a></p> <p><a title="Swift Remote Studio" href="https://www.swiftremotestudio.com/" rel="noopener">Swift Remote Studio</a></p> <p><a title="Apple September " href="https://www.apple.com/apple-events/" rel="noopener">Apple September "Wonderlust" Event</a></p>]]>
+      </content:encoded>
+      <pubDate>Tue, 12 Sep 2023 09:05:00 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/7473639b/7b846768.mp3" length="14144569" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/MsfVYs1s_fwH2JyBo7rfaXvW0AsSF_Noc7x1jXEcSTw/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3OTMv/MTcwNDEzMjAzMC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1156</itunes:duration>
+      <itunes:summary>We're back! Evan relates what he can about his experience with the Apple Vision Pro labs held at Apple, and discusses the Apple September "Wonderlust" Event and the Swift Remote Studio viewing party taking place that morning!   Show Links Inside the Apple Vision Pro labs Swift Remote Studio Apple September "Wonderlust" Event</itunes:summary>
+      <itunes:subtitle>We're back! Evan relates what he can about his experience with the Apple Vision Pro labs held at Apple, and discusses the Apple September "Wonderlust" Event and the Swift Remote Studio viewing party taking place that morning!   Show Links Inside the Apple</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>WWDC 2023 Keynote Wrap-Up Mega Episode!</title>
+      <itunes:episode>44</itunes:episode>
+      <podcast:episode>44</podcast:episode>
+      <itunes:title>WWDC 2023 Keynote Wrap-Up Mega Episode!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">136b5158-1065-4cb0-b90c-3a3352cee8d8</guid>
+      <link>https://share.transistor.fm/s/063f5ec3</link>
+      <description>
+        <![CDATA[<p>Evan is joined by Josh Hrach from Random Projects and developer of DoMarks! Listen as they give their reactions to all of the exciting new releases from Apple's WWDC 2023 Keynote.</p> <p>Show Links</p> <p><a href="https://developer.apple.com/wwdc23/" rel="noopener">WWDC 2023 - Apple Developer</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Evan is joined by Josh Hrach from Random Projects and developer of DoMarks! Listen as they give their reactions to all of the exciting new releases from Apple's WWDC 2023 Keynote.</p> <p>Show Links</p> <p><a href="https://developer.apple.com/wwdc23/" rel="noopener">WWDC 2023 - Apple Developer</a></p>]]>
+      </content:encoded>
+      <pubDate>Mon, 05 Jun 2023 21:41:00 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/063f5ec3/c9c82a92.mp3" length="59770705" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/DMWsUsaBTaogq9SLppdz8txD_LbTKzGkluXTDZfefWQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3OTIv/MTcwNDEzMjAzMC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>4938</itunes:duration>
+      <itunes:summary>Evan is joined by Josh Hrach from Random Projects and developer of DoMarks! Listen as they give their reactions to all of the exciting new releases from Apple's WWDC 2023 Keynote. Show Links WWDC 2023 - Apple Developer</itunes:summary>
+      <itunes:subtitle>Evan is joined by Josh Hrach from Random Projects and developer of DoMarks! Listen as they give their reactions to all of the exciting new releases from Apple's WWDC 2023 Keynote. Show Links WWDC 2023 - Apple Developer</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The AirPods that Cried Wolf - IDB043</title>
+      <itunes:episode>43</itunes:episode>
+      <podcast:episode>43</podcast:episode>
+      <itunes:title>The AirPods that Cried Wolf - IDB043</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">30061306-72c0-446f-ab31-01a6f9b35c9c</guid>
+      <link>https://share.transistor.fm/s/f8f0ea34</link>
+      <description>
+        <![CDATA[<p>WWDC 2023 is next week! In this episode, Evan shares a couple of the things that he would like to see from next week's Keynote and SwiftUI. Also a quick tip to prepare for next week's event, and a Swift Remote Studio watch party!</p> <p>Show Links</p> <p><a href="https://twitter.com/leogdion/status/1654202775775870976" rel="noopener">Apple Developer App Bookmark Removal - Leo G. Dion Twitter Post</a></p> <p><a href="https://apps.apple.com/us/app/detailspro/id1524366536" rel="noopener">DetailsPro - Apple App Store</a></p> <p><a href="https://martiancraft.com/blog/2023/05/wwdc-2023-expectations/" rel="noopener">Anticipation and Expectations: MartianCraft Staff Gear Up for WWDC ’23</a></p> <p><a href="https://www.swiftremotestudio.com/" rel="noopener">Swift Remote Studio</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>WWDC 2023 is next week! In this episode, Evan shares a couple of the things that he would like to see from next week's Keynote and SwiftUI. Also a quick tip to prepare for next week's event, and a Swift Remote Studio watch party!</p> <p>Show Links</p> <p><a href="https://twitter.com/leogdion/status/1654202775775870976" rel="noopener">Apple Developer App Bookmark Removal - Leo G. Dion Twitter Post</a></p> <p><a href="https://apps.apple.com/us/app/detailspro/id1524366536" rel="noopener">DetailsPro - Apple App Store</a></p> <p><a href="https://martiancraft.com/blog/2023/05/wwdc-2023-expectations/" rel="noopener">Anticipation and Expectations: MartianCraft Staff Gear Up for WWDC ’23</a></p> <p><a href="https://www.swiftremotestudio.com/" rel="noopener">Swift Remote Studio</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Sat, 03 Jun 2023 18:58:00 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/f8f0ea34/ee44e299.mp3" length="13284346" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:duration>1091</itunes:duration>
+      <itunes:summary>WWDC 2023 is next week! In this episode, Evan shares a couple of the things that he would like to see from next week's Keynote and SwiftUI. Also a quick tip to prepare for next week's event, and a Swift Remote Studio watch party! Show Links Apple Developer App Bookmark Removal - Leo G. Dion Twitter Post DetailsPro - Apple App Store Anticipation and Expectations: MartianCraft Staff Gear Up for WWDC ’23 Swift Remote Studio  </itunes:summary>
+      <itunes:subtitle>WWDC 2023 is next week! In this episode, Evan shares a couple of the things that he would like to see from next week's Keynote and SwiftUI. Also a quick tip to prepare for next week's event, and a Swift Remote Studio watch party! Show Links Apple Develope</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Is There a Code Echo In Here? - IDB042</title>
+      <itunes:episode>42</itunes:episode>
+      <podcast:episode>42</podcast:episode>
+      <itunes:title>Is There a Code Echo In Here? - IDB042</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">fc169412-a557-419d-a0e7-658b6f5d0d85</guid>
+      <link>https://share.transistor.fm/s/7fa059b6</link>
+      <description>
+        <![CDATA[<p>RayWenderlich.com becomes Kodeco. Plus, helpful resources for iOS Development, the Rise of Mastodon (again), and the return of Swift Remote Studio (which never really went away)!</p> <p>Show Links</p> <p><a title="Xcode Tips by Dominik Hauser" href="https://xcode.tips/" rel="noopener">Xcode Tips by Dominik Hauser</a></p> <p><a title="Indie Apps Catalog" href="https://indiecatalog.app/" rel="noopener">Indie Apps Catalog</a></p> <p><a title="Kodeco" href="https://www.kodeco.com/" rel="noopener">Kodeco</a></p> <p><a title="Evan K. Stone on Mastodon" href="https://iosdev.space/@evankstone" rel="noopener">Evan K. Stone on Mastodon</a></p> <p><a title="Swift Remote Studio" href="https://www.swiftremotestudio.com/" rel="noopener">Swift Remote Studio</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>RayWenderlich.com becomes Kodeco. Plus, helpful resources for iOS Development, the Rise of Mastodon (again), and the return of Swift Remote Studio (which never really went away)!</p> <p>Show Links</p> <p><a title="Xcode Tips by Dominik Hauser" href="https://xcode.tips/" rel="noopener">Xcode Tips by Dominik Hauser</a></p> <p><a title="Indie Apps Catalog" href="https://indiecatalog.app/" rel="noopener">Indie Apps Catalog</a></p> <p><a title="Kodeco" href="https://www.kodeco.com/" rel="noopener">Kodeco</a></p> <p><a title="Evan K. Stone on Mastodon" href="https://iosdev.space/@evankstone" rel="noopener">Evan K. Stone on Mastodon</a></p> <p><a title="Swift Remote Studio" href="https://www.swiftremotestudio.com/" rel="noopener">Swift Remote Studio</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Thu, 29 Dec 2022 15:34:00 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/7fa059b6/7086d4b2.mp3" length="15325025" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/m0CMUaUAi97gVWgkNyBqcklTwUoWdUNuuUSaeC2LdRg/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3OTAv/MTcwNDEzMjAxOS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1255</itunes:duration>
+      <itunes:summary>RayWenderlich.com becomes Kodeco. Plus, helpful resources for iOS Development, the Rise of Mastodon (again), and the return of Swift Remote Studio (which never really went away)! Show Links Xcode Tips by Dominik Hauser Indie Apps Catalog Kodeco Evan K. Stone on Mastodon Swift Remote Studio  </itunes:summary>
+      <itunes:subtitle>RayWenderlich.com becomes Kodeco. Plus, helpful resources for iOS Development, the Rise of Mastodon (again), and the return of Swift Remote Studio (which never really went away)! Show Links Xcode Tips by Dominik Hauser Indie Apps Catalog Kodeco Evan K. St</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Post-Post-WWDC Episode - IDB041</title>
+      <itunes:episode>41</itunes:episode>
+      <podcast:episode>41</podcast:episode>
+      <itunes:title>Post-Post-WWDC Episode - IDB041</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">54901bbf-c189-49b9-872c-be5dbffd30b4</guid>
+      <link>https://share.transistor.fm/s/152f4398</link>
+      <description>
+        <![CDATA[<p>Tips and reminders as we enter this year's "Beta Season" after the floodgates were opened at WWDC 2022!</p> <p> </p> <p>Show Links</p> <p><a title="Xcodes - Robots and Pencils (GitHub)" href="https://github.com/RobotsAndPencils/XcodesApp" rel="noopener">Xcodes - Robots and Pencils (GitHub)</a></p> <p><a title="MartianCraft Blog - Removing Mental Blocks" href="https://martiancraft.com/blog/2022/04/removing-mental-blocks/" rel="noopener">MartianCraft Blog - Removing Mental Blocks</a></p> <p><a title="Hacknicity - SF Menu Bar" href="https://hacknicity.com/sfmenubar" rel="noopener">Hacknicity - SF Menu Bar</a></p> <p><a title="DoMarks - The To-Do App for Bookmarks" href="https://www.domarks.app/" rel="noopener">DoMarks - The To-Do App for Bookmarks</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Tips and reminders as we enter this year's "Beta Season" after the floodgates were opened at WWDC 2022!</p> <p> </p> <p>Show Links</p> <p><a title="Xcodes - Robots and Pencils (GitHub)" href="https://github.com/RobotsAndPencils/XcodesApp" rel="noopener">Xcodes - Robots and Pencils (GitHub)</a></p> <p><a title="MartianCraft Blog - Removing Mental Blocks" href="https://martiancraft.com/blog/2022/04/removing-mental-blocks/" rel="noopener">MartianCraft Blog - Removing Mental Blocks</a></p> <p><a title="Hacknicity - SF Menu Bar" href="https://hacknicity.com/sfmenubar" rel="noopener">Hacknicity - SF Menu Bar</a></p> <p><a title="DoMarks - The To-Do App for Bookmarks" href="https://www.domarks.app/" rel="noopener">DoMarks - The To-Do App for Bookmarks</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Sun, 24 Jul 2022 15:41:03 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/152f4398/8744851c.mp3" length="11633884" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/XDn0Xl69VXqoQ8DJUo2dzbq-1yWjjZnZpeXaWGQAgYQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODkv/MTcwNDEzMjAxOS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>947</itunes:duration>
+      <itunes:summary>Tips and reminders as we enter this year's "Beta Season" after the floodgates were opened at WWDC 2022!   Show Links Xcodes - Robots and Pencils (GitHub) MartianCraft Blog - Removing Mental Blocks Hacknicity - SF Menu Bar DoMarks - The To-Do App for Bookmarks  </itunes:summary>
+      <itunes:subtitle>Tips and reminders as we enter this year's "Beta Season" after the floodgates were opened at WWDC 2022!   Show Links Xcodes - Robots and Pencils (GitHub) MartianCraft Blog - Removing Mental Blocks Hacknicity - SF Menu Bar DoMarks - The To-Do App for Bookm</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Swift Remote Studio - IDB040</title>
+      <itunes:episode>40</itunes:episode>
+      <podcast:episode>40</podcast:episode>
+      <itunes:title>Swift Remote Studio - IDB040</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5b721605-020f-4963-9593-65bb1a63de6b</guid>
+      <link>https://share.transistor.fm/s/4f45f388</link>
+      <description>
+        <![CDATA[<p>Swift Remote Studio launches! Also: "Xcode through the years."</p> <p> </p> <p>Show Links</p> <p><a href="https://swiftremotestudio.com/" rel="noopener">Swift Remote Studio</a></p> <p><a href="https://martiancraft.com/blog/2022/01/xcode-through-the-years/" rel="noopener">Xcode Through The Years - MartianCraft</a></p> <p><a href="https://useyourloaf.com/blog/xcode-13-missing-info.plist/" rel="noopener">Xcode 13 Missing Info.plist - Use Your Loaf</a></p> <p> </p> <p>Support The Podcast!</p> <p><a href="https://www.patreon.com/iosdevbreak" rel="noopener">Patreon - iOS Dev Break</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Swift Remote Studio launches! Also: "Xcode through the years."</p> <p> </p> <p>Show Links</p> <p><a href="https://swiftremotestudio.com/" rel="noopener">Swift Remote Studio</a></p> <p><a href="https://martiancraft.com/blog/2022/01/xcode-through-the-years/" rel="noopener">Xcode Through The Years - MartianCraft</a></p> <p><a href="https://useyourloaf.com/blog/xcode-13-missing-info.plist/" rel="noopener">Xcode 13 Missing Info.plist - Use Your Loaf</a></p> <p> </p> <p>Support The Podcast!</p> <p><a href="https://www.patreon.com/iosdevbreak" rel="noopener">Patreon - iOS Dev Break</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 21 Mar 2022 13:28:50 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/4f45f388/9fd9de1a.mp3" length="19183729" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/-27gKRbbV4IQenqYo5OI9_6roypCGbtYYv2sgwh6f3g/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODgv/MTcwNDEzMjAxOS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1576</itunes:duration>
+      <itunes:summary>Swift Remote Studio launches! Also: "Xcode through the years."   Show Links Swift Remote Studio Xcode Through The Years - MartianCraft Xcode 13 Missing Info.plist - Use Your Loaf   Support The Podcast! Patreon - iOS Dev Break  </itunes:summary>
+      <itunes:subtitle>Swift Remote Studio launches! Also: "Xcode through the years."   Show Links Swift Remote Studio Xcode Through The Years - MartianCraft Xcode 13 Missing Info.plist - Use Your Loaf   Support The Podcast! Patreon - iOS Dev Break  </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Just Under the Wire - IDB039</title>
+      <itunes:episode>39</itunes:episode>
+      <podcast:episode>39</podcast:episode>
+      <itunes:title>Just Under the Wire - IDB039</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a680de37-078b-41f3-bcf9-72efa01e20d7</guid>
+      <link>https://share.transistor.fm/s/9bdd37fb</link>
+      <description>
+        <![CDATA[<p>Last episode of 2021!</p> <p> </p> <p>Show Links</p> <p><a title="WWDC 2021 - It's like ARC for Threading" href="https://mtjc.fireside.fm/330" rel="noopener">WWDC 2021 - It's like ARC for Threading</a></p> <p><a title="360|iDev Session Videos" href="https://360idev.com/session-videos/" rel="noopener">360|iDev Session Videos</a></p> <p><a title="Asset Catalog Creator on Mac App Store" href="https://apps.apple.com/us/app/asset-catalog-creator/id866571115?mt=12" rel="noopener">Asset Catalog Creator on Mac App Store</a></p> <p><a title="Speculid - Easily Manage Graphics in Xcode Projects" href="https://speculid.com/" rel="noopener">Speculid - Easily Manage Graphics in Xcode Projects</a></p> <p><a title="Bakery - Simple Icon Creator" href="https://apps.apple.com/app/id1575220747" rel="noopener">Bakery - Simple Icon Creator</a></p> <p><a title="Introducing Swift for Visual Studio Code" href="https://forums.swift.org/t/introducing-swift-for-visual-studio-code/54246" rel="noopener">Introducing Swift for Visual Studio Code</a></p> <p><a title="Xcodes" href="https://github.com/RobotsAndPencils/XcodesApp/" rel="noopener">Xcodes</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Last episode of 2021!</p> <p> </p> <p>Show Links</p> <p><a title="WWDC 2021 - It's like ARC for Threading" href="https://mtjc.fireside.fm/330" rel="noopener">WWDC 2021 - It's like ARC for Threading</a></p> <p><a title="360|iDev Session Videos" href="https://360idev.com/session-videos/" rel="noopener">360|iDev Session Videos</a></p> <p><a title="Asset Catalog Creator on Mac App Store" href="https://apps.apple.com/us/app/asset-catalog-creator/id866571115?mt=12" rel="noopener">Asset Catalog Creator on Mac App Store</a></p> <p><a title="Speculid - Easily Manage Graphics in Xcode Projects" href="https://speculid.com/" rel="noopener">Speculid - Easily Manage Graphics in Xcode Projects</a></p> <p><a title="Bakery - Simple Icon Creator" href="https://apps.apple.com/app/id1575220747" rel="noopener">Bakery - Simple Icon Creator</a></p> <p><a title="Introducing Swift for Visual Studio Code" href="https://forums.swift.org/t/introducing-swift-for-visual-studio-code/54246" rel="noopener">Introducing Swift for Visual Studio Code</a></p> <p><a title="Xcodes" href="https://github.com/RobotsAndPencils/XcodesApp/" rel="noopener">Xcodes</a></p>]]>
+      </content:encoded>
+      <pubDate>Sat, 01 Jan 2022 00:11:33 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/9bdd37fb/ae6547b3.mp3" length="14441641" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/SeRjXHGoo5cCFz6t2mWe0eX4qYTAiGCGq_WxNsBCReU/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODcv/MTcwNDEzMjAxOS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1181</itunes:duration>
+      <itunes:summary>Last episode of 2021!   Show Links WWDC 2021 - It's like ARC for Threading 360|iDev Session Videos Asset Catalog Creator on Mac App Store Speculid - Easily Manage Graphics in Xcode Projects Bakery - Simple Icon Creator Introducing Swift for Visual Studio Code Xcodes</itunes:summary>
+      <itunes:subtitle>Last episode of 2021!   Show Links WWDC 2021 - It's like ARC for Threading 360|iDev Session Videos Asset Catalog Creator on Mac App Store Speculid - Easily Manage Graphics in Xcode Projects Bakery - Simple Icon Creator Introducing Swift for Visual Studio </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>15 Minutes a Day - IDB038</title>
+      <itunes:episode>38</itunes:episode>
+      <podcast:episode>38</podcast:episode>
+      <itunes:title>15 Minutes a Day - IDB038</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ddd355f1-0537-4df3-bcd6-941015475ec1</guid>
+      <link>https://share.transistor.fm/s/beb849b2</link>
+      <description>
+        <![CDATA[<p>We are back! In this episode, we'll explore some benefits of SwiftUI and see how you can improve your skills in simple ways. Also a productivity tip/pick for helping you create and export all the app icons you need for your app!</p> <p>Show Links</p> <p><a title="Apply Pixels iOS 14 Icon Template" href="https://applypixels.com/resource/ios-14-app-icon" rel="noopener">Apply Pixels iOS 14 Icon Template</a></p> <p><a title="How to use the iOS App Icon Template for Sketch" href="https://www.youtube.com/watch?v=1ge--N3RgI8" rel="noopener">How to use the iOS App Icon Template for Sketch</a></p> <p><a href="https://developer.apple.com/forums/thread/124274" rel="noopener">Swipe up to bring up the dock in iPad Simulator - Apple Developer Forums</a></p> <p><a class="waffle-rich-text-link" href="Hacking%20with%20Swift%20-%20100%20Days%20of%20Swift" rel="noopener">https://www.hackingwithswift.com/100</a></p> <p><a class="waffle-rich-text-link" href="Hacking%20with%20Swift%20-%20100%20Days%20of%20SwiftUI" rel="noopener">https://www.hackingwithswift.com/100/swiftui</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>We are back! In this episode, we'll explore some benefits of SwiftUI and see how you can improve your skills in simple ways. Also a productivity tip/pick for helping you create and export all the app icons you need for your app!</p> <p>Show Links</p> <p><a title="Apply Pixels iOS 14 Icon Template" href="https://applypixels.com/resource/ios-14-app-icon" rel="noopener">Apply Pixels iOS 14 Icon Template</a></p> <p><a title="How to use the iOS App Icon Template for Sketch" href="https://www.youtube.com/watch?v=1ge--N3RgI8" rel="noopener">How to use the iOS App Icon Template for Sketch</a></p> <p><a href="https://developer.apple.com/forums/thread/124274" rel="noopener">Swipe up to bring up the dock in iPad Simulator - Apple Developer Forums</a></p> <p><a class="waffle-rich-text-link" href="Hacking%20with%20Swift%20-%20100%20Days%20of%20Swift" rel="noopener">https://www.hackingwithswift.com/100</a></p> <p><a class="waffle-rich-text-link" href="Hacking%20with%20Swift%20-%20100%20Days%20of%20SwiftUI" rel="noopener">https://www.hackingwithswift.com/100/swiftui</a></p>]]>
+      </content:encoded>
+      <pubDate>Thu, 15 Jul 2021 13:42:35 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/beb849b2/82cab997.mp3" length="14404435" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/kl7ytPn-B5cbraZFYZOVqM1nfL45bWVw63SQ0a3mDzs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODYv/MTcwNDEzMjAxMS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1178</itunes:duration>
+      <itunes:summary>We are back! In this episode, we'll explore some benefits of SwiftUI and see how you can improve your skills in simple ways. Also a productivity tip/pick for helping you create and export all the app icons you need for your app! Show Links Apply Pixels iOS 14 Icon Template How to use the iOS App Icon Template for Sketch Swipe up to bring up the dock in iPad Simulator - Apple Developer Forums https://www.hackingwithswift.com/100 https://www.hackingwithswift.com/100/swiftui</itunes:summary>
+      <itunes:subtitle>We are back! In this episode, we'll explore some benefits of SwiftUI and see how you can improve your skills in simple ways. Also a productivity tip/pick for helping you create and export all the app icons you need for your app! Show Links Apply Pixels iO</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The SwiftUI is Happening. - IDB037</title>
+      <itunes:episode>37</itunes:episode>
+      <podcast:episode>37</podcast:episode>
+      <itunes:title>The SwiftUI is Happening. - IDB037</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ef7bad23-c616-447d-a39f-97e545952685</guid>
+      <link>https://share.transistor.fm/s/66babb7e</link>
+      <description>
+        <![CDATA[<p>In this episode: Do App Clips have a place in the iOS ecosystem? Can SwiftUI improve productivity? Clicking and dragging got you down? Listen and find out more!</p> <p> </p> <p>Show Links</p> <p><a title="Transformation Apps Website" href="https://transformationapps.com" rel="noopener">Transformation Apps Website</a></p> <p><a title="Cult of Mac - App Clips and Phoenix 2" href="https://www.cultofmac.com/723998/app-clips-game-demo-phoenix-ii/" rel="noopener">Cult of Mac - App Clips and Phoenix 2</a></p> <p><a title="Phoenix 2 - Official Site (with App Clip)" href="https://www.firigames.com/phoenix2" rel="noopener">Phoenix 2 - Official Site (with App Clip)</a></p> <p><a title="Jesse Squires - How to fix the incomprehensible tabs in Xcode 12" href="https://www.jessesquires.com/blog/2020/07/24/how-to-fix-the-incomprehensible-tabs-in-xcode-12/" rel="noopener">Jesse Squires - How to fix the incomprehensible tabs in Xcode 12</a></p> <p> </p> <p>Support the Show!</p> <p><a title="iOS Dev Break Patreon Page" href="https://www.patreon.com/iosdevbreak" rel="noopener">iOS Dev Break Patreon Page</a></p> <p>You can also help the show by giving it a good rating in the Podcasts app or podcast app of your choice.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode: Do App Clips have a place in the iOS ecosystem? Can SwiftUI improve productivity? Clicking and dragging got you down? Listen and find out more!</p> <p> </p> <p>Show Links</p> <p><a title="Transformation Apps Website" href="https://transformationapps.com" rel="noopener">Transformation Apps Website</a></p> <p><a title="Cult of Mac - App Clips and Phoenix 2" href="https://www.cultofmac.com/723998/app-clips-game-demo-phoenix-ii/" rel="noopener">Cult of Mac - App Clips and Phoenix 2</a></p> <p><a title="Phoenix 2 - Official Site (with App Clip)" href="https://www.firigames.com/phoenix2" rel="noopener">Phoenix 2 - Official Site (with App Clip)</a></p> <p><a title="Jesse Squires - How to fix the incomprehensible tabs in Xcode 12" href="https://www.jessesquires.com/blog/2020/07/24/how-to-fix-the-incomprehensible-tabs-in-xcode-12/" rel="noopener">Jesse Squires - How to fix the incomprehensible tabs in Xcode 12</a></p> <p> </p> <p>Support the Show!</p> <p><a title="iOS Dev Break Patreon Page" href="https://www.patreon.com/iosdevbreak" rel="noopener">iOS Dev Break Patreon Page</a></p> <p>You can also help the show by giving it a good rating in the Podcasts app or podcast app of your choice.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 28 Oct 2020 17:52:06 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/66babb7e/8b984fbf.mp3" length="10430645" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/Rzm7vNKBdgDZRedcsaPqf9mw2C0UI1BWlP2lmiIjzMY/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODUv/MTcwNDEzMjAxMS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>847</itunes:duration>
+      <itunes:summary>In this episode: Do App Clips have a place in the iOS ecosystem? Can SwiftUI improve productivity? Clicking and dragging got you down? Listen and find out more!   Show Links Transformation Apps Website Cult of Mac - App Clips and Phoenix 2 Phoenix 2 - Official Site (with App Clip) Jesse Squires - How to fix the incomprehensible tabs in Xcode 12   Support the Show! iOS Dev Break Patreon Page You can also help the show by giving it a good rating in the Podcasts app or podcast app of your choice.</itunes:summary>
+      <itunes:subtitle>In this episode: Do App Clips have a place in the iOS ecosystem? Can SwiftUI improve productivity? Clicking and dragging got you down? Listen and find out more!   Show Links Transformation Apps Website Cult of Mac - App Clips and Phoenix 2 Phoenix 2 - Off</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Bye, Bye, Storyboards! - IDB036</title>
+      <itunes:episode>36</itunes:episode>
+      <podcast:episode>36</podcast:episode>
+      <itunes:title>Bye, Bye, Storyboards! - IDB036</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">bf54a89c-53c5-45bc-9ba6-812fe05da6ab</guid>
+      <link>https://share.transistor.fm/s/d044cdd2</link>
+      <description>
+        <![CDATA[<p>In this episode: Migrating away from storyboards, app delegate, and table views. Swift on Windows! IoT with Swift! Also, dealing with Apple's requirements for review when it comes down to you versus the HIG.</p> <p> </p> <p>Show Links</p> <p><a title="Transformation Apps Website" href="https://transformationapps.com" rel="noopener">Transformation Apps Website</a></p> <p><a title="Introducing Swift on Windows" href="https://swift.org/blog/swift-on-windows/" rel="noopener">Introducing Swift on Windows</a></p> <p><a title="MadMachine - SwiftIO" href="https://www.madmachine.io/" rel="noopener">MadMachine - SwiftIO</a></p> <p><a title="RECaf - Effortless Caffeine Tracking" href="https://recaf.app/" rel="noopener">RECaf - Effortless Caffeine Tracking</a></p> <p> </p> <p>Support the Show!</p> <p><a title="iOS Dev Break Patreon Page" href="https://www.patreon.com/iosdevbreak" rel="noopener">iOS Dev Break Patreon Page</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode: Migrating away from storyboards, app delegate, and table views. Swift on Windows! IoT with Swift! Also, dealing with Apple's requirements for review when it comes down to you versus the HIG.</p> <p> </p> <p>Show Links</p> <p><a title="Transformation Apps Website" href="https://transformationapps.com" rel="noopener">Transformation Apps Website</a></p> <p><a title="Introducing Swift on Windows" href="https://swift.org/blog/swift-on-windows/" rel="noopener">Introducing Swift on Windows</a></p> <p><a title="MadMachine - SwiftIO" href="https://www.madmachine.io/" rel="noopener">MadMachine - SwiftIO</a></p> <p><a title="RECaf - Effortless Caffeine Tracking" href="https://recaf.app/" rel="noopener">RECaf - Effortless Caffeine Tracking</a></p> <p> </p> <p>Support the Show!</p> <p><a title="iOS Dev Break Patreon Page" href="https://www.patreon.com/iosdevbreak" rel="noopener">iOS Dev Break Patreon Page</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Fri, 25 Sep 2020 17:57:00 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/d044cdd2/4e17535f.mp3" length="12929076" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/G2e44iyMLAUfdVudMzdcBE4b713CyjaYfxJYsEkVYfM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODQv/MTcwNDEzMjAxMS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1055</itunes:duration>
+      <itunes:summary>In this episode: Migrating away from storyboards, app delegate, and table views. Swift on Windows! IoT with Swift! Also, dealing with Apple's requirements for review when it comes down to you versus the HIG.   Show Links Transformation Apps Website Introducing Swift on Windows MadMachine - SwiftIO RECaf - Effortless Caffeine Tracking   Support the Show! iOS Dev Break Patreon Page  </itunes:summary>
+      <itunes:subtitle>In this episode: Migrating away from storyboards, app delegate, and table views. Swift on Windows! IoT with Swift! Also, dealing with Apple's requirements for review when it comes down to you versus the HIG.   Show Links Transformation Apps Website Introd</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Time Flies. - IDB035</title>
+      <itunes:episode>35</itunes:episode>
+      <podcast:episode>35</podcast:episode>
+      <itunes:title>Time Flies. - IDB035</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a07f24ad-c2b8-4457-b21e-f3f6a1059f49</guid>
+      <link>https://share.transistor.fm/s/ecbe9c74</link>
+      <description>
+        <![CDATA[<p>The Apple Event introducing the Apple Watch SE and Series 6 just landed, and with it, iOS 14! Are you ready for it?</p> <p> </p> <p>Show Links</p> <p><a title="Transformation Apps Website" href="https://transformationapps.com" rel="noopener">Transformation Apps Website</a></p> <p><a title="September 2020 Apple Event" href="https://www.apple.com/apple-events/september-2020/" rel="noopener">September 2020 Apple Event</a></p> <p><a title="360|iDev" href="https://360idev.com/" rel="noopener">360|iDev</a></p> <p><a title="Become a Simulator expert" href="https://developer.apple.com/videos/play/wwdc2020/10647/" rel="noopener">Become a Simulator expert</a></p> <p><a title="Rocket - Emoji App for Mac" href="https://matthewpalmer.net/rocket/" rel="noopener">Rocket - Emoji App for Mac</a></p> <p> </p> <p>Support the Show!</p> <p><a title="iOS Dev Break Patreon Page" href="https://www.patreon.com/iosdevbreak" rel="noopener">iOS Dev Break Patreon Page</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The Apple Event introducing the Apple Watch SE and Series 6 just landed, and with it, iOS 14! Are you ready for it?</p> <p> </p> <p>Show Links</p> <p><a title="Transformation Apps Website" href="https://transformationapps.com" rel="noopener">Transformation Apps Website</a></p> <p><a title="September 2020 Apple Event" href="https://www.apple.com/apple-events/september-2020/" rel="noopener">September 2020 Apple Event</a></p> <p><a title="360|iDev" href="https://360idev.com/" rel="noopener">360|iDev</a></p> <p><a title="Become a Simulator expert" href="https://developer.apple.com/videos/play/wwdc2020/10647/" rel="noopener">Become a Simulator expert</a></p> <p><a title="Rocket - Emoji App for Mac" href="https://matthewpalmer.net/rocket/" rel="noopener">Rocket - Emoji App for Mac</a></p> <p> </p> <p>Support the Show!</p> <p><a title="iOS Dev Break Patreon Page" href="https://www.patreon.com/iosdevbreak" rel="noopener">iOS Dev Break Patreon Page</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Fri, 18 Sep 2020 18:54:11 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/ecbe9c74/62dad872.mp3" length="14579303" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/fXefcXsZ1PT759-RU0As-z9-04dP2dhPm320eEdfZ2o/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODMv/MTcwNDEzMjAwNC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1193</itunes:duration>
+      <itunes:summary>The Apple Event introducing the Apple Watch SE and Series 6 just landed, and with it, iOS 14! Are you ready for it?   Show Links Transformation Apps Website September 2020 Apple Event 360|iDev Become a Simulator expert Rocket - Emoji App for Mac   Support the Show! iOS Dev Break Patreon Page  </itunes:summary>
+      <itunes:subtitle>The Apple Event introducing the Apple Watch SE and Series 6 just landed, and with it, iOS 14! Are you ready for it?   Show Links Transformation Apps Website September 2020 Apple Event 360|iDev Become a Simulator expert Rocket - Emoji App for Mac   Support</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>WWDC 2020 Will Mac Your Dreams Come True - IDB034</title>
+      <itunes:episode>34</itunes:episode>
+      <podcast:episode>34</podcast:episode>
+      <itunes:title>WWDC 2020 Will Mac Your Dreams Come True - IDB034</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">692ba28f-f45b-4f41-accf-24b3e2573749</guid>
+      <link>https://share.transistor.fm/s/837d7108</link>
+      <description>
+        <![CDATA[<p>WWDC 2020 is starting June 22, and Apple has a very nice surprise for you and your Mac. Also: do you like to dive right into coding when solving a problem? Have you tried sketching it out?</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>WWDC 2020 is starting June 22, and Apple has a very nice surprise for you and your Mac. Also: do you like to dive right into coding when solving a problem? Have you tried sketching it out?</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 22 Jun 2020 20:01:05 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/837d7108/59d95f62.mp3" length="11635309" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/SyF3ieoKU8S-QOm_ScPkLFZH8tgwzrS4EBrLT_-2waA/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODIv/MTcwNDEzMjAwNC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>947</itunes:duration>
+      <itunes:summary>WWDC 2020 is starting June 22, and Apple has a very nice surprise for you and your Mac. Also: do you like to dive right into coding when solving a problem? Have you tried sketching it out?</itunes:summary>
+      <itunes:subtitle>WWDC 2020 is starting June 22, and Apple has a very nice surprise for you and your Mac. Also: do you like to dive right into coding when solving a problem? Have you tried sketching it out?</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Socially Distant Dev Break - IDB033</title>
+      <itunes:episode>33</itunes:episode>
+      <podcast:episode>33</podcast:episode>
+      <itunes:title>Socially Distant Dev Break - IDB033</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">16ee1158-1da2-493e-8f71-13845f8e0c34</guid>
+      <link>https://share.transistor.fm/s/99f9d9b8</link>
+      <description>
+        <![CDATA[<p>In this epsisode: Fabric is shutting down—is it time to make the jump to Firebase? Support indie developers during the coronavirus pandemic! WWDC 2020 goes remote?</p> <p> </p> <p>Show Links</p> <p><a href="https://cocoahub.app/" rel="noopener">CocoaHub App</a></p> <p><a href="https://iosdevweekly.com/" rel="noopener">iOS Dev Weekly</a></p> <p><a href="https://developer.apple.com/news/?id=03262020b" rel="noopener">Apple Developer - Deadline for App Updates Has Been Extended</a></p> <p><a href="https://github.com/JohnSundell/IndieSupportWeeks" rel="noopener">Indie Support Weeks in the Apple Developer Community</a></p> <p><a href="https://developer.apple.com/wwdc20/">Apple Developer - WWDC20</a></p> <p><a href="https://revealapp.com/" rel="noopener">Reveal by Itty Bitty Apps</a></p> <p> </p> <p>Support iOS Dev Break on Patreon</p> <p><a href="https://www.patreon.com/iosdevbreak">Patreon - iOS Dev Break</a></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this epsisode: Fabric is shutting down—is it time to make the jump to Firebase? Support indie developers during the coronavirus pandemic! WWDC 2020 goes remote?</p> <p> </p> <p>Show Links</p> <p><a href="https://cocoahub.app/" rel="noopener">CocoaHub App</a></p> <p><a href="https://iosdevweekly.com/" rel="noopener">iOS Dev Weekly</a></p> <p><a href="https://developer.apple.com/news/?id=03262020b" rel="noopener">Apple Developer - Deadline for App Updates Has Been Extended</a></p> <p><a href="https://github.com/JohnSundell/IndieSupportWeeks" rel="noopener">Indie Support Weeks in the Apple Developer Community</a></p> <p><a href="https://developer.apple.com/wwdc20/">Apple Developer - WWDC20</a></p> <p><a href="https://revealapp.com/" rel="noopener">Reveal by Itty Bitty Apps</a></p> <p> </p> <p>Support iOS Dev Break on Patreon</p> <p><a href="https://www.patreon.com/iosdevbreak">Patreon - iOS Dev Break</a></p>]]>
+      </content:encoded>
+      <pubDate>Wed, 15 Apr 2020 17:32:06 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/99f9d9b8/32059bf1.mp3" length="12486508" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/gp6Rm0QzULpm5UeGnEb28GW6AkX9Scn2G0VPSUEdmBs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODEv/MTcwNDEzMjAwMS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1018</itunes:duration>
+      <itunes:summary>In this epsisode: Fabric is shutting down—is it time to make the jump to Firebase? Support indie developers during the coronavirus pandemic! WWDC 2020 goes remote?   Show Links CocoaHub App iOS Dev Weekly Apple Developer - Deadline for App Updates Has Been Extended Indie Support Weeks in the Apple Developer Community Apple Developer - WWDC20 Reveal by Itty Bitty Apps   Support iOS Dev Break on Patreon Patreon - iOS Dev Break</itunes:summary>
+      <itunes:subtitle>In this epsisode: Fabric is shutting down—is it time to make the jump to Firebase? Support indie developers during the coronavirus pandemic! WWDC 2020 goes remote?   Show Links CocoaHub App iOS Dev Weekly Apple Developer - Deadline for App Updates Has Bee</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Great Migration - IDB032</title>
+      <itunes:episode>32</itunes:episode>
+      <podcast:episode>32</podcast:episode>
+      <itunes:title>The Great Migration - IDB032</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e9623437-542d-48b8-828c-b5d258fc73e1</guid>
+      <link>https://share.transistor.fm/s/e7bc052b</link>
+      <description>
+        <![CDATA[<p>In this episode: The perils of migrating from Swift 2 to Swift 5, plus two excellent picks to help you keep your edge as an iOS developer!</p> <p> </p> <p>Show Links</p> <p><a href="https://www.youtube.com/playlist?list=PLuoeXyslFTuYQ9Hoh42Bw8sPYMlTOV0V7" rel="noopener">Hacking with Swift - Xcode in 20 Seconds</a></p> <p><a href="https://www.parallels.com/" rel="noopener">Parallels</a></p> <p><a href="https://support.apple.com/en-us/HT208969" rel="noopener">How to upgrade to macOS High Sierra</a></p> <p><a href="https://web.archive.org/web/20190703160055/https://www.parallels.com/blogs/older-versions-mac-os-x-with-macos-sierra/" rel="noopener">Run older versions of Mac OS X seamlessly with macOS Sierra</a></p> <p><a href="https://rambo.codes/personal/2019/11/20/apple-has-locked-me-out-of-my-developer-account.html" rel="noopener">Apple has locked me out of my developer account</a></p> <p><a href="https://cocoahub.app/" rel="noopener">CocoaHub App</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode: The perils of migrating from Swift 2 to Swift 5, plus two excellent picks to help you keep your edge as an iOS developer!</p> <p> </p> <p>Show Links</p> <p><a href="https://www.youtube.com/playlist?list=PLuoeXyslFTuYQ9Hoh42Bw8sPYMlTOV0V7" rel="noopener">Hacking with Swift - Xcode in 20 Seconds</a></p> <p><a href="https://www.parallels.com/" rel="noopener">Parallels</a></p> <p><a href="https://support.apple.com/en-us/HT208969" rel="noopener">How to upgrade to macOS High Sierra</a></p> <p><a href="https://web.archive.org/web/20190703160055/https://www.parallels.com/blogs/older-versions-mac-os-x-with-macos-sierra/" rel="noopener">Run older versions of Mac OS X seamlessly with macOS Sierra</a></p> <p><a href="https://rambo.codes/personal/2019/11/20/apple-has-locked-me-out-of-my-developer-account.html" rel="noopener">Apple has locked me out of my developer account</a></p> <p><a href="https://cocoahub.app/" rel="noopener">CocoaHub App</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Sat, 11 Jan 2020 18:36:28 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/e7bc052b/7e7c36b6.mp3" length="14444965" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/gh8qdusoGakRRCSFXZzSMXVSjaLpY4jrL9ARed6WAjE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3ODAv/MTcwNDEzMTk5OS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1181</itunes:duration>
+      <itunes:summary>In this episode: The perils of migrating from Swift 2 to Swift 5, plus two excellent picks to help you keep your edge as an iOS developer!   Show Links Hacking with Swift - Xcode in 20 Seconds Parallels How to upgrade to macOS High Sierra Run older versions of Mac OS X seamlessly with macOS Sierra Apple has locked me out of my developer account CocoaHub App  </itunes:summary>
+      <itunes:subtitle>In this episode: The perils of migrating from Swift 2 to Swift 5, plus two excellent picks to help you keep your edge as an iOS developer!   Show Links Hacking with Swift - Xcode in 20 Seconds Parallels How to upgrade to macOS High Sierra Run older versio</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Nimble Xcode Juggling - IDB031</title>
+      <itunes:episode>31</itunes:episode>
+      <podcast:episode>31</podcast:episode>
+      <itunes:title>Nimble Xcode Juggling - IDB031</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5d425ba5-4205-4358-80bb-d7f07491c53a</guid>
+      <link>https://share.transistor.fm/s/a8b943d5</link>
+      <description>
+        <![CDATA[<p>Another version of Xcode released? Learn how to wrangle the rapid-fire releases of Apple's development tools.</p> <p> </p> <p>Show Links</p> <p><a href="https://atp.fm/episodes/352" rel="noopener">ATP - No One Else Had Calipers </a></p> <p><a href="https://devchat.tv/iphreaks/ips-277-100-days-of-swiftui-with-paul-hudson/" rel="noopener">iPhreaks Podcast 277: 100 Days of SwiftUI with Paul Hudson</a></p> <p><a href="https://independence.fm/" rel="noopener">Independence Podcast</a></p> <p><a href="http://iosdevelopertips.com/xcode/xcode-select-managing-multiple-versions-of-xcode.html" rel="noopener">iOS Developer Tips - Managing Multiple Versions of Xcode</a> </p> <p><a href="https://9to5mac.com/2019/11/05/apple-xcode-critical-update/" rel="noopener">9to5Mac.com - PSA: Apple releases critical Xcode 11.2.1 update for developers</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Another version of Xcode released? Learn how to wrangle the rapid-fire releases of Apple's development tools.</p> <p> </p> <p>Show Links</p> <p><a href="https://atp.fm/episodes/352" rel="noopener">ATP - No One Else Had Calipers </a></p> <p><a href="https://devchat.tv/iphreaks/ips-277-100-days-of-swiftui-with-paul-hudson/" rel="noopener">iPhreaks Podcast 277: 100 Days of SwiftUI with Paul Hudson</a></p> <p><a href="https://independence.fm/" rel="noopener">Independence Podcast</a></p> <p><a href="http://iosdevelopertips.com/xcode/xcode-select-managing-multiple-versions-of-xcode.html" rel="noopener">iOS Developer Tips - Managing Multiple Versions of Xcode</a> </p> <p><a href="https://9to5mac.com/2019/11/05/apple-xcode-critical-update/" rel="noopener">9to5Mac.com - PSA: Apple releases critical Xcode 11.2.1 update for developers</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Thu, 21 Nov 2019 18:00:00 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/a8b943d5/2b4b7c65.mp3" length="13233118" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/yj47jsfPcqM2M_8CFg0iAY2mqLyR7EiJ8h0ztMABMgU/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3Nzkv/MTcwNDEzMTk5OS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1080</itunes:duration>
+      <itunes:summary>Another version of Xcode released? Learn how to wrangle the rapid-fire releases of Apple's development tools.   Show Links ATP - No One Else Had Calipers  iPhreaks Podcast 277: 100 Days of SwiftUI with Paul Hudson Independence Podcast iOS Developer Tips - Managing Multiple Versions of Xcode  9to5Mac.com - PSA: Apple releases critical Xcode 11.2.1 update for developers  </itunes:summary>
+      <itunes:subtitle>Another version of Xcode released? Learn how to wrangle the rapid-fire releases of Apple's development tools.   Show Links ATP - No One Else Had Calipers  iPhreaks Podcast 277: 100 Days of SwiftUI with Paul Hudson Independence Podcast iOS Developer Tips -</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>You're Not Falling Behind. - IDB030</title>
+      <itunes:episode>30</itunes:episode>
+      <podcast:episode>30</podcast:episode>
+      <itunes:title>You're Not Falling Behind. - IDB030</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">795d35287b2c4c17a38b999a8cd7714d</guid>
+      <link>https://share.transistor.fm/s/64f34ab4</link>
+      <description>
+        <![CDATA[<p>Feeling like you're falling behind all the cool kids who are diving into SwiftUI? Fear not! You're doing just fine.</p> <p> </p> <p>Show Links</p> <p><a href="https://nshipster.com/wwdc-2019/">WWDC 2019</a></p> <p><a href="https://www.100daysofcode.com/">#100DaysOfCode - The Official Website for the Challenge</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Feeling like you're falling behind all the cool kids who are diving into SwiftUI? Fear not! You're doing just fine.</p> <p> </p> <p>Show Links</p> <p><a href="https://nshipster.com/wwdc-2019/">WWDC 2019</a></p> <p><a href="https://www.100daysofcode.com/">#100DaysOfCode - The Official Website for the Challenge</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 12 Aug 2019 17:35:29 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/64f34ab4/f1f775c4.mp3" length="12947987" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/gZAMx06iD1xF17kMWXj9OX7TMWpRztvLNjVTd4WheZM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3Nzgv/MTcwNDEzMTk5OS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1036</itunes:duration>
+      <itunes:summary>Feeling like you're falling behind all the cool kids who are diving into SwiftUI? Fear not! You're doing just fine.   Show Links WWDC 2019 #100DaysOfCode - The Official Website for the Challenge  </itunes:summary>
+      <itunes:subtitle>Feeling like you're falling behind all the cool kids who are diving into SwiftUI? Fear not! You're doing just fine.   Show Links WWDC 2019 #100DaysOfCode - The Official Website for the Challenge  </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://share.transistor.fm/s/64f34ab4/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>Brand Experience - IDB029</title>
+      <itunes:episode>29</itunes:episode>
+      <podcast:episode>29</podcast:episode>
+      <itunes:title>Brand Experience - IDB029</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e206d3ea00df4006a25ba6451e85f58a</guid>
+      <link>https://share.transistor.fm/s/094dd615</link>
+      <description>
+        <![CDATA[<p>What is Brand Experience? Why you should care as an iOS developer? Find out in this week's episode of iOS Dev Break!</p> <p>Also: MacBook Pro news, GDPR and CloudKit, a macOS Mojave tip, and a new pick for this week's show!</p> <p> </p> <p>Show Links</p> <p><a href="https://uxplanet.org/what-makes-your-brand-experience-better-ux-or-cx-77818a137b53"> What makes your Brand Experience better? UX or CX?</a></p> <p><a href="https://techcrunch.com/2019/05/21/apple-announces-new-macbook-pros-with-more-powerful-processors-and-yes-updated-keyboards/"> Apple announces new MacBook Pros with a keyboard fix, oh, and more powerful processors</a></p> <p><a href="https://www.apple.com/newsroom/2019/05/apple-introduces-first-8-core-macbook-pro-the-fastest-mac-notebook-ever/"> Apple introduces first 8-core MacBook Pro, the fastest Mac notebook ever</a></p> <p><a href="https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Touch+Bar+2019+Teardown/123653"> MacBook Pro 15" Touch Bar 2019 Teardown</a></p> <p><a href="https://developer.apple.com/videos/play/tech-talks/703/">GDPR &amp; CloudKit</a></p> <p><a href="https://www.tekrevue.com/tip/only-dark-menu-bar-dock-mojave/">How to Use Only a Dark Menu Bar and Dock in macOS Mojave</a></p> <p><a href="https://wwdc.io/">WWDC for macOS</a></p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>What is Brand Experience? Why you should care as an iOS developer? Find out in this week's episode of iOS Dev Break!</p> <p>Also: MacBook Pro news, GDPR and CloudKit, a macOS Mojave tip, and a new pick for this week's show!</p> <p> </p> <p>Show Links</p> <p><a href="https://uxplanet.org/what-makes-your-brand-experience-better-ux-or-cx-77818a137b53"> What makes your Brand Experience better? UX or CX?</a></p> <p><a href="https://techcrunch.com/2019/05/21/apple-announces-new-macbook-pros-with-more-powerful-processors-and-yes-updated-keyboards/"> Apple announces new MacBook Pros with a keyboard fix, oh, and more powerful processors</a></p> <p><a href="https://www.apple.com/newsroom/2019/05/apple-introduces-first-8-core-macbook-pro-the-fastest-mac-notebook-ever/"> Apple introduces first 8-core MacBook Pro, the fastest Mac notebook ever</a></p> <p><a href="https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Touch+Bar+2019+Teardown/123653"> MacBook Pro 15" Touch Bar 2019 Teardown</a></p> <p><a href="https://developer.apple.com/videos/play/tech-talks/703/">GDPR &amp; CloudKit</a></p> <p><a href="https://www.tekrevue.com/tip/only-dark-menu-bar-dock-mojave/">How to Use Only a Dark Menu Bar and Dock in macOS Mojave</a></p> <p><a href="https://wwdc.io/">WWDC for macOS</a></p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Sat, 25 May 2019 12:29:00 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/094dd615/25d56106.mp3" length="12327379" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/RsP59tgBmgi2rx7Me0x2-7RYe8xzYlXUFlX9sZt9dv0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3Nzcv/MTcwNDEzMTk5My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1005</itunes:duration>
+      <itunes:summary>What is Brand Experience? Why you should care as an iOS developer? Find out in this week's episode of iOS Dev Break! Also: MacBook Pro news, GDPR and CloudKit, a macOS Mojave tip, and a new pick for this week's show!   Show Links  What makes your Brand Experience better? UX or CX?  Apple announces new MacBook Pros with a keyboard fix, oh, and more powerful processors  Apple introduces first 8-core MacBook Pro, the fastest Mac notebook ever  MacBook Pro 15" Touch Bar 2019 Teardown GDPR &amp;amp; CloudKit How to Use Only a Dark Menu Bar and Dock in macOS Mojave WWDC for macOS  </itunes:summary>
+      <itunes:subtitle>What is Brand Experience? Why you should care as an iOS developer? Find out in this week's episode of iOS Dev Break! Also: MacBook Pro news, GDPR and CloudKit, a macOS Mojave tip, and a new pick for this week's show!   Show Links  What makes your Brand Ex</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Breaking the Fabric Umbilical Cord - IDB028</title>
+      <itunes:episode>28</itunes:episode>
+      <podcast:episode>28</podcast:episode>
+      <itunes:title>Breaking the Fabric Umbilical Cord - IDB028</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">079e24c239c44a83b0167d9584d8bf61</guid>
+      <link>https://share.transistor.fm/s/df8ea6fd</link>
+      <description>
+        <![CDATA[<p>In this episode: Nest is dead, long live Google Nest. MongoDB acquires Realm. Breaking the Fabric Umbilical Cord. Plus an experiment in CX, and a pick of the show from App Builders 2019!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode: Nest is dead, long live Google Nest. MongoDB acquires Realm. Breaking the Fabric Umbilical Cord. Plus an experiment in CX, and a pick of the show from App Builders 2019!</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 17 May 2019 23:03:20 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/df8ea6fd/f9010932.mp3" length="11626831" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/_LCmquumN8lBLs5yvVaj_4ITKbUB0ZsGYOaeOOduiHc/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NzYv/MTcwNDEzMTk5My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>947</itunes:duration>
+      <itunes:summary>In this episode: Nest is dead, long live Google Nest. MongoDB acquires Realm. Breaking the Fabric Umbilical Cord. Plus an experiment in CX, and a pick of the show from App Builders 2019!</itunes:summary>
+      <itunes:subtitle>In this episode: Nest is dead, long live Google Nest. MongoDB acquires Realm. Breaking the Fabric Umbilical Cord. Plus an experiment in CX, and a pick of the show from App Builders 2019!</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>WWDC 2019 Announced! - IDB027</title>
+      <itunes:episode>27</itunes:episode>
+      <podcast:episode>27</podcast:episode>
+      <itunes:title>WWDC 2019 Announced! - IDB027</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1b023db3ae5e403fb1fe7d25f152dd3e</guid>
+      <link>https://share.transistor.fm/s/935ccc7b</link>
+      <description>
+        <![CDATA[<p>WWDC dates have been announced for 2019! It may be too late to get your ticket, but you can still plan to be there. Also hear topics like simplified Auto Layout and the tricky task of App Pricing, courtesy of Soor, the recently released Music app that's challenging the norm.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>WWDC dates have been announced for 2019! It may be too late to get your ticket, but you can still plan to be there. Also hear topics like simplified Auto Layout and the tricky task of App Pricing, courtesy of Soor, the recently released Music app that's challenging the norm.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 22 Mar 2019 16:02:29 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/935ccc7b/ca96dd8f.mp3" length="12588719" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/wcutayB7hD8nmRxyQjNyNfMpqLPQFzfnBPb9-uIHBEk/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NzUv/MTcwNDEzMTk5My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1027</itunes:duration>
+      <itunes:summary>WWDC dates have been announced for 2019! It may be too late to get your ticket, but you can still plan to be there. Also hear topics like simplified Auto Layout and the tricky task of App Pricing, courtesy of Soor, the recently released Music app that's challenging the norm.</itunes:summary>
+      <itunes:subtitle>WWDC dates have been announced for 2019! It may be too late to get your ticket, but you can still plan to be there. Also hear topics like simplified Auto Layout and the tricky task of App Pricing, courtesy of Soor, the recently released Music app that's c</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Playgrounds That Work. - IDB026</title>
+      <itunes:episode>26</itunes:episode>
+      <podcast:episode>26</podcast:episode>
+      <itunes:title>Playgrounds That Work. - IDB026</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">706ec610d23f4604a952cedf9dc39796</guid>
+      <link>https://share.transistor.fm/s/6cfd1575</link>
+      <description>
+        <![CDATA[<p>Tired of Xcode Playgrounds crashing on you? We've got something you're going to like! Plus: Can Apple really pull off a CloudKit and Core Data persistence solution? Also some great news and a podcast recommendation!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Tired of Xcode Playgrounds crashing on you? We've got something you're going to like! Plus: Can Apple really pull off a CloudKit and Core Data persistence solution? Also some great news and a podcast recommendation!</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 18 Feb 2019 17:21:14 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/6cfd1575/9ca5c6f2.mp3" length="13293296" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/Jv7SkNDMT7_Q28wPFwPc1M5THrsHDNfn5BEZXs5L5xs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NzQv/MTcwNDEzMTk5My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1085</itunes:duration>
+      <itunes:summary>Tired of Xcode Playgrounds crashing on you? We've got something you're going to like! Plus: Can Apple really pull off a CloudKit and Core Data persistence solution? Also some great news and a podcast recommendation!</itunes:summary>
+      <itunes:subtitle>Tired of Xcode Playgrounds crashing on you? We've got something you're going to like! Plus: Can Apple really pull off a CloudKit and Core Data persistence solution? Also some great news and a podcast recommendation!</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Code Reviews and Pomodoros - IDB025</title>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:title>Code Reviews and Pomodoros - IDB025</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5bbd3e5ed6494c0bbaac37daa32697e0</guid>
+      <link>https://share.transistor.fm/s/f4fa81f4</link>
+      <description>
+        <![CDATA[<p>Don't fear the code review process any longer! Make it work for you and your team! Also: Evan shares a super-simple productivity technique that will help you to improve your productivity in your coding. He also has a wish list item for the App Store... </p> <p>Thanks to Hover for sponsoring this episode!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Don't fear the code review process any longer! Make it work for you and your team! Also: Evan shares a super-simple productivity technique that will help you to improve your productivity in your coding. He also has a wish list item for the App Store... </p> <p>Thanks to Hover for sponsoring this episode!</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 12 Oct 2018 23:00:16 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/f4fa81f4/5507a935.mp3" length="15794152" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/u-dcHe7vSyeeoYpEWH46XOGj3OXOiXYbuTDIR-beYc0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NzMv/MTcwNDEzMTk4NC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1273</itunes:duration>
+      <itunes:summary>Don't fear the code review process any longer! Make it work for you and your team! Also: Evan shares a super-simple productivity technique that will help you to improve your productivity in your coding. He also has a wish list item for the App Store...  Thanks to Hover for sponsoring this episode!</itunes:summary>
+      <itunes:subtitle>Don't fear the code review process any longer! Make it work for you and your team! Also: Evan shares a super-simple productivity technique that will help you to improve your productivity in your coding. He also has a wish list item for the App Store...  T</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Another Facepalm Event - IDB024</title>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:title>Another Facepalm Event - IDB024</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7a8133374c95452dbe66de5acda0b0ca</guid>
+      <link>https://share.transistor.fm/s/5538f157</link>
+      <description>
+        <![CDATA[<p>Find out what's in store for Fabric! Also, learn how to fix an annoying Xcode problem resulting from downloading iOS 11.4 simulators. Would you like to run Swift without Xcode in Terminal? Try the Swift REPL. It's still a thing. Thanks to Hover for sponsoring this episode!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Find out what's in store for Fabric! Also, learn how to fix an annoying Xcode problem resulting from downloading iOS 11.4 simulators. Would you like to run Swift without Xcode in Terminal? Try the Swift REPL. It's still a thing. Thanks to Hover for sponsoring this episode!</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 01 Oct 2018 17:24:37 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/5538f157/d97950ca.mp3" length="13065947" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/v2_qfiutV_yitdB44fSS3mHwcUINxRDpCoqxeAgh4ns/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NzIv/MTcwNDEzMTk4Mi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1032</itunes:duration>
+      <itunes:summary>Find out what's in store for Fabric! Also, learn how to fix an annoying Xcode problem resulting from downloading iOS 11.4 simulators. Would you like to run Swift without Xcode in Terminal? Try the Swift REPL. It's still a thing. Thanks to Hover for sponsoring this episode!</itunes:summary>
+      <itunes:subtitle>Find out what's in store for Fabric! Also, learn how to fix an annoying Xcode problem resulting from downloading iOS 11.4 simulators. Would you like to run Swift without Xcode in Terminal? Try the Swift REPL. It's still a thing. Thanks to Hover for sponso</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://share.transistor.fm/s/5538f157/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>AutoFill 'Er Up! - IDB023</title>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:title>AutoFill 'Er Up! - IDB023</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">50bb5e08f6b44ad0944676a8925b9e6e</guid>
+      <link>https://share.transistor.fm/s/a465a64c</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break 023: AutoFill 'Er Up!</p> <p>In this episode, you'll find out about the new way to automatically fill-in authentication security codes in iOS 12! Also: a little follow-up on debugging view hierarchies. Thanks to Hover for sponsoring this episode!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break 023: AutoFill 'Er Up!</p> <p>In this episode, you'll find out about the new way to automatically fill-in authentication security codes in iOS 12! Also: a little follow-up on debugging view hierarchies. Thanks to Hover for sponsoring this episode!</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 24 Sep 2018 15:30:52 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/a465a64c/f5a0c358.mp3" length="13127326" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/DPY__DLlXrJlJNtEBZ1SbRTJ4DOc5cD6yXls8--q2v4/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NzEv/MTcwNDEzMTk4MS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1051</itunes:duration>
+      <itunes:summary>iOS Dev Break 023: AutoFill 'Er Up! In this episode, you'll find out about the new way to automatically fill-in authentication security codes in iOS 12! Also: a little follow-up on debugging view hierarchies. Thanks to Hover for sponsoring this episode!</itunes:summary>
+      <itunes:subtitle>iOS Dev Break 023: AutoFill 'Er Up! In this episode, you'll find out about the new way to automatically fill-in authentication security codes in iOS 12! Also: a little follow-up on debugging view hierarchies. Thanks to Hover for sponsoring this episode!</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Debug Your View Hierarchies - IDB022</title>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:title>Debug Your View Hierarchies - IDB022</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">33dc8d651dda4c768b11e82aa3b1a392</guid>
+      <link>https://share.transistor.fm/s/610b9170</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break 022: Debug Your View Hierarchies</p> <p>Learn about this very helpful tool that you may have seen lurking in Xcode but haven’t tried yet. Also some interesting news from Paul Hudson and Hacking With Swift!</p> <p> </p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break 022: Debug Your View Hierarchies</p> <p>Learn about this very helpful tool that you may have seen lurking in Xcode but haven’t tried yet. Also some interesting news from Paul Hudson and Hacking With Swift!</p> <p> </p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 03 Sep 2018 10:47:16 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/610b9170/f2d01452.mp3" length="13265811" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/N_jof0s2dSn5ykwKcF5QYHFPYr4pC-24PmI01rkkpqo/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NzAv/MTcwNDEzMTk4MC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1062</itunes:duration>
+      <itunes:summary>iOS Dev Break 022: Debug Your View Hierarchies Learn about this very helpful tool that you may have seen lurking in Xcode but haven’t tried yet. Also some interesting news from Paul Hudson and Hacking With Swift!    </itunes:summary>
+      <itunes:subtitle>iOS Dev Break 022: Debug Your View Hierarchies Learn about this very helpful tool that you may have seen lurking in Xcode but haven’t tried yet. Also some interesting news from Paul Hudson and Hacking With Swift!    </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Back in the Saddle Again - IDB021</title>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>Back in the Saddle Again - IDB021</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">19fbc795e7294f958e947d8e44f8fb2b</guid>
+      <link>https://share.transistor.fm/s/c13cad03</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 021: It is the Summer of WWDC 2018, and we are back!</p> <p>In this episode: Follow-up from WWDC, news and current events, and a discussion of the current state of Xcode 9 and 10!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 021: It is the Summer of WWDC 2018, and we are back!</p> <p>In this episode: Follow-up from WWDC, news and current events, and a discussion of the current state of Xcode 9 and 10!</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 05 Aug 2018 09:28:13 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/c13cad03/9132f2cb.mp3" length="14974595" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/N6mDn62IroLw1geGeHzVXqBnW7X2OHKrvomsCIOTYNw/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3Njkv/MTcwNDEzMTk4MS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1204</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 021: It is the Summer of WWDC 2018, and we are back! In this episode: Follow-up from WWDC, news and current events, and a discussion of the current state of Xcode 9 and 10!</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 021: It is the Summer of WWDC 2018, and we are back! In this episode: </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Wish List for WWDC 2018 - IDB020</title>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:title>Wish List for WWDC 2018 - IDB020</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">748676550abb42f3803b8f4a2915bd36</guid>
+      <link>https://share.transistor.fm/s/9f02770d</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 020: Wish list for WWDC 2018! Plus some unfinished business...</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 020: Wish list for WWDC 2018! Plus some unfinished business...</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 19 May 2018 18:46:27 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/9f02770d/620973e0.mp3" length="10871550" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/4ldJkLL6Tyo1Jp0w8EWkITX2xpYd02onexAi5wO2pmU/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3Njgv/MTcwNDEzMTk3NC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>884</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 020: Wish list for WWDC 2018! Plus some unfinished business...</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 020: Wish list for WWDC 2018! Plus some unfinished business...</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>WWDC 2018 Pre-Game - IDB019</title>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <itunes:title>WWDC 2018 Pre-Game - IDB019</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3b94525e3f75d43bf1dc26f13c6f727d</guid>
+      <link>https://share.transistor.fm/s/e36afb6c</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 019: Get Ready for WWDC — even if you're not attending!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 019: Get Ready for WWDC — even if you're not attending!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Sun, 29 Apr 2018 21:14:06 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/e36afb6c/4d9ee24e.mp3" length="11469994" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/h3G44yP_enNjaHRAohwKoJp62MStf-Sgj3_MuAXICB0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3Njcv/MTcwNDEzMTk3Ni1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>924</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 019: Get Ready for WWDC — even if you're not attending!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 019: Get Ready for WWDC — even if you're not attending!  </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>iOS Dev Commute No. 1 - IDB018</title>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:title>iOS Dev Commute No. 1 - IDB018</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">948a4809069d483001e2086b8b530dbe</guid>
+      <link>https://share.transistor.fm/s/a3bcb656</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 018: The commute has begun! Time to chat about templated apps, Xcode breakpoints, follow-up, and more!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 018: The commute has begun! Time to chat about templated apps, Xcode breakpoints, follow-up, and more!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Fri, 23 Mar 2018 18:36:10 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/a3bcb656/75ae8f82.mp3" length="15086433" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/qsjvW201rXGVjYSUe-KQodjESoclbN47iyGBlbVWj_0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NjYv/MTcwNDEzMTk3Ni1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1182</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 018: The commute has begun! Time to chat about templated apps, Xcode breakpoints, follow-up, and more!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 018: The commute has begun! Time to chat about templated apps, Xcode b</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Choose Wisely - IDB017</title>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:title>Choose Wisely - IDB017</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3d2ef0f76493190ace9358563c0491c5</guid>
+      <link>https://share.transistor.fm/s/94e2e31e</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 017: Choose Wisely! How the frameworks you use can affect the future of your app business. Plus news and follow-up!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 017: Choose Wisely! How the frameworks you use can affect the future of your app business. Plus news and follow-up!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Sat, 10 Feb 2018 10:58:50 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/94e2e31e/622b466d.mp3" length="11675555" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/nGuBAMO2fmKvogHh8Dc7VsuQ3LeAO9bP9NmxgYWtJhU/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NjUv/MTcwNDEzMTk3Ni1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>898</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 017: Choose Wisely! How the frameworks you use can affect the future of your app business. Plus news and follow-up!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 017: Choose Wisely! How the frameworks you use can affect the future o</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>X not X - IDB016</title>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:title>X not X - IDB016</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6ec2707da08742bbf107a02fb1c54775</guid>
+      <link>https://share.transistor.fm/s/438030c9</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 016: iPhone X arrives! plus some tips and exciting news!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 016: iPhone X arrives! plus some tips and exciting news!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Sat, 13 Jan 2018 20:22:37 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/438030c9/faa549b8.mp3" length="12751690" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/xH_94bW2WjwTC2gP_RgF3J4YVslIXvsRzBpiUEtwnVM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NjQv/MTcwNDEzMTk2OC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>988</itunes:duration>
+      <itunes:summary>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 016: iPhone X arrives! plus some tips and exciting news!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 016: iPhone X arrives! plus some tips and exciting news!  </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Whats in a Name? - IDB015</title>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:title>Whats in a Name? - IDB015</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5adf6ce18ed987ff38a22ee639211337</guid>
+      <link>https://share.transistor.fm/s/96f4d977</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 015: What's in a name? Find out in this episode! Also tips for Swift and Xcode!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 015: What's in a name? Find out in this episode! Also tips for Swift and Xcode!</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 28 Nov 2017 16:17:47 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/96f4d977/cf85aa25.mp3" length="10298174" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/f1jfILl5rYiennhbhsmP2skSwZv7wB41VwoMqVckzR0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NjMv/MTcwNDEzMTk2OC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>783</itunes:duration>
+      <itunes:summary>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 015: What's in a name? Find out in this episode! Also tips for Swift and Xcode!</itunes:summary>
+      <itunes:subtitle>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 015: What's in a name? Find out in this episode! Also tips for Swift </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Warning Signs - IDB014</title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>Warning Signs - IDB014</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">219a55b6fa5eb8b58bb35ba6bcda928f</guid>
+      <link>https://share.transistor.fm/s/879e63d2</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 014: The importance of heeding the warning signs we receive from Apple when new devices are approaching... </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 014: The importance of heeding the warning signs we receive from Apple when new devices are approaching... </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 13 Nov 2017 21:32:42 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/879e63d2/279a32da.mp3" length="11045170" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/807VlnCWajpUCwzx9ps-8kt3j9H1Pcxh30llMq0PfCU/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NjIv/MTcwNDEzMTk2NC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>845</itunes:duration>
+      <itunes:summary>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 014: The importance of heeding the warning signs we receive from Apple when new devices are approaching... </itunes:summary>
+      <itunes:subtitle>iOS Dev Break — 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 014: The importance of heeding the warning signs we receive from Appl</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>2017 September Apple Event – IDB013</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>2017 September Apple Event – IDB013</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">693509fe9569de074728fe06c7c385cc</guid>
+      <link>https://share.transistor.fm/s/9adf9a96</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 013: Thoughts and comments for iOS developers about today's Apple Event and launch of the iPhone X!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 013: Thoughts and comments for iOS developers about today's Apple Event and launch of the iPhone X!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Tue, 12 Sep 2017 22:20:54 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/9adf9a96/b4bb3669.mp3" length="19874360" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/U5sXZsda8rTakHPB8zzNw91Xl9gFKHrxtxm5xSLjLsE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NjEv/MTcwNDEzMTk2My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1581</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 013: Thoughts and comments for iOS developers about today's Apple Event and launch of the iPhone X!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 013: Thoughts and comments for iOS developers about today's Apple Even</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Secret Handshake Driven Design Strikes Again - IDB012</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>Secret Handshake Driven Design Strikes Again - IDB012</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d0c846fb47168cb3a74a0dffeb74c559</guid>
+      <link>https://share.transistor.fm/s/c7cbd2e2</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 012: Would you like to build effective user interfaces? Don't force your users to learn the secret handshake!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 012: Would you like to build effective user interfaces? Don't force your users to learn the secret handshake!</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 23 Aug 2017 21:03:15 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/c7cbd2e2/592c0f1a.mp3" length="15573745" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/MoJXI69Co2acnRdhwDAs-gdksnHBjEP6rbJgeg0aFVM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NjAv/MTcwNDEzMTk2My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1266</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 012: Would you like to build effective user interfaces? Don't force your users to learn the secret handshake!</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 012: Would you like to build effective user interfaces? Don't force yo</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Beating the Post-WWDC Blues - IDB011</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>Beating the Post-WWDC Blues - IDB011</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5978bae103133d7457c697adaf87558b</guid>
+      <link>https://share.transistor.fm/s/6f30e32b</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 011: Now that WWDC is behind us, how do you beat the Post-WWDC Blues?</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 011: Now that WWDC is behind us, how do you beat the Post-WWDC Blues?</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 09 Aug 2017 17:22:32 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/6f30e32b/6ff33d08.mp3" length="14334730" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/OLDtCp7kaC6TFBRRcBs3oOBpE-ZS3SgQPdWK1TwJhi4/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTkv/MTcwNDEzMTk1OC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1119</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 011: Now that WWDC is behind us, how do you beat the Post-WWDC Blues?</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 011: Now that WWDC is behind us, how do you beat the Post-WWDC Blues?</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>WWDC is Over. What Now? - IDB010</title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>WWDC is Over. What Now? - IDB010</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3ea1e2b4a30b5f57298bc6d5555d1174</guid>
+      <link>https://share.transistor.fm/s/5568e06e</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 010: So now that WWDC is over, what are your next steps? Evan helps you plan out a roadmap for your post-WWDC activities!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 010: So now that WWDC is over, what are your next steps? Evan helps you plan out a roadmap for your post-WWDC activities!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Wed, 14 Jun 2017 15:56:38 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/5568e06e/0c6ba049.mp3" length="11736687" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/rIZi67nlpONHQ_yenZQgDsCS0cPtCLvBbWGFoLQTFEU/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTgv/MTcwNDEzMTk1OC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>903</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 010: So now that WWDC is over, what are your next steps? Evan helps you plan out a roadmap for your post-WWDC activities!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 010: So now that WWDC is over, what are your next steps? Evan helps yo</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>It Was A Very Googly Experience - IDB009</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>It Was A Very Googly Experience - IDB009</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d289bf1b0aee257ce1631f94873b7c35</guid>
+      <link>https://share.transistor.fm/s/d87d6f84</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 009: The return of iOS Dev Break! Adventures with the Google Play Store, Swift 4 and the Codeable protocol, plus AirPods and their amazing user experience!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 009: The return of iOS Dev Break! Adventures with the Google Play Store, Swift 4 and the Codeable protocol, plus AirPods and their amazing user experience!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Thu, 01 Jun 2017 13:49:05 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/d87d6f84/7a8f497c.mp3" length="15144734" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/LBaw6mwbfQeVrUfwt775wcdNAyd810XYfB9jU0nhdXE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTcv/MTcwNDEzMTk1Ny1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1187</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 009: The return of iOS Dev Break! Adventures with the Google Play Store, Swift 4 and the Codeable protocol, plus AirPods and their amazing user experience!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 009: The return of iOS Dev Break! Adventures with the Google Play Stor</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Still Waiting for that iPad Pro - IDB008</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>Still Waiting for that iPad Pro - IDB008</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">701317a1d724ffbe54939a6d686b6c6e</guid>
+      <link>https://share.transistor.fm/s/215c0a06</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 008: Forward Swift Recap, New iPads, Two Taps, and please don't let it come to this...</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>iOS Dev Break 008: Forward Swift Recap, New iPads, Two Taps, and please don't let it come to this...</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 28 Mar 2017 13:56:27 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/215c0a06/63e375ea.mp3" length="21632108" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/_vbCbHqI7GoRCaCXyoRNdEni4F0pOKYEv96oe2ACV6Y/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTYv/MTcwNDEzMTk1Mi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1771</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 008: Forward Swift Recap, New iPads, Two Taps, and please don't let it come to this...</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. iOS Dev Break 008: Forward Swift Recap, New iPads, Two Taps, and please don't let it</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>WWDC Announced! - IDB007</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>WWDC Announced! - IDB007</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">faf6d9f2ca903e7cadc877628a9eb2eb</guid>
+      <link>https://share.transistor.fm/s/94cf1716</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: Chris Lattner's departure, WWDC 2017 announced, and a listener question!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: Chris Lattner's departure, WWDC 2017 announced, and a listener question!</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 23 Feb 2017 14:57:58 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/94cf1716/2d499a6e.mp3" length="16779600" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/h9lbCseYHuaHm_gLzkoporMoT2sVsFPbfyjPly-BuAo/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTUv/MTcwNDEzMTk1Mi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1323</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: Chris Lattner's departure, WWDC 2017 announced, and a listener question!</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: Chris Lattner's departure, WWDC 2017 announced, and a listener ques</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Pushes the Limits - IDB006</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>Apple Pushes the Limits - IDB006</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5eaa60c13b3579930de542fa92f404fa</guid>
+      <link>https://share.transistor.fm/s/409d39dd</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: Apple Pushes the Limits. Plus: Hour of Code and a cool tool!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: Apple Pushes the Limits. Plus: Hour of Code and a cool tool!</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 10 Jan 2017 14:50:57 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/409d39dd/38370f66.mp3" length="14223588" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/1ePR3gsFlXxPbKhDVyX5Lr7jkpsCAmqby92dsdu2UTo/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTQv/MTcwNDEzMTk0Ny1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1110</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: Apple Pushes the Limits. Plus: Hour of Code and a cool tool!</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: Apple Pushes the Limits. Plus: Hour of Code and a cool tool!</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Just Enough Irritation - IDB005</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>Just Enough Irritation - IDB005</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">75c207e833cf484d43de498ae6b36cb6</guid>
+      <link>https://share.transistor.fm/s/ceaaf769</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: iOS 10 Notifications and Swift Goodies!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: iOS 10 Notifications and Swift Goodies!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Sun, 18 Dec 2016 18:10:36 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/ceaaf769/ce5b9813.mp3" length="14007605" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/uo_4mlSEWklSmWhFkUImwvc15elYiBswfqu5D8ceC6s/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTMv/MTcwNDEzMTk0NS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1092</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: iOS 10 Notifications and Swift Goodies!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: iOS 10 Notifications and Swift Goodies!  </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Put It In Your Old UIKit Bag - IDB004</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>Put It In Your Old UIKit Bag - IDB004</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">df4d3faaa6fea832f91f5017c8f8b7b2</guid>
+      <link>https://share.transistor.fm/s/652ddbd7</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: Last of the Dash Saga... and New MacBook Pros!</p> <p> </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: Last of the Dash Saga... and New MacBook Pros!</p> <p> </p>]]>
+      </content:encoded>
+      <pubDate>Wed, 09 Nov 2016 14:07:50 -0800</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/652ddbd7/c1f905c1.mp3" length="13125783" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/zMoVYpVlUx2PG3dFYbGPg-YVaaICT_7PMLOwP1RQwM0/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTIv/MTcwNDEzMTk0NS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1019</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: Last of the Dash Saga... and New MacBook Pros!  </itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: Last of the Dash Saga... and New MacBook Pros!  </itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Right to Ask for an Upgrade - IDB003</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>The Right to Ask for an Upgrade - IDB003</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f560f9b0194fddb5f4fceb687f249463</guid>
+      <link>https://share.transistor.fm/s/dc9c391b</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: When is it not OK to ask for an upgrade? UX Fail of the Week! (hint: it's not an iOS app!)</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p> <p>In this episode: When is it not OK to ask for an upgrade? UX Fail of the Week! (hint: it's not an iOS app!)</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Oct 2016 17:35:26 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/dc9c391b/85335faf.mp3" length="10828565" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/MBHzbiW7TnyQ6tOreQ3Q_5nUrm0iK1LTyCzTTjfW_sc/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTEv/MTcwNDEzMTk0My1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>880</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: When is it not OK to ask for an upgrade? UX Fail of the Week! (hint: it's not an iOS app!)</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development. In this episode: When is it not OK to ask for an upgrade? UX Fail of the Week! (hint</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Become an iPhone Developer for 25 Dollars! - IDB002</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>Become an iPhone Developer for 25 Dollars! - IDB002</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4a9b3c1fad4c5f5d8851ac018ba5734b</guid>
+      <link>https://share.transistor.fm/s/0fc6219d</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 10 Oct 2016 19:28:18 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/0fc6219d/0be2b781.mp3" length="13510185" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/QoN99gZorkrzLH5N_ucPbtGohTpdPtyBUfBF4VPpXB4/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NTAv/MTcwNDEzMTkzOC1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1085</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>iPhone Feeding Frenzy! - IDB001</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>iPhone Feeding Frenzy! - IDB001</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">32693ec6af98cb0be5a023fe7be83a76</guid>
+      <link>https://share.transistor.fm/s/a847d902</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 02 Oct 2016 08:49:50 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/a847d902/a65e151c.mp3" length="12628388" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/tB5d86-AOD-yueBEJhbj27QpTulsb2TDaNjIENOZ_cs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NDkv/MTcwNDEzMTkzNi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1030</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode Zero! Introductions Are In Order - IDB000</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Episode Zero! Introductions Are In Order - IDB000</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f1074d2f1249d896f84e1acdf6119c0f</guid>
+      <link>https://share.transistor.fm/s/c5f03db8</link>
+      <description>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 21 Sep 2016 16:19:40 -0700</pubDate>
+      <author>Evan K. Stone</author>
+      <enclosure url="https://media.transistor.fm/c5f03db8/70ae34b9.mp3" length="13724633" type="audio/mpeg"/>
+      <itunes:author>Evan K. Stone</itunes:author>
+      <itunes:image href="https://img.transistor.fm/2MXU4LT6Mah4SbEMiTkpVBkCdkDZ93z9Xdab8A2FbkU/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE2Njg3NDgv/MTcwNDEzMTkzMy1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>1127</itunes:duration>
+      <itunes:summary>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</itunes:summary>
+      <itunes:subtitle>iOS Dev Break: 15 minutes of current events, tips, and advice for iOS Developers! Including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.</itunes:subtitle>
+      <itunes:keywords>technology, apple, ios development, swift</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

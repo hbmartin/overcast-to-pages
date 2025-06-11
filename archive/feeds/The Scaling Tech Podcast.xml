@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://scalingtechpod.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	>
+		<channel>
+		<title>The Scaling Tech Podcast</title>
+		<atom:link href="https://scalingtechpod.com/feed/podcast/the-scaling-tech-podcast/" rel="self" type="application/rss+xml"/>
+		<link>https://scalingtechpod.com/series/the-scaling-tech-podcast/</link>
+		<description>Host Arin Sime, along with his guests, brings you the insights you need to handle all the human and technical aspects of managing a growing software team. Whether your team is 5 engineers or 100 engineers, you’ll find the inspiration and tips to navigate the challenges of complex technical teams. When in season, new episodes drop every other Tuesday!</description>
+		<lastBuildDate>Fri, 06 Jun 2025 15:11:09 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright>©2022 ScalingTechPod</copyright>
+		<itunes:subtitle>If you’re leading a growing software engineering team, this is the podcast for you!</itunes:subtitle>
+		<itunes:author>Arin Sime</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:summary>Host Arin Sime, along with his guests, brings you the insights you need to handle all the human and technical aspects of managing a growing software team. Whether your team is 5 engineers or 100 engineers, you’ll find the inspiration and tips to navigate the challenges of complex technical teams. When in season, new episodes drop every other Tuesday!</itunes:summary>
+		<itunes:owner>
+			<itunes:name>The Scaling Tech Podcast</itunes:name>
+			<itunes:email>arin@agilityfeat.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2024/03/scaling-tech-post-01-B.png"></itunes:image>
+			<image>
+				<url>https://scalingtechpod.com/wp-content/uploads/2024/03/scaling-tech-post-01-B.png</url>
+				<title>The Scaling Tech Podcast</title>
+				<link>https://scalingtechpod.com/series/the-scaling-tech-podcast/</link>
+			</image>
+		<itunes:category text="Technology">
+		</itunes:category>
+		<itunes:category text="Business">
+							</itunes:category>
+		<googleplay:author><![CDATA[Arin Sime]]></googleplay:author>
+			<googleplay:email>arin@agilityfeat.com</googleplay:email>			<googleplay:description>Host Arin Sime, along with his guests, brings you the insights you need to handle all the human and technical aspects of managing a growing software team. Whether your team is 5 engineers or 100 engineers, you’ll find the inspiration and tips to navigate the challenges of complex technical teams. When in season, new episodes drop every other Tuesday!</googleplay:description>
+			<googleplay:explicit>No</googleplay:explicit>
+			<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2024/03/scaling-tech-post-01-B.png"></googleplay:image>
+			<podcast:locked owner="arin@agilityfeat.com">yes</podcast:locked>
+		<podcast:guid>0a5b3207-d51c-59e1-9781-abe3ec291095</podcast:guid>
+		
+		<!-- podcast_generator="SSP by Castos/3.10.3" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
+		<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<item>
+	<title>The Right Way to Encourage AI in Tech Interviews with Anna J McDougall</title>
+	<link>https://scalingtechpod.com/podcast/the-right-way-to-encourage-ai-in-tech-interviews/</link>
+	<pubDate>Thu, 29 May 2025 16:28:34 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1245</guid>
+	<description><![CDATA[AI is changing developer interviews—for better and worse. Take-home tests are becoming obsolete. CVs can&#8217;t be fully trusted. Even live interviews falter as AI helps candidates craft responses. To stay ahead of these changes, we must decide when to encourage AI in interviews, and when to limit it. It’s time to give live coding interviews [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[AI is changing developer interviews—for better and worse. Take-home tests are becoming obsolete. CVs can&#8217;t be fully trusted. Even live interviews falter as AI helps candidates craft responses. To stay ahead of these changes, we must decide when to ]]></itunes:subtitle>
+	<content:encoded><![CDATA[AI is changing developer interviews—for better and worse. Take-home tests are becoming obsolete. CVs can&#8217;t be fully trusted. Even live interviews falter as AI helps candidates craft responses. To stay ahead of these changes, we must decide when to encourage AI in interviews, and when to limit it. It’s time to give live coding interviews [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/2052425/c1e-g57dqamvp35i249gj-25nwmp1wuddj-fyxgdl.mp3" length="58568252" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[AI is changing developer interviews—for better and worse. Take-home tests are becoming obsolete. CVs can&#8217;t be fully trusted. Even live interviews falter as AI helps candidates craft responses. To stay ahead of these changes, we must decide when to encourage AI in interviews, and when to limit it. It’s time to give live coding interviews [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/05/The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall300-x-300-px.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/05/The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall300-x-300-px.png</url>
+		<title>The Right Way to Encourage AI in Tech Interviews with Anna J McDougall</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:01:01</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[AI is changing developer interviews—for better and worse. Take-home tests are becoming obsolete. CVs can&#8217;t be fully trusted. Even live interviews falter as AI helps candidates craft responses. To stay ahead of these changes, we must decide when to encourage AI in interviews, and when to limit it. It’s time to give live coding interviews [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/05/The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall300-x-300-px.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>How Product Management Can Help Teams Tackle Tech Debt</title>
+	<link>https://scalingtechpod.com/podcast/how-product-management-can-help-teams-tackle-tech-debt/</link>
+	<pubDate>Wed, 02 Apr 2025 16:00:47 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1223</guid>
+	<description><![CDATA[Every team has to deal with tech debt, and they take a variety of approaches to how they address it within their team, and how involved product management is in those decisions. How should you allocate time for working on tech debt? Should it be represented on your roadmap? How should you prioritize tech debt [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Every team has to deal with tech debt, and they take a variety of approaches to how they address it within their team, and how involved product management is in those decisions. How should you allocate time for working on tech debt? Should it be represen]]></itunes:subtitle>
+	<content:encoded><![CDATA[Every team has to deal with tech debt, and they take a variety of approaches to how they address it within their team, and how involved product management is in those decisions. How should you allocate time for working on tech debt? Should it be represented on your roadmap? How should you prioritize tech debt [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/2006747/c1e-3xo32tk30zqbkqp7m-rkzw8jkda47x-xd4yhy.mp3" length="54083851" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Every team has to deal with tech debt, and they take a variety of approaches to how they address it within their team, and how involved product management is in those decisions. How should you allocate time for working on tech debt? Should it be represented on your roadmap? How should you prioritize tech debt [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png</url>
+		<title>How Product Management Can Help Teams Tackle Tech Debt</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:56:21</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Every team has to deal with tech debt, and they take a variety of approaches to how they address it within their team, and how involved product management is in those decisions. How should you allocate time for working on tech debt? Should it be represented on your roadmap? How should you prioritize tech debt [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Mastering Tech Debt with Lou Franco of Greenwave Solution</title>
+	<link>https://scalingtechpod.com/podcast/mastering-tech-debt-with-lou-franco-of-greenwave-solution-ep52/</link>
+	<pubDate>Tue, 04 Mar 2025 11:00:01 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1166</guid>
+	<description><![CDATA[Technical debt is a reality we all face in software development. It’s something we all manage, constantly making trade-offs about when and how to best tackle it. Today, we’re diving into the best team practices for addressing tech debt with expert software engineering leader Lou Franco.  Lou is a software product development advisor and independent [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Technical debt is a reality we all face in software development. It’s something we all manage, constantly making trade-offs about when and how to best tackle it. Today, we’re diving into the best team practices for addressing tech debt with expert softwa]]></itunes:subtitle>
+	<content:encoded><![CDATA[Technical debt is a reality we all face in software development. It’s something we all manage, constantly making trade-offs about when and how to best tackle it. Today, we’re diving into the best team practices for addressing tech debt with expert software engineering leader Lou Franco.  Lou is a software product development advisor and independent [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/1983851/c1e-0984majpz8vb6q5z7-8dw3532dcxjk-uzz0um.mp3" length="71040750" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Technical debt is a reality we all face in software development. It’s something we all manage, constantly making trade-offs about when and how to best tackle it. Today, we’re diving into the best team practices for addressing tech debt with expert software engineering leader Lou Franco.  Lou is a software product development advisor and independent [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/02/EP-52-audio-thumbnail.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/02/EP-52-audio-thumbnail.png</url>
+		<title>Mastering Tech Debt with Lou Franco of Greenwave Solution</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:49:05</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Technical debt is a reality we all face in software development. It’s something we all manage, constantly making trade-offs about when and how to best tackle it. Today, we’re diving into the best team practices for addressing tech debt with expert software engineering leader Lou Franco.  Lou is a software product development advisor and independent [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/02/EP-52-audio-thumbnail.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>LLM Strategy: Build vs. Buy with Jean-Louis Quéguiner of Gladia</title>
+	<link>https://scalingtechpod.com/podcast/llm-strategy-build-vs-buy-with-jean-louis-queguiner-of-gladia-ep51/</link>
+	<pubDate>Tue, 18 Feb 2025 11:00:30 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1161</guid>
+	<description><![CDATA[The “build vs. buy” dilemma is a familiar challenge to software engineers, but with the rapid growth of AI and machine learning, it’s become even more nuanced. So, how should you approach this? We’ve got the perfect guest today to help you out! Meet Jean-Louis Quéguiner, Founder and CEO of Gladia. Gladia specializes in building [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[The “build vs. buy” dilemma is a familiar challenge to software engineers, but with the rapid growth of AI and machine learning, it’s become even more nuanced. So, how should you approach this? We’ve got the perfect guest today to help you out! Meet Jean]]></itunes:subtitle>
+	<content:encoded><![CDATA[The “build vs. buy” dilemma is a familiar challenge to software engineers, but with the rapid growth of AI and machine learning, it’s become even more nuanced. So, how should you approach this? We’ve got the perfect guest today to help you out! Meet Jean-Louis Quéguiner, Founder and CEO of Gladia. Gladia specializes in building [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/1973868/c1e-20xo1f85pgxhqp39x-8dwg74z4txmn-qjd7x4.mp3" length="72783122" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[The “build vs. buy” dilemma is a familiar challenge to software engineers, but with the rapid growth of AI and machine learning, it’s become even more nuanced. So, how should you approach this? We’ve got the perfect guest today to help you out! Meet Jean-Louis Quéguiner, Founder and CEO of Gladia. Gladia specializes in building [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/02/EP-51-audio-thumbnail-.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/02/EP-51-audio-thumbnail-.png</url>
+		<title>LLM Strategy: Build vs. Buy with Jean-Louis Quéguiner of Gladia</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:50:17</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[The “build vs. buy” dilemma is a familiar challenge to software engineers, but with the rapid growth of AI and machine learning, it’s become even more nuanced. So, how should you approach this? We’ve got the perfect guest today to help you out! Meet Jean-Louis Quéguiner, Founder and CEO of Gladia. Gladia specializes in building [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/02/EP-51-audio-thumbnail-.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Prompt Engineering for LLMs: Best Practices With John Berryman of Arcturus Labs</title>
+	<link>https://scalingtechpod.com/podcast/prompt-engineering-for-llms-best-practices-with-john-berryman-of-arcturus-labs-ep50/</link>
+	<pubDate>Tue, 04 Feb 2025 11:00:20 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1150</guid>
+	<description><![CDATA[Episode Summary LLMs are bringing so much to the table right now, with the potential to solve complex problems and automate tasks like never before. But getting the most out of these models requires new skills. And today, we’ve got just the expert to help you do that! Meet John Berryman, a true leader in [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Episode Summary LLMs are bringing so much to the table right now, with the potential to solve complex problems and automate tasks like never before. But getting the most out of these models requires new skills. And today, we’ve got just the expert to hel]]></itunes:subtitle>
+	<content:encoded><![CDATA[Episode Summary LLMs are bringing so much to the table right now, with the potential to solve complex problems and automate tasks like never before. But getting the most out of these models requires new skills. And today, we’ve got just the expert to help you do that! Meet John Berryman, a true leader in [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/1966066/c1e-q17xni2127vandd70-okw80nj9ijgj-7hkg1l.mp3" length="74608906" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Episode Summary LLMs are bringing so much to the table right now, with the potential to solve complex problems and automate tasks like never before. But getting the most out of these models requires new skills. And today, we’ve got just the expert to help you do that! Meet John Berryman, a true leader in [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/02/EP-50-AUDIO-THUMBNAIL-.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/02/EP-50-AUDIO-THUMBNAIL-.png</url>
+		<title>Prompt Engineering for LLMs: Best Practices With John Berryman of Arcturus Labs</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:51:41</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Episode Summary LLMs are bringing so much to the table right now, with the potential to solve complex problems and automate tasks like never before. But getting the most out of these models requires new skills. And today, we’ve got just the expert to help you do that! Meet John Berryman, a true leader in [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/02/EP-50-AUDIO-THUMBNAIL-.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Leading Through Change With Lisa Rogoff of Launch Project</title>
+	<link>https://scalingtechpod.com/podcast/leading-through-change-with-lisa-rogoff-of-launch-project-ep49/</link>
+	<pubDate>Tue, 21 Jan 2025 11:00:50 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1147</guid>
+	<description><![CDATA[Episode Summary Change is a constant in every organization, but how leaders respond to it can truly define the outcome.  Today, we’re joined by Lisa Rogoff, an expert in guiding leaders through times of transition and complexity. Lisa is the founder of Launch Project, a certified executive coach, consultant, and facilitator with over 20 years [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Episode Summary Change is a constant in every organization, but how leaders respond to it can truly define the outcome.  Today, we’re joined by Lisa Rogoff, an expert in guiding leaders through times of transition and complexity. Lisa is the founder of L]]></itunes:subtitle>
+	<content:encoded><![CDATA[Episode Summary Change is a constant in every organization, but how leaders respond to it can truly define the outcome.  Today, we’re joined by Lisa Rogoff, an expert in guiding leaders through times of transition and complexity. Lisa is the founder of Launch Project, a certified executive coach, consultant, and facilitator with over 20 years [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/1946934/c1e-0984maj99wkh6v9oz-8dwq76w9anqv-4mssnt.mp3" length="67271897" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Episode Summary Change is a constant in every organization, but how leaders respond to it can truly define the outcome.  Today, we’re joined by Lisa Rogoff, an expert in guiding leaders through times of transition and complexity. Lisa is the founder of Launch Project, a certified executive coach, consultant, and facilitator with over 20 years [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/01/EP49.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/01/EP49.png</url>
+		<title>Leading Through Change With Lisa Rogoff of Launch Project</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:46:26</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Episode Summary Change is a constant in every organization, but how leaders respond to it can truly define the outcome.  Today, we’re joined by Lisa Rogoff, an expert in guiding leaders through times of transition and complexity. Lisa is the founder of Launch Project, a certified executive coach, consultant, and facilitator with over 20 years [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/01/EP49.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>The Role of AI in Tech Teams with Mike Todasco of San Diego State University</title>
+	<link>https://scalingtechpod.com/podcast/the-role-of-ai-in-tech-teams-with-mike-todasco-of-san-diego-state-university-ep48/</link>
+	<pubDate>Tue, 07 Jan 2025 11:00:08 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1130</guid>
+	<description><![CDATA[AI has the potential to amplify our skills, spark our creativity, and help us innovate faster than ever before—if we use it right.  In this episode of the Scaling Tech podcast, Arin sits down with Mike Todasco to discuss the use of AI in tech teams. Mike is a visiting fellow at San Diego State [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[AI has the potential to amplify our skills, spark our creativity, and help us innovate faster than ever before—if we use it right.  In this episode of the Scaling Tech podcast, Arin sits down with Mike Todasco to discuss the use of AI in tech teams. Mike]]></itunes:subtitle>
+	<content:encoded><![CDATA[AI has the potential to amplify our skills, spark our creativity, and help us innovate faster than ever before—if we use it right.  In this episode of the Scaling Tech podcast, Arin sits down with Mike Todasco to discuss the use of AI in tech teams. Mike is a visiting fellow at San Diego State [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/1935224/c1e-vw908h91w0pi39zd1-gpw2qo23txd4-viv9bq.mp3" length="69412290" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[AI has the potential to amplify our skills, spark our creativity, and help us innovate faster than ever before—if we use it right.  In this episode of the Scaling Tech podcast, Arin sits down with Mike Todasco to discuss the use of AI in tech teams. Mike is a visiting fellow at San Diego State [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/01/ep-48-audio-thumbnail.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/01/ep-48-audio-thumbnail.png</url>
+		<title>The Role of AI in Tech Teams with Mike Todasco of San Diego State University</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:48:12</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[AI has the potential to amplify our skills, spark our creativity, and help us innovate faster than ever before—if we use it right.  In this episode of the Scaling Tech podcast, Arin sits down with Mike Todasco to discuss the use of AI in tech teams. Mike is a visiting fellow at San Diego State [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/01/ep-48-audio-thumbnail.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Leading Effective One-On-Ones With Doug Ramirez</title>
+	<link>https://scalingtechpod.com/podcast/leading-effective-one-on-ones-with-doug-ramirez-ep47/</link>
+	<pubDate>Fri, 20 Dec 2024 19:00:16 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1118</guid>
+	<description><![CDATA[One-on-ones are one of the most powerful tools a leader has for driving both team and organizational growth. But without a clear and intentional approach, they can easily become just another meeting on the calendar. That’s why we’re thrilled to welcome Doug Ramirez to the podcast! Doug has a proven structured approach to leading impactful [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[One-on-ones are one of the most powerful tools a leader has for driving both team and organizational growth. But without a clear and intentional approach, they can easily become just another meeting on the calendar. That’s why we’re thrilled to welcome D]]></itunes:subtitle>
+	<content:encoded><![CDATA[One-on-ones are one of the most powerful tools a leader has for driving both team and organizational growth. But without a clear and intentional approach, they can easily become just another meeting on the calendar. That’s why we’re thrilled to welcome Doug Ramirez to the podcast! Doug has a proven structured approach to leading impactful [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/1924593/c1e-80nm7f969vzt9x0jn-7zkp05jku34k-2ws1p0.mp3" length="69356875" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[One-on-ones are one of the most powerful tools a leader has for driving both team and organizational growth. But without a clear and intentional approach, they can easily become just another meeting on the calendar. That’s why we’re thrilled to welcome Doug Ramirez to the podcast! Doug has a proven structured approach to leading impactful [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/EP46-1.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2024/12/EP46-1.png</url>
+		<title>Leading Effective One-On-Ones With Doug Ramirez</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:47:45</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[One-on-ones are one of the most powerful tools a leader has for driving both team and organizational growth. But without a clear and intentional approach, they can easily become just another meeting on the calendar. That’s why we’re thrilled to welcome Doug Ramirez to the podcast! Doug has a proven structured approach to leading impactful [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/EP46-1.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Will GenAI Be Your Next Scrum Master?</title>
+	<link>https://scalingtechpod.com/podcast/will-genai-be-your-next-scrum-master-ep46-a/</link>
+	<pubDate>Tue, 10 Dec 2024 14:11:15 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1220</guid>
+	<description><![CDATA[Generative AI is already transforming the way Agile teams operate. How far can it go? Can it take over the role of Scrumaster? In this special live episode of the Scaling Tech Podcast, host Arin Sime welcomes back past guest Sanjiv Augustine for a thought provoking discussion on hoe GenAI is shaping the future of [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Generative AI is already transforming the way Agile teams operate. How far can it go? Can it take over the role of Scrumaster? In this special live episode of the Scaling Tech Podcast, host Arin Sime welcomes back past guest Sanjiv Augustine for a though]]></itunes:subtitle>
+	<content:encoded><![CDATA[Generative AI is already transforming the way Agile teams operate. How far can it go? Can it take over the role of Scrumaster? In this special live episode of the Scaling Tech Podcast, host Arin Sime welcomes back past guest Sanjiv Augustine for a thought provoking discussion on hoe GenAI is shaping the future of [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/2006685/c1e-vw908h7jr1otwznk4-qdwjzr25tz5-qi7oc6.mp3" length="41271730" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Generative AI is already transforming the way Agile teams operate. How far can it go? Can it take over the role of Scrumaster? In this special live episode of the Scaling Tech Podcast, host Arin Sime welcomes back past guest Sanjiv Augustine for a thought provoking discussion on hoe GenAI is shaping the future of [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png</url>
+		<title>Will GenAI Be Your Next Scrum Master?</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:43:00</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Generative AI is already transforming the way Agile teams operate. How far can it go? Can it take over the role of Scrumaster? In this special live episode of the Scaling Tech Podcast, host Arin Sime welcomes back past guest Sanjiv Augustine for a thought provoking discussion on hoe GenAI is shaping the future of [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Mastering True Agility with Johanna Rothman of Rothman Consulting Group</title>
+	<link>https://scalingtechpod.com/podcast/mastering-true-agility-with-johanna-rothman-of-rothman-consulting-group-ep46/</link>
+	<pubDate>Tue, 10 Dec 2024 11:00:06 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1111</guid>
+	<description><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility really looks like with our guest, Johanna Rothman. Johanna is known as the “Pragmatic Manager,” [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility ]]></itunes:subtitle>
+	<content:encoded><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility really looks like with our guest, Johanna Rothman. Johanna is known as the “Pragmatic Manager,” [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/1917314/c1e-jq7kwsqzoo0b5wo2n-471npj56hg7x-x0wrkd.mp3" length="70503010" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility really looks like with our guest, Johanna Rothman. Johanna is known as the “Pragmatic Manager,” [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/1_1-EP46.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2024/12/1_1-EP46.png</url>
+		<title>Mastering True Agility with Johanna Rothman of Rothman Consulting Group</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:48:45</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility really looks like with our guest, Johanna Rothman. Johanna is known as the “Pragmatic Manager,” [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/1_1-EP46.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+	</channel>
+</rss>

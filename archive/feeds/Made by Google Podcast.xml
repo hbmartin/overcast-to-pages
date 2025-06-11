@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+		<ttl>60</ttl>
+		<generator>acast.com</generator>
+		<title>Made by Google Podcast</title>
+		<link>https://shows.acast.com/made-by-google-podcast</link>
+		<atom:link href="https://feeds.acast.com/public/shows/63e39eb02e631f0011a284ac" rel="self" type="application/rss+xml"/>
+		<language>en</language>
+		<copyright>Google</copyright>
+		<itunes:keywords/>
+		<itunes:author>Google</itunes:author>
+		<itunes:subtitle/>
+		<itunes:summary><![CDATA[<p>Dive into the world of Google: Every week, Rachid Finge talks to fellow Googlers about the latest #MadeByGoogle projects.The result? An exciting look behind the scenes.</p><br><p>In a snackable&nbsp;15 to 20 minutes, they explain how custom-designed hardware, powerful software and advances in artificial intelligence combine to create helpful -- and sometimes magical -- experiences for their users. Each episode promises insights, tips and tricks, a bit of nerd knowledge, and an anecdote or two. Listen to a new episode every Monday.</p><br><p>Get more information about the Made by Google products here:&nbsp;<a href="http://store.google.com/" rel="noopener noreferrer" target="_blank">store.google.com</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		<description><![CDATA[<p>Dive into the world of Google: Every week, Rachid Finge talks to fellow Googlers about the latest #MadeByGoogle projects.The result? An exciting look behind the scenes.</p><br><p>In a snackable&nbsp;15 to 20 minutes, they explain how custom-designed hardware, powerful software and advances in artificial intelligence combine to create helpful -- and sometimes magical -- experiences for their users. Each episode promises insights, tips and tricks, a bit of nerd knowledge, and an anecdote or two. Listen to a new episode every Monday.</p><br><p>Get more information about the Made by Google products here:&nbsp;<a href="http://store.google.com/" rel="noopener noreferrer" target="_blank">store.google.com</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Google</itunes:name>
+			<itunes:email>laura@digitaldeconstructed.co.uk</itunes:email>
+		</itunes:owner>
+		<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+		<acast:showUrl>made-by-google-podcast</acast:showUrl>
+		<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+		<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmTHg2/BXqPr07kkpFZ5JfhvEZqggcpunI6E1w81XpUaBscFc3skEQ0jWG4GCmQYJ66w6pH6P/aGd3DnpJN6h/CD4icd8kZVl4HZn12KicA2k]]></acast:settings>
+		<acast:importedFeed>https://made-by-google-podcast.podigee.io/feed/mp3</acast:importedFeed>
+		<itunes:type>episodic</itunes:type>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/show-cover.jpg"/>
+			<image>
+				<url>https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/show-cover.jpg</url>
+				<link>https://shows.acast.com/made-by-google-podcast</link>
+				<title>Made by Google Podcast</title>
+			</image>
+			<itunes:new-feed-url>https://feeds.acast.com/public/shows/63e39eb02e631f0011a284ac</itunes:new-feed-url>
+		<item>
+			<title>June Pixel Drop: All Your Favorites Are VIPs!</title>
+			<itunes:title>June Pixel Drop: All Your Favorites Are VIPs!</itunes:title>
+			<pubDate>Tue, 10 Jun 2025 18:00:00 GMT</pubDate>
+			<itunes:duration>10:41</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6848488d9b8dde68cd1bbe84/media.mp3" length="25680216" type="audio/mpeg"/>
+			<guid isPermaLink="false">6848488d9b8dde68cd1bbe84</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/6848488d9b8dde68cd1bbe84</link>
+			<acast:episodeId>6848488d9b8dde68cd1bbe84</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcwDMj5PBilU1heiyOvaFdpicq5DSkYHNTcJ7oh3QDu049nZ8H067xOZwZycSXonfkGcvOuDK5GxoPV4VMXsPBGx]]></acast:settings>
+			<itunes:subtitle>Aisha Sharif on the June Pixel Drop</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>7</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1749567502872-00f0edb8-b9e5-49a7-9a2f-34d52a50cc69.jpeg"/>
+			<description><![CDATA[Android 16 is here, and with it comes a brand new Pixel Drop! Learn more about the latest features we added to the Pixel universe, which includes a whole new way to stay in touch with the VIPs in your life. Pixel Product Manager Aisha Sharif also has more to share on smarter notifications, improvements to Expressive Captions, and more.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Android 16 is here, and with it comes a brand new Pixel Drop! Learn more about the latest features we added to the Pixel universe, which includes a whole new way to stay in touch with the VIPs in your life. Pixel Product Manager Aisha Sharif also has more to share on smarter notifications, improvements to Expressive Captions, and more.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>The Android Show: I/O Edition</title>
+			<itunes:title>The Android Show: I/O Edition</itunes:title>
+			<pubDate>Tue, 13 May 2025 20:30:33 GMT</pubDate>
+			<itunes:duration>22:56</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/68236e55f368620d455b9f27/media.mp3" length="55087100" type="audio/mpeg"/>
+			<guid isPermaLink="false">68236e55f368620d455b9f27</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/68236e55f368620d455b9f27</link>
+			<acast:episodeId>68236e55f368620d455b9f27</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcwcoOfhXWiSIOYfOUuy8wS5fMXEJkfJmqN5Bze7nhbmMpcfj/IU4MNz/q8LfYbD4SrD1W79Dquap5y5RcuYJ7L/]]></acast:settings>
+			<itunes:subtitle><![CDATA[Seang Chau on what's new from The Android Show: I/O Edition]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>7</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1747152414717-2fb259fd-6dec-423c-bb6a-b3474a452b56.jpeg"/>
+			<description><![CDATA[Missed The Android Show: I/O Edition? Rachid and Seang have you covered! They dive deep into the gorgeous Material 3 Expressive design, explain the latest Gemini AI advancements and where it's headed, and break down the latest safety and security features protecting your Android device. Don't get left behind – listen now!<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Missed The Android Show: I/O Edition? Rachid and Seang have you covered! They dive deep into the gorgeous Material 3 Expressive design, explain the latest Gemini AI advancements and where it's headed, and break down the latest safety and security features protecting your Android device. Don't get left behind – listen now!<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Pixel 9a: AI Smarts, Even Smarter Price</title>
+			<itunes:title>Pixel 9a: AI Smarts, Even Smarter Price</itunes:title>
+			<pubDate>Wed, 19 Mar 2025 14:00:00 GMT</pubDate>
+			<itunes:duration>16:30</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/67d980f48e0ad1dccd81d4f0/media.mp3" length="39645910" type="audio/mpeg"/>
+			<guid isPermaLink="false">67d980f48e0ad1dccd81d4f0</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/67d980f48e0ad1dccd81d4f0</link>
+			<acast:episodeId>67d980f48e0ad1dccd81d4f0</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczRUNWsGqOFXq0XYBYLYvq5KNFo384VSfURlq3XN9DyaONwX6ij48LpB5x3ym4kztjnGGO7W82zC5K6ET8AjAUW]]></acast:settings>
+			<itunes:subtitle>Soniya Jobanputra on Pixel 9a</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>7</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1742307421108-da187c0b-62d3-4328-992c-190076f5d300.jpeg"/>
+			<description><![CDATA[<p>Get the inside scoop on the Pixel 9a, the phone that brings Google AI to everyone. We unpack the features that make this phone a standout, including Gemini integration, AI-powered photography, and enhanced safety features. </p><br><p>Discover how the Tensor G4 chip delivers a seamless user experience, learn about brand new family-friendly features, and hear about the design choices that make the 9a unique. </p><br><p>#Pixel9aReview #GoogleAI #GeminiLive #TensorG4 #TechUnboxing #MadeByGoogle</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Get the inside scoop on the Pixel 9a, the phone that brings Google AI to everyone. We unpack the features that make this phone a standout, including Gemini integration, AI-powered photography, and enhanced safety features. </p><br><p>Discover how the Tensor G4 chip delivers a seamless user experience, learn about brand new family-friendly features, and hear about the design choices that make the 9a unique. </p><br><p>#Pixel9aReview #GoogleAI #GeminiLive #TensorG4 #TechUnboxing #MadeByGoogle</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>March Feature Drop: Updates for Gemini Live, Scam Detection and more!</title>
+			<itunes:title>March Feature Drop: Updates for Gemini Live, Scam Detection and more!</itunes:title>
+			<pubDate>Thu, 13 Mar 2025 07:00:00 GMT</pubDate>
+			<itunes:duration>9:08</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/67d1c0a8fa7cec3676c15cd3/media.mp3" length="8790750" type="audio/mpeg"/>
+			<guid isPermaLink="false">67d1c0a8fa7cec3676c15cd3</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/67d1c0a8fa7cec3676c15cd3</link>
+			<acast:episodeId>67d1c0a8fa7cec3676c15cd3</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcwsWaNqIRrydx23D1OMN5KAAEVtEIzIk6uhJ6eVb9stYXk46rwcEwgljaYDb8b5LbG8237MWc6N9wuDaz1mX2lL]]></acast:settings>
+			<itunes:subtitle>Aisha Sharif on the March Pixel Feature Drop</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>7</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1741799564923-8b84b059-d92c-49be-9be8-6700ea5a48ac.jpeg"/>
+			<description><![CDATA[<p>Unpack the March Pixel Feature Drop: AI-powered scam detection via on-device Gemini, expanded Satellite SOS for emergency situations, new family and productivity features, Pixel Watch updates, and GoPro connectivity. </p><br><p>See how Pixel continues to innovate and enhance user experience. </p><br><p>#PixelFeatureDrop #GeminiAI #SatelliteSOS #PixelUpdates</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Unpack the March Pixel Feature Drop: AI-powered scam detection via on-device Gemini, expanded Satellite SOS for emergency situations, new family and productivity features, Pixel Watch updates, and GoPro connectivity. </p><br><p>See how Pixel continues to innovate and enhance user experience. </p><br><p>#PixelFeatureDrop #GeminiAI #SatelliteSOS #PixelUpdates</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Loss of Pulse: AI's Life-Saving Role on Pixel Watch]]></title>
+			<itunes:title><![CDATA[Loss of Pulse: AI's Life-Saving Role on Pixel Watch]]></itunes:title>
+			<pubDate>Wed, 26 Feb 2025 16:00:00 GMT</pubDate>
+			<itunes:duration>18:08</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/67befe523beb1d146395d186/media.mp3" length="17421970" type="audio/mpeg"/>
+			<guid isPermaLink="false">67befe523beb1d146395d186</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/67befe523beb1d146395d186</link>
+			<acast:episodeId>67befe523beb1d146395d186</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczjbEiFPlrTPnxqibTKZk1fGF2CCfvvMnliFa6AVGYgwm9BXV1JtZlmCT+yuylenowKA0vWdSxk6h1+D5e1FIPt]]></acast:settings>
+			<itunes:subtitle>Jake Sunshine and Florence Thng on Loss of Pulse</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>7</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1740570010756-7719fb79-4ecf-4dd1-8208-aae806f6af97.jpeg"/>
+			<description><![CDATA[<p>Go behind the scenes of the Pixel Watch 3's most impactful, AI-enhanced feature yet: Loss of Pulse Detection, now FDA-approved for availability in the USA. </p><br><p>We sit down with the scientists and product leads to discuss the inspiration, the technical hurdles, and the ethical considerations involved in creating a feature that could save lives. Discover how this AI-driven technology can detect a loss of pulse and automatically alert emergency services, potentially making all the difference in a critical situation. Learn how to enable this feature and why it's so important. </p><br><p>Subscribe to the MadeByGoogle podcast for more stories of innovation and the people behind Google products and services.</p><br><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Go behind the scenes of the Pixel Watch 3's most impactful, AI-enhanced feature yet: Loss of Pulse Detection, now FDA-approved for availability in the USA. </p><br><p>We sit down with the scientists and product leads to discuss the inspiration, the technical hurdles, and the ethical considerations involved in creating a feature that could save lives. Discover how this AI-driven technology can detect a loss of pulse and automatically alert emergency services, potentially making all the difference in a critical situation. Learn how to enable this feature and why it's so important. </p><br><p>Subscribe to the MadeByGoogle podcast for more stories of innovation and the people behind Google products and services.</p><br><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Google Home's AI Revolution]]></title>
+			<itunes:title><![CDATA[Google Home's AI Revolution]]></itunes:title>
+			<pubDate>Tue, 05 Nov 2024 09:00:45 GMT</pubDate>
+			<itunes:duration>29:21</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/67292619d95ef82dfa3fb5bc/media.mp3" length="70498142" type="audio/mpeg"/>
+			<guid isPermaLink="false">67292619d95ef82dfa3fb5bc</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/67292619d95ef82dfa3fb5bc</link>
+			<acast:episodeId>67292619d95ef82dfa3fb5bc</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcw7OfY391LJWGXnAgqnU/6BHZ2AEhvbWGXseKrEYn9WgK653nasMF+NO0mtnXN7Li3yWgR0ekWZZsrCZIh6cZEJ]]></acast:settings>
+			<itunes:subtitle>Anish Kattukaran on Google Home</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1730749862049-5c1448ca-6873-43b4-a629-c8f31485f053.jpeg"/>
+			<description><![CDATA[<p>Google Home is getting a major upgrade! Anish Kattukaran joins Rachid Finge to discuss the integration of Gemini AI into Nest cameras and thermostats, enabling more intelligent notifications, natural language search, and proactive home monitoring.&nbsp;</p><br><p>Explore the new era of home automation with "Help Me Create," designed to make setting up routines a breeze. Plus, get an inside look at the latest Nest Learning Thermostat and Google TV streamer. Don't miss this glimpse into the future of connected living!</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Google Home is getting a major upgrade! Anish Kattukaran joins Rachid Finge to discuss the integration of Gemini AI into Nest cameras and thermostats, enabling more intelligent notifications, natural language search, and proactive home monitoring.&nbsp;</p><br><p>Explore the new era of home automation with "Help Me Create," designed to make setting up routines a breeze. Plus, get an inside look at the latest Nest Learning Thermostat and Google TV streamer. Don't miss this glimpse into the future of connected living!</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[The Pixel Weather App: It's Raining Features!]]></title>
+			<itunes:title><![CDATA[The Pixel Weather App: It's Raining Features!]]></itunes:title>
+			<pubDate>Tue, 29 Oct 2024 09:00:59 GMT</pubDate>
+			<itunes:duration>27:02</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/671fc1b0f5102672206869ed/media.mp3" length="64930925" type="audio/mpeg"/>
+			<guid isPermaLink="false">671fc1b0f5102672206869ed</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/671fc1b0f5102672206869ed</link>
+			<acast:episodeId>671fc1b0f5102672206869ed</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczKuq+x/DF2xDAMA+Sd/s2UzvDxnRTzO6bpqrJIvIvDKGPxQu4aoIxpkwiyaJera4EKUYFeYNQyZ/QhIG6hdTtP]]></acast:settings>
+			<itunes:subtitle>Kristi Bradford on the Pixel Weather App</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1730134408546-62abdc0a-04bb-48d0-adad-562b23a61637.jpeg"/>
+			<description><![CDATA[<p>The Pixel Weather app is more than just a forecast. It's a personalised experience that uses AI to provide you with the information you need, when you need it. </p><br><p>In this episode, we talk to Kristi Bradford about the app's innovative features, including the AI weather report, the customizable data blocks, and the immersive haptic feedback. Plus, we discuss the future of the app and what new features users can expect.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>The Pixel Weather app is more than just a forecast. It's a personalised experience that uses AI to provide you with the information you need, when you need it. </p><br><p>In this episode, we talk to Kristi Bradford about the app's innovative features, including the AI weather report, the customizable data blocks, and the immersive haptic feedback. Plus, we discuss the future of the app and what new features users can expect.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Android: Outsmarting Phone Thieves with AI</title>
+			<itunes:title>Android: Outsmarting Phone Thieves with AI</itunes:title>
+			<pubDate>Tue, 15 Oct 2024 16:00:57 GMT</pubDate>
+			<itunes:duration>18:43</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/670f661ac9fa3ffd9ecca6af/media.mp3" length="44956714" type="audio/mpeg"/>
+			<guid isPermaLink="false">670f661ac9fa3ffd9ecca6af</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/670f661ac9fa3ffd9ecca6af</link>
+			<acast:episodeId>670f661ac9fa3ffd9ecca6af</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcw2YIDW2Z/t7WLGKoWWCyommaYpzFyORI5of6006NPGfTZDmXf/ndjVlYFkkDVaSdHOtmQ32hTdR3HPF5K4m+It]]></acast:settings>
+			<itunes:subtitle>Sandra Guo on Theft Detection</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1729062388696-ec6d26e9-c261-4e3c-9ed6-611d57a248d3.jpeg"/>
+			<description><![CDATA[<p>Every day, countless phones are stolen, and the problem is only getting worse. </p><br><p>Sandra Guo, Product Manager for Android security, joins Rachid to discuss how Android&nbsp;is fighting back with new features like Theft Detection Lock, Remote Lock, and Offline Device Lock. </p><br><p>Learn how these innovations use AI and your phone's sensors to outsmart thieves and keep your data safe. You can turn on theft protection features on your Android 10+ device here:&nbsp;<a href="https://www.android.com/settings/theftprotection" rel="noopener noreferrer" target="_blank">https://www.android.com/settings/theftprotection</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Every day, countless phones are stolen, and the problem is only getting worse. </p><br><p>Sandra Guo, Product Manager for Android security, joins Rachid to discuss how Android&nbsp;is fighting back with new features like Theft Detection Lock, Remote Lock, and Offline Device Lock. </p><br><p>Learn how these innovations use AI and your phone's sensors to outsmart thieves and keep your data safe. You can turn on theft protection features on your Android 10+ device here:&nbsp;<a href="https://www.android.com/settings/theftprotection" rel="noopener noreferrer" target="_blank">https://www.android.com/settings/theftprotection</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Pixel Buds Pro 2: Redefining Comfort, Sound, and Hands-Free AI</title>
+			<itunes:title>Pixel Buds Pro 2: Redefining Comfort, Sound, and Hands-Free AI</itunes:title>
+			<pubDate>Mon, 30 Sep 2024 08:00:13 GMT</pubDate>
+			<itunes:duration>21:05</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/66f6596c067f94ba3f9e8128/media.mp3" length="50651553" type="audio/mpeg"/>
+			<guid isPermaLink="false">66f6596c067f94ba3f9e8128</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/66f6596c067f94ba3f9e8128</link>
+			<acast:episodeId>66f6596c067f94ba3f9e8128</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcyNN41295r26rPTSLn+X/kp5gixMrblfKAGz/V67qA5fN1MZ6htOO3eES8/676faYFHyyrynTXyM3TQMqIuLJ8H]]></acast:settings>
+			<itunes:subtitle>Colin Billings on Pixel Buds Pro 2</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1727420721286-9e622760-49d3-48d6-8bc3-439a5bb0bf38.jpeg"/>
+			<description><![CDATA[Get ready to experience audio like never before. In this episode, we explore the making of the Pixel Buds Pro 2. Colin Billings takes us behind the scenes, sharing the team's journey to create earbuds that are comfortable, sound incredible, and seamlessly integrate with Gemini. Discover how Google is pushing the boundaries of audio technology and redefining what's possible with earbuds.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Get ready to experience audio like never before. In this episode, we explore the making of the Pixel Buds Pro 2. Colin Billings takes us behind the scenes, sharing the team's journey to create earbuds that are comfortable, sound incredible, and seamlessly integrate with Gemini. Discover how Google is pushing the boundaries of audio technology and redefining what's possible with earbuds.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Pixel Watch 3: A 'Timely' Upgrade for Your Wrist]]></title>
+			<itunes:title><![CDATA[Pixel Watch 3: A 'Timely' Upgrade for Your Wrist]]></itunes:title>
+			<pubDate>Mon, 09 Sep 2024 07:00:13 GMT</pubDate>
+			<itunes:duration>28:03</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/66d8bf529c7d98a7f89d6fd2/media.mp3" length="67362263" type="audio/mpeg"/>
+			<guid isPermaLink="false">66d8bf529c7d98a7f89d6fd2</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/66d8bf529c7d98a7f89d6fd2</link>
+			<acast:episodeId>66d8bf529c7d98a7f89d6fd2</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcxZUlXNTFpt1CqYcyHr7ksuMGHCUso1YTvrIYyK2foBtHkx6yxl0AsAbHWASB7KwDJZ258Byrcdk0TFgkNIyGQA]]></acast:settings>
+			<itunes:subtitle>Noah Presler on Pixel Watch 3</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1725480741401-56076d31-96ee-452f-be5f-b1f76901975c.jpeg"/>
+			<description><![CDATA[Noah Presler, Product Manager for Pixel Watch, shares his journey from Google Meet hardware to leading the development of Pixel Watch 3. Learn about the inspiration behind the new sizes and colours, the advanced fitness tracking capabilities, and the deeper integration with the Google ecosystem. Tune in now!<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Noah Presler, Product Manager for Pixel Watch, shares his journey from Google Meet hardware to leading the development of Pixel Watch 3. Learn about the inspiration behind the new sizes and colours, the advanced fitness tracking capabilities, and the deeper integration with the Google ecosystem. Tune in now!<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title> Pixel 9 Pro Fold: The Next Generation of Foldable Phones</title>
+			<itunes:title> Pixel 9 Pro Fold: The Next Generation of Foldable Phones</itunes:title>
+			<pubDate>Tue, 03 Sep 2024 07:00:03 GMT</pubDate>
+			<itunes:duration>19:20</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/66d4c151d4bfadabd6ce3b12/media.mp3" length="46424455" type="audio/mpeg"/>
+			<guid isPermaLink="false">66d4c151d4bfadabd6ce3b12</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/66d4c151d4bfadabd6ce3b12</link>
+			<acast:episodeId>66d4c151d4bfadabd6ce3b12</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcy6w6vrkFTlmqtdjsY0ntC8hpqr5TUPUupugW2qp+2OtAGYhF2KipfPC8CX+sJt0q8QILQ/OnJpJrTAjDHc9ZUm]]></acast:settings>
+			<itunes:subtitle>George Hwang on the Pixel 9 Pro Fold</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1725219028805-1e6c64ed-701b-4711-ae3f-d849660b1fd1.jpeg"/>
+			<description><![CDATA[On the Made by Google podcast, Rachid chats with George Hwang about the Pixel 9 Pro Fold. They discuss the phone's design, features, and who it's for. George highlights the slimmer build, better hinge, and improved display. He also details camera upgrades and unique foldable features. The episode ends with George sharing his top tip for multitasking on the Pixel 9 Pro Fold.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[On the Made by Google podcast, Rachid chats with George Hwang about the Pixel 9 Pro Fold. They discuss the phone's design, features, and who it's for. George highlights the slimmer build, better hinge, and improved display. He also details camera upgrades and unique foldable features. The episode ends with George sharing his top tip for multitasking on the Pixel 9 Pro Fold.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[The Pixel 9 Family: What's New?]]></title>
+			<itunes:title><![CDATA[The Pixel 9 Family: What's New?]]></itunes:title>
+			<pubDate>Wed, 21 Aug 2024 07:00:02 GMT</pubDate>
+			<itunes:duration>22:01</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/66c4e1bac297ce076df0df8d/media.mp3" length="52871511" type="audio/mpeg"/>
+			<guid isPermaLink="false">66c4e1bac297ce076df0df8d</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/66c4e1bac297ce076df0df8d</link>
+			<acast:episodeId>66c4e1bac297ce076df0df8d</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczV1F1HFqoIbqBWBtk5ZSSkYY+2M6JJgid2RfIqXU/KJdzBwNQ7JYCYzjNnmd9EgfORRys4g7H2HX2MGzpG63tl]]></acast:settings>
+			<itunes:subtitle>Stephanie Scott takes an in-depth look at the Pixel 9, Pixel 9 Pro and Pixel 9 Pro XL</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1724178029385-bdf0400f-dae5-49a4-ae5b-89720ba136b8.jpeg"/>
+			<description><![CDATA[Join Rachid and Stephanie, a product manager for the Pixel 9 Pro, as they explore the latest and greatest features of Google's&nbsp;latest smartphones. From the stunning design and durable build to the cutting-edge Gemini Nano AI and powerful camera system, Stephanie provides an in-depth look at what makes the Pixel 9 Pro a standout device. Discover the magic behind features like Magic Editor, Call Notes, and satellite SOS, and learn how Gemini Nano enhances your Pixel experience.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Join Rachid and Stephanie, a product manager for the Pixel 9 Pro, as they explore the latest and greatest features of Google's&nbsp;latest smartphones. From the stunning design and durable build to the cutting-edge Gemini Nano AI and powerful camera system, Stephanie provides an in-depth look at what makes the Pixel 9 Pro a standout device. Discover the magic behind features like Magic Editor, Call Notes, and satellite SOS, and learn how Gemini Nano enhances your Pixel experience.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>MadeByGoogle Unpacked: Insider Guide to the New Lineup</title>
+			<itunes:title>MadeByGoogle Unpacked: Insider Guide to the New Lineup</itunes:title>
+			<pubDate>Wed, 14 Aug 2024 07:00:52 GMT</pubDate>
+			<itunes:duration>35:22</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/66bbb6a69c1f916f7e7e9c18/media.mp3" length="84908420" type="audio/mpeg"/>
+			<guid isPermaLink="false">66bbb6a69c1f916f7e7e9c18</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/66bbb6a69c1f916f7e7e9c18</link>
+			<acast:episodeId>66bbb6a69c1f916f7e7e9c18</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcxXAu6qqNNUW+aNcQfOEeymU9u4FRpkGoJ9/75AlHEsrHtQjqV2UTwZVlpKrzhCgOPzwblRL/KD+zZhj6fPoLUL]]></acast:settings>
+			<itunes:subtitle>Brian Rakowski on all things Pixel from the latest Made By Google event</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1723577862685-2eca819f-a445-4f60-855d-a5535cb9fde3.jpeg"/>
+			<description><![CDATA[Brian Rakowski, the product manager behind Pixel, joins us to discuss the Made by Google event and all the new products. From the Pixel 9 and 9 Pro to the Pixel 9 Pro Fold, Pixel Watch 3, and Pixel Buds Pro 2, Brian gives us an inside look at the design, features, and AI capabilities that make these devices truly exceptional. He also shares the origin story of Pixel and its journey from computational photography to the groundbreaking Gemini era.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Brian Rakowski, the product manager behind Pixel, joins us to discuss the Made by Google event and all the new products. From the Pixel 9 and 9 Pro to the Pixel 9 Pro Fold, Pixel Watch 3, and Pixel Buds Pro 2, Brian gives us an inside look at the design, features, and AI capabilities that make these devices truly exceptional. He also shares the origin story of Pixel and its journey from computational photography to the groundbreaking Gemini era.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Google AI phone at unbeatable value</title>
+			<itunes:title>Google AI phone at unbeatable value</itunes:title>
+			<pubDate>Thu, 16 May 2024 11:00:47 GMT</pubDate>
+			<itunes:duration>21:40</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/66434eb7c29cb300126d06dd/media.mp3" length="52022820" type="audio/mpeg"/>
+			<guid isPermaLink="false">66434eb7c29cb300126d06dd</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/66434eb7c29cb300126d06dd</link>
+			<acast:episodeId>66434eb7c29cb300126d06dd</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcxSSq26Xfkn3XWMaDfEwZkuZhVCg4Bv5SKn33Nllt5nPoCo44kslPC0ol9NBEIKZAEBo/UnVvg9ofWwJ7jx6dvI]]></acast:settings>
+			<itunes:subtitle>Soniya Jobanputra on Pixel 8a</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1715687062514-5db4df676eb5ac9240dd2087ec142e8c.jpeg"/>
+			<description><![CDATA[<p>Join us as we sit down with a special guest from Google to uncover the secrets of the Pixel 8a, the latest addition to the Pixel family. </p><br><p>We delve deep into what makes this mid-range marvel stand out, from its powerful AI capabilities and impressive camera to its commitment to sustainability and long-term software support. </p><br><p>Discover how the Pixel 8a is redefining value in the smartphone market, bringing flagship features to a more accessible price point.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Join us as we sit down with a special guest from Google to uncover the secrets of the Pixel 8a, the latest addition to the Pixel family. </p><br><p>We delve deep into what makes this mid-range marvel stand out, from its powerful AI capabilities and impressive camera to its commitment to sustainability and long-term software support. </p><br><p>Discover how the Pixel 8a is redefining value in the smartphone market, bringing flagship features to a more accessible price point.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Don't Trash It, Fix It! The Right to Repair Revolution]]></title>
+			<itunes:title><![CDATA[Don't Trash It, Fix It! The Right to Repair Revolution]]></itunes:title>
+			<pubDate>Mon, 06 May 2024 11:00:42 GMT</pubDate>
+			<itunes:duration>26:06</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/663393aae9604e0012e05efe/media.mp3" length="62686493" type="audio/mpeg"/>
+			<guid isPermaLink="false">663393aae9604e0012e05efe</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/663393aae9604e0012e05efe</link>
+			<acast:episodeId>663393aae9604e0012e05efe</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcwdu5bJ6dfqyRoxaXKXwqk2YrqQCN7k3gFhdam+usnAGjFuVp2VQzEW/hzjiTXdVXQ7b6RIoelVzh5j2wclkF5K]]></acast:settings>
+			<itunes:subtitle>Steven Nickel on Right to Repair</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1714656149235-993cc2b1d9d99ed86957ef40cc822a1c.jpeg"/>
+			<description><![CDATA[<p>Ready for a tech world where you can fix what you own? &nbsp; Join us as we celebrate the Right to Repair movement, and push for a more sustainable and consumer-friendly future.</p><br><p>We'll explore why repairing should be easy, affordable, and a joyful act of ownership and how Google is driving meaningful changes in legislation to support a consumer's right to repair.</p><br><p>We'll uncover the hidden potential of the things we already have and how fixing them ourselves empowers us.&nbsp; Plus, we'll spotlight a tech leader changing the game: Google's Pixel. Learn how Pixel is being designed from the ground up to make its phones easier to repair and help usher in a new era of repairable tech.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Ready for a tech world where you can fix what you own? &nbsp; Join us as we celebrate the Right to Repair movement, and push for a more sustainable and consumer-friendly future.</p><br><p>We'll explore why repairing should be easy, affordable, and a joyful act of ownership and how Google is driving meaningful changes in legislation to support a consumer's right to repair.</p><br><p>We'll uncover the hidden potential of the things we already have and how fixing them ourselves empowers us.&nbsp; Plus, we'll spotlight a tech leader changing the game: Google's Pixel. Learn how Pixel is being designed from the ground up to make its phones easier to repair and help usher in a new era of repairable tech.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Wrist Revolution: Making the most of your Pixel Watch</title>
+			<itunes:title>Wrist Revolution: Making the most of your Pixel Watch</itunes:title>
+			<pubDate>Thu, 25 Apr 2024 11:00:24 GMT</pubDate>
+			<itunes:duration>16:48</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6629203cd8674c00121f82e5/media.mp3" length="40350694" type="audio/mpeg"/>
+			<guid isPermaLink="false">6629203cd8674c00121f82e5</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/6629203cd8674c00121f82e5</link>
+			<acast:episodeId>6629203cd8674c00121f82e5</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcz0TDffsvw5TNNldfR66yKwIi3VUazwIoPP6rvcApVlmJ1VZjG0rLLBThnTPstOMUIap1qGkDTvcPL24IGNkHyM]]></acast:settings>
+			<itunes:subtitle>Ryan Krems on Wear OS</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1713971211017-ede23c7aaed48e52fd0ec4339b52a799.jpeg"/>
+			<description><![CDATA[<p>Join us as we sit down with Ryan Krems, a product manager with over a decade of experience in the world of wearables. </p><br><p>From his early days at Fitbit to the Google Pixel Watch, Ryan shares his unique insights into the incredible transformation of wearable technology. </p><br><p>Discover how constraints like battery life and size have been overcome, and how wearables have evolved from simple health trackers to powerful, all-day companions. </p><br><p>We'll explore the role of Wear OS, the integration of Fitbit's health features, and get a glimpse into the exciting future of wearable innovation.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Join us as we sit down with Ryan Krems, a product manager with over a decade of experience in the world of wearables. </p><br><p>From his early days at Fitbit to the Google Pixel Watch, Ryan shares his unique insights into the incredible transformation of wearable technology. </p><br><p>Discover how constraints like battery life and size have been overcome, and how wearables have evolved from simple health trackers to powerful, all-day companions. </p><br><p>We'll explore the role of Wear OS, the integration of Fitbit's health features, and get a glimpse into the exciting future of wearable innovation.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Circle (or highlight or scribble) to Search</title>
+			<itunes:title>Circle (or highlight or scribble) to Search</itunes:title>
+			<pubDate>Mon, 15 Apr 2024 11:00:17 GMT</pubDate>
+			<itunes:duration>16:37</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/661d659b7b6cf20017867508/media.mp3" length="39930666" type="audio/mpeg"/>
+			<guid isPermaLink="false">661d659b7b6cf20017867508</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/661d659b7b6cf20017867508</link>
+			<acast:episodeId>661d659b7b6cf20017867508</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczcnAu1BsKznvmlGFzgMAi46hKrrxLagd1t4TJUbWzVtVzDgP30vYy1eRQAnubNQjFiWQGQXie1R38I995oPVAZ]]></acast:settings>
+			<itunes:subtitle>Erin Lynch and Alistair Pott on Circle to Search</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1713202440142-59391cebfe3e6724babed43fb17a666d.jpeg"/>
+			<description><![CDATA[<p>Struggling to find what you need on your phone? There's a new sheriff in town, and its name is Circle to Search!&nbsp; </p><br><p>This episode dives into this game-changing feature that lets you ditch the app-switching shuffle and search directly from your screen.&nbsp;Imagine – spotting a delicious recipe on Instagram, circling the dish, and instantly finding it online.&nbsp;Or seeing a head-turning outfit on TikTok and hunting down similar styles with a tap.&nbsp; </p><br><p>Join us as we explore the power of Circle to Search and unlock a whole new way to search on Android!</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Struggling to find what you need on your phone? There's a new sheriff in town, and its name is Circle to Search!&nbsp; </p><br><p>This episode dives into this game-changing feature that lets you ditch the app-switching shuffle and search directly from your screen.&nbsp;Imagine – spotting a delicious recipe on Instagram, circling the dish, and instantly finding it online.&nbsp;Or seeing a head-turning outfit on TikTok and hunting down similar styles with a tap.&nbsp; </p><br><p>Join us as we explore the power of Circle to Search and unlock a whole new way to search on Android!</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Get Ready to 'Wow!' Pixel Video Boost Upgrades Your Videos]]></title>
+			<itunes:title><![CDATA[Get Ready to 'Wow!' Pixel Video Boost Upgrades Your Videos]]></itunes:title>
+			<pubDate>Wed, 03 Apr 2024 11:00:35 GMT</pubDate>
+			<itunes:duration>17:44</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/660c2c6209a48d00160fc3df/media.mp3" length="42597084" type="audio/mpeg"/>
+			<guid isPermaLink="false">660c2c6209a48d00160fc3df</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/660c2c6209a48d00160fc3df</link>
+			<acast:episodeId>660c2c6209a48d00160fc3df</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcx8jtMCgkdA7V1/HC2r7VpAhuS97ydbT3Y0W0U6nwGiXa/vu+1b/QX0nAwkWeKWiPKX+ozGmZrARSdrEu4UPOAT]]></acast:settings>
+			<itunes:subtitle>Kevin Fu and Lillian Chen on Video Boost</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1712073757677-4d2c0249af43a964cd55c25d999e9b0f.jpeg"/>
+			<description><![CDATA[Tired of disappointing videos that look grainy and shaky? Pixel 8 Pro's Video Boost is here to transform your footage!&nbsp;We spoke with product managers Kevin Fu and Lillian Chen, who revealed the secret sauce: by harnessing the power of the cloud, Video Boost applies Google's advanced HDR+ algorithm to the entirety of your video. The result? Studio-quality visuals, even in challenging low-light situations.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Tired of disappointing videos that look grainy and shaky? Pixel 8 Pro's Video Boost is here to transform your footage!&nbsp;We spoke with product managers Kevin Fu and Lillian Chen, who revealed the secret sauce: by harnessing the power of the cloud, Video Boost applies Google's advanced HDR+ algorithm to the entirety of your video. The result? Studio-quality visuals, even in challenging low-light situations.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Tired of Outdated Phones? The Pixel's 7-Year Update Plan Might Be Your Answer]]></title>
+			<itunes:title><![CDATA[Tired of Outdated Phones? The Pixel's 7-Year Update Plan Might Be Your Answer]]></itunes:title>
+			<pubDate>Thu, 28 Mar 2024 15:00:50 GMT</pubDate>
+			<itunes:duration>20:52</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6602fa6073a3a40017353c91/media.mp3" length="30070686" type="audio/mpeg"/>
+			<guid isPermaLink="false">6602fa6073a3a40017353c91</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/6602fa6073a3a40017353c91</link>
+			<acast:episodeId>6602fa6073a3a40017353c91</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcwr1XXu1KPwPXgJZe4NwXlNnua4fsaGaHRg14Ul69VSly4rgEHDPVpg5R1Yvgc/g5q4PR/Q0N8dBkc9LIFJZ8TY]]></acast:settings>
+			<itunes:subtitle><![CDATA[Seang Chau on Pixel's 7-Year Update Plan]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1711471110259-c6b7db5a7378b785bc975630e2d46668.jpeg"/>
+			<description><![CDATA[Google recently made a splash by announcing an industry-leading 7 years of software updates for its Pixel smartphones. But what does this actually mean for users? In this episode, we sit down with Seang Chau, Google's VP of Devices &amp; Services Software, to break down this unprecedented move. <hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Google recently made a splash by announcing an industry-leading 7 years of software updates for its Pixel smartphones. But what does this actually mean for users? In this episode, we sit down with Seang Chau, Google's VP of Devices &amp; Services Software, to break down this unprecedented move. <hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Conquering Your Zzz's with Fitbit]]></title>
+			<itunes:title><![CDATA[Conquering Your Zzz's with Fitbit]]></itunes:title>
+			<pubDate>Mon, 18 Mar 2024 12:00:03 GMT</pubDate>
+			<itunes:duration>22:31</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/65f5824aceba4000189d9996/media.mp3" length="32447359" type="audio/mpeg"/>
+			<guid isPermaLink="false">65f5824aceba4000189d9996</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/65f5824aceba4000189d9996</link>
+			<acast:episodeId>65f5824aceba4000189d9996</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczWDE86GObnMG4ZYWaE9qoY0vevCn54lQczOL4iLnp1lMFKk6tSBjlchD5X7THZFRUSZKEVY8/Mr0eViLrwGXvC]]></acast:settings>
+			<itunes:subtitle>Logan Scheider and Conor Heneghan on Sleep</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1710588470497-a688c67bde9108f5ff54842ec6877adf.jpeg"/>
+			<description><![CDATA[&nbsp;March is Sleep Awareness Month, and with busy schedules and endless to-do lists, quality sleep often gets pushed aside. But this year, Fitbit is here to help you prioritize your slumber and unlock the power of a good night's rest. Learn more from Dr. Conor Heneghan, PhD, Senior Staff Research Scientist, and Dr. Logan Schneider, M.D., Clinical Lead for Sleep Health.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[&nbsp;March is Sleep Awareness Month, and with busy schedules and endless to-do lists, quality sleep often gets pushed aside. But this year, Fitbit is here to help you prioritize your slumber and unlock the power of a good night's rest. Learn more from Dr. Conor Heneghan, PhD, Senior Staff Research Scientist, and Dr. Logan Schneider, M.D., Clinical Lead for Sleep Health.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Sounds Like Pixel Perfect: Designing the Sonic Identity of Your Google Phone</title>
+			<itunes:title>Sounds Like Pixel Perfect: Designing the Sonic Identity of Your Google Phone</itunes:title>
+			<pubDate>Tue, 12 Mar 2024 12:00:24 GMT</pubDate>
+			<itunes:duration>24:02</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/65f00b685c21d60016a8b7e0/media.mp3" length="34626737" type="audio/mpeg"/>
+			<guid isPermaLink="false">65f00b685c21d60016a8b7e0</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/65f00b685c21d60016a8b7e0</link>
+			<acast:episodeId>65f00b685c21d60016a8b7e0</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczpLYepcMPEDcFv/jpmL35ipW1Z3+HCHAKzxwJRIlyaSjOFs3Hm/lG8zqFGQDk9gkk/sbyNYOMURo8EZ3hlk5qd]]></acast:settings>
+			<itunes:subtitle><![CDATA[Conor O'Sullivan on Pixel Sounds]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1710230236781-001f64df84d8cb0bd606d995ac85342d.jpeg"/>
+			<description><![CDATA[Have you ever stopped to appreciate the satisfying clicks, chimes, and melodies that bring your Pixel phone to life? In this episode, we journey into the unseen world of sound design with the Pixel Sounds team, the talented minds behind the unique auditory identity of your Google phone.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Have you ever stopped to appreciate the satisfying clicks, chimes, and melodies that bring your Pixel phone to life? In this episode, we journey into the unseen world of sound design with the Pixel Sounds team, the talented minds behind the unique auditory identity of your Google phone.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Get Ready to Fall in Love with Your Pixel (Again)</title>
+			<itunes:title>Get Ready to Fall in Love with Your Pixel (Again)</itunes:title>
+			<pubDate>Mon, 04 Mar 2024 19:00:59 GMT</pubDate>
+			<itunes:duration>10:28</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/65e5f441f8da1700162a0deb/media.mp3" length="25167253" type="audio/mpeg"/>
+			<guid isPermaLink="false">65e5f441f8da1700162a0deb</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/65e5f441f8da1700162a0deb</link>
+			<acast:episodeId>65e5f441f8da1700162a0deb</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcz+8wxgIGR/1urHq9GlklwiZRdXXOph1MU+ZnkKYqT9j7lYDkA/TUhOg9gMtes21CYYwgXR28j4y6T2qhdlDqED]]></acast:settings>
+			<itunes:subtitle>DeCarlos Love and Aisha Sharif on the March Feature Drop</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1709569069255-5c71cedc28df0d1deb5fcf57cc108d91.jpeg"/>
+			<description><![CDATA[<p>Pixel fans, hold onto your hats! The March Feature Drop is here, and we're diving into the coolest new features. </p><br><p>From new productivity tools to advanced health features, prepare to be wowed!</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Pixel fans, hold onto your hats! The March Feature Drop is here, and we're diving into the coolest new features. </p><br><p>From new productivity tools to advanced health features, prepare to be wowed!</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Superfans Ask: Your Questions Answered</title>
+			<itunes:title>Superfans Ask: Your Questions Answered</itunes:title>
+			<pubDate>Mon, 04 Dec 2023 12:00:51 GMT</pubDate>
+			<itunes:duration>11:06</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/656d8ef8b22d3a0012886c05/media.mp3" length="26656700" type="audio/mpeg"/>
+			<guid isPermaLink="false">656d8ef8b22d3a0012886c05</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/656d8ef8b22d3a0012886c05</link>
+			<acast:episodeId>656d8ef8b22d3a0012886c05</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczGG/9+SJ3S+w8X2O+7ym+2iIM7/ARMdZfVBvmcDGRs9i+OSTGFUgD0f+6XKUdXtkUVOjFlv/U6kDJwPTJYC2Rp]]></acast:settings>
+			<itunes:subtitle>Pixel Superfans AMA</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1701678787897-9b6e4548414d62277c7aebb5f85d4ffe.jpeg"/>
+			<description><![CDATA[<p>Join us as we answer questions submitted by our passionate Pixel Superfan community. We'll cover a wide range of topics, from the latest Pixel features to your most burning questions about Google's hardware and software ecosystem. Whether you're a seasoned Pixel user or just curious about what all the buzz is about, this episode is for you.</p><br><p>Learn more about Pixel Superfans here:</p><p><a href="https://store.google.com/intl/en/ideas/pixel-superfans/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/pixel-superfans/</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Join us as we answer questions submitted by our passionate Pixel Superfan community. We'll cover a wide range of topics, from the latest Pixel features to your most burning questions about Google's hardware and software ecosystem. Whether you're a seasoned Pixel user or just curious about what all the buzz is about, this episode is for you.</p><br><p>Learn more about Pixel Superfans here:</p><p><a href="https://store.google.com/intl/en/ideas/pixel-superfans/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/pixel-superfans/</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Chip Chat</title>
+			<itunes:title>Chip Chat</itunes:title>
+			<pubDate>Thu, 23 Nov 2023 12:00:09 GMT</pubDate>
+			<itunes:duration>21:47</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/655f3cf2a653df00123d3a32/media.mp3" length="52305987" type="audio/mpeg"/>
+			<guid isPermaLink="false">655f3cf2a653df00123d3a32</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/655f3cf2a653df00123d3a32</link>
+			<acast:episodeId>655f3cf2a653df00123d3a32</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcz1Atpx5PGCIHBPpsyZvC+wweeqItK9Ryn7mh3Gkzv23hrF5ajZGJTCKBEumckdqZl/vemvbQ3MmBvXGtIsyqb+]]></acast:settings>
+			<itunes:subtitle>Prasad Modali on the Tensor chip</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1700740265097-61b89b160487d676c882b29081bd5513.jpeg"/>
+			<description><![CDATA[New chip, new episode with Prasad! Rachid Finge is sitting down with Prasad Modali,&nbsp; one of the experts behind Tensor, to learn about the powerhouse chip that’s powering Pixel’s latest devices.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[New chip, new episode with Prasad! Rachid Finge is sitting down with Prasad Modali,&nbsp; one of the experts behind Tensor, to learn about the powerhouse chip that’s powering Pixel’s latest devices.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Pixel Watch: Keeping You Safe and Sound</title>
+			<itunes:title>Pixel Watch: Keeping You Safe and Sound</itunes:title>
+			<pubDate>Thu, 02 Nov 2023 12:00:59 GMT</pubDate>
+			<itunes:duration>18:27</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/65434bca58f3b50012cddb40/media.mp3" length="44318649" type="audio/mpeg"/>
+			<guid isPermaLink="false">65434bca58f3b50012cddb40</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/65434bca58f3b50012cddb40</link>
+			<acast:episodeId>65434bca58f3b50012cddb40</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcwSrDHHahQEDELeko5QDlQ+Q0Gw59diKq2QD0zoJlSR172nc62P0mgS7yiHNj1Vq9stxs2wThtXk5fD6sJ6NOA/]]></acast:settings>
+			<itunes:subtitle>Jill Fairchild on safety features on Pixel Watch 2</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1698909065295-c5036c8e57615b1ac488a249467378d5.jpeg"/>
+			<description><![CDATA[This week, Pixel Safety expert Jill Fairchild&nbsp;joins Rachid to discuss how the latest safety updates on the Google Pixel Watch 2 came to life, including new features like Safety Check and Emergency Sharing.&nbsp;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[This week, Pixel Safety expert Jill Fairchild&nbsp;joins Rachid to discuss how the latest safety updates on the Google Pixel Watch 2 came to life, including new features like Safety Check and Emergency Sharing.&nbsp;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>You Sound Great</title>
+			<itunes:title>You Sound Great</itunes:title>
+			<pubDate>Thu, 26 Oct 2023 11:00:59 GMT</pubDate>
+			<itunes:duration>16:48</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6538d11dde930600115018f2/media.mp3" length="40351457" type="audio/mpeg"/>
+			<guid isPermaLink="false">6538d11dde930600115018f2</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/6538d11dde930600115018f2</link>
+			<acast:episodeId>6538d11dde930600115018f2</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcxOPO4JOZE8+ZsA8+ySyCfI2UhPcvwh28+ZTHBi0KtPCbptww3GYH6bxxh6wT22fqoGoHeBqVoyHXw2IDswDu/D]]></acast:settings>
+			<itunes:subtitle>Pol Peiffer on Pixel Buds Pro</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1698222168888-b03ace3404a5fcb840bc4ba239e99d1a.jpeg"/>
+			<description><![CDATA[You’re going to want to hear this! Make some noise for Pol Peiffer, product manager, who joins host Rachid Finge to walk us through the latest feature updates and improvements to Pixel Buds Pro.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[You’re going to want to hear this! Make some noise for Pol Peiffer, product manager, who joins host Rachid Finge to walk us through the latest feature updates and improvements to Pixel Buds Pro.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Heart Rate Tracking: A Whole New Pulse</title>
+			<itunes:title>Heart Rate Tracking: A Whole New Pulse</itunes:title>
+			<pubDate>Thu, 19 Oct 2023 11:00:38 GMT</pubDate>
+			<itunes:duration>18:14</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/652fcc726520850012b984c7/media.mp3" length="43775973" type="audio/mpeg"/>
+			<guid isPermaLink="false">652fcc726520850012b984c7</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/652fcc726520850012b984c7</link>
+			<acast:episodeId>652fcc726520850012b984c7</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczVD/3EtS+qCoS84tZ3uGLxYeAWNYvuSkaV9SRsgs7QNc7kGRmMGpZBToqzWyXsnUYWcHLjOKDPfYZUn2GR0pUz]]></acast:settings>
+			<itunes:subtitle>DeCarlos Love on Pixel Watch</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1697631242349-6c03e22576b76b8fa736bf0886617a72.jpeg"/>
+			<description><![CDATA[<p>Our next guest doesn’t miss a beat - DeCarlos Love, product management lead for Fitbit and Google Pixel Watch, returns to the MBG Podcast to answer all our questions about heart rate tracking. Join host Rachid Finge as we discover how Google and Fitbit developed the best heart rate tracking yet!</p><br><p>To learn more visit:&nbsp;<a href="https://store.google.com/intl/en/ideas/articles/pixel-watch-2/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/pixel-watch-2</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Our next guest doesn’t miss a beat - DeCarlos Love, product management lead for Fitbit and Google Pixel Watch, returns to the MBG Podcast to answer all our questions about heart rate tracking. Join host Rachid Finge as we discover how Google and Fitbit developed the best heart rate tracking yet!</p><br><p>To learn more visit:&nbsp;<a href="https://store.google.com/intl/en/ideas/articles/pixel-watch-2/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/pixel-watch-2</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Audio Magic Eraser: Erase the Noise, Keep the Voice</title>
+			<itunes:title>Audio Magic Eraser: Erase the Noise, Keep the Voice</itunes:title>
+			<pubDate>Thu, 12 Oct 2023 11:00:39 GMT</pubDate>
+			<itunes:duration>15:20</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/652651aeac8f7d0012b8a4e2/media.mp3" length="36842355" type="audio/mpeg"/>
+			<guid isPermaLink="false">652651aeac8f7d0012b8a4e2</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/652651aeac8f7d0012b8a4e2</link>
+			<acast:episodeId>652651aeac8f7d0012b8a4e2</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcxGAmi2xT5DDsBZtpA//urV9WmRau+4XB65PYiGKzu5DantasZJ5qcB/ZNmY0JVG4ea6QziYPpO+dp5EhJ5VaX9]]></acast:settings>
+			<itunes:subtitle>Lu Silverstein and Lillian Chen on Audio Magic Eraser</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1697009958641-c1dd1466c8c0bcfc61386beec279953d.jpeg"/>
+			<description><![CDATA[<p>The wind at the beach, the noisy crowd at a concert. If they're ruining your videos, then Audio Magic Eraser, sister-feature to the ever-popular Magic Eraser, is here to&nbsp;the rescue. Lu Silverstein and Lillian Chen join Rachid to chat about how this feature came to be - and the AI of it all!</p><br><p>Learn more about how AI-powered video and photo editing tools on Pixel phones can help your content stand out on social media <a href="https://store.google.com/intl/en/ideas/articles/magic-editor/" rel="noopener noreferrer" target="_blank">here</a>.</p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>The wind at the beach, the noisy crowd at a concert. If they're ruining your videos, then Audio Magic Eraser, sister-feature to the ever-popular Magic Eraser, is here to&nbsp;the rescue. Lu Silverstein and Lillian Chen join Rachid to chat about how this feature came to be - and the AI of it all!</p><br><p>Learn more about how AI-powered video and photo editing tools on Pixel phones can help your content stand out on social media <a href="https://store.google.com/intl/en/ideas/articles/magic-editor/" rel="noopener noreferrer" target="_blank">here</a>.</p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Magic Editor: Conjure Up Stunning Photos with AI</title>
+			<itunes:title>Magic Editor: Conjure Up Stunning Photos with AI</itunes:title>
+			<pubDate>Thu, 05 Oct 2023 11:00:38 GMT</pubDate>
+			<itunes:duration>15:00</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/651d822309346500103e856f/media.mp3" length="36045528" type="audio/mpeg"/>
+			<guid isPermaLink="false">651d822309346500103e856f</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/made-by-google-podcast/episodes/651d822309346500103e856f</link>
+			<acast:episodeId>651d822309346500103e856f</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsoxhINu4Ad7VkAnsB5MGv7azIr1y6inUCcKVG1YrMgQc2a9h+XdoRTlPD0nvgUpGKTE1rTtvsebfKUymZrtYB1CH+KraUoKTVc9g+CVomaWA=]]></acast:settings>
+			<itunes:subtitle>Zachary Senzer on Magic Editor</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1696432616768-3fad770b00f3fb6bd4a35415ed691b31.jpeg"/>
+			<description><![CDATA[<p>Magic Editor cast a spell over many of us when first teased at Google I/O, and we’re thrilled to see it released following the Made By Google event! Zachary Senzer, Senior Product Manager for Google Photos, joins host Rachid Finge to discuss the team behind the feature, why it was created and exactly how the “magic” works.</p><br><p>Learn more here: <a href="https://store.google.com/intl/en/ideas/articles/magic-editor/" rel="noopener noreferrer" target="_blank">A magical new way to become a top creator</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Magic Editor cast a spell over many of us when first teased at Google I/O, and we’re thrilled to see it released following the Made By Google event! Zachary Senzer, Senior Product Manager for Google Photos, joins host Rachid Finge to discuss the team behind the feature, why it was created and exactly how the “magic” works.</p><br><p>Learn more here: <a href="https://store.google.com/intl/en/ideas/articles/magic-editor/" rel="noopener noreferrer" target="_blank">A magical new way to become a top creator</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Folding in Your Questions</title>
+			<itunes:title>Folding in Your Questions</itunes:title>
+			<pubDate>Mon, 24 Jul 2023 11:00:30 GMT</pubDate>
+			<itunes:duration>15:44</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/64a813cba1be3e00114dea63/media.mp3" length="37860864" type="audio/mpeg"/>
+			<guid isPermaLink="false">64a813cba1be3e00114dea63</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-3/</link>
+			<acast:episodeId>64a813cba1be3e00114dea63</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcz5vJYYm9pLWvBKZjZx30wfWLpYYcCquiAr1hyffbbt77eJdVdhcsrke60pEtEIKfO0UOfuD3ppLiJoA3X3pLcM]]></acast:settings>
+			<itunes:subtitle>George Hwang on Pixel Fold</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1688736648229-9eebc762cb4cc815ac7a4504289ba9d0.jpeg"/>
+			<description><![CDATA[<p>In the season finale of the Made by Google Podcast, Rachid Finge takes questions from Pixel Superfans about the brand new Pixel Fold to Product Manager George Hwang. Find out what it's like for the team behind Google's first foldable phone to wait for the first product reviews to come out, and why the launch of a device marks a beginning, not an end. </p><br><p>The Made by Google Podcast will return for another season later in 2023.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>In the season finale of the Made by Google Podcast, Rachid Finge takes questions from Pixel Superfans about the brand new Pixel Fold to Product Manager George Hwang. Find out what it's like for the team behind Google's first foldable phone to wait for the first product reviews to come out, and why the launch of a device marks a beginning, not an end. </p><br><p>The Made by Google Podcast will return for another season later in 2023.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Re: Body</title>
+			<itunes:title>Re: Body</itunes:title>
+			<pubDate>Wed, 19 Jul 2023 11:00:59 GMT</pubDate>
+			<itunes:duration>27:54</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/64a81332d178d700113f3e37/media.mp3" length="67064064" type="audio/mpeg"/>
+			<guid isPermaLink="false">64a81332d178d700113f3e37</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-3/</link>
+			<acast:episodeId>64a81332d178d700113f3e37</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcwMDYz6YFkSrfyzkO1JJshBovTYG3jfJdWypNgnzd2QiTwejNWRcN33yJHpX75prDoPU4lZBfOW6j2QBUghdAHI]]></acast:settings>
+			<itunes:subtitle>Elena Perez, Samy Abdel-Ghaffar, and Isaac Galatzer-Levy on Fitbit</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1688736810408-8d6c5f8b86bdbd9f8f71b285eea4d13d.jpeg"/>
+			<description><![CDATA[<p>Fitbit is best known for tracking your activity, workouts, heart rate, and sleep, but Fitbit also has a long history in stress management.</p><br><p>In this episode of the Made by Google Podcast, Rachid Finge talks to some of the creators of Body Response, one of the most impressive stress managing features that Fitbit has to offer. Elena Perez, Samy Abdel-Ghaffar, and Isaac Galatzer-Levy discuss how Body Response came to be, what it measures, and how it can help Fitbit users live a more mindful life. They also explore ways in which Fitbit can aid in mental well-being.&nbsp;</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Fitbit is best known for tracking your activity, workouts, heart rate, and sleep, but Fitbit also has a long history in stress management.</p><br><p>In this episode of the Made by Google Podcast, Rachid Finge talks to some of the creators of Body Response, one of the most impressive stress managing features that Fitbit has to offer. Elena Perez, Samy Abdel-Ghaffar, and Isaac Galatzer-Levy discuss how Body Response came to be, what it measures, and how it can help Fitbit users live a more mindful life. They also explore ways in which Fitbit can aid in mental well-being.&nbsp;</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[There's No App Like Google Home]]></title>
+			<itunes:title><![CDATA[There's No App Like Google Home]]></itunes:title>
+			<pubDate>Mon, 19 Jun 2023 11:00:01 GMT</pubDate>
+			<itunes:duration>33:21</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/64903808919a030011f082d7/media.mp3" length="80135424" type="audio/mpeg"/>
+			<guid isPermaLink="false">64903808919a030011f082d7</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-3/</link>
+			<acast:episodeId>64903808919a030011f082d7</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczvkxduq8lQ6lqqK8zLXmXvsM41U8AABkQN7uGh6Q/WxAG+U3/26u++6Wbo5OImV7x1rGuCJLrLJBalETYCUZuJ]]></acast:settings>
+			<itunes:subtitle>Anish Kattukaran on Google Home</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1687168447335-537f689af37269680805e2a4231a470c.jpeg"/>
+			<description><![CDATA[<p>We’ve talked about the new devices launched at this year’s I/O - now it’s time to talk about apps! Including the brand new Home Panel that just launched on Pixel devices, including the brand new Pixel Tablet and Pixel Fold.&nbsp;</p><br><p>Google Home’s director of product Anish Kattukaran joins us to discuss all the helpful and easy ways the newly redesigned Google Home app creates the best place to set up, control and automate your smart home.</p><br><p>Learn more here: <a href="https://store.google.com//ideas/articles/google-home-app-updates" rel="noopener noreferrer" target="_blank">https://store.google.com//ideas/articles/google-home-app-updates</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>We’ve talked about the new devices launched at this year’s I/O - now it’s time to talk about apps! Including the brand new Home Panel that just launched on Pixel devices, including the brand new Pixel Tablet and Pixel Fold.&nbsp;</p><br><p>Google Home’s director of product Anish Kattukaran joins us to discuss all the helpful and easy ways the newly redesigned Google Home app creates the best place to set up, control and automate your smart home.</p><br><p>Learn more here: <a href="https://store.google.com//ideas/articles/google-home-app-updates" rel="noopener noreferrer" target="_blank">https://store.google.com//ideas/articles/google-home-app-updates</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Everything You Need to Know About the June Pixel Feature Drop</title>
+			<itunes:title>Everything You Need to Know About the June Pixel Feature Drop</itunes:title>
+			<pubDate>Tue, 13 Jun 2023 17:00:38 GMT</pubDate>
+			<itunes:duration>15:46</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/64871be9fa3b570011ce377a/media.mp3" length="37917504" type="audio/mpeg"/>
+			<guid isPermaLink="false">64871be9fa3b570011ce377a</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-3/</link>
+			<acast:episodeId>64871be9fa3b570011ce377a</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcx4lyhI2tk7NyoX0d0Ohnt0Zfi/a4vjymKW4jraSL+FopOVU7uM7e/nrr5P4qGRIRZK6et2O2E157ZXyAC2xMh+]]></acast:settings>
+			<itunes:subtitle>June Pixel Feature Drops: The Best New Features</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1686576089050-ab0d75c5f25fff3f4c3baa94c8fa5172.jpeg"/>
+			<description><![CDATA[<p>Our latest Feature Drop is here and it’s jam-packed with health and safety updates for your Pixel and Fitbit devices. Updates begin rolling out to devices today and will continue over the next few weeks.</p><br><p>In this episode, host Rachid Finge welcomes back Product Director, Shenaz Zack to explain exactly what are feature drops and how some of our latest updates will help keep you safe, healthy and more.</p><br><p>Learn more here: <a href="https://store.google.com/intl/en/ideas/articles/new-pixel-safety-features/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/new-pixel-safety-features/</a>.&nbsp;</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Our latest Feature Drop is here and it’s jam-packed with health and safety updates for your Pixel and Fitbit devices. Updates begin rolling out to devices today and will continue over the next few weeks.</p><br><p>In this episode, host Rachid Finge welcomes back Product Director, Shenaz Zack to explain exactly what are feature drops and how some of our latest updates will help keep you safe, healthy and more.</p><br><p>Learn more here: <a href="https://store.google.com/intl/en/ideas/articles/new-pixel-safety-features/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/new-pixel-safety-features/</a>.&nbsp;</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>The Unsung Heroes of Pixel: Clock, Calculator, and Recorder</title>
+			<itunes:title>The Unsung Heroes of Pixel: Clock, Calculator, and Recorder</itunes:title>
+			<pubDate>Mon, 12 Jun 2023 11:00:12 GMT</pubDate>
+			<itunes:duration>20:25</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/648312742b317a0011d6aad4/media.mp3" length="49069824" type="audio/mpeg"/>
+			<guid isPermaLink="false">648312742b317a0011d6aad4</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-3/</link>
+			<acast:episodeId>648312742b317a0011d6aad4</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcxFpwcPZPkEU7sQsRdy8/zMOdC8i9vJuZWPm/2xfXjG0A9R4A9jsZwFiR7lov/nU6FUcKXtK8Y9b1SuQvwEnuFd]]></acast:settings>
+			<itunes:subtitle>Kristi Bradford on the story behind the Pixel Clock, Calculator and Recorder App</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1686311407479-269785da518316ddbe8208b39b307a65.jpeg"/>
+			<description><![CDATA[<p>Google’s Pixel Essentials team aims to develop helpful app experiences that improve everyday tasks and find ways to make things simpler, easier, and more thoughtfully designed.&nbsp;</p><br><p>In this episode, host Rachid Finges speaks with product manager Kristi Bradford to discuss the story behind the Clock, Calculator and Recorder app on your Pixel.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Google’s Pixel Essentials team aims to develop helpful app experiences that improve everyday tasks and find ways to make things simpler, easier, and more thoughtfully designed.&nbsp;</p><br><p>In this episode, host Rachid Finges speaks with product manager Kristi Bradford to discuss the story behind the Clock, Calculator and Recorder app on your Pixel.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Pixel Perfect: A Look at the Design of Google's Latest Devices]]></title>
+			<itunes:title><![CDATA[Pixel Perfect: A Look at the Design of Google's Latest Devices]]></itunes:title>
+			<pubDate>Mon, 29 May 2023 11:00:36 GMT</pubDate>
+			<itunes:duration>40:30</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6470dd11c2fe9e0011384bb1/media.mp3" length="97292288" type="audio/mpeg"/>
+			<guid isPermaLink="false">6470dd11c2fe9e0011384bb1</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-3/</link>
+			<acast:episodeId>6470dd11c2fe9e0011384bb1</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcz5FS3Np/3swv/NsYg5l/EofWOgLxr7lPC1K0t0M6alI+nUNp3P7MTweGoy/niEUWa0p+wkTxcjxWddaMxqAoJF]]></acast:settings>
+			<itunes:subtitle>Ivy Ross, Isabellele Olsson, and Claude Zellweger on designing new Pixel devices</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1685118246497-6f19da1052aaa88e7ddb97e358abed77.jpeg"/>
+			<description><![CDATA[<p>Google's Industrial Design team has been hard at work lately, combining fine arts with innovative technology to design the latest additions to the Pixel portfolio.&nbsp;</p><br><p>In this episode, host Rachid Finge sits down with three of Google's expert designers - Ivy Ross, Isabellele Olsson, and Claude Zellweger -&nbsp;for a closer look at how the designs of the Pixel 7a, Fold, and Tablet came to be.</p><br><p>Learn more: <a href="https://store.google.com/intl/en/ideas/articles/pixel-fold-and-tablet-design " rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/pixel-fold-and-tablet-design</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Google's Industrial Design team has been hard at work lately, combining fine arts with innovative technology to design the latest additions to the Pixel portfolio.&nbsp;</p><br><p>In this episode, host Rachid Finge sits down with three of Google's expert designers - Ivy Ross, Isabellele Olsson, and Claude Zellweger -&nbsp;for a closer look at how the designs of the Pixel 7a, Fold, and Tablet came to be.</p><br><p>Learn more: <a href="https://store.google.com/intl/en/ideas/articles/pixel-fold-and-tablet-design " rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/pixel-fold-and-tablet-design</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Android Goes Big: Meet Pixel Fold and Pixel Tablet</title>
+			<itunes:title>Android Goes Big: Meet Pixel Fold and Pixel Tablet</itunes:title>
+			<pubDate>Mon, 22 May 2023 11:00:01 GMT</pubDate>
+			<itunes:duration>22:22</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/64679820022559001199ff0f/media.mp3" length="53781504" type="audio/mpeg"/>
+			<guid isPermaLink="false">64679820022559001199ff0f</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-3/</link>
+			<acast:episodeId>64679820022559001199ff0f</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcx0LlM5SgASJkjjwkaoero7+4xCQPLMil7PKTb9aLHCwY527mRM2ouKRhVKTj/ZjQMvWbu5wY8XECGxLALAYYAP]]></acast:settings>
+			<itunes:subtitle>Allen Huang and Andrea Zvinakis on Pixel Fold and Pixel Tablet</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1685118008034-a3eed1afc44cfdfc9f5717f333eacea9.jpeg"/>
+			<description><![CDATA[<p>Earlier this month, we kicked off Season 3 with the announcement of the expanded Pixel product lineup at Google I/O. Today, host Rachid Finge zooms in on Android software powering the larger form factor of two of those devices: Pixel Fold and Pixel Tablet.</p><br><p>Experts Allen Huang and Andrea Zvinakis join Rachid to discuss how they’re helping bring a better Android experience to large screen devices, including changes to Android’s OS design and apps that you use everyday.&nbsp;</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Earlier this month, we kicked off Season 3 with the announcement of the expanded Pixel product lineup at Google I/O. Today, host Rachid Finge zooms in on Android software powering the larger form factor of two of those devices: Pixel Fold and Pixel Tablet.</p><br><p>Experts Allen Huang and Andrea Zvinakis join Rachid to discuss how they’re helping bring a better Android experience to large screen devices, including changes to Android’s OS design and apps that you use everyday.&nbsp;</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Google I/O 2023: Introducing Pixel’s Newest Devices</title>
+			<itunes:title>Google I/O 2023: Introducing Pixel’s Newest Devices</itunes:title>
+			<pubDate>Mon, 15 May 2023 11:00:37 GMT</pubDate>
+			<itunes:duration>32:30</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/64620c6df695d60011f6fa45/media.mp3" length="78066624" type="audio/mpeg"/>
+			<guid isPermaLink="false">64620c6df695d60011f6fa45</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-3/</link>
+			<acast:episodeId>64620c6df695d60011f6fa45</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczhOrHQ+1TheXKGu+5hucBgvadvq0XS5NssCiAFesIw2C9GWSSnHEQVtGdn5NlUQZCV/HVK51Hzmikh1iS+5n/r]]></acast:settings>
+			<itunes:subtitle>George Hwang, Justin Savich and Chris Chan on Pixel 7a, Pixel Fold and Pixel Tablet</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1685117933993-f3876c2490ebea53d7d07eb2d26656f9.jpeg"/>
+			<description><![CDATA[<p>In with the new! To kick off the Season 3 of the Made By Google podcast, host Rachid Finge covers the three new Pixel devices <em>just </em>announced at Google I/O: Pixel 7a, Pixel Fold and Pixel Tablet.</p><br><p>Experts on each addition to the Pixel portfolio - product managers George Hwang, Justin Savich and Chris Chan - join Rachid to discuss the innovative features and designs, how they came to be and how the latest Google technology powers them.&nbsp;</p><br><p>Check out <a href="https://store.google.com/intl/en/ideas/articles/pixel-fold-and-tablet-design/" rel="noopener noreferrer" target="_blank">this article</a> on the design philosophy behind these devices - we’ll be sure to invite the team to a future episode.</p><p>https://store.google.com/intl/en/ideas/articles/pixel-fold-and-tablet-design/</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>In with the new! To kick off the Season 3 of the Made By Google podcast, host Rachid Finge covers the three new Pixel devices <em>just </em>announced at Google I/O: Pixel 7a, Pixel Fold and Pixel Tablet.</p><br><p>Experts on each addition to the Pixel portfolio - product managers George Hwang, Justin Savich and Chris Chan - join Rachid to discuss the innovative features and designs, how they came to be and how the latest Google technology powers them.&nbsp;</p><br><p>Check out <a href="https://store.google.com/intl/en/ideas/articles/pixel-fold-and-tablet-design/" rel="noopener noreferrer" target="_blank">this article</a> on the design philosophy behind these devices - we’ll be sure to invite the team to a future episode.</p><p>https://store.google.com/intl/en/ideas/articles/pixel-fold-and-tablet-design/</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Inside the Pixel: A Conversation with Google's Product Director]]></title>
+			<itunes:title><![CDATA[Inside the Pixel: A Conversation with Google's Product Director]]></itunes:title>
+			<pubDate>Tue, 25 Apr 2023 11:00:44 GMT</pubDate>
+			<itunes:duration>16:48</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6442ab79510ea80011e2821e/media.mp3" length="16206720" type="audio/mpeg"/>
+			<guid isPermaLink="false">6442ab79510ea80011e2821e</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-2/</link>
+			<acast:episodeId>6442ab79510ea80011e2821e</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcxrVuJpT0RLuTQZlceZeIB7TOsyGOxDNhgTxfBLOU9eIRj0B6go794uEcK3lncOAJcmXpjyhdwrYg048cUDeeO3]]></acast:settings>
+			<itunes:subtitle>Shenaz Zack on Google Pixel Devices</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1682089180154-764586f2bb505cc2427845dfd03ea5ee.jpeg"/>
+			<description><![CDATA[<p>In this final episode of season two, Google Pixel Product Director and Precious Pixel Perfectionist Shenaz Zack joins us to talk about how her team transforms day-to-day problems into helpful experiences.</p><br><p>In conversation with our host, Rachid Finge, they discuss her memories from the first Pixel launch, her favourite features of the Pixel phone, and how her team finds user problems to solve.</p><br><p>To compare the different Pixels that Google offer see here: <a href="https://store.google.com/intl/en/ideas/articles/pixel-phone-comparison/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/pixel-phone-comparison/</a></p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>In this final episode of season two, Google Pixel Product Director and Precious Pixel Perfectionist Shenaz Zack joins us to talk about how her team transforms day-to-day problems into helpful experiences.</p><br><p>In conversation with our host, Rachid Finge, they discuss her memories from the first Pixel launch, her favourite features of the Pixel phone, and how her team finds user problems to solve.</p><br><p>To compare the different Pixels that Google offer see here: <a href="https://store.google.com/intl/en/ideas/articles/pixel-phone-comparison/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/pixel-phone-comparison/</a></p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Call Me Maybe</title>
+			<itunes:title>Call Me Maybe</itunes:title>
+			<pubDate>Mon, 10 Apr 2023 11:00:43 GMT</pubDate>
+			<itunes:duration>21:37</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/642feac1545d9b00112de8c8/media.mp3" length="20829312" type="audio/mpeg"/>
+			<guid isPermaLink="false">642feac1545d9b00112de8c8</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-2/</link>
+			<acast:episodeId>642feac1545d9b00112de8c8</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcyrqXoPFJy3bRyxarWCWJVFxsvm4Rtpc4BT/ya7zgeE/CR1mAbSi6s8jnK7jjdtn5Zq6Z1myrcAoOuLt5ShnsDN]]></acast:settings>
+			<itunes:subtitle>Jonathan Eccles on Dialer Features</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1680861708644-34554e324aa26b0175801d0575f3410f.jpeg"/>
+			<description><![CDATA[<p>In today’s episode of the Made By Google Podcast, Rachid speaks with Jonathan Eccles, Group Product Manager for the Phone by Google app, about how AI can improve a 150 year old product, the telephone call.</p><br><p>The Phone By Google app makes phone calls better by screening out spam calls, helping you hear the other person more clearly (if you’re using a Pixel 7 or 7 Pro with Clear Calling turned on), and can have Google Assistant answer calls for you in many countries. Jonathan and Rachid discuss these features and more, as well as what could be next for the app.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>In today’s episode of the Made By Google Podcast, Rachid speaks with Jonathan Eccles, Group Product Manager for the Phone by Google app, about how AI can improve a 150 year old product, the telephone call.</p><br><p>The Phone By Google app makes phone calls better by screening out spam calls, helping you hear the other person more clearly (if you’re using a Pixel 7 or 7 Pro with Clear Calling turned on), and can have Google Assistant answer calls for you in many countries. Jonathan and Rachid discuss these features and more, as well as what could be next for the app.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Don’t try this at home: Fall Detection on Pixel Watch</title>
+			<itunes:title>Don’t try this at home: Fall Detection on Pixel Watch</itunes:title>
+			<pubDate>Tue, 04 Apr 2023 11:00:58 GMT</pubDate>
+			<itunes:duration>16:56</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/642968a513df9d001187797f/media.mp3" length="40728384" type="audio/mpeg"/>
+			<guid isPermaLink="false">642968a513df9d001187797f</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-2/</link>
+			<acast:episodeId>642968a513df9d001187797f</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcwgtcUo5ToZmFvkPfNYVDq1ojAKtPimUuNUA4WddJaxsE8GhW6c+pnKj1WQgScGSmo3vBJ9DWSPCt5LuVn6GcUY]]></acast:settings>
+			<itunes:subtitle>Edward Shi and Paras Unadkat on Fall Detection</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1680435342923-fddfbe964890a6539d25be6bccbb7c21.jpeg"/>
+			<description><![CDATA[<p>On this Made By Google podcast episode, Rachid talks to Product Managers Edward Shi and Paras Unadkat about one of the Pixel Watch's newest features: fall detection.</p><br><p>They discuss how fall detection works, how it balances safety with helpfulness, and how they leveraged a bit of Hollywood magic to overcome real-world testing challenges.</p><br><p>Learn more:&nbsp;<a href="https://store.google.com/intl/en/ideas/articles/reach-new-years-goals-with-google-pixel-watch/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/reach-new-years-goals-with-google-pixel-watch/</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>On this Made By Google podcast episode, Rachid talks to Product Managers Edward Shi and Paras Unadkat about one of the Pixel Watch's newest features: fall detection.</p><br><p>They discuss how fall detection works, how it balances safety with helpfulness, and how they leveraged a bit of Hollywood magic to overcome real-world testing challenges.</p><br><p>Learn more:&nbsp;<a href="https://store.google.com/intl/en/ideas/articles/reach-new-years-goals-with-google-pixel-watch/" rel="noopener noreferrer" target="_blank">https://store.google.com/intl/en/ideas/articles/reach-new-years-goals-with-google-pixel-watch/</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Peeling back the layers of Android security</title>
+			<itunes:title>Peeling back the layers of Android security</itunes:title>
+			<pubDate>Mon, 27 Mar 2023 11:00:30 GMT</pubDate>
+			<itunes:duration>22:09</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6421434df2426b00117c8a39/media.mp3" length="53247744" type="audio/mpeg"/>
+			<guid isPermaLink="false">6421434df2426b00117c8a39</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-2/</link>
+			<acast:episodeId>6421434df2426b00117c8a39</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcxaY+nD6FPQqhaqbRYqY6poMHCJC4egz5FVvlgbUakX1pH5xBvt64YsIAAKaJhTYEtP75OkMHYT3+ncdZlDYYX/]]></acast:settings>
+			<itunes:subtitle><![CDATA[Eugene Liderman on Apps & Ecosystem (incl Play Protect)]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1679901486476-c42b55c2deade56a00d459e99b5a06f2.jpeg"/>
+			<description><![CDATA[<p>In today’s episode of the Made By Google Podcast, Rachid speaks with Eugene Liderman, Director of Android Security Strategy, about the security features that keep Pixel and other Android devices safe.&nbsp;</p><br><p>They go through the layers of security that protect users from phishing attempts and malware, including Messages by Google, Safe Browsing, and Play Protect, and also emphasize the importance of checking your security &amp; privacy settings and taking action on red and amber warnings (something Rachid had yet to do at the time of recording 😬).</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>In today’s episode of the Made By Google Podcast, Rachid speaks with Eugene Liderman, Director of Android Security Strategy, about the security features that keep Pixel and other Android devices safe.&nbsp;</p><br><p>They go through the layers of security that protect users from phishing attempts and malware, including Messages by Google, Safe Browsing, and Play Protect, and also emphasize the importance of checking your security &amp; privacy settings and taking action on red and amber warnings (something Rachid had yet to do at the time of recording 😬).</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Real Talk About Real Tone</title>
+			<itunes:title>Real Talk About Real Tone</itunes:title>
+			<pubDate>Mon, 20 Mar 2023 12:00:43 GMT</pubDate>
+			<itunes:duration>27:05</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6414bd2e160af7001175ca5e/media.mp3" length="65090304" type="audio/mpeg"/>
+			<guid isPermaLink="false">6414bd2e160af7001175ca5e</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-2/</link>
+			<acast:episodeId>6414bd2e160af7001175ca5e</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczD+YMOzfNjHzPfZRMXmMzysqVL9VT6X450pL1dlUoLp8nkCafadggf6DmG8ElZlTrGaAKdbzQOim+21pxb4zC8]]></acast:settings>
+			<itunes:subtitle>Florian Koenigsberger on Real Tone</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1679080545749-edd0f98574f1766b5c6bf3d1bf845191.jpeg"/>
+			<description><![CDATA[<p>Why is it important to accurately render skin tone in photographs? And how can technology ensure that images are done with dignity and accurately represent all individuals?</p><br><p>This week’s guest, Florian Koenigsberger, Product Manager for Pixel and lead for Real Tone, answers these questions and more in a wide-ranging discussion with Rachid about Real Tone, a collection of improvements for Pixel Camera and Google Photos that works to represent people of color more equitably, so that everyone feels seen, no matter their skin tone.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Why is it important to accurately render skin tone in photographs? And how can technology ensure that images are done with dignity and accurately represent all individuals?</p><br><p>This week’s guest, Florian Koenigsberger, Product Manager for Pixel and lead for Real Tone, answers these questions and more in a wide-ranging discussion with Rachid about Real Tone, a collection of improvements for Pixel Camera and Google Photos that works to represent people of color more equitably, so that everyone feels seen, no matter their skin tone.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Slumber Party: Sleep Tracking for Better Sleep</title>
+			<itunes:title>Slumber Party: Sleep Tracking for Better Sleep</itunes:title>
+			<pubDate>Mon, 13 Mar 2023 12:00:40 GMT</pubDate>
+			<itunes:duration>20:17</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/640f03c8c777a700117d9282/media.mp3" length="48769344" type="audio/mpeg"/>
+			<guid isPermaLink="false">640f03c8c777a700117d9282</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-2/</link>
+			<acast:episodeId>640f03c8c777a700117d9282</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczucIWH2mB17phlisr+ehSoMxtQ+o0ygJ7YL/WzenmqACUasq7R5BJMDhqL9Yy6zsJMvR9b2xzLCngE4TevTqKc]]></acast:settings>
+			<itunes:subtitle>Megan Jones Bell and Conor Heneghan on Sleeping Better</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1678705438782-191d9340b14b31e6510425f9718b3c99.jpeg"/>
+			<description><![CDATA[<p>In today’s episode, we go deep on sleep. Rachid is joined by Megan Jones Bell, Google’s Clinical Director, Consumer and Mental Health, and Conor Heneghan, Fitbit’s Senior Staff Research Scientist.</p><br><p>They describe how Pixel Watch and Fitbit use your movements and heart rate, along with machine learning algorithms, to estimate what stage of sleep you’re in, and how you can use this information to gain insight into your sleep habits.&nbsp;</p><br><p>And they discuss good 'sleep hygiene' habits, such as reducing caffeine intake and creating a wind-down routine before bed, to help create the most restful environment for restorative slumber.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>In today’s episode, we go deep on sleep. Rachid is joined by Megan Jones Bell, Google’s Clinical Director, Consumer and Mental Health, and Conor Heneghan, Fitbit’s Senior Staff Research Scientist.</p><br><p>They describe how Pixel Watch and Fitbit use your movements and heart rate, along with machine learning algorithms, to estimate what stage of sleep you’re in, and how you can use this information to gain insight into your sleep habits.&nbsp;</p><br><p>And they discuss good 'sleep hygiene' habits, such as reducing caffeine intake and creating a wind-down routine before bed, to help create the most restful environment for restorative slumber.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Spatial Audio: Hear, There, Everywhere</title>
+			<itunes:title>Spatial Audio: Hear, There, Everywhere</itunes:title>
+			<pubDate>Tue, 07 Mar 2023 12:00:09 GMT</pubDate>
+			<itunes:duration>19:45</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/64021213b0494600111decb5/media.mp3" length="47495424" type="audio/mpeg"/>
+			<guid isPermaLink="false">64021213b0494600111decb5</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-2/</link>
+			<acast:episodeId>64021213b0494600111decb5</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVczI1RnSqQc8ft5xNmb6p64JYCS3y8OEaLZ2B1fbzFDgukCqmP1yBK6WSLgRhCj0iA2t9CDeN9vJS0mK34az1vr2]]></acast:settings>
+			<itunes:subtitle>Lu Silverstein on Spatial Audio</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1677857176142-2fb56ef84f56dcc2bb8ed5743f8c8111.jpeg"/>
+			<description><![CDATA[<p>Listen up! And around! On this Made By Google Podcast episode, host Rachid Finge speaks about spatial audio with Lu Silverstein, Senior Product Manager for Pixel Audio Experiences.&nbsp;</p><br><p>Spatial audio delivers an immersive audio experience – so it sounds like the helicopter is above you while you're watching a movie or the zombie is behind you whilst playing a video game.</p><br><p>Lu describes how spatial audio uses algorithms to simulate positions in space and essentially trick your brain, what kinds of content work with spatial audio, and how Pixel Buds Pro adds head tracking to create an even more dynamic experience.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Listen up! And around! On this Made By Google Podcast episode, host Rachid Finge speaks about spatial audio with Lu Silverstein, Senior Product Manager for Pixel Audio Experiences.&nbsp;</p><br><p>Spatial audio delivers an immersive audio experience – so it sounds like the helicopter is above you while you're watching a movie or the zombie is behind you whilst playing a video game.</p><br><p>Lu describes how spatial audio uses algorithms to simulate positions in space and essentially trick your brain, what kinds of content work with spatial audio, and how Pixel Buds Pro adds head tracking to create an even more dynamic experience.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Picture Perfect with #FixedOnPixel</title>
+			<itunes:title>Picture Perfect with #FixedOnPixel</itunes:title>
+			<pubDate>Mon, 27 Feb 2023 12:00:42 GMT</pubDate>
+			<itunes:duration>17:49</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/63fb0feb9cef06001194f2c7/media.mp3" length="42838464" type="audio/mpeg"/>
+			<guid isPermaLink="false">63fb0feb9cef06001194f2c7</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://blog.google/products/pixel/made-by-google-podcast-season-2/</link>
+			<acast:episodeId>63fb0feb9cef06001194f2c7</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsxVG51oB/6H3MWvymibooZkJz98h4vkrm4j39yG6wVcyZRA4k+4VNjn/Zbzk5w47W2vFYIG9TgiLFTApkvpbNoaKapJnxmw/J+0ogh5r3P2AHInOBr0OkY8aksH6NJTA1]]></acast:settings>
+			<itunes:subtitle>Zachary Senzer on Photo Unblur and Magic Eraser</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/1677398183981-e2b0e0f93763233e013c297974085e14.jpeg"/>
+			<description><![CDATA[<p>Ever wanted to revive an old, grainy photo from a trip you took years ago? Or remove a photobomber from an otherwise great photo? With #FixedOnPixel editing features Photo Unblur and Magic Eraser, you can.</p><br><p>In this first episode of season 2 of the Made By Google Podcast, host Rachid Finge goes in-depth with Zachary Senzer, Senior Product Manager on Google Photos. They talk about how Photo Unblur and Magic Eraser use machine learning to make those near-perfect shots ready to post, and how computational photography makes it possible for everyone to take amazing pictures.</p><br><p>Check out our #FixedOnPixel Super Bowl ad here:</p><p>https://youtu.be/zkHdpA-drz0</p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Ever wanted to revive an old, grainy photo from a trip you took years ago? Or remove a photobomber from an otherwise great photo? With #FixedOnPixel editing features Photo Unblur and Magic Eraser, you can.</p><br><p>In this first episode of season 2 of the Made By Google Podcast, host Rachid Finge goes in-depth with Zachary Senzer, Senior Product Manager on Google Photos. They talk about how Photo Unblur and Magic Eraser use machine learning to make those near-perfect shots ready to post, and how computational photography makes it possible for everyone to take amazing pictures.</p><br><p>Check out our #FixedOnPixel Super Bowl ad here:</p><p>https://youtu.be/zkHdpA-drz0</p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Episode 08 – Mission: Accessible</title>
+			<itunes:title>Episode 08 – Mission: Accessible</itunes:title>
+			<pubDate>Thu, 24 Nov 2022 18:00:00 GMT</pubDate>
+			<itunes:duration>29:02</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/11bae1a1be4ae3e889908aaf8b2a6ace/media.mp3" length="24804611" type="audio/mpeg"/>
+			<guid isPermaLink="false">11bae1a1be4ae3e889908aaf8b2a6ace</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/9-episode-08-mission-accessible</link>
+			<acast:episodeId>63e39eba2bdc460011c95577</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZTq+ePcwX6BkoLyyXKuRIMC5]]></acast:settings>
+			<itunes:subtitle>Vince Wu on accessibility</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/63e39eba2bdc460011c95577.jpg"/>
+			<description><![CDATA[One in seven people has a disability. And as the global population gets older, that number is going up – and products that aren’t built with accessibility in mind can exclude a lot of people. In the final episode of season 1 of our Made by Google Podcast, Rachid Finge speaks with Android Group Product Manager Vince Wu about what it means to design and build for everyone. They discuss many useful accessibility features, including Guided Frame, a new feature on Pixel 7 that helps people with vision impairments take selfies, and Vince shares his top tips for getting the most out of your device.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[One in seven people has a disability. And as the global population gets older, that number is going up – and products that aren’t built with accessibility in mind can exclude a lot of people. In the final episode of season 1 of our Made by Google Podcast, Rachid Finge speaks with Android Group Product Manager Vince Wu about what it means to design and build for everyone. They discuss many useful accessibility features, including Guided Frame, a new feature on Pixel 7 that helps people with vision impairments take selfies, and Vince shares his top tips for getting the most out of your device.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Episode 07 – Why Matter Matters</title>
+			<itunes:title>Episode 07 – Why Matter Matters</itunes:title>
+			<pubDate>Thu, 17 Nov 2022 18:00:00 GMT</pubDate>
+			<itunes:duration>34:50</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/608b64906cc873e4f978b1cf5b37cb36/media.mp3" length="29717556" type="audio/mpeg"/>
+			<guid isPermaLink="false">608b64906cc873e4f978b1cf5b37cb36</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/8-why-matter-matters</link>
+			<acast:episodeId>63e39eba2bdc460011c95578</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZTo/a9Gme5X81j3YhTNMW+Lr]]></acast:settings>
+			<itunes:subtitle>Karen Yao and Anish Kattukaran on smart homes</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/63e39eba2bdc460011c95578.jpg"/>
+			<description><![CDATA[In the penultimate episode of season one of the Made By Google Podcast, host Rachid Finge speaks with Directors of Product Management Karen Yao and Anish Kattukaran about Google’s vision for the smart (or should we say helpful) home.They discuss how the smart home can be helpful today (Anish’s day starts with the blinds opening, soft music playing, and the kettle heating up for tea 🌅🎶☕) and how we’re entering a new era built on openness and collaboration, thanks to a new industry standard that truly Matters.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[In the penultimate episode of season one of the Made By Google Podcast, host Rachid Finge speaks with Directors of Product Management Karen Yao and Anish Kattukaran about Google’s vision for the smart (or should we say helpful) home.They discuss how the smart home can be helpful today (Anish’s day starts with the blinds opening, soft music playing, and the kettle heating up for tea 🌅🎶☕) and how we’re entering a new era built on openness and collaboration, thanks to a new industry standard that truly Matters.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Episode 06 – State of the Heart</title>
+			<itunes:title>Episode 06 – State of the Heart</itunes:title>
+			<pubDate>Thu, 10 Nov 2022 18:00:00 GMT</pubDate>
+			<itunes:duration>29:27</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/29ebbf50a570e9e900db56f099fb68ca/media.mp3" length="25169330" type="audio/mpeg"/>
+			<guid isPermaLink="false">29ebbf50a570e9e900db56f099fb68ca</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/6-episode-06-state-of-the-heart</link>
+			<acast:episodeId>63e39eba2bdc460011c95579</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZTq8fdHU/TNniFhQPVnqEsI4]]></acast:settings>
+			<itunes:subtitle>DeCarlos Love on Fitbit and Pixel Watch</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/63e39eba2bdc460011c95579.jpg"/>
+			<description><![CDATA[Have you ever wondered how your smartwatch tracks your heartbeat? Or how it scores your sleep? In this episode of our Made by Google podcast, host Rachid Finge gets into the details of Fitbit and Pixel Watch with product manager DeCarlos Love. DeCarlos explains the science behind biometric tracking, how the team turns data into insights, and how his own passion for fitness informs his work.Can you believe we've already made it to episode 6? Just two more to go before our first season is complete!<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Have you ever wondered how your smartwatch tracks your heartbeat? Or how it scores your sleep? In this episode of our Made by Google podcast, host Rachid Finge gets into the details of Fitbit and Pixel Watch with product manager DeCarlos Love. DeCarlos explains the science behind biometric tracking, how the team turns data into insights, and how his own passion for fitness informs his work.Can you believe we've already made it to episode 6? Just two more to go before our first season is complete!<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Episode 05 – Now We're Talking]]></title>
+			<itunes:title><![CDATA[Episode 05 – Now We're Talking]]></itunes:title>
+			<pubDate>Fri, 04 Nov 2022 15:27:34 GMT</pubDate>
+			<itunes:duration>32:21</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/6f9732928fbf8de6260b02befe1f6ade/media.mp3" length="27591365" type="audio/mpeg"/>
+			<guid isPermaLink="false">6f9732928fbf8de6260b02befe1f6ade</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/7-episode-05-now-we-are-talking</link>
+			<acast:episodeId>63e39eba2bdc460011c9557a</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZTo6l59UVhqmT9XQ2Gq4SLuc]]></acast:settings>
+			<itunes:subtitle>Nino Tasca on talking</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/63e39eba2bdc460011c9557a.jpg"/>
+			<description><![CDATA[Speech! In episode 5 of our Made by Google podcast, Nino Tasca, Director of Product Management for Google Speech, joins host Rachid Finge to talk about talking. Nino and Rachid discuss how devices understand what you say, how products like Google Assistant talk to you, and how improved speech recognition makes Pixel 7's Assistant voice typing and Recorder app better than ever before.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Speech! In episode 5 of our Made by Google podcast, Nino Tasca, Director of Product Management for Google Speech, joins host Rachid Finge to talk about talking. Nino and Rachid discuss how devices understand what you say, how products like Google Assistant talk to you, and how improved speech recognition makes Pixel 7's Assistant voice typing and Recorder app better than ever before.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Episode 04 – Chip Chat</title>
+			<itunes:title>Episode 04 – Chip Chat</itunes:title>
+			<pubDate>Thu, 27 Oct 2022 17:00:00 GMT</pubDate>
+			<itunes:duration>28:36</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/af1208e3cdc087503f85a1f20fff17f8/media.mp3" length="24380221" type="audio/mpeg"/>
+			<guid isPermaLink="false">af1208e3cdc087503f85a1f20fff17f8</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/5-episode-04-chip-chat</link>
+			<acast:episodeId>63e39eba2bdc460011c9557b</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZToVxMsbM4nJL3pQn9xApQXx]]></acast:settings>
+			<itunes:subtitle>Monika Gupta on Tensor G2</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/63e39eba2bdc460011c9557b.jpg"/>
+			<description><![CDATA[Chip chat! And not the cool ranch kind. In the fourth episode of the #MadeByGoogle podcast, our host Rachid Finge speaks with Monika Gupta, Senior Director of Product Management for Google Silicon Teams, about the Tensor G2 chip in Pixel 7 and Pixel 7 Pro. Monika and Rachid discuss Google’s AI first approach, how Tensor got its name, its role in our favourite speech and camera features, and why classical benchmarks for chips don’t always tell the whole story.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Chip chat! And not the cool ranch kind. In the fourth episode of the #MadeByGoogle podcast, our host Rachid Finge speaks with Monika Gupta, Senior Director of Product Management for Google Silicon Teams, about the Tensor G2 chip in Pixel 7 and Pixel 7 Pro. Monika and Rachid discuss Google’s AI first approach, how Tensor got its name, its role in our favourite speech and camera features, and why classical benchmarks for chips don’t always tell the whole story.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Episode 03 – Color! Material! Finish!</title>
+			<itunes:title>Episode 03 – Color! Material! Finish!</itunes:title>
+			<pubDate>Thu, 20 Oct 2022 17:00:00 GMT</pubDate>
+			<itunes:duration>28:10</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/21c0e999a425005aeee8c9297203bf25/media.mp3" length="24088689" type="audio/mpeg"/>
+			<guid isPermaLink="false">21c0e999a425005aeee8c9297203bf25</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/4-episode-03-color-material-finish</link>
+			<acast:episodeId>63e39eba2bdc460011c9557c</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZTo3foGtit02/a++Bb6sTlVQ]]></acast:settings>
+			<itunes:subtitle>Isabelle Olsson on color, material and finish</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/63e39eba2bdc460011c9557c.jpg"/>
+			<description><![CDATA[Why do our Google devices look the way they do? Who’s better to answer that question than a product designer. In the third episode of the #MadeByGoogle Podcast, our host Rachid Finge welcomes a guest from Sweden: Isabelle Olsson. She is our Director of Design for Home, Wearables, and Color, Material, and Finish and has been working at Google for over ten years. Isabelle describes our approach to choosing colors, materials, and finishes for Google devices, and how we came up with the designs for Pixel Watch and Nest WiFi. It's about how to develop devices that harmonize in form and function – and thus contribute to greater sustainability.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Why do our Google devices look the way they do? Who’s better to answer that question than a product designer. In the third episode of the #MadeByGoogle Podcast, our host Rachid Finge welcomes a guest from Sweden: Isabelle Olsson. She is our Director of Design for Home, Wearables, and Color, Material, and Finish and has been working at Google for over ten years. Isabelle describes our approach to choosing colors, materials, and finishes for Google devices, and how we came up with the designs for Pixel Watch and Nest WiFi. It's about how to develop devices that harmonize in form and function – and thus contribute to greater sustainability.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Episode 02 – Why Your Pixel Is Like a Castle</title>
+			<itunes:title>Episode 02 – Why Your Pixel Is Like a Castle</itunes:title>
+			<pubDate>Thu, 13 Oct 2022 17:00:00 GMT</pubDate>
+			<itunes:duration>33:24</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/f604ffe02ff3c25812ef4468a70c867a/media.mp3" length="28485647" type="audio/mpeg"/>
+			<guid isPermaLink="false">f604ffe02ff3c25812ef4468a70c867a</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/3-episode-02-why-your-pixel-is-like-a-castle</link>
+			<acast:episodeId>63e39eba2bdc460011c9557d</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZTpXfOUJ9+LZNjokKebnnAyz]]></acast:settings>
+			<itunes:subtitle>Jesse Seed and Rae Wang on security</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/63e39eba2bdc460011c9557d.jpg"/>
+			<description><![CDATA[What do medieval castles and smartphone security have in common? Tune into the latest episode of the Made by Google podcast to find out.In episode two, host Rachid Finge talks with Google security experts Jesse Seed and Rae Wang, who remind us that, in addition to chat apps, games and shopping baskets, our phones also hold a lot of sensitive information. Listen and get their tips for making your phone more secure.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[What do medieval castles and smartphone security have in common? Tune into the latest episode of the Made by Google podcast to find out.In episode two, host Rachid Finge talks with Google security experts Jesse Seed and Rae Wang, who remind us that, in addition to chat apps, games and shopping baskets, our phones also hold a lot of sensitive information. Listen and get their tips for making your phone more secure.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Episode 01 – Zooming in on Smartphone Cameras</title>
+			<itunes:title>Episode 01 – Zooming in on Smartphone Cameras</itunes:title>
+			<pubDate>Thu, 06 Oct 2022 14:45:00 GMT</pubDate>
+			<itunes:duration>34:43</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/ca4d2131d4c1516953154feb221fd212/media.mp3" length="29607282" type="audio/mpeg"/>
+			<guid isPermaLink="false">ca4d2131d4c1516953154feb221fd212</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/2-episode-01-smartphone-cameras</link>
+			<acast:episodeId>63e39eba2bdc460011c9557e</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZTo5UTL2u97YFZxcZN2Jfmgq]]></acast:settings>
+			<itunes:subtitle>Isaac Reynolds on Pixel Camera</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/63e39eba2bdc460011c9557e.jpg"/>
+			<description><![CDATA[Buckle up, get ready – here we go. This is the new #MadeByGoogle podcast. Every week, our host Rachid Finge brings you behind-the-scenes insights from Googlers from around the world about turning day-to-day problems into delightful experiences.In our first episode it becomes, yeah, small-scale: because our guest Isaac Reynolds is product manager for the Google Pixel Camera. And not just that but he’s also an avid photographer. So who better to explain how cameras in smartphones are getting better and better? Why is it not always the size of your lens that counts? And top tips on capturing that perfect shot? Click your way in!<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Buckle up, get ready – here we go. This is the new #MadeByGoogle podcast. Every week, our host Rachid Finge brings you behind-the-scenes insights from Googlers from around the world about turning day-to-day problems into delightful experiences.In our first episode it becomes, yeah, small-scale: because our guest Isaac Reynolds is product manager for the Google Pixel Camera. And not just that but he’s also an avid photographer. So who better to explain how cameras in smartphones are getting better and better? Why is it not always the size of your lens that counts? And top tips on capturing that perfect shot? Click your way in!<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Made by Google Podcast Trailer</title>
+			<itunes:title>Made by Google Podcast Trailer</itunes:title>
+			<pubDate>Fri, 30 Sep 2022 13:52:35 GMT</pubDate>
+			<itunes:duration>1:00</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/63e39eb02e631f0011a284ac/e/f7338dcb87a95e884586aa0125e26481/media.mp3" length="1255152" type="audio/mpeg"/>
+			<guid isPermaLink="false">f7338dcb87a95e884586aa0125e26481</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://made-by-google-podcast.podigee.io/t1-neue-episode</link>
+			<acast:episodeId>63e39eba2bdc460011c9557f</acast:episodeId>
+			<acast:showId>63e39eb02e631f0011a284ac</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrlQ9W4RvM73aPzS7Q+hyVSvjr2lBaYl/jZSg3MLnhs8l5F8TyIcXm0KVe1HZOUsZTpiFU96ckPMz0xzhpqt1ShN]]></acast:settings>
+			<itunes:episodeType>trailer</itunes:episodeType>
+			<itunes:image href="https://assets.pippa.io/shows/63e39eb02e631f0011a284ac/show-cover.jpg"/>
+			<description><![CDATA[In this new Google podcast host Rachid Finge talks to fellow Googlers about the latest devices and services. Find out what it takes to design and build innovative helpful devices, whether they are in your pocket or on a table. There's a new episode every Thursday starting October 6th.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[In this new Google podcast host Rachid Finge talks to fellow Googlers about the latest devices and services. Find out what it takes to design and build innovative helpful devices, whether they are in your pocket or on a table. There's a new episode every Thursday starting October 6th.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+    	<itunes:category text="Technology"/>
+    </channel>
+</rss>

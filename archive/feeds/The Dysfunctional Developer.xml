@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/the-dysfunctional-developer" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>The Dysfunctional Developer</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/the-dysfunctional-developer</itunes:new-feed-url>
+    <description>"The Dysfunctional Developer" is a fresh take on tech from the voices of JS Party, bringing a no-nonsense perspective to web development conversations. From AI's impact on junior developers to practical debugging skills, the show cuts through industry hype to deliver authentic discussions that represent the average developer's experience. This successor to JS Party features meaningful conversations with industry voices while maintaining a down-to-earth, real-world approach to tech.</description>
+    <copyright>2024</copyright>
+    <podcast:guid>99031380-dbc4-5b0f-b79a-90f2ec3c7556</podcast:guid>
+    <podcast:locked owner="nick@nisi.org">no</podcast:locked>
+    <podcast:trailer pubdate="Mon, 02 Dec 2024 17:54:00 -0100" url="https://media.transistor.fm/8fe7a1c1/e098a471.mp3" length="1196985" type="audio/mpeg">Trailer: The Dysfunctional Developer</podcast:trailer>
+    <language>en</language>
+    <pubDate>Wed, 04 Jun 2025 06:00:10 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Jun 2025 06:01:44 +0000</lastBuildDate>
+    <link>https://dysfunctional.fm</link>
+    <image>
+      <url>https://img.transistor.fm/d6TTmlqAuk1aNmFKkYDD_ibBAwdkh1bQTtd10vmVTU8/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYTJj/Mjc4ZDVmMDIzNDk3/YzFlZGUyYjUxMjNh/MDdjYy5wbmc.jpg</url>
+      <title>The Dysfunctional Developer</title>
+      <link>https://dysfunctional.fm</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>The Dysfunctional Developer</itunes:author>
+    <itunes:image href="https://img.transistor.fm/d6TTmlqAuk1aNmFKkYDD_ibBAwdkh1bQTtd10vmVTU8/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYTJj/Mjc4ZDVmMDIzNDk3/YzFlZGUyYjUxMjNh/MDdjYy5wbmc.jpg"/>
+    <itunes:summary>"The Dysfunctional Developer" is a fresh take on tech from the voices of JS Party, bringing a no-nonsense perspective to web development conversations. From AI's impact on junior developers to practical debugging skills, the show cuts through industry hype to deliver authentic discussions that represent the average developer's experience. This successor to JS Party features meaningful conversations with industry voices while maintaining a down-to-earth, real-world approach to tech.</itunes:summary>
+    <itunes:subtitle>"The Dysfunctional Developer" is a fresh take on tech from the voices of JS Party, bringing a no-nonsense perspective to web development conversations.</itunes:subtitle>
+    <itunes:keywords></itunes:keywords>
+    <itunes:owner>
+      <itunes:name>The Dysfunctional Developer</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>The Recession Show</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>The Recession Show</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">68d81f21-4d38-4f6a-86f7-dd90e845f338</guid>
+      <link>https://dysfunctional.fm/5</link>
+      <description>
+        <![CDATA[<p>Amy, KBall, and Nick chat about how the current economy is shaking up tech careers and what you can do to stay resilient. They get into why it’s smart to keep learning, share your work publicly, and stay connected—especially when things feel uncertain. They also talk about the weird mix of excitement and dread around AI, the rise of LLMs, and how those tools can actually make you more productive if you use them right. Plus, they share what they’re learning right now, swap thoughts on new frameworks, and give some real talk on job hunting and staying steady in a rocky market.</p><p><strong>Don't agree with me prompt</strong></p>Avoid simply agreeing with my points or taking my conclusions at face value. I want a real intellectual challenge, not just affirmation. Whenever I propose an idea, do this:<p>- Question my assumptions. What am I treating as true that might be questionable? <br>- Offer a skeptic's viewpoint. What objections would a critical, well-informed voice raise? <br>- Check my reasoning. Are there flaws or leaps in logic I've overlooked?<br>- Suggest alternative angles. How else might the idea be viewed, interpreted, or challenged?<br>- Focus on accuracy over agreement. If my argument is weak or wrong, correct me plainly and show me how. <br>- Stay constructive but rigorous. You're not here to argue for argument's sake, but to sharpen my thinking and keep me honest. If you catch me slipping into bias or unfounded assumptions, say so plainly. Let's refine both our conclusions and the way we reach them.</p><p><br><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><a href="https://bsky.app/profile/did:plc:oukuku2b43bt5j7bvdnnb2k5/post/3lopywgptam2t" title="Reply on Bluesky">Reply on Bluesky</a><br>
+<br>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Amy, KBall, and Nick chat about how the current economy is shaking up tech careers and what you can do to stay resilient. They get into why it’s smart to keep learning, share your work publicly, and stay connected—especially when things feel uncertain. They also talk about the weird mix of excitement and dread around AI, the rise of LLMs, and how those tools can actually make you more productive if you use them right. Plus, they share what they’re learning right now, swap thoughts on new frameworks, and give some real talk on job hunting and staying steady in a rocky market.</p><p><strong>Don't agree with me prompt</strong></p>Avoid simply agreeing with my points or taking my conclusions at face value. I want a real intellectual challenge, not just affirmation. Whenever I propose an idea, do this:<p>- Question my assumptions. What am I treating as true that might be questionable? <br>- Offer a skeptic's viewpoint. What objections would a critical, well-informed voice raise? <br>- Check my reasoning. Are there flaws or leaps in logic I've overlooked?<br>- Suggest alternative angles. How else might the idea be viewed, interpreted, or challenged?<br>- Focus on accuracy over agreement. If my argument is weak or wrong, correct me plainly and show me how. <br>- Stay constructive but rigorous. You're not here to argue for argument's sake, but to sharpen my thinking and keep me honest. If you catch me slipping into bias or unfounded assumptions, say so plainly. Let's refine both our conclusions and the way we reach them.</p><p><br><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><a href="https://bsky.app/profile/did:plc:oukuku2b43bt5j7bvdnnb2k5/post/3lopywgptam2t" title="Reply on Bluesky">Reply on Bluesky</a><br>
+<br>]]>
+      </content:encoded>
+      <pubDate>Fri, 09 May 2025 08:26:00 +0000</pubDate>
+      <author>The Dysfunctional Developer</author>
+      <enclosure url="https://media.transistor.fm/b59b6297/e58c221c.mp3" length="56527897" type="audio/mpeg"/>
+      <itunes:author>The Dysfunctional Developer</itunes:author>
+      <itunes:duration>3533</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Amy, KBall, and Nick chat about how the current economy is shaking up tech careers and what you can do to stay resilient. They get into why it’s smart to keep learning, share your work publicly, and stay connected—especially when things feel uncertain. They also talk about the weird mix of excitement and dread around AI, the rise of LLMs, and how those tools can actually make you more productive if you use them right. Plus, they share what they’re learning right now, swap thoughts on new frameworks, and give some real talk on job hunting and staying steady in a rocky market.</p><p><strong>Don't agree with me prompt</strong></p>Avoid simply agreeing with my points or taking my conclusions at face value. I want a real intellectual challenge, not just affirmation. Whenever I propose an idea, do this:<p>- Question my assumptions. What am I treating as true that might be questionable? <br>- Offer a skeptic's viewpoint. What objections would a critical, well-informed voice raise? <br>- Check my reasoning. Are there flaws or leaps in logic I've overlooked?<br>- Suggest alternative angles. How else might the idea be viewed, interpreted, or challenged?<br>- Focus on accuracy over agreement. If my argument is weak or wrong, correct me plainly and show me how. <br>- Stay constructive but rigorous. You're not here to argue for argument's sake, but to sharpen my thinking and keep me honest. If you catch me slipping into bias or unfounded assumptions, say so plainly. Let's refine both our conclusions and the way we reach them.</p><p><br><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><a href="https://bsky.app/profile/did:plc:oukuku2b43bt5j7bvdnnb2k5/post/3lopywgptam2t" title="Reply on Bluesky">Reply on Bluesky</a><br>
+<br>]]>
+      </itunes:summary>
+      <itunes:keywords>career resiliency, economic downturn, networking, AI, job market, financial stability, learning, tech industry, learning, technology, LLMs, AI, job market, interviews, resilience, software development, frameworks, productivity</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</podcast:person>
+      <podcast:person role="Host" href="https://kball.llc" img="https://img.transistor.fm/A9hGXiMBSzFgbWtjNHo3caO18aCi-TqRSkVh7Yuy9bU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTZl/NzkxZWQzYWMzZTUx/Zjk1ZGVhNWUyZjgw/NTE2Ni5qcGVn.jpg">Kevin Ball</podcast:person>
+      <podcast:person role="Host" href="https://nicknisi.com" img="https://img.transistor.fm/vpkkSUvX_K9ClEDA4t2Ko8RC9DNrKjt114Ms-sK0qfk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81N2Ew/NzI2YmRhNmI2MzFm/NDhhZDYxMzU5YTYw/ODFmOC5qcGVn.jpg">Nick NIsi</podcast:person>
+      <podcast:socialInteract protocol="atproto" uri="at://did:plc:oukuku2b43bt5j7bvdnnb2k5/app.bsky.feed.post/3lopywgptam2t"/>
+    </item>
+    <item>
+      <title>The New Era of Developer Workflows</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>The New Era of Developer Workflows</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">66bd9bd3-53aa-4d2b-8ecc-6d89ad37e486</guid>
+      <link>https://dysfunctional.fm/4</link>
+      <description>
+        <![CDATA[<p>KBall and Nick dive into the chaotic world of AI-powered coding! They swap stories about how tools like Cursor and Neovim are completely changing their day-to-day work life and making them question what it even means to be a developer in 2025.</p><p><br>Between sharing their favorite productivity hacks and window management tricks, they get real about the excitement and anxiety of watching AI transform coding from a craft into something entirely new where developers might spend more time directing AI than writing code themselves.</p><p><br>Neither holds back on the exhausting parts either – like the mental drain of non-deterministic AI responses and the never-ending tech learning curve that has them constantly balancing new tools against trusted skills. It's like eavesdropping on a coffee break conversation between two friends who are both thrilled and terrified about their coding future.</p><p>Recorded on March 26th, 2025.</p><p><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><br><a href="https://www.youtube.com/watch?v=ENkDFls4sWg" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+<p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>KBall and Nick dive into the chaotic world of AI-powered coding! They swap stories about how tools like Cursor and Neovim are completely changing their day-to-day work life and making them question what it even means to be a developer in 2025.</p><p><br>Between sharing their favorite productivity hacks and window management tricks, they get real about the excitement and anxiety of watching AI transform coding from a craft into something entirely new where developers might spend more time directing AI than writing code themselves.</p><p><br>Neither holds back on the exhausting parts either – like the mental drain of non-deterministic AI responses and the never-ending tech learning curve that has them constantly balancing new tools against trusted skills. It's like eavesdropping on a coffee break conversation between two friends who are both thrilled and terrified about their coding future.</p><p>Recorded on March 26th, 2025.</p><p><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><br><a href="https://www.youtube.com/watch?v=ENkDFls4sWg" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+<p><br></p>]]>
+      </content:encoded>
+      <pubDate>Wed, 30 Apr 2025 18:12:07 +0000</pubDate>
+      <author>The Dysfunctional Developer</author>
+      <enclosure url="https://media.transistor.fm/17ee5a02/439b53cf.mp3" length="46718829" type="audio/mpeg"/>
+      <itunes:author>The Dysfunctional Developer</itunes:author>
+      <itunes:duration>2919</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>KBall and Nick dive into the chaotic world of AI-powered coding! They swap stories about how tools like Cursor and Neovim are completely changing their day-to-day work life and making them question what it even means to be a developer in 2025.</p><p><br>Between sharing their favorite productivity hacks and window management tricks, they get real about the excitement and anxiety of watching AI transform coding from a craft into something entirely new where developers might spend more time directing AI than writing code themselves.</p><p><br>Neither holds back on the exhausting parts either – like the mental drain of non-deterministic AI responses and the never-ending tech learning curve that has them constantly balancing new tools against trusted skills. It's like eavesdropping on a coffee break conversation between two friends who are both thrilled and terrified about their coding future.</p><p>Recorded on March 26th, 2025.</p><p><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><br><a href="https://www.youtube.com/watch?v=ENkDFls4sWg" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+<p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>development workflows, AI integration, software engineering, coding practices, Neovim, Cursor, Claude, AST grep, programming tools, ASTs, code modifications, workflow, window management, software updates, development environments, LLMs, customization, coding tools, productivity</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://kball.llc" img="https://img.transistor.fm/A9hGXiMBSzFgbWtjNHo3caO18aCi-TqRSkVh7Yuy9bU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTZl/NzkxZWQzYWMzZTUx/Zjk1ZGVhNWUyZjgw/NTE2Ni5qcGVn.jpg">Kevin Ball</podcast:person>
+      <podcast:person role="Host" href="https://nicknisi.com" img="https://img.transistor.fm/vpkkSUvX_K9ClEDA4t2Ko8RC9DNrKjt114Ms-sK0qfk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81N2Ew/NzI2YmRhNmI2MzFm/NDhhZDYxMzU5YTYw/ODFmOC5qcGVn.jpg">Nick NIsi</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/17ee5a02/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>The LLM Show</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>The LLM Show</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f8605395-53c5-439b-8a26-6c53869e97f9</guid>
+      <link>https://dysfunctional.fm/3</link>
+      <description>
+        <![CDATA[<p>In this conversation, the Nick, Amy, Chris, and KBall discuss the evolving role of artificial intelligence (AI) in software development, exploring its definitions, mechanics, and applications. They delve into the tools available for programmers, the implications of AI on job security, and the changing dynamics of work in the tech industry. The discussion highlights both the potential benefits and limitations of AI, emphasizing the importance of human oversight and decision-making in leveraging these technologies effectively.</p><p>Takeaways</p><ul><li>AI is transforming the way we approach programming and software development.</li><li>Understanding AI's mechanics is crucial for effective use in coding.</li><li>AI tools can significantly enhance productivity for developers.</li><li>Job roles in tech are evolving due to the integration of AI.</li><li>AI can automate repetitive tasks, allowing for more creative work.</li><li>The future of work will involve more decision-making and less manual coding.</li><li>AI's limitations necessitate human oversight and critical thinking.</li><li>Effective documentation is key to improving AI's performance in coding tasks.</li><li>AI can assist in generating context and understanding user needs.</li><li>The relationship between AI and job security is complex and evolving.</li></ul><p><br>Recorded on March 5th, 2025</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this conversation, the Nick, Amy, Chris, and KBall discuss the evolving role of artificial intelligence (AI) in software development, exploring its definitions, mechanics, and applications. They delve into the tools available for programmers, the implications of AI on job security, and the changing dynamics of work in the tech industry. The discussion highlights both the potential benefits and limitations of AI, emphasizing the importance of human oversight and decision-making in leveraging these technologies effectively.</p><p>Takeaways</p><ul><li>AI is transforming the way we approach programming and software development.</li><li>Understanding AI's mechanics is crucial for effective use in coding.</li><li>AI tools can significantly enhance productivity for developers.</li><li>Job roles in tech are evolving due to the integration of AI.</li><li>AI can automate repetitive tasks, allowing for more creative work.</li><li>The future of work will involve more decision-making and less manual coding.</li><li>AI's limitations necessitate human oversight and critical thinking.</li><li>Effective documentation is key to improving AI's performance in coding tasks.</li><li>AI can assist in generating context and understanding user needs.</li><li>The relationship between AI and job security is complex and evolving.</li></ul><p><br>Recorded on March 5th, 2025</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 25 Apr 2025 13:35:13 +0000</pubDate>
+      <author>The Dysfunctional Developer</author>
+      <enclosure url="https://media.transistor.fm/35334ea5/2a5ef79f.mp3" length="66733200" type="audio/mpeg"/>
+      <itunes:author>The Dysfunctional Developer</itunes:author>
+      <itunes:duration>4170</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this conversation, the Nick, Amy, Chris, and KBall discuss the evolving role of artificial intelligence (AI) in software development, exploring its definitions, mechanics, and applications. They delve into the tools available for programmers, the implications of AI on job security, and the changing dynamics of work in the tech industry. The discussion highlights both the potential benefits and limitations of AI, emphasizing the importance of human oversight and decision-making in leveraging these technologies effectively.</p><p>Takeaways</p><ul><li>AI is transforming the way we approach programming and software development.</li><li>Understanding AI's mechanics is crucial for effective use in coding.</li><li>AI tools can significantly enhance productivity for developers.</li><li>Job roles in tech are evolving due to the integration of AI.</li><li>AI can automate repetitive tasks, allowing for more creative work.</li><li>The future of work will involve more decision-making and less manual coding.</li><li>AI's limitations necessitate human oversight and critical thinking.</li><li>Effective documentation is key to improving AI's performance in coding tasks.</li><li>AI can assist in generating context and understanding user needs.</li><li>The relationship between AI and job security is complex and evolving.</li></ul><p><br>Recorded on March 5th, 2025</p>]]>
+      </itunes:summary>
+      <itunes:keywords>AI, artificial intelligence, programming, software development, tools, job security, future of work, technology, coding, automation</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://nicknisi.com" img="https://img.transistor.fm/vpkkSUvX_K9ClEDA4t2Ko8RC9DNrKjt114Ms-sK0qfk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81N2Ew/NzI2YmRhNmI2MzFm/NDhhZDYxMzU5YTYw/ODFmOC5qcGVn.jpg">Nick NIsi</podcast:person>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</podcast:person>
+      <podcast:person role="Host" href="https://kball.llc" img="https://img.transistor.fm/A9hGXiMBSzFgbWtjNHo3caO18aCi-TqRSkVh7Yuy9bU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTZl/NzkxZWQzYWMzZTUx/Zjk1ZGVhNWUyZjgw/NTE2Ni5qcGVn.jpg">Kevin Ball</podcast:person>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/christopher-hiller" img="https://img.transistor.fm/OUn91jBByNGYzx5LjgYS3WgiRQnDRGXCHNm24z3y-Ls/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzNi/MDVhNzQzMTM4ZGU0/YzI3NTgxNDI1N2Iy/OWJlOS5wbmc.jpg">Christopher Hiller</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/35334ea5/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>The Code Review Show</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>The Code Review Show</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4a9f45f9-4fdb-4095-be09-1475000bc58a</guid>
+      <link>https://dysfunctional.fm/2</link>
+      <description>
+        <![CDATA[<p>In this episode of the Dysfunctional Developer podcast, KBall and guests discuss the intricacies of pull requests and code reviews in software development. They explore various practices, the importance of reviews, and the balance between speed and quality in coding. The conversation highlights different team dynamics, the necessity of reviews in security contexts, and the challenges of managing pull requests effectively. The guests share their experiences with code review processes, stacked PRs, and the tools they use to facilitate collaboration and maintain code quality. In this conversation, the participants delve into the intricacies of code reviews and pull request processes, discussing various strategies for providing feedback, the importance of timely reviews, and the challenges faced in dysfunctional review systems. They share personal experiences and insights on how to create a more effective and collaborative environment for code reviews, emphasizing the need for clear communication and trust among team members. The discussion culminates in brainstorming ideas for an ideal pull request process that fosters team engagement and efficiency.</p><p>Recorded on February 26, 2025</p><p><strong>Starring</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/christopher-hiller">Christopher Hiller</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><br><a href="https://www.youtube.com/watch?v=rNJKGqi5f7A" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of the Dysfunctional Developer podcast, KBall and guests discuss the intricacies of pull requests and code reviews in software development. They explore various practices, the importance of reviews, and the balance between speed and quality in coding. The conversation highlights different team dynamics, the necessity of reviews in security contexts, and the challenges of managing pull requests effectively. The guests share their experiences with code review processes, stacked PRs, and the tools they use to facilitate collaboration and maintain code quality. In this conversation, the participants delve into the intricacies of code reviews and pull request processes, discussing various strategies for providing feedback, the importance of timely reviews, and the challenges faced in dysfunctional review systems. They share personal experiences and insights on how to create a more effective and collaborative environment for code reviews, emphasizing the need for clear communication and trust among team members. The discussion culminates in brainstorming ideas for an ideal pull request process that fosters team engagement and efficiency.</p><p>Recorded on February 26, 2025</p><p><strong>Starring</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/christopher-hiller">Christopher Hiller</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><br><a href="https://www.youtube.com/watch?v=rNJKGqi5f7A" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+]]>
+      </content:encoded>
+      <pubDate>Thu, 17 Apr 2025 04:01:49 +0000</pubDate>
+      <author>The Dysfunctional Developer</author>
+      <enclosure url="https://media.transistor.fm/547ebbb6/234b471a.mp3" length="51027138" type="audio/mpeg"/>
+      <itunes:author>The Dysfunctional Developer</itunes:author>
+      <itunes:duration>3189</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of the Dysfunctional Developer podcast, KBall and guests discuss the intricacies of pull requests and code reviews in software development. They explore various practices, the importance of reviews, and the balance between speed and quality in coding. The conversation highlights different team dynamics, the necessity of reviews in security contexts, and the challenges of managing pull requests effectively. The guests share their experiences with code review processes, stacked PRs, and the tools they use to facilitate collaboration and maintain code quality. In this conversation, the participants delve into the intricacies of code reviews and pull request processes, discussing various strategies for providing feedback, the importance of timely reviews, and the challenges faced in dysfunctional review systems. They share personal experiences and insights on how to create a more effective and collaborative environment for code reviews, emphasizing the need for clear communication and trust among team members. The discussion culminates in brainstorming ideas for an ideal pull request process that fosters team engagement and efficiency.</p><p>Recorded on February 26, 2025</p><p><strong>Starring</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/christopher-hiller">Christopher Hiller</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+</ul><br><a href="https://www.youtube.com/watch?v=rNJKGqi5f7A" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+]]>
+      </itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</podcast:person>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/christopher-hiller" img="https://img.transistor.fm/OUn91jBByNGYzx5LjgYS3WgiRQnDRGXCHNm24z3y-Ls/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzNi/MDVhNzQzMTM4ZGU0/YzI3NTgxNDI1N2Iy/OWJlOS5wbmc.jpg">Christopher Hiller</podcast:person>
+      <podcast:person role="Host" href="https://kball.llc" img="https://img.transistor.fm/A9hGXiMBSzFgbWtjNHo3caO18aCi-TqRSkVh7Yuy9bU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTZl/NzkxZWQzYWMzZTUx/Zjk1ZGVhNWUyZjgw/NTE2Ni5qcGVn.jpg">Kevin Ball</podcast:person>
+      <podcast:person role="Host" href="https://nicknisi.com" img="https://img.transistor.fm/vpkkSUvX_K9ClEDA4t2Ko8RC9DNrKjt114Ms-sK0qfk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81N2Ew/NzI2YmRhNmI2MzFm/NDhhZDYxMzU5YTYw/ODFmOC5qcGVn.jpg">Nick NIsi</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/547ebbb6/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>The party continues</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>The party continues</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">fb8713d9-af22-46b1-9c33-39483298b662</guid>
+      <link>https://dysfunctional.fm/1</link>
+      <description>
+        <![CDATA[<p>In the inaugural episode of the Dysfunctional Developer podcast, KBall, Amy Dutton, Chris "Boneskull" Hiller, and Nick Nisi introduce themselves and share their backgrounds in software development. They discuss the origins of the podcast, stemming from the discontinuation of the JS Party podcast, and their desire to address the often overlooked dysfunctions in the tech industry. The conversation delves into their current roles, the challenges they face in their jobs, and the common dysfunctions present in workplaces. They also explore coping mechanisms for dealing with workplace stress and dysfunction, and conclude with a discussion on potential future topics for the podcast.</p><p>This episode was recorded on February 5th, 2025.</p><p><a href="https://www.youtube.com/watch?v=RpWWMuVU-Fo" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+<br><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/christopher-hiller">Christopher Hiller</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+</ul><br>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In the inaugural episode of the Dysfunctional Developer podcast, KBall, Amy Dutton, Chris "Boneskull" Hiller, and Nick Nisi introduce themselves and share their backgrounds in software development. They discuss the origins of the podcast, stemming from the discontinuation of the JS Party podcast, and their desire to address the often overlooked dysfunctions in the tech industry. The conversation delves into their current roles, the challenges they face in their jobs, and the common dysfunctions present in workplaces. They also explore coping mechanisms for dealing with workplace stress and dysfunction, and conclude with a discussion on potential future topics for the podcast.</p><p>This episode was recorded on February 5th, 2025.</p><p><a href="https://www.youtube.com/watch?v=RpWWMuVU-Fo" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+<br><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/christopher-hiller">Christopher Hiller</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+</ul><br>]]>
+      </content:encoded>
+      <pubDate>Wed, 16 Apr 2025 03:10:39 +0000</pubDate>
+      <author>The Dysfunctional Developer</author>
+      <enclosure url="https://media.transistor.fm/bff720c3/fcd69f54.mp3" length="47043986" type="audio/mpeg"/>
+      <itunes:author>The Dysfunctional Developer</itunes:author>
+      <itunes:duration>2940</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In the inaugural episode of the Dysfunctional Developer podcast, KBall, Amy Dutton, Chris "Boneskull" Hiller, and Nick Nisi introduce themselves and share their backgrounds in software development. They discuss the origins of the podcast, stemming from the discontinuation of the JS Party podcast, and their desire to address the often overlooked dysfunctions in the tech industry. The conversation delves into their current roles, the challenges they face in their jobs, and the common dysfunctions present in workplaces. They also explore coping mechanisms for dealing with workplace stress and dysfunction, and conclude with a discussion on potential future topics for the podcast.</p><p>This episode was recorded on February 5th, 2025.</p><p><a href="https://www.youtube.com/watch?v=RpWWMuVU-Fo" title="Click here to watch a video of this episode.">Click here to watch a video of this episode.</a><br>
+<br><strong>Creators &amp; Guests</strong>
+</p><ul>
+  <li><a href="https://dysfunctional.fm/people/nick-nisi">Nick NIsi</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/kevin-ball">Kevin Ball</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/christopher-hiller">Christopher Hiller</a> - Host</li>
+  <li><a href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</a> - Host</li>
+</ul><br>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, javascript, software development</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://nicknisi.com" img="https://img.transistor.fm/vpkkSUvX_K9ClEDA4t2Ko8RC9DNrKjt114Ms-sK0qfk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81N2Ew/NzI2YmRhNmI2MzFm/NDhhZDYxMzU5YTYw/ODFmOC5qcGVn.jpg">Nick NIsi</podcast:person>
+      <podcast:person role="Host" href="https://kball.llc" img="https://img.transistor.fm/A9hGXiMBSzFgbWtjNHo3caO18aCi-TqRSkVh7Yuy9bU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTZl/NzkxZWQzYWMzZTUx/Zjk1ZGVhNWUyZjgw/NTE2Ni5qcGVn.jpg">Kevin Ball</podcast:person>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/christopher-hiller" img="https://img.transistor.fm/OUn91jBByNGYzx5LjgYS3WgiRQnDRGXCHNm24z3y-Ls/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzNi/MDVhNzQzMTM4ZGU0/YzI3NTgxNDI1N2Iy/OWJlOS5wbmc.jpg">Christopher Hiller</podcast:person>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/bff720c3/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Trailer: The Dysfunctional Developer</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Trailer: The Dysfunctional Developer</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <guid isPermaLink="false">14b1b35e-4317-4fe6-aa62-fd7b702d5093</guid>
+      <link>https://share.transistor.fm/s/8fe7a1c1</link>
+      <description>
+        <![CDATA[<p>The Dysfunctional Developer, a new tech podcast from former JS Party hosts Nick Nisi, KBall and Amy Dutton, takes an honest look at the messy reality of modern web development. Moving beyond the polished narratives of Tech Twitter and trending articles, this show tackles the authentic challenges developers face daily. From the impact of AI on entry-level positions to the unique experience of coding in flyover country, the podcast explores the often-overlooked aspects of software development. Each episode features candid conversations with developers and industry experts who share real-world insights about debugging in production, managing the constant flood of new technologies, and navigating the actual experience of building software in 2025 and beyond. The Dysfunctional Developer aims to cut through the hype and connect with developers where they really are – in the sometimes chaotic but always genuine world of practical software development.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The Dysfunctional Developer, a new tech podcast from former JS Party hosts Nick Nisi, KBall and Amy Dutton, takes an honest look at the messy reality of modern web development. Moving beyond the polished narratives of Tech Twitter and trending articles, this show tackles the authentic challenges developers face daily. From the impact of AI on entry-level positions to the unique experience of coding in flyover country, the podcast explores the often-overlooked aspects of software development. Each episode features candid conversations with developers and industry experts who share real-world insights about debugging in production, managing the constant flood of new technologies, and navigating the actual experience of building software in 2025 and beyond. The Dysfunctional Developer aims to cut through the hype and connect with developers where they really are – in the sometimes chaotic but always genuine world of practical software development.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 02 Dec 2024 17:54:00 -0100</pubDate>
+      <author>The Dysfunctional Developer</author>
+      <enclosure url="https://media.transistor.fm/8fe7a1c1/e098a471.mp3" length="1196985" type="audio/mpeg"/>
+      <itunes:author>The Dysfunctional Developer</itunes:author>
+      <itunes:duration>75</itunes:duration>
+      <itunes:summary>The Dysfunctional Developer, a new tech podcast from former JS Party hosts Nick Nisi, KBall and Amy Dutton, takes an honest look at the messy reality of modern web development. Moving beyond the polished narratives of Tech Twitter and trending...</itunes:summary>
+      <itunes:subtitle>The Dysfunctional Developer, a new tech podcast from former JS Party hosts Nick Nisi, KBall and Amy Dutton, takes an honest look at the messy reality of modern web development. Moving beyond the polished narratives of Tech Twitter and trending...</itunes:subtitle>
+      <itunes:keywords>software,Development</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://nicknisi.com" img="https://img.transistor.fm/vpkkSUvX_K9ClEDA4t2Ko8RC9DNrKjt114Ms-sK0qfk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81N2Ew/NzI2YmRhNmI2MzFm/NDhhZDYxMzU5YTYw/ODFmOC5qcGVn.jpg">Nick NIsi</podcast:person>
+      <podcast:person role="Host" href="https://kball.llc" img="https://img.transistor.fm/A9hGXiMBSzFgbWtjNHo3caO18aCi-TqRSkVh7Yuy9bU/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTZl/NzkxZWQzYWMzZTUx/Zjk1ZGVhNWUyZjgw/NTE2Ni5qcGVn.jpg">Kevin Ball</podcast:person>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/christopher-hiller" img="https://img.transistor.fm/OUn91jBByNGYzx5LjgYS3WgiRQnDRGXCHNm24z3y-Ls/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzNi/MDVhNzQzMTM4ZGU0/YzI3NTgxNDI1N2Iy/OWJlOS5wbmc.jpg">Christopher Hiller</podcast:person>
+      <podcast:person role="Host" href="https://dysfunctional.fm/people/amy-dutton">Amy Dutton</podcast:person>
+    </item>
+  </channel>
+</rss>

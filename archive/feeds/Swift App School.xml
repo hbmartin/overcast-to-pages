@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Swift App School]]></title>
+		<description><![CDATA[Learn to code. Build Apps. Inspire the next generation!
+
+Swift App School is committed to teaching the youth of tomorrow all about developing apps and writing Swift code.
+Our goal is to help young people learn the fundamentals of creating apps by teaching them Swift, Apple's open-source programming language.
+
+We are empowering the next generation of great app developers!
+
+This podcast station will focus on general news about Computer Science, Artificial Intelligence, and STEM. We also discuss iOS App Development, Apple in the news, and finally something cool that we discovered.]]></description>
+		<link>http://www.swiftappschool.com</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 10 Jun 2025 13:39:24 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/7329ce94/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Swift App School]]></author>
+		<copyright><![CDATA[Swift App School]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Swift App School</itunes:author>
+		<itunes:summary>Learn to code. Build Apps. Inspire the next generation!
+
+Swift App School is committed to teaching the youth of tomorrow all about developing apps and writing Swift code.
+Our goal is to help young people learn the fundamentals of creating apps by teaching them Swift, Apple&apos;s open-source programming language.
+
+We are empowering the next generation of great app developers!
+
+This podcast station will focus on general news about Computer Science, Artificial Intelligence, and STEM. We also discuss iOS App Development, Apple in the news, and finally something cool that we discovered.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Swift App School</itunes:name>
+			<itunes:email>socialmedia@swiftappschool.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/19221197/19221197-1636431007959-45e23062229ee.jpg"/>
+		<item>
+			<title><![CDATA[S2 - E4. Our Challenging 2024 | App Camp and What's Next For Swift App School | Apple’s 2024 Events | Something Cool!]]></title>
+			<description><![CDATA[<p>In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. </p>
+<p><br /></p>
+<p><strong>Timestamps:</strong></p>
+<p>00:26 Losing Our Fathers and Hurricane Helene</p>
+<p>08:17 2024 Summer App Camp</p>
+<p>19:14 OpenDoors Asheville Partnership and Our Future STEM Nonprofit Coming Soon</p>
+<p>25:33 Apple In The News</p>
+<p>57:10 Something cool!</p>
+<p><br /></p>
+<p>We hope you enjoy our episode!</p>
+<p><br /></p>
+<p><strong>Links:</strong></p>
+<p>OpenDoors Asheville</p>
+<p><a href="https://opendoorsasheville.org" target="_blank" rel="ugc noopener noreferrer">https://opendoorsasheville.org</a></p>
+<p><br /></p>
+<p>Apple May 7th Event </p>
+<p><a href="https://www.csedweek.org/" target="_blank" rel="ugc noopener noreferrer">https://www.youtube.com/live/f1J38FlDKxo?si=RjZeFpxlCaWrCIYS</a><br /></p>
+<p>Apple’s WWDC 2024</p>
+<p><a href="https://www.youtube.com/live/RXeOiIDNNek?si=Fh3kU_ydVGFx4z_u" target="_blank" rel="ugc noopener noreferrer">https://www.youtube.com/live/RXeOiIDNNek?si=Fh3kU_ydVGFx4z_u</a></p>
+<p><br /></p>
+<p>Apple Intelligence</p>
+<p><a href="https://youtu.be/Q_EYoV1kZWk?si=fPF3VbB3IvKZgA9K" target="_blank" rel="ugc noopener noreferrer">https://youtu.be/Q_EYoV1kZWk?si=fPF3VbB3IvKZgA9K</a></p>
+<p> </p>
+<p>Apple’s September 9th “It’s Glowtime” Event</p>
+<p><a href="https://www.youtube.com/live/uarNiSl_uh4?si=TE6zC0znXBdMlerJ" target="_blank" rel="ugc noopener noreferrer">https://www.youtube.com/live/uarNiSl_uh4?si=TE6zC0znXBdMlerJ</a></p>
+<p><br /></p>
+<p>Apple October Announcements:</p>
+<p>iMac - <a href="https://youtu.be/eaB7nCdId0Y?si=pBYgKo32gX08sBHg" target="_blank" rel="ugc noopener noreferrer">https://youtu.be/eaB7nCdId0Y?si=pBYgKo32gX08sBHg</a></p>
+<p>Mac mini - <a href="https://youtu.be/TtFm9n3NVzE?si=5qiSzRpTmp2YTe7a" target="_blank" rel="ugc noopener noreferrer">https://youtu.be/TtFm9n3NVzE?si=5qiSzRpTmp2YTe7a</a></p>
+<p>MacBook Pro - <a href="https://youtu.be/G0cmfY7qdmY?si=tvtsaBsX2Bv_XIO3" target="_blank" rel="ugc noopener noreferrer">https://youtu.be/G0cmfY7qdmY?si=tvtsaBsX2Bv_XIO3</a></p>
+<p><br /></p>
+<p>Something Cool:</p>
+<p>Is Apple really making a foldable iPad?</p>
+<p><a href="https://www.macrumors.com/guide/foldable-ipad/" target="_blank" rel="ugc noopener noreferrer">https://www.macrumors.com/guide/foldable-ipad/</a></p>
+<p><br /></p>
+<p>Music provided by "https://ncs.io/aperture"</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S2---E4--Our-Challenging-2024--App-Camp-and-Whats-Next-For-Swift-App-School--Apples-2024-Events--Something-Cool-e2tfjuf</link>
+			<guid isPermaLink="false">68357d5e-9517-4506-af29-5adfc5192ac3</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Tue, 14 Jan 2025 08:35:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/97029519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-14%2F4bd4dc94-8bdc-efa8-dbac-8c114e804f9e.mp3" length="92491738" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;00:26 Losing Our Fathers and Hurricane Helene&lt;/p&gt;
+&lt;p&gt;08:17 2024 Summer App Camp&lt;/p&gt;
+&lt;p&gt;19:14 OpenDoors Asheville Partnership and Our Future STEM Nonprofit Coming Soon&lt;/p&gt;
+&lt;p&gt;25:33 Apple In The News&lt;/p&gt;
+&lt;p&gt;57:10 Something cool!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenDoors Asheville&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://opendoorsasheville.org&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://opendoorsasheville.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Apple May 7th Event &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.csedweek.org/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://www.youtube.com/live/f1J38FlDKxo?si=RjZeFpxlCaWrCIYS&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Apple’s WWDC 2024&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/live/RXeOiIDNNek?si=Fh3kU_ydVGFx4z_u&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://www.youtube.com/live/RXeOiIDNNek?si=Fh3kU_ydVGFx4z_u&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Apple Intelligence&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/Q_EYoV1kZWk?si=fPF3VbB3IvKZgA9K&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://youtu.be/Q_EYoV1kZWk?si=fPF3VbB3IvKZgA9K&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Apple’s September 9th “It’s Glowtime” Event&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/live/uarNiSl_uh4?si=TE6zC0znXBdMlerJ&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://www.youtube.com/live/uarNiSl_uh4?si=TE6zC0znXBdMlerJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Apple October Announcements:&lt;/p&gt;
+&lt;p&gt;iMac - &lt;a href=&quot;https://youtu.be/eaB7nCdId0Y?si=pBYgKo32gX08sBHg&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://youtu.be/eaB7nCdId0Y?si=pBYgKo32gX08sBHg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mac mini - &lt;a href=&quot;https://youtu.be/TtFm9n3NVzE?si=5qiSzRpTmp2YTe7a&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://youtu.be/TtFm9n3NVzE?si=5qiSzRpTmp2YTe7a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MacBook Pro - &lt;a href=&quot;https://youtu.be/G0cmfY7qdmY?si=tvtsaBsX2Bv_XIO3&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://youtu.be/G0cmfY7qdmY?si=tvtsaBsX2Bv_XIO3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Something Cool:&lt;/p&gt;
+&lt;p&gt;Is Apple really making a foldable iPad?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.macrumors.com/guide/foldable-ipad/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://www.macrumors.com/guide/foldable-ipad/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &quot;https://ncs.io/aperture&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:04:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/19221197/19221197-1736843558359-b9ee6af1df7dc.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2 - E3. CS Ed Week | App Camp | MacStadium Case Study | Apple’s 2023 Events]]></title>
+			<description><![CDATA[<p>In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. </p>
+<p><br></p>
+<p><strong>Timestamps:</strong></p>
+<p>00:44 Computer Science Education Week</p>
+<p>05:24 2023 Summer App Camp</p>
+<p>11:20 MacStadium Case study</p>
+<p>18:45 Apple’s September “Wonderlust” Event</p>
+<p>37:14 Apple’s October “Scary Fast” Event</p>
+<p><br></p>
+<p><strong>Something Cool:</strong></p>
+<p>44:34 Apple + RCS?</p>
+<p>50:16 Personal Voice Ad</p>
+<p>52:14 AI Pin by Humane</p>
+<p><br></p>
+<p>We hope you enjoy our episode!</p>
+<p><br></p>
+<p><strong>Links:</strong></p>
+<p>Computer Science Education Week:</p>
+<p><a href="https://www.csedweek.org/">https://www.csedweek.org</a></p>
+<p><br></p>
+<p>2023 App Camp, MacStadium case study and future plans for Swift App School</p>
+<p><a href="https://www.macstadium.com/customers/swift-app-school">https://www.macstadium.com/customers/swift-app-school</a></p>
+<p><br></p>
+<p>Apple’s September “Wonderlust” Event</p>
+<p><a href="https://www.youtube.com/watch?v=ZiP1l7jlIIA">Apple Event - September 12</a></p>
+<p><br></p>
+<p>Apple’s October “Scary Fast” Event</p>
+<p><a href="https://www.youtube.com/watch?v=ctkW3V0Mh-k">Apple Event - October 30</a></p>
+<p><br></p>
+<p><strong>Something Cool:</strong></p>
+<p>Apple’s surprising iMessage Move - RCS Coming?</p>
+<p><a href="https://www.forbes.com/sites/kateoflahertyuk/2023/11/17/apple-announces-surprise-new-iphone-move-starting-2024/?sh=1f7b2865c5eb">https://www.forbes.com/sites/kateoflahertyuk/2023/11/17/apple-announces-surprise-new-iphone-move-starting-2024/?sh=1f7b2865c5eb</a></p>
+<p><br></p>
+<p>Apple’s new personal voice ad:</p>
+<p><a href="https://www.youtube.com/watch?v=ra9I0HScTDw">Personal Voice on iPhone | The Lost Voice | Apple</a></p>
+<p><br></p>
+<p>AI Pin by Humane</p>
+<p><a href="https://hu.ma.ne/aipin">https://hu.ma.ne/aipin</a></p>
+<p><br></p>
+<p>Music provided by &quot;https://ncs.io/aperture&quot;</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S2---E3--CS-Ed-Week--App-Camp--MacStadium-Case-Study--Apples-2023-Events-e2dfkob</link>
+			<guid isPermaLink="false">db3b0a08-4679-4087-b982-9f97fdc25393</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Wed, 20 Dec 2023 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/80253131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-20%2F2523fd3e-57d1-f4c5-d9c9-5b5c58a73c74.mp3" length="67685271" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;00:44 Computer Science Education Week&lt;/p&gt;
+&lt;p&gt;05:24 2023 Summer App Camp&lt;/p&gt;
+&lt;p&gt;11:20 MacStadium Case study&lt;/p&gt;
+&lt;p&gt;18:45 Apple’s September “Wonderlust” Event&lt;/p&gt;
+&lt;p&gt;37:14 Apple’s October “Scary Fast” Event&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Something Cool:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;44:34 Apple + RCS?&lt;/p&gt;
+&lt;p&gt;50:16 Personal Voice Ad&lt;/p&gt;
+&lt;p&gt;52:14 AI Pin by Humane&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Computer Science Education Week:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.csedweek.org/&quot;&gt;https://www.csedweek.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2023 App Camp, MacStadium case study and future plans for Swift App School&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.macstadium.com/customers/swift-app-school&quot;&gt;https://www.macstadium.com/customers/swift-app-school&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Apple’s September “Wonderlust” Event&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZiP1l7jlIIA&quot;&gt;Apple Event - September 12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Apple’s October “Scary Fast” Event&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ctkW3V0Mh-k&quot;&gt;Apple Event - October 30&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Something Cool:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Apple’s surprising iMessage Move - RCS Coming?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/kateoflahertyuk/2023/11/17/apple-announces-surprise-new-iphone-move-starting-2024/?sh=1f7b2865c5eb&quot;&gt;https://www.forbes.com/sites/kateoflahertyuk/2023/11/17/apple-announces-surprise-new-iphone-move-starting-2024/?sh=1f7b2865c5eb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Apple’s new personal voice ad:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ra9I0HScTDw&quot;&gt;Personal Voice on iPhone | The Lost Voice | Apple&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;AI Pin by Humane&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hu.ma.ne/aipin&quot;&gt;https://hu.ma.ne/aipin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &amp;quot;https://ncs.io/aperture&amp;quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:56:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/19221197/19221197-1703064235967-0fcc5f917fdd9.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S2 - E2. WWDC 2023 Recap | New Macs | New Operating Systems and Features | Apple Vision Pro!]]></title>
+			<description><![CDATA[<p>In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. </p>
+<p><br></p>
+<p>Timestamps:</p>
+<p>02:05 New Mac Hardware</p>
+<p>10:12 iOS 17</p>
+<p>17:34 iPad OS 17</p>
+<p>19:29 macOS Sonoma</p>
+<p>23:58 Audio, tvOS and HomeKit</p>
+<p>26:52 watchOS 10</p>
+<p>33:36 Apple Vision Pro!  </p>
+<p><br></p>
+<p>We hope you enjoy our episode!</p>
+<p><br></p>
+<p><strong>Links:</strong></p>
+<p>WWDC 2023:</p>
+<p><a href="https://www.youtube.com/watch?v=GYkq9Rgoj8E">https://www.youtube.com/watch?v=GYkq9Rgoj8E</a><br></p>
+<p>New Mac Hardware:</p>
+<p><a href="https://www.apple.com/mac/">https://www.apple.com/mac/</a></p>
+<p><br></p>
+<p>Apple Vision Pro</p>
+<p><a href="https://www.youtube.com/watch?v=TX9qSaGXFyg">https://www.youtube.com/watch?v=TX9qSaGXFyg</a></p>
+<p><br></p>
+<p>Music provided by &quot;https://ncs.io/aperture&quot;</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S2---E2--WWDC-2023-Recap--New-Macs--New-Operating-Systems-and-Features--Apple-Vision-Pro-e25jue3</link>
+			<guid isPermaLink="false">96750d7a-55d6-41af-bed8-e6de911e507f</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Mon, 12 Jun 2023 06:57:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/72005507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2Fc4d71210-6c10-81c5-9b70-5e71800fada9.mp3" length="73703311" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Timestamps:&lt;/p&gt;
+&lt;p&gt;02:05 New Mac Hardware&lt;/p&gt;
+&lt;p&gt;10:12 iOS 17&lt;/p&gt;
+&lt;p&gt;17:34 iPad OS 17&lt;/p&gt;
+&lt;p&gt;19:29 macOS Sonoma&lt;/p&gt;
+&lt;p&gt;23:58 Audio, tvOS and HomeKit&lt;/p&gt;
+&lt;p&gt;26:52 watchOS 10&lt;/p&gt;
+&lt;p&gt;33:36 Apple Vision Pro!  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;WWDC 2023:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GYkq9Rgoj8E&quot;&gt;https://www.youtube.com/watch?v=GYkq9Rgoj8E&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;New Mac Hardware:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.apple.com/mac/&quot;&gt;https://www.apple.com/mac/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Apple Vision Pro&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TX9qSaGXFyg&quot;&gt;https://www.youtube.com/watch?v=TX9qSaGXFyg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &amp;quot;https://ncs.io/aperture&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/19221197/19221197-1686552826219-ea9eb040ba732.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Season 2 Begins! What's New With Swift App School | Advancements With AI and ChatGPT | Apple In The News | Something Cool!]]></title>
+			<description><![CDATA[In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. 
+
+Timestamps:
+
+01:19 Holidays
+07:19 What’s New With Swift App School 
+18:06 Major Advancements Of AI & ChatGPT Discussion
+
+Apple In The News:
+54:06 Apple Releases New Computers!  
+59:55 Apple Store Changes & New Classical Music App
+01:03:56 Something Cool! 
+
+We hope you enjoy our episode!
+
+Links:
+Atomic Habits Book: 
+Shout out to MacStadium
+
+2023 Summer App Camp 
+
+Hatch Innovation Hub
+
+
+Artificial Intelligence 
+https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/
+
+DALL-E 2:
+https://openai.com/product/dall-e-2
+
+ChatGPT:
+https://openai.com/blog/chatgpt
+
+MidJourney:
+https://www.midjourney.com
+
+Stable Diffusion AI:
+https://stability.ai/blog/stable-diffusion-public-release
+The power of ChatGPT:
+https://finance.yahoo.com/news/chatgpt-on-track-to-surpass-100-million-users-faster-than-tiktok-or-instagram-ubs-214423357.html
+https://www.youtube.com/watch?app=desktop&v=HTWfA7KFzoA
+
+With ChatGPT and Microsoft support, is Google in trouble?
+https://openai.com/blog/openai-and-microsoft-extend-partnership
+https://www.theverge.com/2023/1/9/23546144/microsoft-openai-word-powerpoint-outlook-gpt-integration-rumor
+https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html
+https://www.cnet.com/tech/services-and-software/chatgpt-caused-code-red-at-google-report-says/
+https://www.businessinsider.com/bing-chatgpt-google-faces-first-real-competition-in-20-years-2023-1
+https://www.firstpost.com/world/chatgpt-can-destroy-google-search-in-two-years-says-gmail-creator-12070222.html
+https://www.theverge.com/2023/1/4/23538552/microsoft-bing-chatgpt-search-google-competition
+Competition Responses to ChatGPT:
+https://blog.google/technology/ai/bard-google-ai-search-updates/
+https://www.engadget.com/meta-is-working-on-ai-personas-for-instagram-messenger-and-whatsapp-223316961.html
+
+ChatGPT and the Job Industry:
+https://www.datanami.com/2021/08/09/we-need-to-prepare-for-tomorrows-ai-job-impacts-now/
+https://www.the-sun.com/tech/7211994/lose-job-ai-chatgpt-work-hour-seconds/
+https://www.cnn.com/2023/01/28/tech/chatgpt-real-estate/index.html
+https://www.inc.com/eric-holtzclaw/ive-been-using-chatgpt-for-my-business-for-a-month-its-already-saved-me-40-hours-7500.html
+
+ChatGPT in Education:
+https://thehill.com/policy/technology/3816348-what-is-chatgpt-ai-technology-sends-schools-scrambling-to-preserve-learning/
+https://www.theguardian.com/australia-news/2023/jan/10/universities-to-return-to-pen-and-paper-exams-after-students-caught-using-ai-to-write-essays
+https://www.wired.com/story/chatgpt-is-coming-for-classrooms-dont-panic/
+https://www.businessinsider.com/education-experts-teachers-generative-ai-chatgpt-classroom-2023-1
+https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/
+
+Products and Apps Mentioned:
+Samsung Odyssey Neo G9
+AirPods Pro 
+New Mac Minis with M2 and M2 Pro Chips
+New MacBook Pros with M2 Pro / Max Chips
+App Store Pricing Changes
+New Apple Music Classical App
+
+Apple Music SingMusic provided by "https://ncs.io/aperture"
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/Season-2-Begins--Whats-New-With-Swift-App-School--Advancements-With-AI-and-ChatGPT--Apple-In-The-News--Something-Cool-e20mivg</link>
+			<guid isPermaLink="false">1fa451cf-2688-488b-9d39-a8528e7f2be4</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Sun, 19 Mar 2023 01:36:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/66849200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-19%2F318885115-44100-2-291f05c53ad21.m4a" length="64661602" type="audio/x-m4a"/>
+			<itunes:summary>In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. 
+
+Timestamps:
+
+01:19 Holidays
+07:19 What’s New With Swift App School 
+18:06 Major Advancements Of AI &amp; ChatGPT Discussion
+
+Apple In The News:
+54:06 Apple Releases New Computers!  
+59:55 Apple Store Changes &amp; New Classical Music App
+01:03:56 Something Cool! 
+
+We hope you enjoy our episode!
+
+Links:
+Atomic Habits Book: 
+Shout out to MacStadium
+
+2023 Summer App Camp 
+
+Hatch Innovation Hub
+
+
+Artificial Intelligence 
+https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/
+
+DALL-E 2:
+https://openai.com/product/dall-e-2
+
+ChatGPT:
+https://openai.com/blog/chatgpt
+
+MidJourney:
+https://www.midjourney.com
+
+Stable Diffusion AI:
+https://stability.ai/blog/stable-diffusion-public-release
+The power of ChatGPT:
+https://finance.yahoo.com/news/chatgpt-on-track-to-surpass-100-million-users-faster-than-tiktok-or-instagram-ubs-214423357.html
+https://www.youtube.com/watch?app=desktop&amp;v=HTWfA7KFzoA
+
+With ChatGPT and Microsoft support, is Google in trouble?
+https://openai.com/blog/openai-and-microsoft-extend-partnership
+https://www.theverge.com/2023/1/9/23546144/microsoft-openai-word-powerpoint-outlook-gpt-integration-rumor
+https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html
+https://www.cnet.com/tech/services-and-software/chatgpt-caused-code-red-at-google-report-says/
+https://www.businessinsider.com/bing-chatgpt-google-faces-first-real-competition-in-20-years-2023-1
+https://www.firstpost.com/world/chatgpt-can-destroy-google-search-in-two-years-says-gmail-creator-12070222.html
+https://www.theverge.com/2023/1/4/23538552/microsoft-bing-chatgpt-search-google-competition
+Competition Responses to ChatGPT:
+https://blog.google/technology/ai/bard-google-ai-search-updates/
+https://www.engadget.com/meta-is-working-on-ai-personas-for-instagram-messenger-and-whatsapp-223316961.html
+
+ChatGPT and the Job Industry:
+https://www.datanami.com/2021/08/09/we-need-to-prepare-for-tomorrows-ai-job-impacts-now/
+https://www.the-sun.com/tech/7211994/lose-job-ai-chatgpt-work-hour-seconds/
+https://www.cnn.com/2023/01/28/tech/chatgpt-real-estate/index.html
+https://www.inc.com/eric-holtzclaw/ive-been-using-chatgpt-for-my-business-for-a-month-its-already-saved-me-40-hours-7500.html
+
+ChatGPT in Education:
+https://thehill.com/policy/technology/3816348-what-is-chatgpt-ai-technology-sends-schools-scrambling-to-preserve-learning/
+https://www.theguardian.com/australia-news/2023/jan/10/universities-to-return-to-pen-and-paper-exams-after-students-caught-using-ai-to-write-essays
+https://www.wired.com/story/chatgpt-is-coming-for-classrooms-dont-panic/
+https://www.businessinsider.com/education-experts-teachers-generative-ai-chatgpt-classroom-2023-1
+https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/
+
+Products and Apps Mentioned:
+Samsung Odyssey Neo G9
+AirPods Pro 
+New Mac Minis with M2 and M2 Pro Chips
+New MacBook Pros with M2 Pro / Max Chips
+App Store Pricing Changes
+New Apple Music Classical App
+
+Apple Music SingMusic provided by &quot;https://ncs.io/aperture&quot;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:06:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/19221197/19221197-1679200084900-04646a5cc4a42.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E13. First Impressions From Apple's Latest Releases | Apple's Design Chief Leaving? | Will Apple Remove "Hey" Keyword To Wake Siri? | Something Cool!]]></title>
+			<description><![CDATA[In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.
+
+Timestamps:
+First impressions from Apple's latest releases:
+01:50 iPhone 14 and related news
+16:02 New iPads - The Good, The Bad and the Ugly
+26:18 macOS Ventura
+36:51 Apple Watch Ultra
+39:00 Air Pods Pro
+
+Apple In The News:
+41:00 Apple's Design Chief Is Leaving?
+46:01 Will Apple remove the "Hey" keyword to wake Siri?
+
+Something Really Cool!
+48:32 Center Stage feature
+
+We hope you enjoy our episode!
+
+Links:
+iPhone 14 / iPhone 14 Pro
+https://www.apple.com/iphone/
+2022 iPad / iPad Pro
+https://www.apple.com/ipad/
+macOS Ventura
+https://www.apple.com/macos/ventura/
+Apple Watch Ultra
+https://www.apple.com/apple-watch-ultra/
+Air Pods Pro
+https://www.apple.com/airpods-pro/
+Evans Hankey (Industrial Design Leaving Apple
+https://www.theverge.com/2022/10/21/23416334/apple-evans-hankey-industrial-design-leaving
+Will Apple remove the "Hey" keyword to wake Siri?
+https://gizmodo.com/apple-hey-siri-wake-trigger-change-google-amazon-alexa-1849753396
+Something Cool - Center Stage
+https://youtu.be/S-4Bph5fuuU
+
+Music provided by "https://ncs.io/aperture"
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E13--First-Impressions-From-Apples-Latest-Releases--Apples-Design-Chief-Leaving---Will-Apple-Remove-Hey-Keyword-To-Wake-Siri---Something-Cool-e1r919n</link>
+			<guid isPermaLink="false">d68473eb-254d-4ed1-8fef-e6087f9d12cd</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Thu, 24 Nov 2022 21:42:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/61162231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-24%2Fdc68ef44-bca8-0e75-fbf0-7ff4d90704be.mp3" length="73884312" type="audio/mpeg"/>
+			<itunes:summary>In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.
+
+Timestamps:
+First impressions from Apple&apos;s latest releases:
+01:50 iPhone 14 and related news
+16:02 New iPads - The Good, The Bad and the Ugly
+26:18 macOS Ventura
+36:51 Apple Watch Ultra
+39:00 Air Pods Pro
+
+Apple In The News:
+41:00 Apple&apos;s Design Chief Is Leaving?
+46:01 Will Apple remove the &quot;Hey&quot; keyword to wake Siri?
+
+Something Really Cool!
+48:32 Center Stage feature
+
+We hope you enjoy our episode!
+
+Links:
+iPhone 14 / iPhone 14 Pro
+https://www.apple.com/iphone/
+2022 iPad / iPad Pro
+https://www.apple.com/ipad/
+macOS Ventura
+https://www.apple.com/macos/ventura/
+Apple Watch Ultra
+https://www.apple.com/apple-watch-ultra/
+Air Pods Pro
+https://www.apple.com/airpods-pro/
+Evans Hankey (Industrial Design Leaving Apple
+https://www.theverge.com/2022/10/21/23416334/apple-evans-hankey-industrial-design-leaving
+Will Apple remove the &quot;Hey&quot; keyword to wake Siri?
+https://gizmodo.com/apple-hey-siri-wake-trigger-change-google-amazon-alexa-1849753396
+Something Cool - Center Stage
+https://youtu.be/S-4Bph5fuuU
+
+Music provided by &quot;https://ncs.io/aperture&quot;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/19221197/19221197-1636431007959-45e23062229ee.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E12. Recap of Apple’s Far Out Event!]]></title>
+			<description><![CDATA[In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. 
+
+Timestamps:
+00:26 New iPhone 14 Lineup
+43:39 New Apple Watch Series
+57:29 Air Pods Pro 2
+01:03:48 Something cool! 
+
+We hope you enjoy our episode!
+
+Links:
+Apple’s Far Out Event
+https://www.youtube.com/watch?v=ux6zXguiqxM
+
+iPhone 14 / iPhone 14 Pro
+https://www.apple.com/iphone/
+
+Apple Watch
+https://www.apple.com/watch/
+
+Air Pods Pro
+https://www.apple.com/airpods-pro/
+
+ 
+Something Cool - Our New Videos!
+https://www.youtube.com/watch?v=rDtdbFnltDM
+
+Music provided by "https://ncs.io/aperture"
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E12--Recap-of-Apples-Far-Out-Event-e1nqkob</link>
+			<guid isPermaLink="false">40d3d6ad-d804-4b10-9f1a-d4c030bca733</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Wed, 14 Sep 2022 07:08:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/57544907/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-8-14%2F285624147-44100-2-19238176404fb.mp3" length="99798831" type="audio/mpeg"/>
+			<itunes:summary>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. 
+
+Timestamps:
+00:26 New iPhone 14 Lineup
+43:39 New Apple Watch Series
+57:29 Air Pods Pro 2
+01:03:48 Something cool! 
+
+We hope you enjoy our episode!
+
+Links:
+Apple’s Far Out Event
+https://www.youtube.com/watch?v=ux6zXguiqxM
+
+iPhone 14 / iPhone 14 Pro
+https://www.apple.com/iphone/
+
+Apple Watch
+https://www.apple.com/watch/
+
+Air Pods Pro
+https://www.apple.com/airpods-pro/
+
+ 
+Something Cool - Our New Videos!
+https://www.youtube.com/watch?v=rDtdbFnltDM
+
+Music provided by &quot;https://ncs.io/aperture&quot;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:09:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/19221197/19221197-1663138566457-0f5e7024cd3f6.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E11. 2022 App Camp Recap and USA Taking Computer Science Seriously!]]></title>
+			<description><![CDATA[In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.
+
+Timestamps:
+01:24 Shout Outs
+03:35 Recap of 2022 App Camp
+29:02 Computer Science Is Being Taken Seriously!
+40:34 Something cool 
+
+
+We hope you enjoy our episode!
+
+Links:
+K-12 Computer Science Creating A Case For Full-Time Status In Schools
+https://www.forbes.com/sites/rodberger/2022/05/26/k-12-computer-science-creating-a-case-for-full-time-status-in-schools/?sh=4423dd7133e9
+
+CEOs for Computer Science
+https://www.ceosforcs.com
+
+US Governors Vow To Boost Computer Science Education at School After Business Push
+https://www.usnews.com/news/us/articles/2022-07-15/u-s-governors-vow-to-boost-computer-science-education-at-schools-after-business-push
+
+Something Cool - Snapchat CEO pays off an entire graduation class debt
+https://www.latimes.com/california/story/2022-05-15/snapchat-co-founder-pays-off-college-debt-of-new-graduates-at-l-a-art-and-design-school 
+
+Shout Outs:
+Podcast listener: JSR984
+
+Keynon Lake (MDMT)
+https://mydaddytaughtmethat.org
+
+Boys & Girls Club of Hendersonville
+https://bgchendersonco.org
+
+OpenDoors of Asheville
+https://opendoorsasheville.org
+
+Young Eisner Scholars (YES)
+https://www.yesscholars.org
+
+Daniel Steinberg 
+https://dimsumthinking.com
+
+Paul Hudson (Hacking With Swift)
+https://www.hackingwithswift.com
+
+Special thanks to:
+Clara Long
+Robbie
+Henry
+Matthew
+Addie
+
+Music provided by "https://ncs.io/aperture"
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E11--2022-App-Camp-Recap-and-USA-Taking-Computer-Science-Seriously-e1m6iak</link>
+			<guid isPermaLink="false">acb6021b-0fa7-4b7b-910b-4d09c7668884</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Sun, 07 Aug 2022 00:00:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/55838484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-7-6%2F279762125-44100-2-2caf86a32f68d.m4a" length="53158559" type="audio/x-m4a"/>
+			<itunes:summary>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.
+
+Timestamps:
+01:24 Shout Outs
+03:35 Recap of 2022 App Camp
+29:02 Computer Science Is Being Taken Seriously!
+40:34 Something cool 
+
+
+We hope you enjoy our episode!
+
+Links:
+K-12 Computer Science Creating A Case For Full-Time Status In Schools
+https://www.forbes.com/sites/rodberger/2022/05/26/k-12-computer-science-creating-a-case-for-full-time-status-in-schools/?sh=4423dd7133e9
+
+CEOs for Computer Science
+https://www.ceosforcs.com
+
+US Governors Vow To Boost Computer Science Education at School After Business Push
+https://www.usnews.com/news/us/articles/2022-07-15/u-s-governors-vow-to-boost-computer-science-education-at-schools-after-business-push
+
+Something Cool - Snapchat CEO pays off an entire graduation class debt
+https://www.latimes.com/california/story/2022-05-15/snapchat-co-founder-pays-off-college-debt-of-new-graduates-at-l-a-art-and-design-school 
+
+Shout Outs:
+Podcast listener: JSR984
+
+Keynon Lake (MDMT)
+https://mydaddytaughtmethat.org
+
+Boys &amp; Girls Club of Hendersonville
+https://bgchendersonco.org
+
+OpenDoors of Asheville
+https://opendoorsasheville.org
+
+Young Eisner Scholars (YES)
+https://www.yesscholars.org
+
+Daniel Steinberg 
+https://dimsumthinking.com
+
+Paul Hudson (Hacking With Swift)
+https://www.hackingwithswift.com
+
+Special thanks to:
+Clara Long
+Robbie
+Henry
+Matthew
+Addie
+
+Music provided by &quot;https://ncs.io/aperture&quot;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/19221197/19221197-1636431007959-45e23062229ee.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E10. Recap of Apple’s World Wide Developers Conference]]></title>
+			<description><![CDATA[In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.
+Timestamps:
+01:30 iOS 16
+16:15 CarPlay, Apple Maps, and HomeKit
+25:57 Watch OS 9
+32:28 New M2 Processor, MacBook Air, and 13” MacBook Pro
+40:44 Mac OS Ventura, Stage Manager, PassKeys and Metal 3
+52:56 iPad OS 16
+57:34 Something Cool - New Developer APIs
+We hope you enjoy our episode!
+Links:
+Apple’s World Wide Developer Conference
+https://www.youtube.com/watch?v=q5D55G7Ejs8
+Something Cool - New Developer APIs - Platforms State Of The Union
+https://www.youtube.com/watch?v=5pmD8KZzWJA
+Music provided by "https://ncs.io/aperture"
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E10--Recap-of-Apples-World-Wide-Developers-Conference-e1k7rru</link>
+			<guid isPermaLink="false">18a1bb0c-1bb2-480d-93f9-fcdf7a46e42b</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Tue, 21 Jun 2022 05:02:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/53783870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F722e4b1f-6010-323f-caf8-27a12d58be1e.mp3" length="93816460" type="audio/mpeg"/>
+			<itunes:summary>In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.
+Timestamps:
+01:30 iOS 16
+16:15 CarPlay, Apple Maps, and HomeKit
+25:57 Watch OS 9
+32:28 New M2 Processor, MacBook Air, and 13” MacBook Pro
+40:44 Mac OS Ventura, Stage Manager, PassKeys and Metal 3
+52:56 iPad OS 16
+57:34 Something Cool - New Developer APIs
+We hope you enjoy our episode!
+Links:
+Apple’s World Wide Developer Conference
+https://www.youtube.com/watch?v=q5D55G7Ejs8
+Something Cool - New Developer APIs - Platforms State Of The Union
+https://www.youtube.com/watch?v=5pmD8KZzWJA
+Music provided by &quot;https://ncs.io/aperture&quot;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:05:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/19221197/19221197-1663138647801-e5e18eefcdaab.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E9. Teens Earning More Money Than Adults | Swift Playgrounds for iPad | 45 Years Ago Apple Kickstarted The PC Industry | Something cool!]]></title>
+			<description><![CDATA[<p>In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&nbsp;</p>
+<p>Timestamps: 01:44 Teens Earning More Than Teachers and Parents&nbsp;</p>
+<p>08:25 New Playgrounds App On iPad&nbsp;</p>
+<p>15:24 45 Years Ago Apple Kickstarted The Personal Computer Industry&nbsp;</p>
+<p>24:47 Something Cool - Sal Khan’s Schoolhouse.world&nbsp;</p>
+<p>We hope you enjoy our episode!&nbsp;</p>
+<p><br></p>
+<p>Links:&nbsp;</p>
+<p>Israeli hi-tech teens who earn more than their teachers and parents&nbsp;</p>
+<p><a href="">https://www.ynetnews.com/magazine/article/hjz0spps9&nbsp;</a></p>
+<p>Swift Playgrounds:&nbsp;</p>
+<p><a href="">https://9to5mac.com/2022/05/17/swift-playgrounds-4-1/&nbsp;</a></p>
+<p>JohnDav YouTube Channel:&nbsp;</p>
+<p><a href="">https://youtube.com/playlist?list=PLBHRoLra9E24ryfDGxNwBmyBn_sa33VBU&nbsp;</a></p>
+<p>45 Years Ago, Apple Kickstarted the Personal Computer Industry&nbsp;</p>
+<p><a href="">https://www.pcmag.com/news/45-years-ago-apple-kickstarted-the-personal-computer-industry&nbsp;</a></p>
+<p>Something Cool - Sal Khan’s plan to educate the world&nbsp;</p>
+<p><a href="">https://www.youtube.com/watch?v=i9i5i1Xnemw https://schoolhouse.world&nbsp;</a></p>
+<p><br></p>
+<p>Music provided by "https://ncs.io/aperture"</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E9--Teens-Earning-More-Money-Than-Adults--Swift-Playgrounds-for-iPad--45-Years-Ago-Apple-Kickstarted-The-PC-Industry--Something-cool-e1io6bl</link>
+			<guid isPermaLink="false">8105cb42-6900-4997-a52f-99c3b4e7386f</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Thu, 19 May 2022 05:17:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/52221749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-4-19%2F266496574-44100-2-3cbcfb7fa7604.m4a" length="36052131" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode, you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Timestamps: 01:44 Teens Earning More Than Teachers and Parents&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;08:25 New Playgrounds App On iPad&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;15:24 45 Years Ago Apple Kickstarted The Personal Computer Industry&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;24:47 Something Cool - Sal Khan’s Schoolhouse.world&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Links:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Israeli hi-tech teens who earn more than their teachers and parents&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;https://www.ynetnews.com/magazine/article/hjz0spps9&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Swift Playgrounds:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;https://9to5mac.com/2022/05/17/swift-playgrounds-4-1/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JohnDav YouTube Channel:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;https://youtube.com/playlist?list=PLBHRoLra9E24ryfDGxNwBmyBn_sa33VBU&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;45 Years Ago, Apple Kickstarted the Personal Computer Industry&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;https://www.pcmag.com/news/45-years-ago-apple-kickstarted-the-personal-computer-industry&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Something Cool - Sal Khan’s plan to educate the world&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;https://www.youtube.com/watch?v=i9i5i1Xnemw https://schoolhouse.world&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &quot;https://ncs.io/aperture&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:29:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/19221197/19221197-1663138806801-1789380a0626d.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E8. Interview With Guy Kawasaki]]></title>
+			<description><![CDATA[<p>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School as they interview the man, the myth, the legend, Guy Kawasaki!&nbsp;</p>
+<p>Timestamps:&nbsp;</p>
+<p>00:24 About Guy Kawasaki, Early Macintosh Days, Steve Jobs&nbsp;</p>
+<p>13:38 Advice For Young Aspiring Entrepreneurs&nbsp;</p>
+<p>19:35 What Apple Is Doing Right and Wrong&nbsp;</p>
+<p>28:08 About The Remarkable People Podcast&nbsp;</p>
+<p>33:38 Bootstrapping Vs Raising Capital?&nbsp;</p>
+<p>38:32 Diversity Discussion And More&nbsp;</p>
+<p>We hope you enjoy our episode!&nbsp;</p>
+<p><br></p>
+<p>Guy Kawasaki</p>
+<p>Remarkable People: &nbsp;https://podcasts.apple.com/us/podcast/guy-kawasakis-remarkable-people/id1483081827</p>
+<p>https://guykawasaki.com Mix08 Conference (Guy Kawasaki Interviewing Steve Ballmer)&nbsp;</p>
+<p>https://www.youtube.com/watch?v=9-F139UX94A&nbsp;</p>
+<p>Stanford Talks: Guy Kawasaki: Make Meaning in Your Company Make a great pitch Ideas - what make them successful&nbsp;</p>
+<p><br></p>
+<p>Descript - All-in-one audio &amp; video editing, as easy as a doc.</p>
+<p>https://www.descript.com</p>
+<p><br></p>
+<p>Music provided by "https://ncs.io/aperture"</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E8--Interview-With-Guy-Kawasaki-e1gn9t5</link>
+			<guid isPermaLink="false">5d4c83c9-cd21-4a5f-b9d9-6e2db7b26ee3</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Mon, 04 Apr 2022 21:57:15 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/50095461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-3-4%2F257857292-44100-2-c62a76ebeda35.m4a" length="55779534" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School as they interview the man, the myth, the legend, Guy Kawasaki!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Timestamps:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;00:24 About Guy Kawasaki, Early Macintosh Days, Steve Jobs&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;13:38 Advice For Young Aspiring Entrepreneurs&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;19:35 What Apple Is Doing Right and Wrong&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;28:08 About The Remarkable People Podcast&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;33:38 Bootstrapping Vs Raising Capital?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;38:32 Diversity Discussion And More&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Guy Kawasaki&lt;/p&gt;
+&lt;p&gt;Remarkable People: &amp;nbsp;https://podcasts.apple.com/us/podcast/guy-kawasakis-remarkable-people/id1483081827&lt;/p&gt;
+&lt;p&gt;https://guykawasaki.com Mix08 Conference (Guy Kawasaki Interviewing Steve Ballmer)&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=9-F139UX94A&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stanford Talks: Guy Kawasaki: Make Meaning in Your Company Make a great pitch Ideas - what make them successful&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Descript - All-in-one audio &amp;amp; video editing, as easy as a doc.&lt;/p&gt;
+&lt;p&gt;https://www.descript.com&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &quot;https://ncs.io/aperture&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/19221197/19221197-1649109230649-78ada44f5d9ca.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E7. Presenting At The Great Homeschool Conference | Apple’s March “Peak Performance” Event | Something Cool - Our First Guest Coming Soon!]]></title>
+			<description><![CDATA[<p>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.</p>
+<p>Timestamps:</p>
+<p>00:50 2022 App Camp!</p>
+<p>01:16 Presenting At The Great Homeschool Convention</p>
+<p>09:40 Apple’s March “Peak Performance” Event</p>
+<p>37:53 Something cool - Our First Guest Coming Soon!</p>
+<p>We hope you enjoy our episode!</p>
+<p><br></p>
+<p>Links:</p>
+<p>Apple’s March “Peak Performance” Event</p>
+<p><a href="https://www.youtube.com/watch?v=CUwg_JoNHpo">https://www.youtube.com/watch?v=CUwg_JoNHpo</a></p>
+<p><br></p>
+<p>Something cool - Our First Guest Coming Soon!</p>
+<p>Guy Kawasaki</p>
+<p>https://guykawasaki.com</p>
+<p><br></p>
+<p>Mix 08 Conference (Guy Kawasaki Interviewing Steve Ballmer)</p>
+<p><a href="https://www.youtube.com/watch?v=9-F139UX94A&amp;t=801s">https://www.youtube.com/watch?v=9-F139UX94A</a></p>
+<p><br></p>
+<p>Guy's Stanford Talks:</p>
+<p><a href="https://www.youtube.com/watch?v=lQs6IpJQWXc&amp;t=14s">Guy Kawasaki: Make Meaning in Your Company</a></p>
+<p><a href="https://www.youtube.com/watch?v=l-8EQPpA4DM&amp;list=PL52EBB4700D2AAC2D&amp;index=77&amp;t=7s">Make a great pitch</a></p>
+<p><a href="https://www.youtube.com/watch?v=8KWSRJu_Q7g&amp;list=PL52EBB4700D2AAC2D&amp;index=74">Ideas - what make them successful</a></p>
+<p><br></p>
+<p>Music provided by "https://ncs.io/aperture"</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E7--Presenting-At-The-Great-Homeschool-Conference--Apples-March-Peak-Performance-Event--Something-Cool---Our-First-Guest-Coming-Soon-e1gbsmo</link>
+			<guid isPermaLink="false">464ccfd5-0e03-4974-94a7-7a77765582dd</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Mon, 28 Mar 2022 05:36:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/49721496/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-28%2F77ff250b-c2bb-4def-ad0a-25c270e615c8.m4a" length="52032055" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&lt;/p&gt;
+&lt;p&gt;Timestamps:&lt;/p&gt;
+&lt;p&gt;00:50 2022 App Camp!&lt;/p&gt;
+&lt;p&gt;01:16 Presenting At The Great Homeschool Convention&lt;/p&gt;
+&lt;p&gt;09:40 Apple’s March “Peak Performance” Event&lt;/p&gt;
+&lt;p&gt;37:53 Something cool - Our First Guest Coming Soon!&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;p&gt;Apple’s March “Peak Performance” Event&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=CUwg_JoNHpo&quot;&gt;https://www.youtube.com/watch?v=CUwg_JoNHpo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Something cool - Our First Guest Coming Soon!&lt;/p&gt;
+&lt;p&gt;Guy Kawasaki&lt;/p&gt;
+&lt;p&gt;https://guykawasaki.com&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Mix 08 Conference (Guy Kawasaki Interviewing Steve Ballmer)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9-F139UX94A&amp;amp;t=801s&quot;&gt;https://www.youtube.com/watch?v=9-F139UX94A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Guy&apos;s Stanford Talks:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lQs6IpJQWXc&amp;amp;t=14s&quot;&gt;Guy Kawasaki: Make Meaning in Your Company&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=l-8EQPpA4DM&amp;amp;list=PL52EBB4700D2AAC2D&amp;amp;index=77&amp;amp;t=7s&quot;&gt;Make a great pitch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8KWSRJu_Q7g&amp;amp;list=PL52EBB4700D2AAC2D&amp;amp;index=74&quot;&gt;Ideas - what make them successful&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &quot;https://ncs.io/aperture&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:44:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/19221197/19221197-1663138894378-5deb4280368d5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E6. Apps By Black Developers | Scrolling In Our App | Facebook Blames Apple For Losses]]></title>
+			<description><![CDATA[<p>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. Timestamps: 01:02 2022 App Camp! 02:00 7 Apps Created By Black Developers 15:22 Implementing Custom Scrolling In Our App 32:27 Facebook Blaming Apple For Record Losses 38:07 Something cool! We hope you enjoy our episode! Links: 7 Apps Created By Black Developers Inspired By The Black Community https://www.codecademy.com/resources/blog/apps-built-by-black-developers/ A Strategy For Great Work by Ken Kocienda https://devstreaming-cdn.apple.com/videos/wwdc/2014/237xxcyp7vhx2xt/237/237_a_strategy_for_great_work.pdf Facebook blames Apple after a historically bad quarter, saying iPhone privacy changes will cost it $10 billion https://www.businessinsider.com/facebook-blames-apple-10-billion-loss-ad-privacy-warning-2022-2 Something cool! Georgia couple becomes first African-American owners of an autonomous grocery store https://flipboard.com/video/waga/454fd783c8 Music provided by "https://ncs.io/aperture"</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E6--Apps-By-Black-Developers--Scrolling-In-Our-App--Facebook-Blames-Apple-For-Losses-e1f2l29</link>
+			<guid isPermaLink="false">be514a2f-80a9-43ef-9096-2346a90cd02b</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Tue, 01 Mar 2022 04:58:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/48370185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-2-1%2F251115560-44100-2-e76b79d5fa82d.m4a" length="51576770" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School. Timestamps: 01:02 2022 App Camp! 02:00 7 Apps Created By Black Developers 15:22 Implementing Custom Scrolling In Our App 32:27 Facebook Blaming Apple For Record Losses 38:07 Something cool! We hope you enjoy our episode! Links: 7 Apps Created By Black Developers Inspired By The Black Community https://www.codecademy.com/resources/blog/apps-built-by-black-developers/ A Strategy For Great Work by Ken Kocienda https://devstreaming-cdn.apple.com/videos/wwdc/2014/237xxcyp7vhx2xt/237/237_a_strategy_for_great_work.pdf Facebook blames Apple after a historically bad quarter, saying iPhone privacy changes will cost it $10 billion https://www.businessinsider.com/facebook-blames-apple-10-billion-loss-ad-privacy-warning-2022-2 Something cool! Georgia couple becomes first African-American owners of an autonomous grocery store https://flipboard.com/video/waga/454fd783c8 Music provided by &quot;https://ncs.io/aperture&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/19221197/19221197-1636431009452-a7f57796b1421.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E5. All Things Code - Apple Watch App | iMessage And The Rest Of Apple's Glorious Ecosystem (Walled Garden) | Something Cool!]]></title>
+			<description><![CDATA[In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.
+Timestamps:
+01:13 Bob's experience developing an Apple Watch App
+11:15 Blue vs Green Bubles..... Is Apple Responsible for assisting bullying?  - The History of SMS, MMS and iMessage
+22:21 Apple's Ecosystem aka "The Walled Garden"
+39:33 Something cool!
+
+We hope you enjoy our episode!
+
+Links:
+Apple's Messages 
+
+ https://appleinsider.com/articles/22/01/10/apple-uses-messages-colors-to-bully-android-users-says-google
+ https://www.macworld.com/article/606152/imessage-green-bubbles-sms-rcs-reactions.html
+
+Apple's Ecosystem
+
+MKBHD - Blue Bubbles vs Green Bubbles Explained: https://www.youtube.com/watch?v=BuaKzm7Kq9Q
+MKBHD explains Apple's Ecosystem:  https://www.youtube.com/watch?v=KB4_WIPE7vo
+Universal Control: https://youtu.be/P4ut_Vk-Z9w
+
+Something cool
+
+ Camo Studio: https://reincubate.com/camo/
+Launched Podcast - Episode 38: https://podcasts.apple.com/us/podcast/launched/id1491582246?i=1000548946734
+Music provided by "https://ncs.io/aperture"
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E5--All-Things-Code---Apple-Watch-App--iMessage-And-The-Rest-Of-Apples-Glorious-Ecosystem-Walled-Garden--Something-Cool-e1do8it</link>
+			<guid isPermaLink="false">10ef2fb9-a434-47da-b4a5-2a7750822ee3</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Wed, 02 Feb 2022 03:28:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/46981149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-1-2%2F245656929-44100-2-b92f31b88a438.m4a" length="49099138" type="audio/x-m4a"/>
+			<itunes:summary>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.
+Timestamps:
+01:13 Bob&apos;s experience developing an Apple Watch App
+11:15 Blue vs Green Bubles..... Is Apple Responsible for assisting bullying?  - The History of SMS, MMS and iMessage
+22:21 Apple&apos;s Ecosystem aka &quot;The Walled Garden&quot;
+39:33 Something cool!
+
+We hope you enjoy our episode!
+
+Links:
+Apple&apos;s Messages 
+
+ https://appleinsider.com/articles/22/01/10/apple-uses-messages-colors-to-bully-android-users-says-google
+ https://www.macworld.com/article/606152/imessage-green-bubbles-sms-rcs-reactions.html
+
+Apple&apos;s Ecosystem
+
+MKBHD - Blue Bubbles vs Green Bubbles Explained: https://www.youtube.com/watch?v=BuaKzm7Kq9Q
+MKBHD explains Apple&apos;s Ecosystem:  https://www.youtube.com/watch?v=KB4_WIPE7vo
+Universal Control: https://youtu.be/P4ut_Vk-Z9w
+
+Something cool
+
+ Camo Studio: https://reincubate.com/camo/
+Launched Podcast - Episode 38: https://podcasts.apple.com/us/podcast/launched/id1491582246?i=1000548946734
+Music provided by &quot;https://ncs.io/aperture&quot;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:42:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/19221197/19221197-1669326557164-854b4d511b3b7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E4. Our Holidays, Remembering Techie Gifts, Resolutions | All Things Code & iPad Can Build Apps | Talent Acquisition and Retention]]></title>
+			<description><![CDATA[<p>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.</p>
+<p>Timestamps:</p>
+<p>0:26 Our Holiday Break, Our First Techie Gifts, New Years Resolutions</p>
+<p>16:00 All Things Code - Codementor</p>
+<p>19:20 Use Swift Playgrounds on iPad to publish apps on the App Store!</p>
+<p>25:23 Apple and other tech companies dealing with talent acquisition and retention</p>
+<p>38:40 Something cool!</p>
+<p>We hope you enjoy our episode!</p>
+<p>Links:</p>
+<p>Codementor : <a href="https://www.codementor.io/">https://www.codementor.io</a></p>
+<p>Swift Playground on iPad can now develop apps:</p>
+<p><a href="https://www.cultofmac.com/761346/apple-rolls-out-swift-playgrounds-4/">https://www.cultofmac.com/761346/apple-rolls-out-swift-playgrounds-4/</a></p>
+<p>Apple and other tech companies dealing with talent acquisition and retention:</p>
+<p><a href="https://www.benzinga.com/news/21/11/23938002/apple-hires-teslas-former-autopilot-software-director">https://www.benzinga.com/news/21/11/23938002/apple-hires-teslas-former-autopilot-software-director</a></p>
+<p><a href="https://interestingengineering.com/apple-pays-its-engineers-180000-bonuses-to-stop-them-from-joining-meta">https://interestingengineering.com/apple-pays-its-engineers-180000-bonuses-to-stop-them-from-joining-meta</a></p>
+<p><a href="https://www.neowin.net/news/apple-silicon-lead-processor-developer-jeff-wilcox-leaves-to-rejoin-intel-to-design-socs/">https://www.neowin.net/news/apple-silicon-lead-processor-developer-jeff-wilcox-leaves-to-rejoin-intel-to-design-socs/</a></p>
+<p>Something cool</p>
+<ul>
+ <li><a href="https://www.cnn.com/2021/12/26/us/habitat-for-humanity-first-3d-home-trnd/index.html"><u>https://www.cnn.com/2021/12/26/us/habitat-for-humanity-first-3d-home-trnd/index.html</u></a></li>
+ <li><a href="https://flipboard.com/video/swns/9d7059eeee"><u>https://flipboard.com/video/swns/9d7059eeee</u></a></li>
+ <li><a href="https://www.alquist3d.com/work"><u>https://www.alquist3d.com/work</u></a></li>
+</ul>
+<p><strong>Music provided by "https://ncs.io/aperture"</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E4--Our-Holidays--Remembering-Techie-Gifts--Resolutions--All-Things-Code--iPad-Can-Build-Apps--Talent-Acquisition-and-Retention-e1cua7m</link>
+			<guid isPermaLink="false">90bbaba9-673d-46ca-83fe-890f34c4628a</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Fri, 14 Jan 2022 04:45:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/46130870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-14%2F7832ee9e-94c9-3a0a-ec3c-0f15468c9e29.m4a" length="48604512" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&lt;/p&gt;
+&lt;p&gt;Timestamps:&lt;/p&gt;
+&lt;p&gt;0:26 Our Holiday Break, Our First Techie Gifts, New Years Resolutions&lt;/p&gt;
+&lt;p&gt;16:00 All Things Code - Codementor&lt;/p&gt;
+&lt;p&gt;19:20 Use Swift Playgrounds on iPad to publish apps on the App Store!&lt;/p&gt;
+&lt;p&gt;25:23 Apple and other tech companies dealing with talent acquisition and retention&lt;/p&gt;
+&lt;p&gt;38:40 Something cool!&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;p&gt;Codementor : &lt;a href=&quot;https://www.codementor.io/&quot;&gt;https://www.codementor.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Swift Playground on iPad can now develop apps:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cultofmac.com/761346/apple-rolls-out-swift-playgrounds-4/&quot;&gt;https://www.cultofmac.com/761346/apple-rolls-out-swift-playgrounds-4/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple and other tech companies dealing with talent acquisition and retention:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.benzinga.com/news/21/11/23938002/apple-hires-teslas-former-autopilot-software-director&quot;&gt;https://www.benzinga.com/news/21/11/23938002/apple-hires-teslas-former-autopilot-software-director&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://interestingengineering.com/apple-pays-its-engineers-180000-bonuses-to-stop-them-from-joining-meta&quot;&gt;https://interestingengineering.com/apple-pays-its-engineers-180000-bonuses-to-stop-them-from-joining-meta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.neowin.net/news/apple-silicon-lead-processor-developer-jeff-wilcox-leaves-to-rejoin-intel-to-design-socs/&quot;&gt;https://www.neowin.net/news/apple-silicon-lead-processor-developer-jeff-wilcox-leaves-to-rejoin-intel-to-design-socs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Something cool&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.cnn.com/2021/12/26/us/habitat-for-humanity-first-3d-home-trnd/index.html&quot;&gt;&lt;u&gt;https://www.cnn.com/2021/12/26/us/habitat-for-humanity-first-3d-home-trnd/index.html&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://flipboard.com/video/swns/9d7059eeee&quot;&gt;&lt;u&gt;https://flipboard.com/video/swns/9d7059eeee&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.alquist3d.com/work&quot;&gt;&lt;u&gt;https://www.alquist3d.com/work&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music provided by &quot;https://ncs.io/aperture&quot;&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:42:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/19221197/19221197-1636431009452-a7f57796b1421.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E3. Computer Science Education Week | Breaking The Diversity Barrier | Girls and STEM and more!]]></title>
+			<description><![CDATA[<p><strong>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.</strong></p>
+<p>Timestamps:</p>
+<p>01:22 All Things Code - <strong>Computer Science Education Week</strong></p>
+<p>06:02 <strong>Breaking The Diversity Barrier</strong></p>
+<p>14:48 <strong>Girls and STEM</strong></p>
+<p>35:23 iOS / Mac Development &nbsp;- <strong>Just Dive Into Code</strong></p>
+<p>40:57 <strong>Something Cool!</strong></p>
+<p>We hope you enjoy our episode!</p>
+<p><br></p>
+<p><strong>Links:</strong></p>
+<p>CS Ed Week - <a href="https://www.csedweek.org/"><u>https://www.csedweek.org</u></a></p>
+<p>Computer Science Teachers Association - <a href="https://www.csteachers.org/">https://www.csteachers.org</a></p>
+<p>The Hour Of Code - <a href="http://code.org/">Code.org</a></p>
+<p><br></p>
+<p><strong>Girls and STEM:</strong></p>
+<p><a href="https://theconversation.com/stereotypes-about-girls-dissuade-many-from-careers-in-computer-science-172279"><u>https://theconversation.com/stereotypes-about-girls-dissuade-many-from-careers-in-computer-science-172279</u></a></p>
+<p><a href="https://www.blackgirlscode.com/"><u>https://www.blackgirlscode.com</u></a></p>
+<p><a href="http://digitalyouthnetwork.org/divas/">http://digitalyouthnetwork.org/divas/</a></p>
+<p><a href="https://goldieblox.com/"><u>https://goldieblox.com</u></a></p>
+<p>Dr Darden and Michell Obama speak at WWDC 2017 - <a href="https://www.cultofmac.com/485524/wwdc-michael-obama-says-diversity-key-innovation/">https://www.cultofmac.com/485524/wwdc-michael-obama-says-diversity-key-innovation/</a></p>
+<p><br></p>
+<p><strong>Other CS Ed Week Resources:</strong></p>
+<p>Apple:</p>
+<p>Diversity in Swift - <a href="https://www.swift.org/diversity">https://www.swift.org/diversity</a></p>
+<p>Scholarships to HACUs - <a href="https://www.hacu.net/NewsBot.asp?MODE=VIEW&amp;ID=3454"><u>https://www.hacu.net/NewsBot.asp?MODE=VIEW&amp;ID=3454</u></a></p>
+<p><br></p>
+<p>Flipgrid (Microsoft) discussion on Race, Equity and Justice in Computer Science Education</p>
+<p><a href="https://www.youtube.com/watch?v=2EwatWnRji0">https://www.youtube.com/watch?v=2EwatWnRji0</a></p>
+<p><br></p>
+<p>Google - <a href="https://edu.google.com/code-with-google/csedweek/">https://edu.google.com/code-with-google/csedweek/</a></p>
+<p><br></p>
+<p><strong>Non-Profit Organizations:</strong></p>
+<p>Young Eisner Scholars - <a href="https://www.yesscholars.org/">https://www.yesscholars.org</a></p>
+<p>My Daddy Taught Me That - <a href="http://mdtmt.org/">https://mydaddytaughtmethat.org</a></p>
+<p>Hatch Foundation - <a href="http://hatchavl.org/">http://hatchavl.org</a></p>
+<p><br></p>
+<p><strong>Coding Resources:</strong></p>
+<p>Paul Hudson - <a href="https://hackingwithswift.com/">https://hackingwithswift.com</a></p>
+<p>Sean Allen - <a href="http://www.seanallen.co/">www.seanallen.co</a></p>
+<p><br></p>
+<p><strong>Other Links:</strong></p>
+<p>Ultra compact camera - <a href="https://www.sciencealert.com/this-new-ultracompact-camera-is-the-size-of-a-grain-of-salt"><u>https://www.sciencealert.com/this-new-ultracompact-camera-is-the-size-of-a-grain-of-salt</u></a></p>
+<p><br></p>
+<p>Music provided by "https://ncs.io/aperture"</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E3--Computer-Science-Education-Week--Breaking-The-Diversity-Barrier--Girls-and-STEM-and-more-e1bd2sr</link>
+			<guid isPermaLink="false">e77a44a2-6cde-4ac8-a26d-b7b6e6eb3c52</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Wed, 08 Dec 2021 00:29:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/44517723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-7%2F551979ce-2282-91d5-0650-c4f496a2dd72.mp3" length="62355554" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Timestamps:&lt;/p&gt;
+&lt;p&gt;01:22 All Things Code - &lt;strong&gt;Computer Science Education Week&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;06:02 &lt;strong&gt;Breaking The Diversity Barrier&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;14:48 &lt;strong&gt;Girls and STEM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;35:23 iOS / Mac Development &amp;nbsp;- &lt;strong&gt;Just Dive Into Code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;40:57 &lt;strong&gt;Something Cool!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CS Ed Week - &lt;a href=&quot;https://www.csedweek.org/&quot;&gt;&lt;u&gt;https://www.csedweek.org&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Computer Science Teachers Association - &lt;a href=&quot;https://www.csteachers.org/&quot;&gt;https://www.csteachers.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Hour Of Code - &lt;a href=&quot;http://code.org/&quot;&gt;Code.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Girls and STEM:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://theconversation.com/stereotypes-about-girls-dissuade-many-from-careers-in-computer-science-172279&quot;&gt;&lt;u&gt;https://theconversation.com/stereotypes-about-girls-dissuade-many-from-careers-in-computer-science-172279&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.blackgirlscode.com/&quot;&gt;&lt;u&gt;https://www.blackgirlscode.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://digitalyouthnetwork.org/divas/&quot;&gt;http://digitalyouthnetwork.org/divas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://goldieblox.com/&quot;&gt;&lt;u&gt;https://goldieblox.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dr Darden and Michell Obama speak at WWDC 2017 - &lt;a href=&quot;https://www.cultofmac.com/485524/wwdc-michael-obama-says-diversity-key-innovation/&quot;&gt;https://www.cultofmac.com/485524/wwdc-michael-obama-says-diversity-key-innovation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other CS Ed Week Resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Apple:&lt;/p&gt;
+&lt;p&gt;Diversity in Swift - &lt;a href=&quot;https://www.swift.org/diversity&quot;&gt;https://www.swift.org/diversity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Scholarships to HACUs - &lt;a href=&quot;https://www.hacu.net/NewsBot.asp?MODE=VIEW&amp;amp;ID=3454&quot;&gt;&lt;u&gt;https://www.hacu.net/NewsBot.asp?MODE=VIEW&amp;amp;ID=3454&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Flipgrid (Microsoft) discussion on Race, Equity and Justice in Computer Science Education&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2EwatWnRji0&quot;&gt;https://www.youtube.com/watch?v=2EwatWnRji0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Google - &lt;a href=&quot;https://edu.google.com/code-with-google/csedweek/&quot;&gt;https://edu.google.com/code-with-google/csedweek/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Non-Profit Organizations:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Young Eisner Scholars - &lt;a href=&quot;https://www.yesscholars.org/&quot;&gt;https://www.yesscholars.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My Daddy Taught Me That - &lt;a href=&quot;http://mdtmt.org/&quot;&gt;https://mydaddytaughtmethat.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hatch Foundation - &lt;a href=&quot;http://hatchavl.org/&quot;&gt;http://hatchavl.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Coding Resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Paul Hudson - &lt;a href=&quot;https://hackingwithswift.com/&quot;&gt;https://hackingwithswift.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sean Allen - &lt;a href=&quot;http://www.seanallen.co/&quot;&gt;www.seanallen.co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ultra compact camera - &lt;a href=&quot;https://www.sciencealert.com/this-new-ultracompact-camera-is-the-size-of-a-grain-of-salt&quot;&gt;&lt;u&gt;https://www.sciencealert.com/this-new-ultracompact-camera-is-the-size-of-a-grain-of-salt&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &quot;https://ncs.io/aperture&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:43:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/19221197/19221197-1636431009452-a7f57796b1421.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[S1-E2. All Things Code | Designing Our First App | Apple In The News]]></title>
+			<description><![CDATA[<p>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&nbsp;</p>
+<p><br></p>
+<p>Timestamps: 01:12 All Things Code - Version Control and Comments&nbsp;</p>
+<p>21:57 iOS / Mac Development &nbsp;- Designing Our First App&nbsp;</p>
+<p>31:43 Apple In The News - Apple Allows Self Repair&nbsp;</p>
+<p>41:03 Something Cool!&nbsp;</p>
+<p>We hope you enjoy our episode!&nbsp;</p>
+<p><br></p>
+<p>Links: Version Control: &nbsp;</p>
+<p><a href="https://en.wikipedia.org/wiki/Version_control ">https://en.wikipedia.org/wiki/Version_control&nbsp;</a></p>
+<p><br></p>
+<p>Github Co-Pilot:&nbsp;</p>
+<p><a href="https://copilot.github.com/ https://www.axios.com/copilot-artificial-intelligence-coding-github-9a202f40-9af7-4786-9dcb-b678683b360f.html ">https://copilot.github.com/&nbsp;</a></p>
+<p><a href="https://copilot.github.com/ https://www.axios.com/copilot-artificial-intelligence-coding-github-9a202f40-9af7-4786-9dcb-b678683b360f.html ">https://www.axios.com/copilot-artificial-intelligence-coding-github-9a202f40-9af7-4786-9dcb-b678683b360f.html&nbsp;</a></p>
+<p><br></p>
+<p>Apple Self Repair:&nbsp;&nbsp;</p>
+<p><a href="https://www.theverge.com/2021/11/17/22787144/apple-home-repair-iphone-mac-parts-tools-instructions ">https://www.theverge.com/2021/11/17/22787144/apple-home-repair-iphone-mac-parts-tools-instructions&nbsp;</a></p>
+<p><a href="https://www.ifixit.com/News/55370/apple-diy-repair-program-parts-tools-guides-software ">https://www.ifixit.com/News/55370/apple-diy-repair-program-parts-tools-guides-software&nbsp;</a></p>
+<p><a href="https://www.amazon.com/Sad-Macs-Bombs-Other-Disasters/dp/0201688107 ">https://www.amazon.com/Sad-Macs-Bombs-Other-Disasters/dp/0201688107&nbsp;</a></p>
+<p><br></p>
+<p>Music provided by "https://ncs.io/aperture"</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/S1-E2--All-Things-Code--Designing-Our-First-App--Apple-In-The-News-e1apnji</link>
+			<guid isPermaLink="false">18466405-be32-4dc0-a6c3-593ac051d8b5</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Thu, 25 Nov 2021 14:47:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/43883570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-10-25%2F233412068-44100-2-06b3f362c61c4.mp3" length="67935344" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Timestamps: 01:12 All Things Code - Version Control and Comments&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;21:57 iOS / Mac Development &amp;nbsp;- Designing Our First App&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;31:43 Apple In The News - Apple Allows Self Repair&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;41:03 Something Cool!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our episode!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Links: Version Control: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Version_control &quot;&gt;https://en.wikipedia.org/wiki/Version_control&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Github Co-Pilot:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://copilot.github.com/ https://www.axios.com/copilot-artificial-intelligence-coding-github-9a202f40-9af7-4786-9dcb-b678683b360f.html &quot;&gt;https://copilot.github.com/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://copilot.github.com/ https://www.axios.com/copilot-artificial-intelligence-coding-github-9a202f40-9af7-4786-9dcb-b678683b360f.html &quot;&gt;https://www.axios.com/copilot-artificial-intelligence-coding-github-9a202f40-9af7-4786-9dcb-b678683b360f.html&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Apple Self Repair:&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2021/11/17/22787144/apple-home-repair-iphone-mac-parts-tools-instructions &quot;&gt;https://www.theverge.com/2021/11/17/22787144/apple-home-repair-iphone-mac-parts-tools-instructions&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ifixit.com/News/55370/apple-diy-repair-program-parts-tools-guides-software &quot;&gt;https://www.ifixit.com/News/55370/apple-diy-repair-program-parts-tools-guides-software&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Sad-Macs-Bombs-Other-Disasters/dp/0201688107 &quot;&gt;https://www.amazon.com/Sad-Macs-Bombs-Other-Disasters/dp/0201688107&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &quot;https://ncs.io/aperture&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:47:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/19221197/19221197-1636431009452-a7f57796b1421.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Season 1 Episode 1 - Our Mission To Give Back To The Youth!]]></title>
+			<description><![CDATA[<p>In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&nbsp;</p>
+<p>In the first segment you will hear a brief segment of our backstory and our mission to give back to the youth by teaching Computer Science through interactive project based app development camps! &nbsp;</p>
+<p>In the second segment we briefly discuss the state of Computer Science education in the USA.&nbsp;</p>
+<p>In the third segment we showcase Apple in the news and finally wrap up with something cool!</p>
+<p>We hope you enjoy our first episode!</p>
+<p><br></p>
+<p><strong>Links:</strong></p>
+<p><a href="http://www.swiftappschool.com">Swift App School website</a></p>
+<p><a href="https://codeorg.medium.com/2021-state-of-cs-report-shows-half-of-u-s-high-schools-offer-cs-but-disparities-still-exist-890c20a724ad" target="_blank">2021 State of CS report shows half of U.S. high schools offer CS, but disparities still exist</a></p>
+<p>Music provided by "<a href="https://ncs.io/aperture" target="_blank">https://ncs.io/aperture</a>"</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/swift-app-school/episodes/Season-1-Episode-1---Our-Mission-To-Give-Back-To-The-Youth-e19vqcc</link>
+			<guid isPermaLink="false">2fdda193-bbfa-41e7-af4e-4a7b01957f2a</guid>
+			<dc:creator><![CDATA[Swift App School]]></dc:creator>
+			<pubDate>Wed, 10 Nov 2021 02:18:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/7329ce94/podcast/play/43034444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-10%2F56bc1a83-21a0-05f0-abfc-3c921147bf4b.mp3" length="58375230" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode you hear from Charles Long and Bob Williams, Co-Founders of Swift App School.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In the first segment you will hear a brief segment of our backstory and our mission to give back to the youth by teaching Computer Science through interactive project based app development camps! &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In the second segment we briefly discuss the state of Computer Science education in the USA.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In the third segment we showcase Apple in the news and finally wrap up with something cool!&lt;/p&gt;
+&lt;p&gt;We hope you enjoy our first episode!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.swiftappschool.com&quot;&gt;Swift App School website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeorg.medium.com/2021-state-of-cs-report-shows-half-of-u-s-high-schools-offer-cs-but-disparities-still-exist-890c20a724ad&quot; target=&quot;_blank&quot;&gt;2021 State of CS report shows half of U.S. high schools offer CS, but disparities still exist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Music provided by &quot;&lt;a href=&quot;https://ncs.io/aperture&quot; target=&quot;_blank&quot;&gt;https://ncs.io/aperture&lt;/a&gt;&quot;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/19221197/19221197-1636431082917-1e55d371db2b3.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

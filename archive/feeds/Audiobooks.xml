@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://justcast.herokuapp.com/shows/harold-martin-audiobooks/audioposts.rss" rel="self" type="application/rss+xml"/>
+    <title>Audiobooks</title>
+    <description></description>
+    <link>http://justcast.herokuapp.com/shows/harold-martin-audiobooks/audioposts</link>
+    <language>en</language>
+    <itunes:summary/>
+    <itunes:image href="https://s3.amazonaws.com/podcastApp/shows/images/000/001/852/original/"/>
+    <itunes:author>Harold Martin</itunes:author>
+    <itunes:owner>
+      <itunes:name>Harold Martin</itunes:name>
+      <itunes:email>harold.martin@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Wed, 17 Jun 2015 02:17:28 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 02:17:28 +0000</lastBuildDate>
+    <itunes:subtitle/><item>
+      <title>01 Zero to One_ Notes on Startups, or How to Build the Future</title>
+      <description>
+        
+      </description>
+      <pubDate>Wed, 17 Jun 2015 02:17:28 +0000</pubDate>
+      <enclosure length="169441893" type="audio/x-m4b" url="https://download.justcast.com/s/zq9mfqbqor5qm7g/01%20Zero%20to%20One_%20Notes%20on%20Startups%2C%20or%20How%20to%20Build%20the%20Future.m4b?dl=0"/>
+      <link>http://justcast.herokuapp.com/shows/harold-martin-audiobooks/audioposts/193376</link>
+      <guid>http://justcast.herokuapp.com/shows/harold-martin-audiobooks/audioposts/193376.m4b</guid>
+      <itunes:title>01 Zero to One_ Notes on Startups, or How to Build the Future</itunes:title>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit/>
+      <itunes:duration/>
+    </item>
+    <item>
+      <title>Ed Catmull - Creativity, Inc - Part01</title>
+      <description>
+        
+      </description>
+      <pubDate>Sat, 09 May 2015 18:40:03 +0000</pubDate>
+      <enclosure length="29785043" type="audio/mp3" url="https://download.justcast.com/s/hwaox53vvgumop8/Ed%20Catmull%20-%20Creativity%2C%20Inc%20-%20Part01.mp3?dl=0"/>
+      <link>http://justcast.herokuapp.com/shows/harold-martin-audiobooks/audioposts/193375</link>
+      <guid>http://justcast.herokuapp.com/shows/harold-martin-audiobooks/audioposts/193375.mp3</guid>
+      <itunes:title>Ed Catmull - Creativity, Inc - Part01</itunes:title>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit/>
+      <itunes:duration/>
+    </item>
+    <item>
+      <title>economics3ed-011-cd01-11</title>
+      <description>
+        
+      </description>
+      <pubDate>Tue, 20 Jan 2015 16:39:18 +0000</pubDate>
+      <enclosure length="3694021" type="audio/mp3" url="https://download.justcast.com/s/6uadq1dkaitnrnc/economics3ed-011-cd01-11.mp3?dl=0"/>
+      <link>http://justcast.herokuapp.com/shows/harold-martin-audiobooks/audioposts/193374</link>
+      <guid>http://justcast.herokuapp.com/shows/harold-martin-audiobooks/audioposts/193374.mp3</guid>
+      <itunes:title>economics3ed-011-cd01-11</itunes:title>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit/>
+      <itunes:duration/>
+    </item>
+  </channel>
+</rss>
