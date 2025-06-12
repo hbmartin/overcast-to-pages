@@ -1,0 +1,51 @@
+name: Template Cleanup
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  template-cleanup:
+    if: github.repository != 'hbmartin/overcast-to-pages'
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Run template cleanup
+      run: |
+        python .github/template-cleanup/cleanup.py
+
+    - name: Remove template files
+      run: |
+        # Remove files that shouldn't exist in template instances
+        rm -f overcast.db
+        rm -f overcast-played.html
+        rm -rf archive/
+
+        # Remove the cleanup files themselves
+        rm -rf .github/template-cleanup/
+        rm -f .github/workflows/template-cleanup.yml
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Follow setup directions in README to complete"
+          git push
+        fi
