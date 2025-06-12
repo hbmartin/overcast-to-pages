@@ -38,7 +38,7 @@ jobs:
           if [ -f "overcast-played.html" ]; then
             mkdir html
             cp overcast-played.html html/index.html
-            echo "Copied overcast-played.html to index.html"
+            mv overcast.db html/
           else
             echo "Error: overcast-played.html not found"
             exit 1
