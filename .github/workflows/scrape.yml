@@ -1,4 +1,4 @@
-name: Download latest data
+name: scrape
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  scheduled:
+  scrape:
     runs-on: ubuntu-latest
     env:
       OVERCAST_COOKIE: ${{ secrets.OVERCAST_COOKIE }}
