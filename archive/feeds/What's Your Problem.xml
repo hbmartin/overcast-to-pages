@@ -36,6 +36,30 @@ iHeartMedia is the exclusive podcast partner of Pushkin Industries.</itunes:summ
       <link>https://www.pushkin.fm/</link>
     </image>
     <item>
+      <title>Inside the Mind of an AI Model</title>
+      <itunes:title>Inside the Mind of an AI Model</itunes:title>
+      <description><![CDATA[<p>AI  might be the most consequential advancement in the world right now. But &ndash; astonishingly &ndash; no one fully understands what&rsquo;s going on inside AI models. Josh Batson is a research scientist at Anthropic, the AI company behind Claude, one of the world&rsquo;s leading language models. Josh&rsquo;s problem is this: How do we learn how AI works?</p> <hr> <p>Get early, ad-free access to episodes of What's Your Problem? by subscribing to Pushkin+ on Apple Podcasts or <a href="http://pushkin.fm/">Pushkin.fm</a>. Pushkin+ subscribers can access ad-free episodes, full audiobooks, exclusive binges, and bonus content for all Pushkin shows. <br><br>Subscribe on Apple: <a href="http://apple.co/pushkin">apple.co/pushkin</a><br>Subscribe on Pushkin: <a href="https://www.pushkin.fm/join-pushkin">pushkin.com/plus</a></p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p>AI  might be the most consequential advancement in the world right now. But &ndash; astonishingly &ndash; no one fully understands what&rsquo;s going on inside AI models. Josh Batson is a research scientist at Anthropic, the AI company behind Claude, one of the world&rsquo;s leading language models. Josh&rsquo;s problem is this: How do we learn how AI works?</p> <hr> <p>Get early, ad-free access to episodes of What's Your Problem? by subscribing to Pushkin+ on Apple Podcasts or <a href="http://pushkin.fm/">Pushkin.fm</a>. Pushkin+ subscribers can access ad-free episodes, full audiobooks, exclusive binges, and bonus content for all Pushkin shows. <br><br>Subscribe on Apple: <a href="http://apple.co/pushkin">apple.co/pushkin</a><br>Subscribe on Pushkin: <a href="https://www.pushkin.fm/join-pushkin">pushkin.com/plus</a></p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>139</itunes:episode>
+      <itunes:author>iHeartPodcasts and Pushkin Industries</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/51108576-56bf-4c35-8f1a-b2f2012c74d3/image.jpg?t=1749739505&amp;size=Large" />
+      <media:content url="https://podtrac.com/pts/redirect.mp3/pdrl.fm/060f2a/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/51108576-56bf-4c35-8f1a-b2f2012c74d3/audio.mp3?utm_source=Podcast&amp;in_playlist=beacef48-19d2-4f52-b9e8-ae3c0021f347" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/whats-your-problem/inside-the-mind-of-an-ai-model/embed" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/51108576-56bf-4c35-8f1a-b2f2012c74d3/image.jpg?t=1749739505&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">51108576-56bf-4c35-8f1a-b2f2012c74d3</guid>
+      <omny:clipId>51108576-56bf-4c35-8f1a-b2f2012c74d3</omny:clipId>
+      <pubDate>Thu, 12 Jun 2025 04:30:00 +0000</pubDate>
+      <itunes:duration>2608</itunes:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pdrl.fm/060f2a/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/51108576-56bf-4c35-8f1a-b2f2012c74d3/audio.mp3?utm_source=Podcast&amp;in_playlist=beacef48-19d2-4f52-b9e8-ae3c0021f347" length="41776907" type="audio/mpeg" />
+      <link>https://omny.fm/shows/whats-your-problem/inside-the-mind-of-an-ai-model</link>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/51108576-56bf-4c35-8f1a-b2f2012c74d3/transcript?format=SubRip&amp;t=1749061991" type="application/srt" language="en-us" />
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/51108576-56bf-4c35-8f1a-b2f2012c74d3/transcript?format=WebVTT&amp;t=1749061991" type="text/vtt" language="en-us" />
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/51108576-56bf-4c35-8f1a-b2f2012c74d3/transcript?format=TextWithTimestamps&amp;t=1749061991" type="text/plain" language="en-us" />
+    </item>
+    <item>
       <title>Teaching Robots How to Do Everything</title>
       <itunes:title>Teaching Robots How to Do Everything</itunes:title>
       <description><![CDATA[<p>AI is better than humans at a lot of things, but physical tasks &ndash; even seemingly simple ones like folding a shirt &ndash; routinely stump AI-powered robots. Chelsea Finn is a professor at Stanford and the co-founder of Physical Intelligence. Chelsea's problem is this: Can you build an AI model that  can teach any robot to do any task, anywhere?</p> <hr> <p>Get early, ad-free access to episodes of What's Your Problem? by subscribing to Pushkin+ on Apple Podcasts or <a href="http://pushkin.fm/">Pushkin.fm</a>. Pushkin+ subscribers can access ad-free episodes, full audiobooks, exclusive binges, and bonus content for all Pushkin shows. <br><br>Subscribe on Apple: <a href="http://apple.co/pushkin">apple.co/pushkin</a><br>Subscribe on Pushkin: <a href="https://www.pushkin.fm/join-pushkin">pushkin.com/plus</a></p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>

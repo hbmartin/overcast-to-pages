@@ -15,8 +15,8 @@
     <podcast:person role="Host" href="http://daveverwer.com" img="https://img.transistor.fm/fl8HjUOPj9pXabqy_b9JmCHd-pn2GhrMZ4CqDztMVYY/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vOWVjZGM2YmEt/YjYxZS00MzlhLThi/YWEtMWI0MWQ2MDYz/YzU4LzE2Njg0NTAw/NTYtaW1hZ2UuanBn.jpg">Dave Verwer</podcast:person>
     <podcast:person role="Host" href="https://finestructure.co" img="https://img.transistor.fm/oWGkaPRfzRoyl8igbKixFw-_egYy7Ptpy-aM0j8c9fE/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NzM0/OGM1NTY3YmE2MDA0/ZmVlYmEwZjNlMGI5/ZWUxYi5qcGc.jpg">Sven A. Schmidt</podcast:person>
     <language>en</language>
-    <pubDate>Mon, 19 May 2025 18:09:54 +0100</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 18:35:23 +0100</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 15:00:22 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 15:02:08 +0100</lastBuildDate>
     <link>https://swiftpackageindex.com</link>
     <image>
       <url>https://img.transistor.fm/0dm2Ry0l99sGzlneXr-0N5GUiwi9OX_blGW4Vqxu8rQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzM2MTQwLzE2Njk2/NjQ5MjctYXJ0d29y/ay5qcGc.jpg</url>
@@ -38,6 +38,33 @@
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>58: People used to hand code assembly</title>
+      <itunes:title>58: People used to hand code assembly</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">30b595af-1369-4488-a826-a2a26b50c0de</guid>
+      <link>https://share.transistor.fm/s/032645da</link>
+      <description>
+        <![CDATA[<p>Join us to talk about our five year anniversary of launching the Swift Package Index, adding Wasm and Android support to our compatibility testing matrix, WWDC 2025, and a rather lengthy (but interesting!) discussion of LLM-based coding tools. There's also a couple of package picks, as always!</p><p><strong>News</strong></p><ul><li><a href="https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index">Five years of the Swift Package Index</a></li><li><a href="https://swiftpackageindex.com/blog/adding-wasm-and-android-compatibility-testing">Adding Wasm and Android compatibility testing</a></li><li><a href="https://danielsaidi.com/blog/2025/06/08/one-number-to-rule-them-all-why-id-love-unified-os-versioning-from-apple">One Number to Rule Them All: Why I'd Love Apple's Unified OS Versioning</a></li><li>Coded with Claude Code: <a href="https://swiftpackageindex.com/daveverwer/CriticMarkup">CriticMarkup</a></li><li><a href="https://steipete.me/posts/2025/the-future-of-vibe-coding">The Future of Vibe Coding: Building with AI, Live and Unfiltered</a></li><li><a href="https://zed.dev">Zed editor</a></li></ul><p><strong>Packages</strong></p><ul><li><a href="https://swiftpackageindex.com/kattouf/package-swift-lsp">package-swift-lsp</a> by <a href="https://mastodon.social/@kattouf">Vasiliy Kattouf</a></li><li><a href="https://swiftpackageindex.com/NSFatalError/Probing">Probing</a> by <a href="https://github.com/NSFatalError">Kamil Strzelecki</a></li></ul><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Join us to talk about our five year anniversary of launching the Swift Package Index, adding Wasm and Android support to our compatibility testing matrix, WWDC 2025, and a rather lengthy (but interesting!) discussion of LLM-based coding tools. There's also a couple of package picks, as always!</p><p><strong>News</strong></p><ul><li><a href="https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index">Five years of the Swift Package Index</a></li><li><a href="https://swiftpackageindex.com/blog/adding-wasm-and-android-compatibility-testing">Adding Wasm and Android compatibility testing</a></li><li><a href="https://danielsaidi.com/blog/2025/06/08/one-number-to-rule-them-all-why-id-love-unified-os-versioning-from-apple">One Number to Rule Them All: Why I'd Love Apple's Unified OS Versioning</a></li><li>Coded with Claude Code: <a href="https://swiftpackageindex.com/daveverwer/CriticMarkup">CriticMarkup</a></li><li><a href="https://steipete.me/posts/2025/the-future-of-vibe-coding">The Future of Vibe Coding: Building with AI, Live and Unfiltered</a></li><li><a href="https://zed.dev">Zed editor</a></li></ul><p><strong>Packages</strong></p><ul><li><a href="https://swiftpackageindex.com/kattouf/package-swift-lsp">package-swift-lsp</a> by <a href="https://mastodon.social/@kattouf">Vasiliy Kattouf</a></li><li><a href="https://swiftpackageindex.com/NSFatalError/Probing">Probing</a> by <a href="https://github.com/NSFatalError">Kamil Strzelecki</a></li></ul><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Thu, 12 Jun 2025 15:00:00 +0100</pubDate>
+      <author>Dave Verwer and Sven A. Schmidt</author>
+      <enclosure url="https://media.transistor.fm/032645da/adcbe92e.mp3" length="22820440" type="audio/mpeg"/>
+      <itunes:author>Dave Verwer and Sven A. Schmidt</itunes:author>
+      <itunes:duration>2851</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Join us to talk about our five year anniversary of launching the Swift Package Index, adding Wasm and Android support to our compatibility testing matrix, WWDC 2025, and a rather lengthy (but interesting!) discussion of LLM-based coding tools. There's also a couple of package picks, as always!</p><p><strong>News</strong></p><ul><li><a href="https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index">Five years of the Swift Package Index</a></li><li><a href="https://swiftpackageindex.com/blog/adding-wasm-and-android-compatibility-testing">Adding Wasm and Android compatibility testing</a></li><li><a href="https://danielsaidi.com/blog/2025/06/08/one-number-to-rule-them-all-why-id-love-unified-os-versioning-from-apple">One Number to Rule Them All: Why I'd Love Apple's Unified OS Versioning</a></li><li>Coded with Claude Code: <a href="https://swiftpackageindex.com/daveverwer/CriticMarkup">CriticMarkup</a></li><li><a href="https://steipete.me/posts/2025/the-future-of-vibe-coding">The Future of Vibe Coding: Building with AI, Live and Unfiltered</a></li><li><a href="https://zed.dev">Zed editor</a></li></ul><p><strong>Packages</strong></p><ul><li><a href="https://swiftpackageindex.com/kattouf/package-swift-lsp">package-swift-lsp</a> by <a href="https://mastodon.social/@kattouf">Vasiliy Kattouf</a></li><li><a href="https://swiftpackageindex.com/NSFatalError/Probing">Probing</a> by <a href="https://github.com/NSFatalError">Kamil Strzelecki</a></li></ul><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>swift, uikit, swiftui, apple, ios, macos</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://daveverwer.com" img="https://img.transistor.fm/fl8HjUOPj9pXabqy_b9JmCHd-pn2GhrMZ4CqDztMVYY/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vOWVjZGM2YmEt/YjYxZS00MzlhLThi/YWEtMWI0MWQ2MDYz/YzU4LzE2Njg0NTAw/NTYtaW1hZ2UuanBn.jpg">Dave Verwer</podcast:person>
+      <podcast:person role="Host" href="https://finestructure.co" img="https://img.transistor.fm/oWGkaPRfzRoyl8igbKixFw-_egYy7Ptpy-aM0j8c9fE/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NzM0/OGM1NTY3YmE2MDA0/ZmVlYmEwZjNlMGI5/ZWUxYi5qcGc.jpg">Sven A. Schmidt</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/032645da/transcript.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:chapters url="https://share.transistor.fm/s/032645da/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>57: How many of the same packages can we pick?</title>
       <itunes:title>57: How many of the same packages can we pick?</itunes:title>

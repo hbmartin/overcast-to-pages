@@ -8,8 +8,8 @@
     <copyright><![CDATA[Sharp Tech Podcast LLC]]></copyright>
     <managingEditor>email@sharptech.fm (Andrew Sharp and Ben Thompson)</managingEditor>
     <webMaster>webmaster@sharptech.fm (Ben Thompson)</webMaster>
-    <pubDate>Thu, 05 Jun 2025 14:00:34 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 15:05:27 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 14:06:25 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 14:08:49 +0000</lastBuildDate>
     <category>Technology</category>
     <ttl>60</ttl>
     <image>
@@ -17,6 +17,45 @@
       <title>Sharp Tech with Ben Thompson</title>
       <link>https://sharptech.fm</link>
     </image>
+    <item>
+      <title>Apple’s WWDC Retreat, Liquid Glass and One Question, Meta Puts $14.8 Billion Toward an AI Reset</title>
+      <link>https://sharptech.fm/member/episode/apples-wwdc-retreat-liquid-glass-and-one-question-meta-puts-14-8-billion-toward-an-ai-reset</link>
+      <description>A variety of announcements at WWDC, and why Apple’s lack of jaw-dropping news or boundary pushing plans was the most sensible approach available this year. Then: Questions about Meta’s AI execution, as the company reportedly invests $14.8 billion in Scale AI and its CEO Alexander Wang. &#xA;</description>
+      <content:encoded><![CDATA[<p>
+A variety of announcements at WWDC, and why Apple’s lack of jaw-dropping news or boundary pushing plans was the most sensible approach available this year. Then: Questions about Meta’s AI execution, as the company reportedly invests $14.8 billion in Scale AI and its CEO Alexander Wang. 
+</p>
+<p>To email the show: <a href="mailto:email@sharptech.fm">email@sharptech.fm</a></p>
+
+<hr/>
+
+<p>@SharpTechPodcast Channel — <a href="https://www.youtube.com/@SharpTechPodcast">YouTube</a></p>
+
+<p>@Stratechery Channel — <a href="https://www.youtube.com/@Stratechery">YouTube</a></p>
+
+<hr/>
+
+<p>Apple Retreats — <a href="https://stratechery.com/2025/apple-retreats/">Stratechery</a></p>
+
+<p>Meta Is Creating a New A.I. Lab to Pursue ‘Superintelligence’ — <a href="https://www.nytimes.com/2025/06/10/technology/meta-new-ai-lab-superintelligence.html">New York Times</a></p>
+
+<p>Meta + Scale AI?, Meta’s Reset, AI as Sustaining Innovation — <a href="https://stratechery.com/2025/meta-scale-ai-metas-reset-ai-as-sustaining-innovation/">Stratechery Update</a></p>
+<hr/>
+
+<p>Get all episodes of Sharp Tech, Sharp China, Stratechery Updates and Interviews, Greatest of All Talk, Asianometry and the Dithering Podcast as part of <a href="https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG">Stratechery Plus</a> for $15/month or $150/year.</p>]]></content:encoded>
+      <author>Andrew Sharp and Ben Thompson</author>
+      <enclosure url="https://sharptech.fm/assets/sharptech0232_withChapters_8745.mp3?access_token=WtLvUDEHgB7rE4MbAfmDVT" length="57483206" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="true">https://sharptech.fm/member/episode/apples-wwdc-retreat-liquid-glass-and-one-question-meta-puts-14-8-billion-toward-an-ai-reset</guid>
+      <pubDate>Thu, 12 Jun 2025 14:06:25 +0000</pubDate>
+      <atomic:distribution id="CQ4TYbNSoJbDFYEHhksJC" article="CQ4TRSpod1wnv1SXLwn2g" template="9yW2u115pMenFrEKqdKPEW" audience="4c7ZXpgqCGPHfUcjX3Mcoc" asset="CQ4TUKDFEAk1JiPWQYWJC">
+        <atomic:distroDate>Thu, 12 Jun 2025 14:08:24 +0000</atomic:distroDate>
+        <atomic:categories>
+          <atomic:category id="6PY3ZUwyC2b5KGPmqB2H1w" name="itunes-episodes"></atomic:category>
+        </atomic:categories>
+      </atomic:distribution>
+      <itunes:author>Andrew Sharp and Ben Thompson</itunes:author>
+      <itunes:duration>00:59:21</itunes:duration>
+      <itunes:summary>A variety of announcements at WWDC, and why Apple’s lack of jaw-dropping news or boundary pushing plans was the most sensible approach available this year. Then: Questions about Meta’s AI execution, as the company reportedly invests $14.8 billion in Scale AI and its CEO Alexander Wang. &#xA;</itunes:summary>
+    </item>
     <item>
       <title>(Preview) Nike’s Lessons on the Internet, Why Nike on Amazon Makes Sense, Meta and Anduril and Silicon Valley History</title>
       <link>https://sharptech.fm/member/episode/preview-nikes-lessons-on-the-internet-why-nike-on-amazon-makes-sense-meta-and-anduril-and-silicon-valley-history</link>
@@ -8731,7 +8770,7 @@ The eleventh hour agreement between Charter and Disney, why Charter was the clea
     <atomic:instance id="6vy7SsfMZpRFMRsv1im5eU" build="4761d1eb" version="v1.1.8-patch.1"></atomic:instance>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <sy:updateBase>2025-06-05 14:14:41 +0000 UTC</sy:updateBase>
+    <sy:updateBase>2025-06-12 14:08:24 +0000 UTC</sy:updateBase>
     <itunes:subtitle>How technology works, and the ways it is impacting the world</itunes:subtitle>
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>

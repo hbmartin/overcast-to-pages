@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://aneyeonai.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Eye On A.I.</title>
-		<pubDate>Mon, 09 Jun 2025 20:00:00 +0000</pubDate>
-		<lastBuildDate>Mon, 09 Jun 2025 20:05:22 +0000</lastBuildDate>
+		<pubDate>Thu, 12 Jun 2025 13:00:00 +0000</pubDate>
+		<lastBuildDate>Thu, 12 Jun 2025 16:47:15 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://www.eye-on.ai</link>
 		<language>en</language>
@@ -35,6 +35,22 @@
 		<podcast:locked owner="craig@eye-on.ai">yes</podcast:locked>
 		
 		<item>
+			<title>#261 Jonathan Frankle: How Databricks is Disrupting AI Model Training</title>
+			<itunes:title>#261 Jonathan Frankle: How Databricks is Disrupting AI Model Training</itunes:title>
+			<pubDate>Thu, 12 Jun 2025 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[42ca8ec7-15b8-4d6f-97e4-86d5637f505b]]></guid>
+			<link><![CDATA[https://aneyeonai.libsyn.com/261-jonathan-frankle-how-databricks-is-disrupting-ai-model-training]]></link>
+			<description><![CDATA[<p>This episode is sponsored by Oracle. OCI is the next-generation cloud designed for every workload – where you can run any application, including any AI projects, faster and more securely for less. On average, OCI costs 50% less for compute, 70% less for storage, and 80% less for networking. Join Modal, Skydance Animation, and today’s innovative AI tech companies who upgraded to OCI…and saved.</p> <p> </p> <p>Try OCI for free at <a href= "http://oracle.com/eyeonai">http://oracle.com/eyeonai</a></p> <p> </p> <p><br /> What if you could fine-tune an AI model without any labeled data—and still outperform traditional training methods?</p> <p> </p> <p>In this episode of Eye on AI, we sit down with Jonathan Frankle, Chief Scientist at Databricks and co-founder of MosaicML, to explore TAO (Test-time Adaptive Optimization)—Databricks’ breakthrough tuning method that’s transforming how enterprises build and scale large language models (LLMs).</p> <p> </p> <p>Jonathan explains how Tau uses reinforcement learning and synthetic data to train models without the need for expensive, time-consuming annotation. We dive into how Tau compares to supervised fine-tuning, why Databricks built their own reward model (DBRM), and how this system allows for continual improvement, lower inference costs, and faster enterprise AI deployment.</p> <p> </p> <p>Whether you're an AI researcher, enterprise leader, or someone curious about the future of model customization, this episode will change how you think about training and deploying AI.</p> <p> </p> <p><br /> Explore the latest breakthroughs in data and AI from Databricks: <a href= "https://www.databricks.com/events/dataaisummit-2025-announcements"> https://www.databricks.com/events/dataaisummit-2025-announcements</a></p> <p><br /> Stay Updated:<br /> Craig Smith on X: <a href= "https://x.com/craigss">https://x.com/craigss</a><br /> Eye on A.I. on X: <a href= "https://x.com/EyeOn_AI">https://x.com/EyeOn_AI</a></p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p>This episode is sponsored by Oracle. OCI is the next-generation cloud designed for every workload – where you can run any application, including any AI projects, faster and more securely for less. On average, OCI costs 50% less for compute, 70% less for storage, and 80% less for networking. Join Modal, Skydance Animation, and today’s innovative AI tech companies who upgraded to OCI…and saved.</p> <p> </p> <p>Try OCI for free at <a href= "http://oracle.com/eyeonai">http://oracle.com/eyeonai</a></p> <p> </p> <p> What if you could fine-tune an AI model without any labeled data—and still outperform traditional training methods?</p> <p> </p> <p>In this episode of Eye on AI, we sit down with Jonathan Frankle, Chief Scientist at Databricks and co-founder of MosaicML, to explore TAO (Test-time Adaptive Optimization)—Databricks’ breakthrough tuning method that’s transforming how enterprises build and scale large language models (LLMs).</p> <p> </p> <p>Jonathan explains how Tau uses reinforcement learning and synthetic data to train models without the need for expensive, time-consuming annotation. We dive into how Tau compares to supervised fine-tuning, why Databricks built their own reward model (DBRM), and how this system allows for continual improvement, lower inference costs, and faster enterprise AI deployment.</p> <p> </p> <p>Whether you're an AI researcher, enterprise leader, or someone curious about the future of model customization, this episode will change how you think about training and deploying AI.</p> <p> </p> <p> Explore the latest breakthroughs in data and AI from Databricks: <a href= "https://www.databricks.com/events/dataaisummit-2025-announcements"> https://www.databricks.com/events/dataaisummit-2025-announcements</a></p> <p> Stay Updated: Craig Smith on X: <a href= "https://x.com/craigss">https://x.com/craigss</a> Eye on A.I. on X: <a href= "https://x.com/EyeOn_AI">https://x.com/EyeOn_AI</a></p> <p> </p>]]></content:encoded>
+			<enclosure length="127142208" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_-_Jonathan_Frankel_-_Audio_V2.mp3?dest-id=727317" />
+			<itunes:duration>52:47</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>Databricks,large language models,RLHF,Craig Smith,scaling AI,Eye on AI,AI customization,reinforcement learning,enterprise AI,AI optimization,AI podcast,AI model training,Jonathan Frankle,MosaicML,Tau Databricks,fine-tuning LLMs,DBRM</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. OCI is the next-generation cloud designed for every workload – where you can run any application, including any AI projects, faster and more securely for less. On average, OCI costs 50% less for compute, 70% less...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Craig Smith</itunes:author>
+		</item>
+		<item>
 			<title>#260 Ash Anwar: How Molecular You Uses AI for Early Disease Detection</title>
 			<itunes:title>#260 Ash Anwar: How Molecular You Uses AI for Early Disease Detection</itunes:title>
 			<pubDate>Mon, 09 Jun 2025 20:00:00 +0000</pubDate>
@@ -45,7 +61,7 @@
 			<enclosure length="118570368" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_On_AI_-_260_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>49:13</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>personalized medicine,health tech,health optimization,cancer detection,blood biomarkers,biomarker testing,AI in healthcare,AI diagnostics,preventive healthcare,longevity science,early disease detection,predictive health,Molecular You,Ash Anwar</itunes:keywords>
+			<itunes:keywords>Personalized Medicine,health tech,health optimization,cancer detection,blood biomarkers,biomarker testing,AI in healthcare,AI diagnostics,preventive healthcare,longevity science,early disease detection,predictive health,Molecular You,Ash Anwar</itunes:keywords>
 			<itunes:subtitle><![CDATA[AGNTCY - Unlock agents at scale with an open Internet of Agents. Visit  and add your support.  What if your blood could reveal the future of your health - years before symptoms ever appear? In this episode of Eye on AI, Craig Smith sits down with Ash...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -61,7 +77,7 @@
 			<enclosure length="136364672" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/EYE_ON_AI_-_259_-_Audio_v2.mp3?dest-id=727317" />
 			<itunes:duration>56:38</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI startups,foundation models,AI agents,AI model evaluation,Black Forest Labs,Anjney Midha,a16z AI,how to build an AI company,AI venture capital,Mistral AI,Anthropic AI,AI interpretability,transformer models,hybrid AI architecture,real world AI use cases</itunes:keywords>
+			<itunes:keywords>AI startups,foundation models,ai agents,AI model evaluation,Black Forest Labs,Anjney Midha,a16z AI,how to build an AI company,AI venture capital,Mistral AI,Anthropic AI,AI interpretability,transformer models,hybrid AI architecture,real world AI use cases</itunes:keywords>
 			<itunes:subtitle><![CDATA[AGNTCY - Unlock agents at scale with an open Internet of Agents. Visit  and add your support.   What does it really take to turn cutting-edge AI research into a successful foundation model company?   In this episode of Eye on AI, we sit down with...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -93,7 +109,7 @@
 			<enclosure length="141137984" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_On_AI_257_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>58:37</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>MCP,digital identity,verifiable credentials,Eye on AI,DIDs,AI agents,trust in AI,Craig Smith podcast,Model Context Protocol,cheqd,Ankur Banerjee,decentralized identity,identity for AI,agent economy,W3C credentials,AI trust layer,AI identity management</itunes:keywords>
+			<itunes:keywords>MCP,digital identity,verifiable credentials,Eye on AI,DIDs,ai agents,trust in AI,Craig Smith podcast,Model Context Protocol,cheqd,Ankur Banerjee,decentralized identity,identity for AI,agent economy,W3C credentials,AI trust layer,AI identity management</itunes:keywords>
 			<itunes:subtitle><![CDATA[AGNTCY - Unlock agents at scale with an open Internet of Agents. Visit  and add your support.     What if AI agents needed digital passports to act on your behalf?   In this episode, Ankur Banerjee, Co-Founder and CTO of cheqd.io,...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -125,7 +141,7 @@
 			<enclosure length="117985792" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_On_AI_255_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>48:58</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Artificial Intelligence,personalized medicine,precision medicine,future of healthcare,AI in healthcare,AI podcast,eric topol,multimodal ai,longevity science,super agers,healthspan vs lifespan,ai disease prediction,aging and ai,organ clocks</itunes:keywords>
+			<itunes:keywords>Artificial Intelligence,Personalized Medicine,precision medicine,future of healthcare,AI in healthcare,AI podcast,eric topol,multimodal ai,longevity science,super agers,healthspan vs lifespan,ai disease prediction,aging and ai,organ clocks</itunes:keywords>
 			<itunes:subtitle><![CDATA[AGNTCY - Unlock agents at scale with an open Internet of Agents. Visit  and add your support.   What if AI could predict exactly when you'd get sick—and help you prevent it?   In this episode of Eye on AI, Dr. Eric Topol, world-renowned...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -157,7 +173,7 @@
 			<enclosure length="113467008" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_On_AI_-_253final.mp3?dest-id=727317" />
 			<itunes:duration>47:05</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI and Machine Learning,generative ai,large language models,AI Code Generation,AI in Software Development,Generative AI Tools,AI Code Assistance,Autonomous Software Engineering,Tabnine AI,Peter Guagenti,AI-Powered Coding,Future of Coding</itunes:keywords>
+			<itunes:keywords>AI and Machine Learning,Generative AI,large language models,AI Code Generation,AI in Software Development,Generative AI Tools,AI Code Assistance,Autonomous Software Engineering,Tabnine AI,Peter Guagenti,AI-Powered Coding,Future of Coding</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is brought to you by Extreme Networks, the company radically improving customer experiences with AI-powered automation for networking.Extreme is driving the convergence of AI, networking, and security to transform the way businesses...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -173,7 +189,7 @@
 			<enclosure length="129504832" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_252_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>53:46</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>generative ai,Eye on AI podcast,ai product development,aws generative ai,jeffrey hammond aws,building ai products,ai for software companies,isv genai strategy,aws bedrock,how to scale ai products</itunes:keywords>
+			<itunes:keywords>Generative AI,Eye on AI podcast,ai product development,aws generative ai,jeffrey hammond aws,building ai products,ai for software companies,isv genai strategy,aws bedrock,how to scale ai products</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more.NetSuite is offering a one-of-a-kind flexible financing program.    Head to  ...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -221,7 +237,7 @@
 			<enclosure length="72137202" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_249_-_Audio_v2.mp3?dest-id=727317" />
 			<itunes:duration>49:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>moderna,Artificial Intelligence,Healthcare Innovation,personalized medicine,generative ai,AI in healthcare,Eye on AI podcast,AI in medicine,mRNA technology,AI drug development,biotech innovation,Brice Challamel,Moderna AI strategy</itunes:keywords>
+			<itunes:keywords>moderna,Artificial Intelligence,healthcare innovation,Personalized Medicine,Generative AI,AI in healthcare,Eye on AI podcast,AI in medicine,mRNA technology,AI drug development,biotech innovation,Brice Challamel,Moderna AI strategy</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. OCI is the next-generation cloud designed for every workload – where you can run any application, including any AI projects, faster and more securely for less.  On average, OCI costs 50% less for compute,...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -269,7 +285,7 @@
 			<enclosure length="83595668" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_246_-_Audio_v4.mp3?dest-id=727317" />
 			<itunes:duration>57:44</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>conversational AI,Enterprise AI,AI for Business,autonomous agents,multimodal ai,agentic workflows,Google Gemini AI,Will Grannis,Google Cloud CTO,agent space Google,generative AI agents,agent garden,cloud computing 2024,AI orchestration tools</itunes:keywords>
+			<itunes:keywords>conversational AI,enterprise AI,ai for business,autonomous agents,multimodal ai,agentic workflows,Google Gemini AI,Will Grannis,Google Cloud CTO,agent space Google,generative AI agents,agent garden,cloud computing 2024,AI orchestration tools</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Thuma. Thuma is a modern design company that specializes in timeless home essentials that are mindfully made with premium materials and intentional details.   To get $100 towards your first bed purchase, go to   ...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -285,7 +301,7 @@
 			<enclosure length="36199378" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_245_-_Audio_v2.mp3?dest-id=727317" />
 			<itunes:duration>24:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>ai in finance,ai infrastructure,ai in banking,fintech innovation,visa ai,rajat taneja,visa fraud detection,artificial intelligence payments,generative ai visa,visa technology strategy,visa data platform,ai in fintech,ai fraud prevention</itunes:keywords>
+			<itunes:keywords>AI in finance,ai infrastructure,ai in banking,fintech innovation,visa ai,rajat taneja,visa fraud detection,artificial intelligence payments,generative ai visa,visa technology strategy,visa data platform,ai in fintech,ai fraud prevention</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Thuma.   Thuma is a modern design company that specializes in timeless home essentials that are mindfully made with premium materials and intentional details.   To get $100 towards your first bed purchase, go to ...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -347,7 +363,7 @@
 			<enclosure length="89363269" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_241_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>01:01:44</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI,AGI,Artificial Intelligence,machine learning,AI innovation,Human Machine Interaction,neural networks,Brain-Computer Interface,AI Research,AI in healthcare,AI in medicine,Reinforcement Learning,AI Predictions,AI and Robotics,The Alberta Plan</itunes:keywords>
+			<itunes:keywords>AI,AGI,Artificial Intelligence,machine learning,AI innovation,Human Machine Interaction,neural networks,Brain-Computer Interface,AI Research,AI in healthcare,AI in medicine,reinforcement learning,AI Predictions,AI and Robotics,The Alberta Plan</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more. NetSuite is offering a one-of-a-kind flexible financing program. Head to   to know...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -363,7 +379,7 @@
 			<enclosure length="95599955" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_240_-_Audio_v2.mp3?dest-id=727317" />
 			<itunes:duration>01:06:03</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Artificial Intelligence,machine learning,future of ai,OUMI,AI innovation,generative ai,AI Revolution,Open Source AI,UMI AI,Open Source Tech,AI vs Big Tech,Manos Koukoumidis</itunes:keywords>
+			<itunes:keywords>Artificial Intelligence,machine learning,future of ai,OUMI,AI innovation,Generative AI,AI Revolution,Open Source AI,UMI AI,Open Source Tech,AI vs Big Tech,Manos Koukoumidis</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is brought to you by Sonar, the creators of SonarQube Server, Cloud, IDE, and the open source Community Build.    Sonar unlocks actionable code intelligence, helping to redefine the software development lifecycle by use of AI...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -379,7 +395,7 @@
 			<enclosure length="67118884" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_240_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>46:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI,SaaS,Artificial Intelligence,machine learning,ai tools,cloud computing,tech podcast,AI Deployment,deep learning,Enterprise AI,AI optimization,AI Inference,Open Source AI,AI models,AI Scaling,Baseten,Inference AI,ML Infrastructure,Ai Startup</itunes:keywords>
+			<itunes:keywords>AI,SaaS,Artificial Intelligence,machine learning,AI tools,cloud computing,tech podcast,AI Deployment,deep learning,enterprise AI,AI optimization,AI Inference,Open Source AI,AI models,AI Scaling,Baseten,Inference AI,ML Infrastructure,Ai Startup</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Thuma.   Thuma is a modern design company that specializes in timeless home essentials that are mindfully made with premium materials and intentional details.   To get $100 towards your first bed purchase, go to ...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -475,7 +491,7 @@
 			<enclosure length="65091629" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_233_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>44:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>generative ai,Eye on AI podcast,AI Chatbots,AI in customer service,AI and Human Collaboration,Matt Price Crescendo,Customer Support Innovation,Outcome-Based Pricing,Multilingual Customer Service,Future of Customer Service,AI Technology Integration</itunes:keywords>
+			<itunes:keywords>Generative AI,Eye on AI podcast,AI Chatbots,AI in customer service,AI and Human Collaboration,Matt Price Crescendo,Customer Support Innovation,Outcome-Based Pricing,Multilingual Customer Service,Future of Customer Service,AI Technology Integration</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode of the Eye on AI podcast, Matt Price, CEO of Crescendo, joins Craig Smith to discuss how generative AI is reshaping customer service and blending seamlessly with human expertise to create next-level customer experiences.   Matt...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -491,7 +507,7 @@
 			<enclosure length="74101010" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_232_-_Audioo.mp3?dest-id=727317" />
 			<itunes:duration>51:08</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>generative ai,AI History,autonomous systems,LSTM Networks,Sepp Hochreiter,Transformers vs. LSTMs,Real-Time Robotics,Energy Efficiency in AI,Machine Learning Innovation,AI Foundations</itunes:keywords>
+			<itunes:keywords>Generative AI,AI History,autonomous systems,LSTM Networks,Sepp Hochreiter,Transformers vs. LSTMs,Real-Time Robotics,Energy Efficiency in AI,Machine Learning Innovation,AI Foundations</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this special episode of the Eye on AI podcast, Sepp Hochreiter, the inventor of Long Short-Term Memory (LSTM) networks, joins Craig Smith to discuss the profound impact of LSTMs on artificial intelligence, from language models to real-time...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig S. Smith</itunes:author>
@@ -507,7 +523,7 @@
 			<enclosure length="69327457" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_231_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>47:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>generative ai,AI and creativity,Future of generative AI,Open Source AI,AI Video Generation,AI in video production,Synthetic data AI,Genmo AI,Paras Jain,Mochi One,AI storytelling,creative AI tools,Future of video creation,AI-powered videos</itunes:keywords>
+			<itunes:keywords>Generative AI,AI and creativity,Future of generative AI,Open Source AI,AI Video Generation,AI in video production,Synthetic data AI,Genmo AI,Paras Jain,Mochi One,AI storytelling,creative AI tools,Future of video creation,AI-powered videos</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode of the Eye on AI podcast, Paras Jain, CEO and Co-founder of Genmo, joins Craig Smith to explore the cutting-edge world of AI-driven video generation, the open-source revolution, and the future of creative storytelling. Paras shares the...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -539,7 +555,7 @@
 			<enclosure length="81279028" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_229_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>56:07</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Nvidia,Artificial Intelligence,machine learning,future of ai,deep learning,generative ai,AI Research,Tech Startups,ai infrastructure,AI compute,AI Workloads,Lambda Labs,AI Cloud Platform,GPU for AI,Cloud Computing for AI</itunes:keywords>
+			<itunes:keywords>Nvidia,Artificial Intelligence,machine learning,future of ai,deep learning,Generative AI,AI Research,Tech Startups,ai infrastructure,AI compute,AI Workloads,Lambda Labs,AI Cloud Platform,GPU for AI,Cloud Computing for AI</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more.   NetSuite is offering a one-of-a-kind flexible financing program. Head to   to...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -667,7 +683,7 @@
 			<enclosure length="64750021" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_On_AI_223_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>44:39</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>semiconductors,Artificial Intelligence,Edge Computing,AI innovation,generative ai,chip manufacturing,materials science,Edge AI,semiconductor industry,AI hardware,AI and Chips,Merck KGaA,Kai Beckmann,Advanced Chips,3D Chip Design</itunes:keywords>
+			<itunes:keywords>semiconductors,Artificial Intelligence,Edge Computing,AI innovation,Generative AI,chip manufacturing,materials science,Edge AI,semiconductor industry,AI hardware,AI and Chips,Merck KGaA,Kai Beckmann,Advanced Chips,3D Chip Design</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more.   NetSuite is offering a one-of-a-kind flexible financing program. Head to   to...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -699,7 +715,7 @@
 			<enclosure length="34786682" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_221_-_Audio_v2.mp3?dest-id=727317" />
 			<itunes:duration>23:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>software engineering,generative ai,AI in Software Development,AI-Powered Coding,Future of Coding,AI for developers,Codeium,Varun Mohan,Cascade by Codeium,AI IDE,Coding automation,Software development tools,Programming tools,Machine learning in software</itunes:keywords>
+			<itunes:keywords>software engineering,Generative AI,AI in Software Development,AI-Powered Coding,Future of Coding,AI for developers,Codeium,Varun Mohan,Cascade by Codeium,AI IDE,Coding automation,Software development tools,Programming tools,Machine learning in software</itunes:keywords>
 			<itunes:subtitle><![CDATA[Launch, run, and protect your business to make it official TODAY at  and use promo code EYEONAI to get 10% off any LegalZoom business formation product excluding subscriptions and renewals.    In this episode of the Eye on AI podcast, Varun...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -715,7 +731,7 @@
 			<enclosure length="87505353" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_220_-_Audio_v2.mp3?dest-id=727317" />
 			<itunes:duration>01:00:28</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Artificial Intelligence,future of ai,deep learning,neural networks,generative ai,large language models,ChatGPT explained,AI language models,Computational neuroscience,AI and creativity,AI limitations,Machine learning insights,Terry Sejnowski</itunes:keywords>
+			<itunes:keywords>Artificial Intelligence,future of ai,deep learning,neural networks,Generative AI,large language models,ChatGPT explained,AI language models,Computational neuroscience,AI and creativity,AI limitations,Machine learning insights,Terry Sejnowski</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode of Eye on AI is sponsored by Citrusx. Unlock reliable AI with Citrusx! Our platform simplifies validation and risk management, empowering you to make smarter decisions and stay compliant. Detects and mitigate AI vulnerabilities, biases,...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -747,7 +763,7 @@
 			<enclosure length="72339759" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_218_-_Audio_1.mp3?dest-id=727317" />
 			<itunes:duration>49:55</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI innovation,AI Development,Hugging Face,Enterprise AI,Open Source AI,AI models,Transformers Library,Machine Learning Tools,No Code AI,Open vs Proprietary AI</itunes:keywords>
+			<itunes:keywords>AI innovation,AI Development,Hugging Face,enterprise AI,Open Source AI,AI models,Transformers Library,Machine Learning Tools,No Code AI,Open vs Proprietary AI</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. Oracle Cloud Infrastructure, or OCI is a blazing fast and secure platform for your infrastructure, database, application development, plus all your AI and machine learning workloads. OCI costs 50% less for compute...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -763,7 +779,7 @@
 			<enclosure length="81821721" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_217_-_Audio_v2.mp3?dest-id=727317" />
 			<itunes:duration>56:30</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AGI,Superintelligence,SingularityNET,future of ai,AI Ethics,Artificial General Intelligence,Sophia the Robot,AI and blockchain,AI Development Trends,decentralized AI,Ben Goertzel,Consciousness in AI,Consciousness Explosion Book,AI and Panpsychism</itunes:keywords>
+			<itunes:keywords>AGI,Superintelligence,SingularityNET,future of ai,AI ethics,Artificial General Intelligence,Sophia the Robot,AI and blockchain,AI Development Trends,decentralized AI,Ben Goertzel,Consciousness in AI,Consciousness Explosion Book,AI and Panpsychism</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Legal Zoom.  Launch, run, and protect your business to make it official TODAY at  and use promo code Smith10 to get 10% off any LegalZoom business formation product excluding subscriptions and renewals.   In this...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -779,7 +795,7 @@
 			<enclosure length="75024047" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_On_AI_215_-_Audio_v2.mp3?dest-id=727317" />
 			<itunes:duration>51:47</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI innovation,AI Deployment,AI Ethics,AI Platform,ai infrastructure,AI agents,AI model evaluation,AI scalability,Vertex AI,Google Cloud AI,AI model selection,Tensor Processing Units,Google AI tools,Model Garden,AI Prompt Optimization,Nenshad Bardoliwalla</itunes:keywords>
+			<itunes:keywords>AI innovation,AI Deployment,AI ethics,AI Platform,ai infrastructure,ai agents,AI model evaluation,AI scalability,Vertex AI,Google Cloud AI,AI model selection,Tensor Processing Units,Google AI tools,Model Garden,AI Prompt Optimization,Nenshad Bardoliwalla</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode of the Eye on AI podcast is sponsored by JLL. JLL's AI solutions are transforming the real estate landscape, accelerating growth, streamlining operations and unlocking hidden value in properties and portfolios. From predictive...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -810,7 +826,7 @@
 			<enclosure length="145762478" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_214_-_Audio_v3.mp3?dest-id=727317" />
 			<itunes:duration>01:00:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Artificial Intelligence,machine learning,future of ai,AI Development,AI Ethics,AI Automation,generative ai,Microsoft AI,Responsible AI,AI safety,AI agents,agentic workflows,AI in Research,Multi-agent systems,Ece Kamar,AI Frontiers,AutoGen</itunes:keywords>
+			<itunes:keywords>Artificial Intelligence,machine learning,future of ai,AI Development,AI ethics,ai automation,Generative AI,Microsoft AI,Responsible AI,AI safety,ai agents,agentic workflows,AI in Research,Multi-agent systems,Ece Kamar,AI Frontiers,AutoGen</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by RapidSOS. Close the safety gap and transform your emergency response with RapidSOS. Visit  today to learn how AI-powered safety can protect your people and boost your bottom line.     In this episode of the Eye...]]></itunes:subtitle>
 			<itunes:episode>214</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -827,7 +843,7 @@
 			<enclosure length="113802556" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Audio_22.mp3?dest-id=727317" />
 			<itunes:duration>47:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>OpenAI,Artificial Intelligence,machine learning,future of ai,AI Governance,AI innovation,AI Ethics,Federated learning,ethical ai,Trustworthy AI,Meta LLaMA,Open-source AI,AI models,AI and privacy,Mozilla AI,Mark Surman,Firefox AI,privacy in AI</itunes:keywords>
+			<itunes:keywords>OpenAI,Artificial Intelligence,machine learning,future of ai,AI governance,AI innovation,AI ethics,Federated learning,ethical AI,Trustworthy AI,Meta LLaMA,Open-source AI,AI models,AI and privacy,Mozilla AI,Mark Surman,Firefox AI,privacy in AI</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. AI is revolutionizing industries, but needs power without breaking the bank. Enter Oracle Cloud Infrastructure (OCI): the one-stop platform for all your AI needs, with 4-8x the bandwidth of other clouds. Train AI...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -843,7 +859,7 @@
 			<enclosure length="135913388" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_on_AI_212_-_Audio.mp3?dest-id=727317" />
 			<itunes:duration>56:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Artificial Intelligence,machine learning,future of ai,deep learning,large language models,Reinforcement Learning,Real-world AI applications,AI in cybersecurity,Thomas Dietterich,AI breakthroughs,Novelty detection in AI,Computational sustainability</itunes:keywords>
+			<itunes:keywords>Artificial Intelligence,machine learning,future of ai,deep learning,large language models,reinforcement learning,Real-world AI applications,AI in cybersecurity,Thomas Dietterich,AI breakthroughs,Novelty detection in AI,Computational sustainability</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Speechmatics. Check it out at    Today, we're joined by Dr. Thomas G. Dietterich, a pioneer in machine learning who recently was honored with the Award for Research Excellence from the International Joint...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -890,7 +906,7 @@
 			<enclosure length="95747571" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Audio_13.mp3?dest-id=727317" />
 			<itunes:duration>39:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>gene,future of ai,conversational AI,AI Ethics,voice assistants,generative ai,large language models,AI in business,Bill Moore,AI Assistant,AI Content Creation,AI in media,Real-time AI,AI podcast host,GPT-4 applications,Gender bias in AI,AI co-host</itunes:keywords>
+			<itunes:keywords>gene,future of ai,conversational AI,AI ethics,voice assistants,Generative AI,large language models,AI in business,Bill Moore,AI Assistant,AI Content Creation,AI in media,Real-time AI,AI podcast host,GPT-4 applications,Gender bias in AI,AI co-host</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode of the Eye on AI podcast, Craig Smith sits down with Bill Moore BCGX to explore the development of Gene, an AI-powered co-host transforming the way we engage with conversational AI.   Bill walks us through the journey of creating...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -922,7 +938,7 @@
 			<enclosure length="114179714" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Noa.mp3?dest-id=727317" />
 			<itunes:duration>47:23</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>financial technology,AI innovation,ai in finance,AI regulation,EU AI ACT,AI Risk Management,AI compliance,CitrusX AI platform,AI in Insurance,Machine learning governance,AI fairness and transparency,AI bias mitigation,Generative AI in finance</itunes:keywords>
+			<itunes:keywords>financial technology,AI innovation,AI in finance,AI regulation,EU AI ACT,AI Risk Management,AI compliance,CitrusX AI platform,AI in Insurance,Machine learning governance,AI fairness and transparency,AI bias mitigation,Generative AI in finance</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. AI is revolutionizing industries, but needs power without breaking the bank. Enter Oracle Cloud Infrastructure (OCI): the one-stop platform for all your AI needs, with 4-8x the bandwidth of other clouds. Train AI...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -938,7 +954,7 @@
 			<enclosure length="72955840" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_On_AI_206_-_AudioFixed.mp3?dest-id=727317" />
 			<itunes:duration>50:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>future of ai,Quantum Computing,Edge Computing,embedded systems,Edge AI,AI hardware,SiMa.ai,neuromorphic computing,AI at the edge,Krishna Rangasayee,AI chip design,Machine Learning System on Chip,MLSoC,AI for robotics,AI for industrial automation</itunes:keywords>
+			<itunes:keywords>future of ai,quantum computing,Edge Computing,embedded systems,Edge AI,AI hardware,SiMa.ai,neuromorphic computing,AI at the edge,Krishna Rangasayee,AI chip design,Machine Learning System on Chip,MLSoC,AI for robotics,AI for industrial automation</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more. NetSuite is offering a one-of-a-kind flexible financing program. Head to   to know...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -970,7 +986,7 @@
 			<enclosure length="80390943" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Eye_On_AI_204_-_Audio_1.mp3?dest-id=727317" />
 			<itunes:duration>55:30</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI and Machine Learning,generative ai,large language models,AI Code Generation,AI in Software Development,Generative AI Tools,AI Code Assistance,Autonomous Software Engineering,Tabnine AI,Peter Guagenti,AI-Powered Coding,Future of Coding</itunes:keywords>
+			<itunes:keywords>AI and Machine Learning,Generative AI,large language models,AI Code Generation,AI in Software Development,Generative AI Tools,AI Code Assistance,Autonomous Software Engineering,Tabnine AI,Peter Guagenti,AI-Powered Coding,Future of Coding</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode of the Eye on AI podcast, we sit down with Peter Guagenti, President and Chief Marketing Officer at Tabnine, to explore the role of AI in software development.   Peter takes us through his journey from web developer and...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1049,7 +1065,7 @@
 			<enclosure length="126080715" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/EOA_199.mp3?dest-id=727317" />
 			<itunes:duration>52:21</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>generative ai,AI in business,AI in marketing,Responsible AI,AI Machine Learning,AI transformation,Data Science Solutions,Tredence AI,Shub Bhowmick Interview,AI for Retail,AI in Consumer Packaged Goods,AI Strategy for CEOs,AI Data Foundation</itunes:keywords>
+			<itunes:keywords>Generative AI,AI in business,AI in marketing,Responsible AI,AI Machine Learning,AI transformation,Data Science Solutions,Tredence AI,Shub Bhowmick Interview,AI for Retail,AI in Consumer Packaged Goods,AI Strategy for CEOs,AI Data Foundation</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode of the Eye on AI podcast, we delve into the power of AI in business and data science and data management with Shub Bhowmick, CEO and co-founder of Tredence.   Explore how Tredence is revolutionizing industries by integrating AI...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1065,7 +1081,7 @@
 			<enclosure length="127390324" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/198.mp3?dest-id=727317" />
 			<itunes:duration>52:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI,NAIR,NSF,Artificial Intelligence,AI innovation,Technology Innovation,ai future,AI in education,AI Research,National Science Foundation,ai infrastructure,AI policy,AI Democratization,High Performance Computing,AI Partnerships,Dr Sethuraman Panchanathan</itunes:keywords>
+			<itunes:keywords>AI,NAIR,NSF,Artificial Intelligence,AI innovation,technology innovation,ai future,AI in education,AI Research,National Science Foundation,ai infrastructure,AI Policy,AI Democratization,High Performance Computing,AI Partnerships,Dr Sethuraman Panchanathan</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. AI is revolutionizing industries, but needs power without breaking the bank. Enter Oracle Cloud Infrastructure (OCI): the one-stop platform for all your AI needs, with 4-8x the bandwidth of other clouds. Train AI...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1081,7 +1097,7 @@
 			<enclosure length="136844671" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Brian.mp3?dest-id=727317" />
 			<itunes:duration>56:50</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Quantum Computing,high-performance computing,Fusion Energy,AI Predictive Models,AI in National Security,Department of Energy AI,Public-Private Partnerships in AI,Stockpile Stewardship,Fusion Ignition Technology,DOE FAST Initiative,Brian Spears</itunes:keywords>
+			<itunes:keywords>quantum computing,high-performance computing,fusion energy,AI Predictive Models,AI in National Security,Department of Energy AI,Public-Private Partnerships in AI,Stockpile Stewardship,Fusion Ignition Technology,DOE FAST Initiative,Brian Spears</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by SysAid.   Get 20% off SysAid Copilot using this link:      In this episode of the Eye on AI podcast, join us as we delve into the cutting-edge world of AI and high-performance computing with Brian...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1112,7 +1128,7 @@
 			<enclosure length="143984270" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/195.mp3?dest-id=727317" />
 			<itunes:duration>59:48</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>blockchain technology,future of ai,AI Governance,AI Security,AI compliance,Casper Labs,Mrinal Manohar,Enterprise Blockchain,IBM Collaboration,Tamper-Proof Records</itunes:keywords>
+			<itunes:keywords>blockchain technology,future of ai,AI governance,AI Security,AI compliance,Casper Labs,Mrinal Manohar,Enterprise Blockchain,IBM Collaboration,Tamper-Proof Records</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by TrialKey.ai, the market leader AI-driven clinical trial design optimization, and predictor that improves trial design and execution. With over 90% accuracy based on precision/recall, TrialKey.ai predicts the success of...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1160,7 +1176,7 @@
 			<enclosure length="102090111" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Audio_39.mp3?dest-id=727317" />
 			<itunes:duration>42:21</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>machine learning,AI Development,Reinforcement Learning,Weights and Biases,prompt engineering,AI compliance,data annotation,ML Ops,AI Model Monitoring,AI Data Lineage</itunes:keywords>
+			<itunes:keywords>machine learning,AI Development,reinforcement learning,Weights and Biases,prompt engineering,AI compliance,data annotation,ML Ops,AI Model Monitoring,AI Data Lineage</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. AI is revolutionizing industries, but needs power without breaking the bank. Enter Oracle Cloud Infrastructure (OCI): the one-stop platform for all your AI needs, with 4-8x the bandwidth of other clouds. Train AI...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1192,7 +1208,7 @@
 			<enclosure length="107060875" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Audio_New_2.mp3?dest-id=727317" />
 			<itunes:duration>44:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>generative ai,AI in Financial Services,financial crime prevention,WorkFusion AI,Sanction Screening,KYC compliance,Digital Workers,Fraud Detection Technology,AI Compliance Solutions,Intelligent Automation in Finance</itunes:keywords>
+			<itunes:keywords>Generative AI,AI in Financial Services,financial crime prevention,WorkFusion AI,Sanction Screening,KYC compliance,Digital Workers,Fraud Detection Technology,AI Compliance Solutions,Intelligent Automation in Finance</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode of the Eye on AI podcast, join us as we sit down with Peter Cousins, CTO at WorkFusion, a pioneering company in intelligent automation and digital workers for anti-financial crime solutions. Peter shares how WorkFusion leverages...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1272,7 +1288,7 @@
 			<enclosure length="75224426" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/185_updated_audio.mp3?dest-id=727317" />
 			<itunes:duration>51:55</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Healthcare Innovation,artificial intelligence podcast,AI in clinical trials,Machine Learning Healthcare,Clinical Trial Prediction,AI Predictive Models,Opal AI TrialKey,Data Science in Medicine,Pharmaceutical AI,AI drug development</itunes:keywords>
+			<itunes:keywords>healthcare innovation,artificial intelligence podcast,AI in clinical trials,Machine Learning Healthcare,Clinical Trial Prediction,AI Predictive Models,Opal AI TrialKey,Data Science in Medicine,Pharmaceutical AI,AI drug development</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more. NetSuite is offering a one-of-a-kind flexible financing program. Head to   to know...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1384,7 +1400,7 @@
 			<enclosure length="76180022" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/audio_only_updated_EOA_178.mp3?dest-id=727317" />
 			<itunes:duration>52:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Artificial Intelligence,future of ai,AI Development,AI Ethics,AI Education,Reinforcement Learning,Computational neuroscience,Terry Sejnowski,Neuromorphic Engineering,AI and Society</itunes:keywords>
+			<itunes:keywords>Artificial Intelligence,future of ai,AI Development,AI ethics,AI Education,reinforcement learning,Computational neuroscience,Terry Sejnowski,Neuromorphic Engineering,AI and Society</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. AI is revolutionizing industries, but needs power without breaking the bank. Enter Oracle Cloud Infrastructure (OCI): the one-stop platform for all your AI needs, with 4-8x the bandwidth of other clouds. Train AI...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1416,7 +1432,7 @@
 			<enclosure length="62283348" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/eoa_176_audio_finished.mp3?dest-id=727317" />
 			<itunes:duration>42:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>machine learning,autonomous vehicles,Reinforcement Learning,Robotics AI,AI Control Systems,embodied AI,Robotics Research,AI Generalization,Robot Manipulation Skills,Vision Language Models</itunes:keywords>
+			<itunes:keywords>machine learning,autonomous vehicles,reinforcement learning,Robotics AI,AI Control Systems,embodied AI,Robotics Research,AI Generalization,Robot Manipulation Skills,Vision Language Models</itunes:keywords>
 			<itunes:subtitle><![CDATA[Join host Craig Smith on episode #176 of Eye on AI as he dives deep into the realm of robotic artificial intelligence with Sergey Levine, associate professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley.  In...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1465,7 +1481,7 @@
 			<enclosure length="47446212" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/mp3_eoa_173.mp3?dest-id=727317" />
 			<itunes:duration>32:38</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>robotics,AI,DeepMind,machine learning,Future of Robotics,AI trends,AI in Robotics,How Is AI Helping Advance Robotics?,Semantic Planning,multimodal models,Applications of AI in Robots,How does AI help in robotics?,Robotic Control with DeepMind RT-2</itunes:keywords>
+			<itunes:keywords>Robotics,AI,DeepMind,machine learning,Future of Robotics,AI trends,AI in Robotics,How Is AI Helping Advance Robotics?,Semantic Planning,multimodal models,Applications of AI in Robots,How does AI help in robotics?,Robotic Control with DeepMind RT-2</itunes:keywords>
 			<itunes:subtitle><![CDATA[Join host Craig Smith for episode #173 of Eye on AI, featuring a groundbreaking discussion with Vincent Vanhoucke, distinguished Scientist, and Senior Director for Robotics at Google DeepMind.  In this episode, Vincent dives into the cutting-edge...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1513,7 +1529,7 @@
 			<enclosure length="80388717" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/audio_new.mp3?dest-id=727317" />
 			<itunes:duration>55:33</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>future of ai,Artificial General Intelligence,Reinforcement Learning,AI evolution,Richard Sutton AI,AI and Computing Power,Transformer Algorithms,AI Ethics and Safety,AI Technology Advances,AI Learning Models</itunes:keywords>
+			<itunes:keywords>future of ai,Artificial General Intelligence,reinforcement learning,AI evolution,Richard Sutton AI,AI and Computing Power,Transformer Algorithms,AI Ethics and Safety,AI Technology Advances,AI Learning Models</itunes:keywords>
 			<itunes:subtitle><![CDATA[Join host Craig Smith on episode #170 of Eye on AI, for a riveting conversation with Richard Sutton, currently serving as a professor of computing science at the University of Alberta and a research scientist at Keen Technologies. Sutton is considered...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1529,7 +1545,7 @@
 			<enclosure length="85988006" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/PODCAST_1_VF_audio_1.mp3?dest-id=727317" />
 			<itunes:duration>59:16</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>software engineering,web development,vercel,generative ai,Cloud Infrastructure,Next.js,JavaScript Frameworks,tech innovations,AI in coding,Programming Tutorials</itunes:keywords>
+			<itunes:keywords>software engineering,web development,vercel,Generative AI,Cloud Infrastructure,Next.js,JavaScript Frameworks,tech innovations,AI in coding,Programming Tutorials</itunes:keywords>
 			<itunes:subtitle><![CDATA[Join host Craig Smith on episode #169 of Eye on AI as we sit down with Guillermo Rauch, CEO of Vercel, a company that optimizes frontend deployment, making web projects faster to execute and easier to scale. In this episode, we explore the...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1545,7 +1561,7 @@
 			<enclosure length="78862998" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/IAN_BREMMER_INTRO_OUTRO-Craig-webcam-00h_00m_00s_281ms-StreamYard_1.mp3?dest-id=727317" />
 			<itunes:duration>54:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI Governance,Ian Bremmer,Eurasia Group,AI regulation,geopolitical challenges,Global Politics and AI,US-China AI Competition,Technology Policy,International Cooperation on AI,Future of AI technology</itunes:keywords>
+			<itunes:keywords>AI governance,Ian Bremmer,Eurasia Group,AI regulation,geopolitical challenges,Global Politics and AI,US-China AI Competition,Technology Policy,International Cooperation on AI,Future of AI technology</itunes:keywords>
 			<itunes:subtitle><![CDATA[Join host Craig Smith on episode #168 of Eye on AI as we sit down with Ian Bremmer, the founder and president of the Eurasia Group, a leading global political risk research and consulting firm.  In this episode, we delve into the complex world of...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1646,7 +1662,7 @@
 			<enclosure length="77704080" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/162_Audio_2.mp3?dest-id=727317" />
 			<itunes:duration>39:22</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>machine learning,future of ai,AI technology,AI Automation,generative ai,AI in business,amazon ai,AI agents,Vasi Philomin,Robotics and AI</itunes:keywords>
+			<itunes:keywords>machine learning,future of ai,AI technology,ai automation,Generative AI,AI in business,amazon ai,ai agents,Vasi Philomin,Robotics and AI</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more. Download NetSuite’s popular KPI Checklist, designed to give you consistently excellent...]]></itunes:subtitle>
 			<itunes:episode>162</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1680,7 +1696,7 @@
 			<enclosure length="95940168" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/160__Audio.mp3?dest-id=727317" />
 			<itunes:duration>49:02</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>machine learning,generative ai,large language models,tech insights,Amazon Bedrock,AI podcast,Atul Deo,amazon ai,AI Innovations,AI Future Trends</itunes:keywords>
+			<itunes:keywords>machine learning,Generative AI,large language models,tech insights,Amazon Bedrock,AI podcast,Atul Deo,amazon ai,AI Innovations,AI Future Trends</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Shopify. Shopify is a commerce platform that allows anyone to set up an online store and sell their products. Whether you’re selling online, on social media, or in person, Shopify has you covered on every base. With...]]></itunes:subtitle>
 			<itunes:episode>160</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1697,7 +1713,7 @@
 			<enclosure length="103178553" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/159_Audio.mp3?dest-id=727317" />
 			<itunes:duration>51:29</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>robotics,Artificial Intelligence,Covariant,Future of Robotics,Reinforcement Learning,Generative Models,AI in Robotics,foundation models,Peter Chen,Robotic Intelligence</itunes:keywords>
+			<itunes:keywords>Robotics,Artificial Intelligence,Covariant,Future of Robotics,reinforcement learning,Generative Models,AI in Robotics,foundation models,Peter Chen,Robotic Intelligence</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Oracle. AI is revolutionizing industries, but needs power without breaking the bank. Enter Oracle Cloud Infrastructure (OCI): the one-stop platform for all your AI needs, with 4-8x the bandwidth of other clouds. Train AI...]]></itunes:subtitle>
 			<itunes:episode>159</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1714,7 +1730,7 @@
 			<enclosure length="96300976" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/158_Audio_3.mp3?dest-id=727317" />
 			<itunes:duration>01:05:13</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Artificial Intelligence,AI Governance,AI Development,AI Ethics,AI regulation,Eye on AI podcast,AI policy,AI safety,Open Source AI,Connor Leahy</itunes:keywords>
+			<itunes:keywords>Artificial Intelligence,AI governance,AI Development,AI ethics,AI regulation,Eye on AI podcast,AI Policy,AI safety,Open Source AI,Connor Leahy</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more. Download NetSuite’s popular KPI Checklist, designed to give you consistently excellent...]]></itunes:subtitle>
 			<itunes:episode>158</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1731,7 +1747,7 @@
 			<enclosure length="40112241" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/157_Audio_1.mp3?dest-id=727317" />
 			<itunes:duration>41:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>OpenAI,Artificial Intelligence,Technology Podcast,AI Ethics,Eye on AI,Karen Hao,ai journalism,Microsoft OpenAI Partnership,Ai Controversy,AI Power Struggle</itunes:keywords>
+			<itunes:keywords>OpenAI,Artificial Intelligence,Technology Podcast,AI ethics,Eye on AI,Karen Hao,ai journalism,Microsoft OpenAI Partnership,Ai Controversy,AI Power Struggle</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by ISS, a leading global provider of video intelligence and data awareness solutions. ISS offers a robust portfolio of AI-powered, high-trust video analytics for streamlining security, safety and business operations within a...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1747,7 +1763,7 @@
 			<enclosure length="97419363" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/156_Audio.mp3?dest-id=727317" />
 			<itunes:duration>48:16</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>NewsGuard,AI Ethics,Gordon Crovitz,AI Misinformation,Fake News AI,Journalism and AI,Information Integrity,Digital Deception,AI News Challenge,Technology and Media</itunes:keywords>
+			<itunes:keywords>NewsGuard,AI ethics,Gordon Crovitz,AI Misinformation,Fake News AI,Journalism and AI,Information Integrity,Digital Deception,AI News Challenge,Technology and Media</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Celonis, the global leader in process mining. AI has landed and enterprises are adapting. To give customers’ slick experiences and teams the technology to deliver. The road is long, but you’re closer than you think....]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1813,7 +1829,7 @@
 			<enclosure length="111297786" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/AI_152_Audio_1.mp3?dest-id=727317" />
 			<itunes:duration>56:34</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>tech,future,automation,cars,transportation,robotics,perception,AI,Artificial Intelligence,machine learning,autonomous driving,autonomous vehicles,deep learning,self-driving cars,world models,Reinforcement Learning,Wavye,unsupervised learning,AI drivers</itunes:keywords>
+			<itunes:keywords>tech,Future,automation,Cars,transportation,Robotics,perception,AI,Artificial Intelligence,machine learning,autonomous driving,autonomous vehicles,deep learning,self-driving cars,world models,reinforcement learning,Wavye,unsupervised learning,AI drivers</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more. Download NetSuite’s popular KPI Checklist, designed to give you consistently excellent...]]></itunes:subtitle>
 			<itunes:episode>152</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1830,7 +1846,7 @@
 			<enclosure length="117234469" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/151_Audio_1.mp3?dest-id=727317" />
 			<itunes:duration>59:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>NLP,machine learning,situational awareness,deep learning,AI Ethics,language models,AI Research,AI safety,data cleaning,BERT Models</itunes:keywords>
+			<itunes:keywords>NLP,machine learning,situational awareness,deep learning,AI ethics,language models,AI Research,AI safety,data cleaning,BERT Models</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Celonis ,the global leader in process mining. AI has landed and enterprises are adapting. To give customers slick experiences and teams the technology to deliver. The road is long, but you’re closer than you think. Your...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Craig Smith</itunes:author>
@@ -1880,7 +1896,7 @@
 			<enclosure length="117814924" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/148_Audio.mp3?dest-id=727317" />
 			<itunes:duration>01:00:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI Ethics,AI bias,neural networks,AI safety,Open-source AI,Proprietary Models,AI Performance,Luther AI,Fake News Generation,Oracle Cloud Infrastructure</itunes:keywords>
+			<itunes:keywords>AI ethics,AI bias,neural networks,AI safety,Open-source AI,Proprietary Models,AI Performance,Luther AI,Fake News Generation,Oracle Cloud Infrastructure</itunes:keywords>
 			<itunes:subtitle><![CDATA[This epsiode is sponsored by Oracle. AI is revolutionizing industries, but needs power without breaking the bank. Enter Oracle Cloud Infrastructure (OCI): the one-stop platform for all your AI needs, with 4-8x the bandwidth of other clouds. Train AI...]]></itunes:subtitle>
 			<itunes:episode>148</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1897,7 +1913,7 @@
 			<enclosure length="108093832" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/147_Audio.mp3?dest-id=727317" />
 			<itunes:duration>55:05</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>language models,Reinforcement Learning,AI Feedback Mechanisms,OpenAI and DeepMind Collaboration,AI Debating Techniques,RLHF vs. RALOF,Model Training and Fine-tuning,Open-source vs. Commercial AI,AI in Robotics,Future of generative AI</itunes:keywords>
+			<itunes:keywords>language models,reinforcement learning,AI Feedback Mechanisms,OpenAI and DeepMind Collaboration,AI Debating Techniques,RLHF vs. RALOF,Model Training and Fine-tuning,Open-source vs. Commercial AI,AI in Robotics,Future of generative AI</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Crusoe. Crusoe Cloud is a scalable, clean, high-performance cloud, optimized for AI and HPC workloads, and powered by wasted, stranded or clean energy. Crusoe offers virtualized compute and storage solutions for a range of...]]></itunes:subtitle>
 			<itunes:episode>147</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1948,7 +1964,7 @@
 			<enclosure length="111670623" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/144_Audio.mp3?dest-id=727317" />
 			<itunes:duration>56:47</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>generative ai,Eye on AI podcast,Red Hat CEO,Enterprise open source software,Linux evolution,open source models,Predictable life cycles,Open source software adoption,General-purpose AI debate,Business efficiency and cost constraints</itunes:keywords>
+			<itunes:keywords>Generative AI,Eye on AI podcast,Red Hat CEO,Enterprise open source software,Linux evolution,open source models,Predictable life cycles,Open source software adoption,General-purpose AI debate,Business efficiency and cost constraints</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more. Download NetSuite’s popular KPI Checklist, designed to give you consistently excellent...]]></itunes:subtitle>
 			<itunes:episode>144</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1965,7 +1981,7 @@
 			<enclosure length="29007988" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/143_Cut_2.mp3?dest-id=727317" />
 			<itunes:duration>01:09:03</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Quantum Computing,Hybrid Computing,AI safety,AI and quantum,Scott Aronson Interview,Quantum Computing Explained,Quantum AI Applications,Quantum Gates,AI and Quantum Leap,Quantum Error Correction</itunes:keywords>
+			<itunes:keywords>quantum computing,Hybrid Computing,AI safety,AI and quantum,Scott Aronson Interview,Quantum Computing Explained,Quantum AI Applications,Quantum Gates,AI and Quantum Leap,Quantum Error Correction</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Crusoe. Crusoe Cloud is a scalable, clean, high-performance cloud, optimized for AI and HPC workloads, and powered by wasted, stranded or clean energy. Crusoe offers virtualized compute and storage solutions for a range of...]]></itunes:subtitle>
 			<itunes:episode>143</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1982,7 +1998,7 @@
 			<enclosure length="89975249" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/142_Audio_5.mp3?dest-id=727317" />
 			<itunes:duration>46:48</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>LGBTQ+,AI Governance,AI Ethics,Queer In AI,Inclusivity In AI,Decentralized Organizations</itunes:keywords>
+			<itunes:keywords>LGBTQ+,AI governance,AI ethics,Queer In AI,Inclusivity In AI,Decentralized Organizations</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Celonis, the global leader in process mining. AI has landed and enterprises are adapting. To give customers slick experiences and teams the technology to deliver. The road is long, but you’re closer than you think. Your...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -2063,7 +2079,7 @@
 			<enclosure length="92174829" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/137_Audio.mp3?dest-id=727317" />
 			<itunes:duration>47:11</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Databank,AI technology,Digital World,tech innovation,Data centers,AI impact,data storage,data sets,AI advancements,AI Revolution,Data Center Trends</itunes:keywords>
+			<itunes:keywords>Databank,AI technology,Digital World,tech innovation,data centers,AI impact,data storage,data sets,AI advancements,AI Revolution,Data Center Trends</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Netsuite by Oracle, the number one cloud financial system, streamlining accounting, financial management, inventory, HR, and more. Download NetSuite’s popular KPI Checklist, designed to give you consistently excellent...]]></itunes:subtitle>
 			<itunes:episode>137</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2096,7 +2112,7 @@
 			<enclosure length="163846204" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/134_Audio_2.mp3?dest-id=727317" />
 			<itunes:duration>01:23:15</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>health,aging,biotech,AI,overpopulation,Longevity,healthcare system,drug discovery,pharmaceutical research,AI Research,AI advancements,AI public awareness,InSilico Medicine,Alex Chavronkoff,Protein Targets,Disease Links,Automated Robotic Lab,Pandomics</itunes:keywords>
+			<itunes:keywords>Health,aging,biotech,AI,overpopulation,longevity,healthcare system,drug discovery,pharmaceutical research,AI Research,AI advancements,AI public awareness,InSilico Medicine,Alex Chavronkoff,Protein Targets,Disease Links,Automated Robotic Lab,Pandomics</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode is sponsored by Shopify. Shopify is a commerce platform that allows anyone to set up an online store and sell their products. It’s the leading commerce platform designed for a business of any size. Whether you’re selling online, on...]]></itunes:subtitle>
 			<itunes:episode>134</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2130,7 +2146,7 @@
 			<enclosure length="123324404" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/132_Audio.mp3?dest-id=727317" />
 			<itunes:duration>01:04:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>data collection,problem-solving,chief technology officer,large language models,LLMs,language encoding,RLHF,Eye on AI podcast,Craig Smith,Reinforcement Learning,episode 132,Scott Downes,Invisible Technologies,text cleanup,product classification</itunes:keywords>
+			<itunes:keywords>data collection,problem-solving,chief technology officer,large language models,LLMs,language encoding,RLHF,Eye on AI podcast,Craig Smith,reinforcement learning,episode 132,Scott Downes,Invisible Technologies,text cleanup,product classification</itunes:keywords>
 			<itunes:subtitle><![CDATA[On episode #132 of the Eye on AI podcast, Craig Smith sits down with , Chief Technology Officer at Invisible Technologies. We crack open the fascinating world of large language models (LLMs).  What are the unique ways LLMs can revolutionize text...]]></itunes:subtitle>
 			<itunes:episode>132</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2164,7 +2180,7 @@
 			<enclosure length="97916038" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/130_Audio.mp3?dest-id=727317" />
 			<itunes:duration>49:44</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>alphago,Artificial Intelligence,machine learning,software development,no-code,low-code,programming languages,generative ai,large language models,Reinforcement Learning,code generation,Java codes,Mathew Lodge,Diffblue,AlphaDev,Emergent Behavior</itunes:keywords>
+			<itunes:keywords>alphago,Artificial Intelligence,machine learning,software development,no-code,low-code,programming languages,Generative AI,large language models,reinforcement learning,code generation,Java codes,Mathew Lodge,Diffblue,AlphaDev,Emergent Behavior</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to episode #130 of Eye on AI with . In this episode, we explore the world of reinforcement learning and code generation. Mathew Lodge, the CEO of Diffblue, shares insights into how reinforcement learning fuels generative AI.  As we explore the...]]></itunes:subtitle>
 			<itunes:episode>130</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2181,7 +2197,7 @@
 			<enclosure length="114213011" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/129_Audio.mp3?dest-id=727317" />
 			<itunes:duration>58:16</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Humanity,legislation,restrictive,European Union,European Parliament,european commission,European Council,AI applications,AI Regulations,Eye on AI,Alexandra Geese,AI Act,negotiation phase,four defined categories,powerful players,AI Industry</itunes:keywords>
+			<itunes:keywords>Humanity,Legislation,restrictive,European Union,European Parliament,european commission,European Council,AI applications,AI Regulations,Eye on AI,Alexandra Geese,AI Act,negotiation phase,four defined categories,powerful players,AI Industry</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to episode #129 of Eye on AI with . Navigating the complex waters of the European Union’s AI Act is no simple task. Yet, that’s exactly what Alexandra Geese, a member of the European Parliament, and I venture to do in this...]]></itunes:subtitle>
 			<itunes:episode>129</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2198,7 +2214,7 @@
 			<enclosure length="45308696" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/128_Audionew.mp3?dest-id=727317" />
 			<itunes:duration>48:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI,deep learning,AI Ethics,Yoshua Bengio,AI Regulations,superhuman AI,Future of Life Institute,Centre for AI Safety,system-2 capabilities,AI advancement,AI Risks,societal dependency on AI,AI and climate change,AI autonomy,AI misuse,AI public awareness</itunes:keywords>
+			<itunes:keywords>AI,deep learning,AI ethics,Yoshua Bengio,AI Regulations,superhuman AI,Future of Life Institute,Centre for AI Safety,system-2 capabilities,AI advancement,AI Risks,societal dependency on AI,AI and climate change,AI autonomy,AI misuse,AI public awareness</itunes:keywords>
 			<itunes:subtitle><![CDATA[Yoshua Bengio, the legendary AI expert, will join us for Episode 128 of Eye on AI podcast. In this episode, we delve into the unnerving question: Could the rise of a superhuman AI signal the downfall of humanity as we know it?  Join us as we embark on...]]></itunes:subtitle>
 			<itunes:episode>128</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2215,7 +2231,7 @@
 			<enclosure length="93122941" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/127_Audio_1.mp3?dest-id=727317" />
 			<itunes:duration>01:02:40</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>automation,Accio,project planning,generative ai,GPT-4,Eye on AI podcast,Craig Smith,AI Revolution,Clemens Mewald,AI-driven methods,content extraction,InstaBase,AI hub,model repositories,model marketplaces,AWS Marketplace,low-code app development</itunes:keywords>
+			<itunes:keywords>automation,Accio,project planning,Generative AI,GPT-4,Eye on AI podcast,Craig Smith,AI Revolution,Clemens Mewald,AI-driven methods,content extraction,InstaBase,AI hub,model repositories,model marketplaces,AWS Marketplace,low-code app development</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to Episode 127 of the Eye on AI podcast with host Craig Smith and guest . In this episode, we dive into the world of AI and its transformative impact on industries. Join us as we explore Instabase, the cutting-edge company led by our guest, a...]]></itunes:subtitle>
 			<itunes:episode>127</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2248,7 +2264,7 @@
 			<enclosure length="112303928" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/125_Audio_1.mp3?dest-id=727317" />
 			<itunes:duration>57:09</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>energy,google,Microsoft,healthcare,productivity,AI technology,city planning,generative ai,Workflow Automation,Eye on AI podcast,Pascal Weinberger,Bardeen AI,Telefonica Moonshot Lab,end users,AI technology.,ye on AI podcast</itunes:keywords>
+			<itunes:keywords>energy,google,Microsoft,Healthcare,productivity,AI technology,city planning,Generative AI,Workflow Automation,Eye on AI podcast,Pascal Weinberger,Bardeen AI,Telefonica Moonshot Lab,end users,AI technology.,ye on AI podcast</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to episode 125 of Eye on AI, where we embark on a journey into the realm of Generative AI. In this episode, we have the pleasure of chatting with Pascal Weinberger, co-founder and CEO of Bardeen AI, who takes us through the evolution of AI and...]]></itunes:subtitle>
 			<itunes:season>125</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2265,7 +2281,7 @@
 			<enclosure length="113073778" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/124_Audio_2.mp3?dest-id=727317" />
 			<itunes:duration>57:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Privacy,Blockchain,machine learning,Aleo,future of ai,Data Security,digital identity,user data,AI applications,Eye on AI podcast,Episode 124,Craig Smith,Sian Kian,zero-knowledge proofs,privacy-preserving technology,social media authentication</itunes:keywords>
+			<itunes:keywords>privacy,blockchain,machine learning,Aleo,future of ai,Data Security,digital identity,user data,AI applications,Eye on AI podcast,Episode 124,Craig Smith,Sian Kian,zero-knowledge proofs,privacy-preserving technology,social media authentication</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to episode #124 of the Eye on AI podcast, where we bring you the latest insights into the fascinating world of artificial intelligence. In this episode, Craig Smith is joined by , General Counsel and COO at Aleo, as they dive deep into the...]]></itunes:subtitle>
 			<itunes:episode>124</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2316,7 +2332,7 @@
 			<enclosure length="108137384" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Danny_Tobey_1.mp3?dest-id=727317" />
 			<itunes:duration>55:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>technology,healthcare,ethics,transformation,regulation,legislation,Artificial Intelligence,Financial Services,legal industry,Consumer Products,adapting to change,Federal Trade Commission,ai and law,Legal Dynamics,legal implications,future of law</itunes:keywords>
+			<itunes:keywords>technology,Healthcare,ethics,Transformation,regulation,Legislation,Artificial Intelligence,Financial Services,legal industry,Consumer Products,adapting to change,Federal Trade Commission,ai and law,Legal Dynamics,legal implications,future of law</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this podcast, we sit down with , an attorney with the global law firm DLA Piper, to discuss the changing legal dynamics surrounding artificial intelligence. As one of the leading experts in the field, Danny provides valuable insights into the...]]></itunes:subtitle>
 			<itunes:season>2</itunes:season>
 			<itunes:episode>121</itunes:episode>
@@ -2333,7 +2349,7 @@
 			<enclosure length="39410168" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Yoshua.mp3?dest-id=727317" />
 			<itunes:duration>40:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>robotics,Artificial Intelligence,autonomous vehicles,deep learning,Yoshua Bengio,Eye on A.I.,Turing Award,pause letter,A.I. ethics,world models,inference machines,interdisciplinary collaboration,A.I. research</itunes:keywords>
+			<itunes:keywords>Robotics,Artificial Intelligence,autonomous vehicles,deep learning,Yoshua Bengio,Eye on A.I.,Turing Award,pause letter,A.I. ethics,world models,inference machines,interdisciplinary collaboration,A.I. research</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode of the Eye on A.I. podcast, host Craig Smith interviews Yoshua Bengio, one of the founding fathers of deep learning and a Turing Award winner. Bengio shares his insights on the famous pause letter, which he signed along with other...]]></itunes:subtitle>
 			<itunes:season>2</itunes:season>
 			<itunes:episode>120</itunes:episode>
@@ -4210,7 +4226,7 @@
 			<enclosure length="45533678" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/Pieter_Abbeel_V3_final-Norm_03-01.mp3?dest-id=727317" />
 			<itunes:duration>31:33</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Open,intelligence,learning,artificial,machine,AI</itunes:keywords>
+			<itunes:keywords>open,intelligence,learning,artificial,machine,AI</itunes:keywords>
 			<itunes:subtitle><![CDATA[Thinking robots: that’s how much of the world envisions artificial intelligence and if there is one person on the planet who understands the limitations and promise of intelligence in robots, it's Pieter Abbeel, one of the world’s foremost experts...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>13</itunes:episode>

@@ -35,6 +35,149 @@ Elad Gil is a serial entrepreneur and a startup investor. He was co-founder of 
     <itunes:category text="Science">
     </itunes:category>
     <item>
+      <title>Will we have Superintelligence by 2028? With Anthropic’s Ben Mann</title>
+      <description>What happens when you give AI researchers unlimited compute and tell them to compete for the highest usage rates? Ben Mann, Co-Founder, from Anthropic sits down with Sarah Guo and Elad Gil to explain how Claude 4 went from "reward hacking" to efficiently completing tasks and how they're racing to solve AI safety before deploying computer-controlling agents. Ben talks about economic Turing tests, the future of general versus specialized AI models, Reinforcement Learning From AI Feedback (RLAIF), and Anthropic’s Model Context Protocol (MCP). Plus, Ben shares his thoughts on if we will have Superintelligence by 2028. 
+
+Sign up for new podcasts every week. Email feedback to show@no-priors.com
+
+Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @8enmann
+
+Links: 
+
+
+  
+ai-2027.com/ 
+
+
+
+
+Chapters:
+
+00:00 Ben Mann Introduction
+
+00:33 Releasing Claude 4
+
+02:05 Claude 4 Highlights and Improvements
+
+03:42 Advanced Use Cases and Capabilities
+
+06:42 Specialization and Future of AI Models
+
+09:35 Anthropic's Approach to Model Development
+
+18:08 Human Feedback and AI Self-Improvement
+
+19:15 Principles and Correctness in Model Training
+
+20:58 Challenges in Measuring Correctness
+
+21:42 Human Feedback and Preference Models
+
+23:38 Empiricism and Real-World Applications
+
+27:02 AI Safety and Ethical Considerations
+
+28:13 AI Alignment and High-Risk Research
+
+30:01 Responsible Scaling and Safety Policies
+
+35:08 Future of AI and Emerging Behaviors
+
+38:35 Model Context Protocol (MCP) and Industry Standards
+
+41:00 Conclusion</description>
+      <pubDate>Thu, 12 Jun 2025 11:40:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>118</itunes:episode>
+      <itunes:author>Conviction </itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>What happens when you give AI researchers unlimited compute and tell them to compete for the highest usage rates? Ben Mann, Co-Founder, from Anthropic sits down with Sarah Guo and Elad Gil to explain how Claude 4 went from "reward hacking" to efficiently completing tasks and how they're racing to solve AI safety before deploying computer-controlling agents. Ben talks about economic Turing tests, the future of general versus specialized AI models, Reinforcement Learning From AI Feedback (RLAIF), and Anthropic’s Model Context Protocol (MCP). Plus, Ben shares his thoughts on if we will have Superintelligence by 2028. 
+
+Sign up for new podcasts every week. Email feedback to show@no-priors.com
+
+Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @8enmann
+
+Links: 
+
+
+  
+ai-2027.com/ 
+
+
+
+
+Chapters:
+
+00:00 Ben Mann Introduction
+
+00:33 Releasing Claude 4
+
+02:05 Claude 4 Highlights and Improvements
+
+03:42 Advanced Use Cases and Capabilities
+
+06:42 Specialization and Future of AI Models
+
+09:35 Anthropic's Approach to Model Development
+
+18:08 Human Feedback and AI Self-Improvement
+
+19:15 Principles and Correctness in Model Training
+
+20:58 Challenges in Measuring Correctness
+
+21:42 Human Feedback and Preference Models
+
+23:38 Empiricism and Real-World Applications
+
+27:02 AI Safety and Ethical Considerations
+
+28:13 AI Alignment and High-Risk Research
+
+30:01 Responsible Scaling and Safety Policies
+
+35:08 Future of AI and Emerging Behaviors
+
+38:35 Model Context Protocol (MCP) and Industry Standards
+
+41:00 Conclusion</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>What happens when you give AI researchers unlimited compute and tell them to compete for the highest usage rates? Ben Mann, Co-Founder, from Anthropic sits down with Sarah Guo and Elad Gil to explain how Claude 4 went from "reward hacking" to efficiently completing tasks and how they're racing to solve AI safety before deploying computer-controlling agents. Ben talks about economic Turing tests, the future of general versus specialized AI models, Reinforcement Learning From AI Feedback (RLAIF), and Anthropic’s Model Context Protocol (MCP). Plus, Ben shares his thoughts on if we will have Superintelligence by 2028. </p>
+<p>Sign up for new podcasts every week. Email feedback to show@no-priors.com</p>
+<p>Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @8enmann</p>
+<p>Links: </p>
+<ul>
+  <li>
+<p><a href="https://ai-2027.com/"><u>ai-2027.com/</u></a> </p>
+</li>
+</ul>
+<p>Chapters:</p>
+<p>00:00 Ben Mann Introduction</p>
+<p>00:33 Releasing Claude 4</p>
+<p>02:05 Claude 4 Highlights and Improvements</p>
+<p>03:42 Advanced Use Cases and Capabilities</p>
+<p>06:42 Specialization and Future of AI Models</p>
+<p>09:35 Anthropic's Approach to Model Development</p>
+<p>18:08 Human Feedback and AI Self-Improvement</p>
+<p>19:15 Principles and Correctness in Model Training</p>
+<p>20:58 Challenges in Measuring Correctness</p>
+<p>21:42 Human Feedback and Preference Models</p>
+<p>23:38 Empiricism and Real-World Applications</p>
+<p>27:02 AI Safety and Ethical Considerations</p>
+<p>28:13 AI Alignment and High-Risk Research</p>
+<p>30:01 Responsible Scaling and Safety Policies</p>
+<p>35:08 Future of AI and Emerging Behaviors</p>
+<p>38:35 Model Context Protocol (MCP) and Industry Standards</p>
+<p>41:00 Conclusion</p>
+<p><br></p>]]>
+      </content:encoded>
+      <itunes:duration>2485</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[11e3fb1c-4782-11f0-bc41-af3d51d75a15]]></guid>
+      <enclosure url="https://chrt.fm/track/B6D8D6/traffic.megaphone.fm/PDP7756101556.mp3?updated=1749728742" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Teaching AI to Understand the Physical World, with Dr. Fei-Fei Li of World Labs</title>
       <description>In this episode of No Priors, Sarah and Elad are joined by Dr. Fei-Fei Li, AI pioneer, co-director of Stanford’s Human-Centered AI Institute, and founder of World Labs. Fei-Fei shares why she’s building at the intersection of embodiment and intelligence, and what today’s AI systems are still missing. From the early days of ImageNet to her vision for the next generation of robotics, she unpacks the human and technical motivations behind World Labs. They also discuss the challenges of 3D world modeling, her approach to building exceptional teams, and the special qualities that have led her students like Andrej Karpathy to make major breakthroughs.
 

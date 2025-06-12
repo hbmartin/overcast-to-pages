@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://thoughtworks.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Thoughtworks Technology Podcast</title>
-		<pubDate>Thu, 29 May 2025 06:00:00 +0000</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 12:28:10 +0000</lastBuildDate>
+		<pubDate>Thu, 12 Jun 2025 06:00:00 +0000</pubDate>
+		<lastBuildDate>Thu, 12 Jun 2025 06:12:15 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://www.thoughtworks.com/podcasts</link>
 		<language>en</language>
@@ -18,7 +18,7 @@
 			<link><![CDATA[https://www.thoughtworks.com/podcasts]]></link>
 		</image>
 		<itunes:author>Thoughtworks</itunes:author>
-		<itunes:keywords>Technology</itunes:keywords>
+		<itunes:keywords>technology</itunes:keywords>
 		<itunes:category text="Technology">
 		</itunes:category>
 		<itunes:category text="Business">
@@ -40,6 +40,21 @@
 
 		<podcast:locked owner="kbarry@thoughtworks.com">no</podcast:locked>
 		
+		<item>
+			<title>MCP and SRE: Why the future of IT operations is agent-driven</title>
+			<itunes:title>MCP and SRE: Why the future of IT operations is agent-driven</itunes:title>
+			<pubDate>Thu, 12 Jun 2025 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[89ac1b1a-affb-4d10-adbf-f61d37cd96cb]]></guid>
+			<link><![CDATA[http://sites.libsyn.com/130291/mcp-and-sre-why-the-future-of-it-operations-is-agent-driven]]></link>
+			<description><![CDATA[<p data-start="114" data-end="218">What if your AI agents could think more like IT operations staff — and less like tools?</p> <p data-start="220" data-end="586">In this episode, we catch up with Zichuan Xiong, to explore the Model Context Protocol (MCP) — a powerful new way to give AI agents deeper awareness of the tools, information and history they need to work effectively in the operations space. Unlike traditional APIs that just trigger functions, MCP adds a semantic layer of context that helps AI understand what to do, why it matters and how to do it better.</p> <p data-start="986" data-end="1207">Whether you’re deep in site reliability engineering (SRE) or just curious about the next leap in AIOps, this episode unpacks how MCP could be the missing layer between today’s tools and tomorrow’s autonomous systems.<br /> <br /> If you want to find out more, check out this piece by Zichuan at al, https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/mcp-critical-ai-driven-sre</p>]]></description>
+			<content:encoded><![CDATA[<p data-start="114" data-end="218">What if your AI agents could think more like IT operations staff — and less like tools?</p> <p data-start="220" data-end="586">In this episode, we catch up with Zichuan Xiong, to explore the Model Context Protocol (MCP) — a powerful new way to give AI agents deeper awareness of the tools, information and history they need to work effectively in the operations space. Unlike traditional APIs that just trigger functions, MCP adds a semantic layer of context that helps AI understand what to do, why it matters and how to do it better.</p> <p data-start="986" data-end="1207">Whether you’re deep in site reliability engineering (SRE) or just curious about the next leap in AIOps, this episode unpacks how MCP could be the missing layer between today’s tools and tomorrow’s autonomous systems.  If you want to find out more, check out this piece by Zichuan at al, https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/mcp-critical-ai-driven-sre</p>]]></content:encoded>
+			<enclosure length="41099313" type="audio/mpeg" url="https://traffic.libsyn.com/secure/thoughtworks/176_MCP_v1_mixdown.mp3?dest-id=790869" />
+			<itunes:duration>28:33</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[What if your AI agents could think more like IT operations staff — and less like tools? In this episode, we catch up with Zichuan Xiong, to explore the Model Context Protocol (MCP) — a powerful new way to give AI agents deeper awareness of the...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title>Unpacking Google I/O 2025</title>
 			<itunes:title>Unpacking Google I/O 2025</itunes:title>
@@ -1518,20 +1533,6 @@
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:keywords />
 			<itunes:subtitle><![CDATA[Lean Enterprise was a landmark book, exploring how large enterprise could learn from start-ups and deliver innovation at scale — how they could respond to changing market conditions, customer needs, and emerging technologies when building...]]></itunes:subtitle>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title>Jim Highsmith: a 54-year agile journey</title>
-			<pubDate>Thu, 26 Aug 2021 04:30:00 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[f4f3c91e-2dbe-424d-a67b-3067ee6f4cd5]]></guid>
-			<link><![CDATA[http://sites.libsyn.com/130291/jim-highsmith-a-54-year-agile-journey]]></link>
-			<description><![CDATA[<p><span style="font-weight: 400;">Thoughtworks Technology Podcast catches up with retired Thoughtworker and co-signatory of the Agile Manifesto, Jim Highsmith. He talks us through his experiences, from working on the Apollo missions to dropped card desks, the birth of the agile movement and its future in a post-pandemic world.</span></p>]]></description>
-			<content:encoded><![CDATA[<p>Thoughtworks Technology Podcast catches up with retired Thoughtworker and co-signatory of the Agile Manifesto, Jim Highsmith. He talks us through his experiences, from working on the Apollo missions to dropped card desks, the birth of the agile movement and its future in a post-pandemic world.</p>]]></content:encoded>
-			<enclosure length="51634344" type="audio/mpeg" url="https://traffic.libsyn.com/secure/thoughtworks/67._Jim_Highsmith_journey__mixdown.mp3?dest-id=790869" />
-			<itunes:duration>35:52</itunes:duration>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords />
-			<itunes:subtitle><![CDATA[Thoughtworks Technology Podcast catches up with retired Thoughtworker and co-signatory of the Agile Manifesto, Jim Highsmith. He talks us through his experiences, from working on the Apollo missions to dropped card desks, the birth of the agile...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 

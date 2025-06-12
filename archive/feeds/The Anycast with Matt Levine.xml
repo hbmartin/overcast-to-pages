@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://feeds.libsyn.com/465531/rss" rel="self" type="application/rss+xml"/>
 		<title>The Anycast with Matt Levine</title>
-		<pubDate>Thu, 05 Jun 2025 08:00:00 +0000</pubDate>
-		<lastBuildDate>Thu, 05 Jun 2025 16:35:14 +0000</lastBuildDate>
+		<pubDate>Thu, 12 Jun 2025 08:00:00 +0000</pubDate>
+		<lastBuildDate>Thu, 12 Jun 2025 08:10:22 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://www.theanycast.com/</link>
 		<language>en</language>
@@ -72,6 +72,25 @@ Learn why many of the world’s most trusted brands trust CacheFly to deliver th
 
 		<podcast:locked owner="podcastpartnership+anycast@gmail.com">no</podcast:locked>
 		
+		<item>
+			<title>ICYMI - Fiercely Independent: Podcasting with Purpose with Dave Hamilton</title>
+			<itunes:title>ICYMI - Fiercely Independent: Podcasting with Purpose with Dave Hamilton</itunes:title>
+			<pubDate>Thu, 12 Jun 2025 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b53d3a85-7bdc-44b4-bd03-c1389e49eaa4]]></guid>
+			<link><![CDATA[http://www.theanycast.com/s2e12]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/6/0/5/d605c8b30be0c5d616c3140a3186d450/ANY020012ICYMI_square_ep_art.jpg" />
+			<description><![CDATA[<p>In Case You Missed It…</p> <p>Meet Dave Hamilton, an iconic figure in the podcasting world, known for his blend of geeky charm and musical prowess. In this episode, we chat with Dave about his remarkable journey from the dawn of the digital age with the Mac Observer in 1998 to his current role as a leader in the podcast space with shows like Mac Geek Gab, Business Brain, and Gig Gab. Dave shares his thoughts on the evolution of podcasting, highlighting the significance of audio quality and the power of fostering a tight-knit community through platforms like Discord. Whether he's discussing the art of maintaining listener loyalty or the intricacies of managing sponsorships through Backbeat Media, Dave brings a wealth of knowledge and experience to the table.</p> <p>We also delve into the world of listener support systems, with Dave candidly reflecting on his own creations and the potential benefits of using services like Patreon today. With a touch of humor, he recounts how his innovative, yet sometimes insular, approach led to unique challenges and victories. We explore the current state of podcasting's lifecycle, and what it takes to keep a show not just alive, but thriving. If you're a podcaster aiming to build a lasting connection with your audience, or simply a listener curious about what goes on behind the scenes, this conversation with Dave Hamilton is packed with insights and inspiration.</p> <p> </p> <p> </p> <p><a href="https://www.linkedin.com/in/davehamilton/" target= "_blank" rel="noopener">Dave Hamilton on LinkedIn</a></p> <p>The inaugural episode of <a href= "https://www.macgeekgab.com/episode/1/" target="_blank" rel= "noopener">The Mac Geek Gab Podcast</a></p> <p><a href="https://www.theanycast.com/s2e12" target="_blank" rel= "noopener">theanycast.com/s2e12</a></p>]]></description>
+			<content:encoded><![CDATA[<p>In Case You Missed It…</p> <p>Meet Dave Hamilton, an iconic figure in the podcasting world, known for his blend of geeky charm and musical prowess. In this episode, we chat with Dave about his remarkable journey from the dawn of the digital age with the Mac Observer in 1998 to his current role as a leader in the podcast space with shows like Mac Geek Gab, Business Brain, and Gig Gab. Dave shares his thoughts on the evolution of podcasting, highlighting the significance of audio quality and the power of fostering a tight-knit community through platforms like Discord. Whether he's discussing the art of maintaining listener loyalty or the intricacies of managing sponsorships through Backbeat Media, Dave brings a wealth of knowledge and experience to the table.</p> <p>We also delve into the world of listener support systems, with Dave candidly reflecting on his own creations and the potential benefits of using services like Patreon today. With a touch of humor, he recounts how his innovative, yet sometimes insular, approach led to unique challenges and victories. We explore the current state of podcasting's lifecycle, and what it takes to keep a show not just alive, but thriving. If you're a podcaster aiming to build a lasting connection with your audience, or simply a listener curious about what goes on behind the scenes, this conversation with Dave Hamilton is packed with insights and inspiration.</p> <p> </p> <p> </p> <p><a href="https://www.linkedin.com/in/davehamilton/" target= "_blank" rel="noopener">Dave Hamilton on LinkedIn</a></p> <p>The inaugural episode of <a href= "https://www.macgeekgab.com/episode/1/" target="_blank" rel= "noopener">The Mac Geek Gab Podcast</a></p> <p><a href="https://www.theanycast.com/s2e12" target="_blank" rel= "noopener">theanycast.com/s2e12</a></p>]]></content:encoded>
+			<enclosure length="14527669" type="audio/mpeg" url="https://media.podcastpartnership.net/secure/d33ab0e3-b919-4100-b864-a2e6406d8cce/ANY0201220ICYMI.mp3?dest-id=3933408" />
+			<itunes:duration>09:59</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In Case You Missed It… Meet Dave Hamilton, an iconic figure in the podcasting world, known for his blend of geeky charm and musical prowess. In this episode, we chat with Dave about his remarkable journey from the dawn of the digital age with the...]]></itunes:subtitle>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>bonus</itunes:episodeType>
+			<itunes:author>Matt Levine, Dave Hamilton</itunes:author>
+		</item>
 		<item>
 			<title>Fiercely Independent: Podcasting with Purpose with Dave Hamilton</title>
 			<itunes:title>Fiercely Independent: Podcasting with Purpose with Dave Hamilton</itunes:title>

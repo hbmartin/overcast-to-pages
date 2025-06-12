@@ -8,7 +8,7 @@
     <title>alphalist.CTO Podcast - For CTOs and Technical Leaders</title>
     <language>en</language>
     <pubDate>Thu, 07 May 2020 17:13:08 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 21:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 11:54:07 +0000</lastBuildDate>
     <description>This podcast features interviews of CTOs and other technical leadership figures and topics range from technology (AI, blockchain, cyber, DevOps, Web Architecture, etc.) to management (e.g. scaling, structuring teams, mentoring, technical recruiting, product  etc.).   
 Guests from leading tech companies share their best practices and knowledge.
 The goal is to support other CTOs on their journey through tech and engineering, inspire and allow a sneak-peek into other successful companies to understand how they think and act. Get awesome insights into the world‘s top tech companies, personalities with this podcast brought to you by Tobias Schlottke.</description>
@@ -41,6 +41,98 @@ The goal is to support other CTOs on their journey through tech and engineering,
       <itunes:email>tobias@alphalist.com</itunes:email>
     </itunes:owner>
     <podcast:guid>7df5b585-5de9-5dd5-884b-6b139a490217</podcast:guid>
+    <item>
+      <title>#123 - From Nokia to AI-IoT: Engineering the Physical World with Bernd Groß // CEO @ Cumulocity</title>
+      <itunes:title>#123 - From Nokia to AI-IoT: Engineering the Physical World with Bernd Groß // CEO @ Cumulocity</itunes:title>
+      <description>The physical world is becoming digital—and it requires fundamentally different technical architecture than traditional IT systems. Bernd Groß leads technical leaders through the evolution from enterprise software to industrial IoT, where real-time data from 30,000 wind turbines and millisecond-level decision-making define system requirements.
+
+
+
+As co-founder and CEO of Cumulocity, Bernd has navigated one of tech's most complex domains: connecting industrial hardware through standardized platforms. His journey from Nokia's early cloud computing initiatives to building Germany's leading IoT platform offers unique insights on technical leadership in physical-digital convergence.
+
+
+
+Technical leaders will gain valuable perspectives on:
+
+• 🏗️ Architecting speed-layer systems that handle 50TB monthly data flows while maintaining real-time responsiveness
+
+• 🔄 Managing technical debt across hundreds of industrial protocols while modernizing from monoliths to microservices
+
+• 🤖 Implementing "AI-IoT" strategies that bridge machine learning models with operational technology deployments
+
+• ⚡ Building edge-cloud hybrid architectures for regulated environments and latency-critical applications
+
+• 🛠️ Engineering platforms that scale from device management to data operationalization across industrial verticals</description>
+      <pubDate>Thu, 12 Jun 2025 11:11:33 +0000</pubDate>
+      <link>https://alphalist.com/podcast/123-from-nokia-to-ai-iot-engineering-the-physical-world-with-bernd-gross-ceo-cumulocity</link>
+      <guid isPermaLink="false">8199b57a5421138b086946bc54fd7132</guid>
+      <content:encoded>
+        <![CDATA[Bridging operational technology and cloud architecture for industrial-scale systems
+<p>The convergence of AI and IoT is reshaping how technical leaders approach industrial systems architecture. Bernd Groß, CEO and co-founder of Cumulocity, shares insights from building Germany's leading IoT platform—from its origins as a Nokia spin-off to becoming a critical infrastructure for companies managing tens of thousands of connected industrial assets.</p>
+<p>This conversation explores the unique engineering challenges of industrial IoT, where systems must process 50 terabytes of monthly data from wind turbines while maintaining real-time control capabilities. Bernd discusses the evolution from monolithic architectures to microservices, the complexity of supporting hundreds of industrial protocols, and the emerging "AI-IoT" paradigm.</p>
+<p>Key technical insights:
+• 🏗️ Speed-layer architecture design for real-time data processing with cloud data lake offloading
+• 📡 Managing protocol complexity through certified partner ecosystems (320+ PLC protocols)
+• 🔄 Microservices transformation strategies for industrial platforms on Kubernetes
+• 🤖 AI model deployment and operationalization across distributed industrial assets
+• ⚡ Edge-cloud hybrid architectures for latency-critical and regulated environments
+• 🛠️ Technical debt management during platform evolution and acquisition cycles</p>
+<p>Thx 2 our partner SoSafe for sponsoring this Episode. </p>
+<p>Or start a free safety simulation with <a href="https://sosafe.de/cto">SoSafe</a> </p>
+<p>TIMESTAMPS:
+[00:01:04] Introduction to Bernd Groß and Cumulocity's Industrial IoT Platform
+[00:03:45] Early Programming: From ZX Spectrum to PC Building
+[00:07:07] The Nokia Rejection: Language Barriers in Early Career
+[00:11:51] Nokia's Innovation Incubator and Cloud Computing (2010)
+[00:17:24] Meeting Werner Vogels: Early AWS and Cloud Architecture
+[00:20:07] Spinning Off Cumulocity from Nokia Networks
+[00:21:21] IoT Device Management: Original Platform Vision
+[00:23:56] Real-Time Architecture vs. Legacy VPN Systems
+[00:26:33] From APIs to Applications: Learning Customer Needs
+[00:31:19] Software AG Acquisition: Strategic Partnership
+[00:34:03] Management Buyback from Silver Lake Partners
+[00:37:53] AI's Impact on IoT: The Emergence of "AI-IoT"
+[00:42:03] Speed-Layer Architecture and Data Lake Integration
+[00:46:46] Edge vs. Cloud: Hybrid Deployment Strategies
+[00:48:53] Technical Debt: Protocol Complexity and Modernization
+[00:52:37] Partner Ecosystem: Managing 320+ Industrial Protocols
+[00:56:59] Leadership Lessons: Trust and Authentic Communication</p>
+<p>QUOTES:
+• "When you compare that to the generation, the technology which was available before, there was really a VPN system where you needed to dial into the wind turbine… And today it's very, very different with real-time analytics happening in the background." - Bernd Groß [00:23:56]
+• "Our platform does data acquisition, data normalization, contextualization of the data. So you need to help structure the data because that is the foundation for your training for your AI model training." - Bernd Groß [00:42:03]</p>]]>
+      </content:encoded>
+      <itunes:image href="https://images.podigee-cdn.net/0x,sXzYnwrBotvIjmwWEj661spS1ZcjzWa9m2vJN50a_mPs=/https://main.podigee-cdn.net/uploads/u71763/31814de1-4085-4979-9a6a-8670b9200941.png"/>
+      <itunes:episode>123</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Bridging operational technology and cloud architecture for industrial-scale systems</itunes:subtitle>
+      <itunes:summary>The physical world is becoming digital—and it requires fundamentally different technical architecture than traditional IT systems. Bernd Groß leads technical leaders through the evolution from enterprise software to industrial IoT, where real-time data from 30,000 wind turbines and millisecond-level decision-making define system requirements.
+
+
+
+As co-founder and CEO of Cumulocity, Bernd has navigated one of tech's most complex domains: connecting industrial hardware through standardized platforms. His journey from Nokia's early cloud computing initiatives to building Germany's leading IoT platform offers unique insights on technical leadership in physical-digital convergence.
+
+
+
+Technical leaders will gain valuable perspectives on:
+
+• 🏗️ Architecting speed-layer systems that handle 50TB monthly data flows while maintaining real-time responsiveness
+
+• 🔄 Managing technical debt across hundreds of industrial protocols while modernizing from monoliths to microservices
+
+• 🤖 Implementing "AI-IoT" strategies that bridge machine learning models with operational technology deployments
+
+• ⚡ Building edge-cloud hybrid architectures for regulated environments and latency-critical applications
+
+• 🛠️ Engineering platforms that scale from device management to data operationalization across industrial verticals</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Industrial IoT,Edge Computing,Real-time Systems,Microservices Architecture,AI-IoT,Protocol Management,Technical Leadership,Cloud Architecture,Data Engineering,Technical Debt</itunes:keywords>
+      <itunes:author>Tobias Schlottke - alphalist CTO Podcast</itunes:author>
+      <enclosure url="https://audio.podigee-cdn.net/1960000-m-d7ccdaccac8e5d479d2a51ad8cb44c73.mp3?source=feed" type="audio/mpeg" length="53332971"/>
+      <itunes:duration>3787</itunes:duration>
+      <podcast:episode>123</podcast:episode>
+      <podcast:transcript url="https://main.podigee-cdn.net/uploads/u5851/334dd4a8-d811-418a-8898-b4d31a3128b5.json" type="application/json"/>
+      <podcast:transcript url="https://main.podigee-cdn.net/uploads/u5851/1ea8c889-3d06-4510-b812-4772dbee7893.vtt" type="text/vtt"/>
+    </item>
     <item>
       <title>#122 - Grid Control in Milliseconds: Engineering Energy Systems with Barbara Wittenberg // CTO @ 1KOMMA5°</title>
       <itunes:title>#122 - Grid Control in Milliseconds: Engineering Energy Systems with Barbara Wittenberg // CTO @ 1KOMMA5°</itunes:title>

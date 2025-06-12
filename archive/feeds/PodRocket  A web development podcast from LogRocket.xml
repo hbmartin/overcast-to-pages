@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 11 Jun 2025 14:56:26 -0500</fireside:genDate>
+    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
+    <fireside:genDate>Thu, 12 Jun 2025 07:46:41 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>PodRocket - A web development podcast from LogRocket</title>
     <link>http://podrocket.logrocket.com</link>
-    <pubDate>Wed, 11 Jun 2025 15:55:32 -0400</pubDate>
+    <pubDate>Thu, 12 Jun 2025 08:45:04 -0400</pubDate>
     <description>PodRocket covers everything you need to know about frontend web development on a weekly basis. Join LogRocket cofounder Ben Edelstein, the LogRocket engineering team, and more, as they interview experienced developers about all the libraries, frameworks, and tech industry issues they deal with every day.
 </description>
     <language>en-us</language>
@@ -215,6 +215,101 @@ LogRocket combines frontend monitoring, product analytics, and session replay to
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/XHXVzqW5+JkbY-6ca" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>10 years of SolidJS with Ryan Carniato</title>
+      <link>http://podrocket.logrocket.com/10-years-solid-js-ryan-carniato</link>
+      <guid isPermaLink="false">b4f944a7-7bf2-42a2-ae23-c031ccc68deb</guid>
+      <pubDate>Thu, 12 Jun 2025 08:00:00 -0400</pubDate>
+      <author>LogRocket </author>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b4f944a7-7bf2-42a2-ae23-c031ccc68deb.mp3" length="104043008" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:author>LogRocket </itunes:author>
+      <itunes:subtitle>Ryan Carniato, creator of SolidJS, joins the podcast to reflect on a decade of developing the framework. We dive into the evolution of frontend tooling, the rise of fine-grained reactivity, and why SolidJS continues to challenge virtual DOM conventions. Ryan also shares insights on open source maintenance, web standards, and the future of UI architecture.</itunes:subtitle>
+      <itunes:duration>43:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/3/3911462c-bca2-48c2-9103-610ba304c673/episodes/b/b4f944a7-7bf2-42a2-ae23-c031ccc68deb/cover.jpg?v=1"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/3/3911462c-bca2-48c2-9103-610ba304c673/episodes/b/b4f944a7-7bf2-42a2-ae23-c031ccc68deb/transcript.txt" type="text/plain"/>
+      <description>Ryan Carniato, creator of SolidJS, joins the podcast to reflect on a decade of developing the framework. We dive into the evolution of frontend tooling, the rise of fine-grained reactivity, and why SolidJS continues to challenge virtual DOM conventions. Ryan also shares insights on open source maintenance, web standards, and the future of UI architecture.
+Links
+YouTube: https://www.youtube.com/@ryansolid
+X: https://x.com/ryancarniato 
+Dev.to: https://dev.to/ryansolid
+SolidJS Website: https://www.solidjs.com
+Resources
+A Decade of SolidJS: https://dev.to/this-is-learning/a-decade-of-solidjs-32f4
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Ryan Carniato.
+</description>
+      <itunes:keywords>SolidJS, Ryan Carniato, fine-grained reactivity, frontend performance, virtual DOM, JavaScript frameworks, React, Vue, Svelte, Knockout, MobX, Redux, web development, open source, web tooling, UI frameworks, component composition, signals, developer experience, state management, rendering optimization, benchmarks, LogRocket, podcast, Three.js, declarative frameworks</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Ryan Carniato, creator of SolidJS, joins the podcast to reflect on a decade of developing the framework. We dive into the evolution of frontend tooling, the rise of fine-grained reactivity, and why SolidJS continues to challenge virtual DOM conventions. Ryan also shares insights on open source maintenance, web standards, and the future of UI architecture.</p>
+
+<h3>Links</h3>
+
+<p>YouTube: <a href="https://www.youtube.com/@ryansolid" rel="nofollow">https://www.youtube.com/@ryansolid</a><br>
+X: <a href="https://x.com/ryancarniato" rel="nofollow">https://x.com/ryancarniato</a> <br>
+Dev.to: <a href="https://dev.to/ryansolid" rel="nofollow">https://dev.to/ryansolid</a><br>
+SolidJS Website: <a href="https://www.solidjs.com" rel="nofollow">https://www.solidjs.com</a></p>
+
+<h3>Resources</h3>
+
+<p>A Decade of SolidJS: <a href="https://dev.to/this-is-learning/a-decade-of-solidjs-32f4" rel="nofollow">https://dev.to/this-is-learning/a-decade-of-solidjs-32f4</a></p>
+
+<h3>We want to hear from you!</h3>
+
+<p>How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?</p>
+
+<p>Let us know by sending an email to our producer, Em, at <a href="mailto:emily.kochanek@logrocket.com" rel="nofollow">emily.kochanek@logrocket.com</a>, or tweet at us at <a href="https://twitter.com/PodRocketpod" rel="nofollow">PodRocketPod</a>.</p>
+
+<h3>Follow us. Get free stickers.</h3>
+
+<p>Follow us on Apple Podcasts, fill out this <a href="https://podrocket.logrocket.com/get-podrocket-stickers" rel="nofollow">form</a>, and we’ll send you free PodRocket stickers!</p>
+
+<h3>What does LogRocket do?</h3>
+
+<p>LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. <a href="https://logrocket.com/signup/?pdr" rel="nofollow">Try LogRocket for free today.</a></p><p>Special Guest: Ryan Carniato.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Ryan Carniato, creator of SolidJS, joins the podcast to reflect on a decade of developing the framework. We dive into the evolution of frontend tooling, the rise of fine-grained reactivity, and why SolidJS continues to challenge virtual DOM conventions. Ryan also shares insights on open source maintenance, web standards, and the future of UI architecture.</p>
+
+<h3>Links</h3>
+
+<p>YouTube: <a href="https://www.youtube.com/@ryansolid" rel="nofollow">https://www.youtube.com/@ryansolid</a><br>
+X: <a href="https://x.com/ryancarniato" rel="nofollow">https://x.com/ryancarniato</a> <br>
+Dev.to: <a href="https://dev.to/ryansolid" rel="nofollow">https://dev.to/ryansolid</a><br>
+SolidJS Website: <a href="https://www.solidjs.com" rel="nofollow">https://www.solidjs.com</a></p>
+
+<h3>Resources</h3>
+
+<p>A Decade of SolidJS: <a href="https://dev.to/this-is-learning/a-decade-of-solidjs-32f4" rel="nofollow">https://dev.to/this-is-learning/a-decade-of-solidjs-32f4</a></p>
+
+<h3>We want to hear from you!</h3>
+
+<p>How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?</p>
+
+<p>Let us know by sending an email to our producer, Em, at <a href="mailto:emily.kochanek@logrocket.com" rel="nofollow">emily.kochanek@logrocket.com</a>, or tweet at us at <a href="https://twitter.com/PodRocketpod" rel="nofollow">PodRocketPod</a>.</p>
+
+<h3>Follow us. Get free stickers.</h3>
+
+<p>Follow us on Apple Podcasts, fill out this <a href="https://podrocket.logrocket.com/get-podrocket-stickers" rel="nofollow">form</a>, and we’ll send you free PodRocket stickers!</p>
+
+<h3>What does LogRocket do?</h3>
+
+<p>LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. <a href="https://logrocket.com/signup/?pdr" rel="nofollow">Try LogRocket for free today.</a></p><p>Special Guest: Ryan Carniato.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/XHXVzqW5+Vh5Ytwq3</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/XHXVzqW5+Vh5Ytwq3" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:person email="" href="" role="host">Noel Minchow</podcast:person>
+      <podcast:person email="" href="" role="guest">Ryan Carniato</podcast:person>
     </item>
     <item>
       <title>Server functions don't exist with Jack Herrington</title>
