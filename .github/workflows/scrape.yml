@@ -1,4 +1,4 @@
-name: Download latest data
+name: scrape
 
 on:
   workflow_dispatch:

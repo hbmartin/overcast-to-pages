@@ -30,6 +30,3 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
-
-# End of https://www.toptal.com/developers/gitignore/api/macos
-After that file was created and updated, git was no longer tracking that pesky .DS_Store file. And hopefully, this will protect future me from having to deal with these issues :)
