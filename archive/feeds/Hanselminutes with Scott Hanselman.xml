@@ -8,8 +8,8 @@
     <description>Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.</description>
     <copyright>Scott Hanselman</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 5 Jun 2025 21:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 15:27:13 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 21:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 22:53:25 +0000</lastBuildDate>
     <image>
       <link>https://www.hanselminutes.com</link>
       <title>Hanselminutes with Scott Hanselman</title>
@@ -33,14 +33,35 @@
       <itunes:category text="How To"/>
     </itunes:category>
     <item>
+      <guid isPermaLink="false">7712e025-1c36-4ddd-a3a9-eafe7e07f13a</guid>
+      <title>Startup Mindsets with Earl Valencia</title>
+      <description><![CDATA[<p>What does it <i>really</i> take to succeed in today’s fast-paced, innovation-driven world? In this episode of Hanselminutes, Scott Hanselman chats with Earl Valencia—acclaimed tech leader, venture-backed founder, and author of Startup Mindsets: A Blueprint to Thrive in an Innovation-Driven and Globally Connected World. Earl brings real-world insights from Silicon Valley, Southeast Asia, and startup scenes around the globe. He talks about the habits, mindsets, and leadership styles that help founders stand out—not just another success story, but a practical guide for anyone trying to build something meaningful. Whether you’re launching a startup, working in tech, or just curious about how big ideas come to life, this conversation will leave you inspired to think bigger and bolder.</p><ul><li><a href="https://www.startupmindsets.com/book">https://www.startupmindsets.com/book</a></li></ul>
+]]></description>
+      <pubDate>Thu, 12 Jun 2025 21:00:00 +0000</pubDate>
+      <author>scott@hanselman.com (Scott Hanselman)</author>
+      <link>https://www.hanselminutes.com</link>
+      <content:encoded><![CDATA[<p>What does it <i>really</i> take to succeed in today’s fast-paced, innovation-driven world? In this episode of Hanselminutes, Scott Hanselman chats with Earl Valencia—acclaimed tech leader, venture-backed founder, and author of Startup Mindsets: A Blueprint to Thrive in an Innovation-Driven and Globally Connected World. Earl brings real-world insights from Silicon Valley, Southeast Asia, and startup scenes around the globe. He talks about the habits, mindsets, and leadership styles that help founders stand out—not just another success story, but a practical guide for anyone trying to build something meaningful. Whether you’re launching a startup, working in tech, or just curious about how big ideas come to life, this conversation will leave you inspired to think bigger and bolder.</p><ul><li><a href="https://www.startupmindsets.com/book">https://www.startupmindsets.com/book</a></li></ul>
+]]></content:encoded>
+      <enclosure length="31313889" type="audio/mpeg" url="https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/25974112-38ad-435e-aacf-c6b5a146eedb/audio/9b394d8d-196a-43ca-a536-ca57eb284a53/default_tc.mp3?aid=rss_feed&amp;feed=gvtxUiIf"/>
+      <itunes:title>Startup Mindsets with Earl Valencia</itunes:title>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/7a4b62cb-4938-4b80-93de-bb7029258fe0/3000x3000/1001.jpg?aid=rss_feed"/>
+      <itunes:duration>00:32:31</itunes:duration>
+      <itunes:summary>In this episode, Scott sits down with Earl Valencia — acclaimed tech leader, venture-backed founder, and author of Startup Mindsets: A Blueprint to Thrive in an Innovation-Driven and Globally Connected World. Earl brings deep insight from Silicon Valley, Southeast Asia, and beyond, revealing the habits, frameworks, and philosophies that power successful startups. Whether you&apos;re a founder, an entrepreneur, or just startup-curious, this conversation demystifies the ecosystem and offers practical, global perspectives on what it really takes to build and thrive in today’s innovation economy.</itunes:summary>
+      <itunes:subtitle>In this episode, Scott sits down with Earl Valencia — acclaimed tech leader, venture-backed founder, and author of Startup Mindsets: A Blueprint to Thrive in an Innovation-Driven and Globally Connected World. Earl brings deep insight from Silicon Valley, Southeast Asia, and beyond, revealing the habits, frameworks, and philosophies that power successful startups. Whether you&apos;re a founder, an entrepreneur, or just startup-curious, this conversation demystifies the ecosystem and offers practical, global perspectives on what it really takes to build and thrive in today’s innovation economy.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1001</itunes:episode>
+    </item>
+    <item>
       <guid isPermaLink="false">150acb37-7708-4f03-ab31-19b2827378f0</guid>
       <title>AI and visualizing multidimensional vectors with Pamela Fox</title>
-      <description><![CDATA[<p>In this episode AI and machine learning expert Pamela Fox educates Scott on how to visualize multidimensional vectors, and they talk about the complexities of explaining AI to regular people. </p>
+      <description><![CDATA[<p>Ever wonder how AI “sees” high-dimensional data? In this special 1,000th episode of Hanselminutes, Scott Hanselman chats with AI expert Pamela Fox about the fascinating world of visualizing complex data. Pamela breaks down how those abstract numbers and vectors can be turned into visuals we can actually understand—basically helping us <i>see</i> how AI thinks. They also talk about the challenge of explaining advanced AI stuff in plain English, and why it matters for devs, data folks, or really anyone curious about what’s going on behind the scenes. If you've ever wanted a peek into the brain of an AI, this is a fun and eye-opening place to start.</p>
 ]]></description>
       <pubDate>Thu, 5 Jun 2025 21:00:00 +0000</pubDate>
       <author>scott@hanselman.com (Scott Hanselman)</author>
       <link>https://www.hanselminutes.com</link>
-      <content:encoded><![CDATA[<p>In this episode AI and machine learning expert Pamela Fox educates Scott on how to visualize multidimensional vectors, and they talk about the complexities of explaining AI to regular people. </p>
+      <content:encoded><![CDATA[<p>Ever wonder how AI “sees” high-dimensional data? In this special 1,000th episode of Hanselminutes, Scott Hanselman chats with AI expert Pamela Fox about the fascinating world of visualizing complex data. Pamela breaks down how those abstract numbers and vectors can be turned into visuals we can actually understand—basically helping us <i>see</i> how AI thinks. They also talk about the challenge of explaining advanced AI stuff in plain English, and why it matters for devs, data folks, or really anyone curious about what’s going on behind the scenes. If you've ever wanted a peek into the brain of an AI, this is a fun and eye-opening place to start.</p>
 ]]></content:encoded>
       <enclosure length="39766295" type="audio/mpeg" url="https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/84704aca-a711-49d9-83f8-96bcedcf3a8f/audio/1931e62e-1de0-4b31-8f33-cf82df212479/default_tc.mp3?aid=rss_feed&amp;feed=gvtxUiIf"/>
       <itunes:title>AI and visualizing multidimensional vectors with Pamela Fox</itunes:title>
@@ -56,20 +77,20 @@
     <item>
       <guid isPermaLink="false">26a8f700-421c-40a2-b59a-4094ca3d6af4</guid>
       <title>AI Code Reviews with CodeRabbit&apos;s Howon Lee</title>
-      <description><![CDATA[<p>In this episode of the Hanselminutes podcast, Scott talks to Code Rabbit's Howon Lee about how AI can democratize the code review. Believes that code reviews are inherently political, and that AIs can level the playing field so that everyone benefits. Are AI code reviews the Future of Coding? How will Code Rabbit compete with their unique algorithm when there are other options from Open AI and others?\</p><ul><li><a href="http://coderabbit.ai">http://coderabbit.ai</a></li></ul>
+      <description><![CDATA[<p>What if AI could not only speed up your code reviews—but actually make them fairer? In this episode of Hanselminutes, Scott Hanselman chats with Howon Lee, Senior Software Engineer at CodeRabbit, about how AI is changing the game when it comes to code reviews. They dig into the unspoken dynamics that can pop up in traditional reviews—like how seniority or team politics sometimes matter more than the code itself. Howon shares why AI can be a helpful, unbiased voice that gives everyone clear, consistent feedback, no matter their experience level. They also talk about how tools like CodeRabbit are working to make software development more inclusive and collaborative.</p><ul><li><a href="http://coderabbit.ai">http://coderabbit.ai</a></li></ul>
 ]]></description>
       <pubDate>Thu, 29 May 2025 21:00:00 +0000</pubDate>
       <author>scott@hanselman.com (Scott Hanselman)</author>
       <link>https://www.hanselminutes.com</link>
-      <content:encoded><![CDATA[<p>In this episode of the Hanselminutes podcast, Scott talks to Code Rabbit's Howon Lee about how AI can democratize the code review. Believes that code reviews are inherently political, and that AIs can level the playing field so that everyone benefits. Are AI code reviews the Future of Coding? How will Code Rabbit compete with their unique algorithm when there are other options from Open AI and others?\</p><ul><li><a href="http://coderabbit.ai">http://coderabbit.ai</a></li></ul>
+      <content:encoded><![CDATA[<p>What if AI could not only speed up your code reviews—but actually make them fairer? In this episode of Hanselminutes, Scott Hanselman chats with Howon Lee, Senior Software Engineer at CodeRabbit, about how AI is changing the game when it comes to code reviews. They dig into the unspoken dynamics that can pop up in traditional reviews—like how seniority or team politics sometimes matter more than the code itself. Howon shares why AI can be a helpful, unbiased voice that gives everyone clear, consistent feedback, no matter their experience level. They also talk about how tools like CodeRabbit are working to make software development more inclusive and collaborative.</p><ul><li><a href="http://coderabbit.ai">http://coderabbit.ai</a></li></ul>
 ]]></content:encoded>
       <enclosure length="31816688" type="audio/mpeg" url="https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/0a5ce5d9-d3a1-4785-ab6f-963f268456ae/audio/c9fdda16-594b-427b-8fb0-1ed39be6872f/default_tc.mp3?aid=rss_feed&amp;feed=gvtxUiIf"/>
       <itunes:title>AI Code Reviews with CodeRabbit&apos;s Howon Lee</itunes:title>
       <itunes:author>Scott Hanselman</itunes:author>
       <itunes:image href="https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/cfb03efb-5af7-42e4-8bc0-9d31286211aa/3000x3000/999.jpg?aid=rss_feed"/>
       <itunes:duration>00:33:03</itunes:duration>
-      <itunes:summary>In this episode of the Hanselminutes podcast, Scott talks to Code Rabbit&apos;s Howon Lee about how AI can democratize the code review. Believes that code reviews are inherently political, and that AIs can level the playing field so that everyone benefits. Are AI code reviews the Future of Coding? How will Code Rabbit compete with their unique algorithm when there are other options from Open AI and others?</itunes:summary>
-      <itunes:subtitle>In this episode of the Hanselminutes podcast, Scott talks to Code Rabbit&apos;s Howon Lee about how AI can democratize the code review. Believes that code reviews are inherently political, and that AIs can level the playing field so that everyone benefits. Are AI code reviews the Future of Coding? How will Code Rabbit compete with their unique algorithm when there are other options from Open AI and others?</itunes:subtitle>
+      <itunes:summary>In this episode of the Hanselminutes podcast, Scott talks to Code Rabbit&apos;s Howon Lee about how AI can democratize the code review, believes that code reviews are inherently political, and that AIs can level the playing field so that everyone benefits. Are AI code reviews the Future of Coding? How will Code Rabbit compete with their unique algorithm when there are other options from Open AI and others?</itunes:summary>
+      <itunes:subtitle>In this episode of the Hanselminutes podcast, Scott talks to Code Rabbit&apos;s Howon Lee about how AI can democratize the code review, believes that code reviews are inherently political, and that AIs can level the playing field so that everyone benefits. Are AI code reviews the Future of Coding? How will Code Rabbit compete with their unique algorithm when there are other options from Open AI and others?</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>999</itunes:episode>
@@ -15429,31 +15450,6 @@ This classic title is regularly featured on software development “Top Ten” l
       <itunes:episode>360</itunes:episode>
     </item>
     <item>
-      <guid isPermaLink="false">http://www.hanselminutes.com/default.aspx?ShowID=380</guid>
-      <title>Halo 4 - Services in Azure with Caitie McCaffrey</title>
-      <description><![CDATA[<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>
-]]></description>
-      <pubDate>Fri, 8 Feb 2013 04:00:00 +0000</pubDate>
-      <author>scott@hanselman.com (Scott Hanselman)</author>
-      <link>https://www.hanselminutes.com</link>
-      <content:encoded><![CDATA[<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>
-]]></content:encoded>
-      <enclosure length="31814349" type="audio/mpeg" url="https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&amp;feed=gvtxUiIf"/>
-      <itunes:title>Halo 4 - Services in Azure with Caitie McCaffrey</itunes:title>
-      <itunes:author>Scott Hanselman</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"/>
-      <itunes:duration>00:33:07</itunes:duration>
-      <itunes:summary>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?
-
-</itunes:summary>
-      <itunes:subtitle>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?
-
-</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>358</itunes:episode>
-    </item>
-    <item>
       <guid isPermaLink="false">http://www.hanselminutes.com/default.aspx?ShowID=379</guid>
       <title>Git support within Visual Studio</title>
       <description><![CDATA[<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>
@@ -15477,6 +15473,31 @@ This classic title is regularly featured on software development “Top Ten” l
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>359</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.hanselminutes.com/default.aspx?ShowID=380</guid>
+      <title>Halo 4 - Services in Azure with Caitie McCaffrey</title>
+      <description><![CDATA[<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>
+]]></description>
+      <pubDate>Fri, 8 Feb 2013 04:00:00 +0000</pubDate>
+      <author>scott@hanselman.com (Scott Hanselman)</author>
+      <link>https://www.hanselminutes.com</link>
+      <content:encoded><![CDATA[<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>
+]]></content:encoded>
+      <enclosure length="31814349" type="audio/mpeg" url="https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&amp;feed=gvtxUiIf"/>
+      <itunes:title>Halo 4 - Services in Azure with Caitie McCaffrey</itunes:title>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"/>
+      <itunes:duration>00:33:07</itunes:duration>
+      <itunes:summary>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?
+
+</itunes:summary>
+      <itunes:subtitle>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?
+
+</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>358</itunes:episode>
     </item>
     <item>
       <guid isPermaLink="false">http://www.hanselminutes.com/default.aspx?ShowID=378</guid>
