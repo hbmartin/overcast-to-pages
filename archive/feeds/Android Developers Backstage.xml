@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://adbackstage.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Android Developers Backstage</title>
-		<pubDate>Wed, 07 May 2025 16:00:00 +0000</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 16:06:54 +0000</lastBuildDate>
+		<pubDate>Fri, 13 Jun 2025 16:00:00 +0000</pubDate>
+		<lastBuildDate>Fri, 13 Jun 2025 16:10:29 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://androidbackstage.blogspot.com/</link>
 		<language>en</language>
@@ -43,6 +43,22 @@ Subscribe to Android Developers YouTube → https://goo.gle/AndroidDevs]]></desc
 
 		<podcast:locked owner="gdevs.podcast@gmail.com">no</podcast:locked>
 		
+		<item>
+			<title>Bot to the Future: Two Years Later</title>
+			<itunes:title>Bot to the Future: Two Years Later</itunes:title>
+			<pubDate>Fri, 13 Jun 2025 16:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8d100d1c-d3c6-423a-aa8b-44b921b5f28a]]></guid>
+			<link><![CDATA[http://adbackstage.libsyn.com/bot-to-the-future-two-years-later]]></link>
+			<description><![CDATA[<p dir="ltr">Join Tor and Siva Velusamy and Sandhya Mohan from the Android Studio team to learn about the latest updates to Studio Bot (Gemini in Android Studio) that dropped at Google I/O 2025 including Agent Mode. Building on their conversation from two years ago about the Studio Bot, they explore Gemini’s role in every stage of development, from design to building, testing, and maintenance, the future of coding companions, and more.</p> <p dir="ltr"><br /> Studio Bot podcast episode → <a href= "https://goo.gle/3ZM0Wwx">https://goo.gle/3ZM0Wwx</a> </p> <p dir="ltr"> </p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p dir="ltr">Join Tor and Siva Velusamy and Sandhya Mohan from the Android Studio team to learn about the latest updates to Studio Bot (Gemini in Android Studio) that dropped at Google I/O 2025 including Agent Mode. Building on their conversation from two years ago about the Studio Bot, they explore Gemini’s role in every stage of development, from design to building, testing, and maintenance, the future of coding companions, and more.</p> <p dir="ltr"> Studio Bot podcast episode → <a href= "https://goo.gle/3ZM0Wwx">https://goo.gle/3ZM0Wwx</a> </p> <p dir="ltr"> </p> <p> </p>]]></content:encoded>
+			<enclosure length="66892771" type="audio/mpeg" url="https://traffic.libsyn.com/secure/adbackstage/ADB216_v2.mp3?dest-id=2710847" />
+			<itunes:duration>46:27</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>google,Android,androiddevelopers,androiddevelopersbackstage</itunes:keywords>
+			<itunes:subtitle><![CDATA[Join Tor and Siva Velusamy and Sandhya Mohan from the Android Studio team to learn about the latest updates to Studio Bot (Gemini in Android Studio) that dropped at Google I/O 2025 including Agent Mode. Building on their conversation from two years...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Google</itunes:author>
+		</item>
 		<item>
 			<title>​​Kotlin Multiplatform: Have your code and eat it too</title>
 			<itunes:title>​​Kotlin Multiplatform: Have your code and eat it too</itunes:title>
@@ -842,7 +858,7 @@ Subscribe to Android Developers YouTube → https://goo.gle/AndroidDevs]]></desc
 			<enclosure length="61644907" type="audio/mpeg" url="https://traffic.libsyn.com/secure/adbackstage/ADB166-1.0.mp3?dest-id=2710847" />
 			<itunes:duration>42:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>google,security,Developer,Android,developers,androiddeveloper,ADB,androiddevelopers,securitydeposit,androiddevelopersbackstage,androidsecurity,securityinandroid</itunes:keywords>
+			<itunes:keywords>google,Security,Developer,Android,developers,androiddeveloper,ADB,androiddevelopers,securitydeposit,androiddevelopersbackstage,androidsecurity,securityinandroid</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode, Chad and Jeff from the Android Security team join Tor and Romain to talk about… security. Chad and Jeff explain what the platform does to help preserve user trust and device integrity, why it sometimes means restricting...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Android Developers</itunes:author>

@@ -9,9 +9,7 @@
     <itunes:author>Real Python</itunes:author>
     <description>A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.
 
-The show covers a wide range of topics including Python programming best practices, career tips, and related software development topics.
-
-Join us every Friday morning to hear what&#x27;s new in the world of Python programming and become a more effective Pythonista.</description>
+The show covers a wide range of topics including Python programming best practices, career tips, and related software development topics. Join us every Friday morning to hear what&#x27;s new in the world of Python programming and become a more effective Pythonista.</description>
     <itunes:category text="Technology"/>
     <itunes:keywords>python, data science, python2, python3, learn python, django, coding, programming, development, developer, dev, code, open source, software, testing</itunes:keywords>
     <itunes:type>episodic</itunes:type>
@@ -21,6 +19,109 @@ Join us every Friday morning to hear what&#x27;s new in the world of Python prog
     </itunes:owner>
     <itunes:image href="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png"/>
     <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>253</itunes:episode>
+        <title>Starting With Marimo Notebooks &amp; Python App Config Management</title>
+        <itunes:title>Starting With Marimo Notebooks &amp; Python App Config Management</itunes:title>
+        <link>https://realpython.com/podcasts/rpp/253/</link>
+        <description>Looking for a guide on getting started with Marimo notebooks? How do you build a reproducible notebook for sharing or create a dashboard with interactive UI elements? Christopher Trudeau is back on the show this week, bringing another batch of PyCoder&#x27;s Weekly articles and projects.</description>
+        <content:encoded>&lt;p&gt;Looking for a guide on getting started with Marimo notebooks? How do you build a reproducible notebook for sharing or create a dashboard with interactive UI elements? Christopher Trudeau is back on the show this week, bringing another batch of PyCoder&amp;rsquo;s Weekly articles and projects.&lt;/p&gt;
+&lt;p&gt;We cover a recent Real Python article by Ian Eyre about using Marimo notebooks. The tutorial covers installing Marimo, taking advantage of reactivity, building interactive dashboards, and managing a notebook&amp;rsquo;s environment through sandboxing. The piece ends by examining the limitations of traditional linear notebooks and how Marimo addresses them.&lt;/p&gt;
+&lt;p&gt;Christopher discusses an article about how to store the configurations for your Python scripts and projects. Whether you&amp;rsquo;re managing resource handles to a database, deployment variables, or credentials to external services, you&amp;rsquo;ll need a way to save and load the details into your Python project. The piece compares saving configurations in several common file formats or through environment variables. &lt;/p&gt;
+&lt;p&gt;We also share several other articles and projects from the Python community, including a news roundup, the discourse between generative AI coding proponents and detractors, catching memory leaks with your test suite, epigrams on programming, a command line tool to check packages on PyPI, and a collection of string, file, and object utilities.&lt;/p&gt;
+&lt;p&gt;This episode is sponsored by Six Feet Up.&lt;/p&gt;
+&lt;div class=&quot;alert alert-primary&quot; role=&quot;alert&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Course Spotlight:&lt;/strong&gt; &lt;a href=&quot;https://realpython.com/courses/cicd-github-actions/&quot;&gt;Python Continuous Integration and Deployment Using GitHub Actions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With most software following agile methodologies, it&amp;rsquo;s essential to have robust DevOps systems in place to manage, maintain, and automate common tasks with a continually changing codebase. By using GitHub Actions, you can automate your workflows efficiently, especially for Python projects.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00:00 &amp;ndash; Introduction&lt;/li&gt;
+&lt;li&gt;00:02:44 &amp;ndash; Python Release 3.14.0b2&lt;/li&gt;
+&lt;li&gt;00:03:09 &amp;ndash; Django security releases issued: 5.2.2, 5.1.10, and 4.2.22&lt;/li&gt;
+&lt;li&gt;00:03:27 &amp;ndash; PyBay 2025&lt;/li&gt;
+&lt;li&gt;00:03:43 &amp;ndash; PyCon NL 2025 - Call for Proposals&lt;/li&gt;
+&lt;li&gt;00:04:05 &amp;ndash; Django Forum: Supporting t-strings&lt;/li&gt;
+&lt;li&gt;00:04:44 &amp;ndash; Ruff Users: What Rules Are You Using and What Are You Ignoring?&lt;/li&gt;
+&lt;li&gt;00:05:19 &amp;ndash; My Shot at Real Python&lt;/li&gt;
+&lt;li&gt;00:06:03 &amp;ndash; My AI Skeptic Friends Are All Nuts&lt;/li&gt;
+&lt;li&gt;00:10:06 &amp;ndash; I Think I&amp;rsquo;m Done Thinking About genAI For Now&lt;/li&gt;
+&lt;li&gt;00:11:12 &amp;ndash; AI Changes Everything&lt;/li&gt;
+&lt;li&gt;00:23:01 &amp;ndash; Video Course Spotlight&lt;/li&gt;
+&lt;li&gt;00:24:14 &amp;ndash; Configuration of Python Applications&lt;/li&gt;
+&lt;li&gt;00:29:15 &amp;ndash; Marimo: A Reactive, Reproducible Notebook&lt;/li&gt;
+&lt;li&gt;00:35:15 &amp;ndash; Sponsor: Six Feet Up&lt;/li&gt;
+&lt;li&gt;00:36:02 &amp;ndash; Catching memory leaks with your test suite&lt;/li&gt;
+&lt;li&gt;00:41:45 &amp;ndash; Epigrams on Programming&lt;/li&gt;
+&lt;li&gt;00:46:54 &amp;ndash; whatsonpypi: Check PyPI From the Command Line&lt;/li&gt;
+&lt;li&gt;00:48:18 &amp;ndash; strif: String, File, and Object Utilities&lt;/li&gt;
+&lt;li&gt;00:49:44 &amp;ndash; PyCoder&amp;rsquo;s Weekly - Submit a Link&lt;/li&gt;
+&lt;li&gt;00:50:13 &amp;ndash; Thanks and goodbye&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;News:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.python.org/downloads/release/python-3140b2/&quot;&gt;Python Release 3.14.0b2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.djangoproject.com/weblog/2025/jun/04/security-releases/&quot;&gt;Django security releases issued: 5.2.2, 5.1.10, and 4.2.22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pybay.org/speaking/call-for-proposals/&quot;&gt;PyBay 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdv-shKzLId7WMwxmVNfSsWZjCd4eNuB7ExKvu_B3s4yONR-Q/viewform&quot;&gt;PyCon NL 2025 - Call for Proposals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://forum.djangoproject.com/t/supporting-t-strings-from-python-3-14/40925&quot;&gt;Django Forum: Supporting &lt;code&gt;t-strings&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://old.reddit.com/r/Python/comments/1kttfst/ruff_users_what_rules_are_using_and_what_are_you/&quot;&gt;Ruff Users: What Rules Are You Using and What Are You Ignoring?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lonercode.hashnode.dev/my-shot-at-real-python&quot;&gt;My Shot at Real Python&lt;/a&gt; &amp;ndash; Amanda has recently written her first article for Real Python and this post talks about her experience doing so. If you want to check out the article, it&amp;rsquo;s on &lt;a href=&quot;https://realpython.com/nested-loops-python/&quot;&gt;Nested Loops&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Show Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://fly.io/blog/youre-all-nuts/&quot;&gt;My AI Skeptic Friends Are All Nuts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html&quot;&gt;I Think I&amp;rsquo;m Done Thinking About genAI For Now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lucumr.pocoo.org/2025/6/4/changes/&quot;&gt;AI Changes Everything&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chatgpt.com/share/68419e9e-ed78-8009-b4d5-97a6b68bfdb3&quot;&gt;AI Blog Comparison - Armin Ronacher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://robertrode.com/2023/10/02/configuration-in-python-applications-no-magic-just-necessary-practice.html&quot;&gt;Configuration of Python Applications&lt;/a&gt; &amp;ndash; This post talks about how to store configuration for your script and how and when to load the information into your program.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/marimo-notebook/&quot;&gt;Marimo: A Reactive, Reproducible Notebook&lt;/a&gt; &amp;ndash; Discover how marimo notebook simplifies coding with reactive updates, UI elements, and sandboxing for safe, sharable notebooks.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/&quot;&gt;Catching memory leaks with your test suite&lt;/a&gt; &amp;ndash; &amp;ldquo;If you have a good test suite, you may be able to use &lt;code&gt;pytest&lt;/code&gt; fixtures to identify memory and other resource leaks.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Discussion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html&quot;&gt;Epigrams on Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Perlis&quot;&gt;Alan Perlis - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/viseshrp/whatsonpypi&quot;&gt;whatsonpypi: Check PyPI From the Command Line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jlevy/strif&quot;&gt;strif: String, File, and Object Utilities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additional Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/238/&quot;&gt;Episode #238: Charlie Marsh: Accelerating Python Tooling With Ruff and uv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/250/&quot;&gt;Episode #250: DjangoCon Europe 2025: Live Recording From Dublin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/236/&quot;&gt;Episode #236: Simon Willison: Using LLMs for Python Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lucumr.pocoo.org/2025/6/10/genai-criticism/&quot;&gt;GenAI Criticism and Moral Quandaries - Armin Ronacher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.blog/news-insights/product-news/math-support-in-markdown/&quot;&gt;Math support in Markdown - The GitHub Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/quizzes/marimo-notebook/&quot;&gt;Quiz: Marimo: A Reactive, Reproducible Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/42/&quot;&gt;Episode #42: What Is Data Engineering and Researching 10 Million Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/&quot;&gt;We Downloaded 10,000,000 Jupyter Notebooks From Github – This Is What We Learned&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/230/&quot;&gt;Episode #230: marimo: Reactive Notebooks and Deployable Web Apps in Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://talkpython.fm/episodes/show/501/marimo-reactive-notebooks-for-python&quot;&gt;Episode #501 - Marimo - Reactive Notebooks for Python - Talk Python To Me Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/24/&quot;&gt;Episode #24: Options for Packaging Your Python Application: Wheels, Docker, and More - Itamar Turner-Trauring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/128/&quot;&gt;Episode #128: Using a Memory Profiler in Python &amp;amp; What It Can Teach You&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/172/&quot;&gt;Episode #172: Measuring Multiple Facets of Python Performance With Scalene&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pycoders.com/submissions&quot;&gt;PyCoder&amp;rsquo;s Weekly - Submit a Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Level up your Python skills with our expert-led courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/courses/cicd-github-actions/&quot;&gt;Python Continuous Integration and Deployment Using GitHub Actions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/courses/python-mmap-io/&quot;&gt;Python mmap: Doing File I/O With Memory Mapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/courses/testing-your-code-with-pytest/&quot;&gt;Testing Your Code With pytest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt; &lt;p&gt;&lt;a rel=&quot;payment&quot; href=&quot;https://realpython.com/join&quot;&gt;Support the podcast &amp;amp; join our community of Pythonistas&lt;/a&gt;&lt;/p&gt;</content:encoded>
+        <enclosure url="https://dts.podtrac.com/redirect.mp3/files.realpython.com/podcasts/RPP_E253_03_PyCoders.4cca15e90045.mp3" type="audio/mpeg" length="50632959"/>
+        <guid isPermaLink="false">ec90e961-b3d8-4a32-9ce7-a39965440b9a</guid>
+        <pubDate>Fri, 13 Jun 2025 12:00:00 +0000</pubDate>
+        <itunes:duration>3101</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://files.realpython.com/media/SQ_E_253_Podcast.b1c9f22b9145.jpg"/>
+        <rp:twitter-handles></rp:twitter-handles>
+        <rp:twitter-title>“Starting With Marimo Notebooks &amp; Python App Config Management”</rp:twitter-title>
+      </item>
     
       <item>
         <itunes:episodeType>full</itunes:episodeType>

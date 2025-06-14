@@ -38,6 +38,43 @@ We cover tools, techniques, and implementation tricks across data collection, da
     <itunes:category text="Science">
     </itunes:category>
     <item>
+      <title>896: AI (Probably) Isn’t Taking Your Job (At Least Anytime Soon)</title>
+      <description>The Economist reported that global Google searches for "AI unemployment" hit an all-time high earlier this year. But do we have to worry about AI taking our jobs? In this week’s Five-Minute Friday, Jon Krohn investigates whether the rise of AI has directly led to an increase in unemployment. 
+
+
+
+Additional materials: ⁠⁠⁠⁠www.superdatascience.com/896
+
+
+
+Interested in sponsoring a SuperDataScience Podcast episode? Email natalie@superdatascience.com for sponsorship information.</description>
+      <pubDate>Fri, 13 Jun 2025 11:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jon Krohn</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/b2c84efe-4767-11f0-a45e-4b17efa20216/image/fb03e20d8cf9ce8964319b3555649152.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>The Economist reported that global Google searches for "AI unemployment" hit an all-time high earlier this year. But do we have to worry about AI taking our jobs? In this week’s Five-Minute Friday, Jon Krohn investigates whether the rise of AI has directly led to an increase in unemployment. 
+
+
+
+Additional materials: ⁠⁠⁠⁠www.superdatascience.com/896
+
+
+
+Interested in sponsoring a SuperDataScience Podcast episode? Email natalie@superdatascience.com for sponsorship information.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p><em>The Economist </em>reported that global Google searches for "AI unemployment" hit an all-time high earlier this year. But do we have to worry about AI taking our jobs? In this week’s Five-Minute Friday, Jon Krohn investigates whether the rise of AI has directly led to an increase in unemployment. </p>
+<p><br></p>
+<p>Additional materials: ⁠⁠⁠⁠<a href="https://www.superdatascience.com/896">www.superdatascience.com/896</a></p>
+<p><br></p>
+<p>Interested in sponsoring a SuperDataScience Podcast episode? Email natalie@superdatascience.com for sponsorship information.</p>]]>
+      </content:encoded>
+      <itunes:duration>471</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[b2c84efe-4767-11f0-a45e-4b17efa20216]]></guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD2808364769.mp3?updated=1749796351" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>895: The Future of Enterprise AI: Investor Shaun Johnson Reveals What Actually Works</title>
       <description>How to get funded by a VC specializing in AI: Head of AIX Ventures Shaun Johnson talks to Jon Krohn about investment strategies, how to simplify AI adoption, why a little competition can be so beneficial to AI startups, and how Big Tech is circumventing anti-monopoly measures.
 

@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://makingembeddedsystems.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Embedded</title>
-		<pubDate>Tue, 03 Jun 2025 20:30:00 +0000</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 01:27:27 +0000</lastBuildDate>
+		<pubDate>Fri, 13 Jun 2025 01:46:00 +0000</pubDate>
+		<lastBuildDate>Fri, 13 Jun 2025 01:47:03 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://embedded.fm</link>
 		<language>en</language>
@@ -20,7 +20,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<link><![CDATA[https://embedded.fm]]></link>
 		</image>
 		<itunes:author>Logical Elegance</itunes:author>
-		<itunes:keywords>computers,devices,embedded,engineering,gadgets,hardware,making,processors,robots,sensors,software</itunes:keywords>
+		<itunes:keywords>Gadgets,computers,devices,embedded,engineering,hardware,making,processors,robots,sensors,software</itunes:keywords>
 		<itunes:category text="Technology">
 		</itunes:category>
 		<itunes:category text="Science">
@@ -40,6 +40,24 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 
 		<podcast:locked owner="show@embedded.fm">no</podcast:locked>
 		
+		<item>
+			<title>503: The Tiniest Laptops</title>
+			<itunes:title>The Tiniest Laptops</itunes:title>
+			<pubDate>Fri, 13 Jun 2025 01:46:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[faf384c4-da68-4e05-ac60-57512cf363d4]]></guid>
+			<link><![CDATA[https://embedded.fm/episodes/503]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/c/f/c/2cfceaba8c1d80d9d959afa2a1bf1c87/embedded-ep503.jpg" />
+			<description><![CDATA[<p class="" data-pm-slice="1 1 []">Emily Lovell spoke with us about teaching how to contribute to open source, including her own experience creating the LilyTiny as a Master’s student and researching the impact as a PhD student. </p> <p class="">The LilyTiny work was done in conjunction with Leah Buechley (<a href="https://embedded.fm/episodes/382">Embedded episode 382</a>). See the paper <a href= "https://www.researchgate.net/publication/360408199_The_LilyTiny_A_Case_Study_in_Expanding_Access_to_Electronic_Textiles"> The LilyTiny: A Case Study in Expanding Access to Electronic Textiles</a> or watch <a href= "https://www.youtube.com/watch?v=744pt7kElN0">the video</a>.</p> <p class=""><a href="https://ucsc-ospo.github.io/">UCSC Open Source Program Office</a> (note this is different from the Center for Research in Open Source Software (<a href= "https://cross.ucsc.edu/">CROSS</a>) that we spoke about with Carl Maltzahn (<a href="https://embedded.fm/episodes/285">Episode 285</a>).</p> <p class="">Emily recommended the curriculum from <a href= "http://teachingopensource.org/">TeachingOpenSource.org</a>. </p> <p class="">Emily’s other life is at <a href= "https://www.instagram.com/epcustompickups">EP Custom Pickups</a> and <a href="https://aberdeenguitars.com/">Aberdeen Guitars</a>. She spoke on <a href= "https://www.nammshow.org/event/nammshow25/person/RXZlbnRQZW9wbGVfMzQ1NzM4OTg=" target="_blank" rel="noopener">a lutherie panel at NAMM</a>.</p> <p class=""><a href= "https://embedded.fm/transcripts/503">Transcript</a></p> <p class=""><img src= "//assets.libsyn.com/show/44177/mouser-eit2025-rrrt-embeddedfm-1080x540-en.jpg" alt="" width="683" height="369" /> Mouser’s <em>Empowering Innovation Together</em> hub dives into all sorts of topics like renewable energy, energy-efficient systems, and sustainable design. Whether you’re looking for the latest in clean tech trends or just need some inspiration, you’ll find articles, videos, and podcasts all geared toward engineers who want to make a difference. Head over to <a href= "http://mouser.com/empowering-innovation">Mouser.com/empowering-innovation</a> <a href="http://mouser.com/empowering-innovation">and check out their clean tech</a> content.</p>]]></description>
+			<content:encoded><![CDATA[<p class="" data-pm-slice="1 1 []">Emily Lovell spoke with us about teaching how to contribute to open source, including her own experience creating the LilyTiny as a Master’s student and researching the impact as a PhD student. </p> <p class="">The LilyTiny work was done in conjunction with Leah Buechley (<a href="https://embedded.fm/episodes/382">Embedded episode 382</a>). See the paper <a href= "https://www.researchgate.net/publication/360408199_The_LilyTiny_A_Case_Study_in_Expanding_Access_to_Electronic_Textiles"> The LilyTiny: A Case Study in Expanding Access to Electronic Textiles</a> or watch <a href= "https://www.youtube.com/watch?v=744pt7kElN0">the video</a>.</p> <p class=""><a href="https://ucsc-ospo.github.io/">UCSC Open Source Program Office</a> (note this is different from the Center for Research in Open Source Software (<a href= "https://cross.ucsc.edu/">CROSS</a>) that we spoke about with Carl Maltzahn (<a href="https://embedded.fm/episodes/285">Episode 285</a>).</p> <p class="">Emily recommended the curriculum from <a href= "http://teachingopensource.org/">TeachingOpenSource.org</a>. </p> <p class="">Emily’s other life is at <a href= "https://www.instagram.com/epcustompickups">EP Custom Pickups</a> and <a href="https://aberdeenguitars.com/">Aberdeen Guitars</a>. She spoke on <a href= "https://www.nammshow.org/event/nammshow25/person/RXZlbnRQZW9wbGVfMzQ1NzM4OTg=" target="_blank" rel="noopener">a lutherie panel at NAMM</a>.</p> <p class=""><a href= "https://embedded.fm/transcripts/503">Transcript</a></p> <p class=""> Mouser’s <em>Empowering Innovation Together</em> hub dives into all sorts of topics like renewable energy, energy-efficient systems, and sustainable design. Whether you’re looking for the latest in clean tech trends or just need some inspiration, you’ll find articles, videos, and podcasts all geared toward engineers who want to make a difference. Head over to <a href= "http://mouser.com/empowering-innovation">Mouser.com/empowering-innovation</a> <a href="http://mouser.com/empowering-innovation">and check out their clean tech</a> content.</p>]]></content:encoded>
+			<enclosure length="46303281" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep503.mp3?dest-id=141180" />
+			<itunes:duration>01:03:57</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Emily Lovell spoke with us about teaching how to contribute to open source, including her own experience creating the LilyTiny as a Master’s student and researching the impact as a PhD student.  The LilyTiny work was done in conjunction with...]]></itunes:subtitle>
+			<itunes:episode>503</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Logical Elegance</itunes:author>
+		</item>
 		<item>
 			<title>502: Chat, J'ai Peté!</title>
 			<itunes:title>Chat, J'ai Peté!</itunes:title>
@@ -6586,7 +6604,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="51745407" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep174.mp3?dest-id=141180" />
 			<itunes:duration>01:09:23</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>learning,Baby,monitor,machine,IoT</itunes:keywords>
+			<itunes:keywords>learning,baby,monitor,machine,IoT</itunes:keywords>
 			<itunes:subtitle><![CDATA[We spoke to Evan Shapiro, CTO and cofounder of  (), about baby monitors, IoT security, neural nets, and professional poker. The  ends November 17, 2016. Evan recommended  and  for an introduction to machine...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6614,7 +6632,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="54721495" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep172.mp3?dest-id=141180" />
 			<itunes:duration>01:13:31</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>language,programming,Forth</itunes:keywords>
+			<itunes:keywords>Language,programming,Forth</itunes:keywords>
 			<itunes:subtitle><![CDATA[James Cameron of One Laptop Per Child (OLPC) tells us about Forth, science fiction, and laptops. We have some tickets for ARM's  is Oct 24, 2016 in Santa Clara. Will you be in the area? Want to go? Contact us if you want one of our free...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6628,7 +6646,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="55657528" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep171.mp3?dest-id=141180" />
 			<itunes:duration>01:14:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>art,hardware</itunes:keywords>
+			<itunes:keywords>Art,hardware</itunes:keywords>
 			<itunes:subtitle><![CDATA[Saar Drimer of () spoke with us about the crossover of art to electronics and building a business around it.  Monthly, the  ships aesthetically-pleasing electronics kits. We discussed past projects...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6828,7 +6846,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="49369334" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep158.mp3?dest-id=141180" />
 			<itunes:duration>01:06:05</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>language,programming,contest,ADA</itunes:keywords>
+			<itunes:keywords>Language,programming,contest,ADA</itunes:keywords>
 			<itunes:subtitle><![CDATA[Fabien Chouteau () of  () spoke with us about the Programming Competition. Giveaway boards are GONE.  The Ada programming language () is interesting in that it was designed for safety critical embedded systems (actually designed,  and...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6880,7 +6898,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="61375002" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep154.mp3?dest-id=141180" />
 			<itunes:duration>01:22:09</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Project,manufacturing,side,electrical,Engineer,soldering</itunes:keywords>
+			<itunes:keywords>Project,Manufacturing,side,electrical,Engineer,soldering</itunes:keywords>
 			<itunes:subtitle><![CDATA[Jeff Keyzer () joined us to talk about consumer manufacturing, how to solder, and having a full time job and a kit company. Jeff's blog is on . The Geiger Counter kit is available at. The really, really useful Soldering Is Easy comic book is. At...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6945,7 +6963,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="49111138" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep149.mp3?dest-id=141180" />
 			<itunes:duration>01:05:07</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Can,Hacking,car,Author</itunes:keywords>
+			<itunes:keywords>Can,Hacking,car,author</itunes:keywords>
 			<itunes:subtitle><![CDATA[Craig Smith () spoke with us about hacking the software in cars.  His book is the . There is a 40% off coupon toward the end of the show.  is Craig's site to improve and encourage hacking. Some tools he recommends for getting started are  and ....]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6958,7 +6976,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="50599180" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep148.mp3?dest-id=141180" />
 			<itunes:duration>01:07:11</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>speaking,podcasting,Code,newbie,programming</itunes:keywords>
+			<itunes:keywords>Speaking,podcasting,Code,newbie,programming</itunes:keywords>
 			<itunes:subtitle><![CDATA[Saron Yitbarek () spoke with us about , a site that help people learn to program and about the . We mentioned Paul Ford's  discussing his Bloomberg issue code. Saron also has a personal blog which has her post . Saron spoke on  at ELA Conf 2015.]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6971,7 +6989,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="50671270" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep147.mp3?dest-id=141180" />
 			<itunes:duration>01:07:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>art,youtube,engineering,reverse,soldering,boldport</itunes:keywords>
+			<itunes:keywords>Art,youtube,engineering,reverse,soldering,boldport</itunes:keywords>
 			<itunes:subtitle><![CDATA[Micah Elizabeth Scott ( joined us to talk about her new art and engineering projects. Micah's site is  and her . She launched a . Wiggleport has its own site () and github (). Check out the ! The  has some overlap. Micah will be keynoting...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7036,7 +7054,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="57031263" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep142.mp3?dest-id=141180" />
 			<itunes:duration>01:16:07</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>art,robots,robot</itunes:keywords>
+			<itunes:keywords>Art,robots,robot</itunes:keywords>
 			<itunes:subtitle><![CDATA[offers to let her robot lick Christopher's leg. Christopher agrees reluctantly once we determine the saliva will be anti-bacterial hand sanitizer. Sarah is a kinetic artist and some of her projects include a robot army (built your own from parts...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7062,7 +7080,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="57871051" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep140.mp3?dest-id=141180" />
 			<itunes:duration>01:17:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Hacking,book,China,manufacturing,publishing</itunes:keywords>
+			<itunes:keywords>Hacking,book,China,Manufacturing,publishing</itunes:keywords>
 			<itunes:subtitle><![CDATA[Andrew "Bunnie" Huang spoke with us about manufacturing in China, writing books, and crowdfunding. Bunnie's new book is The Essential Guide to Electronics in Shenzhen. It is available via  and the price goes from $30 to $35 when pre-ordering...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7114,7 +7132,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="45343243" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep136.mp3?dest-id=141180" />
 			<itunes:duration>59:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>robots,youtube,robot,robotics</itunes:keywords>
+			<itunes:keywords>robots,youtube,robot,Robotics</itunes:keywords>
 			<itunes:subtitle><![CDATA[Inventor and Youtube-er, Simone Giertz () tells us about building robots to "help" her daily life. . Some of the videos discussed in the show:   and its  (Also: )     Simone's blog, with additional robot build details is at .  For...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7127,7 +7145,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="46590925" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep135_copy.mp3?dest-id=141180" />
 			<itunes:duration>01:01:37</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>printing,good,Technology,for,3D</itunes:keywords>
+			<itunes:keywords>printing,good,technology,for,3D</itunes:keywords>
 			<itunes:subtitle><![CDATA[Anh Bui, Vice President of  Labs, joined us to discuss using technology for good.   is most widely known for , an online library for people with print disabilities. Note that this is only open to people with print disabilities per the...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7166,7 +7184,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="46783000" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep132.mp3?dest-id=141180" />
 			<itunes:duration>01:01:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>first,robots,robot,robotics</itunes:keywords>
+			<itunes:keywords>first,robots,robot,Robotics</itunes:keywords>
 			<itunes:subtitle><![CDATA[FIRST Robotics is way to get students of all ages into robotics. Former participant and dedicated mentor, Michael Hill () tells us about FIRST and how we can get involved. Official site:  which also has a list of  Forums are at  This year's...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7218,7 +7236,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="46711212" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep128.mp3?dest-id=141180" />
 			<itunes:duration>01:01:47</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>zombie,Author,pi,raspberry</itunes:keywords>
+			<itunes:keywords>zombie,author,pi,raspberry</itunes:keywords>
 			<itunes:subtitle><![CDATA[Simon Monk () talks with us about zombies and writing books.   Simon has 20+ books out, check out his  or his web page for a full listing (). Some you might want sooner rather than later include:    Kits for building some of the projects from...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7244,7 +7262,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="51991293" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep125.mp3?dest-id=141180" />
 			<itunes:duration>01:09:07</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Author,laser,Cutter,startups,glowforge</itunes:keywords>
+			<itunes:keywords>author,laser,Cutter,startups,glowforge</itunes:keywords>
 			<itunes:subtitle><![CDATA[Dan Shapiro (), CEO of  (), speaks with us about laser cutters and his book, . If you succumb to the wonder of 3D laser printers, consider using our  so you get $100 (and we get $100). Dan's book, the one Elecia gushes about, is . Some of that...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7257,7 +7275,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="56815291" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep124.mp3?dest-id=141180" />
 			<itunes:duration>01:15:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,Author</itunes:keywords>
+			<itunes:keywords>Science,author</itunes:keywords>
 			<itunes:subtitle><![CDATA[Windell Oskay () of  () told us about co-authoring a book: . Some great EMSL links:     Food in specimen jars  Spherical pen plotter ()  The book Chris brought up was . Windell is also on . Contest to get Windell's signed book ends 11/13, send in...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7296,7 +7314,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="46183017" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep121.mp3?dest-id=141180" />
 			<itunes:duration>01:01:03</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>effects,Guitar,pedals</itunes:keywords>
+			<itunes:keywords>effects,guitar,pedals</itunes:keywords>
 			<itunes:subtitle><![CDATA[We spoke with Fran Blanche () of  about guitar tone.  Fran has several articles and posts about space, electronics, and assorted whatnot at her  page. Her  is on YouTube. There are many different guitar pedals you can build for yourself as a...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7322,7 +7340,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="57373774" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep119.mp3?dest-id=141180" />
 			<itunes:duration>01:16:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,youtube,Applied</itunes:keywords>
+			<itunes:keywords>Science,youtube,Applied</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ben Krasnow of the Applied Science YouTube channel talks with us about scanning electron microscopes, generating liquid nitrogen, and cookies.  Hackaday Conference is Nov 14-15, 2015 in SF, CA! . (Ben and Elecia are .) Contact Ben...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7439,7 +7457,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="63271694" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep110.mp3?dest-id=141180" />
 			<itunes:duration>01:24:47</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>black,Author,beaglebone</itunes:keywords>
+			<itunes:keywords>black,author,beaglebone</itunes:keywords>
 			<itunes:subtitle><![CDATA[BeagleBone's Jason Kridner () returns to tell us about his new book. Jason co-authored a new book:  (or at ). His older book is . Previous Embedded.fm episode  BeagleBoard.org's  (including  and !) Some  for real...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7556,7 +7574,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="55738060" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep101.mp3?dest-id=141180" />
 			<itunes:duration>01:14:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>art,health,artist,mental</itunes:keywords>
+			<itunes:keywords>Art,Health,artist,Mental</itunes:keywords>
 			<itunes:subtitle><![CDATA[Micah Elizabeth Scott () spoke with us about Coastermelt, art installations, FadeCandy, teaching electronics to artists, and mental health.  Her Toronto International Film Festival (TIFF) installation is mesmerizing, some .  In her ...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7754,7 +7772,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="54424933" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep86.mp3?dest-id=141180" />
 			<itunes:duration>01:12:04</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Words,Author,dictionaries</itunes:keywords>
+			<itunes:keywords>Words,author,dictionaries</itunes:keywords>
 			<itunes:subtitle><![CDATA[Erin McKean () is a lexicographer, programmer, and start-up founder.  We spoke to her about Wordnik (the online uber dictionary), Reverb (smarter recommendations), and her many books. :       Erin has written many , some about words,...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7780,7 +7798,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="40901881" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep84.mp3?dest-id=141180" />
 			<itunes:duration>53:16</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Education</itunes:keywords>
+			<itunes:keywords>education</itunes:keywords>
 			<itunes:subtitle><![CDATA[The founders of Bluestamp Engineering spoke with us about running a hands-on summer engineering program for high school students (while keeping their day jobs). Bluestamp , Twitter (),  full of student projects and . ...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7832,7 +7850,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="57236765" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep80.mp3?dest-id=141180" />
 			<itunes:duration>01:15:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>financial,planning</itunes:keywords>
+			<itunes:keywords>Financial,Planning</itunes:keywords>
 			<itunes:subtitle><![CDATA[Bill Winterberg () chatted with Elecia about leaving embedded engineering to become a financial planner then to being a technology adviser to other financial planners.  Bill's company is . You can  and watch , his video blog (or read...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7871,7 +7889,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="54161631" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep77.mp3?dest-id=141180" />
 			<itunes:duration>01:11:41</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>training,robotics,goldfish</itunes:keywords>
+			<itunes:keywords>training,Robotics,Goldfish</itunes:keywords>
 			<itunes:subtitle><![CDATA[Sophi Kravitz (, ) joined us to talk about working on neat things: , , , goldfish training, and . Sophi's company is   vs.   Quit Your Day Job on , previously on]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7897,7 +7915,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="50177430" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep75.mp3?dest-id=141180" />
 			<itunes:duration>01:06:09</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>networking,PARC</itunes:keywords>
+			<itunes:keywords>Networking,PARC</itunes:keywords>
 			<itunes:subtitle><![CDATA[Glenn Scott and Nacho Solis spoke with Elecia about , being research scientists, and working at . [Note: Elecia was the recording engineer and her inexperience showed by not hitting that other little button on the software. Nacho's mic ended up...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7936,7 +7954,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="45260150" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep72.mp3?dest-id=141180" />
 			<itunes:duration>59:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>startup,tindie</itunes:keywords>
+			<itunes:keywords>Startup,tindie</itunes:keywords>
 			<itunes:subtitle><![CDATA[Emile Petrone () talked with Chris and Elecia about : buying, selling, changing the rate of hardware innovation, having a burgeoning start up, connecting government agencies to craft electronics, etc.  We talked about many amazing projects on...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7949,7 +7967,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="43220075" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep71.mp3?dest-id=141180" />
 			<itunes:duration>56:29</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>legal,patents</itunes:keywords>
+			<itunes:keywords>Legal,patents</itunes:keywords>
 			<itunes:subtitle><![CDATA[Intellectual property attorney Judith Szepesi () discusses what Elecia (and startups) need to know about patenting. Judith is a founding partner at . They will soon have a guide to addressing patent trolls (link to be added when available).  - a Stack...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -8027,7 +8045,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="42456160" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep65.mp3?dest-id=141180" />
 			<itunes:duration>55:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>startup,Kickstarter</itunes:keywords>
+			<itunes:keywords>Startup,Kickstarter</itunes:keywords>
 			<itunes:subtitle><![CDATA[Darma () is a nascent start-up focusing on optical sensors in a seat cushion to aid in posture, stress reduction, and meditation. Chris and Elecia speak with CEO Dr. Junhao Hu and Sharif Kassatly about building a company, going through the 's...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -8040,7 +8058,7 @@ We’d love to share our enthusiasm for science, technology, engineering, art, a
 			<enclosure length="56372335" type="audio/mpeg" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep64.mp3?dest-id=141180" />
 			<itunes:duration>01:14:45</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Author</itunes:keywords>
+			<itunes:keywords>author</itunes:keywords>
 			<itunes:subtitle><![CDATA[WHOOPS! We didn't record Elecia's mic this week and are taking a track direct from Chris' computer mic. Sound quality is not up to our normal standards. Sorry! Chris () hosted the show, asking Elecia () what it was like to write her  book. (Thanks to ...]]></itunes:subtitle>
 		</item>
 		<item>
