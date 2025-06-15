@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://dataskeptic.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Data Skeptic</title>
-		<pubDate>Sun, 01 Jun 2025 15:58:00 +0000</pubDate>
-		<lastBuildDate>Mon, 09 Jun 2025 20:40:23 +0000</lastBuildDate>
+		<pubDate>Sat, 14 Jun 2025 01:05:00 +0000</pubDate>
+		<lastBuildDate>Sat, 14 Jun 2025 01:13:11 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://dataskeptic.com</link>
 		<language>en</language>
@@ -37,6 +37,21 @@
 
 		<podcast:locked owner="kyle@dataskeptic.com">no</podcast:locked>
 		
+		<item>
+			<title>Networks and Complexity</title>
+			<itunes:title>Networks and Complexity</itunes:title>
+			<pubDate>Sat, 14 Jun 2025 01:05:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b7baf036-0cbf-40ef-a5af-df4fb3f1f3b7]]></guid>
+			<link><![CDATA[http://dataskeptic.com/blog/episodes/2025/networks-and-complexity]]></link>
+			<description><![CDATA[<p>In this episode, Kyle does an overview of the intersection of graph theory and computational complexity theory.  In complexity theory, we are about the runtime of an algorithm based on its input size.  For many graph problems, the interesting questions we want to ask take longer and longer to answer!  This episode provides the fundamental vocabulary and signposts along the path of exploring the intersection of graph theory and computational complexity theory.</p>]]></description>
+			<content:encoded><![CDATA[<p>In this episode, Kyle does an overview of the intersection of graph theory and computational complexity theory.  In complexity theory, we are about the runtime of an algorithm based on its input size.  For many graph problems, the interesting questions we want to ask take longer and longer to answer!  This episode provides the fundamental vocabulary and signposts along the path of exploring the intersection of graph theory and computational complexity theory.</p>]]></content:encoded>
+			<enclosure length="25821214" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/networks-and-complexity.mp3?dest-id=201630" />
+			<itunes:duration>17:49</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, Kyle does an overview of the intersection of graph theory and computational complexity theory.  In complexity theory, we are about the runtime of an algorithm based on its input size.  For many graph problems, the...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title>Actantial Networks</title>
 			<itunes:title>Actantial Networks</itunes:title>
@@ -7805,7 +7820,7 @@
 			<enclosure length="64416261" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Data_Skeptic_-_Crypto.mp3?dest-id=201630" />
 			<itunes:duration>01:24:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>statistics,bigfoot,yeti,cryptozoology,Sasquatch,probability</itunes:keywords>
+			<itunes:keywords>statistics,Bigfoot,Yeti,cryptozoology,Sasquatch,probability</itunes:keywords>
 			<itunes:subtitle><![CDATA[How do people think rationally about small probability events? What is the optimal statistical process by which one can update their beliefs in light of new evidence? This episode of Data Skeptic explores questions like this as Kyle consults a cast of...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -7819,7 +7834,7 @@
 			<enclosure length="15350512" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_Map_Reduce.mp3?dest-id=201630" />
 			<itunes:duration>12:48</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Big,data,mapreduce,hadoop</itunes:keywords>
+			<itunes:keywords>Big,Data,mapreduce,hadoop</itunes:keywords>
 			<itunes:subtitle><![CDATA[This mini-episode is a high level explanation of the basic idea behind MapReduce, which is a fundamental concept in big data. The origin of the idea comes from a Google paper titled . This episode makes an analogy to tabulating paper voting...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -7963,7 +7978,7 @@
 			<enclosure length="41725304" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Crisis_Text_Line.mp3?dest-id=201630" />
 			<itunes:duration>34:47</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>data,philanthropy,line,text,crisis,kind</itunes:keywords>
+			<itunes:keywords>Data,philanthropy,line,text,crisis,kind</itunes:keywords>
 			<itunes:subtitle><![CDATA[A DataKind project with Crisis Text Line and Pivotal for Good]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -7992,7 +8007,7 @@
 			<enclosure length="33129265" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Data_Fest_2015.mp3?dest-id=201630" />
 			<itunes:duration>27:23</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>data,fest,UCLA</itunes:keywords>
+			<itunes:keywords>Data,fest,UCLA</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode contains converage of the 2015 Data Fest hosted at UCLA.  Data Fest is an analysis competition that gives teams of students 48 hours to explore a new dataset and present novel findings.  This year, data from Edmunds.com was...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8020,7 +8035,7 @@
 			<enclosure length="16140455" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/nlp.mp3?dest-id=201630" />
 			<itunes:duration>13:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>of,language,Words,Processing,speech,natural,part,BAG,tagging,NLP,ngrams,stemming</itunes:keywords>
+			<itunes:keywords>of,Language,Words,Processing,speech,Natural,part,BAG,tagging,NLP,ngrams,stemming</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode overviews some of the fundamental concepts of natural language processing including stemming, n-grams, part of speech tagging, and th bag of words approach.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8048,7 +8063,7 @@
 			<enclosure length="18985190" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_mcmc.mp3?dest-id=201630" />
 			<itunes:duration>15:50</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>wine,tasting,mcmc</itunes:keywords>
+			<itunes:keywords>wine,Tasting,mcmc</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode explores how going wine testing could teach us about using markov chain monte carlo (mcmc).]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8062,7 +8077,7 @@
 			<enclosure length="13766447" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_Markov_Chains.mp3?dest-id=201630" />
 			<itunes:duration>11:29</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Systems,chains,Processes,markov,stochastic,nondeterministic</itunes:keywords>
+			<itunes:keywords>systems,chains,Processes,markov,stochastic,nondeterministic</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode introduces the idea of a Markov Chain. A Markov Chain has a set of states describing a particular system, and a probability of moving from one state to another along every valid connected state. Markov Chains are memoryless, meaning they...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8076,7 +8091,7 @@
 			<enclosure length="39891508" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Oceanography_and_Data_Science.mp3?dest-id=201630" />
 			<itunes:duration>33:15</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>data,marine,oceanography,phytoplankton</itunes:keywords>
+			<itunes:keywords>Data,marine,oceanography,phytoplankton</itunes:keywords>
 			<itunes:subtitle><![CDATA[ joins us this week to share her experiences in oceanography studying phytoplankton and other aspects of the ocean and how data plays a role in that science.     We also discuss  where Nicole and I are both mentors for the...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8104,7 +8119,7 @@
 			<enclosure length="20315345" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/NYC_Speed_Camera_Analysis.mp3?dest-id=201630" />
 			<itunes:duration>16:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Open,nyc,data,street,cameras</itunes:keywords>
+			<itunes:keywords>open,NYC,Data,street,cameras</itunes:keywords>
 			<itunes:subtitle><![CDATA[New York State approved the use of automated speed cameras within a specific range of schools. Tim Schmeier did an analysis of publically available data related to these cameras as part of a project at the . Tim's work leverages several open data...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8161,7 +8176,7 @@
 			<enclosure length="35938659" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Mapping_Reddit_Topics.mp3?dest-id=201630" />
 			<itunes:duration>29:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>data,visualization,reddit,viz</itunes:keywords>
+			<itunes:keywords>Data,visualization,reddit,viz</itunes:keywords>
 			<itunes:subtitle><![CDATA[My quest this week is noteworthy a.i. researcher  who joins me to share his work creating the  - a visualization that illuminates clusters in the reddit community based on user behavior.  Randy's blog post on  is well...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8189,7 +8204,7 @@
 			<enclosure length="34085532" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Easily_fooling_deep_neural_networks_1.mp3?dest-id=201630" />
 			<itunes:duration>28:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>networks,data,mining,Deep,learning,neural</itunes:keywords>
+			<itunes:keywords>networks,Data,mining,Deep,learning,neural</itunes:keywords>
 			<itunes:subtitle><![CDATA[My guest this week is Anh Nguyen, a PhD student at the University of Wyoming working in the . The episode discusses the paper  by Anh Nguyen, Jason Yosinski, and Jeff Clune. It describes a process for creating images that a trained deep...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8203,7 +8218,7 @@
 			<enclosure length="13112341" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_Data_Provenance.mp3?dest-id=201630" />
 			<itunes:duration>10:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>data,Provenance</itunes:keywords>
+			<itunes:keywords>Data,Provenance</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode introduces a high level discussion on the topic of Data Provenance, with more MINI episodes to follow to get into specific topics. Thanks to listener Sara L who wrote in to point out the Data Skeptic Podcast has focused alot...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8231,7 +8246,7 @@
 			<enclosure length="8991064" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_Belief_in_Santa_Claus.mp3?dest-id=201630" />
 			<itunes:duration>09:55</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Christmas,santa,claus</itunes:keywords>
+			<itunes:keywords>christmas,santa,claus</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this quick holiday episode, we touch on how one would approach modeling the statistical distribution over the probability of belief in Santa Claus given age.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8245,7 +8260,7 @@
 			<enclosure length="28448830" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Peter_Backus.mp3?dest-id=201630" />
 			<itunes:duration>23:43</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Love,Charity,giving,Economics,charitable,girlfriend</itunes:keywords>
+			<itunes:keywords>love,charity,giving,Economics,charitable,girlfriend</itunes:keywords>
 			<itunes:subtitle><![CDATA[Economist Peter Backus joins me in this episode to discuss a few interesting topics. You may recall Linhda and I previously discussed his paper "" on a recent mini-episode. We start by touching base on this fun paper and get a follow up on where Peter...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8259,7 +8274,7 @@
 			<enclosure length="21672145" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINIBattle_of_the_sexes.mp3?dest-id=201630" />
 			<itunes:duration>18:04</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Love,mixed,game,THEORY,strategies,equilibrium,Equilibria</itunes:keywords>
+			<itunes:keywords>love,mixed,game,THEORY,strategies,equilibrium,Equilibria</itunes:keywords>
 			<itunes:subtitle><![CDATA[Love and Data is the continued theme in this mini-episode as we discuss the game theory example of The Battle of the Sexes. In this textbook example, a couple must strategize about how to spend their Friday night. One partner prefers football games...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8287,7 +8302,7 @@
 			<enclosure length="19405239" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_The_Girlfriend_Equation.mp3?dest-id=201630" />
 			<itunes:duration>16:11</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Love,dating,girlfriend,equation</itunes:keywords>
+			<itunes:keywords>love,dating,girlfriend,equation</itunes:keywords>
 			<itunes:subtitle><![CDATA[Economist Peter Backus put forward "The Girlfriend Equation" while working on his PhD - a probabilistic model attempting to estimate the likelihood of him finding a girlfriend. In this mini episode we explore the soundness of his model and also share...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8301,7 +8316,7 @@
 			<enclosure length="50086055" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/The_Secret_and_the_Global_Consciousness_Project.mp3?dest-id=201630" />
 			<itunes:duration>41:45</itunes:duration>
 			<itunes:explicit>true</itunes:explicit>
-			<itunes:keywords>the,secret,global,Project,rhonda,Consciousness,byrne</itunes:keywords>
+			<itunes:keywords>the,secret,global,Project,rhonda,consciousness,byrne</itunes:keywords>
 			<itunes:subtitle><![CDATA[I'm joined this week by Alex Boklin to explore the topic of magical thinking especially in the context of Rhonda Byrne's "The Secret", and the similarities it bears to The Global Consciousness Project (GCP). The GCP puts forward the hypothesis that...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8357,7 +8372,7 @@
 			<enclosure length="44325532" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Practicing_and_Communicating_Data_Science.mp3?dest-id=201630" />
 			<itunes:duration>36:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,data,survey,analysis</itunes:keywords>
+			<itunes:keywords>science,Data,survey,analysis</itunes:keywords>
 			<itunes:subtitle><![CDATA[ joins me in this episode to discuss his book , and some of the unique challenges and issues faced by someone doing applied data science. A challenge to any data scientist is making sure they have a good input data set and apply any...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8386,7 +8401,7 @@
 			<enclosure length="58170430" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Data_Myths_with_Karl_Mamer.mp3?dest-id=201630" />
 			<itunes:duration>48:29</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>beer,Baby,boom,walmart,messages,blackout,subliminal</itunes:keywords>
+			<itunes:keywords>beer,baby,boom,walmart,messages,blackout,subliminal</itunes:keywords>
 			<itunes:subtitle><![CDATA[Black out baby boom | Subliminal messages | Beer and Diapers]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8400,7 +8415,7 @@
 			<enclosure length="14747084" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/contest.mp3?dest-id=201630" />
 			<itunes:duration>12:18</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>the,social,web,data,mining,modeling,contest,predictive</itunes:keywords>
+			<itunes:keywords>the,social,web,Data,mining,modeling,contest,predictive</itunes:keywords>
 			<itunes:subtitle><![CDATA[The Data Skeptic Podcast is launching a contest- not one of chance, but one of skill. Listeners are encouraged to put their data science skills to good use, or if all else fails, guess!  The contest works as follows. Below is some data about the...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8429,7 +8444,7 @@
 			<enclosure length="13795704" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_Confidence_Intervals.mp3?dest-id=201630" />
 			<itunes:duration>11:30</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>confidence,interval</itunes:keywords>
+			<itunes:keywords>Confidence,interval</itunes:keywords>
 			<itunes:subtitle><![CDATA[Commute times and BBQ invites help frame a discussion about the statistical concept of confidence intervals.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8471,7 +8486,7 @@
 			<enclosure length="37692520" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Zest_Finance.mp3?dest-id=201630" />
 			<itunes:duration>31:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,data,credit,financial,underwriting,zestfinance</itunes:keywords>
+			<itunes:keywords>science,Data,credit,Financial,underwriting,zestfinance</itunes:keywords>
 			<itunes:subtitle><![CDATA[Marick Sinay from ZestFianance is our guest this weel.  This episode explores how data science techniques are applied in the financial world, specifically in assessing credit worthiness.  ]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8500,7 +8515,7 @@
 			<enclosure length="59775393" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Jackson_Pollock_Authentication_Analysis_with_Kate_Jones-Smith.mp3?dest-id=201630" />
 			<itunes:duration>49:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Art,jackson,review,Peer,pollock,fractals,Provenance,authentication</itunes:keywords>
+			<itunes:keywords>art,jackson,review,Peer,pollock,fractals,Provenance,authentication</itunes:keywords>
 			<itunes:subtitle><![CDATA[Our guest this week is  who joins us to discuss the evidence for the claim that drip paintings of Jackson Pollock contain fractal patterns. This hypothesis originates in a paper by Taylor, Micolich, and Jonas titled  which appeared...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8515,7 +8530,7 @@
 			<enclosure length="19264700" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_Noise.mp3?dest-id=201630" />
 			<itunes:duration>16:04</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>data,Processing,noise,signal,Governance</itunes:keywords>
+			<itunes:keywords>Data,Processing,noise,signal,Governance</itunes:keywords>
 			<itunes:subtitle><![CDATA[Our topic for this week is "noise" as in signal vs. noise.  This is not a signal processing discussions, but rather a brief introduction to how the work noise is used to describe how much information in a dataset is useless (as opposed to...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8529,7 +8544,7 @@
 			<enclosure length="83965303" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Guerilla_Skepticism_on_Wikipedia_with_Susan_Gerbic.mp3?dest-id=201630" />
 			<itunes:duration>01:09:59</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>web,independent,Group,citations,skepticism,wikipedia,Semantic,Investigations</itunes:keywords>
+			<itunes:keywords>web,independent,Group,citations,skepticism,wikipedia,Semantic,investigations</itunes:keywords>
 			<itunes:subtitle><![CDATA[Our guest this week is Susan Gerbic. Susan is a skeptical activist involved in many activities, the one we focus on most in this episode is , an organization working to improve the content and citations of Wikipedia.   During the episode,...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8557,7 +8572,7 @@
 			<enclosure length="68675312" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Data_in_Healthcare_IT_with_Shahid_Shah.mp3?dest-id=201630" />
 			<itunes:duration>57:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>it,data,health,Records,electronic,healthcare,generated,Patient,osehra</itunes:keywords>
+			<itunes:keywords>IT,Data,Health,Records,electronic,healthcare,generated,PATIENT,osehra</itunes:keywords>
 			<itunes:subtitle><![CDATA[Our guest this week is Shahid Shah. Shahid is CEO at , and writes three blogs: , , and .  During the program, Kyle recommended a talk from the  entitled  which was hosted by our guest .  In addition to his work in Healthcare IT, he also the...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8571,7 +8586,7 @@
 			<enclosure length="19555181" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/MINI_Cross_Validation.mp3?dest-id=201630" />
 			<itunes:duration>00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Training,Model,Cross,validation,statistical,testing</itunes:keywords>
+			<itunes:keywords>training,Model,Cross,validation,statistical,testing</itunes:keywords>
 			<itunes:subtitle><![CDATA[This miniepisode discusses the technique called Cross Validation - a process by which one randomly divides up a dataset into numerous small partitions. Next, (typically) one is held out, and the rest are used to train some model. The hold out set can...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8585,7 +8600,7 @@
 			<enclosure length="40165271" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Streetlight_Outage_and_Crime_Rate_Analysis_with_Zach_Seeskin.mp3?dest-id=201630" />
 			<itunes:duration>33:29</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,good,social,for,data,crime,statistical,analysis</itunes:keywords>
+			<itunes:keywords>science,good,social,for,Data,crime,statistical,analysis</itunes:keywords>
 			<itunes:subtitle><![CDATA[This episode features a discussion with statistics PhD student Zach Seeskin about a project he was involved in as part of the Eric and Wendy Schmidt Data Science for Social Good Summer Fellowship.  The project involved exploring the relationship...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8613,7 +8628,7 @@
 			<enclosure length="59965565" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Data_Skeptic_Podcast_-_Big_Data_Tools.mp3?dest-id=201630" />
 			<itunes:duration>49:59</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Big,data,shopping,Map,comparison,Reduce,hadoop</itunes:keywords>
+			<itunes:keywords>Big,Data,shopping,Map,comparison,Reduce,hadoop</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this week's episode, we discuss applied solutions to big data problem with big data engineer Jay Shankar.  The episode explores approaches and design philosophy to solving real world big data business problems, and the exploration of the wide...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8641,7 +8656,7 @@
 			<enclosure length="46208840" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Data_Skeptic_Podcast_ep_004_-_Personalized_Medicine_with_Niki_Athanasiadou.mp3?dest-id=201630" />
 			<itunes:duration>57:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>genetics,Medicine,Genome,Personalized</itunes:keywords>
+			<itunes:keywords>genetics,medicine,Genome,Personalized</itunes:keywords>
 			<itunes:subtitle><![CDATA[In the second full length episode of the podcast, we discuss the current state of personalized medicine and the advancements in genetics that have made it possible.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8684,7 +8699,7 @@
 			<enclosure length="13215263" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/type_i_type_ii.mp3?dest-id=201630" />
 			<itunes:duration>11:01</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>positive,I,II,type,False,negative</itunes:keywords>
+			<itunes:keywords>Positive,I,II,type,False,negative</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this first mini-episode of the Data Skeptic Podcast, we define and discuss type i and type ii errors (a.k.a. false positives and false negatives).]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -8699,7 +8714,7 @@
 			<enclosure length="3481373" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dataskeptic/Data_Skeptic_Podcast_ep000_-_Introduction.mp3?dest-id=201630" />
 			<itunes:duration>03:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,data,skepticism</itunes:keywords>
+			<itunes:keywords>science,Data,skepticism</itunes:keywords>
 			<itunes:subtitle><![CDATA[The Data Skeptic Podcast features conversations with topics related to data science, statistics, machine learning, artificial intelligence and the like, all from the perspective of applying critical thinking and the scientific method to evaluate the...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>

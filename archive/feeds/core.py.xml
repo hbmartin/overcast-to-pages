@@ -6,7 +6,7 @@
 Hi Loren!]]></description>
 		<link>https://podcasters.spotify.com/pod/show/corepy</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 10 Jun 2025 08:13:23 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Jun 2025 22:04:10 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/eb6edc3c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Pablo Galindo and Łukasz Langa]]></author>
 		<copyright><![CDATA[Pablo Galindo and Łukasz Langa]]></copyright>
@@ -26,6 +26,24 @@ Hi Loren!</itunes:summary>
 			<itunes:category text="Tech News"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+		<item>
+			<title><![CDATA[PyCon US 2025 Recap]]></title>
+			<description><![CDATA[<p>We’ve been gone a while. Here’s our excuse for being silent for a month: PyCon, PyCon, something something security. Come listen to how the conference looked like from our perspective! And whatever you do, DO NOT upgrade to Python 3.13.4.</p><p><br></p><p>## Timestamps</p><p><br></p><p>(00:00:00) INTRO</p><p>(00:01:06) PART 1: LANGUAGE SUMMIT</p><p>(00:04:47) A bit about the Summit talks</p><p>(00:06:19) Is free-threading happening?</p><p>(00:09:20) Łukasz and his favorite discussion item at the Summit</p><p>(00:13:38) Find actual competent coverage of the Summit on the PSF blog</p><p>(00:14:17) PART 2: PYCON TALK HIGHLIGHTS</p><p>(00:14:33) Cory Doctorow&#39;s opening keynote</p><p>(00:18:17) Brandt Bucher&#39;s talk on JIT challenges</p><p>(00:28:28) Lysandros and Nathan talk about community adoption of free-threading</p><p>(00:36:23) Lynn Root&#39;s keynote</p><p>(00:37:46) PyXL: Python-oriented chip</p><p>(00:39:47) Łukasz and his tutorial on WebGL with PyScript</p><p>(00:47:58) A new bet appears!</p><p>(00:48:14) Zoom, Enhance the Banana</p><p>(00:54:11) Watch out, Łukasz is talking about audio again</p><p>(01:02:42) Ivona and Pablo talk about remote code execution as a service</p><p>(01:05:44) Core Python sprints after the conference</p><p>(01:12:48) PART 3: PR OF THE WEEK</p><p>(01:13:00) tarfile security fixes</p><p>(01:19:13) Pablo&#39;s PR: strncmp considered harmful</p><p>(01:25:36) PART 4: WHAT&#39;S GOING ON IN CPYTHON</p><p>(01:26:06) compression.zstd lands</p><p>(01:28:01) concurrent.futures → asyncio.Future transfer 4X faster</p><p>(01:29:14) Bugfix: PyCFuncPtr_call no longer uses locks</p><p>(01:30:13) Some curiosities</p><p>(01:34:14) OUTRO</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/corepy/episodes/PyCon-US-2025-Recap-e347dc3</link>
+			<guid isPermaLink="false">723f5397-012b-4625-bb73-0b1874a39754</guid>
+			<dc:creator><![CDATA[Pablo Galindo and Łukasz Langa]]></dc:creator>
+			<pubDate>Fri, 13 Jun 2025 22:00:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/eb6edc3c/podcast/play/104100675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-13%2Fb281ac3a-b0ec-49b9-b31d-7a90031e910d.mp3" length="184893830" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;We’ve been gone a while. Here’s our excuse for being silent for a month: PyCon, PyCon, something something security. Come listen to how the conference looked like from our perspective! And whatever you do, DO NOT upgrade to Python 3.13.4.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;## Timestamps&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00:00) INTRO&lt;/p&gt;&lt;p&gt;(00:01:06) PART 1: LANGUAGE SUMMIT&lt;/p&gt;&lt;p&gt;(00:04:47) A bit about the Summit talks&lt;/p&gt;&lt;p&gt;(00:06:19) Is free-threading happening?&lt;/p&gt;&lt;p&gt;(00:09:20) Łukasz and his favorite discussion item at the Summit&lt;/p&gt;&lt;p&gt;(00:13:38) Find actual competent coverage of the Summit on the PSF blog&lt;/p&gt;&lt;p&gt;(00:14:17) PART 2: PYCON TALK HIGHLIGHTS&lt;/p&gt;&lt;p&gt;(00:14:33) Cory Doctorow&amp;#39;s opening keynote&lt;/p&gt;&lt;p&gt;(00:18:17) Brandt Bucher&amp;#39;s talk on JIT challenges&lt;/p&gt;&lt;p&gt;(00:28:28) Lysandros and Nathan talk about community adoption of free-threading&lt;/p&gt;&lt;p&gt;(00:36:23) Lynn Root&amp;#39;s keynote&lt;/p&gt;&lt;p&gt;(00:37:46) PyXL: Python-oriented chip&lt;/p&gt;&lt;p&gt;(00:39:47) Łukasz and his tutorial on WebGL with PyScript&lt;/p&gt;&lt;p&gt;(00:47:58) A new bet appears!&lt;/p&gt;&lt;p&gt;(00:48:14) Zoom, Enhance the Banana&lt;/p&gt;&lt;p&gt;(00:54:11) Watch out, Łukasz is talking about audio again&lt;/p&gt;&lt;p&gt;(01:02:42) Ivona and Pablo talk about remote code execution as a service&lt;/p&gt;&lt;p&gt;(01:05:44) Core Python sprints after the conference&lt;/p&gt;&lt;p&gt;(01:12:48) PART 3: PR OF THE WEEK&lt;/p&gt;&lt;p&gt;(01:13:00) tarfile security fixes&lt;/p&gt;&lt;p&gt;(01:19:13) Pablo&amp;#39;s PR: strncmp considered harmful&lt;/p&gt;&lt;p&gt;(01:25:36) PART 4: WHAT&amp;#39;S GOING ON IN CPYTHON&lt;/p&gt;&lt;p&gt;(01:26:06) compression.zstd lands&lt;/p&gt;&lt;p&gt;(01:28:01) concurrent.futures → asyncio.Future transfer 4X faster&lt;/p&gt;&lt;p&gt;(01:29:14) Bugfix: PyCFuncPtr_call no longer uses locks&lt;/p&gt;&lt;p&gt;(01:30:13) Some curiosities&lt;/p&gt;&lt;p&gt;(01:34:14) OUTRO&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:36:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39399111/39399111-1699803114817-02d2c67923346.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>23</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Beta Frenzy]]></title>
 			<description><![CDATA[<p>Python 3.14 Beta 1 is coming! And that means we reach feature freeze. BUT QUICK, there’s still time to squeeze in one last thing!</p><p><br /></p><p>## Timestamps</p><p><br /></p><p>(00:00:00) INTRO</p><p>(00:01:58) PART 1: Template strings</p><p>(00:07:10) PART 2: Asyncio Introspection</p><p>(00:29:07) PART 3: Syntax highlighting</p><p>(00:43:00) PART 4: Color themes</p><p>(00:50:56) PART 5: Debugging a remote process with pdb</p><p>(01:01:35) PART 6: Python Installation Manager for Windows</p><p>(01:05:29) PART 7: Worship</p><p>(01:08:53) PART 8: What else is happening?</p><p>(01:16:03) OUTRO</p>

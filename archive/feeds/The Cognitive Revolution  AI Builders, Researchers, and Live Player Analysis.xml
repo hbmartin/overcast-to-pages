@@ -35,6 +35,155 @@ The Cognitive Revolution is part of the Turpentine podcast network. To learn mor
     <itunes:category text="Society &amp; Culture">
     </itunes:category>
     <item>
+      <title>AI Scouting Report: AI Agents -vs- Agentic AI, from Imagine AI Live</title>
+      <link>https://www.cognitiverevolution.ai</link>
+      <description>This episode features Nathan's talk from Imagine AI Live, where he provides business leaders with a comprehensive overview of AI agents and agentic AI systems. He covers the evolution from simple task automation to more autonomous AI systems, delivers a practical roadmap for implementing AI agents in business while maintaining quality standards, and addresses concerning developments like reward hacking and scheming in frontier AI systems. The presentation balances accessible explanations for varying AI knowledge levels with rigorous grounding in current research and real-world applications. Nathan also discusses the "Eureka moments" these systems can deliver and provides frameworks for understanding the rapidly evolving landscape of AI agent capabilities.
+
+
+
+Link to the slide deck presented by Nathan : https://docs.google.com/presentation/d/1IpHitlG-6zHBd7hiWsbKpnprApVt3_2XHua3fG9n-Vw/edit?usp=sharing
+
+
+
+Sponsors:
+
+Google Gemini: Google Gemini features VEO3, a state-of-the-art AI video generation model in the Gemini app. Sign up at https://gemini.google.com 
+
+Oracle Cloud Infrastructure: Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at https://oracle.com/cognitive
+
+The AGNTCY: The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast
+
+PRODUCED BY:
+
+https://aipodcast.ing
+
+CHAPTERS:
+
+(00:00) Sponsor: Google Gemini
+
+(00:31) About the Episode
+
+(03:36) Introduction and Speaker Background
+
+(05:06) What is Intelligence?
+
+(07:06) Defining AI Agents
+
+(09:36) Structured AI Workflows
+
+(13:06) Autonomous Agent Examples (Part 1)
+
+(15:15) Sponsors: Google Gemini | Oracle Cloud Infrastructure
+
+(16:54) Autonomous Agent Examples (Part 2)
+
+(17:19) Agent Taxonomy Framework
+
+(19:49) Current AI Capabilities
+
+(22:19) Reinforcement Learning Revolution
+
+(25:49) Reward Hacking Problems
+
+(28:19) AI Safety Concerns
+
+(29:49) Business Recommendations
+
+(37:35) Sponsor: The AGNTCY</description>
+      <pubDate>Sat, 14 Jun 2025 15:32:00 -0000</pubDate>
+      <itunes:title>AI Scouting Report: AI Agents -vs- Agentic AI, from Imagine AI Live</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Erik Torenberg, Nathan Labenz</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/7a2332a4-492d-11f0-8102-7f6beda7327c/image/429afde34e1f507de386aae04dec6051.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>This episode features Nathan's talk from Imagine AI Live, where he provides business leaders with a comprehensive overview of AI agents and agentic AI systems.</itunes:subtitle>
+      <itunes:summary>This episode features Nathan's talk from Imagine AI Live, where he provides business leaders with a comprehensive overview of AI agents and agentic AI systems. He covers the evolution from simple task automation to more autonomous AI systems, delivers a practical roadmap for implementing AI agents in business while maintaining quality standards, and addresses concerning developments like reward hacking and scheming in frontier AI systems. The presentation balances accessible explanations for varying AI knowledge levels with rigorous grounding in current research and real-world applications. Nathan also discusses the "Eureka moments" these systems can deliver and provides frameworks for understanding the rapidly evolving landscape of AI agent capabilities.
+
+
+
+Link to the slide deck presented by Nathan : https://docs.google.com/presentation/d/1IpHitlG-6zHBd7hiWsbKpnprApVt3_2XHua3fG9n-Vw/edit?usp=sharing
+
+
+
+Sponsors:
+
+Google Gemini: Google Gemini features VEO3, a state-of-the-art AI video generation model in the Gemini app. Sign up at https://gemini.google.com 
+
+Oracle Cloud Infrastructure: Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at https://oracle.com/cognitive
+
+The AGNTCY: The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast
+
+PRODUCED BY:
+
+https://aipodcast.ing
+
+CHAPTERS:
+
+(00:00) Sponsor: Google Gemini
+
+(00:31) About the Episode
+
+(03:36) Introduction and Speaker Background
+
+(05:06) What is Intelligence?
+
+(07:06) Defining AI Agents
+
+(09:36) Structured AI Workflows
+
+(13:06) Autonomous Agent Examples (Part 1)
+
+(15:15) Sponsors: Google Gemini | Oracle Cloud Infrastructure
+
+(16:54) Autonomous Agent Examples (Part 2)
+
+(17:19) Agent Taxonomy Framework
+
+(19:49) Current AI Capabilities
+
+(22:19) Reinforcement Learning Revolution
+
+(25:49) Reward Hacking Problems
+
+(28:19) AI Safety Concerns
+
+(29:49) Business Recommendations
+
+(37:35) Sponsor: The AGNTCY</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>This episode features Nathan's talk from Imagine AI Live, where he provides business leaders with a comprehensive overview of AI agents and agentic AI systems. He covers the evolution from simple task automation to more autonomous AI systems, delivers a practical roadmap for implementing AI agents in business while maintaining quality standards, and addresses concerning developments like reward hacking and scheming in frontier AI systems. The presentation balances accessible explanations for varying AI knowledge levels with rigorous grounding in current research and real-world applications. Nathan also discusses the "Eureka moments" these systems can deliver and provides frameworks for understanding the rapidly evolving landscape of AI agent capabilities.</p>
+<p><br></p>
+<p>Link to the slide deck presented by Nathan : <a>https://docs.google.com/presentation/d/1IpHitlG-6zHBd7hiWsbKpnprApVt3_2XHua3fG9n-Vw/edit?usp=sharing</a></p>
+<p><br></p>
+<p><strong>Sponsors:</strong></p>
+<p><strong>Google Gemini:</strong> Google Gemini features VEO3, a state-of-the-art AI video generation model in the Gemini app. Sign up at <a href="https://gemini.google.com">https://gemini.google.com</a> </p>
+<p><strong>Oracle Cloud Infrastructure:</strong> Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at <a href="https://oracle.com/cognitive">https://oracle.com/cognitive</a></p>
+<p><strong>The AGNTCY:</strong> The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at <a href="https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast">https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast</a></p>
+<p><strong>PRODUCED BY:</strong></p>
+<p><a href="https://aipodcast.ing">https://aipodcast.ing</a></p>
+<p><strong>CHAPTERS:</strong></p>
+<p>(00:00) Sponsor: Google Gemini</p>
+<p>(00:31) About the Episode</p>
+<p>(03:36) Introduction and Speaker Background</p>
+<p>(05:06) What is Intelligence?</p>
+<p>(07:06) Defining AI Agents</p>
+<p>(09:36) Structured AI Workflows</p>
+<p>(13:06) Autonomous Agent Examples (Part 1)</p>
+<p>(15:15) Sponsors: Google Gemini | Oracle Cloud Infrastructure</p>
+<p>(16:54) Autonomous Agent Examples (Part 2)</p>
+<p>(17:19) Agent Taxonomy Framework</p>
+<p>(19:49) Current AI Capabilities</p>
+<p>(22:19) Reinforcement Learning Revolution</p>
+<p>(25:49) Reward Hacking Problems</p>
+<p>(28:19) AI Safety Concerns</p>
+<p>(29:49) Business Recommendations</p>
+<p>(37:35) Sponsor: The AGNTCY</p>]]>
+      </content:encoded>
+      <itunes:duration>2342</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[7a2332a4-492d-11f0-8102-7f6beda7327c]]></guid>
+      <enclosure url="https://pdst.fm/e/chrt.fm/track/993DGA/mgln.ai/e/1113/traffic.megaphone.fm/RINTP6903163868.mp3?updated=1749916043" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Decade of May 15-22, 2025: Google's 50X AI Growth &amp; Transformation with Logan Kilpatrick</title>
       <link>https://www.cognitiverevolution.ai</link>
       <description>Logan Kilpatrick from Google DeepMind returns for his fifth appearance to discuss Google’s transformation from "sleeping giant" to AI powerhouse, sharing insights from his year at the company as AI usage grew 50 times to 500 trillion tokens per month. He examines Google’s strengths, including superior compute infrastructure, frontier models like Gemini 2.5 Pro, viral products like NotebookLM, and the deepest AI research talent in the industry. The conversation covers whether leading AI companies will become more similar or different as easy opportunities disappear, why startups still have unique chances, and the potential impact of Google’s ultra-fast diffusion language models. Logan also shares practical advice for joining early access programs and getting noticed by industry insiders, including his personal email and an open invitation to reach out.

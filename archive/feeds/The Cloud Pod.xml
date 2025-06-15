@@ -18,7 +18,7 @@
 Every week, our expert hosts dissect the latest cloud-native architectures, emerging AI capabilities, and game-changing DevOps tooling that&#039;s reshaping the industry. From Kubernetes deep dives to AI integration strategies, and from Infrastructure-as-Code toolchains to serverless frameworks – nothing escapes their expert analysis.
 Whether you&#039;re wrestling with container orchestration, exploring AI service meshes, or navigating the complex world of cloud governance tools, The Cloud Pod transforms overwhelming technical noise into clear, actionable intelligence.
 Stay ahead of the curve where cloud innovation, AI acceleration, and cutting-edge tooling converge! Subscribe now to turn cloud complexity into your competitive advantage.</description>
-		<lastBuildDate>Fri, 06 Jun 2025 05:10:01 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 13 Jun 2025 17:19:16 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright>© 2025 The Cloud Pod</copyright>
 		<itunes:subtitle>A Weekly Recap of everything released by AWS, Azure and Google Cloud.</itunes:subtitle>
@@ -3781,6 +3781,61 @@ A big thanks to this week’s sponsor]]></itunes:subtitle>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:51:34</itunes:duration>
 	<itunes:author><![CDATA[Justin Brodley, Jonathan Baker, Ryan Lucas and Matthew Kohn]]></itunes:author>	<googleplay:image href="https://www.thecloudpod.net/wp-content/uploads/2021/04/114-cloud-pod-terraform-feature.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>307: The AI Assistant That Finally Understands Your Kubernetes Cluster (We are Doomed)</title>
+	<link>https://www.thecloudpod.net/podcast/307-ai-understand-kubernetes/</link>
+	<pubDate>Fri, 13 Jun 2025 10:19:16 +0000</pubDate>
+	<dc:creator><![CDATA[Justin Brodley, Jonathan Baker, Ryan Lucas and Matthew Kohn]]></dc:creator>
+	<guid isPermaLink="false">https://www.thecloudpod.net/?post_type=podcast&#038;p=21113</guid>
+	<description><![CDATA[<p>Welcome to episode 307 of The Cloud Pod &#8211; where the forecast is always cloudy! Who else is at a conference? Justin is coming to us this week from sunny San Diego where he’s attending FinOps &#8211; so we have that news to look forward to for next week. Matt and Ryan are also on hand today to share the latest news from Kubernetes, Salesforce acquisitions, and the strange case of Azure making AWS more cost effective.</p>
+<h3>Titles we almost went with this week:</h3>
+<ul>
+<li>The Great Redis Escape: One Year Later, Valkey is Living Its Best Life</li>
+<li>Cache Me If You Can: How Valkey Outran Redis&#8217;s License Policies</li>
+<li>Tier Today, Gone Tomorrow: AWS&#8217;s New Storage Class That Moves Your Data So  </li>
+<li>      You Don&#8217;t </li>
+<li>Hey AI, Deploy My App: AWS Makes It Actually Work</li>
+<li>AWS Finally Calculates What You&#8217;ll Actually Pay</li>
+<li>The Price is Right: AWS Edition</li>
+<li>From List Price to Real Price: AWS Gets Transparent</li>
+<li>Red Hat and AWS Sitting in a Tree, R-H-E-L-I-N-G</li>
+<li>Dockerfile? More Like Dockefile-It-For-Me with Amazon&#8217;s New MCP Server</li>
+<li>Elementary, My Dear Watson: Amazon Q Becomes Sherlock Holmes for AWS</li>
+<li>CUD You Believe It? Red Hat Gets the Discount Treatment</li>
+<li>Committed Relationship Status: It&#8217;s Complicated (But 20% Cheaper)</li>
+<li>RHEL Yeah! Google Drops Prices on Enterprise Linux</li>
+<li>Disk Today, Gone Tomorrow: Azure&#8217;s Vanishing OS Storage</li>
+<li>ATL1: Where GPUs Meet Sweet Tea and Southern Hospitality</li>
+<li>AWS Launches Operation Cloud Sovereignty</li>
+<li>The Great Firewall of Europe: AWS Edition</li>
+<li>Amazon Builds a GDPR Fortress in Germany</li>
+</ul>
+<h2>General News </h2>
+<p>01:46 <a href="https://venturebeat.com/data-infrastructure/what-salesforces-8b-acquisition-of-informatica-means-for-enterprise-data-and-ai/" rel="nofollow noopener" target="_blank">What Salesforce&#8217;s $8B acquisition of Informatica means for enterprise data </a><a href="https://venturebeat.com/data-infrastructure/what-salesforces-8b-acquisition-of-informatica-means-for-enterprise-data-and-ai/" rel="nofollow noopener" target="_blank">and AI | VentureBeat</a></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.salesforce.com/" rel="nofollow noopener" target="_blank">Salesforce</a> just dropped $8 billion to acquire <a href="https://www.informatica.com/" rel="nofollow noopener" target="_blank">Informatica</a>. </li>
+<li style="font-weight: 400;" aria-level="1">This purchase was really about building the data foundation needed for agentic AI to actually work in enterprise environments &#8211; we&#8217;re talking about combining Informatica&#8217;s 30 years of data management expertise with Salesforce&#8217;s cloud platform to create what they&#8217;re calling a &#8220;unified architecture for agentic AI.&#8221;</li>
+<li style="font-weight: 400;" aria-level="1">This acquisition fills a massive gap in Salesforce&#8217;s data management capabilities, bringing in critical pieces like data cataloging, integration, governance, quality controls, and master data management &#8211; all the unsexy but absolutely essential plumbing that makes AI agents trustworthy and scalable in real enterprise deployments.</li>
+<li style="font-weight: 400;" aria-level="1">The timing here is fascinating, because Informatica literally just announced their own agentic AI offerings last week at <a href="https://www.informaticaworld.com/" rel="nofollow noopener" target="_blank">Informatica World</a>, so Salesforce is essentially buying a company that&#8217;s already pivoted hard into the AI space &#8211; rather than trying to build these capabilities from scratch.</li>
+<li style="font-weight: 400;" aria-level="1">There&#8217;s going to be some interesting overlap with <a href="https://www.mulesoft.com/" rel="nofollow noopener" target="_blank">MuleSoft</a>, which Salesforce bought for $6.5 billion back in 2018, but analysts are s]]></description>
+	<itunes:subtitle><![CDATA[Welcome to episode 307 of The Cloud Pod &#8211; where the forecast is always cloudy! Who else is at a conference? Justin is coming to us this week from sunny San Diego where he’s attending FinOps &#8211; so we have that news to look forward to for next w]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[The AI Assistant That Finally Understands Your Kubernetes Cluster (We are Doomed)]]></itunes:title>
+	<itunes:episode>307</itunes:episode>
+	<enclosure url="https://www.thecloudpod.net/podcast-download/21113/307-ai-understand-kubernetes.mp3" length="85525216" type="audio/mpeg"></enclosure>
+	<itunes:image href="https://www.thecloudpod.net/wp-content/uploads/2025/06/307-kubernetes-cluster.jpg"></itunes:image>
+	<image>
+		<url>https://www.thecloudpod.net/wp-content/uploads/2025/06/307-kubernetes-cluster.jpg</url>
+		<title>307: The AI Assistant That Finally Understands Your Kubernetes Cluster (We are Doomed)</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:11:17</itunes:duration>
+	<itunes:author><![CDATA[Justin Brodley, Jonathan Baker, Ryan Lucas and Matthew Kohn]]></itunes:author>	<googleplay:image href="https://www.thecloudpod.net/wp-content/uploads/2025/06/307-kubernetes-cluster.jpg"></googleplay:image>
 	<googleplay:explicit>No</googleplay:explicit>
 	<googleplay:block>no</googleplay:block>
 </item>
