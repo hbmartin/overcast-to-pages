@@ -18,8 +18,8 @@
     <podcast:person role="Host" href="https://matthewsanabria.dev/" img="https://img.transistor.fm/-HfU6xRPhAwEKcCd-HFzZzrl28WLDJwsLqvV-XENKfQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MWNh/ZmMwMDQ1NjA0MDg4/MTk0ZTdhMDk1ZDI2/MmM1ZC5qcGc.jpg">Matthew Sanabria</podcast:person>
     <podcast:trailer pubdate="Tue, 03 Dec 2024 14:04:59 -0500" url="https://media.transistor.fm/0c27a226/552f8c82.mp3" length="7581389" type="audio/mpeg">Falling Through: The Trailer</podcast:trailer>
     <language>en</language>
-    <pubDate>Mon, 09 Jun 2025 08:00:23 -0400</pubDate>
-    <lastBuildDate>Mon, 09 Jun 2025 08:01:56 -0400</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 08:00:59 -0400</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2025 08:02:33 -0400</lastBuildDate>
     <link>https://fallthrough.fm</link>
     <image>
       <url>https://img.transistor.fm/fl9hYccb1GmNMcyZ9Gdula_lsNfDOCmBuAHHKy3ytMs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ZWUw/NTFjMmEwMDYwMjdm/MDFjNGRmMThlMWUz/NjQxNC5wbmc.jpg</url>
@@ -39,6 +39,91 @@
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Go's Error Handling Is Handled</title>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:title>Go's Error Handling Is Handled</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4139dc04-26d5-4fd4-8b3f-4b688285b4cb</guid>
+      <link>https://share.transistor.fm/s/4aed7ba6</link>
+      <description>
+        <![CDATA[<p>Error handling in Go is one of the language's most controversial topics. It ranks high in each Go Developer Survey and many different people have proposed many different solutions to the perceived problems. The Go Team's stance on error handling as a problem in need of a fix has changed recently, with a declaration that no proposals will be accepted for changes to Go's error handling syntax. In this episode, Kris is joined by Ian and Matt to discuss this news. They talk about whether error handling has ever actually been a problem, what the Go team actually is, and the benefits of deciding not to provided syntactic support for error handling.</p><p>For our supporters, this episode contains an extended discussion. Get access by signing up at <a href="https://fallthrough.fm/subscribe">https://fallthrough.fm/subscribe</a>.</p><p>Thanks for tuning in and happy listening!</p><p>Notes:</p><ul><li><a href="https://go.dev/blog/error-syntax">[ On | No ] syntactic support for error handling</a></li><li><a href="https://github.com/golang/go/issues/71203">#71203 proposal: spec: reduce error handling boilerplate using ?</a></li><li><a href="https://github.com/golang/go/discussions/71460">#71460 discussion: spec: reduce error handling boilerplate using ?</a></li><li><a href="https://go.dev/wiki/SliceTricks">Go Wiki: SliceTricks</a></li><li><a href="https://pkg.go.dev/slices">slices package</a></li><li><a href="https://pkg.go.dev/maps">maps package</a></li><li><a href="https://bsky.app/profile/skriptble.me/post/3lr76iwi6b22j">skriptble's Bluesky post on AI hype</a></li><li><a href="https://github.com/golang/go/issues/19623">#19623 proposal: spec: change int to be arbitrary precision</a></li></ul><p><br></p><p>Table of Contents:</p><ul><li>Prologue (02:32)</li><li>Chapter 1: It's Fine. (04:03)</li><li>Chapter 2: But What Are Errors? (09:19)</li><li>Chapter 3: Who's Responsible For Solving Problems? (26:53)</li><li>Chapter 4: We Should Panic (38:24)</li><li>Chapter 5: Go Is A Low Level Language (41:32) [Supporter Only]</li><li>Chapter 6: What Is The Go Team? (41:56)</li><li>Chapter 7: What's Next for Go? (50:41)</li><li>Chapter 8: Boundaries &amp; Backpressure (59:08)</li><li>Appendix UNPOP: Unpopular Proposals (59:39) [Supporter Only]</li><li>Appendix WASM: The New FFI (59:43)</li><li>Epilogue (01:05:36)</li></ul><p><strong>Hosts</strong>
+</p><ul>
+  <li><a href="https://fallthrough.transistor.fm/people/kris-brandow">Kris Brandow</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/ian-wester-lopshire">Ian Wester-Lopshire</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/matthew-sanabria">Matthew Sanabria</a> - Host</li>
+</ul><br>Socials:<ul><li><a href="https://fallthrough.fm/">Website</a></li><li><a href="https://bsky.app/profile/fallthrough.fm">Bluesky</a></li><li><a href="https://www.threads.net/@fallthroughfm">Threads</a></li><li><a href="https://x.com/fallthroughfm">X/Twitter</a></li><li><a href="https://linkedin.com/company/fallthrough">LinkedIn</a></li><li><a href="https://www.instagram.com/fallthroughfm/">Instagram</a></li></ul>
+<ul><li>(02:32) - Prologue</li>
+<li>(04:03) - Chapter 1: It's Fine.</li>
+<li>(09:19) - Chapter 2: But What Are Errors?</li>
+<li>(26:53) - Chapter 3: Who's Responsible For Solving Problems?</li>
+<li>(38:24) - Chapter 4: We Should Panic</li>
+<li>(41:32) - Chapter 5: Go Is A Low Level Language [Supporter Only]</li>
+<li>(41:56) - Chapter 6: What Is The Go Team?</li>
+<li>(50:41) - Chapter 7: What's Next for Go?</li>
+<li>(59:08) - Chapter 8: Boundaries &amp; Backpressure</li>
+<li>(59:39) - Appendix UNPOP: Unpopular Proposals [Supporter Only]</li>
+<li>(59:43) - Appendix WASM: The New FFI</li>
+<li>(01:05:36) - Epilogue</li>
+</ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Error handling in Go is one of the language's most controversial topics. It ranks high in each Go Developer Survey and many different people have proposed many different solutions to the perceived problems. The Go Team's stance on error handling as a problem in need of a fix has changed recently, with a declaration that no proposals will be accepted for changes to Go's error handling syntax. In this episode, Kris is joined by Ian and Matt to discuss this news. They talk about whether error handling has ever actually been a problem, what the Go team actually is, and the benefits of deciding not to provided syntactic support for error handling.</p><p>For our supporters, this episode contains an extended discussion. Get access by signing up at <a href="https://fallthrough.fm/subscribe">https://fallthrough.fm/subscribe</a>.</p><p>Thanks for tuning in and happy listening!</p><p>Notes:</p><ul><li><a href="https://go.dev/blog/error-syntax">[ On | No ] syntactic support for error handling</a></li><li><a href="https://github.com/golang/go/issues/71203">#71203 proposal: spec: reduce error handling boilerplate using ?</a></li><li><a href="https://github.com/golang/go/discussions/71460">#71460 discussion: spec: reduce error handling boilerplate using ?</a></li><li><a href="https://go.dev/wiki/SliceTricks">Go Wiki: SliceTricks</a></li><li><a href="https://pkg.go.dev/slices">slices package</a></li><li><a href="https://pkg.go.dev/maps">maps package</a></li><li><a href="https://bsky.app/profile/skriptble.me/post/3lr76iwi6b22j">skriptble's Bluesky post on AI hype</a></li><li><a href="https://github.com/golang/go/issues/19623">#19623 proposal: spec: change int to be arbitrary precision</a></li></ul><p><br></p><p>Table of Contents:</p><ul><li>Prologue (02:32)</li><li>Chapter 1: It's Fine. (04:03)</li><li>Chapter 2: But What Are Errors? (09:19)</li><li>Chapter 3: Who's Responsible For Solving Problems? (26:53)</li><li>Chapter 4: We Should Panic (38:24)</li><li>Chapter 5: Go Is A Low Level Language (41:32) [Supporter Only]</li><li>Chapter 6: What Is The Go Team? (41:56)</li><li>Chapter 7: What's Next for Go? (50:41)</li><li>Chapter 8: Boundaries &amp; Backpressure (59:08)</li><li>Appendix UNPOP: Unpopular Proposals (59:39) [Supporter Only]</li><li>Appendix WASM: The New FFI (59:43)</li><li>Epilogue (01:05:36)</li></ul><p><strong>Hosts</strong>
+</p><ul>
+  <li><a href="https://fallthrough.transistor.fm/people/kris-brandow">Kris Brandow</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/ian-wester-lopshire">Ian Wester-Lopshire</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/matthew-sanabria">Matthew Sanabria</a> - Host</li>
+</ul><br>Socials:<ul><li><a href="https://fallthrough.fm/">Website</a></li><li><a href="https://bsky.app/profile/fallthrough.fm">Bluesky</a></li><li><a href="https://www.threads.net/@fallthroughfm">Threads</a></li><li><a href="https://x.com/fallthroughfm">X/Twitter</a></li><li><a href="https://linkedin.com/company/fallthrough">LinkedIn</a></li><li><a href="https://www.instagram.com/fallthroughfm/">Instagram</a></li></ul>
+<ul><li>(02:32) - Prologue</li>
+<li>(04:03) - Chapter 1: It's Fine.</li>
+<li>(09:19) - Chapter 2: But What Are Errors?</li>
+<li>(26:53) - Chapter 3: Who's Responsible For Solving Problems?</li>
+<li>(38:24) - Chapter 4: We Should Panic</li>
+<li>(41:32) - Chapter 5: Go Is A Low Level Language [Supporter Only]</li>
+<li>(41:56) - Chapter 6: What Is The Go Team?</li>
+<li>(50:41) - Chapter 7: What's Next for Go?</li>
+<li>(59:08) - Chapter 8: Boundaries &amp; Backpressure</li>
+<li>(59:39) - Appendix UNPOP: Unpopular Proposals [Supporter Only]</li>
+<li>(59:43) - Appendix WASM: The New FFI</li>
+<li>(01:05:36) - Epilogue</li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 16 Jun 2025 08:00:00 -0400</pubDate>
+      <author>Fallthrough Media</author>
+      <enclosure url="https://media.transistor.fm/4aed7ba6/338afb74.mp3" length="66822683" type="audio/mpeg"/>
+      <itunes:author>Fallthrough Media</itunes:author>
+      <itunes:image href="https://img.transistor.fm/6h9rkvGIAaB15sT08Bkrp1ZYPJc32miDj9Envdc90BM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Zjk1/MzlhYmFkNmRmODg2/MGIxMWJiZDkzNjI1/MWU5MS5wbmc.jpg"/>
+      <itunes:duration>4172</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Error handling in Go is one of the language's most controversial topics. It ranks high in each Go Developer Survey and many different people have proposed many different solutions to the perceived problems. The Go Team's stance on error handling as a problem in need of a fix has changed recently, with a declaration that no proposals will be accepted for changes to Go's error handling syntax. In this episode, Kris is joined by Ian and Matt to discuss this news. They talk about whether error handling has ever actually been a problem, what the Go team actually is, and the benefits of deciding not to provided syntactic support for error handling.</p><p>For our supporters, this episode contains an extended discussion. Get access by signing up at <a href="https://fallthrough.fm/subscribe">https://fallthrough.fm/subscribe</a>.</p><p>Thanks for tuning in and happy listening!</p><p>Notes:</p><ul><li><a href="https://go.dev/blog/error-syntax">[ On | No ] syntactic support for error handling</a></li><li><a href="https://github.com/golang/go/issues/71203">#71203 proposal: spec: reduce error handling boilerplate using ?</a></li><li><a href="https://github.com/golang/go/discussions/71460">#71460 discussion: spec: reduce error handling boilerplate using ?</a></li><li><a href="https://go.dev/wiki/SliceTricks">Go Wiki: SliceTricks</a></li><li><a href="https://pkg.go.dev/slices">slices package</a></li><li><a href="https://pkg.go.dev/maps">maps package</a></li><li><a href="https://bsky.app/profile/skriptble.me/post/3lr76iwi6b22j">skriptble's Bluesky post on AI hype</a></li><li><a href="https://github.com/golang/go/issues/19623">#19623 proposal: spec: change int to be arbitrary precision</a></li></ul><p><br></p><p>Table of Contents:</p><ul><li>Prologue (02:32)</li><li>Chapter 1: It's Fine. (04:03)</li><li>Chapter 2: But What Are Errors? (09:19)</li><li>Chapter 3: Who's Responsible For Solving Problems? (26:53)</li><li>Chapter 4: We Should Panic (38:24)</li><li>Chapter 5: Go Is A Low Level Language (41:32) [Supporter Only]</li><li>Chapter 6: What Is The Go Team? (41:56)</li><li>Chapter 7: What's Next for Go? (50:41)</li><li>Chapter 8: Boundaries &amp; Backpressure (59:08)</li><li>Appendix UNPOP: Unpopular Proposals (59:39) [Supporter Only]</li><li>Appendix WASM: The New FFI (59:43)</li><li>Epilogue (01:05:36)</li></ul><p><strong>Hosts</strong>
+</p><ul>
+  <li><a href="https://fallthrough.transistor.fm/people/kris-brandow">Kris Brandow</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/ian-wester-lopshire">Ian Wester-Lopshire</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/matthew-sanabria">Matthew Sanabria</a> - Host</li>
+</ul><br>Socials:<ul><li><a href="https://fallthrough.fm/">Website</a></li><li><a href="https://bsky.app/profile/fallthrough.fm">Bluesky</a></li><li><a href="https://www.threads.net/@fallthroughfm">Threads</a></li><li><a href="https://x.com/fallthroughfm">X/Twitter</a></li><li><a href="https://linkedin.com/company/fallthrough">LinkedIn</a></li><li><a href="https://www.instagram.com/fallthroughfm/">Instagram</a></li></ul>
+<ul><li>(02:32) - Prologue</li>
+<li>(04:03) - Chapter 1: It's Fine.</li>
+<li>(09:19) - Chapter 2: But What Are Errors?</li>
+<li>(26:53) - Chapter 3: Who's Responsible For Solving Problems?</li>
+<li>(38:24) - Chapter 4: We Should Panic</li>
+<li>(41:32) - Chapter 5: Go Is A Low Level Language [Supporter Only]</li>
+<li>(41:56) - Chapter 6: What Is The Go Team?</li>
+<li>(50:41) - Chapter 7: What's Next for Go?</li>
+<li>(59:08) - Chapter 8: Boundaries &amp; Backpressure</li>
+<li>(59:39) - Appendix UNPOP: Unpopular Proposals [Supporter Only]</li>
+<li>(59:43) - Appendix WASM: The New FFI</li>
+<li>(01:05:36) - Epilogue</li>
+</ul>]]>
+      </itunes:summary>
+      <itunes:keywords>Go, Golang, Programming, Technology, Software, Software Development, Software Engineering</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://skriptble.press" img="https://img.transistor.fm/9GrH7U3vA8FDR0PIW_iGkV-NspMkcK40wsA1IIaD93E/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Y2U2/YjFmOWZiNzg2Yzhi/N2RlMzNlNTgxYTlm/ZjNmNi5KUEc.jpg">Kris Brandow</podcast:person>
+      <podcast:person role="Host" href="https://fallthrough.transistor.fm/people/ian-wester-lopshire" img="https://img.transistor.fm/bzpBAMEGLMay7vL2entkiIL3sjFqC0HybfK08pJrIn4/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMWNl/NjljNDNiNzY1MjQ5/NmM1ZTZlOWQzZmQw/ZTFkYS5qcGVn.jpg">Ian Wester-Lopshire</podcast:person>
+      <podcast:person role="Host" href="https://matthewsanabria.dev/" img="https://img.transistor.fm/-HfU6xRPhAwEKcCd-HFzZzrl28WLDJwsLqvV-XENKfQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MWNh/ZmMwMDQ1NjA0MDg4/MTk0ZTdhMDk1ZDI2/MmM1ZC5qcGc.jpg">Matthew Sanabria</podcast:person>
+      <podcast:chapters url="https://share.transistor.fm/s/4aed7ba6/chapters.json" type="application/json+chapters"/>
+      <podcast:socialInteract protocol="atproto" uri="at://did:plc:5us6v2xizw73xaafpqgf6orb/app.bsky.feed.post/3lrpwn5f2ml2d"/>
+    </item>
     <item>
       <title>A Discourse On AI Discourse</title>
       <itunes:episode>23</itunes:episode>

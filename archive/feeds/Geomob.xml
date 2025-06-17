@@ -10,7 +10,7 @@
         <atom:link href="https://feeds.castos.com/5z30" rel="self" type="application/rss+xml" />
         <link>https://thegeomob.com/podcast</link>
         <description>Geoinnovation - for fun or profit</description>
-        <lastBuildDate>Sun, 08 Jun 2025 18:47:07 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 06:48:20 +0000</lastBuildDate>
         <language>en</language>
         <copyright>© 2023</copyright>
         
@@ -42,6 +42,45 @@
         
         <podcast:locked>yes</podcast:locked>
                                     <item>
+                <title>
+                    <![CDATA[Luís de Sousa: Discrete Global Grid Systems]]>
+                </title>
+                <pubDate>Mon, 16 Jun 2025 06:48:20 +0000</pubDate>
+                <dc:creator>Ed Freyfogle</dc:creator>
+                <guid isPermaLink="false">
+                    https://permalink.castos.com/podcast/5338/episode/2066335</guid>
+                                    <link>https://thegeomob.com/podcast/episode-290</link>
+                                <description>
+                                            <![CDATA[<p><span>Ed interviews Luís de Sousa about Discrete Global Grid Systems (DGGS), a transformative technology in the field of GIS. Luis explains the concept of DGGS, its historical context, and its significance in providing a more regular and usable partition of the Earth's surface compared to traditional latitude and longitude systems. The conversation covers the evolution of DGGS, its applications in various fields, particularly in environmental monitoring and data science, and the challenges faced by existing systems like H3. Luis emphasises the importance of community involvement in developing DGGS standards and tools.<br /><br /></span><a href="https://thegeomob.com/podcast/episode-290">Show notes on the Geomob website</a>, where you can also learn more about Geomob events and sign up for our monthly newsletter.</p>
+<p> </p>]]>
+                                    </description>
+                <itunes:subtitle>
+                    <![CDATA[Ed interviews Luís de Sousa about Discrete Global Grid Systems (DGGS), a transformative technology in the field of GIS. Luis explains the concept of DGGS, its historical context, and its significance in providing a more regular and usable partition of the Earth's surface compared to traditional latitude and longitude systems. The conversation covers the evolution of DGGS, its applications in various fields, particularly in environmental monitoring and data science, and the challenges faced by existing systems like H3. Luis emphasises the importance of community involvement in developing DGGS standards and tools.Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.
+ ]]>
+                </itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title>
+                    <![CDATA[Luís de Sousa: Discrete Global Grid Systems]]>
+                </itunes:title>
+                                    <itunes:episode>290</itunes:episode>
+                                                <itunes:explicit>false</itunes:explicit>
+                <content:encoded>
+                    <![CDATA[<p><span>Ed interviews Luís de Sousa about Discrete Global Grid Systems (DGGS), a transformative technology in the field of GIS. Luis explains the concept of DGGS, its historical context, and its significance in providing a more regular and usable partition of the Earth's surface compared to traditional latitude and longitude systems. The conversation covers the evolution of DGGS, its applications in various fields, particularly in environmental monitoring and data science, and the challenges faced by existing systems like H3. Luis emphasises the importance of community involvement in developing DGGS standards and tools.<br /><br /></span><a href="https://thegeomob.com/podcast/episode-290">Show notes on the Geomob website</a>, where you can also learn more about Geomob events and sign up for our monthly newsletter.</p>
+<p> </p>]]>
+                </content:encoded>
+                                    <enclosure url="https://episodes.castos.com/5e2e9055a029d5-78101471/2066335/c1e-0452skjvq7aj6752-6zo26rx3uj74-wcdcsc.mp3" length="80566773"
+                        type="audio/mpeg">
+                    </enclosure>
+                                <itunes:summary>
+                    <![CDATA[Ed interviews Luís de Sousa about Discrete Global Grid Systems (DGGS), a transformative technology in the field of GIS. Luis explains the concept of DGGS, its historical context, and its significance in providing a more regular and usable partition of the Earth's surface compared to traditional latitude and longitude systems. The conversation covers the evolution of DGGS, its applications in various fields, particularly in environmental monitoring and data science, and the challenges faced by existing systems like H3. Luis emphasises the importance of community involvement in developing DGGS standards and tools.Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.
+ ]]>
+                </itunes:summary>
+                                                                            <itunes:duration>00:33:34</itunes:duration>
+                                                    <itunes:author>
+                    <![CDATA[Ed Freyfogle]]>
+                </itunes:author>
+                            </item>
+                    <item>
                 <title>
                     <![CDATA[Ed/Steven: BER summary / general updates]]>
                 </title>
@@ -7999,53 +8038,6 @@ Show notes on the Geomob website, where you can also learn more about Geomob eve
                 </itunes:summary>
                                     <itunes:image href="https://episodes.castos.com/5e2e9055a029d5-78101471/images/a-map-of-every-city.png"></itunes:image>
                                                                             <itunes:duration>00:28:04</itunes:duration>
-                                                    <itunes:author>
-                    <![CDATA[Ed Freyfogle]]>
-                </itunes:author>
-                            </item>
-                    <item>
-                <title>
-                    <![CDATA[Ed Fairburn: Topopointillism]]>
-                </title>
-                <pubDate>Mon, 23 Aug 2021 13:48:00 +0000</pubDate>
-                <dc:creator>Ed Freyfogle</dc:creator>
-                <guid isPermaLink="false">
-                    https://geomob-podcast.castos.com/podcasts/5338/episodes/ed-fairburn-topopointillism</guid>
-                                <description>
-                                            <![CDATA[<p>Steven speaks with artist <a href="https://edfairburn.com">Ed Fairburn</a> about his distinctive artistic style, which he calls "topopointillism; a direct combination of topography and pointillism". This is a fascinating look at the process behind a unique map-based artistic style.</p>
-<div class="pt10">Before listening to this episode we highly recommend you check out Ed's fantastic work over at <a href="https://edfairburn.com">edfairburn.com</a></div>
-<div class="pt10"> </div>
-<div class="pt10"><a href="https://thegeomob.com/podcast/episode-90">Show notes on the Geomob website</a>, where you can also learn more about Geomob events and sign up for our monthly newsletter.</div>]]>
-                                    </description>
-                <itunes:subtitle>
-                    <![CDATA[Steven speaks with artist Ed Fairburn about his distinctive artistic style, which he calls "topopointillism; a direct combination of topography and pointillism". This is a fascinating look at the process behind a unique map-based artistic style.
-Before listening to this episode we highly recommend you check out Ed's fantastic work over at edfairburn.com
- 
-Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.]]>
-                </itunes:subtitle>
-                                    <itunes:episodeType>full</itunes:episodeType>
-                                <itunes:title>
-                    <![CDATA[Ed Fairburn: Topopointillism]]>
-                </itunes:title>
-                                    <itunes:episode>90</itunes:episode>
-                                                <itunes:explicit>false</itunes:explicit>
-                <content:encoded>
-                    <![CDATA[<p>Steven speaks with artist <a href="https://edfairburn.com">Ed Fairburn</a> about his distinctive artistic style, which he calls "topopointillism; a direct combination of topography and pointillism". This is a fascinating look at the process behind a unique map-based artistic style.</p>
-<div class="pt10">Before listening to this episode we highly recommend you check out Ed's fantastic work over at <a href="https://edfairburn.com">edfairburn.com</a></div>
-<div class="pt10"> </div>
-<div class="pt10"><a href="https://thegeomob.com/podcast/episode-90">Show notes on the Geomob website</a>, where you can also learn more about Geomob events and sign up for our monthly newsletter.</div>]]>
-                </content:encoded>
-                                    <enclosure url="https://episodes.castos.com/5e2e9055a029d5-78101471/Geomob-Podcast-Ep-89.mp3" length="39027930"
-                        type="audio/mpeg">
-                    </enclosure>
-                                <itunes:summary>
-                    <![CDATA[Steven speaks with artist Ed Fairburn about his distinctive artistic style, which he calls "topopointillism; a direct combination of topography and pointillism". This is a fascinating look at the process behind a unique map-based artistic style.
-Before listening to this episode we highly recommend you check out Ed's fantastic work over at edfairburn.com
- 
-Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.]]>
-                </itunes:summary>
-                                    <itunes:image href="https://episodes.castos.com/5e2e9055a029d5-78101471/images/Bildschirmfoto-2021-08-23-um-15.43.45.png"></itunes:image>
-                                                                            <itunes:duration>00:27:02</itunes:duration>
                                                     <itunes:author>
                     <![CDATA[Ed Freyfogle]]>
                 </itunes:author>

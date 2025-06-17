@@ -4,7 +4,7 @@
 		<description><![CDATA[The Infra Pod brings you insightful and thought-provoking discussions on the world of infrastructure software. This podcast is started by two engineers, Ian Livingstone (tech advisor for Snyk) and Tim Chen (General Partner at Essence VC), team up with a rotating cast of guests to dive deep into the latest trends and hot topics in the software infrastructure space.]]></description>
 		<link>http://infrapod.io</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 10 Jun 2025 07:34:17 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Jun 2025 16:32:10 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/e25182bc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[The Infra Pod]]></author>
 		<copyright><![CDATA[The Infra Pod]]></copyright>
@@ -20,6 +20,22 @@
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+		<item>
+			<title><![CDATA[How is AI changing the security in modern fintech? Chat with Branden (Head of Infosec) from Mercury]]></title>
+			<description><![CDATA[<p>In this episode of The Infra Pod, Tim (Essence VC) and Ian (Keycard) are joined by Branden Wagner, Head of Information Security at Mercury. They delve into the nuances of Information Security, discuss the interplay between human and technical controls, and explore the evolving role of AI in security. Wagner shares insights on fostering a collaborative culture and building secure systems, providing valuable advice for both engineers and security professionals.</p><p><br></p><p>00:00 Introduction and Guest Welcome</p><p>01:07 The Importance of Security Culture</p><p>04:40 Building Collaborative Security Programs</p><p>10:54 Integrating Security into Business Practices</p><p>21:30 The Role of AI in Information Security</p><p>32:22 Spicy Future: The Impact and Limitations of AI</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/yet-another-infra/episodes/How-is-AI-changing-the-security-in-modern-fintech--Chat-with-Branden-Head-of-Infosec-from-Mercury-e33825o</link>
+			<guid isPermaLink="false">632a7293-16d6-4d5d-8520-1e772fa26238</guid>
+			<dc:creator><![CDATA[The Infra Pod]]></dc:creator>
+			<pubDate>Mon, 16 Jun 2025 16:29:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e25182bc/podcast/play/103073400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-22%2Fc0f8c18e-615a-fa5f-287d-f7a86d55d186.mp3" length="93513296" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of The Infra Pod, Tim (Essence VC) and Ian (Keycard) are joined by Branden Wagner, Head of Information Security at Mercury. They delve into the nuances of Information Security, discuss the interplay between human and technical controls, and explore the evolving role of AI in security. Wagner shares insights on fostering a collaborative culture and building secure systems, providing valuable advice for both engineers and security professionals.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;00:00 Introduction and Guest Welcome&lt;/p&gt;&lt;p&gt;01:07 The Importance of Security Culture&lt;/p&gt;&lt;p&gt;04:40 Building Collaborative Security Programs&lt;/p&gt;&lt;p&gt;10:54 Integrating Security into Business Practices&lt;/p&gt;&lt;p&gt;21:30 The Role of AI in Information Security&lt;/p&gt;&lt;p&gt;32:22 Spicy Future: The Impact and Limitations of AI&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:38:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37869927/37869927-1733103138770-9931efd2ac1e5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Helping enterprises to adopt AI the real way - Chat with Hamel Hussain]]></title>
 			<description><![CDATA[<p>Ian and Tim host a conversation with Hamel Husain, an AI influencer and consultant who has worked with major tech companies like GitHub and Airbnb. They delve into Husain&#39;s journey to becoming an independent consultant, his insights on the common struggles with AI evaluation and data literacy, and his pragmatic approach to improving AI systems. The discussion also covers the importance of error analysis, measuring AI performance, and the evolving role of AI engineering in enhancing software development.00:23 Hamel&#39;s Background in AI and Machine Learning01:18 Challenges in AI and Machine Learning02:15 Importance of Data Literacy in AI04:02 Common Struggles in AI Development05:05 The Role of AI Engineers08:39 Focus on Processes Over Tools11:10 Error Analysis and Practical Examples15:52 Case Study: Improving AI Products26:05 The Role of Agents in AI</p>
