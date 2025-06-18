@@ -7,9 +7,9 @@
     <language>en-us</language>
     <copyright><![CDATA[Sharp Tech Podcast LLC]]></copyright>
     <managingEditor>email@sharptech.fm (Andrew Sharp and Ben Thompson)</managingEditor>
-    <webMaster>webmaster@sharptech.fm (Ben Thompson)</webMaster>
-    <pubDate>Thu, 12 Jun 2025 14:06:25 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 14:08:49 +0000</lastBuildDate>
+    <webMaster>webmaster@sharptech.fm (Andrew Sharp and Ben Thompson)</webMaster>
+    <pubDate>Tue, 17 Jun 2025 14:30:36 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 21:04:33 +0000</lastBuildDate>
     <category>Technology</category>
     <ttl>60</ttl>
     <image>
@@ -17,6 +17,46 @@
       <title>Sharp Tech with Ben Thompson</title>
       <link>https://sharptech.fm</link>
     </image>
+    <item>
+      <title>(Preview) The Futures for Cursor and Perplexity, Multi Modality Dreams and Apple Possibilities, Normies Contemplate an AI Future</title>
+      <link>https://sharptech.fm/member/episode/preview-the-futures-for-cursor-and-perplexity-multi-modality-dreams-and-apple-possibilities-normies-contemplate-an-ai-future</link>
+      <description>As the dust settles after keynote season, Ben and Andrew answer mailbag questions and talk through the future prospects for Cursor and Perplexity, multi-modality possibilities for AI devices, Apple&#39;s advantages if they deepen their partnership with OpenAI, more on Meta&#39;s investment in Scale AI, the business logic of chasing superintelligence, and takes on an AI conversation between Bill Simmons and Chuck Klosterman. </description>
+      <content:encoded><![CDATA[<p>
+As the dust settles after keynote season, Ben and Andrew answer mailbag questions and talk through the future prospects for Cursor and Perplexity, multi-modality possibilities for AI devices, Apple&#39;s advantages if they deepen their partnership with OpenAI, more on Meta&#39;s investment in Scale AI, the business logic of chasing superintelligence, and takes on an AI conversation between Bill Simmons and Chuck Klosterman. </p>
+<p>To email the show: <a href="mailto:email@sharptech.fm">email@sharptech.fm</a></p>
+
+<hr/>
+
+<p>@SharpTechPodcast Channel — <a href="https://www.youtube.com/@SharpTechPodcast">YouTube</a></p>
+
+<p>@Stratechery Channel — <a href="https://www.youtube.com/@Stratechery">YouTube</a></p>
+
+<hr/>
+
+<p>An Interview with Cursor Co-Founder and CEO Michael Truell About Coding With AI — <a href="https://stratechery.com/2025/an-interview-with-cursor-co-founder-and-ceo-michael-truell-about-coding-with-ai/">Stratechery Interview</a></p>
+
+<p>Chuck Klosterman on the NBA Finals, a Rival League, the Sonics, ‘The Rehearsal,’ Cooper Flagg, and the Fear of AI — <a href="https://www.theringer.com/podcasts/the-bill-simmons-podcast/2025/06/10/chuck-klosterman-on-the-nba-finals-a-rival-league-the-sonics-the-rehearsal-cooper-flagg-and-the-fear-of-ai">The Bill Simmons Podcast</a></p>
+
+<p>Nvidia’s Jensen Huang says he disagrees with almost everything Anthropic CEO Dario Amodei says — <a href="https://fortune.com/2025/06/11/nvidia-jensen-huang-disagress-anthropic-ceo-dario-amodei-ai-jobs/">Fortune</a></p>
+
+<p>Regretful Accelerationism — [Stratechery](https://stratechery.com/2023/regretful-accelerationism/</p>
+<hr/>
+
+<p>Get all episodes of Sharp Tech, Sharp China, Stratechery Updates and Interviews, Greatest of All Talk, Asianometry and the Dithering Podcast as part of <a href="https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG">Stratechery Plus</a> for $15/month or $150/year.</p>]]></content:encoded>
+      <author>Andrew Sharp and Ben Thompson</author>
+      <enclosure url="https://sharptech.fm/assets/sharptech0233_preview.mp3?access_token=WtLvUDEHgB7rE4MbAfmDVT" length="11688928" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="true">https://sharptech.fm/member/episode/preview-the-futures-for-cursor-and-perplexity-multi-modality-dreams-and-apple-possibilities-normies-contemplate-an-ai-future</guid>
+      <pubDate>Tue, 17 Jun 2025 14:30:36 +0000</pubDate>
+      <atomic:distribution id="CQDyX3U4S2dwwYesnyUCt" article="CQDyTeweG7waoB3EcuAcu" template="9yW2u115pMenFrEKqdKPEW" audience="4c7ZXpgqCGPHfUcjX3Mcoc" asset="CQDyMAYvGMhcZedGBwZ8R">
+        <atomic:distroDate>Tue, 17 Jun 2025 14:46:48 +0000</atomic:distroDate>
+        <atomic:categories>
+          <atomic:category id="6PY3ZUwyC2b5KGPmqB2H1w" name="itunes-episodes"></atomic:category>
+        </atomic:categories>
+      </atomic:distribution>
+      <itunes:author>Andrew Sharp and Ben Thompson</itunes:author>
+      <itunes:duration>00:11:39</itunes:duration>
+      <itunes:summary>As the dust settles after keynote season, Ben and Andrew answer mailbag questions and talk through the future prospects for Cursor and Perplexity, multi-modality possibilities for AI devices, Apple&#39;s advantages if they deepen their partnership with OpenAI, more on Meta&#39;s investment in Scale AI, the business logic of chasing superintelligence, and takes on an AI conversation between Bill Simmons and Chuck Klosterman. </itunes:summary>
+    </item>
     <item>
       <title>Apple’s WWDC Retreat, Liquid Glass and One Question, Meta Puts $14.8 Billion Toward an AI Reset</title>
       <link>https://sharptech.fm/member/episode/apples-wwdc-retreat-liquid-glass-and-one-question-meta-puts-14-8-billion-toward-an-ai-reset</link>
@@ -8763,14 +8803,14 @@ The eleventh hour agreement between Charter and Disney, why Charter was the clea
     <itunes:image href="https://sharptech.fm/assets/Sharp%20Tech%20-%20Black.png"></itunes:image>
     <atom:link href="https://sharptech.fm/feed/podcast/WtLvUDEHgB7rE4MbAfmDVT" rel="self" type="application/rss+xml"></atom:link>
     <itunes:owner>
-      <itunes:name>Ben Thompson</itunes:name>
+      <itunes:name>Andrew Sharp and Ben Thompson</itunes:name>
       <itunes:email>webmaster@sharptech.fm</itunes:email>
     </itunes:owner>
-    <itunes:author>Ben Thompson</itunes:author>
+    <itunes:author>Andrew Sharp and Ben Thompson</itunes:author>
     <atomic:instance id="6vy7SsfMZpRFMRsv1im5eU" build="4761d1eb" version="v1.1.8-patch.1"></atomic:instance>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <sy:updateBase>2025-06-12 14:08:24 +0000 UTC</sy:updateBase>
+    <sy:updateBase>2025-06-17 14:46:48 +0000 UTC</sy:updateBase>
     <itunes:subtitle>How technology works, and the ways it is impacting the world</itunes:subtitle>
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>

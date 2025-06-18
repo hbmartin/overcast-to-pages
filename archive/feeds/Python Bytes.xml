@@ -12,8 +12,8 @@
         <link>https://pythonbytes.fm/</link>
         <language>en-us</language>
         <copyright>Copyright 2016-2025</copyright>
-        <lastBuildDate>Mon, 09 Jun 2025 00:00:00 -0800</lastBuildDate>
-        <pubDate>Mon, 09 Jun 2025 00:00:00 -0800</pubDate>
+        <lastBuildDate>Mon, 16 Jun 2025 00:00:00 -0800</lastBuildDate>
+        <pubDate>Mon, 16 Jun 2025 00:00:00 -0800</pubDate>
         <docs>https://pythonbytes.fm</docs>
         <webMaster>michael@pythonbytes.fm (Michael Kennedy)</webMaster>
         <ttl>60</ttl>
@@ -32,6 +32,173 @@
         <itunes:type>episodic</itunes:type>
         <podcast:locked owner="mikeckennedy@gmail.com">yes</podcast:locked>
         <podcast:guid>c39e616f-74f1-52c5-90fb-ac094bffd068</podcast:guid>
+        <item>
+            <title>#436 Slow tests go last</title>
+            <link>https://pythonbytes.fm/episodes/show/436/slow-tests-go-last</link>
+            <guid isPermaLink="false">4627868e-2518-470a-b6af-3c0639b75fed</guid>
+            <enclosure
+                    url="https://pythonbytes.fm/episodes/download/436/slow-tests-go-last.mp3"
+                    length="35418046"
+                    type="audio/mpeg"/>
+            <itunes:category text="Technology"/>
+            <itunes:category text="News">
+                <itunes:category text="Tech News"/>
+            </itunes:category>
+            <pubDate>Mon, 16 Jun 2025 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy and Brian Okken</itunes:author>
+            <itunes:title>#436: Slow tests go last</itunes:title>
+            <itunes:episode>436</itunes:episode>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary><![CDATA[Topics include , typed-ffmpeg, pyleak, and Optimizing Test Execution: Running live_server Tests Last with pytest.]]></itunes:summary>
+            <itunes:duration>00:36:43</itunes:duration>
+            <itunes:keywords>python, pycharm, python3,software, programming, web, web development, developer, ide, podcast, open source, news, headlines, education, software developer, data science, science, cloud computing</itunes:keywords>
+            <description><![CDATA[<strong>Topics covered in this episode:</strong><br>
+
+<ul>
+	<li><em>* Free-threaded Python no longer “experimental” as of Python 3.14</em>*</li>
+<li><strong><a href="https://github.com/livingbio/typed-ffmpeg?featured_on=pythonbytes">typed-ffmpeg</a></strong></li>
+<li><strong><a href="https://github.com/deepankarm/pyleak?featured_on=pythonbytes">pyleak</a></strong></li>
+<li><em>* <a href="https://timonweb.com/django/optimizing-test-execution-running-live_server-tests-last-with-pytest/?featured_on=pythonbytes">Optimizing Test Execution: Running live_server Tests Last with pytest</a></em>*</li>
+<li><strong>Extras</strong></li>
+<li><strong>Joke</strong></li>
+
+</ul><a href='https://www.youtube.com/watch?v=Mt7X3Q54lU4' style='font-weight: bold;'data-umami-event="Livestream-Past" data-umami-event-episode="436">Watch on YouTube</a><br>
+
+<p><strong>About the show</strong></p>
+
+<p>Sponsored by <strong>PropelAuth</strong>: <a href="https://pythonbytes.fm/propelauth66">pythonbytes.fm/propelauth66</a></p>
+
+<p><strong>Connect with the hosts</strong></p>
+
+<ul>
+<li>Michael: <a href="https://fosstodon.org/@mkennedy">@mkennedy@fosstodon.org</a> / <a href="https://bsky.app/profile/mkennedy.codes?featured_on=pythonbytes">@mkennedy.codes</a> (bsky)</li>
+<li>Brian: <a href="https://fosstodon.org/@brianokken">@brianokken@fosstodon.org</a> / <a href="https://bsky.app/profile/brianokken.bsky.social?featured_on=pythonbytes">@brianokken.bsky.social</a></li>
+<li>Show: <a href="https://fosstodon.org/@pythonbytes">@pythonbytes@fosstodon.org</a> / <a href="https://bsky.app/profile/pythonbytes.fm">@pythonbytes.fm</a> (bsky)</li>
+</ul>
+
+<p>Join us on YouTube at <a href="https://pythonbytes.fm/stream/live"><strong>pythonbytes.fm/live</strong></a> to be part of the audience. Usually <strong>Monday</strong> at 10am PT. Older video versions available there too.</p>
+
+<p>Finally, if you want an artisanal, hand-crafted digest of every week of the show notes in email form? Add your name and email to <a href="https://pythonbytes.fm/friends-of-the-show">our friends of the show list</a>, we'll never share it.</p>
+
+<p><strong>Brian #1: Free-threaded Python no longer “experimental” as of Python 3.14</strong></p>
+
+<ul>
+<li>“PEP 779 ("Criteria for supported status for free-threaded Python") has been accepted, which means free-threaded Python is now a supported build!” <a href="https://fosstodon.org/@hugovk@mastodon.social/114689715316210829">- Hugo van Kemenade</a></li>
+<li><a href="https://peps.python.org/pep-0779/?featured_on=pythonbytes">PEP 779 – Criteria for supported status for free-threaded Python</a></li>
+<li>As noted in the <a href="https://discuss.python.org/t/pep-779-criteria-for-supported-status-for-free-threaded-python/84319/123?featured_on=pythonbytes">discussion of PEP 779</a>, “The Steering Council (SC) approves PEP 779, with the effect of removing the “experimental” tag from the free-threaded build of Python 3.14.”</li>
+<li>We are in Phase II then.</li>
+<li>“We are confident that the project is on the right path, and we appreciate the continued dedication from everyone working to make free-threading ready for broader adoption across the Python community.”</li>
+<li>“Keep in mind that any decision to transition to Phase III, with free-threading as the default or sole build of Python is still undecided, and dependent on many factors both within CPython itself and the community. We leave that decision for the future.”</li>
+<li>How long will all this take? According to Thomas Wouters, <a href="https://social.coop/@Yhg1s/114692495471337607?featured_on=pythonbytes">a few years, at least</a>: “In other words: it'll be a few years at least. It can't happen before 3.16 (because we won't have Stable ABI support until 15) and may well take longer.”</li>
+</ul>
+
+<p><strong>Michael #2:</strong> <a href="https://github.com/livingbio/typed-ffmpeg?featured_on=pythonbytes">typed-ffmpeg</a></p>
+
+<ul>
+<li><p><strong>typed-ffmpeg</strong> offers a modern, Pythonic interface to FFmpeg, providing extensive support for complex filters with detailed typing and documentation.</p></li>
+<li><p>Inspired by ffmpeg-python, this package enhances functionality by addressing common limitations, such as lack of IDE integration and comprehensive typing, while also introducing new features like JSON serialization of filter graphs and automatic FFmpeg validation.</p></li>
+<li><p>Features :</p>
+
+<ul>
+<li><strong>Zero Dependencies:</strong> Built purely with the Python standard library, ensuring maximum compatibility and security.</li>
+<li><strong>User-Friendly:</strong> Simplifies the construction of filter graphs with an intuitive Pythonic interface.</li>
+<li><strong>Comprehensive FFmpeg Filter Support:</strong> Out-of-the-box support for most FFmpeg filters, with IDE auto-completion.</li>
+<li><strong>Integrated Documentation:</strong> In-line docstrings provide immediate reference for filter usage, reducing the need to consult external documentation.</li>
+<li><strong>Robust Typing:</strong> Offers static and dynamic type checking, enhancing code reliability and development experience.</li>
+<li><strong>Filter Graph Serialization:</strong> Enables saving and reloading of filter graphs in JSON format for ease of use and repeatability.</li>
+<li><strong>Graph Visualization:</strong> Leverages graphviz for visual representation, aiding in understanding and debugging.</li>
+<li><strong>Validation and Auto-correction:</strong> Assists in identifying and fixing errors within filter graphs.</li>
+<li><strong>Input and Output Options Support:</strong> Provide a more comprehensive interface for input and output options, including support for additional codecs and formats.</li>
+<li><strong>Partial Evaluation:</strong> Enhance the flexibility of filter graphs by enabling partial evaluation, allowing for modular construction and reuse.</li>
+<li><strong>Media File Analysis:</strong> Built-in support for analyzing media files using FFmpeg's ffprobe utility, providing detailed metadata extraction with both dictionary and dataclass interfaces.</li>
+</ul></li>
+</ul>
+
+<p><strong>Michael #3:</strong> <a href="https://github.com/deepankarm/pyleak?featured_on=pythonbytes">pyleak</a></p>
+
+<ul>
+<li>Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by goleak.</li>
+<li>Use as context managers or function dectorators</li>
+<li>When using no_task_leaks, you get detailed stack trace information showing exactly where leaked tasks are executing and where they were created.</li>
+<li>Even has great examples and a pytest plugin.</li>
+</ul>
+
+<p><strong>Brian #4: <a href="https://timonweb.com/django/optimizing-test-execution-running-live_server-tests-last-with-pytest/?featured_on=pythonbytes">Optimizing Test Execution: Running live_server Tests Last with pytest</a></strong></p>
+
+<ul>
+<li><p>Tim Kamanin</p></li>
+<li><p>“When working with <strong>Django</strong> applications, it's common to have a mix of fast unit tests and slower end-to-end (E2E) tests that use p<strong>ytest</strong>'s <code>live_server</code> fixture and browser automation tools like <strong>Playwright</strong> or <strong>Selenium</strong>. ”</p></li>
+<li><p>Tim is running E2E tests last for</p>
+
+<ul>
+<li>Faster feedback from quick tests</li>
+<li>To not tie up resources early in the test suite.</li>
+</ul></li>
+<li><p>He did this with</p>
+
+<ul>
+<li><p>custom “e2e” marker</p></li>
+<li><p>Implementing a </p>
+
+<pre><code>pytest_collection_modifyitems
+</code></pre>
+
+<p>hook function to look for tests using the </p>
+
+<pre><code>live_server
+</code></pre>
+
+<p>fixture, and for them</p>
+
+<ul>
+<li>automatically add the <code>e2e</code> marker to those tests</li>
+<li>move those tests to the end</li>
+</ul></li>
+</ul></li>
+<li><p>The reason for the marker is to be able to</p>
+
+<ul>
+<li>Just run e2e tests with <code>-m e2e</code></li>
+<li>Avoid running them sometimes with <code>-m "not e2e"</code></li>
+</ul></li>
+<li><p>Cool small writeup.</p>
+
+<ul>
+<li>The technique works for any system that has some tests that are slower or resource bound based on a particular fixture or set of fixtures.</li>
+</ul></li>
+</ul>
+
+<p><strong>Extras</strong></p>
+
+<p>Brian:</p>
+
+<ul>
+<li><a href="https://discuss.python.org/t/is-free-threading-our-only-option/91775?featured_on=pythonbytes">Is Free-Threading Our Only Option?</a> - Interesting discussion started by Eric Snow and recommended by John Hagen</li>
+<li><a href="https://hugovk.dev/blog/2025/free-threaded-python-on-github-actions/?featured_on=pythonbytes">Free-threaded Python on GitHub Actions</a> - How to add FT tests to your projects, by Hugo van Kemenade</li>
+</ul>
+
+<p>Michael:</p>
+
+<ul>
+<li>New course! <a href="https://training.talkpython.fm/courses/llm-building-blocks-for-python?featured_on=pythonbytes">LLM Building Blocks in Python</a></li>
+<li><a href="https://talkpython.fm/blog/posts/deep-dive-retrospective-at-talk-python/?featured_on=pythonbytes">Talk Python Deep Dives Complete: 600K Words of Talk Python Insights</a></li>
+<li>.folders on Linux
+<ul>
+<li>Write up on <a href="https://blobs.pythonbytes.fm/xdg-config-home-v2.html">XDG for Python devs</a>.</li>
+</ul></li>
+<li><a href="https://blobs.pythonbytes.fm/keep-pulling-back-in.jpg">They keep pulling me back</a> - <a href="https://help.openai.com/en/articles/9624314-model-release-notes?featured_on=pythonbytes">ChatGPT Pro with o3-pro</a></li>
+<li>Python Bytes is the <a href="https://goodpods.com/leaderboard/top-100-shows-by-category/news/tech-news?period=month#67232899">#1 Python news podcast and #17 of all tech news podcasts</a>.</li>
+<li><a href="https://pythoninsider.blogspot.com/2025/06/python-3134-31211-31113-31018-and-3923.html?featured_on=pythonbytes">Python 3.13.4, 3.12.11, 3.11.13, 3.10.18 and 3.9.23 are now available</a></li>
+<li><a href="https://pythoninsider.blogspot.com/2025/06/python-3135-is-now-available.html?featured_on=pythonbytes">Python 3.13.5 is now available!</a></li>
+</ul>
+
+<p><strong>Joke:</strong> <a href="https://x.com/PR0GRAMMERHUM0R/status/1930655881718382721?featured_on=pythonbytes">Naming is hard</a></p>
+]]></description>
+            
+            <podcast:transcript url="https://pythonbytes.fm/episodes/vtt_transcript/436/slow-tests-go-last.vtt" type="text/vtt"/>
+            <itunes:image href="https://cdn.pythonbytes.fm/static/img/podcast-theme-img_1400.jpg"/>
+        </item>
         <item>
             <title>#435 Stop with .folders in my ~/</title>
             <link>https://pythonbytes.fm/episodes/show/435/stop-with-.folders-in-my</link>
@@ -1593,6 +1760,7 @@ dev = [ {include-group = "test"}, {include-group = "lint"} ]
             <itunes:summary><![CDATA[Topics include Why aren't you using uv, Python Developer Tooling Handbook, Calling all doc writers: blacken-docs, and Reinventing notebooks as reusable Python programs.]]></itunes:summary>
             <itunes:duration>00:37:55</itunes:duration>
             <itunes:keywords>python, pycharm, python3,software, programming, web, web development, developer, ide, podcast, open source, news, headlines, education, software developer, data science, science, cloud computing</itunes:keywords>
+            
             <description><![CDATA[<strong>Topics covered in this episode:</strong><br>
 
 <ul>
@@ -1603,131 +1771,9 @@ dev = [ {include-group = "test"}, {include-group = "lint"} ]
 <li><strong>Extras</strong></li>
 <li><strong>Joke</strong></li>
 
-</ul><a href='https://www.youtube.com/watch?v=cps-wnsRte8' style='font-weight: bold;'data-umami-event="Livestream-Past" data-umami-event-episode="425">Watch on YouTube</a><br>
-
-<p><strong>About the show</strong></p>
-
-<p>Brought to you by <a href="https://pythonbytes.fm/connect"><strong>Posit Connect: pythonbytes.fm/connect</strong></a>.</p>
-
-<p><strong>Connect with the hosts</strong></p>
-
-<ul>
-<li>Michael: <a href="https://fosstodon.org/@mkennedy"><strong>@mkennedy@fosstodon.org</strong></a> <strong>/</strong> <a href="https://bsky.app/profile/mkennedy.codes?featured_on=pythonbytes"><strong>@mkennedy.codes</strong></a> <strong>(bsky)</strong></li>
-<li>Brian: <a href="https://fosstodon.org/@brianokken"><strong>@brianokken@fosstodon.org</strong></a> <strong>/</strong> <a href="https://bsky.app/profile/brianokken.bsky.social?featured_on=pythonbytes"><strong>@brianokken.bsky.social</strong></a></li>
-<li>Show: <a href="https://fosstodon.org/@pythonbytes"><strong>@pythonbytes@fosstodon.org</strong></a> <strong>/</strong> <a href="https://bsky.app/profile/pythonbytes.fm"><strong>@pythonbytes.fm</strong></a> <strong>(bsky)</strong></li>
 </ul>
 
-<p>Join us on YouTube at <a href="https://pythonbytes.fm/stream/live"><strong>pythonbytes.fm/live</strong></a> to be part of the audience. Usually <strong>Monday</strong> at 10am PT. Older video versions available there too.</p>
-
-<p>Finally, if you want an artisanal, hand-crafted digest of every week of the show notes in email form? Add your name and email to <a href="https://pythonbytes.fm/friends-of-the-show">our friends of the show list</a>, we'll never share it.</p>
-
-<p><strong>Michael #1:</strong> <a href="https://x.com/mitsuhiko/status/1899928805742899231?featured_on=pythonbytes">Why aren't you using uv</a>?</p>
-
-<ul>
-<li>Fun conversation on X by <a href="https://x.com/mitsuhiko?featured_on=pythonbytes">Armin Ronacher</a>.</li>
-<li>Interesting quotes from the thread
-<ul>
-<li>I get it replaces pip/pyenv, but should I also use it instead of the built in 'python -m venv .venv'?</li>
-<li>But I need python installed to make python programs?</li>
-<li>Because it places the venv in the project folder and I can't run executables from there due to corporate policy. Many such cases. No idea why astral doesn't address this with more urgency.
-<ul>
-<li>Sounds like a bad corporate policy :)</li>
-</ul></li>
-<li>i’m too lazy to switch from pyenv and pip</li>
-<li>trust issues, what if they do a bait and switch …</li>
-<li>Because everyone said that about poetry and I'm not sure I'm really ready to get hurt again.</li>
-<li>Masochism</li>
-<li>Many times I tried a lot of similar tools and always come back to pip and pip-tools. Them are just work, why should I spend my time for something "cool" that will bring more problems?</li>
-<li>I tried this week but I was expecting a "uv install requests" instead of "uv add". Switched back to pipenv.</li>
-<li>we partially use it. will transition when Dependabot support is available.</li>
-</ul></li>
-<li>I’ll leave it with → Jared Scheel: Seeing a whole lotta Stockholm Syndrome in the replies to this question.</li>
-</ul>
-
-<p><strong>Brian #2:</strong> <a href="https://pydevtools.com/handbook/?featured_on=pythonbytes">Python Developer Tooling Handbook</a></p>
-
-<ul>
-<li>Tim Hopper</li>
-<li>“This is not a book about programming Python. Instead, the goal of this book is to help you understand the ecosystem of tools used to make Python development easier and more productive”</li>
-<li>Covers tools related to packaging, linting, formatting, and managing dependencies. </li>
-</ul>
-
-<p><strong>Michael #3:</strong> <a href="https://github.com/adamchainz/blacken-docs?featured_on=pythonbytes"><strong>Calling all doc writers: blacken-docs</strong></a></p>
-
-<ul>
-<li>Run <code>black</code> on python code blocks in documentation files </li>
-<li>You can also install blacken-docs as a <a href="https://pre-commit.com/?featured_on=pythonbytes">pre-commit</a> hook.</li>
-<li>It supports Markdown, reStructuredText, and LaTex files. </li>
-<li>Additionally, you can run it on Python files to reformat Markdown and reStructuredText within docstrings.</li>
-</ul>
-
-<p><strong>Brian #4:</strong> <a href="https://marimo.io/blog/python-not-json?_bhlid=137e05f1384ff987aef74d01decfeb08d76910c7&featured_on=pythonbytes">Reinventing notebooks as reusable Python programs</a></p>
-
-<ul>
-<li>marimo allows you to store notebooks as plaintext Python files</li>
-<li>properties
-<ul>
-<li>Git-friendly: small code change =&gt; small diff</li>
-<li>easy for both humans and computers to read</li>
-<li>importable as a Python module, without executing notebook cells</li>
-<li>executable as a Python script</li>
-<li>editable with a text editor</li>
-</ul></li>
-<li>Also, … testing with pytest</li>
-<li>“Because marimo notebooks are just Python files, they are interoperable with other tools for Python — including pytest. “</li>
-<li>“<strong>Testing cells.</strong> Any cell named as test_* is automatically discoverable and testable by pytest. The same goes for any cell that contains only test_ functions and Test classes.”</li>
-<li>“Importantly, because cells are wrapped in functions, running pytest test_notebook.py doesn’t execute the entire notebook — just its tests.”</li>
-</ul>
-
-<p><strong>Extras</strong> </p>
-
-<p>Brian:</p>
-
-<ul>
-<li>PyConUS announces <a href="https://pycon.blogspot.com/2025/03/refund-policy-for-international.html?featured_on=pythonbytes">Refund Policy for International Attendees</a></li>
-<li>New format now live for <a href="https://courses.pythontest.com?featured_on=pythonbytes">The Complete pytest Course Bundle</a> and component courses
-<ul>
-<li>Each course now available separately also
-<ul>
-<li><a href="https://courses.pythontest.com/pytest-primary-power?featured_on=pythonbytes">pytest Primary Power</a> is 13 lessons, 3.9 hours</li>
-<li><a href="https://courses.pythontest.com/using-pytest-with-projects?featured_on=pythonbytes">Using pytest with Projects</a>, 10 lessons, 3.4 hours</li>
-<li><a href="https://courses.pythontest.com/pytest-booster-rockets?featured_on=pythonbytes">pytest Booster Rockets</a>, 6 lessons, 1.3 hours of content</li>
-</ul></li>
-<li>New format is easier to navigate</li>
-<li>Better for people who like different speeds. I’m usually a 1.25x-1.5x speed person.</li>
-<li>Now also with Congratulations! lessons (with fireworks) and printable certificates.</li>
-</ul></li>
-</ul>
-
-<p>Michael:</p>
-
-<ul>
-<li><a href="https://tw.pycon.org/2025/en-us/speaking/cfp?featured_on=pythonbytes">PyCon Taiwan is currently calling for proposals</a></li>
-<li>HN trends follow up via Shinjitsu</li>
-</ul>
-
-<p>I'm sure some other Hacker News reader has already given you the  feedback, but in the unlikely case that they haven't, You read those headlines in this segment exactly wrong.</p>
-
-<p>“Ask HN: Who is hiring?" is a monthly post that asks employers to post
-about jobs they have available</p>
-
-<p>“Ask HN: Who wants to be hired?” is a monthly topic where they ask
-people who are looking for jobs to post about themselves in the hope
-that their skillset it is a good match (and not an LLM generated resume)</p>
-
-<p>So unfortunately your rosy analysis might need a less rosy
-interpretation.</p>
-
-<p><strong>Joke:</strong> </p>
-
-<ul>
-<li><a href="https://www.cs.cornell.edu/courses/cs100/1999su/handouts/klingons.htm?featured_on=pythonbytes">Top 12 things likely to be overheard if you had a Klingon Programmer</a>
-<ul>
-<li>From Holgi on Mastodon</li>
-</ul></li>
-</ul>
-]]></description>
-            
+See the full show notes for this episode on the website at <a href="https://pythonbytes.fm/425">pythonbytes.fm/425</a>]]></description>
             <podcast:transcript url="https://pythonbytes.fm/episodes/vtt_transcript/425/if-you-were-a-klingon-programmer.vtt" type="text/vtt"/>
             <itunes:image href="https://cdn.pythonbytes.fm/static/img/podcast-theme-img_1400.jpg"/>
         </item>

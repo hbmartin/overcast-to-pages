@@ -6,7 +6,7 @@
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>The AI Native Dev - from Copilot today to AI Native Software Development tomorrow</title>
 
-  <lastBuildDate>Tue, 10 Jun 2025 13:19:25 +0100</lastBuildDate>
+  <lastBuildDate>Tue, 17 Jun 2025 17:07:25 +0100</lastBuildDate>
   <link>https://tessl.io/podcast</link>
   <language>en-us</language>
   <copyright>© 2025 Tessl AI Limited</copyright>
@@ -32,6 +32,40 @@
   <itunes:category text="Technology" />
   <podcast:person role="co-host" href="http://tessl.io" img="https://storage.buzzsprout.com/d2d9rflb4kmv04zno8sp5xou7s2d">Guy Podjarny</podcast:person>
   <podcast:person role="co-host" href="https://tessl.io" img="https://storage.buzzsprout.com/w6nvygbn2bsrbosokef6q3ql9nvy">Simon Maple</podcast:person>
+  <item>
+    <itunes:title>CTO of $7B Snyk Talks AI Security, Risky Software &amp; Enterprise Adoption</itunes:title>
+    <title>CTO of $7B Snyk Talks AI Security, Risky Software &amp; Enterprise Adoption</title>
+    <itunes:summary><![CDATA[In this episode of AI Native Dev, Guy Podjarny and Danny Allan unpack how security has reduced just to a concern from a roadblock for devs.  On the docket: why 80% of Snyk’s enterprise customers are actively using AI toolsnavigating security risks of today and tomorrowthe recurring flaw in every new stackwhy more code means more vulnerabilities AI Native Dev, powered by Tessl and our global dev community, is your go-to podcast for solutions in software development in the age of AI. Tune in as...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode of AI Native Dev, <a href='https://www.linkedin.com/in/guypo/'>Guy Podjarny</a> and <a href='https://www.linkedin.com/in/dannyallan/'>Danny Allan</a> unpack how security has reduced just to a concern from a roadblock for devs.<br/><br/>On the docket:</p><ul><li>why 80% of <a href='https://snyk.io'>Snyk</a>’s enterprise customers are actively using AI tools</li><li>navigating security risks of today and tomorrow</li><li>the recurring flaw in every new stack</li><li>why more code means more vulnerabilities</li></ul><p><br/><a href='https://ainativedev.io'>AI Native Dev</a>, powered by <a href='http://tessl.io'>Tessl</a> and our global dev community, is your go-to podcast for solutions in software development in the age of AI. Tune in as we engage with engineers, founders, and open-source innovators to talk all things AI, security, and development. <br/><br/>Connect with us here: </p><ol><li>Danny Allan- https://www.linkedin.com/in/dannyallan/</li><li>Guy Podjarny- https://www.linkedin.com/in/guypo/</li><li>Tessl- https://www.linkedin.com/company/tesslio/</li><li>AI Native Dev- https://www.linkedin.com/showcase/ai-native-dev/</li></ol><p>Join the AI Native Dev Community on Discord: https://tessl.co/4ghikjh<br><br>Ask us questions: podcast@tessl.io</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode of AI Native Dev, <a href='https://www.linkedin.com/in/guypo/'>Guy Podjarny</a> and <a href='https://www.linkedin.com/in/dannyallan/'>Danny Allan</a> unpack how security has reduced just to a concern from a roadblock for devs.<br/><br/>On the docket:</p><ul><li>why 80% of <a href='https://snyk.io'>Snyk</a>’s enterprise customers are actively using AI tools</li><li>navigating security risks of today and tomorrow</li><li>the recurring flaw in every new stack</li><li>why more code means more vulnerabilities</li></ul><p><br/><a href='https://ainativedev.io'>AI Native Dev</a>, powered by <a href='http://tessl.io'>Tessl</a> and our global dev community, is your go-to podcast for solutions in software development in the age of AI. Tune in as we engage with engineers, founders, and open-source innovators to talk all things AI, security, and development. <br/><br/>Connect with us here: </p><ol><li>Danny Allan- https://www.linkedin.com/in/dannyallan/</li><li>Guy Podjarny- https://www.linkedin.com/in/guypo/</li><li>Tessl- https://www.linkedin.com/company/tesslio/</li><li>AI Native Dev- https://www.linkedin.com/showcase/ai-native-dev/</li></ol><p>Join the AI Native Dev Community on Discord: https://tessl.co/4ghikjh<br><br>Ask us questions: podcast@tessl.io</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/lpygjcviy9xxkby9jl8yb3hrwto0?.jpg" />
+    <itunes:author>Tessl</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2375985/episodes/17346045-cto-of-7b-snyk-talks-ai-security-risky-software-enterprise-adoption.mp3" length="25789934" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-17346045</guid>
+    <pubDate>Tue, 17 Jun 2025 13:00:00 +0100</pubDate>
+    <podcast:chapters url="https://www.buzzsprout.com/2375985/17346045/chapters.json" type="application/json" />
+    <psc:chapters>
+  <psc:chapter start="0:00" title="Trailer" />
+  <psc:chapter start="0:50" title="Introduction" />
+  <psc:chapter start="3:20" title="Generative AI" />
+  <psc:chapter start="5:01" title="Is security a blocker?" />
+  <psc:chapter start="7:15" title="Highly technical, not good coders" />
+  <psc:chapter start="11:01" title="Multimodel" />
+  <psc:chapter start="12:18" title="Security concerns" />
+  <psc:chapter start="19:48" title="Innovative approaces" />
+  <psc:chapter start="20:51" title="Low risks" />
+  <psc:chapter start="23:17" title="Use AI, embrace AI" />
+  <psc:chapter start="26:49" title="The age of risky software" />
+  <psc:chapter start="30:49" title="Q&amp;A" />
+  <psc:chapter start="35:13" title="Outro" />
+</psc:chapters>
+    <itunes:duration>2143</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>58</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>The $2B Nvidia Backed AI Video Platform</itunes:title>
     <title>The $2B Nvidia Backed AI Video Platform</title>

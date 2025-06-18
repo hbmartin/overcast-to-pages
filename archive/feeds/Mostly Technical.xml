@@ -16,8 +16,8 @@
     <podcast:person role="Host" href="https://ianlandsman.com" img="https://img.transistor.fm/cldHQjSwR8VfujVriZ9tzDI8VpfIXKPmtUWJLieM6f0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vOTg1ZjNhNzYt/NWFmNC00YTEzLWE4/NzktYTdjNDVlZWQ4/MjQzLzE2OTE1ODI3/MDctaW1hZ2UuanBn.jpg">Ian Landsman</podcast:person>
     <podcast:person role="Producer" href="https://davehicking.com" img="https://img.transistor.fm/TYzqJKaTXreY9G-oQpW8mp_mH_zzYqLGmZxFAV5ulRY/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jOWE3/MjQxYTg1ZjJmZGZh/NTc2YjZkNTZhMTUw/OTBjNS5qcGVn.jpg">Dave Hicking</podcast:person>
     <language>en</language>
-    <pubDate>Tue, 10 Jun 2025 08:00:33 -0400</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 08:02:08 -0400</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 08:00:22 -0400</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 08:01:51 -0400</lastBuildDate>
     <link>https://mostlytechnical.com</link>
     <image>
       <url>https://img.transistor.fm/u3Fqoy7k3pzLmGWGEtRezeFE1UPWf2MhTcm8oUCp5DM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQzNjc3LzE2OTE1/ODI4NTItYXJ0d29y/ay5qcGc.jpg</url>
@@ -39,6 +39,60 @@
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>87: No Sparkle Buttons</title>
+      <itunes:episode>88</itunes:episode>
+      <podcast:episode>88</podcast:episode>
+      <itunes:title>87: No Sparkle Buttons</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d4a20d5b-5fec-435d-a511-8c001d79d005</guid>
+      <link>https://share.transistor.fm/s/cc0d7477</link>
+      <description>
+        <![CDATA[<p>Ian and Aaron talk about UI Kits in the era of AI, dreams of being at Laracon, Aaron’s next steps, Ian’s mysterious side project, and more.</p><p>Sponsored by <a href="https://bentonow.com/"><strong>Bento</strong></a>, <a href="https://workos.com/"><strong>WorkOS</strong></a>, <a href="https://nativephp.com/mobile"><strong>NativePHP for Mobile</strong></a>, <a href="https://forwardmx.net/"><strong>ForwardMX</strong></a>, and <a href="https://lrvl.co/mostly"><strong>Laracon US 2025</strong></a></p><p>Interested in sponsoring Mostly Technical?  Head to <a href="https://mostlytechnical.com/sponsor"><strong>https://mostlytechnical.com/sponsor</strong></a> to learn more.</p><p></p><ul><li>(00:00) - Father's Day</li>
+<li>(10:49) - The New Focus</li>
+<li>(16:53) - UI Kits in the AI Era</li>
+<li>(23:12) - A Tailwind UI Story</li>
+<li>(35:51) - What's Next For Try Hard</li>
+<li>(42:32) - Dreams of Laracon</li>
+<li>(45:13) - Ian's Tinkering</li>
+<li>(57:38) - What Time Is It?</li>
+</ul><br>Links:<ul><li><a href="https://www.barnesandnoble.com">Barnes &amp; Noble</a></li><li><a href="https://x.com/glcst/">Glauber Costa on X</a></li><li><a href="https://panelpodcast.com">The Panel (podcast)</a></li><li><a href="https://www.helpspot.com">HelpSpot</a></li><li><a href="https://instrumental.dev">Instrumental Components</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Ian and Aaron talk about UI Kits in the era of AI, dreams of being at Laracon, Aaron’s next steps, Ian’s mysterious side project, and more.</p><p>Sponsored by <a href="https://bentonow.com/"><strong>Bento</strong></a>, <a href="https://workos.com/"><strong>WorkOS</strong></a>, <a href="https://nativephp.com/mobile"><strong>NativePHP for Mobile</strong></a>, <a href="https://forwardmx.net/"><strong>ForwardMX</strong></a>, and <a href="https://lrvl.co/mostly"><strong>Laracon US 2025</strong></a></p><p>Interested in sponsoring Mostly Technical?  Head to <a href="https://mostlytechnical.com/sponsor"><strong>https://mostlytechnical.com/sponsor</strong></a> to learn more.</p><p></p><ul><li>(00:00) - Father's Day</li>
+<li>(10:49) - The New Focus</li>
+<li>(16:53) - UI Kits in the AI Era</li>
+<li>(23:12) - A Tailwind UI Story</li>
+<li>(35:51) - What's Next For Try Hard</li>
+<li>(42:32) - Dreams of Laracon</li>
+<li>(45:13) - Ian's Tinkering</li>
+<li>(57:38) - What Time Is It?</li>
+</ul><br>Links:<ul><li><a href="https://www.barnesandnoble.com">Barnes &amp; Noble</a></li><li><a href="https://x.com/glcst/">Glauber Costa on X</a></li><li><a href="https://panelpodcast.com">The Panel (podcast)</a></li><li><a href="https://www.helpspot.com">HelpSpot</a></li><li><a href="https://instrumental.dev">Instrumental Components</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 17 Jun 2025 08:00:00 -0400</pubDate>
+      <author>Ian Landsman and Aaron Francis</author>
+      <enclosure url="https://media.transistor.fm/cc0d7477/d59b74b7.mp3" length="59928435" type="audio/mpeg"/>
+      <itunes:author>Ian Landsman and Aaron Francis</itunes:author>
+      <itunes:duration>3741</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Ian and Aaron talk about UI Kits in the era of AI, dreams of being at Laracon, Aaron’s next steps, Ian’s mysterious side project, and more.</p><p>Sponsored by <a href="https://bentonow.com/"><strong>Bento</strong></a>, <a href="https://workos.com/"><strong>WorkOS</strong></a>, <a href="https://nativephp.com/mobile"><strong>NativePHP for Mobile</strong></a>, <a href="https://forwardmx.net/"><strong>ForwardMX</strong></a>, and <a href="https://lrvl.co/mostly"><strong>Laracon US 2025</strong></a></p><p>Interested in sponsoring Mostly Technical?  Head to <a href="https://mostlytechnical.com/sponsor"><strong>https://mostlytechnical.com/sponsor</strong></a> to learn more.</p><p></p><ul><li>(00:00) - Father's Day</li>
+<li>(10:49) - The New Focus</li>
+<li>(16:53) - UI Kits in the AI Era</li>
+<li>(23:12) - A Tailwind UI Story</li>
+<li>(35:51) - What's Next For Try Hard</li>
+<li>(42:32) - Dreams of Laracon</li>
+<li>(45:13) - Ian's Tinkering</li>
+<li>(57:38) - What Time Is It?</li>
+</ul><br>Links:<ul><li><a href="https://www.barnesandnoble.com">Barnes &amp; Noble</a></li><li><a href="https://x.com/glcst/">Glauber Costa on X</a></li><li><a href="https://panelpodcast.com">The Panel (podcast)</a></li><li><a href="https://www.helpspot.com">HelpSpot</a></li><li><a href="https://instrumental.dev">Instrumental Components</a></li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>laravel, php, business, entrepreneurship, software, saas, coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="http://aaronfrancis.com" img="https://img.transistor.fm/fe_IEnSuUSqOhWkG591tS-Uv95NAG8Ep627bU1tvx90/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMGIy/Y2Q4ZDIwOTJjNGI2/NWExZmQzNDNlYWQw/YzVjMy5qcGc.jpg">Aaron Francis</podcast:person>
+      <podcast:person role="Host" href="https://ianlandsman.com" img="https://img.transistor.fm/cldHQjSwR8VfujVriZ9tzDI8VpfIXKPmtUWJLieM6f0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vOTg1ZjNhNzYt/NWFmNC00YTEzLWE4/NzktYTdjNDVlZWQ4/MjQzLzE2OTE1ODI3/MDctaW1hZ2UuanBn.jpg">Ian Landsman</podcast:person>
+      <podcast:person role="Producer" href="https://davehicking.com" img="https://img.transistor.fm/TYzqJKaTXreY9G-oQpW8mp_mH_zzYqLGmZxFAV5ulRY/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jOWE3/MjQxYTg1ZjJmZGZh/NTc2YjZkNTZhMTUw/OTBjNS5qcGVn.jpg">Dave Hicking</podcast:person>
+      <podcast:chapters url="https://share.transistor.fm/s/cc0d7477/chapters.json" type="application/json+chapters"/>
+      <podcast:socialInteract protocol="atproto" uri="at://did:plc:fmjwyd7ystkhkgof3s2qzx2e/app.bsky.feed.post/3lrsh2xshum2t"/>
+    </item>
     <item>
       <title>86: Focus Hard</title>
       <itunes:episode>87</itunes:episode>

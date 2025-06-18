@@ -15,7 +15,7 @@
     <atom:link href="https://www.lastweekinai.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://www.lastweekinai.com/</link>
     <description>Weekly summaries of the AI news that matters!</description>
-    <pubDate>Tue, 03 Jun 2025 01:16:01 -0700</pubDate>
+    <pubDate>Mon, 16 Jun 2025 22:07:53 -0700</pubDate>
     <generator>https://podbean.com/?v=5.5</generator>
     <language>en</language>
     <spotify:countryOfOrigin>us</spotify:countryOfOrigin>
@@ -42,6 +42,210 @@
         <width>144</width>
         <height>144</height>
     </image>
+    <item>
+        <title>#212 - o3 pro, Cursor 1.0, ProRL, Midjourney Sued</title>
+        <itunes:title>#212 - o3 pro, Cursor 1.0, ProRL, Midjourney Sued</itunes:title>
+        <link>https://www.lastweekinai.com/e/212/</link>
+                    <comments>https://www.lastweekinai.com/e/212/#comments</comments>        <pubDate>Mon, 16 Jun 2025 22:07:53 -0700</pubDate>
+        <guid isPermaLink="false">aitalk.podbean.com/dd24ee83-bdcc-35f2-a99a-0c8e9dc1a1bc</guid>
+                                    <description><![CDATA[<p>Our 212th episode with a summary and discussion of last week's big AI news!
+Recorded on 06/33/2025</p>
+<p>Hosted by <a href='https://twitter.com/andrey_kurenkov'>Andrey Kurenkov</a> and <a href='https://twitter.com/jeremiecharris'>Jeremie Harris</a>. 
+Feel free to email us your questions and feedback at <a href='mailto:contact@lastweekinai.com'>contact@lastweekinai.com </a>and/or <a href='mailto:hello@gladstone.ai'>hello@gladstone.ai</a></p>
+<p>Read out our text newsletter and comment on the podcast at <a href='https://lastweekin.ai/'>https://lastweekin.ai/</a>.</p>
+<p>In this episode:</p>
+<ul>
+<li>OpenAI introduces O3 PRO for ChatGPT, highlighting significant improvements in performance and cost-efficiency.</li>
+<li>Anthropic sees an influx of talent from OpenAI and DeepMind, with significantly higher retention rates and competitive advantages in AI capabilities.</li>
+<li>New research indicates that reinforcing negative responses in LLMs significantly improves performance across all metrics, highlighting novel approaches in reinforcement learning.</li>
+<li>A security flaw in Microsoft Copilot demonstrates the growing risk of AI agents being hacked, emphasizing the need for robust protection against zero-click attacks.</li>
+</ul>
+<p>Timestamps + Links:</p>
+<ul>
+<li style="font-weight:400;">(00:00:11) Intro / Banter</li>
+<li style="font-weight:400;">(00:01:31) News Preview</li>
+<li style="font-weight:400;">(00:02:46) Response to Listener Reviews</li>
+<li style="font-weight:400;">Tools &amp; Apps<ul>
+<li style="font-weight:400;">(00:04:48) <a href='https://www.indiatoday.in/technology/news/story/openai-adds-o3-pro-to-chatgpt-and-drops-o3-price-by-80-per-cent-but-open-source-ai-is-delayed-2739043-2025-06-11'>OpenAI adds o3 Pro to ChatGPT and drops o3 price by 80 per cent, but open-source AI is delayed</a></li>
+<li style="font-weight:400;">(00:09:10) <a href='https://devclass.com/2025/06/06/cursor-ai-editor-hits-1-0-milestone-including-bugbot-and-high-risk-background-agents/'>Cursor AI editor hits 1.0 milestone, including BugBot and high-risk background agents</a></li>
+<li style="font-weight:400;">(00:13:07) <a href='https://techcrunch.com/2025/06/10/mistral-releases-a-pair-of-ai-reasoning-models/'>Mistral releases a pair of AI reasoning models</a></li>
+<li style="font-weight:400;">(00:16:18) <a href='https://the-decoder.com/elevenlabs-eleven-v3-lets-ai-voices-whisper-laugh-and-express-emotions-naturally/'>Elevenlabs' Eleven v3 lets AI voices whisper, laugh and express emotions naturally</a></li>
+<li style="font-weight:400;">(00:19:00) <a href='https://the-decoder.com/bytedances-seedance-1-0-is-trading-blows-with-googles-veo-3/'>ByteDance's Seedance 1.0 is trading blows with Google's Veo 3</a></li>
+<li style="font-weight:400;">(00:22:42) <a href='https://www.techtimes.com/articles/310725/20250610/google-reveals-20-ai-pro-plan-veo-3-fast-video-generator-budget-creators.htm'>Google Reveals $20 AI Pro Plan With Veo 3 Fast Video Generator For Budget Creators</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Applications &amp; Business<ul>
+<li style="font-weight:400;">(00:25:42) <a href='https://fortune.com/2025/06/03/openai-deepmind-anthropic-loosing-engineers-ai-talent-war/'>OpenAI and DeepMind are losing engineers to Anthropic in a one-sided talent war</a></li>
+<li style="font-weight:400;">(00:34:32) <a href='https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/'>OpenAI slams court order to save all ChatGPT logs, including deleted chats</a></li>
+<li style="font-weight:400;">(00:37:24) <a href='https://www.theinformation.com/articles/nvidias-biggest-chinese-rival-huawei-struggles-win-home?rc=6zqgxt'>Nvidia’s Biggest Chinese Rival Huawei Struggles to Win at Home</a></li>
+<li style="font-weight:400;">(00:43:06) <a href='https://wccftech.com/huawei-expected-to-break-semiconductor-barriers-with-development-of-high-end-3nm-gaa-chips-tape-out-by-2026/'>Huawei Expected to Break Semiconductor Barriers with Development of High-End 3nm GAA Chips; Tape-Out by 2026</a></li>
+<li style="font-weight:400;">(00:45:21) <a href='https://wccftech.com/tsmc-1-4nm-angstrom-process-said-to-cost-45000-per-wafer/'>TSMC’s 1.4nm Process, Also Called Angstrom, Will Make Even The Most Lucrative Clients Think Twice When Placing Orders, With An Estimate Claiming That Each Wafer Will Cost $45,000</a></li>
+<li style="font-weight:400;">(00:47:43) <a href='https://analyticsindiamag.com/ai-news-updates/mistral-ai-launches-mistral-compute-to-replace-cloud-providers-from-us-china/'>Mistral AI Launches Mistral Compute To Replace Cloud Providers from US, China</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Projects &amp; Open Source<ul>
+<li style="font-weight:400;">(00:51:26) <a href='https://arxiv.org/abs/2505.24864'>ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Research &amp; Advancements<ul>
+<li style="font-weight:400;">(00:57:27) <a href='https://arxiv.org/abs/2506.05333'>Kinetics: Rethinking Test-Time Scaling Laws</a></li>
+<li style="font-weight:400;">(01:05:12) <a href='https://arxiv.org/abs/2506.01347'>The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning</a></li>
+<li style="font-weight:400;">(01:10:45) <a href='https://arxiv.org/abs/2506.00794'>Predicting Empirical AI Research Outcomes with Language Models</a></li>
+<li style="font-weight:400;">(01:15:02) <a href='https://arxiv.org/abs/2505.24785'>EXP-Bench: Can AI Conduct AI Research Experiments?</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Policy &amp; Safety<ul>
+<li style="font-weight:400;">(01:20:07) <a href='https://www.arxiv.org/abs/2505.23836'>Large Language Models Often Know When They Are Being Evaluated</a></li>
+<li style="font-weight:400;">(01:24:56) <a href='https://arxiv.org/abs/2505.16694'>Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence</a></li>
+<li style="font-weight:400;">(01:31:16) <a href='https://fortune.com/2025/06/11/microsoft-copilot-vulnerability-ai-agents-echoleak-hacking/'>Exclusive: New Microsoft Copilot flaw signals broader risk of AI agents being hacked—‘I would be terrified’</a></li>
+<li style="font-weight:400;">(01:35:01) <a href='https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers'>Claude Gov Models for U.S. National Security Customers</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Synthetic Media &amp; Art<ul>
+<li style="font-weight:400;">(01:37:32) <a href='https://deadline.com/2025/06/disney-nbcuniversal-ai-lawsuit-1236430694/'>Disney And NBCUniversal Sue AI Company Midjourney For Copyright Infringement</a></li>
+<li style="font-weight:400;">(01:40:39) <a href='https://www.engadget.com/ai/amc-networks-is-teaming-up-with-ai-company-runway-141959898.html'>AMC Networks is teaming up with AI company Runway</a></li>
+</ul>
+</li>
+
+</ul>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>Our 212th episode with a summary and discussion of last week's big AI news!<br>
+Recorded on 06/33/2025</p>
+<p>Hosted by <a href='https://twitter.com/andrey_kurenkov'>Andrey Kurenkov</a> and <a href='https://twitter.com/jeremiecharris'>Jeremie Harris</a>. <br>
+Feel free to email us your questions and feedback at <a href='mailto:contact@lastweekinai.com'>contact@lastweekinai.com </a>and/or <a href='mailto:hello@gladstone.ai'>hello@gladstone.ai</a></p>
+<p>Read out our text newsletter and comment on the podcast at <a href='https://lastweekin.ai/'>https://lastweekin.ai/</a>.</p>
+<p>In this episode:</p>
+<ul>
+<li>OpenAI introduces O3 PRO for ChatGPT, highlighting significant improvements in performance and cost-efficiency.</li>
+<li>Anthropic sees an influx of talent from OpenAI and DeepMind, with significantly higher retention rates and competitive advantages in AI capabilities.</li>
+<li>New research indicates that reinforcing negative responses in LLMs significantly improves performance across all metrics, highlighting novel approaches in reinforcement learning.</li>
+<li>A security flaw in Microsoft Copilot demonstrates the growing risk of AI agents being hacked, emphasizing the need for robust protection against zero-click attacks.</li>
+</ul>
+<p>Timestamps + Links:</p>
+<ul>
+<li style="font-weight:400;">(00:00:11) Intro / Banter</li>
+<li style="font-weight:400;">(00:01:31) News Preview</li>
+<li style="font-weight:400;">(00:02:46) Response to Listener Reviews</li>
+<li style="font-weight:400;">Tools &amp; Apps<ul>
+<li style="font-weight:400;">(00:04:48) <a href='https://www.indiatoday.in/technology/news/story/openai-adds-o3-pro-to-chatgpt-and-drops-o3-price-by-80-per-cent-but-open-source-ai-is-delayed-2739043-2025-06-11'>OpenAI adds o3 Pro to ChatGPT and drops o3 price by 80 per cent, but open-source AI is delayed</a></li>
+<li style="font-weight:400;">(00:09:10) <a href='https://devclass.com/2025/06/06/cursor-ai-editor-hits-1-0-milestone-including-bugbot-and-high-risk-background-agents/'>Cursor AI editor hits 1.0 milestone, including BugBot and high-risk background agents</a></li>
+<li style="font-weight:400;">(00:13:07) <a href='https://techcrunch.com/2025/06/10/mistral-releases-a-pair-of-ai-reasoning-models/'>Mistral releases a pair of AI reasoning models</a></li>
+<li style="font-weight:400;">(00:16:18) <a href='https://the-decoder.com/elevenlabs-eleven-v3-lets-ai-voices-whisper-laugh-and-express-emotions-naturally/'>Elevenlabs' Eleven v3 lets AI voices whisper, laugh and express emotions naturally</a></li>
+<li style="font-weight:400;">(00:19:00) <a href='https://the-decoder.com/bytedances-seedance-1-0-is-trading-blows-with-googles-veo-3/'>ByteDance's Seedance 1.0 is trading blows with Google's Veo 3</a></li>
+<li style="font-weight:400;">(00:22:42) <a href='https://www.techtimes.com/articles/310725/20250610/google-reveals-20-ai-pro-plan-veo-3-fast-video-generator-budget-creators.htm'>Google Reveals $20 AI Pro Plan With Veo 3 Fast Video Generator For Budget Creators</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Applications &amp; Business<ul>
+<li style="font-weight:400;">(00:25:42) <a href='https://fortune.com/2025/06/03/openai-deepmind-anthropic-loosing-engineers-ai-talent-war/'>OpenAI and DeepMind are losing engineers to Anthropic in a one-sided talent war</a></li>
+<li style="font-weight:400;">(00:34:32) <a href='https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/'>OpenAI slams court order to save all ChatGPT logs, including deleted chats</a></li>
+<li style="font-weight:400;">(00:37:24) <a href='https://www.theinformation.com/articles/nvidias-biggest-chinese-rival-huawei-struggles-win-home?rc=6zqgxt'>Nvidia’s Biggest Chinese Rival Huawei Struggles to Win at Home</a></li>
+<li style="font-weight:400;">(00:43:06) <a href='https://wccftech.com/huawei-expected-to-break-semiconductor-barriers-with-development-of-high-end-3nm-gaa-chips-tape-out-by-2026/'>Huawei Expected to Break Semiconductor Barriers with Development of High-End 3nm GAA Chips; Tape-Out by 2026</a></li>
+<li style="font-weight:400;">(00:45:21) <a href='https://wccftech.com/tsmc-1-4nm-angstrom-process-said-to-cost-45000-per-wafer/'>TSMC’s 1.4nm Process, Also Called Angstrom, Will Make Even The Most Lucrative Clients Think Twice When Placing Orders, With An Estimate Claiming That Each Wafer Will Cost $45,000</a></li>
+<li style="font-weight:400;">(00:47:43) <a href='https://analyticsindiamag.com/ai-news-updates/mistral-ai-launches-mistral-compute-to-replace-cloud-providers-from-us-china/'>Mistral AI Launches Mistral Compute To Replace Cloud Providers from US, China</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Projects &amp; Open Source<ul>
+<li style="font-weight:400;">(00:51:26) <a href='https://arxiv.org/abs/2505.24864'>ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Research &amp; Advancements<ul>
+<li style="font-weight:400;">(00:57:27) <a href='https://arxiv.org/abs/2506.05333'>Kinetics: Rethinking Test-Time Scaling Laws</a></li>
+<li style="font-weight:400;">(01:05:12) <a href='https://arxiv.org/abs/2506.01347'>The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning</a></li>
+<li style="font-weight:400;">(01:10:45) <a href='https://arxiv.org/abs/2506.00794'>Predicting Empirical AI Research Outcomes with Language Models</a></li>
+<li style="font-weight:400;">(01:15:02) <a href='https://arxiv.org/abs/2505.24785'>EXP-Bench: Can AI Conduct AI Research Experiments?</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Policy &amp; Safety<ul>
+<li style="font-weight:400;">(01:20:07) <a href='https://www.arxiv.org/abs/2505.23836'>Large Language Models Often Know When They Are Being Evaluated</a></li>
+<li style="font-weight:400;">(01:24:56) <a href='https://arxiv.org/abs/2505.16694'>Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence</a></li>
+<li style="font-weight:400;">(01:31:16) <a href='https://fortune.com/2025/06/11/microsoft-copilot-vulnerability-ai-agents-echoleak-hacking/'>Exclusive: New Microsoft Copilot flaw signals broader risk of AI agents being hacked—‘I would be terrified’</a></li>
+<li style="font-weight:400;">(01:35:01) <a href='https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers'>Claude Gov Models for U.S. National Security Customers</a></li>
+</ul>
+</li>
+
+<li style="font-weight:400;">Synthetic Media &amp; Art<ul>
+<li style="font-weight:400;">(01:37:32) <a href='https://deadline.com/2025/06/disney-nbcuniversal-ai-lawsuit-1236430694/'>Disney And NBCUniversal Sue AI Company Midjourney For Copyright Infringement</a></li>
+<li style="font-weight:400;">(01:40:39) <a href='https://www.engadget.com/ai/amc-networks-is-teaming-up-with-ai-company-runway-141959898.html'>AMC Networks is teaming up with AI company Runway</a></li>
+</ul>
+</li>
+
+</ul>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/9q58rn4tbdt7xqk8/lwiai_212.mp3" length="50951383" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[Our 212th episode with a summary and discussion of last week's big AI news!Recorded on 06/33/2025
+Hosted by Andrey Kurenkov and Jeremie Harris. Feel free to email us your questions and feedback at contact@lastweekinai.com and/or hello@gladstone.ai
+Read out our text newsletter and comment on the podcast at https://lastweekin.ai/.
+In this episode:
+
+OpenAI introduces O3 PRO for ChatGPT, highlighting significant improvements in performance and cost-efficiency.
+Anthropic sees an influx of talent from OpenAI and DeepMind, with significantly higher retention rates and competitive advantages in AI capabilities.
+New research indicates that reinforcing negative responses in LLMs significantly improves performance across all metrics, highlighting novel approaches in reinforcement learning.
+A security flaw in Microsoft Copilot demonstrates the growing risk of AI agents being hacked, emphasizing the need for robust protection against zero-click attacks.
+
+Timestamps + Links:
+
+(00:00:11) Intro / Banter
+(00:01:31) News Preview
+(00:02:46) Response to Listener Reviews
+Tools &amp; Apps
+(00:04:48) OpenAI adds o3 Pro to ChatGPT and drops o3 price by 80 per cent, but open-source AI is delayed
+(00:09:10) Cursor AI editor hits 1.0 milestone, including BugBot and high-risk background agents
+(00:13:07) Mistral releases a pair of AI reasoning models
+(00:16:18) Elevenlabs' Eleven v3 lets AI voices whisper, laugh and express emotions naturally
+(00:19:00) ByteDance's Seedance 1.0 is trading blows with Google's Veo 3
+(00:22:42) Google Reveals $20 AI Pro Plan With Veo 3 Fast Video Generator For Budget Creators
+
+
+Applications &amp; Business
+(00:25:42) OpenAI and DeepMind are losing engineers to Anthropic in a one-sided talent war
+(00:34:32) OpenAI slams court order to save all ChatGPT logs, including deleted chats
+(00:37:24) Nvidia’s Biggest Chinese Rival Huawei Struggles to Win at Home
+(00:43:06) Huawei Expected to Break Semiconductor Barriers with Development of High-End 3nm GAA Chips; Tape-Out by 2026
+(00:45:21) TSMC’s 1.4nm Process, Also Called Angstrom, Will Make Even The Most Lucrative Clients Think Twice When Placing Orders, With An Estimate Claiming That Each Wafer Will Cost $45,000
+(00:47:43) Mistral AI Launches Mistral Compute To Replace Cloud Providers from US, China
+
+
+Projects &amp; Open Source
+(00:51:26) ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models
+
+
+Research &amp; Advancements
+(00:57:27) Kinetics: Rethinking Test-Time Scaling Laws
+(01:05:12) The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning
+(01:10:45) Predicting Empirical AI Research Outcomes with Language Models
+(01:15:02) EXP-Bench: Can AI Conduct AI Research Experiments?
+
+
+Policy &amp; Safety
+(01:20:07) Large Language Models Often Know When They Are Being Evaluated
+(01:24:56) Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence
+(01:31:16) Exclusive: New Microsoft Copilot flaw signals broader risk of AI agents being hacked—‘I would be terrified’
+(01:35:01) Claude Gov Models for U.S. National Security Customers
+
+
+Synthetic Media &amp; Art
+(01:37:32) Disney And NBCUniversal Sue AI Company Midjourney For Copyright Infringement
+(01:40:39) AMC Networks is teaming up with AI company Runway
+
+
+]]></itunes:summary>
+        <itunes:author>Skynet Today</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:46:08</itunes:duration>
+                <itunes:episode>252</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7703921/61396273.png" /><podcast:transcript url="https://mcdn.podbean.com/mf/web/hutcdzvsuuip3f5u/lwiai_212.srt" type="application/srt" /><podcast:chapters url="https://mcdn.podbean.com/mf/web/ab9ejxmmgw3e6jr8/lwiai_212_chapters.json" type="application/json" />    </item>
     <item>
         <title>#211 - Claude Voice, Flux Kontext, wrong RL research?</title>
         <itunes:title>#211 - Claude Voice, Flux Kontext, wrong RL research?</itunes:title>

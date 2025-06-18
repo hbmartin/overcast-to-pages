@@ -18,7 +18,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://softwareengineeringdaily.com/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://softwareengineeringdaily.com/</link>
 	<description>Technical interviews about software topics.</description>
-	<lastBuildDate>Thu, 12 Jun 2025 09:00:10 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Jun 2025 09:00:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,59 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>273cb2c5-02e4-5e26-a2e6-4652c27182cb</podcast:guid>
 	<rawvoice:subscribe feed="https://softwareengineeringdaily.com/feed/podcast/" itunes="https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853"></rawvoice:subscribe>
 <site xmlns="com-wordpress:feed-additions:1">113560975</site>	<item>
+		<title>SED News: Corporate Spies, Postgres, and the Weird Life of Devs Right Now</title>
+		<link>https://softwareengineeringdaily.com/2025/06/17/sed-news-corporate-spies-postgres-and-the-weird-life-of-devs-right-now/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sed-news-corporate-spies-postgres-and-the-weird-life-of-devs-right-now</link>
+		<pubDate>Tue, 17 Jun 2025 09:00:38 +0000</pubDate>
+		<guid isPermaLink="false">https://softwareengineeringdaily.com/?p=18114</guid>
+		<comments>https://softwareengineeringdaily.com/2025/06/17/sed-news-corporate-spies-postgres-and-the-weird-life-of-devs-right-now/#respond</comments>
+		<wfw:commentRss>https://softwareengineeringdaily.com/2025/06/17/sed-news-corporate-spies-postgres-and-the-weird-life-of-devs-right-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[All Content]]></category>
+		<category><![CDATA[Exclusive Content]]></category>
+		<category><![CDATA[Gregor Vand]]></category>
+		<category><![CDATA[Hosts]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Sean Falconer]]></category>
+		<category><![CDATA[Claude system prompt]]></category>
+		<category><![CDATA[Databricks]]></category>
+		<category><![CDATA[Deel]]></category>
+		<category><![CDATA[Hacker News]]></category>
+		<category><![CDATA[Rippling]]></category>
+		<category><![CDATA[Snowflake]]></category>
+		<description>&lt;p&gt;Welcome back to SED News, a podcast series from Software Engineering Daily where hosts Gregor Vand and Sean Falconer break down the latest stories in software engineering, Silicon Valley, and wider tech world. In this episode, Gregor and Sean unpack what’s going with Deel and Rippling, explore why Databricks and Snowflake are making big bets&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://softwareengineeringdaily.com/2025/06/17/sed-news-corporate-spies-postgres-and-the-weird-life-of-devs-right-now/&quot;&gt;SED News: Corporate Spies, Postgres, and the Weird Life of Devs Right Now&lt;/a&gt; appeared first on &lt;a href=&quot;https://softwareengineeringdaily.com&quot;&gt;Software Engineering Daily&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div style="text-align: justify;">
+<p>Welcome back to SED News, a podcast series from Software Engineering Daily where hosts Gregor Vand and Sean Falconer break down the latest stories in software engineering, Silicon Valley, and wider tech world.</p>
+</div>
+<div style="text-align: justify;">
+<p>In this episode, Gregor and Sean unpack what’s going with Deel and Rippling, explore why <a href="https://www.databricks.com/">Databricks</a> and <a href="https://www.snowflake.com/">Snowflake</a> are making big bets on Postgres, and reflect on how AI-powered tools like Cursor are reshaping what it means to be a developer today. They also surface highlights from Hacker News, including Claude’s evolving system prompt and a surprising history of transit cards in Japan and Hong Kong.</p>
+</div>
+<div><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></div>
+<div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div>
+<p style="text-align: justify;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a></span>Sean&#8217;s been an academic, startup founder, and Googler. He has published works covering a wide range of topics from AI to quantum computing. Currently, Sean is an AI Entrepreneur in Residence at Confluent where he works on AI strategy and thought leadership. You can connect with Sean on LinkedIn.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://softwareengineeringdaily.com/wp-content/uploads/2025/06/SED1845-SED_2025-06.txt">Please click here to see the transcript of this episode.</a></p>
+<p>Sponsorship inquiries: <a href="https://cms.megaphone.fm/organizations/619b680e-d813-11ea-9750-e7ecac406436/podcasts/e60108fe-e328-11ea-b2b6-1348249f900a/episodes/3913370a-bc44-11ed-ace6-8b1f96d82bba/sponsor@softwareengineeringdaily.com">sponsor@softwareengineeringdaily.com</a></p>
+</div>
+</div>
+<p>The post <a href="https://softwareengineeringdaily.com/2025/06/17/sed-news-corporate-spies-postgres-and-the-weird-life-of-devs-right-now/">SED News: Corporate Spies, Postgres, and the Weird Life of Devs Right Now</a> appeared first on <a href="https://softwareengineeringdaily.com">Software Engineering Daily</a>.</p>
+]]></content:encoded>
+		<enclosure url="https://traffic.megaphone.fm/SED1640586807.mp3" length="41928588" type="audio/mpeg" />
+		<itunes:subtitle>Welcome back to SED News, a podcast series from Software Engineering Daily where hosts Gregor Vand and Sean Falconer break down the latest stories in software engineering, Silicon Valley, and wider tech world. In this episode,</itunes:subtitle>
+		<itunes:summary>Welcome back to SED News, a podcast series from Software Engineering Daily where hosts Gregor Vand and Sean Falconer break down the latest stories in software engineering, Silicon Valley, and wider tech world. In this episode, Gregor and Sean unpack what’s going with Deel and Rippling, explore why Databricks and Snowflake are making big bets</itunes:summary>
+		<itunes:author>Software Engineering Daily</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>43:39</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">18114</post-id>	</item>
+	<item>
 		<title>TanStack and the Future of Frontend with Tanner Linsley</title>
 		<link>https://softwareengineeringdaily.com/2025/06/12/tanstack-and-the-future-of-frontend-with-tanner-linsley/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tanstack-and-the-future-of-frontend-with-tanner-linsley</link>
 		<pubDate>Thu, 12 Jun 2025 09:00:10 +0000</pubDate>
@@ -70,7 +123,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <p><a href="https://x.com/tannerlinsley">Tanner Linsley</a> is the creator of TanStack and he joins the podcast with Nick Nisi to talk about the project, SSG, type safety, the TanStack Start full-stack React framework, and much more.</p>
 <div>
-<p style="text-align: justify;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2025/05/Nick-Nisi.png"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2025/05/Nick-Nisi.png?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a></span>Nick Nisi is a conference organizer, speaker, and developer focused on tools across the web ecosystem. He has organized and emceed several conferences and has led NebraskaJS for more than a decade. Nick currently works as a developer experience engineer at WorkOS.</p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2025/05/Nick-Nisi.png"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2025/05/Nick-Nisi.png?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a></span>Nick Nisi is a conference organizer, speaker, and developer focused on tools across the web ecosystem. He has organized and emceed several conferences and has led NebraskaJS for more than a decade. Nick currently works as a developer experience engineer at WorkOS.</p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -270,7 +323,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 </div>
 <p>&nbsp;</p>
@@ -369,7 +422,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 </div>
 <p>&nbsp;</p>
@@ -417,7 +470,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -466,7 +519,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><span style="font-weight: 400;">In this episode, Philip joins the podcast with Gregor Vand to talk about his career and security at Coinbase.</span></p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
-<div><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></div>
+<div><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><a href="http://softwareengineeringdaily.com/wp-content/uploads/2025/04/SED1819-Coinbase.txt">Please click here to see the transcript of this episode.</a></p>
@@ -567,7 +620,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 </div>
 <p>&nbsp;</p>
@@ -712,7 +765,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 </span><span style="font-weight: 400;">In this episode, Gregor and Sean discuss the CoreWeave IPO and the company&#8217;s recent acquisition of Weights and Biases, dig into Anthropics Model Context Protocol, surface highlights rom Hacker News, and reflect on Microsoft turning 50. </span><span style="font-weight: 400;"><br />
 </span><span style="font-weight: 400;"><br />
 </span><span style="font-weight: 400;">We&#8217;d love to hear what you think of the format &#8211; reach out on BlueSky at <a href="https://bsky.app/profile/softwaredaily.bsky.social">@SoftwareDaily</a> or on X at <a href="https://x.com/software_daily">@Software _Daily</a>, <a href="https://x.com/GregorVand">@GregorVand</a>, or <a href="https://x.com/seanfalconer">@seanfalconer</a>.</span></p>
-<div><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></div>
+<div><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -767,7 +820,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -861,7 +914,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div>
 <div style="text-align: justify;">
 <div style="text-align: left;">
-<div><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></div>
+<div><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></div>
 <p><a href="http://softwareengineeringdaily.com/wp-content/uploads/2025/04/SED1815-Martin_Hellman.txt">Please click here to see the transcript of this episode.</a></p>
 </div>
 </div>
@@ -917,7 +970,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: left;">
 <div>
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 </div>
 <p>&nbsp;</p>
@@ -975,7 +1028,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -1076,7 +1129,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: left;">
 <div>
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 </div>
 <p>&nbsp;</p>
@@ -1172,7 +1225,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 </div>
 <p>&nbsp;</p>
@@ -1226,7 +1279,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 </div>
 <div style="text-align: justify;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -1378,7 +1431,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: left;">
 <div style="text-align: justify;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -1478,7 +1531,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><a href="https://x.com/gregorvand"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a><a href="https://x.com/gregorvand">Gregor Vand</a> is a security-focused technologist, and is the founder and CTO of <a href="https://mailpass.io/">Mailpass.</a> Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></p>
+<p><span style="font-weight: 400;"><a href="https://x.com/gregorvand"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a><a href="https://x.com/gregorvand">Gregor Vand</a> is a security-focused technologist, and is the founder and CTO of <a href="https://mailpass.io/">Mailpass.</a> Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></p>
 <p>&nbsp;</p>
 </div>
 <p><a href="http://softwareengineeringdaily.com/wp-content/uploads/2025/02/SED1823-StackHawk.txt">Please click here to see the transcript of this episode.</a></p>
@@ -1580,7 +1633,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div>
-<p><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a><a href="https://x.com/gregorvand">Gregor Vand</a> is a security-focused technologist, and is the founder and CTO of <a href="https://mailpass.io/">Mailpass</a>. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></p>
+<p><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a><a href="https://x.com/gregorvand">Gregor Vand</a> is a security-focused technologist, and is the founder and CTO of <a href="https://mailpass.io/">Mailpass</a>. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></p>
 <p>&nbsp;</p>
 </div>
 <p><a href="http://softwareengineeringdaily.com/wp-content/uploads/2025/02/SED1787-SquareX.txt">Please click here to see the transcript of this episode.</a></p>
@@ -1682,7 +1735,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <div style="text-align: left;">
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -1783,7 +1836,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 </div>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -1878,7 +1931,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://www.linkedin.com/in/john-wall-07b8604/">John Wall</a> is the Chief Operating Officer and Head of Products, Engineering and Services at QNX, which is a division of BlackBerry. <a href="https://x.com/aboutsecurity">Ismael Valenzuela</a> is the former Vice President of Threat Research and Intelligence at BlackBerry, where he led threat research, intelligence, and defensive innovation. John and Ismael join the podcast to talk about cybersecurity at Blackberry, including secure communications in embedded systems.</p>
 </div>
 <div>
-<p style="text-align: justify;"><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -2019,7 +2072,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p>Amanda and Allan join the podcast with Gregor Vand to talk about Blueprints and their application to vulnerability and container security.</p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -2158,7 +2211,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://x.com/SylvainCorlay/">Sylvain Corlay</a> is the CEO of QuantStack. He joins the podcast to talk about his company, Conda, Mamba, the new Mamba 2.0 release, software package security, and more.</p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -2207,7 +2260,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p>Tobi Hahn is Ableton&#8217;s Engineering Manager. He joins the podcast to talk about software engineering for Ableton Live.</p>
 </div>
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -2305,7 +2358,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://x.com/EmreTinaztepe">Emre Tinaztepe</a> is the Founder and CEO of <a href="https://www.binalyze.com/">Binalyze</a> which is a cybersecurity company specializing in digital forensics and incident response solutions. He joins the podcast with Gregor Vand to talk about his path into engineering, his time in the infantry, Binalyze, digital forensics, and more.</p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -2629,7 +2682,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://x.com/ccheever">Charlie Cheever</a> and <a href="https://x.com/ji">James Ide</a> are the Co-Founders of Expo and they join the podcast to talk about the framework and the problems it solves.</p>
 </div>
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -2764,7 +2817,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 </div>
 <div style="text-align: justify;"><a href="https://x.com/lcasdev">Luca Casonato</a> is a Software Engineer for Deno and he spoke about the project on Software Engineering Daily in 2023. We’re excited to have Luca join the show again to talk about the many changes introduced in Deno 2.0.</div>
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
@@ -2866,7 +2919,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://bishopfox.com/">Bishop Fox</a> is a private professional services firm focused on offensive security testing. <a href="https://www.linkedin.com/in/mark-a-goodwin/">Mark Goodwin</a> is the Director of Operations at Bishop Fox and he was previously an officer in the U.S. Air Force where he did cyberspace operations. Mark joins the podcast with Gregor Vand to talk about Bishop Fox and the future of offensive pentesting.</p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -3019,7 +3072,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://twitter.com/feedthejim">Jimmy Lai</a> is a Software Engineering Manager at Next.js and <a href="https://twitter.com/timneutkens">Tim Neutkens</a> is the Tech Lead for Next.js and Turbopack. They join the show to talk about Next.js and what&#8217;s new in version 15.</p>
 </div>
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -3219,7 +3272,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://twitter.com/joelkwartler">Joel Kwartler</a> is Runway&#8217;s Group Product Manager. He joins the podcast with Gregor Vand to talk about Runway and the technology the company is developing.</p>
 </div>
 <div>
-<p style="text-align: justify;"><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -3366,7 +3419,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://twitter.com/jamesgreen2016">James Green</a> is a general partner at <a href="https://www.crv.com/">CRV</a> where he is known for investing in startups focused on security, infrastructure and financial services. He joins the show to talk about his path into tech, CRV, life as a VC, and more.</p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -3470,7 +3523,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p style="text-align: justify;">Software Engineering Daily listeners can get a free 90 day trial of Authlete at <a href="https://authlete.com/sed">https://authlete.com/sed</a></p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -3817,7 +3870,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><em>Full Disclosure: This episode is sponsored by <strong>Sleuth</strong>.</em></p>
 </div>
 <div>
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -3961,7 +4014,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p>We hope you enjoy this deep dive into Rust and C++ on Software Engineering Daily.</p>
 </div>
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 </div>
 <p>&nbsp;</p>
@@ -4111,7 +4164,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p>You can find a link to Matt’s blog posts <a href="https://bessey.dev/">here</a>.</p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -4264,7 +4317,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://twitter.com/juliannaelamb">Julianna Lamb</a> is the Co-Founder and CTO of <a href="https://twitter.com/stytchauth">Stytch</a> which is building an all-in-one platform for identity and access management. She joins the podcast with Gregor Vand to talk about the platform.</p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: justify;">
 <div style="text-align: left;">
@@ -4507,7 +4560,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://x.com/mattomata">Matt Moore</a> is the Founder and CTO of <a href="https://x.com/chainguard_dev">Chainguard</a>. He started his career in compiler optimization at Microsoft and worked at Google before starting Chainguard. He joins the show with Gregor Vand to talk about container security.</p>
 </div>
 <div>
-<p style="text-align: justify;"><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: left;">
 <p><a href="http://softwareengineeringdaily.com/wp-content/uploads/2024/09/SED1746-Chainguard.txt">Please click here to see the transcript of this episode.</a></p>
@@ -4788,7 +4841,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><a href="https://twitter.com/jorandirkgreef">Joran Greef</a> is the Founder and CEO of <a href="https://twitter.com/TigerBeetleDB">TigerBeetle</a>, which is developing an open-source financial transactions database focused on mission critical safety and performance. He joins the podcast to talk about the TigerBeetle&#8217;s technology and problems it solves.</p>
 </div>
 <div style="text-align: justify;">
-<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="size-full wp-image-15613 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/11/Gregor-Vand.jpeg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /><img class="" alt="" width="" height="" /></a>Gregor Vand is a security-focused technologist, and is the founder and CTO of Mailpass. Previously, Gregor was a CTO across cybersecurity, cyber insurance and general software engineering companies. He has been based in Asia Pacific for almost a decade and can be found via his profile at vand.hk.</span></span></p>
 <p>&nbsp;</p>
 <div style="text-align: left;">
 <p><a href="http://softwareengineeringdaily.com/wp-content/uploads/2024/09/SED1738-TigerBeetle.txt">Please click here to see the transcript of this episode.</a></p>
@@ -4835,7 +4888,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <div style="text-align: justify;">
 <p><a href="https://www.linkedin.com/in/bgrins/">Brian Grinstead</a> is a Senior Principal Engineer at <a href="https://twitter.com/mozilla">Mozilla</a>. He joins the podcast with Kevin Ball to talk about the <a href="https://twitter.com/Firefox">Firefox</a> architecture, the recent UI refactor, web performance, the role of Rust in the browser, and more.</p>
 <div style="text-align: left;">
-<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
+<p style="text-align: justify;"><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/01/KevinBall.jpg?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a></p>
 <p style="text-align: justify;"><a href="https://www.kball.llc/">Kevin Ball</a> or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.</p>
 <p>&nbsp;</p>
 </div>
@@ -4906,56 +4959,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>49:05</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">17070</post-id>	</item>
-	<item>
-		<title>Building a Collaborative DevOps Platform with  Adam Jacob</title>
-		<link>https://softwareengineeringdaily.com/2024/09/05/building-a-collaborative-devops-platform-with-adam-jacob/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=building-a-collaborative-devops-platform-with-adam-jacob</link>
-		<pubDate>Thu, 05 Sep 2024 09:00:16 +0000</pubDate>
-		<guid isPermaLink="false">https://softwareengineeringdaily.com/?p=17064</guid>
-		<comments>https://softwareengineeringdaily.com/2024/09/05/building-a-collaborative-devops-platform-with-adam-jacob/#respond</comments>
-		<wfw:commentRss>https://softwareengineeringdaily.com/2024/09/05/building-a-collaborative-devops-platform-with-adam-jacob/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[All Content]]></category>
-		<category><![CDATA[Exclusive Content]]></category>
-		<category><![CDATA[Hosts]]></category>
-		<category><![CDATA[Lee Atchison]]></category>
-		<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[Adam Jacob]]></category>
-		<category><![CDATA[Chef]]></category>
-		<category><![CDATA[collaborative tool]]></category>
-		<category><![CDATA[DevOps]]></category>
-		<category><![CDATA[System Initiative]]></category>
-		<description>&lt;p&gt;DevOps is a powerful model for managing the building and operational aspects of modern applications. Most developers are now familiar with DevOps, and the adoption of DevOps practices is widespread and growing. Adam Jacob was the original author of Chef, a popular early DevOps tool. He’s now the CEO of System Initiative, which develops an&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://softwareengineeringdaily.com/2024/09/05/building-a-collaborative-devops-platform-with-adam-jacob/&quot;&gt;Building a Collaborative DevOps Platform with  Adam Jacob&lt;/a&gt; appeared first on &lt;a href=&quot;https://softwareengineeringdaily.com&quot;&gt;Software Engineering Daily&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div style="text-align: justify;">
-<p>DevOps is a powerful model for managing the building and operational aspects of modern applications. Most developers are now familiar with DevOps, and the adoption of DevOps practices is widespread and growing.</p>
-</div>
-<div style="text-align: justify;">
-<p><a href="https://twitter.com/adamhjk">Adam Jacob</a> was the original author of Chef, a popular early DevOps tool. He&#8217;s now the CEO of <a href="https://twitter.com/thesysteminit">System Initiative</a>, which develops an open-source collaborative tool designed to remove the many pain points from DevOps work.</p>
-</div>
-<div style="text-align: justify;">
-<p>Adam joins the show to talk about the history of DevOps, current strategies in DevOps, System Initiative’s collaborative platform, and more.</p>
-</div>
-<div style="text-align: justify;">
-<p><a href="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/lee.png"><img data-recalc-dims="1" loading="lazy" decoding="async" class="size-full wp-image-15581 alignleft" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/lee.png?resize=218%2C258&#038;ssl=1" alt="" width="218" height="258" /></a>This episode is hosted by Lee Atchison. Lee Atchison is a software architect, author, and thought leader on cloud computing and application modernization. His best-selling book, <a href="https://leeatchison.com/books/architecting-for-scale/?utm_campaign=swengdaily-ep&amp;utm_source=sed&amp;utm_medium=web">Architecting for Scale</a> (O’Reilly Media), is an essential resource for technical teams looking to maintain high availability and manage risk in their cloud environments.</p>
-</div>
-<div style="text-align: justify;">
-<p>Lee is the host of his podcast, <a href="https://www.mdb.fm/?utm_campaign=swengdaily-ep&amp;utm_source=sed&amp;utm_medium=web">Modern Digital Business</a>, an engaging and informative podcast produced for people looking to build and grow their digital business with the help of modern applications and processes developed for today’s fast-moving business environment. Listen at <a href="https://www.mdb.fm/?utm_campaign=swengdaily-ep&amp;utm_source=sed&amp;utm_medium=web">mdb.fm</a>. Follow Lee at <a href="https://softwarearchitectureinsights.com/?utm_campaign=swengdaily-ep&amp;utm_source=sed&amp;utm_medium=web">softwarearchitectureinsights.com</a>, and see all his content at <a href="https://leeatchison.com/?utm_campaign=swengdaily-ep&amp;utm_source=sed&amp;utm_medium=web">leeatchison.com</a>.</p>
-<div style="text-align: left;">
-<p><a href="http://softwareengineeringdaily.com/wp-content/uploads/2024/08/SED1732-System-Initiative.txt">Please click here to see the transcript of this episode.</a></p>
-</div>
-<div style="text-align: justify;">
-<p style="text-align: left;">Sponsorship inquiries: <a href="https://cms.megaphone.fm/organizations/619b680e-d813-11ea-9750-e7ecac406436/podcasts/e60108fe-e328-11ea-b2b6-1348249f900a/episodes/3913370a-bc44-11ed-ace6-8b1f96d82bba/sponsor@softwareengineeringdaily.com">sponsor@softwareengineeringdaily.com</a></p>
-</div>
-</div>
-<p>The post <a href="https://softwareengineeringdaily.com/2024/09/05/building-a-collaborative-devops-platform-with-adam-jacob/">Building a Collaborative DevOps Platform with  Adam Jacob</a> appeared first on <a href="https://softwareengineeringdaily.com">Software Engineering Daily</a>.</p>
-]]></content:encoded>
-		<enclosure url="https://traffic.megaphone.fm/SED2485726001.mp3" length="51130354" type="audio/mpeg" />
-		<itunes:subtitle>DevOps is a powerful model for managing the building and operational aspects of modern applications. Most developers are now familiar with DevOps, and the adoption of DevOps practices is widespread and growing.</itunes:subtitle>
-		<itunes:summary>DevOps is a powerful model for managing the building and operational aspects of modern applications. Most developers are now familiar with DevOps, and the adoption of DevOps practices is widespread and growing. Adam Jacob was the original author of Chef, a popular early DevOps tool. He’s now the CEO of System Initiative, which develops an</itunes:summary>
-		<itunes:author>Software Engineering Daily</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:duration>53:14</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">17064</post-id>	</item>
 </channel>
 </rss>

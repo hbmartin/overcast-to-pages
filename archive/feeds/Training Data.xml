@@ -34,6 +34,113 @@
     <itunes:category text="Business">
     </itunes:category>
     <item>
+      <title>The Breakthroughs Needed for AGI Have Already Been Made: OpenAI Former Research Head Bob McGrew</title>
+      <description>As OpenAI's former Head of Research, Bob McGrew witnessed the company's evolution from GPT-3’s breakthrough to today's reasoning models. He argues that there are three legs of the stool for AGI—Transformers, scaled pre-training, and reasoning—and that the fundamentals that will shape the next decade-plus are already in place. He thinks 2025 will be defined by reasoning while pre-training hits diminishing returns. Bob discusses why the agent economy will price services at compute costs due to near-infinite supply, fundamentally disrupting industries like law and medicine, and how his children use ChatGPT to spark curiosity and agency. From robotics breakthroughs to managing brilliant researchers, Bob offers a unique perspective on AI’s trajectory and where startups can still find defensible opportunities.
+
+Hosted by: Stephanie Zhan and Sonya Huang, Sequoia Capital
+
+
+
+Mentioned in this episode: 
+
+
+  
+Solving Rubik’s Cube with a robot hand: OpenAI’s original robotics research
+
+
+
+  
+Computer Use and Operator: Anthropic and OpenAI reasoning breakthroughs that originated with OpenAi researchers
+
+
+
+  
+Skild and Physical Intelligence: Robotics-oriented companies Bob sees as well-positioned now
+
+
+
+  
+Distyl: AI company founded by ex-Palintir alums to create enterprise workflows driven by proprietary data
+
+
+
+  
+Member of the technical staff: Title at OpenAI designed to break down barriers between AI researchers and engineers
+
+
+
+
+Howie.ai: Scheduling app that Bob uses</description>
+      <pubDate>Tue, 17 Jun 2025 09:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Sequoia Capital</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/0ae02282-47dc-11f0-8118-9f5839eff378/image/bca2064a8b6bd75883653cad9282e9d5.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>As OpenAI's former Head of Research, Bob McGrew witnessed the company's evolution from GPT-3’s breakthrough to today's reasoning models. He argues that there are three legs of the stool for AGI—Transformers, scaled pre-training, and reasoning—and that the fundamentals that will shape the next decade-plus are already in place. He thinks 2025 will be defined by reasoning while pre-training hits diminishing returns. Bob discusses why the agent economy will price services at compute costs due to near-infinite supply, fundamentally disrupting industries like law and medicine, and how his children use ChatGPT to spark curiosity and agency. From robotics breakthroughs to managing brilliant researchers, Bob offers a unique perspective on AI’s trajectory and where startups can still find defensible opportunities.
+
+Hosted by: Stephanie Zhan and Sonya Huang, Sequoia Capital
+
+
+
+Mentioned in this episode: 
+
+
+  
+Solving Rubik’s Cube with a robot hand: OpenAI’s original robotics research
+
+
+
+  
+Computer Use and Operator: Anthropic and OpenAI reasoning breakthroughs that originated with OpenAi researchers
+
+
+
+  
+Skild and Physical Intelligence: Robotics-oriented companies Bob sees as well-positioned now
+
+
+
+  
+Distyl: AI company founded by ex-Palintir alums to create enterprise workflows driven by proprietary data
+
+
+
+  
+Member of the technical staff: Title at OpenAI designed to break down barriers between AI researchers and engineers
+
+
+
+
+Howie.ai: Scheduling app that Bob uses</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>As OpenAI's former Head of Research, Bob McGrew witnessed the company's evolution from GPT-3’s breakthrough to today's reasoning models. He argues that there are three legs of the stool for AGI—Transformers, scaled pre-training, and reasoning—and that the fundamentals that will shape the next decade-plus are already in place. He thinks 2025 will be defined by reasoning while pre-training hits diminishing returns. Bob discusses why the agent economy will price services at compute costs due to near-infinite supply, fundamentally disrupting industries like law and medicine, and how his children use ChatGPT to spark curiosity and agency. From robotics breakthroughs to managing brilliant researchers, Bob offers a unique perspective on AI’s trajectory and where startups can still find defensible opportunities.</p>
+<p><em>Hosted by: Stephanie Zhan and Sonya Huang, Sequoia Capital</em></p>
+<p><br></p>
+<p><u>Mentioned in this episode</u>: </p>
+<ul>
+  <li>
+<p><a href="https://openai.com/index/solving-rubiks-cube/"><u>Solving Rubik’s Cube with a robot hand</u></a>: OpenAI’s original robotics research</p>
+</li>
+  <li>
+<p><a href="https://www.anthropic.com/news/3-5-models-and-computer-use"><u>Computer Use</u></a> and <a href="https://openai.com/index/introducing-operator/"><u>Operator</u></a>: Anthropic and OpenAI reasoning breakthroughs that originated with OpenAi researchers</p>
+</li>
+  <li>
+<p><a href="https://www.skild.ai/"><u>Skild</u></a> and <a href="https://www.physicalintelligence.company/"><u>Physical Intelligence</u></a>: Robotics-oriented companies Bob sees as well-positioned now</p>
+</li>
+  <li>
+<p><a href="https://distyl.ai/"><u>Distyl</u></a>: AI company founded by ex-Palintir alums to create enterprise workflows driven by proprietary data</p>
+</li>
+  <li>
+<p><a href="https://x.com/petergyang/status/1728441291569307785?lang=en"><u>Member of the technical staff</u></a>: Title at OpenAI designed to break down barriers between AI researchers and engineers</p>
+</li>
+</ul>
+<p><br><a href="http://howie.ai"><u>Howie.ai</u></a>: Scheduling app that Bob uses</p>]]>
+      </content:encoded>
+      <itunes:duration>2931</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[0ae02282-47dc-11f0-8118-9f5839eff378]]></guid>
+      <enclosure url="https://tracking.swap.fm/track/AoSMVIl7piQbthzJoBqJ/traffic.megaphone.fm/CPUAI1197287200.mp3?updated=1750138681" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>OpenAI Codex Team: From Coding Autocomplete to Asynchronous Autonomous Agents</title>
       <description>Hanson Wang and Alexander Embiricos from OpenAI's Codex team discuss their latest AI coding agent that works independently in its own environment for up to 30 minutes, generating full pull requests from simple task descriptions. They explain how they trained the model beyond competitive programming to match real-world software engineering needs, the shift from pairing with AI to delegating to autonomous agents, and their vision for a future where the majority of code is written by agents working on their own computers. The conversation covers the technical challenges of long-running inference, the importance of creating realistic training environments, and how developers are already using Codex to fix bugs and implement features at OpenAI.
 

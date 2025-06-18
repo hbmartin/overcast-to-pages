@@ -9,8 +9,8 @@
 
 Join Charna Parkey and the community shaping the future of open source data, open source software, data in AI, and much more.</description>
     <language>en-us</language>
-    <pubDate>Tue, 3 Jun 2025 15:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 3 Jun 2025 18:05:47 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 15:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 15:00:12 +0000</lastBuildDate>
     <image>
       <link>https://www.datastax.com/resources/podcast/open-source-data</link>
       <title>Open||Source||Data</title>
@@ -30,6 +30,28 @@ Join Charna Parkey and the community shaping the future of open source data, ope
       <itunes:email>opensourcedata@datastax.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">cd9c01a4-fb71-454c-b81b-7464eb2a7534</guid>
+      <title>Why AI Can’t Scale Without Infrastructure Fixes | Darrick Horton</title>
+      <description><![CDATA[<p>From energy bottlenecks to proprietary GPU ecosystems, the CEO of TensorWave, Darrick Horton explains why today’s AI scale is unsustainable—and how open-source hardware, smarter networking, and nuclear power could be the fix.</p><p><strong>QUOTES</strong></p><p><i>Darrick Horton</i><br /><br /><i>“The energy crisis is getting worse every day. It’s very hard to find data center capacity—especially capacity that can scale. Five years ago, 10 or 20 megawatts was considered state-of-the-art. Now, 20 is nothing. The real hyperscale AI players are looking at 100 megawatts minimum, going into the gigawatt territory. That’s more than many cities combined just to power one cluster.”</i></p><p><i>Charna Parkey</i></p><p><i>“We’re still training models in a very brute-force way—throwing the biggest datasets possible at the problem and hoping something useful emerges. That’s not sustainable. At some point, we have to shift toward smarter, more intentional training methods. We can’t afford to be wasteful at this scale.”</i></p><p><strong>TIMESTAMPS</strong></p><p>[00:00:00] Introduction</p><p>[00:01:00] Founding TensorWave</p><p>[00:04:00] AMD as a Viable Alternative</p><p>[00:08:00] Open Source as a Startup Enabler</p><p>[00:09:30] Launching ScalarLM</p><p>[00:12:00] ScalarLM Impact and Reception</p><p>[00:14:30] Roadmap for 2025</p><p>[00:16:00] Technical Advantages of AMD</p><p>[00:18:00] Emerging Open Source Infrastructure</p><p>[00:20:00] Broader Societal Issues AI Must Address</p><p>[00:22:00] AI’s Impact on Global Energy</p><p>[00:26:00] Fundamental Hardware vs. Human Efficiency</p><p>[00:30:00] Data Center Density Evolution</p><p>[00:34:00] Advice to Founders and Tech Trends</p><p>[00:38:00] AI Energy Challenges</p><p>[00:44:00] AI’s Rapid Impact vs. Internet</p><p>[00:46:00] Monopoly vs. Democratization in AI</p><p>[00:50:00] Close to Season Wrap Discussion and Predictions</p>
+]]></description>
+      <pubDate>Tue, 17 Jun 2025 15:00:00 +0000</pubDate>
+      <author>opensourcedata@datastax.com (DataStax)</author>
+      <link>https://www.datastax.com/resources/podcast/open-source-data</link>
+      <content:encoded><![CDATA[<p>From energy bottlenecks to proprietary GPU ecosystems, the CEO of TensorWave, Darrick Horton explains why today’s AI scale is unsustainable—and how open-source hardware, smarter networking, and nuclear power could be the fix.</p><p><strong>QUOTES</strong></p><p><i>Darrick Horton</i><br /><br /><i>“The energy crisis is getting worse every day. It’s very hard to find data center capacity—especially capacity that can scale. Five years ago, 10 or 20 megawatts was considered state-of-the-art. Now, 20 is nothing. The real hyperscale AI players are looking at 100 megawatts minimum, going into the gigawatt territory. That’s more than many cities combined just to power one cluster.”</i></p><p><i>Charna Parkey</i></p><p><i>“We’re still training models in a very brute-force way—throwing the biggest datasets possible at the problem and hoping something useful emerges. That’s not sustainable. At some point, we have to shift toward smarter, more intentional training methods. We can’t afford to be wasteful at this scale.”</i></p><p><strong>TIMESTAMPS</strong></p><p>[00:00:00] Introduction</p><p>[00:01:00] Founding TensorWave</p><p>[00:04:00] AMD as a Viable Alternative</p><p>[00:08:00] Open Source as a Startup Enabler</p><p>[00:09:30] Launching ScalarLM</p><p>[00:12:00] ScalarLM Impact and Reception</p><p>[00:14:30] Roadmap for 2025</p><p>[00:16:00] Technical Advantages of AMD</p><p>[00:18:00] Emerging Open Source Infrastructure</p><p>[00:20:00] Broader Societal Issues AI Must Address</p><p>[00:22:00] AI’s Impact on Global Energy</p><p>[00:26:00] Fundamental Hardware vs. Human Efficiency</p><p>[00:30:00] Data Center Density Evolution</p><p>[00:34:00] Advice to Founders and Tech Trends</p><p>[00:38:00] AI Energy Challenges</p><p>[00:44:00] AI’s Rapid Impact vs. Internet</p><p>[00:46:00] Monopoly vs. Democratization in AI</p><p>[00:50:00] Close to Season Wrap Discussion and Predictions</p>
+]]></content:encoded>
+      <enclosure length="48892248" type="audio/mpeg" url="https://cdn.simplecast.com/audio/8fa42388-eca3-4676-9892-1efcec1d15cf/episodes/c66e6a26-5106-4809-8caa-ebbaa5b0a4db/audio/cf76810b-dcbb-4a91-a411-c5c06e488b46/default_tc.mp3?aid=rss_feed&amp;feed=isA9_EKf"/>
+      <itunes:title>Why AI Can’t Scale Without Infrastructure Fixes | Darrick Horton</itunes:title>
+      <itunes:author>DataStax</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/d879b8b5-f68d-421b-85c2-33a20c1d926d/710e304f-a159-4c8e-856c-40635e0a30f9/3000x3000/darrick-20horton.jpg?aid=rss_feed"/>
+      <itunes:duration>00:50:55</itunes:duration>
+      <itunes:summary>From energy bottlenecks to proprietary GPU ecosystems, the CEO of TensorWave, Darrick Horton explains why today’s AI scale is unsustainable—and how open-source hardware, smarter networking, and nuclear power could be the fix.</itunes:summary>
+      <itunes:subtitle>From energy bottlenecks to proprietary GPU ecosystems, the CEO of TensorWave, Darrick Horton explains why today’s AI scale is unsustainable—and how open-source hardware, smarter networking, and nuclear power could be the fix.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>7</itunes:season>
+    </item>
     <item>
       <guid isPermaLink="false">8b187b29-eb91-4f74-813e-52a9f66212be</guid>
       <title>Building Open-Source LLMs with Philosophy | Anastasia Stasenko</title>

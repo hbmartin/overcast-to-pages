@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Thu, 05 Jun 2025 06:29:40 -0500</fireside:genDate>
+    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
+    <fireside:genDate>Tue, 17 Jun 2025 07:44:48 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Vanishing Gradients</title>
     <link>https://vanishinggradients.fireside.fm</link>
-    <pubDate>Thu, 05 Jun 2025 21:28:07 +1000</pubDate>
+    <pubDate>Tue, 17 Jun 2025 22:43:03 +1000</pubDate>
     <description>A podcast about all things data, brought to you by data scientist Hugo Bowne-Anderson.
 It's time for more critical conversations about the challenges in our industry in order to build better compasses for the solution space! To this end, this podcast will consist of long-format conversations between Hugo and other people who work broadly in the data science, machine learning, and AI spaces. We'll dive deep into all the moving parts of the data world, so if you're new to the space, you'll have an opportunity to learn from the experts. And if you've been around for a while, you'll find out what's happening in many other parts of the data world.
 </description>
@@ -57,6 +57,117 @@ Original music, bleeps, and blops by local Sydney legend PlaneFace (https://plan
       <fireside:playerURL>https://fireside.fm/player/v2/iFNgGGYw+_XPsJfIe</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/iFNgGGYw+_XPsJfIe" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:person email="" href="http://hugobowne.github.io/" role="host">Hugo Bowne-Anderson</podcast:person>
+    </item>
+    <item>
+      <title>Episode 50: A Field Guide to Rapidly Improving AI Products -- With Hamel Husain</title>
+      <link>https://vanishinggradients.fireside.fm/50</link>
+      <guid isPermaLink="false">3851d92b-389c-4690-90c3-8a54ad73b7d8</guid>
+      <pubDate>Tue, 17 Jun 2025 18:30:00 +1000</pubDate>
+      <author>Hugo Bowne-Anderson</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/140c3904-8258-4c39-a698-a112b7077bd7/3851d92b-389c-4690-90c3-8a54ad73b7d8.mp3" length="54176426" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Hugo Bowne-Anderson</itunes:author>
+      <itunes:subtitle>Hugo talks with Hamel Hussain (ex-Airbnb, GitHub, DataRobot) about how to improve AI products through evaluation, error analysis, and iteration. They discuss why most teams overlook debugging LLM systems, how to prioritize what to fix, and why evals are not just metrics—but a full development process.</itunes:subtitle>
+      <itunes:duration>27:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/1/140c3904-8258-4c39-a698-a112b7077bd7/cover.jpg?v=1"/>
+      <description>If we want AI systems that actually work, we need to get much better at evaluating them, not just building more pipelines, agents, and frameworks.
+In this episode, Hugo talks with Hamel Hussain (ex-Airbnb, GitHub, DataRobot) about how teams can improve AI products by focusing on error analysis, data inspection, and systematic iteration. The conversation is based on Hamel’s blog post A Field Guide to Rapidly Improving AI Products, which he joined Hugo’s class to discuss.
+They cover:
+🔍 Why most teams struggle to measure whether their systems are actually improving  
+📊 How error analysis helps you prioritize what to fix (and when to write evals)  
+🧮 Why evaluation isn’t just a metric — but a full development process  
+⚠️ Common mistakes when debugging LLM and agent systems  
+🛠️ How to think about the tradeoffs in adding more evals vs. fixing obvious issues  
+👥 Why enabling domain experts — not just engineers — can accelerate iteration
+If you’ve ever built an AI system and found yourself unsure how to make it better, this conversation is for you.
+LINKS
+* A Field Guide to Rapidly Improving AI Products by Hamel Husain (https://hamel.dev/blog/posts/field-guide/)
+* Vanishing Gradients YouTube Channel (https://www.youtube.com/channel/UC_NafIo-Ku2loOLrzm45ABA)  
+* Upcoming Events on Luma (https://lu.ma/calendar/cal-8ImWFDQ3IEIxNWk)
+* Hugo's recent newsletter about upcoming events and more! (https://hugobowne.substack.com/p/ai-as-a-civilizational-technology)
+🎓 Learn more:
+Hugo's course: Building LLM Applications for Data Scientists and Software Engineers (https://maven.com/s/course/d56067f338) — next cohort starts July 8: https://maven.com/s/course/d56067f338
+Hamel &amp; Shreya's course: AI Evals For Engineers &amp; PMs (https://maven.com/parlance-labs/evals?promoCode=GOHUGORGOHOME) — use code GOHUGORGOHOME for $800 off
+📺 Watch the video version on YouTube: YouTube link (https://youtu.be/rWToRi2_SeY) 
+</description>
+      <itunes:keywords>data science, machine learning, AI, LLMs, evas</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>If we want AI systems that actually work, we need to get much better at evaluating them, not just building more pipelines, agents, and frameworks.</p>
+
+<p>In this episode, Hugo talks with Hamel Hussain (ex-Airbnb, GitHub, DataRobot) about how teams can improve AI products by focusing on error analysis, data inspection, and systematic iteration. The conversation is based on Hamel’s blog post <em>A Field Guide to Rapidly Improving AI Products</em>, which he joined Hugo’s class to discuss.</p>
+
+<p>They cover:<br>
+🔍 Why most teams struggle to measure whether their systems are actually improving<br><br>
+📊 How error analysis helps you prioritize what to fix (and when to write evals)<br><br>
+🧮 Why evaluation isn’t just a metric — but a full development process<br><br>
+⚠️ Common mistakes when debugging LLM and agent systems<br><br>
+🛠️ How to think about the tradeoffs in adding more evals vs. fixing obvious issues<br><br>
+👥 Why enabling domain experts — not just engineers — can accelerate iteration</p>
+
+<p>If you’ve ever built an AI system and found yourself unsure how to make it better, this conversation is for you.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://hamel.dev/blog/posts/field-guide/" rel="nofollow">A Field Guide to Rapidly Improving AI Products by Hamel Husain</a></li>
+<li><a href="https://www.youtube.com/channel/UC_NafIo-Ku2loOLrzm45ABA" rel="nofollow">Vanishing Gradients YouTube Channel</a><br></li>
+<li><a href="https://lu.ma/calendar/cal-8ImWFDQ3IEIxNWk" rel="nofollow">Upcoming Events on Luma</a></li>
+<li><a href="https://hugobowne.substack.com/p/ai-as-a-civilizational-technology" rel="nofollow">Hugo&#39;s recent newsletter about upcoming events and more!</a></li>
+</ul>
+
+<hr>
+
+<p>🎓 Learn more:</p>
+
+<ul>
+<li><strong>Hugo&#39;s course:</strong> <a href="https://maven.com/s/course/d56067f338" rel="nofollow">Building LLM Applications for Data Scientists and Software Engineers</a> — next cohort starts July 8: <a href="https://maven.com/s/course/d56067f338" rel="nofollow">https://maven.com/s/course/d56067f338</a></li>
+<li><strong>Hamel &amp; Shreya&#39;s course:</strong> <a href="https://maven.com/parlance-labs/evals?promoCode=GOHUGORGOHOME" rel="nofollow">AI Evals For Engineers &amp; PMs</a> — use code <code>GOHUGORGOHOME</code> for $800 off</li>
+</ul>
+
+<p>📺 <strong>Watch the video version on YouTube:</strong> <a href="https://youtu.be/rWToRi2_SeY" rel="nofollow">YouTube link</a></p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>If we want AI systems that actually work, we need to get much better at evaluating them, not just building more pipelines, agents, and frameworks.</p>
+
+<p>In this episode, Hugo talks with Hamel Hussain (ex-Airbnb, GitHub, DataRobot) about how teams can improve AI products by focusing on error analysis, data inspection, and systematic iteration. The conversation is based on Hamel’s blog post <em>A Field Guide to Rapidly Improving AI Products</em>, which he joined Hugo’s class to discuss.</p>
+
+<p>They cover:<br>
+🔍 Why most teams struggle to measure whether their systems are actually improving<br><br>
+📊 How error analysis helps you prioritize what to fix (and when to write evals)<br><br>
+🧮 Why evaluation isn’t just a metric — but a full development process<br><br>
+⚠️ Common mistakes when debugging LLM and agent systems<br><br>
+🛠️ How to think about the tradeoffs in adding more evals vs. fixing obvious issues<br><br>
+👥 Why enabling domain experts — not just engineers — can accelerate iteration</p>
+
+<p>If you’ve ever built an AI system and found yourself unsure how to make it better, this conversation is for you.</p>
+
+<p><strong>LINKS</strong></p>
+
+<ul>
+<li><a href="https://hamel.dev/blog/posts/field-guide/" rel="nofollow">A Field Guide to Rapidly Improving AI Products by Hamel Husain</a></li>
+<li><a href="https://www.youtube.com/channel/UC_NafIo-Ku2loOLrzm45ABA" rel="nofollow">Vanishing Gradients YouTube Channel</a><br></li>
+<li><a href="https://lu.ma/calendar/cal-8ImWFDQ3IEIxNWk" rel="nofollow">Upcoming Events on Luma</a></li>
+<li><a href="https://hugobowne.substack.com/p/ai-as-a-civilizational-technology" rel="nofollow">Hugo&#39;s recent newsletter about upcoming events and more!</a></li>
+</ul>
+
+<hr>
+
+<p>🎓 Learn more:</p>
+
+<ul>
+<li><strong>Hugo&#39;s course:</strong> <a href="https://maven.com/s/course/d56067f338" rel="nofollow">Building LLM Applications for Data Scientists and Software Engineers</a> — next cohort starts July 8: <a href="https://maven.com/s/course/d56067f338" rel="nofollow">https://maven.com/s/course/d56067f338</a></li>
+<li><strong>Hamel &amp; Shreya&#39;s course:</strong> <a href="https://maven.com/parlance-labs/evals?promoCode=GOHUGORGOHOME" rel="nofollow">AI Evals For Engineers &amp; PMs</a> — use code <code>GOHUGORGOHOME</code> for $800 off</li>
+</ul>
+
+<p>📺 <strong>Watch the video version on YouTube:</strong> <a href="https://youtu.be/rWToRi2_SeY" rel="nofollow">YouTube link</a></p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/iFNgGGYw+v7GLgxDe</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/iFNgGGYw+v7GLgxDe" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:person email="" href="http://hugobowne.github.io/" role="host">Hugo Bowne-Anderson</podcast:person>
     </item>

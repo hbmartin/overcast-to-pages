@@ -4,7 +4,7 @@
 		<description><![CDATA[A podcast where I interview interesting people that work in the technology space, who have managed to retain their sense of humor, don't take themselves too seriously, and aren't on book tours or selling cryptocurrency.]]></description>
 		<link>https://www.hermit-tech.com/</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 09 Jun 2025 16:19:09 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Jun 2025 05:52:30 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f3dcbe98/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Nikhil Suresh]]></author>
 		<copyright><![CDATA[Nikhil Suresh]]></copyright>
@@ -20,6 +20,24 @@
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40813302/40813302-1711016042577-f43b85105b1c.jpg"/>
+		<item>
+			<title><![CDATA["Damn Chatbots" with Demetrios Brinkmann]]></title>
+			<description><![CDATA[<p>Today I'm chatting with Demetrios Brinkmann, certified Cool Dude (TM) with lots of experience in the machine learning space. I recorded this a million years ago and must thank Demetrios for his patience. Topics we touch on are: machine learning hype in businesses, job searches, and the pros/cons of authenticity in a career.</p><p><br /></p><p>Also, in a desperate attempt to feel like this is a responsible thing to produce while running a business, you can get advice on all sorts of software problems from my team at hermit-tech.com or email me personally at nik.suresh@hermit-tech.com</p><p><br /></p><p>Many thanks are also extended to Lisa Lorenzin for taking my <em>garbage </em>audio and turning it into something passable.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/nik9125/episodes/Damn-Chatbots-with-Demetrios-Brinkmann-e34brgm</link>
+			<guid isPermaLink="false">5d583b87-5125-492d-a76f-af0a7451dc98</guid>
+			<dc:creator><![CDATA[Nikhil Suresh]]></dc:creator>
+			<pubDate>Tue, 17 Jun 2025 05:49:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3dcbe98/podcast/play/104246230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-17%2F402307582-44100-2-475cc0f729f25.m4a" length="92855702" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Today I&apos;m chatting with Demetrios Brinkmann, certified Cool Dude (TM) with lots of experience in the machine learning space. I recorded this a million years ago and must thank Demetrios for his patience. Topics we touch on are: machine learning hype in businesses, job searches, and the pros/cons of authenticity in a career.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Also, in a desperate attempt to feel like this is a responsible thing to produce while running a business, you can get advice on all sorts of software problems from my team at hermit-tech.com or email me personally at nik.suresh@hermit-tech.com&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Many thanks are also extended to Lisa Lorenzin for taking my &lt;em&gt;garbage &lt;/em&gt;audio and turning it into something passable.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:duration>01:35:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40813302/40813302-1711016042577-f43b85105b1c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA["Improvisation" with Felipe Velez]]></title>
 			<description><![CDATA[<p>Today we've got Felipe Velez on the podcast, a close friend of mine from the improv theatre scene here in Melbourne. I know, I know, weird topic, but I want everyone to know about it. We're catching Felipe as he's on his way back to Columbia for the next big chapter of his life. He's easily amongst the funniest and most wholesome people I've ever met.</p>
