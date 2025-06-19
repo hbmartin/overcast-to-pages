@@ -13,8 +13,8 @@
     <podcast:guid>d7cbe4d3-c27d-549e-a5e2-d10bd9675a89</podcast:guid>
     <podcast:locked owner="hello@localfirst.fm">no</podcast:locked>
     <language>en</language>
-    <pubDate>Mon, 26 May 2025 04:27:54 -0700</pubDate>
-    <lastBuildDate>Mon, 26 May 2025 04:28:25 -0700</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 04:16:51 -0700</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 04:40:30 -0700</lastBuildDate>
     <link>https://www.localfirst.fm</link>
     <image>
       <url>https://img.transistor.fm/9e3r485RTY0N-IUEIo0wICGz4Ntimfgq4JZvgPKHaLM/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQ3NjMxLzE3MDUy/NTkzMTUtYXJ0d29y/ay5qcGc.jpg</url>
@@ -37,6 +37,34 @@
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>#26 – Adam Fish: Ditto, Realm</title>
+      <itunes:episode>26</itunes:episode>
+      <podcast:episode>26</podcast:episode>
+      <itunes:title>#26 – Adam Fish: Ditto, Realm</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">acc59576-1545-49de-8551-82b0be3948f5</guid>
+      <link>https://localfirst.fm/26</link>
+      <description>
+        <![CDATA[<p>The guest of this episode is Adam Fish, co-founder and CEO of Ditto, a end-to-end syncing platform with a focus on resilient connectivity. In this conversation Adam shares the origin story of Ditto, his prior related work on Realm and the hard networking problems that Ditto is solving.</p><p>Mentioned in podcast:</p><ul><li>Adam Fish: <a href="https://x.com/Adam_Fish">X</a> + <a href="https://github.com/bigfish24">GitHub</a></li><li><a href="https://www.mongodb.com/realm">Realm</a></li><li><a href="https://www.ditto.com">Ditto</a></li></ul><p>Links:</p><ul><li> Website: <a href="https://localfirst.fm/">localfirst.fm</a></li><li>X/Twitter: <a href="https://x.com/localfirstfm">x.com/localfirstfm</a></li><li>YouTube: <a href="https://www.youtube.com/@localfirstfm">youtube.com/@localfirstfm</a></li></ul><p>Thank you to <a href="https://jazz.tools/">Jazz</a> for supporting the podcast.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The guest of this episode is Adam Fish, co-founder and CEO of Ditto, a end-to-end syncing platform with a focus on resilient connectivity. In this conversation Adam shares the origin story of Ditto, his prior related work on Realm and the hard networking problems that Ditto is solving.</p><p>Mentioned in podcast:</p><ul><li>Adam Fish: <a href="https://x.com/Adam_Fish">X</a> + <a href="https://github.com/bigfish24">GitHub</a></li><li><a href="https://www.mongodb.com/realm">Realm</a></li><li><a href="https://www.ditto.com">Ditto</a></li></ul><p>Links:</p><ul><li> Website: <a href="https://localfirst.fm/">localfirst.fm</a></li><li>X/Twitter: <a href="https://x.com/localfirstfm">x.com/localfirstfm</a></li><li>YouTube: <a href="https://www.youtube.com/@localfirstfm">youtube.com/@localfirstfm</a></li></ul><p>Thank you to <a href="https://jazz.tools/">Jazz</a> for supporting the podcast.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 17 Jun 2025 04:16:51 -0700</pubDate>
+      <author>localfirst.fm</author>
+      <enclosure url="https://media.transistor.fm/3d0e9928/28822616.mp3" length="60833864" type="audio/mpeg"/>
+      <itunes:author>localfirst.fm</itunes:author>
+      <itunes:image href="https://img.transistor.fm/D6AIiWW3hGB6FcvuUCi-CsFw5ffrcSdVx2-yqSBbWP4/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZjBi/OWE2NjU3NDJhZWY3/ZjAxNDFhYTIzMzhl/YTkyNC5wbmc.jpg"/>
+      <itunes:duration>3801</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>The guest of this episode is Adam Fish, co-founder and CEO of Ditto, a end-to-end syncing platform with a focus on resilient connectivity. In this conversation Adam shares the origin story of Ditto, his prior related work on Realm and the hard networking problems that Ditto is solving.</p><p>Mentioned in podcast:</p><ul><li>Adam Fish: <a href="https://x.com/Adam_Fish">X</a> + <a href="https://github.com/bigfish24">GitHub</a></li><li><a href="https://www.mongodb.com/realm">Realm</a></li><li><a href="https://www.ditto.com">Ditto</a></li></ul><p>Links:</p><ul><li> Website: <a href="https://localfirst.fm/">localfirst.fm</a></li><li>X/Twitter: <a href="https://x.com/localfirstfm">x.com/localfirstfm</a></li><li>YouTube: <a href="https://www.youtube.com/@localfirstfm">youtube.com/@localfirstfm</a></li></ul><p>Thank you to <a href="https://jazz.tools/">Jazz</a> for supporting the podcast.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>localfirst, webdev, software, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/3d0e9928/transcript.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:chapters url="https://share.transistor.fm/s/3d0e9928/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>#25 – Tanner Linsley: TanStack DB</title>
       <itunes:episode>25</itunes:episode>

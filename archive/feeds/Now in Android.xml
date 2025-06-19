@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://nowinandroid.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Now in Android</title>
-		<pubDate>Wed, 04 Jun 2025 16:00:00 +0000</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 16:11:02 +0000</lastBuildDate>
+		<pubDate>Wed, 18 Jun 2025 16:00:00 +0000</pubDate>
+		<lastBuildDate>Wed, 18 Jun 2025 16:11:31 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://d.android.com</link>
 		<language>en</language>
@@ -44,6 +44,22 @@ Android’s a big platform and there are many things being released all the time
 
 		<podcast:locked owner="gdevs.podcast@gmail.com">no</podcast:locked>
 		
+		<item>
+			<title>118 – What’s new in Android development at Google I/O 2025 (part 2)</title>
+			<itunes:title>118 – What’s new in Android development at Google I/O 2025 (part 2)</itunes:title>
+			<pubDate>Wed, 18 Jun 2025 16:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[840ee509-8fb1-40d9-86a3-ee242a796620]]></guid>
+			<link><![CDATA[http://nowinandroid.libsyn.com/118-whats-new-in-android-development-at-google-io-2025-part-2]]></link>
+			<description><![CDATA[<p>Welcome to Now in Android, your ongoing guide to what's new and notable in the world of Android development. In this episode, Dan Galpin covers part two of the biggest announcements from Google I/O 2025. From Jetpack Compose, Camera and Media, accessibility, Kotlin Multiplatform, Android development tools, Google Play, and more.<br /> <br /> Check out part 1 → https://goo.gle/4n7nty5</p> <p dir="ltr">Resources:</p> <p dir="ltr">What's New in Jetpack Compose → <a href= "https://goo.gle/45aiKVQ">https://goo.gle/45aiKVQ</a> </p> <p dir="ltr">Seamless video capture, editing and playback with CameraX and Media3 → <a href= "https://goo.gle/4mKGshE">https://goo.gle/4mKGshE</a> </p> <p dir="ltr">Building delightful Android camera and media experiences → <a href= "https://goo.gle/3Hw0Eni">https://goo.gle/3Hw0Eni</a> </p> <p dir="ltr">What’s new in Android development tools → <a href= "https://goo.gle/3SIsBuE">https://goo.gle/3SIsBuE</a>  </p> <p dir="ltr">I/O 2025: What's new in Google Play → <a href= "https://goo.gle/3HwERvQ">https://goo.gle/3HwERvQ</a></p> <p>Kotlin Multiplatform: Have your code and eat it too → <a href= "https://goo.gle/43zeX3a">https://goo.gle/43zeX3a</a>  </p>]]></description>
+			<content:encoded><![CDATA[<p>Welcome to Now in Android, your ongoing guide to what's new and notable in the world of Android development. In this episode, Dan Galpin covers part two of the biggest announcements from Google I/O 2025. From Jetpack Compose, Camera and Media, accessibility, Kotlin Multiplatform, Android development tools, Google Play, and more.  Check out part 1 → https://goo.gle/4n7nty5</p> <p dir="ltr">Resources:</p> <p dir="ltr">What's New in Jetpack Compose → <a href= "https://goo.gle/45aiKVQ">https://goo.gle/45aiKVQ</a> </p> <p dir="ltr">Seamless video capture, editing and playback with CameraX and Media3 → <a href= "https://goo.gle/4mKGshE">https://goo.gle/4mKGshE</a> </p> <p dir="ltr">Building delightful Android camera and media experiences → <a href= "https://goo.gle/3Hw0Eni">https://goo.gle/3Hw0Eni</a> </p> <p dir="ltr">What’s new in Android development tools → <a href= "https://goo.gle/3SIsBuE">https://goo.gle/3SIsBuE</a>  </p> <p dir="ltr">I/O 2025: What's new in Google Play → <a href= "https://goo.gle/3HwERvQ">https://goo.gle/3HwERvQ</a></p> <p>Kotlin Multiplatform: Have your code and eat it too → <a href= "https://goo.gle/43zeX3a">https://goo.gle/43zeX3a</a>  </p>]]></content:encoded>
+			<enclosure length="5733119" type="audio/mpeg" url="https://traffic.libsyn.com/secure/nowinandroid/NIA118_final.mp3?dest-id=1831685" />
+			<itunes:duration>05:47</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>google,Developer,Android,developers,nowinandroid,androiddevelopers,androidupdates,androiddeveloperlatest,androiddeveloperupdates,theandroidshow,theandroidshowandroidlatest</itunes:keywords>
+			<itunes:subtitle><![CDATA[Welcome to Now in Android, your ongoing guide to what's new and notable in the world of Android development. In this episode, Dan Galpin covers part two of the biggest announcements from Google I/O 2025. From Jetpack Compose, Camera and Media,...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Google</itunes:author>
+		</item>
 		<item>
 			<title>Now in Android: 117 – What’s new in Android development at Google I/O 2025 (part 1)</title>
 			<itunes:title> Now in Android: 117 – What’s new in Android development at Google I/O 2025 (part 1)</itunes:title>
@@ -151,7 +167,7 @@ Android’s a big platform and there are many things being released all the time
 			<enclosure length="12368979" type="audio/mpeg" url="https://traffic.libsyn.com/secure/nowinandroid/NIA111_v02_audio_only.mp3?dest-id=1831685" />
 			<itunes:duration>08:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>ai,Android,adaptive,Gemini,androiddeveloper,nowinandroid,androiddevelopers,androidstudio,androidlatest,androidupdates,dangalpin,geminiinandroidstudio,androidai</itunes:keywords>
+			<itunes:keywords>ai,Android,adaptive,gemini,androiddeveloper,nowinandroid,androiddevelopers,androidstudio,androidlatest,androidupdates,dangalpin,geminiinandroidstudio,androidai</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to Now in Android, your ongoing guide to what's new and notable in the world of Android development. In this episode, we’ll cover Android API level and schedule updates, Gemini in Android Studio, Google Play, Spotlight weeks on Adaptive...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Google</itunes:author>
@@ -1618,7 +1634,7 @@ Android’s a big platform and there are many things being released all the time
 			<enclosure length="23087698" type="audio/mpeg" url="https://traffic.libsyn.com/secure/nowinandroid/NIA023_v1_AUDIO.mp3?dest-id=1831685" />
 			<itunes:duration>09:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>google,ui,userinterface,androiddev,AndroidX,appcompatibility,androiddevelopers,chethaase,codelabs,appprivacy,android11,androidstudio,adbpodcasts,11weeksofandroid,android11meetups,androidstudioama,android11beta3,kotlin14</itunes:keywords>
+			<itunes:keywords>google,UI,userinterface,androiddev,AndroidX,appcompatibility,androiddevelopers,chethaase,codelabs,appprivacy,android11,androidstudio,adbpodcasts,11weeksofandroid,android11meetups,androidstudioama,android11beta3,kotlin14</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development. In this episode, Chet Haase covers an update on Android 11 Beta 3, 11 Weeks of Android, Android 11 online meetups, articles and videos, an...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Google</itunes:author>
@@ -1652,7 +1668,7 @@ Android’s a big platform and there are many things being released all the time
 			<enclosure length="20472991" type="audio/mpeg" url="https://traffic.libsyn.com/secure/nowinandroid/NIA021_v1_AUDIO.mp3?dest-id=1831685" />
 			<itunes:duration>08:21</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>google,Privacy,Android,compatibility,ml,MachineLearning,deeplearning,androiddev,AndroidX,whatsnewinandroid,newinandroid,newinandroiddevelopment,nowinandroid,androiddevelopers,chethaase,codelabs,android11,11weeksofandroid,android11meetups,packagevisibility</itunes:keywords>
+			<itunes:keywords>google,privacy,Android,compatibility,ML,MachineLearning,deeplearning,androiddev,AndroidX,whatsnewinandroid,newinandroid,newinandroiddevelopment,nowinandroid,androiddevelopers,chethaase,codelabs,android11,11weeksofandroid,android11meetups,packagevisibility</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development. In this episode, Chet Haase covers an update on #11WeeksofAndroid featuring ML, Privacy, and Compatibility; a Reddit AMA with the Android...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Google</itunes:author>
@@ -1668,7 +1684,7 @@ Android’s a big platform and there are many things being released all the time
 			<enclosure length="29001448" type="audio/mpeg" url="https://traffic.libsyn.com/secure/nowinandroid/NIA020.1_v1.mp3?dest-id=1831685" />
 			<itunes:duration>11:54</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>google,identity,Android,ml,MachineLearning,androiddev,AndroidX,newinandroid,newinandroiddevelopment,nowinandroid,androiddevelopers,chethaase,android11,android11updates,androiddevelopments,android11beta,11weeksofandroid,android11meetups,iosched</itunes:keywords>
+			<itunes:keywords>google,identity,Android,ML,MachineLearning,androiddev,AndroidX,newinandroid,newinandroiddevelopment,nowinandroid,androiddevelopers,chethaase,android11,android11updates,androiddevelopments,android11beta,11weeksofandroid,android11meetups,iosched</itunes:keywords>
 			<itunes:subtitle><![CDATA[Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development. In this episode, Chet Haase covers an update on Android 11 Beta, 11 Weeks of Android, Android 11 Meetups, AndroidX releases, IOSched sample...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Google</itunes:author>
@@ -1706,23 +1722,6 @@ Android’s a big platform and there are many things being released all the time
 			<itunes:subtitle><![CDATA[Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development. In this episode, Chet Haase goes over recent Android 11 Updates, #Android11: The  Beta Launch Show, articles, codelabs, and an ADB...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Googe</itunes:author>
-		</item>
-		<item>
-			<title>17 - Android 11 DP3, Articles, AndroidX releases, and a podcast</title>
-			<itunes:title>Android 11 DP3, Articles, AndroidX releases, and a podcast</itunes:title>
-			<pubDate>Thu, 07 May 2020 18:52:32 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[7eb0b462-52f8-4dfe-82ed-5e63149d425c]]></guid>
-			<link><![CDATA[http://nowinandroid.libsyn.com/17-android-11-dp3-articles-androidx-releases-and-a-podcast]]></link>
-			<itunes:image href="https://static.libsyn.com/p/assets/1/2/e/0/12e0086efa5a1056/NIA017.1_GDS_Thumbnail_1400X1400.png" />
-			<description><![CDATA[<p><span style="font-weight: 400;">Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development.</span> <span style="font-weight: 400;">In this episode, Chet Haase goes over recent</span> <span style= "font-weight: 400;">Android 11 DP3, Articles on CameraX, Dagger, Kotlin, rendering, AndroidX releases, and an ADB podcast on IME animations.</span></p> <p> </p> <p><span style="font-weight: 400;">For links to these items, check out Now in Android #17 on Medium →</span> <a href= "https://goo.gle/2zcYZjs"><span style= "font-weight: 400;">https://goo.gle/2zcYZjs</span></a><span style= "font-weight: 400;"> </span></p> <p> </p> <p><span style="font-weight: 400;"> </span></p> <p><span style="font-weight: 400;">Now in Android podcast → <a href="https://goo.gle/2BDIo9y">https://goo.gle/2BDIo9y</a></span></p> <p><span style="font-weight: 400;">Now in Android articles →</span> <a href="https://goo.gle/2xtWmsu"><span style= "font-weight: 400;">https://goo.gle/2xtWmsu</span></a><span style= "font-weight: 400;"> </span></p> <p><br /> <br /></p> <p><span style="font-weight: 400;">Now in Android playlist →</span> <a href="https://goo.gle/now-in-android"><span style= "font-weight: 400;">https://goo.gle/now-in-android</span></a><span style="font-weight: 400;"> </span></p> <p><span style="font-weight: 400;">Subscribe to Android Developers →</span> <a href="https://goo.gle/AndroidDevs"><span style= "font-weight: 400;">https://goo.gle/AndroidDevs</span></a><span style="font-weight: 400;"> </span></p> <p> </p> <p><span style="font-weight: 400;">#Featured #Android10 #AndroidDevs</span></p>]]></description>
-			<content:encoded><![CDATA[<p>Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development. In this episode, Chet Haase goes over recent Android 11 DP3, Articles on CameraX, Dagger, Kotlin, rendering, AndroidX releases, and an ADB podcast on IME animations.</p> <p> </p> <p>For links to these items, check out Now in Android #17 on Medium → <a href= "https://goo.gle/2zcYZjs">https://goo.gle/2zcYZjs</a> </p> <p> </p> <p> </p> <p>Now in Android podcast → <a href="https://goo.gle/2BDIo9y">https://goo.gle/2BDIo9y</a></p> <p>Now in Android articles → <a href="https://goo.gle/2xtWmsu">https://goo.gle/2xtWmsu</a> </p> <p> </p> <p>Now in Android playlist → <a href="https://goo.gle/now-in-android">https://goo.gle/now-in-android</a> </p> <p>Subscribe to Android Developers → <a href="https://goo.gle/AndroidDevs">https://goo.gle/AndroidDevs</a> </p> <p> </p> <p>#Featured #Android10 #AndroidDevs</p>]]></content:encoded>
-			<enclosure length="16785812" type="audio/mpeg" url="https://traffic.libsyn.com/secure/nowinandroid/NIA017_v1_AUDIO.mp3?dest-id=1831685" />
-			<itunes:duration>11:21</itunes:duration>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Android,dagger,kotlin,androiddev,androiddevelopment,androidq,AndroidX,whatsnewinandroid,whatsnewinandroiddevelopment,newinandroid,newinandroiddevelopment,nowinandroid,androiddevelopers,androidxreleases,androidpodcasts,android11,android11dp3,camerax</itunes:keywords>
-			<itunes:subtitle><![CDATA[Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development. In this episode, Chet Haase goes over recent Android 11 DP3, Articles on CameraX, Dagger, Kotlin, rendering, AndroidX releases, and an ADB...]]></itunes:subtitle>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>Google</itunes:author>
 		</item>
 
 	</channel>

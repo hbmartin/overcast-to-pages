@@ -18,8 +18,8 @@ The focus is on productive implementations and real-world scenarios that are acc
     <podcast:person role="Host" href="https://changelog.com/person/dwhitena" img="https://img.transistor.fm/XugFJlJ_xeVJVUt6oEOgaj2_BUjSQkMzU_1I8Rxhxsk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OWU5/NmFiN2MwMGJmOTk1/MGRhMTI1NTQzODBh/ZTJiOC5qcGc.jpg">Daniel Whitenack</podcast:person>
     <podcast:trailer pubdate="Wed, 25 Mar 2020 17:10:28 -0400" url="https://media.transistor.fm/2f2ad7a3/f9f68364.mp3" length="1687418" type="audio/mpeg">Welcome to Practical AI</podcast:trailer>
     <language>en-us</language>
-    <pubDate>Tue, 10 Jun 2025 11:40:03 -0400</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 11:40:17 -0400</lastBuildDate>
+    <pubDate>Wed, 18 Jun 2025 15:23:21 -0400</pubDate>
+    <lastBuildDate>Wed, 18 Jun 2025 15:24:08 -0400</lastBuildDate>
     <link>https://practicalai.fm</link>
     <image>
       <url>https://img.transistor.fm/op5Ph3Zt-p3hsVJHcrAHlolOmex9FCx8wUbkWekkWWQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wOWU1/OWUyMDA4ZTdlM2Ix/ZWVjYzc1Mzc5ZTMy/NDJjMy5wbmc.jpg</url>
@@ -40,6 +40,74 @@ The focus is on productive implementations and real-world scenarios that are acc
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Behind-the-Scenes: VC Funding for AI Startups</title>
+      <itunes:episode>317</itunes:episode>
+      <podcast:episode>317</podcast:episode>
+      <itunes:title>Behind-the-Scenes: VC Funding for AI Startups</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1455019e-f400-4041-88e5-5f9b3b6fc8cc</guid>
+      <link>https://share.transistor.fm/s/2f7547c3</link>
+      <description>
+        <![CDATA[<p>It seems like we are bombarded by news about millions of dollars pouring into AI startups, which have crazy valuations. In this episode, Chris and Dan dive deep into the highs, lows, and hard choices behind funding an AI startup. They explore early bootstrapping, the transition to venture capital, and what it’s like to trade in code commits for investor decks. </p><p>Featuring:</p><ul><li>Chris Benson – <a href="https://chrisbenson.com/">Website</a>, <a href="https://github.com/chrisbenson">GitHub</a>, <a href="https://www.linkedin.com/in/chrisbenson">LinkedIn</a>, <a href="https://x.com/chrisbenson">X</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784">Builder.ai Collapses: $1.5bn 'AI' Startup Exposed as 'Actually Indians' Pretending to Be Bots</a></li></ul><p>Sponsors:</p><ul><li>Miro: Feeling overwhelmed by AI? Miro brings clarity by combining human creativity with intelligent tools to help teams get great work done. Learn more at <a href="http://miro.com/">miro.com</a>.</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>It seems like we are bombarded by news about millions of dollars pouring into AI startups, which have crazy valuations. In this episode, Chris and Dan dive deep into the highs, lows, and hard choices behind funding an AI startup. They explore early bootstrapping, the transition to venture capital, and what it’s like to trade in code commits for investor decks. </p><p>Featuring:</p><ul><li>Chris Benson – <a href="https://chrisbenson.com/">Website</a>, <a href="https://github.com/chrisbenson">GitHub</a>, <a href="https://www.linkedin.com/in/chrisbenson">LinkedIn</a>, <a href="https://x.com/chrisbenson">X</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784">Builder.ai Collapses: $1.5bn 'AI' Startup Exposed as 'Actually Indians' Pretending to Be Bots</a></li></ul><p>Sponsors:</p><ul><li>Miro: Feeling overwhelmed by AI? Miro brings clarity by combining human creativity with intelligent tools to help teams get great work done. Learn more at <a href="http://miro.com/">miro.com</a>.</li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 18 Jun 2025 15:23:21 -0400</pubDate>
+      <author>Practical AI LLC</author>
+      <enclosure url="https://media.transistor.fm/2f7547c3/4ad7b59c.mp3" length="40163874" type="audio/mpeg"/>
+      <itunes:author>Practical AI LLC</itunes:author>
+      <itunes:image href="https://img.transistor.fm/YwtdhzS87NV96kOqNYXOxv-2b6xaVosJFD1QGZ_0Kvs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZWUz/YmIzMTc4MjBlZGVj/ZjM5ZDM0YzhjMzk5/ZWZhMi5qcGc.jpg"/>
+      <itunes:duration>2508</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>It seems like we are bombarded by news about millions of dollars pouring into AI startups, which have crazy valuations. In this episode, Chris and Dan dive deep into the highs, lows, and hard choices behind funding an AI startup. They explore early bootstrapping, the transition to venture capital, and what it’s like to trade in code commits for investor decks. </p><p>Featuring:</p><ul><li>Chris Benson – <a href="https://chrisbenson.com/">Website</a>, <a href="https://github.com/chrisbenson">GitHub</a>, <a href="https://www.linkedin.com/in/chrisbenson">LinkedIn</a>, <a href="https://x.com/chrisbenson">X</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784">Builder.ai Collapses: $1.5bn 'AI' Startup Exposed as 'Actually Indians' Pretending to Be Bots</a></li></ul><p>Sponsors:</p><ul><li>Miro: Feeling overwhelmed by AI? Miro brings clarity by combining human creativity with intelligent tools to help teams get great work done. Learn more at <a href="http://miro.com/">miro.com</a>.</li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>changelog, ai, machine learning, deep learning, artificial intelligence, neural networks, computer vision</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://changelog.com/person/chris" img="https://img.transistor.fm/tYVFmd0hIiW6Ea_V2W3Q96ni4iOSSa7K-rLcieumpow/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNGZi/YTY5ZjYzZTFhNzM0/ZjhmODAzNzcxODZm/MzNkNC5wbmc.jpg">Chris Benson</podcast:person>
+      <podcast:person role="Host" href="https://changelog.com/person/dwhitena" img="https://img.transistor.fm/XugFJlJ_xeVJVUt6oEOgaj2_BUjSQkMzU_1I8Rxhxsk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OWU5/NmFiN2MwMGJmOTk1/MGRhMTI1NTQzODBh/ZTJiOC5qcGc.jpg">Daniel Whitenack</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/2f7547c3/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/2f7547c3/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/2f7547c3/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/2f7547c3/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/2f7547c3/transcription" type="text/html"/>
+      <podcast:chapters url="https://share.transistor.fm/s/2f7547c3/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>AI-Automated Film Making</title>
+      <itunes:episode>316</itunes:episode>
+      <podcast:episode>316</podcast:episode>
+      <itunes:title>AI-Automated Film Making</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4e5c87dc-afca-4fb5-b295-4e4b955627a7</guid>
+      <link>https://share.transistor.fm/s/d6f5844f</link>
+      <description>
+        <![CDATA[<p>An recent article in Variety was titled: "Sylvester Stallone-Backed Largo.ai Teams With Brilliant Pictures for ‘World’s First Fully AI-Automated Film Company’". Obviously this caught our attention! We sit down with Sami Arpa, CEO of Largo.ai, to unpack how films are developed, funded, and brought to life using AI. We discover how tools like script analysis, financial forecasting, and digital twins are helping creators and studios make smarter decisions. </p><p>Featuring:</p><ul><li>Sami Arpa – <a href="https://www.linkedin.com/in/samiarpa/">LinkedIn</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://home.largo.ai/">Largo AI</a></li><li><a href="https://variety.com/2025/film/global/largo-ai-brilliant-pictures-ai-film-company-1236398707/">Sylvester Stallone-Backed Largo.ai Teams With Brilliant Pictures for ‘World’s First Fully AI-Automated Film Company’ </a></li></ul><p>Sponsors:</p><ul><li><a href="https://agntcy.org/">Outshift by Cisco</a>: AGNTCY is an open source collective building the Internet of Agents. It's a collaboration layer where AI agents can communicate, discover each other, and work across frameworks. For developers, this means standardized agent discovery tools, seamless protocols for inter-agent communication, and modular components to compose and scale multi-agent workflows.</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>An recent article in Variety was titled: "Sylvester Stallone-Backed Largo.ai Teams With Brilliant Pictures for ‘World’s First Fully AI-Automated Film Company’". Obviously this caught our attention! We sit down with Sami Arpa, CEO of Largo.ai, to unpack how films are developed, funded, and brought to life using AI. We discover how tools like script analysis, financial forecasting, and digital twins are helping creators and studios make smarter decisions. </p><p>Featuring:</p><ul><li>Sami Arpa – <a href="https://www.linkedin.com/in/samiarpa/">LinkedIn</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://home.largo.ai/">Largo AI</a></li><li><a href="https://variety.com/2025/film/global/largo-ai-brilliant-pictures-ai-film-company-1236398707/">Sylvester Stallone-Backed Largo.ai Teams With Brilliant Pictures for ‘World’s First Fully AI-Automated Film Company’ </a></li></ul><p>Sponsors:</p><ul><li><a href="https://agntcy.org/">Outshift by Cisco</a>: AGNTCY is an open source collective building the Internet of Agents. It's a collaboration layer where AI agents can communicate, discover each other, and work across frameworks. For developers, this means standardized agent discovery tools, seamless protocols for inter-agent communication, and modular components to compose and scale multi-agent workflows.</li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 12 Jun 2025 11:22:11 -0400</pubDate>
+      <author>Practical AI LLC</author>
+      <enclosure url="https://media.transistor.fm/d6f5844f/25da64eb.mp3" length="41492481" type="audio/mpeg"/>
+      <itunes:author>Practical AI LLC</itunes:author>
+      <itunes:image href="https://img.transistor.fm/75Ol-DFqdvF1B0RDFRSAwlCqjt7293UjpG4LJhWN1ko/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MjZi/MzUxZjIwNzFlYjJh/ZjY5M2Y5ZTdlYmIx/MjQ2Zi5qcGc.jpg"/>
+      <itunes:duration>2582</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>An recent article in Variety was titled: "Sylvester Stallone-Backed Largo.ai Teams With Brilliant Pictures for ‘World’s First Fully AI-Automated Film Company’". Obviously this caught our attention! We sit down with Sami Arpa, CEO of Largo.ai, to unpack how films are developed, funded, and brought to life using AI. We discover how tools like script analysis, financial forecasting, and digital twins are helping creators and studios make smarter decisions. </p><p>Featuring:</p><ul><li>Sami Arpa – <a href="https://www.linkedin.com/in/samiarpa/">LinkedIn</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://home.largo.ai/">Largo AI</a></li><li><a href="https://variety.com/2025/film/global/largo-ai-brilliant-pictures-ai-film-company-1236398707/">Sylvester Stallone-Backed Largo.ai Teams With Brilliant Pictures for ‘World’s First Fully AI-Automated Film Company’ </a></li></ul><p>Sponsors:</p><ul><li><a href="https://agntcy.org/">Outshift by Cisco</a>: AGNTCY is an open source collective building the Internet of Agents. It's a collaboration layer where AI agents can communicate, discover each other, and work across frameworks. For developers, this means standardized agent discovery tools, seamless protocols for inter-agent communication, and modular components to compose and scale multi-agent workflows.</li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>changelog, ai, machine learning, deep learning, artificial intelligence, neural networks, computer vision</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://changelog.com/person/dwhitena" img="https://img.transistor.fm/XugFJlJ_xeVJVUt6oEOgaj2_BUjSQkMzU_1I8Rxhxsk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OWU5/NmFiN2MwMGJmOTk1/MGRhMTI1NTQzODBh/ZTJiOC5qcGc.jpg">Daniel Whitenack</podcast:person>
+      <podcast:person role="Guest" href="https://practicalai.fm/people/sami-arpa" img="https://img.transistor.fm/G79rpnZpsb5pZXeijd_3e3VQV7ENqd4qRz5LDUuArSE/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MGE2/ZTY3ZGJiNGFhOWUy/OWIzYTQ2ODFmOWZi/NDRmZS5qcGc.jpg">Sami Arpa</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/d6f5844f/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/d6f5844f/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/d6f5844f/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/d6f5844f/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/d6f5844f/transcription" type="text/html"/>
+      <podcast:chapters url="https://share.transistor.fm/s/d6f5844f/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Federated learning in production (part 2)</title>
       <itunes:episode>315</itunes:episode>

@@ -28,6 +28,33 @@
     <itunes:category text="Technology">
     </itunes:category>
     <item>
+      <title>CVS Health and Aible are Delivering Enterprise AI with Rapid Prototyping, Agents, and Reasoning Models - Ep. 261</title>
+      <description>Tony Ambrozie from CVS Health and Arijit Sengupta from Aible share how their partnership is transforming enterprise AI development through rapid prototyping and human-centered design. Discover their proven methodology for moving from concept to production in just 30 days, why they treat AI agents like interns who need training and feedback, and how reasoning models are creating more reliable and trustworthy AI systems. They also explore the future of autonomous agents, the importance of responsible AI in healthcare, and why the next wave of AI will focus on empowering humans rather than replacing them.
+
+
+Learn more at: ⁠ai-podcast.nvidia.com</description>
+      <pubDate>Wed, 18 Jun 2025 15:45:00 -0000</pubDate>
+      <itunes:title>CVS Health and Abile are Delivering Enterprise AI with Rapid Prototyping, Agents, and Reasoning Models</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>261</itunes:episode>
+      <itunes:author>NVIDIA</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/feefe422-42fd-11f0-ac75-af90761dfddf/image/74b77dad19d202920999e585b1ac7ce6.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Tony Ambrozie from CVS Health and Arijit Sengupta from Aible share how their partnership is transforming enterprise AI development through rapid prototyping and human-centered design. Discover their proven methodology for moving from concept to production in just 30 days, why they treat AI agents like interns who need training and feedback, and how reasoning models are creating more reliable and trustworthy AI systems. They also explore the future of autonomous agents, the importance of responsible AI in healthcare, and why the next wave of AI will focus on empowering humans rather than replacing them.
+
+
+Learn more at: ⁠ai-podcast.nvidia.com</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Tony Ambrozie from CVS Health and Arijit Sengupta from Aible share how their partnership is transforming enterprise AI development through rapid prototyping and human-centered design. Discover their proven methodology for moving from concept to production in just 30 days, why they treat AI agents like interns who need training and feedback, and how reasoning models are creating more reliable and trustworthy AI systems. They also explore the future of autonomous agents, the importance of responsible AI in healthcare, and why the next wave of AI will focus on empowering humans rather than replacing them.</p>
+<p>
+Learn more at: ⁠<a href="https://nvda.ws/4n79196">ai-podcast.nvidia.com</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2374</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[feefe422-42fd-11f0-ac75-af90761dfddf]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/NVC4792321922.mp3?updated=1750194480" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>NVIDIA’s Marco Pavone on AI Simulation, Safety, and the Road to Autonomous Vehicles - Ep. 260</title>
       <link>https://ai-podcast.nvidia.com/</link>
       <description>In this episode of the NVIDIA AI Podcast, Dr. Marco Pavone, Director of Autonomous Vehicle Research at NVIDIA and Professor at Stanford University, joins us to discuss the cutting-edge technologies making autonomous vehicles safer than ever. Learn how digital twins and high-fidelity simulation are improving vehicle testing, accelerating development, and reducing real-world risks. Dr. Pavone also shares insights on the latest advances in generative AI and foundation models, and its impact on autonomous vehicle innovation—from city streets to aerospace.
@@ -4969,24 +4996,6 @@ Strier spoke to AI Podcast host Noah Kravitz about AI Nations, and how NVIDIA he
       <enclosure url="https://traffic.megaphone.fm/NVC1136278267.mp3?updated=1740586403" length="0" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Demystifying AI with NVIDIA’s Will Ramey - Ep. 113</title>
-      <link>https://soundcloud.com/theaipodcast/deep-learning-demystified</link>
-      <description>We brought back one of NVIDIA’s best explainers, Will Ramey, to provide an introduction to today’s AI boom and the key concepts behind it. Ramey, senior director and global head of developer programs at NVIDIA, led a webinar, "Deep Learning Demystified," as part of this year's GTC Digital online conference. https://developer.nvidia.com/gtc/2020/video/s22555</description>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>NVIDIA</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/e7cf5b9c-f45b-11ef-8be6-c32edbf49391/image/86f2212e6117a6496864087647449881.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>We brought back one of NVIDIA’s best explainers, …</itunes:subtitle>
-      <itunes:summary>We brought back one of NVIDIA’s best explainers, Will Ramey, to provide an introduction to today’s AI boom and the key concepts behind it. Ramey, senior director and global head of developer programs at NVIDIA, led a webinar, "Deep Learning Demystified," as part of this year's GTC Digital online conference. https://developer.nvidia.com/gtc/2020/video/s22555</itunes:summary>
-      <content:encoded>
-        <![CDATA[We brought back one of NVIDIA’s best explainers, Will Ramey, to provide an introduction to today’s AI boom and the key concepts behind it. Ramey, senior director and global head of developer programs at NVIDIA, led a webinar, "Deep Learning Demystified," as part of this year's GTC Digital online conference. https://developer.nvidia.com/gtc/2020/video/s22555]]>
-      </content:encoded>
-      <itunes:duration>2838</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/789512254]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/NVC4992366460.mp3?updated=1740586404" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Speed of Light: SLAC’s Ryan Coffee Talks Ultrafast Science - Ep. 112</title>
       <link>https://soundcloud.com/theaipodcast/slac-ryan-coffee</link>
       <description>We spoke with a particle physicist Ryan Coffee, senior staff scientist at the SLAC National Accelerator Laboratory on how he — and others in his field — are putting deep learning to work. We include questions from friends, family and acquaintances in a wide-ranging conversation complementing a deep-dive session led by Ryan Coffee as part of GTC Digital.</description>
@@ -5003,6 +5012,24 @@ Strier spoke to AI Podcast host Noah Kravitz about AI Nations, and how NVIDIA he
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/788200978]]></guid>
       <enclosure url="https://traffic.megaphone.fm/NVC4449147487.mp3?updated=1740586405" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Demystifying AI with NVIDIA’s Will Ramey - Ep. 113</title>
+      <link>https://soundcloud.com/theaipodcast/deep-learning-demystified</link>
+      <description>We brought back one of NVIDIA’s best explainers, Will Ramey, to provide an introduction to today’s AI boom and the key concepts behind it. Ramey, senior director and global head of developer programs at NVIDIA, led a webinar, "Deep Learning Demystified," as part of this year's GTC Digital online conference. https://developer.nvidia.com/gtc/2020/video/s22555</description>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NVIDIA</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/e7cf5b9c-f45b-11ef-8be6-c32edbf49391/image/86f2212e6117a6496864087647449881.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>We brought back one of NVIDIA’s best explainers, …</itunes:subtitle>
+      <itunes:summary>We brought back one of NVIDIA’s best explainers, Will Ramey, to provide an introduction to today’s AI boom and the key concepts behind it. Ramey, senior director and global head of developer programs at NVIDIA, led a webinar, "Deep Learning Demystified," as part of this year's GTC Digital online conference. https://developer.nvidia.com/gtc/2020/video/s22555</itunes:summary>
+      <content:encoded>
+        <![CDATA[We brought back one of NVIDIA’s best explainers, Will Ramey, to provide an introduction to today’s AI boom and the key concepts behind it. Ramey, senior director and global head of developer programs at NVIDIA, led a webinar, "Deep Learning Demystified," as part of this year's GTC Digital online conference. https://developer.nvidia.com/gtc/2020/video/s22555]]>
+      </content:encoded>
+      <itunes:duration>2838</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/789512254]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/NVC4992366460.mp3?updated=1740586404" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>Stanford's Margot Gerritsen on Data Science and Women in Tech - Ep. 111</title>

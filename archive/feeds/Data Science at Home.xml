@@ -16,7 +16,7 @@
     <link>https://datascienceathome.podbean.com</link>
     <description>Technology, AI, machine learning and algorithms. Come join the discussion on Discord!  
 https://discord.gg/4UNKGf3</description>
-    <pubDate>Tue, 03 Jun 2025 17:31:00 +0200</pubDate>
+    <pubDate>Wed, 18 Jun 2025 16:34:45 +0200</pubDate>
     <generator>https://podbean.com/?v=5.5</generator>
     <language>en</language>
         <copyright>Copyright 2024 datascienceathome.com All rights reserved.</copyright>
@@ -43,6 +43,138 @@ https://discord.gg/4UNKGf3</description>
         <width>144</width>
         <height>144</height>
     </image>
+    <item>
+        <title>Brains in the Machine: The Rise of Neuromorphic Computing (Ep. 285)</title>
+        <itunes:title>Brains in the Machine: The Rise of Neuromorphic Computing (Ep. 285)</itunes:title>
+        <link>https://datascienceathome.podbean.com/e/brains-in-the-machine-the-rise-of-neuromorphic-computing-ep-285/</link>
+                    <comments>https://datascienceathome.podbean.com/e/brains-in-the-machine-the-rise-of-neuromorphic-computing-ep-285/#comments</comments>        <pubDate>Wed, 18 Jun 2025 16:34:45 +0200</pubDate>
+        <guid isPermaLink="false">datascienceathome.podbean.com/22e42860-f5d7-30c8-9e0d-423b93068a4e</guid>
+                                    <description><![CDATA[
+
+
+
+
+
+
+
+<p>In this episode of Data Science at Home, we explore the fascinating world of neuromorphic computing — a brain-inspired approach to computation that could reshape the future of AI and robotics. The episode breaks down how neuromorphic systems differ from conventional AI architectures like transformers and LLMs, diving into spiking neural networks (SNNs), their benefits in energy efficiency and real-time processing, and their limitations in training and scalability. Real-world applications are highlighted, including low-power drones, hearing aids, and event-based cameras. Francesco closes with a vision of hybrid systems where neuromorphic chips and LLMs coexist, blending biological inspiration with modern AI.</p>
+
+<p>📚 References</p>
+<ul>
+<li>
+<p>SpikingJelly: <a href='https://github.com/fangwei123456/spikingjelly'>https://github.com/fangwei123456/spikingjelly</a></p>
+</li>
+<li>
+<p>Norse: <a href='https://github.com/norse/norse'>https://github.com/norse/norse</a></p>
+</li>
+<li>
+<p>IBM TrueNorth: <a href='https://www.millionairematch.com'>https://www.millionairematch.com</a></p>
+</li>
+<li>
+<p>AGNTCY — The open source collective building the Internet of Agents
+🌐 <a href='https://www.agntcy.org'>https://www.agntcy.org</a></p>
+</li>
+</ul>
+
+
+
+
+
+
+
+]]></description>
+                                                            <content:encoded><![CDATA[
+
+
+
+
+
+
+
+<p>In this episode of <em>Data Science at Home</em>, we explore the fascinating world of neuromorphic computing — a brain-inspired approach to computation that could reshape the future of AI and robotics. The episode breaks down how neuromorphic systems differ from conventional AI architectures like transformers and LLMs, diving into spiking neural networks (SNNs), their benefits in energy efficiency and real-time processing, and their limitations in training and scalability. Real-world applications are highlighted, including low-power drones, hearing aids, and event-based cameras. Francesco closes with a vision of hybrid systems where neuromorphic chips and LLMs coexist, blending biological inspiration with modern AI.</p>
+
+<p>📚 References</p>
+<ul>
+<li>
+<p>SpikingJelly: <a href='https://github.com/fangwei123456/spikingjelly'>https://github.com/fangwei123456/spikingjelly</a></p>
+</li>
+<li>
+<p>Norse: <a href='https://github.com/norse/norse'>https://github.com/norse/norse</a></p>
+</li>
+<li>
+<p>IBM TrueNorth: <a href='https://www.millionairematch.com'>https://www.millionairematch.com</a></p>
+</li>
+<li>
+<p>AGNTCY — The open source collective building the Internet of Agents<br>
+🌐 <a href='https://www.agntcy.org'>https://www.agntcy.org</a></p>
+</li>
+</ul>
+
+
+
+
+
+
+
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/upx6u759wjz6cfhm/neuro-compute-audio.mp3" length="58352325" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+In this episode of Data Science at Home, we explore the fascinating world of neuromorphic computing — a brain-inspired approach to computation that could reshape the future of AI and robotics. The episode breaks down how neuromorphic systems differ from conventional AI architectures like transformers and LLMs, diving into spiking neural networks (SNNs), their benefits in energy efficiency and real-time processing, and their limitations in training and scalability. Real-world applications are highlighted, including low-power drones, hearing aids, and event-based cameras. Francesco closes with a vision of hybrid systems where neuromorphic chips and LLMs coexist, blending biological inspiration with modern AI.
+
+📚 References
+
+
+SpikingJelly: https://github.com/fangwei123456/spikingjelly
+
+
+Norse: https://github.com/norse/norse
+
+
+IBM TrueNorth: https://research.ibm.com/blog/brain-inspired-chip
+
+
+Intel Loihi 2: https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html
+
+
+SpiNNaker: https://apt.cs.manchester.ac.uk/projects/SpiNNaker/
+
+
+BioRobotics Institute: https://www.santannapisa.it/en/institute/biorobotics
+
+
+
+🎙️ Sponsors
+
+
+MillionaireMatch — The elite platform for high-achieving singles🌐 https://www.millionairematch.com
+
+
+AGNTCY — The open source collective building the Internet of Agents🌐 https://www.agntcy.org
+
+
+
+
+
+
+
+
+
+]]></itunes:summary>
+        <itunes:author>Francesco Gadaleta</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>24:18</itunes:duration>
+                <itunes:episode>287</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
     <item>
         <title>DSH/Warcoded - AI in the Invisible Battlespace (Ep. 284)</title>
         <itunes:title>DSH/Warcoded - AI in the Invisible Battlespace (Ep. 284)</itunes:title>
