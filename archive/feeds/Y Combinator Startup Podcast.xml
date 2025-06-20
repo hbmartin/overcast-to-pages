@@ -4,7 +4,7 @@
 		<description><![CDATA[We help founders make something people want.]]></description>
 		<link>http://www.ycombinator.com</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 11 Jun 2025 13:47:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Jun 2025 19:10:13 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/8c1524bc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Y Combinator]]></author>
 		<copyright><![CDATA[Y Combinator]]></copyright>
@@ -20,6 +20,22 @@
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/23401959/23401959-1715188660604-894894aeaa81c.jpg"/>
+		<item>
+			<title><![CDATA[Andrej Karpathy: Software Is Changing (Again)]]></title>
+			<description><![CDATA[<p>Andrej Karpathy's keynote at AI Startup School in San Francisco.Drawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. Software is changing, again. We’ve entered the era of “Software 3.0,” where natural language becomes the new programming interface and models do the rest.He explores what this shift means for developers, users, and the design of software itself— that we're not just using new tools, but building a new kind of computer.</p><p><br /></p><p>Slides provided by Andrej: https://drive.google.com/file/d/1a0h1mkwfmV2PlekxDN8isMrDA5evc4wW/view?usp=sharing</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ycombinator/episodes/Andrej-Karpathy-Software-Is-Changing-Again-e34flk1</link>
+			<guid isPermaLink="false">80442ac0-daf7-4deb-a967-94b1d2b73ae7</guid>
+			<dc:creator><![CDATA[Y Combinator]]></dc:creator>
+			<pubDate>Thu, 19 Jun 2025 17:10:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8c1524bc/podcast/play/104371265/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F402468033-44100-2-10228227c4d86.mp3" length="37943169" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Andrej Karpathy&apos;s keynote at AI Startup School in San Francisco.Drawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. Software is changing, again. We’ve entered the era of “Software 3.0,” where natural language becomes the new programming interface and models do the rest.He explores what this shift means for developers, users, and the design of software itself— that we&apos;re not just using new tools, but building a new kind of computer.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Slides provided by Andrej: https://drive.google.com/file/d/1a0h1mkwfmV2PlekxDN8isMrDA5evc4wW/view?usp=sharing&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/23401959/23401959-1750360081657-f842f552e36e8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters]]></title>
 			<description><![CDATA[<p>Michael Truell, co-founder and CEO of Anysphere, the company behind Cursor, joins Garry to talk about building one of the fastest-growing startups of all time—and why he&#39;s betting on a future beyond code. He walks through the early insights that led his team to leave a promising AI-powered CAD project and instead chase a bigger dream: reinventing how software is written. From years of false starts and rewrites to Cursor&#39;s breakthrough moment, Michael explains what it takes to build a tool that could eventually replace programming as we know it. He also reflects on their first 10 hires, why taste still matters and how the decade ahead will unlock a new kind of creativity for builders everywhere.</p>

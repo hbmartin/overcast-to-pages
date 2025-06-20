@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
-    <fireside:genDate>Thu, 12 Jun 2025 07:46:41 -0500</fireside:genDate>
+    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
+    <fireside:genDate>Thu, 19 Jun 2025 07:47:49 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>PodRocket - A web development podcast from LogRocket</title>
     <link>http://podrocket.logrocket.com</link>
-    <pubDate>Thu, 12 Jun 2025 08:45:04 -0400</pubDate>
+    <pubDate>Thu, 19 Jun 2025 08:45:05 -0400</pubDate>
     <description>PodRocket covers everything you need to know about frontend web development on a weekly basis. Join LogRocket cofounder Ben Edelstein, the LogRocket engineering team, and more, as they interview experienced developers about all the libraries, frameworks, and tech industry issues they deal with every day.
 </description>
     <language>en-us</language>
@@ -215,6 +215,106 @@ LogRocket combines frontend monitoring, product analytics, and session replay to
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/XHXVzqW5+JkbY-6ca" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Gemini 2.5 with Logan Kilpatrick</title>
+      <link>http://podrocket.logrocket.com/gemini-2-5-logan-kilpatrick</link>
+      <guid isPermaLink="false">d750eca1-07ed-47a5-a5c9-ed0640a39ac9</guid>
+      <pubDate>Thu, 19 Jun 2025 08:00:00 -0400</pubDate>
+      <author>LogRocket </author>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/d750eca1-07ed-47a5-a5c9-ed0640a39ac9.mp3" length="73025408" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:author>LogRocket </itunes:author>
+      <itunes:subtitle>Logan Kilpatrick from Google DeepMind talks about the latest developments in the Gemini 2.5 model family, including Gemini 2.5 Pro, Flash, and the newly introduced Flashlight. Logan also offers insight into AI development workflows, model performance, and the future of proactive AI assistants.</itunes:subtitle>
+      <itunes:duration>30:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/3/3911462c-bca2-48c2-9103-610ba304c673/episodes/d/d750eca1-07ed-47a5-a5c9-ed0640a39ac9/cover.jpg?v=1"/>
+      <description>Logan Kilpatrick from Google DeepMind talks about the latest developments in the Gemini 2.5 model family, including Gemini 2.5 Pro, Flash, and the newly introduced Flashlight. Logan also offers insight into AI development workflows, model performance, and the future of proactive AI assistants.
+Links
+Website: https://logank.ai
+LinkedIn: https://www.linkedin.com/in/logankilpatrick
+X: https://x.com/officiallogank
+YouTube: https://www.youtube.com/@LoganKilpatrickYT
+Google AI Studio: https://aistudio.google.com
+Resources
+Gemini 2.5 Pro Preview: even better coding performance (https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance)
+Building with AI: highlights for developers at Google I/O (https://blog.google/technology/developers/google-ai-developer-updates-io-2025)
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest:  Logan Kilpatrick.
+</description>
+      <itunes:keywords>Gemini, Gemini 2.5, Gemini 2.5 Pro, Gemini Flash, Gemini Flashlight, Google DeepMind, AI Studio, text-to-speech, Lyria, music generation, multimodal models, generative AI, AI reasoning, long context, large language models, API, developer tools, prompt engineering, evals, TPU, AI infrastructure, model performance, coding with AI, AI workflows, proactivity, AI assistants, Google IO, AI podcast, Logan Kilpatrick, Google AI, model iteration, AI system design, AI developer experience</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Logan Kilpatrick from Google DeepMind talks about the latest developments in the Gemini 2.5 model family, including Gemini 2.5 Pro, Flash, and the newly introduced Flashlight. Logan also offers insight into AI development workflows, model performance, and the future of proactive AI assistants.</p>
+
+<h3>Links</h3>
+
+<p>Website: <a href="https://logank.ai" rel="nofollow">https://logank.ai</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/logankilpatrick" rel="nofollow">https://www.linkedin.com/in/logankilpatrick</a><br>
+X: <a href="https://x.com/officiallogank" rel="nofollow">https://x.com/officiallogank</a><br>
+YouTube: <a href="https://www.youtube.com/@LoganKilpatrickYT" rel="nofollow">https://www.youtube.com/@LoganKilpatrickYT</a><br>
+Google AI Studio: <a href="https://aistudio.google.com" rel="nofollow">https://aistudio.google.com</a></p>
+
+<h3>Resources</h3>
+
+<p><a href="https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance" rel="nofollow">Gemini 2.5 Pro Preview: even better coding performance</a><br>
+<a href="https://blog.google/technology/developers/google-ai-developer-updates-io-2025" rel="nofollow">Building with AI: highlights for developers at Google I/O</a></p>
+
+<h3>We want to hear from you!</h3>
+
+<p>How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?</p>
+
+<p>Let us know by sending an email to our producer, Em, at <a href="mailto:emily.kochanek@logrocket.com" rel="nofollow">emily.kochanek@logrocket.com</a>, or tweet at us at <a href="https://twitter.com/PodRocketpod" rel="nofollow">PodRocketPod</a>.</p>
+
+<h3>Follow us. Get free stickers.</h3>
+
+<p>Follow us on Apple Podcasts, fill out this <a href="https://podrocket.logrocket.com/get-podrocket-stickers" rel="nofollow">form</a>, and we’ll send you free PodRocket stickers!</p>
+
+<h3>What does LogRocket do?</h3>
+
+<p>LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. <a href="https://logrocket.com/signup/?pdr" rel="nofollow">Try LogRocket for free today.</a></p><p>Special Guest:  Logan Kilpatrick.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Logan Kilpatrick from Google DeepMind talks about the latest developments in the Gemini 2.5 model family, including Gemini 2.5 Pro, Flash, and the newly introduced Flashlight. Logan also offers insight into AI development workflows, model performance, and the future of proactive AI assistants.</p>
+
+<h3>Links</h3>
+
+<p>Website: <a href="https://logank.ai" rel="nofollow">https://logank.ai</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/logankilpatrick" rel="nofollow">https://www.linkedin.com/in/logankilpatrick</a><br>
+X: <a href="https://x.com/officiallogank" rel="nofollow">https://x.com/officiallogank</a><br>
+YouTube: <a href="https://www.youtube.com/@LoganKilpatrickYT" rel="nofollow">https://www.youtube.com/@LoganKilpatrickYT</a><br>
+Google AI Studio: <a href="https://aistudio.google.com" rel="nofollow">https://aistudio.google.com</a></p>
+
+<h3>Resources</h3>
+
+<p><a href="https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance" rel="nofollow">Gemini 2.5 Pro Preview: even better coding performance</a><br>
+<a href="https://blog.google/technology/developers/google-ai-developer-updates-io-2025" rel="nofollow">Building with AI: highlights for developers at Google I/O</a></p>
+
+<h3>We want to hear from you!</h3>
+
+<p>How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?</p>
+
+<p>Let us know by sending an email to our producer, Em, at <a href="mailto:emily.kochanek@logrocket.com" rel="nofollow">emily.kochanek@logrocket.com</a>, or tweet at us at <a href="https://twitter.com/PodRocketpod" rel="nofollow">PodRocketPod</a>.</p>
+
+<h3>Follow us. Get free stickers.</h3>
+
+<p>Follow us on Apple Podcasts, fill out this <a href="https://podrocket.logrocket.com/get-podrocket-stickers" rel="nofollow">form</a>, and we’ll send you free PodRocket stickers!</p>
+
+<h3>What does LogRocket do?</h3>
+
+<p>LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. <a href="https://logrocket.com/signup/?pdr" rel="nofollow">Try LogRocket for free today.</a></p><p>Special Guest:  Logan Kilpatrick.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/XHXVzqW5+6uLZ1tNz</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/XHXVzqW5+6uLZ1tNz" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:person email="" href="" role="host">Paul Mikulskis</podcast:person>
+      <podcast:person email="" href="https://logank.ai" role="guest"> Logan Kilpatrick</podcast:person>
     </item>
     <item>
       <title>10 years of SolidJS with Ryan Carniato</title>

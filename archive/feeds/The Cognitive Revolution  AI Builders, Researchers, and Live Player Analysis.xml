@@ -35,6 +35,185 @@ The Cognitive Revolution is part of the Turpentine podcast network. To learn mor
     <itunes:category text="Society &amp; Culture">
     </itunes:category>
     <item>
+      <title>Embryology of AI: How Training Data Shapes AI Development w/ Timaeus' Jesse Hoogland &amp; Daniel Murfet</title>
+      <link>https://www.cognitiverevolution.ai</link>
+      <description>Jesse Hoogland and Daniel Murfet, founders of Timaeus, introduce their mathematically rigorous approach to AI safety through "developmental interpretability" based on Singular Learning Theory. They explain how neural network loss landscapes are actually complex, jagged surfaces full of "singularities" where models can change internally without affecting external behavior—potentially masking dangerous misalignment. Using their Local Learning Coefficient measure, they've demonstrated the ability to identify critical phase changes during training in models up to 7 billion parameters, offering a complementary approach to mechanistic interpretability. This work aims to move beyond trial-and-error neural network training toward a more principled engineering discipline that could catch safety issues during training rather than after deployment.
+
+
+Sponsors:
+
+Oracle Cloud Infrastructure: Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at https://oracle.com/cognitive
+
+The AGNTCY (Cisco): The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast
+
+NetSuite by Oracle: NetSuite by Oracle is the AI-powered business management suite trusted by over 41,000 businesses, offering a unified platform for accounting, financial management, inventory, and HR. Gain total visibility and control to make quick decisions and automate everyday tasks—download the free ebook, Navigating Global Trade: Three Insights for Leaders, at https://netsuite.com/cognitive
+
+
+PRODUCED BY:
+
+https://aipodcast.ing
+
+
+CHAPTERS:
+
+(00:00) About the Episode
+
+(04:44) Introduction and Background
+
+(06:17) Timaeus Origins and Philosophy
+
+(09:13) Mathematical Background and SLT
+
+(12:27) Developmental Interpretability Approach (Part 1)
+
+(16:09) Sponsors: Oracle Cloud Infrastructure | The AGNTCY (Cisco)
+
+(18:09) Developmental Interpretability Approach (Part 2)
+
+(19:24) Proto-Paradigm and SAEs
+
+(24:37) Understanding Generalization
+
+(30:15) Central Dogma Framework (Part 1)
+
+(32:13) Sponsor: NetSuite by Oracle
+
+(33:37) Central Dogma Framework (Part 2)
+
+(34:35) Loss Landscape Geometry
+
+(40:41) Degeneracies and Evidence
+
+(47:25) Structure and Data Connection
+
+(55:36) Essential Dynamics and Algorithms
+
+(01:00:53) Implicit Regularization and Complexity
+
+(01:07:19) Double Descent and Scaling
+
+(01:09:55) Big Picture Applications
+
+(01:17:17) Reward Hacking and Risks
+
+(01:25:19) Future Training Vision
+
+(01:32:01) Scaling and Next Steps
+
+(01:36:43) Outro</description>
+      <pubDate>Thu, 19 Jun 2025 13:33:00 -0000</pubDate>
+      <itunes:title>Embryology of AI: How Training Data Shapes AI Development w/ Timaeus' Jesse Hoogland &amp; Daniel Murfet</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Erik Torenberg, Nathan Labenz</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/eb9ba170-4d0e-11f0-bfe9-5731f908ee8d/image/ea3d05cb712e7b87bfa7f74e78b4ee54.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Jesse Hoogland and Daniel Murfet, founders of Timaeus, introduce their mathematically rigorous approach to AI safety through "developmental interpretability" based on Singular Learning Theory.</itunes:subtitle>
+      <itunes:summary>Jesse Hoogland and Daniel Murfet, founders of Timaeus, introduce their mathematically rigorous approach to AI safety through "developmental interpretability" based on Singular Learning Theory. They explain how neural network loss landscapes are actually complex, jagged surfaces full of "singularities" where models can change internally without affecting external behavior—potentially masking dangerous misalignment. Using their Local Learning Coefficient measure, they've demonstrated the ability to identify critical phase changes during training in models up to 7 billion parameters, offering a complementary approach to mechanistic interpretability. This work aims to move beyond trial-and-error neural network training toward a more principled engineering discipline that could catch safety issues during training rather than after deployment.
+
+
+Sponsors:
+
+Oracle Cloud Infrastructure: Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at https://oracle.com/cognitive
+
+The AGNTCY (Cisco): The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast
+
+NetSuite by Oracle: NetSuite by Oracle is the AI-powered business management suite trusted by over 41,000 businesses, offering a unified platform for accounting, financial management, inventory, and HR. Gain total visibility and control to make quick decisions and automate everyday tasks—download the free ebook, Navigating Global Trade: Three Insights for Leaders, at https://netsuite.com/cognitive
+
+
+PRODUCED BY:
+
+https://aipodcast.ing
+
+
+CHAPTERS:
+
+(00:00) About the Episode
+
+(04:44) Introduction and Background
+
+(06:17) Timaeus Origins and Philosophy
+
+(09:13) Mathematical Background and SLT
+
+(12:27) Developmental Interpretability Approach (Part 1)
+
+(16:09) Sponsors: Oracle Cloud Infrastructure | The AGNTCY (Cisco)
+
+(18:09) Developmental Interpretability Approach (Part 2)
+
+(19:24) Proto-Paradigm and SAEs
+
+(24:37) Understanding Generalization
+
+(30:15) Central Dogma Framework (Part 1)
+
+(32:13) Sponsor: NetSuite by Oracle
+
+(33:37) Central Dogma Framework (Part 2)
+
+(34:35) Loss Landscape Geometry
+
+(40:41) Degeneracies and Evidence
+
+(47:25) Structure and Data Connection
+
+(55:36) Essential Dynamics and Algorithms
+
+(01:00:53) Implicit Regularization and Complexity
+
+(01:07:19) Double Descent and Scaling
+
+(01:09:55) Big Picture Applications
+
+(01:17:17) Reward Hacking and Risks
+
+(01:25:19) Future Training Vision
+
+(01:32:01) Scaling and Next Steps
+
+(01:36:43) Outro</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Jesse Hoogland and Daniel Murfet, founders of Timaeus, introduce their mathematically rigorous approach to AI safety through "developmental interpretability" based on Singular Learning Theory. They explain how neural network loss landscapes are actually complex, jagged surfaces full of "singularities" where models can change internally without affecting external behavior—potentially masking dangerous misalignment. Using their Local Learning Coefficient measure, they've demonstrated the ability to identify critical phase changes during training in models up to 7 billion parameters, offering a complementary approach to mechanistic interpretability. This work aims to move beyond trial-and-error neural network training toward a more principled engineering discipline that could catch safety issues during training rather than after deployment.</p>
+<br><br>
+<p><strong>Sponsors:</strong></p>
+<p><strong>Oracle Cloud Infrastructure:</strong> Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at <a href="https://oracle.com/cognitive">https://oracle.com/cognitive</a></p>
+<p><strong>The AGNTCY (Cisco):</strong> The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at <a href="https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast">https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast</a></p>
+<p><strong>NetSuite by Oracle:</strong> NetSuite by Oracle is the AI-powered business management suite trusted by over 41,000 businesses, offering a unified platform for accounting, financial management, inventory, and HR. Gain total visibility and control to make quick decisions and automate everyday tasks—download the free ebook, Navigating Global Trade: Three Insights for Leaders, at <a href="https://netsuite.com/cognitive">https://netsuite.com/cognitive</a></p>
+<br><br>
+<p><strong>PRODUCED BY:</strong></p>
+<p><a href="https://aipodcast.ing">https://aipodcast.ing</a></p>
+<br><br>
+<p><strong>CHAPTERS:</strong></p>
+<p>(00:00) About the Episode</p>
+<p>(04:44) Introduction and Background</p>
+<p>(06:17) Timaeus Origins and Philosophy</p>
+<p>(09:13) Mathematical Background and SLT</p>
+<p>(12:27) Developmental Interpretability Approach (Part 1)</p>
+<p>(16:09) Sponsors: Oracle Cloud Infrastructure | The AGNTCY (Cisco)</p>
+<p>(18:09) Developmental Interpretability Approach (Part 2)</p>
+<p>(19:24) Proto-Paradigm and SAEs</p>
+<p>(24:37) Understanding Generalization</p>
+<p>(30:15) Central Dogma Framework (Part 1)</p>
+<p>(32:13) Sponsor: NetSuite by Oracle</p>
+<p>(33:37) Central Dogma Framework (Part 2)</p>
+<p>(34:35) Loss Landscape Geometry</p>
+<p>(40:41) Degeneracies and Evidence</p>
+<p>(47:25) Structure and Data Connection</p>
+<p>(55:36) Essential Dynamics and Algorithms</p>
+<p>(01:00:53) Implicit Regularization and Complexity</p>
+<p>(01:07:19) Double Descent and Scaling</p>
+<p>(01:09:55) Big Picture Applications</p>
+<p>(01:17:17) Reward Hacking and Risks</p>
+<p>(01:25:19) Future Training Vision</p>
+<p>(01:32:01) Scaling and Next Steps</p>
+<p>(01:36:43) Outro</p>
+<br><br>]]>
+      </content:encoded>
+      <itunes:duration>5994</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[eb9ba170-4d0e-11f0-bfe9-5731f908ee8d]]></guid>
+      <enclosure url="https://pdst.fm/e/chrt.fm/track/993DGA/mgln.ai/e/1113/traffic.megaphone.fm/RINTP3129166146.mp3?updated=1750339836" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>AI Scouting Report: AI Agents -vs- Agentic AI, from Imagine AI Live</title>
       <link>https://www.cognitiverevolution.ai</link>
       <description>This episode features Nathan's talk from Imagine AI Live, where he provides business leaders with a comprehensive overview of AI agents and agentic AI systems. He covers the evolution from simple task automation to more autonomous AI systems, delivers a practical roadmap for implementing AI agents in business while maintaining quality standards, and addresses concerning developments like reward hacking and scheming in frontier AI systems. The presentation balances accessible explanations for varying AI knowledge levels with rigorous grounding in current research and real-world applications. Nathan also discusses the "Eureka moments" these systems can deliver and provides frameworks for understanding the rapidly evolving landscape of AI agent capabilities.

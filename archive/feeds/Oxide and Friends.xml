@@ -17,8 +17,8 @@ Subscribe to our calendar: https://calendar.google.com/calendar/ical/c_318925f41
     <podcast:person role="Host" href="https://ahl.dtrace.org/" img="https://img.transistor.fm/E-Msi0WvVNEZBkhzuCGyhA-guzdy1j2EPCN77Zw5MHQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYjVl/NDY2NWFlOTNkODgz/MGQ5ZjYwZmFkMzdm/MmVmZC5wbmc.jpg">Adam Leventhal</podcast:person>
     <podcast:person role="Host" href="http://dtrace.org/blogs/bmc" img="https://img.transistor.fm/sWb5yGEyJ5R4qi71RQPaBKjJwST46egrouS4o49c7MA/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNGMy/MTdhMzVjYjM4N2Y5/ODk0OTZjZmFlN2Uy/ZjE3MS5qcGc.jpg">Bryan Cantrill</podcast:person>
     <language>en</language>
-    <pubDate>Mon, 16 Jun 2025 07:00:18 -0700</pubDate>
-    <lastBuildDate>Mon, 16 Jun 2025 07:01:52 -0700</lastBuildDate>
+    <pubDate>Thu, 19 Jun 2025 07:00:07 -0700</pubDate>
+    <lastBuildDate>Thu, 19 Jun 2025 07:01:35 -0700</lastBuildDate>
     <link>http://oxide.computer</link>
     <image>
       <url>https://img.transistor.fm/59LZe5WSum_jnp4FqBEguDQbXZPUuZFxKzTvzwg4S10/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OGI3/NjA5NWY4Yjc4NzE0/ZGI5ZmMzZmY4MjFi/YThiYy5wbmc.jpg</url>
@@ -39,6 +39,41 @@ Subscribe to our calendar: https://calendar.google.com/calendar/ical/c_318925f41
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>Yes</itunes:explicit>
+    <item>
+      <title>Diving In with Robert Bogart</title>
+      <itunes:season>5</itunes:season>
+      <podcast:season>5</podcast:season>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>Diving In with Robert Bogart</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">be030a4a-188b-422b-96f2-f20fc07decfe</guid>
+      <link>https://share.transistor.fm/s/21e23d3f</link>
+      <description>
+        <![CDATA[<p>On the heels of Bryan's blog post about the similarities between aspiring college athletes finding a team and entrepreneurs raising a round of capital, Bryan and Adam were joined by Robert Bogart to discuss his own experiences with both--and the life lesson accrued along the way.</p><p>In addition to <a href="https://bsky.app/profile/bcantrill.bsky.social">Bryan Cantrill</a> and <a href="https://bsky.app/profile/ahl.bsky.social">Adam Leventhal</a>, we were joined by special guest, Robert Bogart.<br><a href="https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/">College Baseball, Venture Capital, and the Long Maybe</a></p><ul><li><a href="https://www.youtube.com/watch?v=hdqcrj5TBvE">OxF: Debugger‑Driven Development</a></li><li><a href="https://en.wikipedia.org/wiki/Anthony_Ervin">Anthony Ervin – Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Eddie_Reese">Eddie Reese – Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Metaweb">Metaweb – Wikipedia</a></li></ul><p>If we got something wrong or missed something, please file a PR! Our next show will likely be on Monday at 5p Pacific Time on our Discord server; stay tuned to our Mastodon feeds for details, or <a href="https://calendar.google.com/calendar/ical/c_318925f4185aa71c4524d0d6127f31058c9e21f29f017d48a0fca6f564969cd0%40group.calendar.google.com/public/basic.ics">subscribe to this calendar</a>. We'd love to have you join us, as we always love to hear from new speakers!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>On the heels of Bryan's blog post about the similarities between aspiring college athletes finding a team and entrepreneurs raising a round of capital, Bryan and Adam were joined by Robert Bogart to discuss his own experiences with both--and the life lesson accrued along the way.</p><p>In addition to <a href="https://bsky.app/profile/bcantrill.bsky.social">Bryan Cantrill</a> and <a href="https://bsky.app/profile/ahl.bsky.social">Adam Leventhal</a>, we were joined by special guest, Robert Bogart.<br><a href="https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/">College Baseball, Venture Capital, and the Long Maybe</a></p><ul><li><a href="https://www.youtube.com/watch?v=hdqcrj5TBvE">OxF: Debugger‑Driven Development</a></li><li><a href="https://en.wikipedia.org/wiki/Anthony_Ervin">Anthony Ervin – Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Eddie_Reese">Eddie Reese – Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Metaweb">Metaweb – Wikipedia</a></li></ul><p>If we got something wrong or missed something, please file a PR! Our next show will likely be on Monday at 5p Pacific Time on our Discord server; stay tuned to our Mastodon feeds for details, or <a href="https://calendar.google.com/calendar/ical/c_318925f4185aa71c4524d0d6127f31058c9e21f29f017d48a0fca6f564969cd0%40group.calendar.google.com/public/basic.ics">subscribe to this calendar</a>. We'd love to have you join us, as we always love to hear from new speakers!</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 19 Jun 2025 07:00:00 -0700</pubDate>
+      <author>Oxide Computer Company</author>
+      <enclosure url="https://media.transistor.fm/21e23d3f/c427a270.mp3" length="99215593" type="audio/mpeg"/>
+      <itunes:author>Oxide Computer Company</itunes:author>
+      <itunes:image href="https://img.transistor.fm/-n3Kjj-XLfSA45ILRgC--e0ikwXyIVwS2JghwRd_vZI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lY2Ey/YTQ0Y2MyODRkMTM1/ZDQwYzdmMzY0ZmRl/OGQyOC5wbmc.jpg"/>
+      <itunes:duration>6198</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>On the heels of Bryan's blog post about the similarities between aspiring college athletes finding a team and entrepreneurs raising a round of capital, Bryan and Adam were joined by Robert Bogart to discuss his own experiences with both--and the life lesson accrued along the way.</p><p>In addition to <a href="https://bsky.app/profile/bcantrill.bsky.social">Bryan Cantrill</a> and <a href="https://bsky.app/profile/ahl.bsky.social">Adam Leventhal</a>, we were joined by special guest, Robert Bogart.<br><a href="https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/">College Baseball, Venture Capital, and the Long Maybe</a></p><ul><li><a href="https://www.youtube.com/watch?v=hdqcrj5TBvE">OxF: Debugger‑Driven Development</a></li><li><a href="https://en.wikipedia.org/wiki/Anthony_Ervin">Anthony Ervin – Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Eddie_Reese">Eddie Reese – Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Metaweb">Metaweb – Wikipedia</a></li></ul><p>If we got something wrong or missed something, please file a PR! Our next show will likely be on Monday at 5p Pacific Time on our Discord server; stay tuned to our Mastodon feeds for details, or <a href="https://calendar.google.com/calendar/ical/c_318925f4185aa71c4524d0d6127f31058c9e21f29f017d48a0fca6f564969cd0%40group.calendar.google.com/public/basic.ics">subscribe to this calendar</a>. We'd love to have you join us, as we always love to hear from new speakers!</p>]]>
+      </itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://ahl.dtrace.org/" img="https://img.transistor.fm/E-Msi0WvVNEZBkhzuCGyhA-guzdy1j2EPCN77Zw5MHQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYjVl/NDY2NWFlOTNkODgz/MGQ5ZjYwZmFkMzdm/MmVmZC5wbmc.jpg">Adam Leventhal</podcast:person>
+      <podcast:person role="Host" href="http://dtrace.org/blogs/bmc" img="https://img.transistor.fm/sWb5yGEyJ5R4qi71RQPaBKjJwST46egrouS4o49c7MA/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yNGMy/MTdhMzVjYjM4N2Y5/ODk0OTZjZmFlN2Uy/ZjE3MS5qcGc.jpg">Bryan Cantrill</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/21e23d3f/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/21e23d3f/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/21e23d3f/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/21e23d3f/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/21e23d3f/transcription" type="text/html"/>
+    </item>
     <item>
       <title>Debugger-Driven Development</title>
       <itunes:season>5</itunes:season>

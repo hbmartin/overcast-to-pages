@@ -9,7 +9,7 @@
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
-	 xmlns:media="http://search.yahoo.com/mrss/" >
+	>
 		<channel>
 		<title>The Cloud Pod</title>
 		<atom:link href="https://www.thecloudpod.net/feed/podcast/the-cloud-pod/" rel="self" type="application/rss+xml"/>
@@ -18,7 +18,7 @@
 Every week, our expert hosts dissect the latest cloud-native architectures, emerging AI capabilities, and game-changing DevOps tooling that&#039;s reshaping the industry. From Kubernetes deep dives to AI integration strategies, and from Infrastructure-as-Code toolchains to serverless frameworks – nothing escapes their expert analysis.
 Whether you&#039;re wrestling with container orchestration, exploring AI service meshes, or navigating the complex world of cloud governance tools, The Cloud Pod transforms overwhelming technical noise into clear, actionable intelligence.
 Stay ahead of the curve where cloud innovation, AI acceleration, and cutting-edge tooling converge! Subscribe now to turn cloud complexity into your competitive advantage.</description>
-		<lastBuildDate>Fri, 13 Jun 2025 17:19:16 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 18 Jun 2025 18:14:16 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright>© 2025 The Cloud Pod</copyright>
 		<itunes:subtitle>A Weekly Recap of everything released by AWS, Azure and Google Cloud.</itunes:subtitle>
@@ -1059,7 +1059,7 @@ Amazon EC2 on-demand capacity reservations shared across multiple AWS accounts]]
 </ul>
 <h2>This week’s highlights</h2>
 <ul>
-<li> Take a break with us and enjoy a <a href="https://www.youtube.com/watch?v=MJEAcYVAh7E&amp;feature=youtu.be" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">music video</a>.</li>
+<li> Take a break with us and enjoy a <a href="https://www.youtube.com/watch?v=MJEAcYVAh7E&amp;feature=youtu.be" rel="nofollow noopener" target="_blank">music video</a>.</li>
 <li> Oracle managed a whole <a href="https://www.cnbc.com/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html" rel="nofollow noopener" target="_blank">two</a> <a href="https://blogs.oracle.com/cloud-infrastructure/changes-to-windows-instance-pricing-on-oracle-cloud-infrastructure" rel="nofollow noopener" target="_blank">headlines</a> this week!</li>
 <li> Jonathan called it: AWS opens the Africa (<a href="https://aws.amazon.com/blogs/aws/now-open-aws-africa-cape-town-region/" rel="nofollow noopener" target="_blank">Cape Town</a>) Region.</li>
 </ul>
@@ -1067,7 +1067,7 @@ Amazon EC2 on-demand capacity reservations shared across multiple AWS accounts]]
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li> Tim Leehane and Spencer Johnson released a working-from-home anthem titled <a href="https://www.youtube.com/watch?v=MJEAcYVAh7E&amp;feature=youtu.be" data-rel="lightbox-video-1" rel="nofollow noopener" target="_blank">Chime After Chime</a> we just had to share with you.</li>
+<li> Tim Leehane and Spencer Johnson released a working-from-home anthem titled <a href="https://www.youtube.com/watch?v=MJEAcYVAh7E&amp;feature=youtu.be" rel="nofollow noopener" target="_blank">Chime After Chime</a> we just had to share with you.</li>
 </ul>
 </li>
 </ul>
@@ -1196,7 +1196,7 @@ Foghorn Consulting, which provides full-stack cloud solutions with]]></itunes:su
 </ul>
 <h2>This week’s highlights</h2>
 <ul>
-<li> Take a break with us and enjoy a <a href="https://www.youtube.com/watch?v=MJEAcYVAh7E&amp;feature=youtu.be" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">music video</a>.</li>
+<li> Take a break with us and enjoy a <a href="https://www.youtube.com/watch?v=MJEAcYVAh7E&amp;feature=youtu.be" rel="nofollow noopener" target="_blank">music video</a>.</li>
 <li> Oracle managed a whole <a href="https://www.cnbc.com/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html" rel="nofollow noopener" target="_blank">two</a> <a href="https://blogs.oracle.com/cloud-infrastructure/changes-to-windows-instance-pricing-on-oracle-cloud-infrastructure" rel="nofollow noopener" target="_blank">headlines</a> this week!</li>
 <li> Jonathan called it: AWS opens the Africa (<a href="https://aws.amazon.com/blogs/aws/now-open-aws-africa-cape-town-region/" rel="nofollow noopener" target="_blank">Cape Town</a>) Region.</li>
 </ul>
@@ -1204,7 +1204,7 @@ Foghorn Consulting, which provides full-stack cloud solutions with]]></itunes:su
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li> Tim Leehane and Spencer Johnson released a working-from-home anthem titled <a href="https://www.youtube.com/watch?v=MJEAcYVAh7E&amp;feature=youtu.be" data-rel="lightbox-video-1" rel="nofollow noopener" target="_blank">Chime After Chime</a> we just had to share with you.</li>
+<li> Tim Leehane and Spencer Johnson released a working-from-home anthem titled <a href="https://www.youtube.com/watch?v=MJEAcYVAh7E&amp;feature=youtu.be" rel="nofollow noopener" target="_blank">Chime After Chime</a> we just had to share with you.</li>
 </ul>
 </li>
 </ul>
@@ -2401,8 +2401,8 @@ Foghorn Consulting &#821]]></itunes:subtitle>
 <p><a href="https://aws.amazon.com/about-aws/whats-new/2019/03/amazon-eks-opens-public-preview-of-windows-container-support/" rel="nofollow noopener" target="_blank">Amazon EKS opens public preview for Windows Container Support</a></p>
 <p><a href="https://aws.amazon.com/about-aws/whats-new/2019/03/new-local-testing-tools-now-available-for-amazon-ecs/" rel="nofollow noopener" target="_blank">ECS now supports local testing</a></p>
 <p><a href="https://aws.amazon.com/about-aws/whats-new/2019/03/aws-fargate-and-amazon-ecs-support-external-deployment-controlle/" rel="nofollow noopener" target="_blank">AWS Fargate and ECS now support external deployment control</a></p>
-<p><a href="https://youtu.be/LUqRatX2mFU" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">Episode #2 of Now Go Build</a></p>
-<p><a href="https://aws.amazon.com/blogs/secur]]></description>
+<p><a href="https://youtu.be/LUqRatX2mFU" rel="nofollow noopener" target="_blank">Episode #2 of Now Go Build</a></p>
+<p><a href="https://aws.amazon.com/blogs/security/setting-permissions-to-e]]></description>
 	<itunes:subtitle><![CDATA[AWS Summit Season 2019 is officially underway. Justin, Peter and special guest Chris Short @chrisshort. Plus the famous lightning round.
 Sponsors
 Foghorn Consulting: fogops.io/thecloudpod
@@ -3786,6 +3786,63 @@ A big thanks to this week’s sponsor]]></itunes:subtitle>
 </item>
 
 <item>
+	<title>308: SCC: Security Command Center or Super Cool Capabilities?</title>
+	<link>https://www.thecloudpod.net/podcast/308-scc-security-command-center/</link>
+	<pubDate>Wed, 18 Jun 2025 11:10:11 +0000</pubDate>
+	<dc:creator><![CDATA[Justin Brodley, Jonathan Baker, Ryan Lucas and Matthew Kohn]]></dc:creator>
+	<guid isPermaLink="false">https://www.thecloudpod.net/?post_type=podcast&#038;p=21122</guid>
+	<description><![CDATA[<p>Welcome to episode 308 of The Cloud Pod &#8211; where the forecast is always cloudy! Justin, Matt and Ryan are in the house today to tell us all about the latest and greatest from FinOps and SnowFlake conferences, plus updates from Security Command Center, OpenAI, and even a new AWS Region. All this and more, today in the cloud! </p>
+<h3>Titles we almost went with this week:</h3>
+<ul>
+<li>I Left My Wallet at FinOps X, But Found Savings at Snowflake Summit</li>
+<li>Snowflake City Lights, FinOps by the Sea</li>
+<li>The Two Summits: A Tale of FinOps and Snowflakes</li>
+<li>Crunchy on the Outside, Snowflake on the Inside </li>
+<li>AWS Taipei: Because Sometimes You Need Your Data Closer Than Your Night Market </li>
+<li>AWS Plants Its Flag in Taipei: The 37th Time&#8217;s the Charm</li>
+<li>AWS Slashes GPU Prices Faster Than a CUDA Kernel</li>
+<li>Two Writers Walk Into a Database&#8230; And Both Succeed</li>
+<li>AWS Network Firewall: Now With Windows!</li>
+<li>The VPN Connection That Keeps Its Secrets</li>
+<li>Transform and Roll Out: Pub/Sub&#8217;s New Single Message Feature</li>
+<li>SAP Happens: Google&#8217;s New M4 VMs Handle It Better</li>
+<li>Total Recall: Google&#8217;s 6TB Memory Machines</li>
+<li>The M4trix Has You (And Your In-Memory Databases)</li>
+<li>DeepSeek and You Shall Find&#8230; on Google Cloud</li>
+<li>Four Score and Seven Vulnerabilities Ago &#8211; mk</li>
+<li>The Fantastic Four Security Features</li>
+<li>MCP: Model Context Protocol or Master Control Program from Tron?</li>
+<li>No SQL? No Problem! AI Takes the Wheel</li>
+<li>Injection Rejection: How Azure Keeps Your Prompts Clean</li>
+</ul>
+<h2>General News </h2>
+<p>05:09 <a href="https://www.finops.org/insights/finops-x-2025-cloud-announcements/" rel="nofollow noopener" target="_blank">FinOps X 2025 Cloud Announcements: AI Agents  and Increased FOCUS </a><a href="https://www.finops.org/insights/finops-x-2025-cloud-announcements/" rel="nofollow noopener" target="_blank">Support</a></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">All major cloud providers announced expanded support for <a href="https://focus.finops.org/" rel="nofollow noopener" target="_blank">FOCUS (FinOps Open Cost and Usage Specification)</a> 1.0, with AWS already in general availability and Google Cloud launching a <a href="https://cloud.google.com/bigquery" target="_blank" rel="noopener">BigQuery</a> export in private preview. </li>
+<li style="font-weight: 400;" aria-level="1">This signals an industry-wide standardization of cloud cost reporting formats.</li>
+<li style="font-weight: 400;" aria-level="1">AWS introduced AI-powered cost optimization through <a href="https://aws.amazon.com/q/developer/" rel="nofollow noopener" target="_blank">Amazon Q Developer</a> integration with <a href="https://docs.aws.amazon.com/cost-management/latest/userguide/cost-optimization-hub.html" rel="nofollow noopener" target="_blank">Cost Optimization Hub</a>, enabling automated recommendations across millions of resources with detailed explanations and action plans for cost reduction.</li>
+<li style="font-weight: 400;" aria-level="1">Microsoft Azure launched AI agents for application modernization that can reduce migration efforts from months to hours by automating code assessment and remediation across thousands of files, while also introducing flexible PTU reservations that work across multiple AI models.</li>
+<li style="font-weight: 400;" aria-level="1">Google Cloud unveiled<a href="https://cloud.google.com/blog/topics/cost-management/spring-cleaning-with-finops-hub" target="_blank" rel="noopener"> FinOps Hub 2.0</a> with Gemini-powered waste detection that identifies underutilized resources (like VMs at 5% usage) and provides AI-generated optimization recommendations for Kubernetes, Cloud Run, and Cloud SQL services.</li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.oracle.com/cloud/" rel="nofollow noopener" target="_blank">Oracle Cloud Infrastructure</a> added carbon emissio]]></description>
+	<itunes:subtitle><![CDATA[Welcome to episode 308 of The Cloud Pod &#8211; where the forecast is always cloudy! Justin, Matt and Ryan are in the house today to tell us all about the latest and greatest from FinOps and SnowFlake conferences, plus updates from Security Command Cente]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[SCC: Security Command Center or Super Cool Capabilities?]]></itunes:title>
+	<itunes:episode>308</itunes:episode>
+	<enclosure url="https://www.thecloudpod.net/podcast-download/21122/308-scc-security-command-center.mp3" length="127550176" type="audio/mpeg"></enclosure>
+	<itunes:image href="https://www.thecloudpod.net/wp-content/uploads/2025/06/308-SCC-Security-Command-Center.jpg"></itunes:image>
+	<image>
+		<url>https://www.thecloudpod.net/wp-content/uploads/2025/06/308-SCC-Security-Command-Center.jpg</url>
+		<title>308: SCC: Security Command Center or Super Cool Capabilities?</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:46:18</itunes:duration>
+	<itunes:author><![CDATA[Justin Brodley, Jonathan Baker, Ryan Lucas and Matthew Kohn]]></itunes:author>	<googleplay:image href="https://www.thecloudpod.net/wp-content/uploads/2025/06/308-SCC-Security-Command-Center.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
 	<title>307: The AI Assistant That Finally Understands Your Kubernetes Cluster (We are Doomed)</title>
 	<link>https://www.thecloudpod.net/podcast/307-ai-understand-kubernetes/</link>
 	<pubDate>Fri, 13 Jun 2025 10:19:16 +0000</pubDate>
@@ -4522,8 +4579,8 @@ Welp, it’s sayonara to Skype &#8211; and time to finally make the move to Team
 <p>08:02 <a href="https://www.anthropic.com/news/claude-3-7-sonnet" rel="nofollow noopener" target="_blank">Claude 3.7 Sonnet and Claude Code</a></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><a href="https://docs.anthropic.com/en/docs/about-claude/models" rel="nofollow noopener" target="_blank">Anthropic</a> is releasing their latest model <a href="https://claude.ai/new" rel="nofollow noopener" target="_blank">Claude</a> 3.7 Sonnet, their most intelligent model to date and the first hybrid reasoning model on the market.  </li>
-<li style="font-weight: 400;" aria-level="1">Claude 3.7 sonnet can produce near instant responses or extended, step by step thinning that is made <a href="https://youtu.be/t3nnDXa81Hs" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">visible to the user</a>.  </li>
-<li style="font-weight: 400;" aria-level="1">API users also have fine grai]]></description>
+<li style="font-weight: 400;" aria-level="1">Claude 3.7 sonnet can produce near instant responses or extended, step by step thinning that is made <a href="https://youtu.be/t3nnDXa81Hs" rel="nofollow noopener" target="_blank">visible to the user</a>.  </li>
+<li style="font-weight: 400;" aria-level="1">API users also have fine grained control over how long th]]></description>
 	<itunes:subtitle><![CDATA[Welcome to episode 294 of The Cloud Pod &#8211; where the forecast is always cloudy!Ilya Boy, do we have a news packed week for you! Sutskever raised $30B without a product, Mira Murati launched her own AI lab, and Claude 3.7 now thinks before it speaks.]]></itunes:subtitle>
 	<itunes:episodeType>full</itunes:episodeType>
 	<itunes:title><![CDATA[Ding: Chime is Dead]]></itunes:title>
@@ -5014,7 +5071,7 @@ Welp, it’s sayonara to Skype &#8211; and time to finally make the move to Team
 <p>2:00 <a href="https://www.hashicorp.com/blog/hashicorp-at-re-invent-2024-security-lifecycle-management-with-aws" rel="nofollow noopener" target="_blank">HashiCorp at re:Invent 2024: Security Lifecycle Management with AWS</a></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1">Hashi is a big sponsor of <a href="https://www.hashicorp.com/blog/hashicorp-at-aws-re-invent-your-blueprint-for-cloud-success" rel="nofollow noopener" target="_blank">re:Invent</a>, so of course they had some news of their own to release. </li>
-<li style="font-weight: 400;" aria-level="1"><a href="https://www.hashicorp.com/products/vault/hcp-vault-secrets" rel="nofollow noopener" target="_blank">HCP Vault Secrets</a> <a href="https://www.youtube.com/watch?v=XdvKbzOM8h4" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">auto-rotation</a> is now generally available. </li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.hashicorp.com/products/vault/hcp-vault-secrets" rel="nofollow noopener" target="_blank">HCP Vault Secrets</a> <a href="https://www.youtube.com/watch?v=XdvKbzOM8h4" rel="nofollow noopener" target="_blank">auto-rotation</a> is now generally available. </li>
 <li style="font-weight: 400;" aria-level="1">Dynamic secrets are generally available via HCP Vault Secrets.</li>
 <li style="font-weight: 400;" aria-level="1"><a href="https://developer.hashicorp.com/vault/docs/sync" rel="nofollow noopener" target="_blank">Secrets sync</a> will help keep your secrets synced with <a href="https://developer.hashicorp.com/vault/docs/sync/awssm" rel="nofollow noopener" target="_blank">AWS Secrets Manager</a>. It still appears to be one direction, but you can now also view secrets in AWS Secrets Manager that are managed by vault. </li>
 <li style="font-weight: 400;" aria-level="1"><a href="https://developer.hashicorp.com/hcp/docs/vault-radar" rel="nofollow noopener" target="_blank">HCP Vault Radar</a>, now in beta, automates the detection and identification of unmanaged secrets in your code, including AWS infrastructure configurations</li>
@@ -5023,7 +5080,7 @@ Welp, it’s sayonara to Skype &#8211; and time to finally make the move to Team
 <p>03:34 <a href="https://www.hashicorp.com/blog/hashicorp-at-re-invent-2024-infrastructure-lifecycle-management-with-aws" rel="nofollow noopener" target="_blank">HashiCorp at re:Invent 2024: Infrastructure Lifecycle Management with AWS</a></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1">Terraform AWS provider is now at <a href="https://www.hashicorp.com/blog/terraform-aws-provider-tops-3-billion-downloads" rel="nofollow noopener" target="_blank">3 billion downloads</a>. </li>
-<li style="font-weight: 400;" aria-level="1">The <a href="https://www.hashicorp.com/blog/terraform-aws-cloud-control-api-provider-now-generally-available" rel="nofollow noopener" target=]]></description>
+<li style="font-weight: 400;" aria-level="1">The <a href="https://www.hashicorp.com/blog/terraform-aws-cloud-control-api-provider-now-generally-available" rel="nofollow noopener" target="_blank">AWS Cloud Control P]]></description>
 	<itunes:subtitle><![CDATA[Welcome to episode 285 of the Explain it to me Like I’m 5 Podcast, formerly known as The Cloud Pod &#8211; where the forecast is always cloudy! We’ve got a lot of news this week, including the last of our coverage from re:Invent, ChatGTP Pro, FPGA, and e]]></itunes:subtitle>
 	<itunes:episodeType>full</itunes:episodeType>
 	<itunes:title><![CDATA[6 years of cloud news… and we’re still talking about FPGAs and PowerPC]]></itunes:title>
@@ -12918,12 +12975,12 @@ Fogho]]></itunes:subtitle>
 <ul>
 <li> <a href="https://aws.amazon.com/blogs/aws/amazon-elastic-kubernetes-service-adds-ipv6-networking/" rel="nofollow noopener" target="_blank">IPv6 applications are now deployable</a> through Amazon’s Elastic Kubernetes Service (EKS). This prevents IP exhaustion, minimizes latency, and simplifies routing configurations. On the downside, IPv6 can’t be added retroactively, and this EKS add-on only supports Linux — a dealbreaker for the team.</li>
 <li> The <a href="https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/" rel="nofollow noopener" target="_blank">AWS compute optimizer has been enhanced</a> to allow users to specify both x86 and ARM as their preferred architecture for their EC2 instance type recommendations. This is a big blow to other tools that perform the same operations. </li>
-<li> AWS announced the<a href="https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-amazon-ec2-hpc6a-instances" rel="nofollow noopener" target="_blank"> general availability of the EC2 Hpc6a Instance</a>. It’s built for HPC workloads to leverage AMD EPYC 3rd-generation processors. This release expands AWS’ portfolio of HPC compute options. Plus, according to Justin, the instance name reminds him of the song <a href="https://www.youtube.com/watch?v=NaFd8ucHLuo" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">“abcdefu” by GAYLE</a>.</li>
+<li> AWS announced the<a href="https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-amazon-ec2-hpc6a-instances" rel="nofollow noopener" target="_blank"> general availability of the EC2 Hpc6a Instance</a>. It’s built for HPC workloads to leverage AMD EPYC 3rd-generation processors. This release expands AWS’ portfolio of HPC compute options. Plus, according to Justin, the instance name reminds him of the song <a href="https://www.youtube.com/watch?v=NaFd8ucHLuo" rel="nofollow noopener" target="_blank">“abcdefu” by GAYLE</a>.</li>
 <li> According to a recent job posting, AWS plans to <a href="https://www.businessinsider.com/amazon-web-services-new-project-reimagine-network-job-posting-2022-1" rel="nofollow noopener" target="_blank">completely re-imagine how its network is managed</a>. It allegedly has two secret projects that could mitigate the risk of cloud outages — like the one that impacted the company in December of 2021.</li>
 </ul>
 <h3>GCP: Phil Venables on the Keyboard</h3>
 <ul>
-<li> Phil Venables, the vener]]></description>
+<li> Phil Venables, the venerable Google VP and Chief Inf]]></description>
 	<itunes:subtitle><![CDATA[On The Cloud Pod this week, Peter finally gets to share his top announcements of 2021. Plus, Google increases security with Siemplify, Azure updates Defender, and AWS comes into the new year with a lot of changes.
 A big thanks to this week’s sponsors:
 
@@ -14219,7 +14276,7 @@ Google Cloud Next: htt]]></itunes:subtitle>
 <ul>
 <li style="font-weight: 400;"><a href="https://aws.amazon.com/blogs/aws/learn-from-your-vpc-flow-logs-with-additional-meta-data/" rel="nofollow noopener" target="_blank">Learn From Your VPC Flow Logs With Additional Meta-Data</a></li>
 <li style="font-weight: 400;"><a href="https://aws.amazon.com/blogs/compute/running-aws-infrastructure-on-premises-with-aws-outposts/" rel="nofollow noopener" target="_blank">Running AWS Infrastructure On Premises with AWS Outposts</a></li>
-<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=Q6OgRawyjIQ&amp;t=" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">What is an AWS Outpost?</a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=Q6OgRawyjIQ&amp;t=" rel="nofollow noopener" target="_blank">What is an AWS Outpost?</a></li>
 <li style="font-weight: 400;"><a href="https://aws.amazon.com/about-aws/whats-new/2019/09/service-catalog-announces-budget-visibility/" rel="nofollow noopener" target="_blank">AWS Service Catalog Announces Budget Visibility</a></li>
 <li style="font-weight: 400;"><a href="https://github.com/aws/containers-roadmap/tree/master/preview-programs/firelens" rel="nofollow noopener" target="_blank">Firelens now in Preview</a></li>
 <li style="font-weight: 400;"><a href="https://aws.amazon.com/about-aws/whats-new/2019/09/introducing-nosql-workbench-for-amazon-dynamodb-now-in-preview/" rel="nofollow noopener" target="_blank">Introducing NoSQL Workbench for Amazon DynamoDB — Now in Preview</a></li>
@@ -14239,7 +14296,7 @@ Google Cloud Next: htt]]></itunes:subtitle>
 <p>Oracle</p>
 <ul>
 <li style="font-weight: 400;"><a href="https://siliconangle.com/2019/09/11/oracle-co-ceo-mark-hurd-takes-leave-absence-citing-health-reasons/" rel="nofollow noopener" target="_blank">Oracle co-CEO Mark Hurd takes leave of absence for unspecified health reasons</a></li>
-<li style="font-weight: 400;"><a href="https://blogs.oracle.com/cloud-infrastructure/introducing-simple,-unified-billing-for-partner-solutions-on-oracle-cloud-marketplace" rel="nofollow noopener" target="_blank">Introducing Simple, Unified Bi]]></description>
+<li style="font-weight: 400;"><a href="https://blogs.oracle.com/cloud-infrastructure/introducing-simple,-unified-billing-for-partner-solutions-on-oracle-cloud-marketplace" rel="nofollow noopener" target="_blank">Introducing Simple, Unified Billing for Partner Solutions ]]></description>
 	<itunes:subtitle><![CDATA[Justin goes to Oracle World and comes back with a new understanding of OCI customers.  VPC Flow logs get new metadata and we get an update on AWS outposts, but no date or pricing yet.
 Sponsors:
 
@@ -14911,14 +14968,14 @@ Foghorn Consulting, which provides f]]></itunes:subtitle>
 </ul>
 <h3>Google: What’s Next?</h3>
 <ul>
-<li> The Google Cloud Next <a href="https://youtu.be/81y2EEjllcI" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">keynote address</a> was this week, and Jonathan has taken the win for our draft picks by predicting new collaborations and productivity tools in Google Meet. Congratulations, Jonathan!</li>
+<li> The Google Cloud Next <a href="https://youtu.be/81y2EEjllcI" rel="nofollow noopener" target="_blank">keynote address</a> was this week, and Jonathan has taken the win for our draft picks by predicting new collaborations and productivity tools in Google Meet. Congratulations, Jonathan!</li>
 <li> Google launched the <a href="https://openusage.org/news/introducing-the-open-usage-commons/" rel="nofollow noopener" target="_blank">Open Usage Commons</a> framework to support Open Source development. Google has donated the ISTIO trademark to the Commons, <a href="https://arstechnica.com/information-technology/2020/07/google-says-trademarks-should-be-open-source-too-ibm-disagrees/" rel="nofollow noopener" target="_blank">upsetting IBM</a>.</li>
 <li> AutoML Tables has received several <a href="https://cloud.google.com/blog/products/ai-machine-learning/new-automl-features-and-end-to-end-workflows-on-ai-platform-pipelines" target="_blank" rel="noopener">user-friendliness features</a>, including explanations for online predictions. (Not that any of us use AutoML.)</li>
 <li> Google is releasing <a href="https://cloud.google.com/blog/products/networking/enabling-hybrid-deployments-with-cloud-cdn-and-load-balancing" target="_blank" rel="noopener">Network Endpoint Groups</a>, which is a collection of network endpoints to use as backends for some load balancers. This is what you need to have if your hybrid cloud isn’t going to be just a transition.</li>
 <li> The new <a href="https://cloud.google.com/blog/products/management-tools/active-assist-comes-to-google-cloud" target="_blank" rel="noopener">Active Assist</a> portfolio of tools promises to help you reduce the complexity of your cloud operations. Moving around the complexity, how very… Oracle of you.</li>
 <li> <a href="https://cloud.google.com/blog/products/identity-security/assured-workloads-for-government-compliance-without-compromise" target="_blank" rel="noopener">Assured Workloads for Government</a>, now in private beta, promises to help government customers, suppliers and contractors meet the security and compliance standards of federal agencies. The compliant-but-not-isolated model can be expected to bleed out into non-governmental workloads.</li>
 <li> <a href="https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni" target="_blank" rel="noopener">BigQuery Omni</a> will allow you to access and analyze data across your multi-cloud environment. It’s a solution to the data gravity problem, but keep in mind it’s still an onramp to GCP.</li>
-<li> The <a href="https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-confidential-computing-with-confidential-vms" target="_bla]]></description>
+<li> The <a href="https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-confidential-computing-with-confidential-vms" target="_blank" rel="noopener">Confident]]></description>
 	<itunes:subtitle><![CDATA[The Cloud Pod Confidential — Episode 79
 Your hosts kick off the nine weeks of Google Next on this week’s episode of The Cloud Pod.
 A big thanks to this week’s sponsor:
@@ -15559,7 +15616,7 @@ Foghorn Consulting, which ]]></itunes:subtitle>
 <h2>Topics</h2>
 <p>Roaring Elephant <a href="https://roaringelephant.org/2019/10/08/episode-161-the-cloudpod-weather-report-part-1/" rel="nofollow noopener" target="_blank">https://roaringelephant.org/2019/10/08/episode-161-the-cloudpod-weather-report-part-1/</a></p>
 <p>AWS </p>
-<p><a href="https://www.youtube.com/watch?v=8Aq2DIMRIIg&amp;t=1s" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">https://www.youtube.com/watch?v=8Aq2DIMRIIg&amp;t=1s</a> </p>
+<p><a href="https://www.youtube.com/watch?v=8Aq2DIMRIIg&amp;t=1s" rel="nofollow noopener" target="_blank">https://www.youtube.com/watch?v=8Aq2DIMRIIg&amp;t=1s</a> </p>
 <h3>General News/Topics</h3>
 <ul>
 <li style="font-weight: 400;"><a href="https://blogs.oracle.com/cloud-infrastructure/oracle-launches-fedramp-authorized-government-cloud-regions" rel="nofollow noopener" target="_blank">Oracle Launches FedRAMP-Authorized Government Cloud Regions</a></li>
@@ -15578,7 +15635,8 @@ Foghorn Consulting, which ]]></itunes:subtitle>
 <h3>Google</h3>
 <ul>
 <li style="font-weight: 400;"><a href="https://cloud.google.com/blog/products/devops-sre/cloud-build-brings-advanced-cicd-capabilities-to-github" target="_blank" rel="noopener">Cloud Build brings advanced CI/CD capabilities to GitHub</a></li>
-<li style="font-weight: 400;"><a href="https://cloud.google.com/blog/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/" target="_blank" rel="noopener">Optimize your Google Cloud environment with new AI-base]]></description>
+<li style="font-weight: 400;"><a href="https://cloud.google.com/blog/products/gcp/optimize-your-google-cloud-environment-with-new-ai-based-recommenders/" target="_blank" rel="noopener">Optimize your Google Cloud environment with new AI-based recommenders</a></li>
+<li ]]></description>
 	<itunes:subtitle><![CDATA[Justin is back from vacation and gets the podcast back on track. Justin, Peter and Jonathan talk about their guest spot on roaring elephants and Justin&#8217;s AWS lambda fireside chat video. Elasticsearch sues AWS over trademark infringement, AWS gets i]]></itunes:subtitle>
 	<itunes:episodeType>full</itunes:episodeType>
 	<itunes:title><![CDATA[You had one Job while I was away]]></itunes:title>
@@ -16427,13 +16485,14 @@ Foghorn Consulting, which provides full-stack cloud soluti]]></itunes:subtitle>
 <li>Check out <a href="https://aws.amazon.com/blogs/aws/check-out-the-amazon-builders-library-this-is-how-we-do-it/" rel="nofollow noopener" target="_blank">The Amazon Builder’s Library</a> for insight into how Amazon operates.</li>
 </ul>
 <h2>AWS Draft — and the Winner is… </h2>
-<p>On <a href="https://www.thecloudpod.net/podcast/twas-the-night-before-reinvent-ep-49/">episode 49</a>, we drafted each of our top three picks for what we thought would be announced at Re:Invent. It’s a three-way tie for first! Each one of us correctly guessed one of our three picks, and nobody guessed that <a href="http://www.andersonpaak.com/" rel="nofollow noopener" target="_blank">Anderson .Paak</a> would make a musical appearance, leaving the tie unbroken. (Peter predicted that <a href="https://www.youtube.com/watch?v=eBX7lPk5qmA" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">Formula 1 racing</a> would be included, but it was a runner-up choice and goes uncounted.)</p>
+<p>On <a href="https://www.thecloudpod.net/podcast/twas-the-night-before-reinvent-ep-49/">episode 49</a>, we drafted each of our top three picks for what we thought would be announced at Re:Invent. It’s a three-way tie for first! Each one of us correctly guessed one of our three picks, and nobody guessed that <a href="http://www.andersonpaak.com/" rel="nofollow noopener" target="_blank">Anderson .Paak</a> would make a musical appearance, leaving the tie unbroken. (Peter predicted that <a href="https://www.youtube.com/watch?v=eBX7lPk5qmA" rel="nofollow noopener" target="_blank">Formula 1 racing</a> would be included, but it was a runner-up choice and goes uncounted.)</p>
 <p>Moving on to Re:Invent, we cover the announcements day-by-day:</p>
 <p>Sunday</p>
 <h3 style="font-size: 26px;">Toys and Security</h3>
 <p>AWS launched <a href="https://aws.amazon.com/blogs/aws/aws-deepcomposer-compose-music-with-generative-machine-learning-models/" rel="nofollow noopener" target="_blank">DeepComposer</a>, the world’s first machine learning enabled keyboard. The 32-key, 2-octave keyboard is designed to help developers to get hands-on with AI. You can train the program to generate compositions based on musical genres, but don’t expect any compelling vocals from it yet, though. Check out the announcement for sample selections. For only $99 you will be able to buy a MIDI keyboard (worth about $50) with the AWS logo on </p>
 <p><a href="https://aws.amazon.com/blogs/aws/aws-deepracer-update-new-features-new-racing-opportunities/" rel="nofollow noopener" target="_blank">DeepRacer</a>, a machine-learning based toy from yesteryear has received its own upgrades (a stereo camera and LIDAR sensor) which allow the cars to be trained to race each other physically in addition to virtually.</p>
-<p>Identity and Access Management (IAM) <a href="https://aws.amazon.com/blogs/aws/identify-unintended-resource-access-with-aws-identity-and-access-management-iam-access-analyzer/" rel="nofollow noopener" target="_blank">Access Analyzer</a> launches for free as a way to get an overview on your access control policies — it mathematically analyzes access control policies attached to resources and determines which resources can be accessed publicly or from other accou]]></description>
+<p>Identity and Access Management (IAM) <a href="https://aws.amazon.com/blogs/aws/identify-unintended-resource-access-with-aws-identity-and-access-management-iam-access-analyzer/" rel="nofollow noopener" target="_blank">Access Analyzer</a> launches for free as a way to get an overview on your access control policies — it mathematically analyzes access control policies attached to resources and determines which resources can be accessed publicly or from other accounts. </p>
+<p>A preview versi]]></description>
 	<itunes:subtitle><![CDATA[Your co-hosts celebrate the one-year anniversary of the podcast by returning to the place where it all started &#8211; AWS Re:Invent. Joining us once again is Ryan Lucas (@ryron01) as we recap the largest week in Cloud.
 A big thanks to this week’s sponso]]></itunes:subtitle>
 	<itunes:episodeType>full</itunes:episodeType>
@@ -17444,12 +17503,12 @@ Foghorn Consulting, which provides full-stack cloud solutions with a focus on st
 </ul>
 <h3>General News</h3>
 <p> We’re proud of the Bonus Episodes we’ve produced lately. Check out our interviews with <a href="https://www.thecloudpod.net/podcast/tcp-talks-finops-in-the-cloud-with-rob-martin-bonus-ep-2/">Rob Martin</a> and <a href="https://www.thecloudpod.net/podcast/tcp-talks-with-ben-kehoe-serverless-hero-episode-3/">Ben Kehoe</a>!</p>
-<p> Check out Aviatrix’s <a href="https://youtu.be/jSc3wdP4rD8?t=3036" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">panel on Multi-Cloud architecture</a> and networking — featuring our very own Justin Brodley. And if you’re here because you saw Justin’s panel, welcome to TCP!</p>
+<p> Check out Aviatrix’s <a href="https://youtu.be/jSc3wdP4rD8?t=3036" rel="nofollow noopener" target="_blank">panel on Multi-Cloud architecture</a> and networking — featuring our very own Justin Brodley. And if you’re here because you saw Justin’s panel, welcome to TCP!</p>
 <p> Global research firm Gartner has named AWS the <a href="https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-gartners-magic-quadrant-for-cloud-ai-developer-services/" rel="nofollow noopener" target="_blank">top leader</a> in Cloud AI developer services. Gartner categorizes industry leaders as having a complete vision and the ability to execute on it. Microsoft and Google were close behind, though unlike Microsoft, <a href="https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-gartner-2020-magic-quadrant-cloud-ai-developer-services" target="_blank" rel="noopener">Google spread the news</a>.</p>
 <h3>AWS: Human Salesforce, AI Oversight</h3>
 <p> Amazon Transcribe can now <a href="https://aws.amazon.com/blogs/aws/now-available-in-amazon-transcribe-automatic-redaction-of-personally-identifiable-information/" rel="nofollow noopener" target="_blank">automatically redact</a> personally identifiable information. You can rest assured when a robot collects your personal information for data analysis, it will use discretion in what it shares with humans.</p>
 <p> AWS Global Accelerator users <a href="https://aws.amazon.com/about-aws/whats-new/2020/02/aws-global-accelerator-now-supports-bring-your-own-ip-addresses/" rel="nofollow noopener" target="_blank">may now</a> use their own IP addresses and tag resources. We already had AnyCast, but the tagging is nice.</p>
-<p> Faced with tougher competition, AWS plans to <a href="https://www.theinformation.com/articles/aws-plans-to-double-size-of-sales-team-as-microsoft-looms?utm_content=article-4305&amp;utm_campaign=article_email&amp;utm_source=sg&amp;utm_medium=email" rel="nofollow noopener" target="_blank"]]></description>
+<p> Faced with tougher competition, AWS plans to <a href="https://www.theinformation.com/articles/aws-plans-to-double-size-of-sales-team-as-microsoft-looms?utm_content=article-4305&amp;utm_campaign=article_email&amp;utm_source=sg&amp;utm_medium=email" rel="nofollow noopener" target="_blank">double the size</a> of its ]]></description>
 	<itunes:subtitle><![CDATA[Ryan Lucas (@ryron01) fills in for Peter as we cover all the news you can use on this week’s episode of The Cloud Pod.
 A big thanks to this week’s sponsors:
 
@@ -18215,7 +18274,7 @@ A big thanks to this week’s sponsors:
 </ul>
 <h2>Topics</h2>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=LUqRatX2mFU" data-rel="lightbox-video-0" rel="nofollow noopener" target="_blank">Now Go Build #2</a></li>
+<li><a href="https://www.youtube.com/watch?v=LUqRatX2mFU" rel="nofollow noopener" target="_blank">Now Go Build #2</a></li>
 <li><a href="https://channel9.msdn.com/Shows/Azure-Friday/Get-ready-for-Global-Azure-Bootcamp-2019" rel="nofollow noopener" target="_blank">Channel 9 releases information on Global Azure Bootcamp</a></li>
 <li><a href="https://azure.microsoft.com/en-us/blog/announcing-public-preview-of-data-discovery-classification-for-microsoft-azure-sql-data-warehouse/" target="_blank" rel="noopener">Azure has announced preview of Data Discovery and Classification for Azure SQL Data Warehouse</a></li>
 <li><a href="https://azure.microsoft.com/blog/azure-search-new-storage-optimized-service-tiers-available-in-public-preview/" target="_blank" rel="noopener">Azure Search has new storage optimized service tiers in preview</a></li>
@@ -18260,7 +18319,7 @@ A big thanks to this week’s sponsors:
 </ul>
 <h2>Lightning Round</h2>
 <ul>
-<li><a href="https://aws.amazon.com/about-aws/whats-new/2019/03/announcing-aws-firewall-manager-support-for-aws-shield-advanced/" rel="nofollow noopener" target="_blank">AWS Firewall Manager now su]]></description>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2019/03/announcing-aws-firewall-manager-support-for-aws-shield-advanced/" rel="nofollow noopener" target="_blank">AWS Firewall Manager now supports AWS Shield Advanced <]]></description>
 	<itunes:subtitle><![CDATA[Episode 17
 Azure announces new data and discovery classification features, AWS APN changes go into effect, and Chef goes 100% Open Source.  Jonathan, Justin and Peter draft their Google Next 2019 predictions and more on the cloud pod. #thecloudpod
 Sponso]]></itunes:subtitle>
