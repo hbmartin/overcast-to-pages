@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.esri.com/about/newsroom/esripodcast/feed/esripodcast" rel="self" type="application/rss+xml" />
 	<link>https://www.esri.com/about/newsroom/esripodcast</link>
 	<description>We talk to business and technology leaders who share analysis, insights, and stories on data science, the Internet of Things, Smart Communities and other forces driving digital transformation and leveraging the power of location intelligence.</description>
-	<lastBuildDate>Wed, 11 Jun 2025 22:19:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Jun 2025 13:58:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -47,6 +47,25 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<podcast:guid>fd92211e-52e7-5f84-8b5b-88def40e86a4</podcast:guid>
 	<rawvoice:subscribe feed="https://www.esri.com/about/newsroom/esripodcast/feed/esripodcast" itunes="https://itunes.apple.com/us/podcast/esri-the-science-of-where/id1278471445" tunein="https://tunein.com/radio/Esri--The-Science-of-Where-p1026745/"></rawvoice:subscribe>
+	<item>
+		<title>Mapping a Marine Renaissance: Geospatial Tools in Scottish Seabed Revival</title>
+		<link>https://www.esri.com/about/newsroom/podcast/mapping-a-marine-renaissance-geospatial-tools-in-scottish-seabed-revival</link>
+		<pubDate>Fri, 20 Jun 2025 13:58:44 +0000</pubDate>
+		<guid isPermaLink="false">https://www.esri.com/about/newsroom/?post_type=podcast&#038;p=760622</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+			<enclosure url="https://media.blubrry.com/esripodcast/www.esri.com/content/dam/esrisites/en-us/about/news-room/podcasts/mappingamarinerenaissance.mp3" length="20536544" type="audio/mpeg" />
+		<itunes:summary>Howard Wood, co-founder of COAST, the Community of Arran Seabed Trust project, explains geospatial technology is being used to restore fisheries off the Isle of Arran in Scotland.</itunes:summary>
+		<itunes:author>Esri</itunes:author>
+		<itunes:season>7</itunes:season>
+		<podcast:season>7</podcast:season>
+		<itunes:episode>173</itunes:episode>
+		<podcast:episode>173</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>21:24</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://www.esri.com/about/newsroom/?powerpress_embed=760622-esripodcast&amp;amp;amp;powerpress_player=mediaelement-audio&quot; title=&quot;Blubrry Podcast Player&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
 	<item>
 		<title>Mapping the Deep: A Conversation with Dawn Wright</title>
 		<link>https://www.esri.com/about/newsroom/podcast/mapping-the-deep-a-conversation-with-dawn-wright</link>

@@ -8,8 +8,8 @@
     <copyright><![CDATA[Sharp Tech Podcast LLC]]></copyright>
     <managingEditor>email@sharptech.fm (Andrew Sharp and Ben Thompson)</managingEditor>
     <webMaster>webmaster@sharptech.fm (Andrew Sharp and Ben Thompson)</webMaster>
-    <pubDate>Tue, 17 Jun 2025 14:30:36 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 21:04:33 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Jun 2025 19:00:06 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 19:20:03 +0000</lastBuildDate>
     <category>Technology</category>
     <ttl>60</ttl>
     <image>
@@ -17,6 +17,47 @@
       <title>Sharp Tech with Ben Thompson</title>
       <link>https://sharptech.fm</link>
     </image>
+    <item>
+      <title>(Preview) Meta Continues Its AI Spending Spree, More Fun with OpenAI and Microsoft, ‘Apple in China’ and Related Matters</title>
+      <link>https://sharptech.fm/member/episode/preview-meta-continues-its-ai-spending-spree-more-fun-with-open-ai-and-microsoft-apple-in-china-and-related-matters</link>
+      <description>Ben and Andrew react to reports that in addition to adding Scale AI CEO Alexandr Wang, Meta’s now in advanced talks to hire prominent AI investors and frequent Stratechery guests, Nat Friedman and Daniel Gross, for an offer that could exceed $1 billion. Then: Follow-ups on Perplexity and Apple, the calculus for both sides amid reports of between OpenAI and Microsoft, a question about ‘Apple in China’ and culpability for the last 20 years of decision-making, and thoughts on the competition between the US and China, in general. </description>
+      <content:encoded><![CDATA[<p>
+    Ben and Andrew react to reports that in addition to adding Scale AI CEO Alexandr Wang, Meta’s now in advanced talks to hire prominent AI investors and frequent Stratechery guests, Nat Friedman and Daniel Gross, for an offer that could exceed $1 billion. Then: Follow-ups on Perplexity and Apple, the calculus for both sides amid reports of between OpenAI and Microsoft, a question about ‘Apple in China’ and culpability for the last 20 years of decision-making, and thoughts on the competition between the US and China, in general. 
+</p>
+<meta charset="UTF-8"/><p>To email the show: <a href="mailto:email@sharptech.fm">email@sharptech.fm</a></p>
+
+<hr/>
+
+<p>@SharpTechPodcast Channel — <a href="https://www.youtube.com/@SharpTechPodcast">YouTube</a></p>
+
+<p>@Stratechery Channel — <a href="https://www.youtube.com/@Stratechery">YouTube</a></p>
+
+<hr/>
+
+<p>Meta in Talks to Hire AI Investors Friedman and Gross, Partially Buy Out Their Venture Fund — <a href="https://www.theinformation.com/articles/meta-talks-hire-former-github-ceo-nat-friedman-daniel-gross-join-ai-efforts">The Information</a></p>
+
+<p>Stratechery Interview Series: Nat Friedman and Daniel Gross — <a href="https://stratechery.com/topic/events/interview/nat-friedman-and-daniel-gross/">Stratechery</a></p>
+
+<p>Microsoft-OpenAI Drama Continues, WhatsApp Ads, Channel Subscriptions and the Creator Perspective — <a href="https://stratechery.com/2025/microsoft-openai-drama-continues-whatsapp-ads-channel-subscriptions-and-the-creator-perspective/">Stratechery Update</a></p>
+
+<p>An Interview with “Apple in China” Author Patrick McGee — <a href="https://stratechery.com/2025/an-interview-with-apple-in-china-author-patrick-mcgee/">Stratechery Interview</a></p>
+<hr/>
+
+<p>Get all episodes of Sharp Tech, Sharp China, Stratechery Updates and Interviews, Greatest of All Talk, Asianometry and the Dithering Podcast as part of <a href="https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG">Stratechery Plus</a> for $15/month or $150/year.</p>]]></content:encoded>
+      <author>Andrew Sharp and Ben Thompson</author>
+      <enclosure url="https://sharptech.fm/assets/sharptech0234_preview.mp3?access_token=WtLvUDEHgB7rE4MbAfmDVT" length="14296174" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="true">https://sharptech.fm/member/episode/preview-meta-continues-its-ai-spending-spree-more-fun-with-open-ai-and-microsoft-apple-in-china-and-related-matters</guid>
+      <pubDate>Thu, 19 Jun 2025 19:00:06 +0000</pubDate>
+      <atomic:distribution id="CQJ7qKBZjeoARuCzZsvp6" article="CQJ7nTnAE5L3euYZq4nLT" template="9yW2u115pMenFrEKqdKPEW" audience="4c7ZXpgqCGPHfUcjX3Mcoc" asset="CQJ7jjmFrnwauPMSKgW29">
+        <atomic:distroDate>Thu, 19 Jun 2025 19:18:13 +0000</atomic:distroDate>
+        <atomic:categories>
+          <atomic:category id="6PY3ZUwyC2b5KGPmqB2H1w" name="itunes-episodes"></atomic:category>
+        </atomic:categories>
+      </atomic:distribution>
+      <itunes:author>Andrew Sharp and Ben Thompson</itunes:author>
+      <itunes:duration>00:14:22</itunes:duration>
+      <itunes:summary>Ben and Andrew react to reports that in addition to adding Scale AI CEO Alexandr Wang, Meta’s now in advanced talks to hire prominent AI investors and frequent Stratechery guests, Nat Friedman and Daniel Gross, for an offer that could exceed $1 billion. Then: Follow-ups on Perplexity and Apple, the calculus for both sides amid reports of between OpenAI and Microsoft, a question about ‘Apple in China’ and culpability for the last 20 years of decision-making, and thoughts on the competition between the US and China, in general. </itunes:summary>
+    </item>
     <item>
       <title>(Preview) The Futures for Cursor and Perplexity, Multi Modality Dreams and Apple Possibilities, Normies Contemplate an AI Future</title>
       <link>https://sharptech.fm/member/episode/preview-the-futures-for-cursor-and-perplexity-multi-modality-dreams-and-apple-possibilities-normies-contemplate-an-ai-future</link>
@@ -39,7 +80,7 @@ As the dust settles after keynote season, Ben and Andrew answer mailbag question
 
 <p>Nvidia’s Jensen Huang says he disagrees with almost everything Anthropic CEO Dario Amodei says — <a href="https://fortune.com/2025/06/11/nvidia-jensen-huang-disagress-anthropic-ceo-dario-amodei-ai-jobs/">Fortune</a></p>
 
-<p>Regretful Accelerationism — [Stratechery](https://stratechery.com/2023/regretful-accelerationism/</p>
+<p>Regretful Accelerationism — <a href="https://stratechery.com/2023/regretful-accelerationism/">Stratechery</a></p>
 <hr/>
 
 <p>Get all episodes of Sharp Tech, Sharp China, Stratechery Updates and Interviews, Greatest of All Talk, Asianometry and the Dithering Podcast as part of <a href="https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG">Stratechery Plus</a> for $15/month or $150/year.</p>]]></content:encoded>
@@ -8810,7 +8851,7 @@ The eleventh hour agreement between Charter and Disney, why Charter was the clea
     <atomic:instance id="6vy7SsfMZpRFMRsv1im5eU" build="4761d1eb" version="v1.1.8-patch.1"></atomic:instance>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <sy:updateBase>2025-06-17 14:46:48 +0000 UTC</sy:updateBase>
+    <sy:updateBase>2025-06-19 19:18:13 +0000 UTC</sy:updateBase>
     <itunes:subtitle>How technology works, and the ways it is impacting the world</itunes:subtitle>
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>

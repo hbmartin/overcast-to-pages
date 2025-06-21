@@ -22,6 +22,118 @@ The show covers a wide range of topics including Python programming best practic
     
       <item>
         <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>254</itunes:episode>
+        <title>Scaling Python Web Applications With Kubernetes and Karpenter</title>
+        <itunes:title>Scaling Python Web Applications With Kubernetes and Karpenter</itunes:title>
+        <link>https://realpython.com/podcasts/rpp/254/</link>
+        <description>What goes into scaling a web application today? What are resources for learning and practicing DevOps skills? This week on the show, Calvin Hendryx-Parker is back to discuss the tools and infrastructure for autoscaling web applications with Kubernetes and Karpenter.</description>
+        <content:encoded>&lt;p&gt;What goes into scaling a web application today? What are resources for learning and practicing DevOps skills? This week on the show, Calvin Hendryx-Parker is back to discuss the tools and infrastructure for autoscaling web applications with Kubernetes and Karpenter.&lt;/p&gt;
+&lt;p&gt;Calvin is the co-founder and CTO of Six Feet Up, a Python and AI consultancy. He shares how they recently helped a client scale a web application that employs video, audio, and chat sessions. We dig deep into the tooling behind modern Kubernetes systems management and performance monitoring.&lt;/p&gt;
+&lt;p&gt;Calvin shares a project bootstrap tool for streamlining the development and deployment of a web application. The tool includes a complete blueprint for the infrastructure needed to get started.&lt;/p&gt;
+&lt;p&gt;We also dig into a collection of coding tools Calvin has been experimenting with. We discuss his recent IndyPy presentation, &amp;ldquo;Battle of the Bots,&amp;rdquo; which put several AI code assistants through their paces.&lt;/p&gt;
+&lt;p&gt;This episode is sponsored by AMD.&lt;/p&gt;
+&lt;div class=&quot;alert alert-primary&quot; role=&quot;alert&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Course Spotlight:&lt;/strong&gt; &lt;a href=&quot;https://realpython.com/courses/first-steps-langchain/&quot;&gt;First Steps With LangChain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Large language models (LLMs) have taken the world by storm. In this step-by-step video course, you&amp;rsquo;ll learn to use the LangChain library to build LLM-assisted applications.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00:00 &amp;ndash; Introduction&lt;/li&gt;
+&lt;li&gt;00:02:23 &amp;ndash; Scaling a Django project using Kubernetes&lt;/li&gt;
+&lt;li&gt;00:05:35 &amp;ndash; Elastic Kubernets Service (EKS)&lt;/li&gt;
+&lt;li&gt;00:09:10 &amp;ndash; Kubernetes terminology and improvements in tooling&lt;/li&gt;
+&lt;li&gt;00:11:29 &amp;ndash; The Control Plane and the API&lt;/li&gt;
+&lt;li&gt;00:14:06 &amp;ndash; Video Course Spotlight&lt;/li&gt;
+&lt;li&gt;00:15:11 &amp;ndash; scaf: providing DevOps engineers a blueprint for new projects&lt;/li&gt;
+&lt;li&gt;00:17:21 &amp;ndash; What have been the benefits of scaf for internal teams?&lt;/li&gt;
+&lt;li&gt;00:20:18 &amp;ndash; How do you identify and reproduce scaling issues?&lt;/li&gt;
+&lt;li&gt;00:22:44 &amp;ndash; Dealing with IP address scaling&lt;/li&gt;
+&lt;li&gt;00:26:03 &amp;ndash; Why use other observability tools beyond AWS internal ones?&lt;/li&gt;
+&lt;li&gt;00:29:22 &amp;ndash; Other lessons learned and moving toward refactoring code&lt;/li&gt;
+&lt;li&gt;00:33:53 &amp;ndash; Scaling a voice-based LLM application&lt;/li&gt;
+&lt;li&gt;00:35:35 &amp;ndash; Sponsor: AMD&lt;/li&gt;
+&lt;li&gt;00:36:11 &amp;ndash; Looking at limitations and bottlenecks&lt;/li&gt;
+&lt;li&gt;00:38:08 &amp;ndash; Configuring a Kubernetes operator to act on itself&lt;/li&gt;
+&lt;li&gt;00:39:47 &amp;ndash; What project components are within a pod of containers?&lt;/li&gt;
+&lt;li&gt;00:42:31 &amp;ndash; Budgeting for scale using Karpenter&lt;/li&gt;
+&lt;li&gt;00:43:58 &amp;ndash; Tools for running containers locally&lt;/li&gt;
+&lt;li&gt;00:46:01 &amp;ndash; Are containers still a primary development tool for you?&lt;/li&gt;
+&lt;li&gt;00:50:58 &amp;ndash; Resources for learning DevOps and Kubernetes&lt;/li&gt;
+&lt;li&gt;00:52:54 &amp;ndash; Conferences and talks&lt;/li&gt;
+&lt;li&gt;00:53:56 &amp;ndash; Battle of the Bots: comparing coding agents&lt;/li&gt;
+&lt;li&gt;00:55:15 &amp;ndash; What are you excited about in the world of Python?&lt;/li&gt;
+&lt;li&gt;00:56:20 &amp;ndash; What do you want to learn next?&lt;/li&gt;
+&lt;li&gt;01:02:42 &amp;ndash; What&amp;rsquo;s the best way for people to follow your work online?&lt;/li&gt;
+&lt;li&gt;01:03:33 &amp;ndash; Thanks and goodbye&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Show Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://sixfeetup.com/&quot;&gt;Six Feet Up - Python and AI for Good, Custom Software Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kubernetes.io/docs/tutorials/&quot;&gt;Kubernetes - Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/eks/&quot;&gt;Managed Kubernetes Service - Amazon EKS - AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://karpenter.sh/&quot;&gt;Karpenter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kustomize.io/&quot;&gt;Kustomize - Kubernetes native configuration management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kubernetes.io/docs/concepts/overview/components/#control-plane-components&quot;&gt;Kubernetes Components - Control Plane Components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/github-actions-python/&quot;&gt;Continuous Integration and Deployment for Python With GitHub Actions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://argoproj.github.io/cd/&quot;&gt;Argo CD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sixfeetup/scaf&quot;&gt;scaf: Provides developers and DevOps engineers with a complete blueprint for a new project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sixfeetup.com/company/news/streamline-developer-experience-with-kubernetes-and-scaf-tm&quot;&gt;Streamline the Dev Experience with Kubernetes and Scaf™&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sixfeetup.com/company/scaf-a-blueprint-for-developers&quot;&gt;Scaf™ — Six Feet Up&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://talkpython.fm/episodes/show/496/scaf-complete-blueprint-for-new-python-kubernetes-projects&quot;&gt;Scaf: Complete blueprint for new Python Kubernetes projects - Talk Python To Me Podcast E496&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kind.sigs.k8s.io/&quot;&gt;kind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://locust.io/&quot;&gt;Locust - A modern load testing framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://grafana.com/&quot;&gt;Grafana: The open and composable observability platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana Loki OSS - Log aggregation system&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://prometheus.github.io/client_python/&quot;&gt;Prometheus - client_python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html&quot;&gt;Elastic network interfaces - Amazon Elastic Compute Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/awslabs/eks-node-viewer&quot;&gt;eks-node-viewer: EKS Node Viewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/derailed/k9s&quot;&gt;k9s: 🐶 Kubernetes CLI To Manage Your Clusters In Style!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://orbstack.dev/&quot;&gt;OrbStack · Fast, light, simple Docker &amp;amp; Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nixos.org/wiki/Python&quot;&gt;NixOS Wiki - Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/techworldwithnana&quot;&gt;TechWorld with Nana - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pqBqdNIPrbo&quot;&gt;Python: The Documentary [OFFICIAL TRAILER] - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/calvinhp/&quot;&gt;Calvin Hendryx-Parker - LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Conferences and Meetups:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://allthingsopen.org/events/all-things-open-2025&quot;&gt;All Things Open 2025 - All Things Open&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://allthingsopen.ai/&quot;&gt;All Things Open AI Conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL6kQg8bP1Ji4JC8KR_q9yYs8rUN77zBG7&quot;&gt;All Things Open AI 2025 - AI Builders Track - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=HEawRMNGlMU&amp;amp;list=PL6kQg8bP1Ji4JC8KR_q9yYs8rUN77zBG7&amp;amp;index=5&quot;&gt;Rolling out Enterprise AI: Tools, Insights, &amp;amp; Team Empowerment - Calvin Hendryx-Parker, Six Feet Up - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://us.pycon.org/2025/&quot;&gt;PyCon US 2025 - PyCon US 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pyohio.org/2025/&quot;&gt;PyOhio 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.meetup.com/indypy/events/&quot;&gt;IndyPy Events&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI Coding Tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ix68u1MM3FY&amp;amp;t=1298s&quot;&gt;Battle of the Bots - Developer Tools Showdown - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://aider.chat/&quot;&gt;Aider - AI Pair Programming in Your Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://block.github.io/goose/&quot;&gt;codename goose&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ollama.com/blog/continue-code-assistant&quot;&gt;An entirely open-source AI code assistant inside your editor - Ollama Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mistral.ai/news/devstral&quot;&gt;Devstral - Mistral AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://coralogix.com/guides/llm-observability-tools/&quot;&gt;10 LLM Observability Tools to Know in 2025 - Coralogix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://simonwillison.net/2025/May/31/snitchbench-with-llm/&quot;&gt;How often do LLMs snitch? Recreating Theo&amp;rsquo;s SnitchBench with LLM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/&quot;&gt;The lethal trifecta for AI agents: private data, untrusted content, and external communication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/RobertFischer/vllm-proxy&quot;&gt;vllm-proxy: Proxy for vLLM enabling multi-model operation, cache-aware routing, and load balancing.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Level up your Python skills with our expert-led courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/courses/cicd-github-actions/&quot;&gt;Python Continuous Integration and Deployment Using GitHub Actions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/courses/first-steps-langchain/&quot;&gt;First Steps With LangChain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://realpython.com/courses/managing-dependencies-with-poetry/&quot;&gt;Managing Dependencies With Python Poetry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt; &lt;p&gt;&lt;a rel=&quot;payment&quot; href=&quot;https://realpython.com/join&quot;&gt;Support the podcast &amp;amp; join our community of Pythonistas&lt;/a&gt;&lt;/p&gt;</content:encoded>
+        <enclosure url="https://dts.podtrac.com/redirect.mp3/files.realpython.com/podcasts/RPP_E254_03_Calvin.24ba50a74bd7.mp3" type="audio/mpeg" length="63186814"/>
+        <guid isPermaLink="false">cd9870c5-f177-4992-8f18-e1dbd8c673ef</guid>
+        <pubDate>Fri, 20 Jun 2025 12:00:00 +0000</pubDate>
+        <itunes:duration>3887</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://files.realpython.com/media/SQ_E_254_Podcast.0ec3381e0553.jpg"/>
+        <rp:twitter-handles>@calvinhp</rp:twitter-handles>
+        <rp:twitter-title>“Scaling Python Web Applications With Kubernetes and Karpenter” with @calvinhp</rp:twitter-title>
+      </item>
+    
+      <item>
+        <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>253</itunes:episode>
         <title>Starting With Marimo Notebooks &amp; Python App Config Management</title>
         <itunes:title>Starting With Marimo Notebooks &amp; Python App Config Management</itunes:title>
@@ -3054,7 +3166,7 @@ The show covers a wide range of topics including Python programming best practic
 &lt;li&gt;&lt;a href=&quot;https://realpython.com/podcasts/rpp/75/&quot;&gt;Episode #75: Building With CircuitPython &amp;amp; Constraints of Python for Microcontrollers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/MicroPython-Cookbook-practical-programming-microcontrollers/dp/1838649956&quot;&gt;MicroPython Cookbook: Marwan Alsabbagh - Amazon.com: Books&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://webassembly.org/&quot;&gt;WebAssembly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://htmx.org/&quot;&gt; htmx - high power tools for html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://htmx.org/&quot;&gt;&amp;lt;/&amp;gt; htmx - high power tools for html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://marwano.com/&quot;&gt;Marwan Alsabbagh - personal website&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/marwano/&quot;&gt;marwano (Marwan Alsabbagh) - GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -3281,7 +3393,7 @@ The show covers a wide range of topics including Python programming best practic
 &lt;/ul&gt;
 &lt;p&gt;Additional Links:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://htmx.org/&quot;&gt; htmx - high power tools for html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://htmx.org/&quot;&gt;&amp;lt;/&amp;gt; htmx - high power tools for html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://realpython.com/fastapi-python-web-apis/&quot;&gt;Using FastAPI to Build Python Web APIs – Real Python&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://ollama.com/&quot;&gt;Ollama&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/danielmiessler/fabric/&quot;&gt;fabric: An open-source framework for augmenting humans using AI&lt;/a&gt;&lt;/li&gt;
@@ -6324,7 +6436,7 @@ The show covers a wide range of topics including Python programming best practic
 &lt;li&gt;&lt;a href=&quot;http://goodfirstissues.com/&quot;&gt;Good First Issues&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://hacktoberfest.com/participation/&quot;&gt;Participation - Hacktoberfest 2023&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.python.org/downloads/release/python-3120/&quot;&gt;Python Release Python 3.12.0 - Python.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://htmx.org/&quot;&gt; htmx - high power tools for html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://htmx.org/&quot;&gt;&amp;lt;/&amp;gt; htmx - high power tools for html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.djangoproject.com/&quot;&gt;The web framework for perfectionists with deadlines - Django&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://blog.pypi.org/&quot;&gt;The Python Package Index - Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://fosstodon.org/@miketheman@hachyderm.io&quot;&gt;Mike Fiedler, Code Gardener (@miketheman@hachyderm.io) - Fosstodon&lt;/a&gt;&lt;/li&gt;
