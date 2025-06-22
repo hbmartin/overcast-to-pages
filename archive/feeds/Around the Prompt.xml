@@ -7,8 +7,8 @@
     <atom:link href="https://media.rss.com/around-the-prompt/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <description><![CDATA[<p>'Around the Prompt' goes deep, peeling back the layers of AI innovation to reveal the hidden gems, the untapped potential, based on conversations with leading experts. Whether you're a seasoned AI enthusiast or just dipping your toes into the world of artificial intelligence, we will be your compass for navigating the ever-changing landscape. Discover how AI is transforming industries, enhancing our daily lives, and shaping the world of tomorrow. Our conversations transcend mere trends and buzzwords, giving you the practical insights you need to harness the power of AI effectively.</p>]]></description>
-    <generator>RSS.com v2.17.0</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 12:13:13 GMT</lastBuildDate>
+    <generator>RSS.com v3.1.2</generator>
+    <lastBuildDate>Sat, 21 Jun 2025 14:08:57 GMT</lastBuildDate>
     <language>en</language>
     <itunes:image href="https://media.rss.com/around-the-prompt/20240327_090353_897313138dcf0a5b77e5ec86f56e3fa7.png"/>
     <podcast:guid>0a3ba768-0ba8-5dae-b804-5c153882dfb7</podcast:guid>
@@ -29,6 +29,23 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title><![CDATA[An unfiltered conversation with Sahil Lavingia, CEO of Gumroad]]></title>
+      <itunes:title><![CDATA[An unfiltered conversation with Sahil Lavingia, CEO of Gumroad]]></itunes:title>
+      <description><![CDATA[<p>Join Nolan Fortman and Logan Kilpatrick for a conversation about AI, the future of work, autonomous coding agents, and more with Sahil Lavingia, the CEO and founder of Gumroad &amp; Antiwork. Sahil has been a builder for over 10 years, initially raising a small VC round then series A for Gumroad and is now building as an AI first product company. It was awesome to hear about the transition from him, how him and the team make product bets, and hot takes on AI coding : )</p>]]></description>
+      <link>https://rss.com/podcasts/around-the-prompt/2083487</link>
+      <enclosure url="https://media.rss.com/around-the-prompt/2025_06_21_14_07_20_21615818-7e1e-4aa6-b81d-629241f7c91c.mp3" length="65782732" type="audio/mpeg"/>
+      <guid isPermaLink="false">25a49682-cee6-4f87-846d-daa22a74e850</guid>
+      <itunes:duration>4111</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 21 Jun 2025 14:08:57 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/around-the-prompt/ep_cover_20250621_020647_25f0c76df4db8e235266c7f00165203f.png"/>
+    </item>
     <item>
       <title><![CDATA[An unfiltered conversation with Anjney Midha, General Partner at A16Z]]></title>
       <itunes:title><![CDATA[An unfiltered conversation with Anjney Midha, General Partner at A16Z]]></itunes:title>

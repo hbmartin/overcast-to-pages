@@ -4,7 +4,7 @@
 		<description><![CDATA[We help founders make something people want.]]></description>
 		<link>http://www.ycombinator.com</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 19 Jun 2025 19:10:13 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 21 Jun 2025 16:01:39 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/8c1524bc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Y Combinator]]></author>
 		<copyright><![CDATA[Y Combinator]]></copyright>
@@ -20,6 +20,38 @@
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/23401959/23401959-1715188660604-894894aeaa81c.jpg"/>
+		<item>
+			<title><![CDATA[Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware]]></title>
+			<description><![CDATA[<p>A fireside with Sam Altman at AI Startup School in San Francisco.Sam Altman grew up obsessed with technology, broke into the Stanford mainframe as a kid, and dropped out to start his first company before turning 20.In this conversation, he traces the path from early startup struggles to building OpenAI—sharing what he’s learned about ambition, the weight of responsibility, and how to keep building when the whole world is watching. He opens up about the hardest moments of his career, the limits of personal productivity, and why, in the end, it's all still about finding people you like working with and doing something that matters.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ycombinator/episodes/Sam-Altman-The-Future-of-OpenAI--ChatGPTs-Origins--and-Building-AI-Hardware-e34hfua</link>
+			<guid isPermaLink="false">7d8c862c-e2fb-4585-afc6-bbb6ff500d68</guid>
+			<dc:creator><![CDATA[Y Combinator]]></dc:creator>
+			<pubDate>Sat, 21 Jun 2025 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8c1524bc/podcast/play/104430986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-21%2F402544633-44100-2-4286cabc37d4a.mp3" length="41025200" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A fireside with Sam Altman at AI Startup School in San Francisco.Sam Altman grew up obsessed with technology, broke into the Stanford mainframe as a kid, and dropped out to start his first company before turning 20.In this conversation, he traces the path from early startup struggles to building OpenAI—sharing what he’s learned about ambition, the weight of responsibility, and how to keep building when the whole world is watching. He opens up about the hardest moments of his career, the limits of personal productivity, and why, in the end, it&apos;s all still about finding people you like working with and doing something that matters.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:42:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/23401959/23401959-1750466222992-90c55b50114e4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful]]></title>
+			<description><![CDATA[<p>A fireside with Elon Musk at AI Startup School in San Francisco.Before rockets and robots, Elon Musk was drilling holes through his office floor to borrow internet. In this candid talk, he walks through the early days of Zip2, the Falcon 1 launches that nearly ended SpaceX, and the “miracle” of Tesla surviving 2008. He shares the thinking that guided him—building from first principles, doing useful things, and the belief that we’re in the middle of an intelligence big bang.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ycombinator/episodes/Elon-Musk-Digital-Superintelligence--Multiplanetary-Life--How-to-Be-Useful-e34hfpl</link>
+			<guid isPermaLink="false">3b8d06d8-f5a5-4e11-87ee-517034f965ce</guid>
+			<dc:creator><![CDATA[Y Combinator]]></dc:creator>
+			<pubDate>Sat, 21 Jun 2025 00:27:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8c1524bc/podcast/play/104430837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-21%2F402544435-44100-2-793ea74ec916e.mp3" length="47692485" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A fireside with Elon Musk at AI Startup School in San Francisco.Before rockets and robots, Elon Musk was drilling holes through his office floor to borrow internet. In this candid talk, he walks through the early days of Zip2, the Falcon 1 launches that nearly ended SpaceX, and the “miracle” of Tesla surviving 2008. He shares the thinking that guided him—building from first principles, doing useful things, and the belief that we’re in the middle of an intelligence big bang.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:49:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/23401959/23401959-1750465707358-917b1d473a0cf.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Andrej Karpathy: Software Is Changing (Again)]]></title>
 			<description><![CDATA[<p>Andrej Karpathy's keynote at AI Startup School in San Francisco.Drawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. Software is changing, again. We’ve entered the era of “Software 3.0,” where natural language becomes the new programming interface and models do the rest.He explores what this shift means for developers, users, and the design of software itself— that we're not just using new tools, but building a new kind of computer.</p><p><br /></p><p>Slides provided by Andrej: https://drive.google.com/file/d/1a0h1mkwfmV2PlekxDN8isMrDA5evc4wW/view?usp=sharing</p>

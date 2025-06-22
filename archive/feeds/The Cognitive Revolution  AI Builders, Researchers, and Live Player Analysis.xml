@@ -35,6 +35,67 @@ The Cognitive Revolution is part of the Turpentine podcast network. To learn mor
     <itunes:category text="Society &amp; Culture">
     </itunes:category>
     <item>
+      <title>Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
+      <link>https://www.cognitiverevolution.ai</link>
+      <description>Flo Crivello, CEO of AI agent platform Lindy, provides a candid deep dive into the current state of AI agents, cutting through hype to reveal what's actually working in production versus what remains challenging. The conversation explores practical implementation details including model selection, fine-tuning, RAG systems, tool design philosophy, and why most successful "AI agents" today are better described as intelligent workflows with human-designed structure. Flo shares insights on emerging capabilities like more open-ended agents, discusses his skepticism about extrapolating current progress trends too far into the future, and explains why scaffolding will remain critical even as we approach AGI. This technical discussion is packed with practical nuggets for AI engineers and builders working on agent systems.
+
+
+Sponsors:
+Google Gemini: Google Gemini features VEO3, a state-of-the-art AI video generation model in the Gemini app. Sign up at https://gemini.google.com
+Oracle Cloud Infrastructure: Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at https://oracle.com/cognitive
+The AGNTCY (Cisco): The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast
+NetSuite by Oracle: NetSuite by Oracle is the AI-powered business management suite trusted by over 41,000 businesses, offering a unified platform for accounting, financial management, inventory, and HR. Gain total visibility and control to make quick decisions and automate everyday tasks—download the free ebook, Navigating Global Trade: Three Insights for Leaders, at https://netsuite.com/cognitive
+
+
+PRODUCED BY:
+https://aipodcast.ing
+
+
+SOCIAL LINKS:
+Website: https://www.cognitiverevolution.ai
+Twitter (Podcast): https://x.com/cogrev_podcast
+Twitter (Nathan): https://x.com/labenz
+LinkedIn: https://linkedin.com/in/nathanlabenz/
+Youtube: https://youtube.com/@CognitiveRevolutionPodcast
+Apple: https://podcasts.apple.com/de/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431
+Spotify: https://open.spotify.com/show/6yHyok3M3BjqzR0VB5MSyk</description>
+      <pubDate>Sat, 21 Jun 2025 09:37:00 -0000</pubDate>
+      <itunes:title>Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Erik Torenberg, Nathan Labenz</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/6518d0ae-4e22-11f0-a74d-93d327f2eac3/image/28c8a5ee5e96fe45cb21fa02b324fb53.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Flo Crivello, CEO of AI agent platform Lindy, provides a candid deep dive into the current state of AI agents, cutting through hype to reveal what's actually working in production versus what remains challenging.</itunes:subtitle>
+      <itunes:summary>Flo Crivello, CEO of AI agent platform Lindy, provides a candid deep dive into the current state of AI agents, cutting through hype to reveal what's actually working in production versus what remains challenging. The conversation explores practical implementation details including model selection, fine-tuning, RAG systems, tool design philosophy, and why most successful "AI agents" today are better described as intelligent workflows with human-designed structure. Flo shares insights on emerging capabilities like more open-ended agents, discusses his skepticism about extrapolating current progress trends too far into the future, and explains why scaffolding will remain critical even as we approach AGI. This technical discussion is packed with practical nuggets for AI engineers and builders working on agent systems.
+
+
+Sponsors:
+Google Gemini: Google Gemini features VEO3, a state-of-the-art AI video generation model in the Gemini app. Sign up at https://gemini.google.com
+Oracle Cloud Infrastructure: Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at https://oracle.com/cognitive
+The AGNTCY (Cisco): The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast
+NetSuite by Oracle: NetSuite by Oracle is the AI-powered business management suite trusted by over 41,000 businesses, offering a unified platform for accounting, financial management, inventory, and HR. Gain total visibility and control to make quick decisions and automate everyday tasks—download the free ebook, Navigating Global Trade: Three Insights for Leaders, at https://netsuite.com/cognitive
+
+
+PRODUCED BY:
+https://aipodcast.ing
+
+
+SOCIAL LINKS:
+Website: https://www.cognitiverevolution.ai
+Twitter (Podcast): https://x.com/cogrev_podcast
+Twitter (Nathan): https://x.com/labenz
+LinkedIn: https://linkedin.com/in/nathanlabenz/
+Youtube: https://youtube.com/@CognitiveRevolutionPodcast
+Apple: https://podcasts.apple.com/de/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431
+Spotify: https://open.spotify.com/show/6yHyok3M3BjqzR0VB5MSyk</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Flo Crivello, CEO of AI agent platform Lindy, provides a candid deep dive into the current state of AI agents, cutting through hype to reveal what's actually working in production versus what remains challenging. The conversation explores practical implementation details including model selection, fine-tuning, RAG systems, tool design philosophy, and why most successful "AI agents" today are better described as intelligent workflows with human-designed structure. Flo shares insights on emerging capabilities like more open-ended agents, discusses his skepticism about extrapolating current progress trends too far into the future, and explains why scaffolding will remain critical even as we approach AGI. This technical discussion is packed with practical nuggets for AI engineers and builders working on agent systems.</p><p><br></p><p><br></p><p><strong>Sponsors:</strong></p><p><strong>Google Gemini:</strong> Google Gemini features VEO3, a state-of-the-art AI video generation model in the Gemini app. Sign up at <a href="https://gemini.google.com">https://gemini.google.com</a></p><p><strong>Oracle Cloud Infrastructure:</strong> Oracle Cloud Infrastructure (OCI) is the next-generation cloud that delivers better performance, faster speeds, and significantly lower costs, including up to 50% less for compute, 70% for storage, and 80% for networking. Run any workload, from infrastructure to AI, in a high-availability environment and try OCI for free with zero commitment at <a href="https://oracle.com/cognitive">https://oracle.com/cognitive</a></p><p><strong>The AGNTCY (Cisco):</strong> The AGNTCY is an open-source collective dedicated to building the Internet of Agents, enabling AI agents to communicate and collaborate seamlessly across frameworks. Join a community of engineers focused on high-quality multi-agent software and support the initiative at <a href="https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast">https://agntcy.org/?utmcampaign=fy25q4agntcyamerpaid-mediaagntcy-cognitiverevolutionpodcast&amp;utmchannel=podcast&amp;utmsource=podcast</a></p><p><strong>NetSuite by Oracle:</strong> NetSuite by Oracle is the AI-powered business management suite trusted by over 41,000 businesses, offering a unified platform for accounting, financial management, inventory, and HR. Gain total visibility and control to make quick decisions and automate everyday tasks—download the free ebook, Navigating Global Trade: Three Insights for Leaders, at <a href="https://netsuite.com/cognitive">https://netsuite.com/cognitive</a></p><p><br></p><p><br></p><p><strong>PRODUCED BY:</strong></p><p><a href="https://aipodcast.ing">https://aipodcast.ing</a></p><p><br></p><p><br></p><p><strong>SOCIAL LINKS:</strong></p><p>Website: <a href="https://www.cognitiverevolution.ai">https://www.cognitiverevolution.ai</a></p><p>Twitter (Podcast): <a href="https://x.com/cogrev_podcast">https://x.com/cogrev_podcast</a></p><p>Twitter (Nathan): <a href="https://x.com/labenz">https://x.com/labenz</a></p><p>LinkedIn: <a href="https://linkedin.com/in/nathanlabenz/">https://linkedin.com/in/nathanlabenz/</a></p><p>Youtube: <a href="https://youtube.com/@CognitiveRevolutionPodcast">https://youtube.com/@CognitiveRevolutionPodcast</a></p><p>Apple: <a href="https://podcasts.apple.com/de/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431">https://podcasts.apple.com/de/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431</a></p><p>Spotify: <a href="https://open.spotify.com/show/6yHyok3M3BjqzR0VB5MSyk">https://open.spotify.com/show/6yHyok3M3BjqzR0VB5MSyk</a></p>]]>
+      </content:encoded>
+      <itunes:duration>5255</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6518d0ae-4e22-11f0-a74d-93d327f2eac3]]></guid>
+      <enclosure url="https://pdst.fm/e/chrt.fm/track/993DGA/mgln.ai/e/1113/traffic.megaphone.fm/RINTP9047546818.mp3?updated=1750508723" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Embryology of AI: How Training Data Shapes AI Development w/ Timaeus' Jesse Hoogland &amp; Daniel Murfet</title>
       <link>https://www.cognitiverevolution.ai</link>
       <description>Jesse Hoogland and Daniel Murfet, founders of Timaeus, introduce their mathematically rigorous approach to AI safety through "developmental interpretability" based on Singular Learning Theory. They explain how neural network loss landscapes are actually complex, jagged surfaces full of "singularities" where models can change internally without affecting external behavior—potentially masking dangerous misalignment. Using their Local Learning Coefficient measure, they've demonstrated the ability to identify critical phase changes during training in models up to 7 billion parameters, offering a complementary approach to mechanistic interpretability. This work aims to move beyond trial-and-error neural network training toward a more principled engineering discipline that could catch safety issues during training rather than after deployment.
