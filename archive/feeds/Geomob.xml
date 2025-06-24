@@ -10,7 +10,7 @@
         <atom:link href="https://feeds.castos.com/5z30" rel="self" type="application/rss+xml" />
         <link>https://thegeomob.com/podcast</link>
         <description>Geoinnovation - for fun or profit</description>
-        <lastBuildDate>Mon, 16 Jun 2025 06:48:20 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jun 2025 20:46:52 +0000</lastBuildDate>
         <language>en</language>
         <copyright>© 2023</copyright>
         
@@ -42,6 +42,45 @@
         
         <podcast:locked>yes</podcast:locked>
                                     <item>
+                <title>
+                    <![CDATA[Jonas Sølvsteen/Henry Rodman: eoAPI]]>
+                </title>
+                <pubDate>Sun, 22 Jun 2025 20:46:52 +0000</pubDate>
+                <dc:creator>Ed Freyfogle</dc:creator>
+                <guid isPermaLink="false">
+                    https://permalink.castos.com/podcast/5338/episode/2071773</guid>
+                                    <link>https://thegeomob.com/podcast/episode-291</link>
+                                <description>
+                                            <![CDATA[<p>In this episode of the Geomob podcast, Alastair is joined by guests Henry Rodman and Jonas Sølvsteen to discuss the EO API, a new initiative from Development Seed aimed at improving access to geospatial data. They cover their backgrounds in geospatial technology before turning to the API, focusing on how it works and its intended purpose. They delve into the STAC specification, its importance for data cataloging, and the target audience for EO API. The conversation also covers deployment challenges, user experience, and the importance of community engagement in the development of EO API.</p>
+<p><a href="https://thegeomob.com/podcast/episode-291">Show notes on the Geomob website</a>, where you can also learn more about Geomob events and sign up for our monthly newsletter.</p>]]>
+                                    </description>
+                <itunes:subtitle>
+                    <![CDATA[In this episode of the Geomob podcast, Alastair is joined by guests Henry Rodman and Jonas Sølvsteen to discuss the EO API, a new initiative from Development Seed aimed at improving access to geospatial data. They cover their backgrounds in geospatial technology before turning to the API, focusing on how it works and its intended purpose. They delve into the STAC specification, its importance for data cataloging, and the target audience for EO API. The conversation also covers deployment challenges, user experience, and the importance of community engagement in the development of EO API.
+Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.]]>
+                </itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title>
+                    <![CDATA[Jonas Sølvsteen/Henry Rodman: eoAPI]]>
+                </itunes:title>
+                                    <itunes:episode>291</itunes:episode>
+                                                <itunes:explicit>false</itunes:explicit>
+                <content:encoded>
+                    <![CDATA[<p>In this episode of the Geomob podcast, Alastair is joined by guests Henry Rodman and Jonas Sølvsteen to discuss the EO API, a new initiative from Development Seed aimed at improving access to geospatial data. They cover their backgrounds in geospatial technology before turning to the API, focusing on how it works and its intended purpose. They delve into the STAC specification, its importance for data cataloging, and the target audience for EO API. The conversation also covers deployment challenges, user experience, and the importance of community engagement in the development of EO API.</p>
+<p><a href="https://thegeomob.com/podcast/episode-291">Show notes on the Geomob website</a>, where you can also learn more about Geomob events and sign up for our monthly newsletter.</p>]]>
+                </content:encoded>
+                                    <enclosure url="https://episodes.castos.com/5e2e9055a029d5-78101471/2071773/c1e-p8gji15r2kc1q50v-34d1qrdnt36m-gs2jf1.mp3" length="87207100"
+                        type="audio/mpeg">
+                    </enclosure>
+                                <itunes:summary>
+                    <![CDATA[In this episode of the Geomob podcast, Alastair is joined by guests Henry Rodman and Jonas Sølvsteen to discuss the EO API, a new initiative from Development Seed aimed at improving access to geospatial data. They cover their backgrounds in geospatial technology before turning to the API, focusing on how it works and its intended purpose. They delve into the STAC specification, its importance for data cataloging, and the target audience for EO API. The conversation also covers deployment challenges, user experience, and the importance of community engagement in the development of EO API.
+Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.]]>
+                </itunes:summary>
+                                                                            <itunes:duration>00:36:20</itunes:duration>
+                                                    <itunes:author>
+                    <![CDATA[Ed Freyfogle]]>
+                </itunes:author>
+                            </item>
+                    <item>
                 <title>
                     <![CDATA[Luís de Sousa: Discrete Global Grid Systems]]>
                 </title>
@@ -7999,45 +8038,6 @@ Steven and Kenneth discuss the process of writing the book, and some of Kenneth'
 Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.]]>
                 </itunes:summary>
                                                                             <itunes:duration>00:44:25</itunes:duration>
-                                                    <itunes:author>
-                    <![CDATA[Ed Freyfogle]]>
-                </itunes:author>
-                            </item>
-                    <item>
-                <title>
-                    <![CDATA[Chaz Hutton: When a map goes viral]]>
-                </title>
-                <pubDate>Mon, 30 Aug 2021 07:58:00 +0000</pubDate>
-                <dc:creator>Ed Freyfogle</dc:creator>
-                <guid isPermaLink="false">
-                    https://geomob-podcast.castos.com/podcasts/5338/episodes/chaz-hutton-when-a-map-goes-viral</guid>
-                                <description>
-                                            <![CDATA[<p>In this episode Ed chats with artist <a href="https://twitter.com/chazhutton">Chaz Hutton</a>, who spoke at Geomob all the way back in March of 2016 and presented his "Map of Every City". Chaz shares the experience of having a map go viral. The discussion then turns to the role and power of social media in general, the implications for use of maps and effect on spatial awareness, but also the application of social media for promotion of geospatial concepts</p>
-<p><a href="https://thegeomob.com/podcast/episode-91">Show notes on the Geomob website</a>, where you can also learn more about Geomob events and sign up for our monthly newsletter.</p>]]>
-                                    </description>
-                <itunes:subtitle>
-                    <![CDATA[In this episode Ed chats with artist Chaz Hutton, who spoke at Geomob all the way back in March of 2016 and presented his "Map of Every City". Chaz shares the experience of having a map go viral. The discussion then turns to the role and power of social media in general, the implications for use of maps and effect on spatial awareness, but also the application of social media for promotion of geospatial concepts
-Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.]]>
-                </itunes:subtitle>
-                                    <itunes:episodeType>full</itunes:episodeType>
-                                <itunes:title>
-                    <![CDATA[Chaz Hutton: When a map goes viral]]>
-                </itunes:title>
-                                    <itunes:episode>91</itunes:episode>
-                                                <itunes:explicit>false</itunes:explicit>
-                <content:encoded>
-                    <![CDATA[<p>In this episode Ed chats with artist <a href="https://twitter.com/chazhutton">Chaz Hutton</a>, who spoke at Geomob all the way back in March of 2016 and presented his "Map of Every City". Chaz shares the experience of having a map go viral. The discussion then turns to the role and power of social media in general, the implications for use of maps and effect on spatial awareness, but also the application of social media for promotion of geospatial concepts</p>
-<p><a href="https://thegeomob.com/podcast/episode-91">Show notes on the Geomob website</a>, where you can also learn more about Geomob events and sign up for our monthly newsletter.</p>]]>
-                </content:encoded>
-                                    <enclosure url="https://episodes.castos.com/5e2e9055a029d5-78101471/Geomob-Podcast-Ep-91.mp3" length="40521458"
-                        type="audio/mpeg">
-                    </enclosure>
-                                <itunes:summary>
-                    <![CDATA[In this episode Ed chats with artist Chaz Hutton, who spoke at Geomob all the way back in March of 2016 and presented his "Map of Every City". Chaz shares the experience of having a map go viral. The discussion then turns to the role and power of social media in general, the implications for use of maps and effect on spatial awareness, but also the application of social media for promotion of geospatial concepts
-Show notes on the Geomob website, where you can also learn more about Geomob events and sign up for our monthly newsletter.]]>
-                </itunes:summary>
-                                    <itunes:image href="https://episodes.castos.com/5e2e9055a029d5-78101471/images/a-map-of-every-city.png"></itunes:image>
-                                                                            <itunes:duration>00:28:04</itunes:duration>
                                                     <itunes:author>
                     <![CDATA[Ed Freyfogle]]>
                 </itunes:author>

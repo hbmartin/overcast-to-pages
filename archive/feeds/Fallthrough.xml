@@ -18,8 +18,8 @@
     <podcast:person role="Host" href="https://matthewsanabria.dev/" img="https://img.transistor.fm/-HfU6xRPhAwEKcCd-HFzZzrl28WLDJwsLqvV-XENKfQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MWNh/ZmMwMDQ1NjA0MDg4/MTk0ZTdhMDk1ZDI2/MmM1ZC5qcGc.jpg">Matthew Sanabria</podcast:person>
     <podcast:trailer pubdate="Tue, 03 Dec 2024 14:04:59 -0500" url="https://media.transistor.fm/0c27a226/552f8c82.mp3" length="7581389" type="audio/mpeg">Falling Through: The Trailer</podcast:trailer>
     <language>en</language>
-    <pubDate>Mon, 16 Jun 2025 08:00:59 -0400</pubDate>
-    <lastBuildDate>Mon, 16 Jun 2025 08:02:33 -0400</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 08:00:24 -0400</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 08:01:48 -0400</lastBuildDate>
     <link>https://fallthrough.fm</link>
     <image>
       <url>https://img.transistor.fm/fl9hYccb1GmNMcyZ9Gdula_lsNfDOCmBuAHHKy3ytMs/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ZWUw/NTFjMmEwMDYwMjdm/MDFjNGRmMThlMWUz/NjQxNC5wbmc.jpg</url>
@@ -39,6 +39,86 @@
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>The Three Ps: Understanding Product, Project, and Program Management</title>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:title>The Three Ps: Understanding Product, Project, and Program Management</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dd7c612b-38e2-4ae7-ba2e-b36bc0fd319a</guid>
+      <link>https://share.transistor.fm/s/fbd76108</link>
+      <description>
+        <![CDATA[<p>Building software is difficult and rarely can software engineers do it alone. In this episode, Kris is joined by Ian, Matthew, and Angelica to talk managing software projects and what three often used but rarely defined roles actually mean: project manager, product manager, and program manager. The panel also discusses how these roles interact with engineering managers, what they think these roles actually do, and whether product managers should actually exist.</p><p>For our supporters, this episode contains an extended discussion including a discussion on whether you should trust a new company you join, how to build trust, and what metrics we should measure for project success. Get access by signing up at <a href="https://fallthrough.fm/subscribe">https://fallthrough.fm/subscribe</a>.</p><p>Thanks for tuning in and happy listening!</p><p><br></p><p>Table of Contents:</p><ul><li>Prologue (03:28)</li><li>Chapter 1: Product? Project? Program? (05:18)</li><li>Chapter 2: PMs and Software Engineers (13:56)</li><li>Chapter 3: Splitting Roles (44:49)</li><li>Chapter 4: Building Trust [Supporter Only] (53:34)</li><li>Chapter 5: Metrics [Supporter Only] (54:13)</li><li>Chapter 6: Should Product Managers Exist? (55:25)</li><li>Appendix UNPOP: Unpopular Opinions (01:06:37)</li><li>Epilogue (01:11:56)</li></ul><p><br></p><p><strong>Hosts</strong>
+</p><ul>
+  <li><a href="https://fallthrough.transistor.fm/people/kris-brandow">Kris Brandow</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/ian-wester-lopshire">Ian Wester-Lopshire</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/matthew-sanabria">Matthew Sanabria</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/angelica-hill">Angelica Hill</a> - Producer</li>
+</ul><br>Socials:<ul><li><a href="https://fallthrough.fm/">Website</a></li><li><a href="https://bsky.app/profile/fallthrough.fm">Bluesky</a></li><li><a href="https://www.threads.net/@fallthroughfm">Threads</a></li><li><a href="https://x.com/fallthroughfm">X/Twitter</a></li><li><a href="https://linkedin.com/company/fallthrough">LinkedIn</a></li><li><a href="https://www.instagram.com/fallthroughfm/">Instagram</a></li></ul>
+<ul><li>(03:28) - Prologue</li>
+<li>(05:18) - Chapter 1: Product? Project? Program?</li>
+<li>(13:56) - Chapter 2: PMs and Software Engineers</li>
+<li>(44:49) - Chapter 3: Splitting Roles</li>
+<li>(53:34) - Chapter 4: Building Trust [Supporter Only]</li>
+<li>(54:13) - Chapter 5: Metrics [Supporter Only]</li>
+<li>(55:25) - Chapter 6: Should Product Managers Exist?</li>
+<li>(01:06:37) - Appendix UNPOP: Unpopular Opinions</li>
+<li>(01:11:56) - Epilogue</li>
+</ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Building software is difficult and rarely can software engineers do it alone. In this episode, Kris is joined by Ian, Matthew, and Angelica to talk managing software projects and what three often used but rarely defined roles actually mean: project manager, product manager, and program manager. The panel also discusses how these roles interact with engineering managers, what they think these roles actually do, and whether product managers should actually exist.</p><p>For our supporters, this episode contains an extended discussion including a discussion on whether you should trust a new company you join, how to build trust, and what metrics we should measure for project success. Get access by signing up at <a href="https://fallthrough.fm/subscribe">https://fallthrough.fm/subscribe</a>.</p><p>Thanks for tuning in and happy listening!</p><p><br></p><p>Table of Contents:</p><ul><li>Prologue (03:28)</li><li>Chapter 1: Product? Project? Program? (05:18)</li><li>Chapter 2: PMs and Software Engineers (13:56)</li><li>Chapter 3: Splitting Roles (44:49)</li><li>Chapter 4: Building Trust [Supporter Only] (53:34)</li><li>Chapter 5: Metrics [Supporter Only] (54:13)</li><li>Chapter 6: Should Product Managers Exist? (55:25)</li><li>Appendix UNPOP: Unpopular Opinions (01:06:37)</li><li>Epilogue (01:11:56)</li></ul><p><br></p><p><strong>Hosts</strong>
+</p><ul>
+  <li><a href="https://fallthrough.transistor.fm/people/kris-brandow">Kris Brandow</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/ian-wester-lopshire">Ian Wester-Lopshire</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/matthew-sanabria">Matthew Sanabria</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/angelica-hill">Angelica Hill</a> - Producer</li>
+</ul><br>Socials:<ul><li><a href="https://fallthrough.fm/">Website</a></li><li><a href="https://bsky.app/profile/fallthrough.fm">Bluesky</a></li><li><a href="https://www.threads.net/@fallthroughfm">Threads</a></li><li><a href="https://x.com/fallthroughfm">X/Twitter</a></li><li><a href="https://linkedin.com/company/fallthrough">LinkedIn</a></li><li><a href="https://www.instagram.com/fallthroughfm/">Instagram</a></li></ul>
+<ul><li>(03:28) - Prologue</li>
+<li>(05:18) - Chapter 1: Product? Project? Program?</li>
+<li>(13:56) - Chapter 2: PMs and Software Engineers</li>
+<li>(44:49) - Chapter 3: Splitting Roles</li>
+<li>(53:34) - Chapter 4: Building Trust [Supporter Only]</li>
+<li>(54:13) - Chapter 5: Metrics [Supporter Only]</li>
+<li>(55:25) - Chapter 6: Should Product Managers Exist?</li>
+<li>(01:06:37) - Appendix UNPOP: Unpopular Opinions</li>
+<li>(01:11:56) - Epilogue</li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 23 Jun 2025 08:00:00 -0400</pubDate>
+      <author>Fallthrough Media</author>
+      <enclosure url="https://media.transistor.fm/fbd76108/891f31f2.mp3" length="72504848" type="audio/mpeg"/>
+      <itunes:author>Fallthrough Media</itunes:author>
+      <itunes:image href="https://img.transistor.fm/m7Ia9tSC7RWNqPMAATyZBid_B9bDQRrEzUfQrjyr3_Y/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMjg5/YWRmOWRjN2QwZTNh/MGRmNzMxZTAyMTBi/M2YwMy5wbmc.jpg"/>
+      <itunes:duration>4527</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Building software is difficult and rarely can software engineers do it alone. In this episode, Kris is joined by Ian, Matthew, and Angelica to talk managing software projects and what three often used but rarely defined roles actually mean: project manager, product manager, and program manager. The panel also discusses how these roles interact with engineering managers, what they think these roles actually do, and whether product managers should actually exist.</p><p>For our supporters, this episode contains an extended discussion including a discussion on whether you should trust a new company you join, how to build trust, and what metrics we should measure for project success. Get access by signing up at <a href="https://fallthrough.fm/subscribe">https://fallthrough.fm/subscribe</a>.</p><p>Thanks for tuning in and happy listening!</p><p><br></p><p>Table of Contents:</p><ul><li>Prologue (03:28)</li><li>Chapter 1: Product? Project? Program? (05:18)</li><li>Chapter 2: PMs and Software Engineers (13:56)</li><li>Chapter 3: Splitting Roles (44:49)</li><li>Chapter 4: Building Trust [Supporter Only] (53:34)</li><li>Chapter 5: Metrics [Supporter Only] (54:13)</li><li>Chapter 6: Should Product Managers Exist? (55:25)</li><li>Appendix UNPOP: Unpopular Opinions (01:06:37)</li><li>Epilogue (01:11:56)</li></ul><p><br></p><p><strong>Hosts</strong>
+</p><ul>
+  <li><a href="https://fallthrough.transistor.fm/people/kris-brandow">Kris Brandow</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/ian-wester-lopshire">Ian Wester-Lopshire</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/matthew-sanabria">Matthew Sanabria</a> - Host</li>
+  <li><a href="https://fallthrough.transistor.fm/people/angelica-hill">Angelica Hill</a> - Producer</li>
+</ul><br>Socials:<ul><li><a href="https://fallthrough.fm/">Website</a></li><li><a href="https://bsky.app/profile/fallthrough.fm">Bluesky</a></li><li><a href="https://www.threads.net/@fallthroughfm">Threads</a></li><li><a href="https://x.com/fallthroughfm">X/Twitter</a></li><li><a href="https://linkedin.com/company/fallthrough">LinkedIn</a></li><li><a href="https://www.instagram.com/fallthroughfm/">Instagram</a></li></ul>
+<ul><li>(03:28) - Prologue</li>
+<li>(05:18) - Chapter 1: Product? Project? Program?</li>
+<li>(13:56) - Chapter 2: PMs and Software Engineers</li>
+<li>(44:49) - Chapter 3: Splitting Roles</li>
+<li>(53:34) - Chapter 4: Building Trust [Supporter Only]</li>
+<li>(54:13) - Chapter 5: Metrics [Supporter Only]</li>
+<li>(55:25) - Chapter 6: Should Product Managers Exist?</li>
+<li>(01:06:37) - Appendix UNPOP: Unpopular Opinions</li>
+<li>(01:11:56) - Epilogue</li>
+</ul>]]>
+      </itunes:summary>
+      <itunes:keywords>Go, Golang, Programming, Technology, Software, Software Development, Software Engineering</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://skriptble.press" img="https://img.transistor.fm/9GrH7U3vA8FDR0PIW_iGkV-NspMkcK40wsA1IIaD93E/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Y2U2/YjFmOWZiNzg2Yzhi/N2RlMzNlNTgxYTlm/ZjNmNi5KUEc.jpg">Kris Brandow</podcast:person>
+      <podcast:person role="Host" href="https://fallthrough.transistor.fm/people/ian-wester-lopshire" img="https://img.transistor.fm/bzpBAMEGLMay7vL2entkiIL3sjFqC0HybfK08pJrIn4/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMWNl/NjljNDNiNzY1MjQ5/NmM1ZTZlOWQzZmQw/ZTFkYS5qcGVn.jpg">Ian Wester-Lopshire</podcast:person>
+      <podcast:person role="Host" href="https://matthewsanabria.dev/" img="https://img.transistor.fm/-HfU6xRPhAwEKcCd-HFzZzrl28WLDJwsLqvV-XENKfQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MWNh/ZmMwMDQ1NjA0MDg4/MTk0ZTdhMDk1ZDI2/MmM1ZC5qcGc.jpg">Matthew Sanabria</podcast:person>
+      <podcast:person role="Producer" href="https://fallthrough.transistor.fm/people/angelica-hill" img="https://img.transistor.fm/Zs-8F5LCdLWC2RQubUd1EsgWqFM_NAbsEiX-sYeiVTQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMzRj/NjBlNjYyZDFiYjQz/MDM3Y2U5ZWYwMDFl/Y2VmNC5qcGVn.jpg">Angelica Hill</podcast:person>
+      <podcast:chapters url="https://share.transistor.fm/s/fbd76108/chapters.json" type="application/json+chapters"/>
+      <podcast:socialInteract protocol="atproto" uri="at://did:plc:5us6v2xizw73xaafpqgf6orb/app.bsky.feed.post/3lsbjujnotw2s"/>
+    </item>
     <item>
       <title>Go's Error Handling Is Handled</title>
       <itunes:episode>24</itunes:episode>

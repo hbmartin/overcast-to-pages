@@ -6,8 +6,8 @@
 	<rawvoice:subscribe feed="https://feeds.blubrry.com/feeds/microsoftresearch.xml"  android="https://subscribeonandroid.com/feeds.blubrry.com/feeds/microsoftresearch.xml"  email="https://subscribebyemail.com/feeds.blubrry.com/feeds/microsoftresearch.xml"  itunes="https://itunes.apple.com/us/podcast/microsoft-research-a-podcast/id1318021537"  spotify="https://open.spotify.com/show/4ndjUXyL0hH1FXHgwIiTWU" ></rawvoice:subscribe>
     <atom:link href="https://feeds.blubrry.com/feeds/microsoftresearch.xml" rel="self" type="application/rss+xml" />
     <title>Microsoft Research Podcast</title>
-    <link>http://blubrry.com/microsoftresearch/</link>
-    <link rel="self" href="https://feeds.blubrry.com/feeds/microsoftresearch.xml" xmlns="http://www.w3.org/2005/Atom">http://blubrry.com/microsoftresearch/</link>
+    <link>https://blubrry.com/microsoftresearch/</link>
+    <link rel="self" href="https://feeds.blubrry.com/feeds/microsoftresearch.xml" xmlns="http://www.w3.org/2005/Atom">https://blubrry.com/microsoftresearch/</link>
     <description>An ongoing series of conversations bringing you right up to the cutting edge of Microsoft Research.</description>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Researchers across the Microsoft research community</itunes:author>
@@ -22,18 +22,52 @@
     </itunes:owner>
     <itunes:image href="https://assets.blubrry.com/coverart/orig/506874-524255.jpg" />
     <image>
-      <link>http://blubrry.com/microsoftresearch/</link>
+      <link>https://blubrry.com/microsoftresearch/</link>
       <url>https://assets.blubrry.com/coverart/orig/506874-524255.jpg</url>
       <title>Microsoft Research Podcast</title>
       <description>An ongoing series of conversations bringing you right up to the cutting edge of Microsoft Research.</description>
     </image>
-    <generator>Blubrry Podcasting: https://www.blubrry.com/</generator>
+    <generator>Blubrry Account Management: https://www.blubrry.com/</generator>
     <itunes:explicit>false</itunes:explicit>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <podcast:podping usesPodping="true" />
     <podcast:guid>48350f2a-8683-5d67-a069-078cd9b6de8e</podcast:guid>
-    <lastBuildDate>Thu, 29 May 2025 11:12:24 -0400</lastBuildDate>
-    <pubDate>Thu, 29 May 2025 11:12:24 -0400</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 12:37:00 -0400</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 12:37:00 -0400</pubDate>
+    <item>
+      <title>AI Testing and Evaluation: Learnings from Science and Industry</title>
+      <link>https://www.microsoft.com/en-us/research/podcast/ai-testing-and-evaluation-learnings-from-science-and-industry/</link>
+      <guid>https://blubrry.com/microsoftresearch/146460793/ai-testing-and-evaluation-learnings-from-science-and-industry/</guid>
+      <dc:creator>Researchers across the Microsoft research community</dc:creator>
+      <pubDate>Mon, 23 Jun 2025 12:37:00 -0400</pubDate>
+      <description><![CDATA[<p>In the introductory episode of this new series, host Kathleen Sullivan and Senior Director Amanda Craig Deckard explore Microsoftâs efforts to draw on the experience of other domains to help advance the role of AI testing and evaluation as a governance tool.</p>]]></description>
+      <content:encoded><![CDATA[<p>In the introductory episode of this new series, host Kathleen Sullivan and Senior Director Amanda Craig Deckard explore Microsoftâs efforts to draw on the experience of other domains to help advance the role of AI testing and evaluation as a governance tool.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/microsoftresearch/content.blubrry.com/microsoftresearch/RAI_RAI_EP_0_V3.mp3" length="48151808" type="audio/mpeg" />
+      <itunes:duration>0:20:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Researchers across the Microsoft research community</itunes:author>
+      <itunes:summary>In the introductory episode of this new series, host Kathleen Sullivan and Senior Director Amanda Craig Deckard explore Microsoftâs efforts to draw on the experience of other domains to help advance the role of AI testing and evaluation as a governance tool.</itunes:summary>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/506874/orig/146460793-1750453734.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/506874/orig/146460793-1750453734.jpg</image>
+      <podcast:transcript url="https://transcripts.blubrry.com/microsoftresearch/146460793-56878.vtt" type="text/vtt" language="en" rel="captions" />
+    </item>
+    <item>
+      <title>The AI Revolution in Medicine, Revisited: How AI is reshaping the future of healthcare and medical research</title>
+      <link>https://www.microsoft.com/en-us/research/podcast/how-ai-is-reshaping-the-future-of-healthcare-and-medical-research/</link>
+      <guid>https://blubrry.com/microsoftresearch/146193015/the-ai-revolution-in-medicine-revisited-how-ai-is-reshaping-the-future-of-healthcare-and-medical-research/</guid>
+      <dc:creator>Researchers across the Microsoft research community</dc:creator>
+      <pubDate>Thu, 12 Jun 2025 12:15:00 -0400</pubDate>
+      <description><![CDATA[<p>Technologists Bill Gates and SÃ©bastien Bubeck discuss the state of generative AI in medicine, how access to âmedical intelligenceâ might help empower people across healthcare, and how AIâs accelerating improvements are likely to affect both delivery and discovery.</p>]]></description>
+      <content:encoded><![CDATA[<p><span style="color:rgb(0,0,0);">Technologists Bill Gates and SÃ©bastien Bubeck discuss the state of generative AI in medicine, how access to âmedical intelligenceâ might help empower people across healthcare, and how AIâs accelerating improvements are likely to affect both delivery and discovery.</span></p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/microsoftresearch/content.blubrry.com/microsoftresearch/AI_In_Med_Bill_Seb_V5.mp3" length="82849663" type="audio/mpeg" />
+      <itunes:duration>0:43:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Researchers across the Microsoft research community</itunes:author>
+      <itunes:summary>Technologists Bill Gates and SÃ©bastien Bubeck discuss the state of generative AI in medicine, how access to âmedical intelligenceâ might help empower people across healthcare, and how AIâs accelerating improvements are likely to affect both delivery and discovery.</itunes:summary>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/506874/orig/146193015-1749684954.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/506874/orig/146193015-1749684954.jpg</image>
+      <podcast:transcript url="https://transcripts.blubrry.com/microsoftresearch/146193015-56504.vtt" type="text/vtt" language="en" rel="captions" />
+    </item>
     <item>
       <title>What AI's impact on individuals means for the health workforce and industry</title>
       <link>https://www.microsoft.com/en-us/research/podcast/what-ais-impact-on-individuals-means-for-the-health-workforce-and-industry/</link>
@@ -64,6 +98,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Researchers across the Microsoft research community</itunes:author>
       <itunes:summary>The emergence of foundation models has sparked interest in applications to single-cell biology, but when tested in zero-shot settings, they underperform compared to simpler methods. Alex Lu shares insights on why more research on AI models is needed in biological applications.Show notes</itunes:summary>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/506874/orig/145655916-1750453465.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/506874/orig/145655916-1750453465.jpg</image>
       <podcast:transcript url="https://transcripts.blubrry.com/microsoftresearch/145655916-55536.vtt" type="text/vtt" language="en" rel="captions" />
     </item>
     <item>
@@ -3565,32 +3601,6 @@ To learn more about Dr. Ravindranath Sivalingam, and how Microsoft researchers a
       <itunes:author>Researchers across the Microsoft research community</itunes:author>
       <itunes:summary>First aired on December 4th, 2017. When it comes to artificial intelligence, Dr. Eric Horvitz is as passionate as he is accomplished. His contributions to the field, and service on the boards of nearly every technical academy and association in the country, have earned him the respect â and awe â of his colleagues, along with the position of Technical Fellow and Managing Director of Microsoft Research. Dr. Horvitz talks about the goal of artificial intelligence, his vision for our collaborative future with machines, what we can learn from the Wright brothers, and how a short stint of âsix months, maximumâ became an illustrious and, in his words, joyful, 25-year career at Microsoft Research.</itunes:summary>
       <itunes:episodeType>L</itunes:episodeType>
-    </item>
-    <item>
-      <title>032 (rerun) - How Programming Languages Quietly Run the World with Dr. Ben Zorn </title>
-      <link>https://blubrry.com/microsoftresearch/35256991/032-rerun-how-programming-languages-quietly-run-the-world-with-dr-ben-zorn/</link>
-      <guid>http://www.blubrry.com/microsoftresearch/35256991/032-rerun-how-programming-languages-quietly-run-the-world-with-dr-ben-zorn/</guid>
-      <dc:creator>Researchers across the Microsoft research community</dc:creator>
-      <pubDate>Wed, 11 Jul 2018 06:00:00 -0400</pubDate>
-      <description><![CDATA[<p>This episode first aired in January (2018).In an era of AI breakthroughs and other exciting advances in computer science, Dr. Ben Zorn would like to remind us that behind every great technical revolution isâ¦ a programming language. As a Principal Researcher and the Co-director of RiSE â or Research in Software Engineering â group at Microsoft Research, Dr. Zorn has dedicated his life to making sure the software that now touches nearly everything in our lives is easy, accurate, reliable and secure. Today, Dr. Zorn tells us some great stories about bugs and whales, warns us against the dumb side of âsmartâ objects, shares about his groupâs attempt to scale the Everest of software security, and makes a great case that the most important programming language in the world today isâ¦ the spreadsheet.</p>]]></description>
-      <content:encoded><![CDATA[<p>This episode first aired in January (2018).<br />In an era of AI breakthroughs and other exciting advances in computer science, Dr. Ben Zorn would like to remind us that behind every great technical revolution isâ¦ a programming language. As a Principal Researcher and the Co-director of RiSE â or Research in Software Engineering â group at Microsoft Research, Dr. Zorn has dedicated his life to making sure the software that now touches nearly everything in our lives is easy, accurate, reliable and secure. Today, Dr. Zorn tells us some great stories about bugs and whales, warns us against the dumb side of âsmartâ objects, shares about his groupâs attempt to scale the Everest of software security, and makes a great case that the most important programming language in the world today isâ¦ the spreadsheet.</p>]]></content:encoded>
-      <enclosure url="https://media.blubrry.com/microsoftresearch/content.blubrry.com/microsoftresearch/msr_zorn_RERUN.mp3" length="64313283" type="audio/mpeg" />
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Researchers across the Microsoft research community</itunes:author>
-      <itunes:summary>This episode first aired in January (2018).In an era of AI breakthroughs and other exciting advances in computer science, Dr. Ben Zorn would like to remind us that behind every great technical revolution isâ¦ a programming language. As a Principal Researcher and the Co-director of RiSE â or Research in Software Engineering â group at Microsoft Research, Dr. Zorn has dedicated his life to making sure the software that now touches nearly everything in our lives is easy, accurate, reliable and secure. Today, Dr. Zorn tells us some great stories about bugs and whales, warns us against the dumb side of âsmartâ objects, shares about his groupâs attempt to scale the Everest of software security, and makes a great case that the most important programming language in the world today isâ¦ the spreadsheet.</itunes:summary>
-    </item>
-    <item>
-      <title>031 (rerun) - AI for the Developing World with Dr. Ranveer Chandra </title>
-      <link>https://blubrry.com/microsoftresearch/35256453/031-rerun-ai-for-the-developing-world-with-dr-ranveer-chandra/</link>
-      <guid>http://www.blubrry.com/microsoftresearch/35256453/031-rerun-ai-for-the-developing-world-with-dr-ranveer-chandra/</guid>
-      <dc:creator>Researchers across the Microsoft research community</dc:creator>
-      <pubDate>Wed, 04 Jul 2018 06:00:00 -0400</pubDate>
-      <description><![CDATA[<p>This episode first aired in April (2018). When we think about artificial intelligence and the âworld of the future,â our vision is usually more Jetsons than Green Acres. But for Dr. Ranveer Chandra, a Principal Researcher in the Systems and Networking group at Microsoft Research, rural farms are the perfect place to realize the benefits of AI through what he calls precision agriculture, or data-driven farming.Today, in a wide-ranging interview, Dr. Chandra talks about how his research may eventually make your wi-fi signal stronger and your battery life longer, but also shares the story of how spending childhood summers with his grandparents in rural India inspired a line of research that could change the face of farming and help meet the food and nutrition needs of a growing global population.</p>]]></description>
-      <content:encoded><![CDATA[<p>This episode first aired in April (2018). <br />When we think about artificial intelligence and the âworld of the future,â our vision is usually more Jetsons than Green Acres. But for Dr. Ranveer Chandra, a Principal Researcher in the Systems and Networking group at Microsoft Research, rural farms are the perfect place to realize the benefits of AI through what he calls precision agriculture, or data-driven farming.<br /><br />Today, in a wide-ranging interview, Dr. Chandra talks about how his research may eventually make your wi-fi signal stronger and your battery life longer, but also shares the story of how spending childhood summers with his grandparents in rural India inspired a line of research that could change the face of farming and help meet the food and nutrition needs of a growing global population.</p>]]></content:encoded>
-      <enclosure url="https://media.blubrry.com/microsoftresearch/content.blubrry.com/microsoftresearch/msr_chandra_RERUN.mp3" length="65528520" type="audio/mpeg" />
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Researchers across the Microsoft research community</itunes:author>
-      <itunes:summary>This episode first aired in April (2018). When we think about artificial intelligence and the âworld of the future,â our vision is usually more Jetsons than Green Acres. But for Dr. Ranveer Chandra, a Principal Researcher in the Systems and Networking group at Microsoft Research, rural farms are the perfect place to realize the benefits of AI through what he calls precision agriculture, or data-driven farming.Today, in a wide-ranging interview, Dr. Chandra talks about how his research may eventually make your wi-fi signal stronger and your battery life longer, but also shares the story of how spending childhood summers with his grandparents in rural India inspired a line of research that could change the face of farming and help meet the food and nutrition needs of a growing global population.</itunes:summary>
     </item>
   </channel>
 </rss>

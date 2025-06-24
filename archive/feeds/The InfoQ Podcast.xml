@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:215740450/sounds.rss?before=259648966" rel="next" type="application/rss+xml"/>
         <title>The InfoQ Podcast</title>
         <link>https://bit.ly/3yxbEaU</link>
-        <pubDate>Wed, 04 Jun 2025 06:38:14 +0000</pubDate>
-        <lastBuildDate>Wed, 04 Jun 2025 06:38:14 +0000</lastBuildDate>
+        <pubDate>Thu, 05 Jun 2025 08:21:54 +0000</pubDate>
+        <lastBuildDate>Thu, 05 Jun 2025 08:21:54 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,190 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2104218945</guid>
+      <title>Building the Middle Tier and Doing Software Migrations: A Conversation with Rashmi Venugopal</title>
+      <pubDate>Mon, 23 Jun 2025 10:00:04 +0000</pubDate>
+      <link>https://soundcloud.com/infoq-channel/building-the-middle-tier-and-doing-software-migrations-a-conversation-with-rashmi-venugopal</link>
+      <itunes:duration>00:52:46</itunes:duration>
+      <itunes:author>InfoQ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this podcast, Michael Stiefel spoke with Rashmi Venugopal about two topics. The first is how the middle-tier creates the application from the raw materials in the back-end,  and how the front-end uses the middle-tier to present a meaningful workflow to the user.  The second is how to manage the usually inevitable software migration that results from a successful software product.
+
+Read a transcript of this interview: https://bit.ly/3FCkH2N
+
+Subscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:
+https://www.infoq.com/software-architects-newsletter 
+
+Upcoming Events:
+
+InfoQ Dev Summit Munich (October 15-16, 2025)
+Essential insights on critical software development priorities.
+https://devsummit.infoq.com/conference/munich2025
+
+QCon San Francisco 2025 (November 17-21, 2025)
+Get practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.
+https://qconsf.com/ 
+
+QCon AI New York 2025 (December 16-17, 2025)
+https://ai.qconferences.com/
+
+The InfoQ Podcasts: 
+Weekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:
+
+- The InfoQ Podcast https://www.infoq.com/podcasts/ 
+- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture 
+- Generally AI: https://www.infoq.com/generally-ai-podcast/ 
+
+Follow InfoQ:
+- Mastodon: https://techhub.social/@infoq 
+- Twitter: twitter.com/InfoQ
+- LinkedIn: www.linkedin.com/company/infoq
+- Facebook: bit.ly/2jmlyG8
+- Instagram: @infoqdotcom
+- Youtube: www.youtube.com/infoq
+
+Write for InfoQ: Learn and share the changes and innovations in professional software development.
+- Join a community of experts.
+- Increase your visibility.
+- Grow your career.
+https://www.infoq.com/write-for-infoq</itunes:summary>
+      <itunes:subtitle>In this podcast, Michael Stiefel spoke with Rashm…</itunes:subtitle>
+      <description>In this podcast, Michael Stiefel spoke with Rashmi Venugopal about two topics. The first is how the middle-tier creates the application from the raw materials in the back-end,  and how the front-end uses the middle-tier to present a meaningful workflow to the user.  The second is how to manage the usually inevitable software migration that results from a successful software product.
+
+Read a transcript of this interview: https://bit.ly/3FCkH2N
+
+Subscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:
+https://www.infoq.com/software-architects-newsletter 
+
+Upcoming Events:
+
+InfoQ Dev Summit Munich (October 15-16, 2025)
+Essential insights on critical software development priorities.
+https://devsummit.infoq.com/conference/munich2025
+
+QCon San Francisco 2025 (November 17-21, 2025)
+Get practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.
+https://qconsf.com/ 
+
+QCon AI New York 2025 (December 16-17, 2025)
+https://ai.qconferences.com/
+
+The InfoQ Podcasts: 
+Weekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:
+
+- The InfoQ Podcast https://www.infoq.com/podcasts/ 
+- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture 
+- Generally AI: https://www.infoq.com/generally-ai-podcast/ 
+
+Follow InfoQ:
+- Mastodon: https://techhub.social/@infoq 
+- Twitter: twitter.com/InfoQ
+- LinkedIn: www.linkedin.com/company/infoq
+- Facebook: bit.ly/2jmlyG8
+- Instagram: @infoqdotcom
+- Youtube: www.youtube.com/infoq
+
+Write for InfoQ: Learn and share the changes and innovations in professional software development.
+- Join a community of experts.
+- Increase your visibility.
+- Grow your career.
+https://www.infoq.com/write-for-infoq</description>
+      <enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2104218945-infoq-channel-building-the-middle-tier-and-doing-software-migrations-a-conversation-with-rashmi-venugopal.mp3" length="50731512"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-yz4RNnQmDTtURDnK-wVLFDg-t3000x3000.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2108024136</guid>
+      <title>Do microservices' benefits supersede their caveats? A conversation with Sam Newman</title>
+      <pubDate>Mon, 16 Jun 2025 08:00:03 +0000</pubDate>
+      <link>https://soundcloud.com/infoq-channel/do-microservices-benefits-supersede-their-caveats-a-conversation-with-sam-newman</link>
+      <itunes:duration>00:47:27</itunes:duration>
+      <itunes:author>InfoQ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Sam Newman, one of the pioneers of microservices, encourages architects to use distributed systems as a last resort architecture. He stresses the importance of focusing on the desired outcome and starting with monoliths, gradually evolving the architecture. By thinking holistically at the system level, including observability, ephemeral environments, and testing, it will enable your team to remain in a continuous state of flow.
+
+Read a transcript of this interview: https://bit.ly/3FFKB5T
+
+Subscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:
+https://www.infoq.com/software-architects-newsletter 
+
+Upcoming Events:
+
+InfoQ Dev Summit Munich (October 15-16, 2025)
+Essential insights on critical software development priorities.
+https://devsummit.infoq.com/conference/munich2025
+
+QCon San Francisco 2025 (November 17-21, 2025)
+Get practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.
+https://qconsf.com/ 
+
+QCon AI New York 2025 (December 16-17, 2025)
+https://ai.qconferences.com/
+
+The InfoQ Podcasts: 
+Weekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:
+
+- The InfoQ Podcast https://www.infoq.com/podcasts/ 
+- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture 
+- Generally AI: https://www.infoq.com/generally-ai-podcast/ 
+
+Follow InfoQ:
+- Mastodon: https://techhub.social/@infoq 
+- Twitter: twitter.com/InfoQ
+- LinkedIn: www.linkedin.com/company/infoq
+- Facebook: bit.ly/2jmlyG8
+- Instagram: @infoqdotcom
+- Youtube: www.youtube.com/infoq
+- Bluesky: https://bsky.app/profile/infoq.com
+
+Write for InfoQ: Learn and share the changes and innovations in professional software development.
+- Join a community of experts.
+- Increase your visibility.
+- Grow your career.
+https://www.infoq.com/write-for-infoq</itunes:summary>
+      <itunes:subtitle>Sam Newman, one of the pioneers of microservices,…</itunes:subtitle>
+      <description>Sam Newman, one of the pioneers of microservices, encourages architects to use distributed systems as a last resort architecture. He stresses the importance of focusing on the desired outcome and starting with monoliths, gradually evolving the architecture. By thinking holistically at the system level, including observability, ephemeral environments, and testing, it will enable your team to remain in a continuous state of flow.
+
+Read a transcript of this interview: https://bit.ly/3FFKB5T
+
+Subscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:
+https://www.infoq.com/software-architects-newsletter 
+
+Upcoming Events:
+
+InfoQ Dev Summit Munich (October 15-16, 2025)
+Essential insights on critical software development priorities.
+https://devsummit.infoq.com/conference/munich2025
+
+QCon San Francisco 2025 (November 17-21, 2025)
+Get practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.
+https://qconsf.com/ 
+
+QCon AI New York 2025 (December 16-17, 2025)
+https://ai.qconferences.com/
+
+The InfoQ Podcasts: 
+Weekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:
+
+- The InfoQ Podcast https://www.infoq.com/podcasts/ 
+- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture 
+- Generally AI: https://www.infoq.com/generally-ai-podcast/ 
+
+Follow InfoQ:
+- Mastodon: https://techhub.social/@infoq 
+- Twitter: twitter.com/InfoQ
+- LinkedIn: www.linkedin.com/company/infoq
+- Facebook: bit.ly/2jmlyG8
+- Instagram: @infoqdotcom
+- Youtube: www.youtube.com/infoq
+- Bluesky: https://bsky.app/profile/infoq.com
+
+Write for InfoQ: Learn and share the changes and innovations in professional software development.
+- Join a community of experts.
+- Increase your visibility.
+- Grow your career.
+https://www.infoq.com/write-for-infoq</description>
+      <enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2108024136-infoq-channel-do-microservices-benefits-supersede-their-caveats-a-conversation-with-sam-newman.mp3" length="45557449"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-1t2p2s294uxpTFl3-e309cQ-t3000x3000.png"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2107411050</guid>
       <title>Nikolaos Vasiloglou on Knowledge Graphs and Graph RAG</title>
       <pubDate>Mon, 09 Jun 2025 10:00:05 +0000</pubDate>

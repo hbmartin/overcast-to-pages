@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    <title>Open Source Ready</title>
+    <atom:link href="https://www.heavybit.com/category/library/podcasts/open-source-ready/feed/feed.rss" rel="self" type="application/rss+xml" />
+    <link>https://www.heavybit.com/library/podcasts/open-source-ready/</link>
+    <description>Exploring the evolution of open source software and its impact on the Tech landscape.</description>
+    <lastBuildDate>Thu, 19 Jun 2025 07:10:00 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <itunes:summary>Exploring the evolution of open source software and its impact on the Tech landscape.</itunes:summary>
+    <itunes:author>Heavybit</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+    <itunes:owner>
+      <itunes:name>Heavybit</itunes:name>
+      <itunes:email>content@heavybit.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>content@heavybit.com (Heavybit)</managingEditor>
+    <copyright>Heavybit</copyright>
+    <image>
+      <title>Open Source Ready</title>
+      <url>https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg</url>
+      <link>https://www.heavybit.com/library/podcasts/open-source-ready/</link>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <googleplay:category text="News &amp; Politics"/>
+      
+      <item>
+        <title>Ep. #16, Building Tools That Spark Joy with Mitchell Hashimoto</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-16-building-tools-that-spark-joy-with-mitchell-hashimoto/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 19 Jun 2025 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">9c450c25-af49-4ff7-8653-acee9842d660</guid>
+        <description><![CDATA[<p>On episode 16 of Open Source Ready, Brian and John sit down with Mitchell Hashimoto, founder of HashiCorp, to discuss his journey after leaving the company and his latest passion project, the open source terminal emulator Ghostty. Mitchell shares the accidental origins of Ghostty, his pragmatic approach to technology, and his thoughts on the current state of open source business models. Lastly, they explore the complexities of AI development and the trade-offs of foundation governance.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>On episode 16 of Open Source Ready, Brian and John sit down with Mitchell Hashimoto, founder of HashiCorp, to discuss his journey after leaving the company and his latest passion project, the open source terminal emulator Ghostty. Mitchell shares the accidental origins of Ghostty, his pragmatic approach to technology, and his thoughts on the current state of open source business models. Lastly, they explore the complexities of AI development and the trade-offs of foundation governance.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-16-building-tools-that-spark-joy-with-mitchell-hashimoto"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250429-open-source-ready-016.mp3" length="77889850" type="audio/mpeg" />
+        <itunes:summary>On episode 16 of Open Source Ready, Brian and John sit down with Mitchell Hashimoto, founder of HashiCorp, to discuss his journey after leaving the company and his latest passion project, the open source terminal emulator Ghostty. Mitchell shares the accidental origins of Ghostty, his pragmatic approach to technology, and his thoughts on the current state of open source business models. Lastly, they explore the complexities of AI development and the trade-offs of foundation governance.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>54:00</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #15, Codename Goose and the Future of AI Agents with Adewale Abati</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-15-codename-goose-and-the-future-of-ai-agents-with-adewale-abati/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 05 Jun 2025 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">6b0e74c0-0b63-45a4-8e62-82ef6c05a9e8</guid>
+        <description><![CDATA[<p>In episode 15 of Open Source Ready, Brian and John chat with Adewale &quot;Ace&quot; Abati from Block about Codename Goose, an open-source AI agent, and the underlying Model Context Protocol (MCP). They explore how AI agents are revolutionizing developer workflows, the concept of &quot;vibe coding&quot; for rapid prototyping, and the future of AI in productivity and accessibility.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 15 of Open Source Ready, Brian and John chat with Adewale &quot;Ace&quot; Abati from Block about Codename Goose, an open-source AI agent, and the underlying Model Context Protocol (MCP). They explore how AI agents are revolutionizing developer workflows, the concept of &quot;vibe coding&quot; for rapid prototyping, and the future of AI in productivity and accessibility.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-15-codename-goose-and-the-future-of-ai-agents-with-adewale-abati"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250324-open-source-ready-015.mp3" length="65486912" type="audio/mpeg" />
+        <itunes:summary>In episode 15 of Open Source Ready, Brian and John chat with Adewale &quot;Ace&quot; Abati from Block about Codename Goose, an open-source AI agent, and the underlying Model Context Protocol (MCP). They explore how AI agents are revolutionizing developer workflows, the concept of &quot;vibe coding&quot; for rapid prototyping, and the future of AI in productivity and accessibility.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>45:23</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #14, The Workbrew Story with Mike McQuaid and John Britton</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-14-the-workbrew-story-with-mike-mcquaid-and-john-britton/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 22 May 2025 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">ddc167da-627d-4572-97d5-e3ee16721758</guid>
+        <description><![CDATA[<p>In episode 14 of Open Source Ready, special guests Mike McQuaid and John Britton join Brian and John to share the story of Workbrew. They unpack their journey in the developer tools space, the evolution of Homebrew, the inspiration behind Workbrew, and their perspectives on the future of developer environments.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 14 of Open Source Ready, special guests Mike McQuaid and John Britton join Brian and John to share the story of Workbrew. They unpack their journey in the developer tools space, the evolution of Homebrew, the inspiration behind Workbrew, and their perspectives on the future of developer environments.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-14-the-workbrew-story-with-mike-mcquaid-and-john-britton"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250320-open-source-ready-014.mp3" length="62104336" type="audio/mpeg" />
+        <itunes:summary>In episode 14 of Open Source Ready, special guests Mike McQuaid and John Britton join Brian and John to share the story of Workbrew. They unpack their journey in the developer tools space, the evolution of Homebrew, the inspiration behind Workbrew, and their perspectives on the future of developer environments.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>43:07</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #13, Why Microsoft Chose Go: A Deep Dive with Thorsten Ball</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-13-why-microsoft-chose-go-a-deep-dive-with-thorsten-ball/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 08 May 2025 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">2aea21f2-2e8d-4db0-bd23-b9523a62972a</guid>
+        <description><![CDATA[<p>In episode 13 of Open Source Ready, Thorsten Ball of Sourcegraph joins Brian and John to unpack the real-world engineering decisions behind language choices, like Microsoft using Go for the recent TypeScript compiler rewrite. Explore the importance of continuous learning in tech, the benefits of knowing multiple programming languages, and how AI agents are poised to reshape developer workflows.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 13 of Open Source Ready, Thorsten Ball of Sourcegraph joins Brian and John to unpack the real-world engineering decisions behind language choices, like Microsoft using Go for the recent TypeScript compiler rewrite. Explore the importance of continuous learning in tech, the benefits of knowing multiple programming languages, and how AI agents are poised to reshape developer workflows.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-13-why-microsoft-chose-go-a-deep-dive-with-thorsten-ball"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250313-open-source-ready-013.mp3" length="74305270" type="audio/mpeg" />
+        <itunes:summary>In episode 13 of Open Source Ready, Thorsten Ball of Sourcegraph joins Brian and John to unpack the real-world engineering decisions behind language choices, like Microsoft using Go for the recent TypeScript compiler rewrite. Explore the importance of continuous learning in tech, the benefits of knowing multiple programming languages, and how AI agents are poised to reshape developer workflows.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>51:33</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #12, Exploring Flox and Nix with Ron Efroni &amp; Ross Turk</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-12-exploring-flox-and-nix-with-ron-efroni-and-ross-turk/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 24 Apr 2025 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">ec745be3-cd42-4534-ba0e-78fc7af9bc50</guid>
+        <description><![CDATA[<p>In episode 12 of Open Source Ready, Brian and John welcome Ron Efroni and Ross Turk from Flox to explore the world of Nix, a powerful package manager and more. They discuss how Flox simplifies Nix for developers and enterprises, the challenges of adopting new packaging paradigms, and the evolving landscape of containers and AI in software development.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 12 of Open Source Ready, Brian and John welcome Ron Efroni and Ross Turk from Flox to explore the world of Nix, a powerful package manager and more. They discuss how Flox simplifies Nix for developers and enterprises, the challenges of adopting new packaging paradigms, and the evolving landscape of containers and AI in software development.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-12-exploring-flox-and-nix-with-ron-efroni-and-ross-turk"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250226-open-source-ready-011.mp3" length="62303331" type="audio/mpeg" />
+        <itunes:summary>In episode 12 of Open Source Ready, Brian and John welcome Ron Efroni and Ross Turk from Flox to explore the world of Nix, a powerful package manager and more. They discuss how Flox simplifies Nix for developers and enterprises, the challenges of adopting new packaging paradigms, and the evolving landscape of containers and AI in software development.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>43:13</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #11, Unpacking MCP with Steve Manuel</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-11-unpacking-mcp-with-steve-manuel/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 10 Apr 2025 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">e89c6254-5e83-4a57-a85d-4e584cd1172b</guid>
+        <description><![CDATA[<p>In episode 11 of Open Source Ready, Brian Douglas and John McBride sit down with AI expert Steve Manuel to explore the Model Context Protocol (MCP)—a framework that enhances how models interact with their environments. They break down why context-awareness is crucial for machine learning and how MCP is transforming open source AI.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 11 of Open Source Ready, Brian Douglas and John McBride sit down with AI expert Steve Manuel to explore the Model Context Protocol (MCP)—a framework that enhances how models interact with their environments. They break down why context-awareness is crucial for machine learning and how MCP is transforming open source AI.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-11-unpacking-mcp-with-steve-manuel"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250312-open-source-ready-012.mp3" length="68819991" type="audio/mpeg" />
+        <itunes:summary>In episode 11 of Open Source Ready, Brian Douglas and John McBride sit down with AI expert Steve Manuel to explore the Model Context Protocol (MCP)—a framework that enhances how models interact with their environments. They break down why context-awareness is crucial for machine learning and how MCP is transforming open source AI.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>47:45</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #10, The Whirlwind Pace of AI with Taylor Dolezal</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-10-the-whirlwind-pace-of-ai-with-taylor-dolezal/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 27 Mar 2025 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">20a78462-a905-4c35-b85d-6a63d67b64fd</guid>
+        <description><![CDATA[<p>In episode 10 of Open Source Ready, Brian and John chat with Taylor Dolezal, former CNCF Head of Ecosystem and current Chief of Staff at Merly AI, to discuss the latest trends in open source, AI, and Kubernetes. From the challenges of AI adoption to the evolving role of cloud-native technologies, Taylor shares insights on where the industry is headed and how developers and companies can navigate these rapid changes.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 10 of Open Source Ready, Brian and John chat with Taylor Dolezal, former CNCF Head of Ecosystem and current Chief of Staff at Merly AI, to discuss the latest trends in open source, AI, and Kubernetes. From the challenges of AI adoption to the evolving role of cloud-native technologies, Taylor shares insights on where the industry is headed and how developers and companies can navigate these rapid changes.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-10-the-whirlwind-pace-of-ai-with-taylor-dolezal"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250219-open-source-ready-010.mp3" length="70657927" type="audio/mpeg" />
+        <itunes:summary>In episode 10 of Open Source Ready, Brian and John chat with Taylor Dolezal, former CNCF Head of Ecosystem and current Chief of Staff at Merly AI, to discuss the latest trends in open source, AI, and Kubernetes. From the challenges of AI adoption to the evolving role of cloud-native technologies, Taylor shares insights on where the industry is headed and how developers and companies can navigate these rapid changes.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>49:01</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #9, The Future of Commercial Open Source with Matt Trifiro</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-9-the-future-of-commercial-open-source-with-matt-trifiro/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 13 Mar 2025 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">cddc6c36-907a-42a3-a4f2-64360b48a833</guid>
+        <description><![CDATA[<p>In episode 9 of Open Source Ready, Matt Trifiro joins Brian and John to discuss the evolving landscape of commercial open source, the challenges startups face in monetization, and how intellectual property law impacts the ecosystem. Tune in for insights on balancing community-driven development with sustainable business models.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 9 of Open Source Ready, Matt Trifiro joins Brian and John to discuss the evolving landscape of commercial open source, the challenges startups face in monetization, and how intellectual property law impacts the ecosystem. Tune in for insights on balancing community-driven development with sustainable business models.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-9-the-future-of-commercial-open-source-with-matt-trifiro"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250218-open-source-ready-009.mp3" length="56664323" type="audio/mpeg" />
+        <itunes:summary>In episode 9 of Open Source Ready, Matt Trifiro joins Brian and John to discuss the evolving landscape of commercial open source, the challenges startups face in monetization, and how intellectual property law impacts the ecosystem. Tune in for insights on balancing community-driven development with sustainable business models.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>39:18</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #8, Bridging Software &amp; Hardware with Daniel Mangum of Golioth</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-8-bridging-software-and-hardware-with-daniel-mangum-of-golioth/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 27 Feb 2025 08:10:00 +0000</pubDate>
+        <guid isPermaLink="false">d303d2a1-79ce-4f64-861f-8caaaba489d0</guid>
+        <description><![CDATA[<p>In episode 8 of Open Source Ready, Brian and John sit down with Daniel Mangum, CTO of Golioth, to discuss his journey from distributed systems and Kubernetes to open source hardware. They explore the rise of RISC-V, the potential of decentralized social media, and how AI is shaping the future of computing. Plus, Daniel shares insights into FPGAs, the AT Protocol, and why open source innovation matters more than ever.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 8 of Open Source Ready, Brian and John sit down with Daniel Mangum, CTO of Golioth, to discuss his journey from distributed systems and Kubernetes to open source hardware. They explore the rise of RISC-V, the potential of decentralized social media, and how AI is shaping the future of computing. Plus, Daniel shares insights into FPGAs, the AT Protocol, and why open source innovation matters more than ever.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-8-bridging-software-and-hardware-with-daniel-mangum-of-golioth"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250202-open-source-ready-008.mp3" length="86727347" type="audio/mpeg" />
+        <itunes:summary>In episode 8 of Open Source Ready, Brian and John sit down with Daniel Mangum, CTO of Golioth, to discuss his journey from distributed systems and Kubernetes to open source hardware. They explore the rise of RISC-V, the potential of decentralized social media, and how AI is shaping the future of computing. Plus, Daniel shares insights into FPGAs, the AT Protocol, and why open source innovation matters more than ever.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>01:00:11</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #7, The Evolution of React with Kent C. Dodds</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-7-the-evolution-of-react-with-kent-c-dodds/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 13 Feb 2025 08:10:00 +0000</pubDate>
+        <guid isPermaLink="false">c3870639-f752-4397-b49f-46af39bea2a0</guid>
+        <description><![CDATA[<p>In episode 7 of Open Source Ready, Brian and John are joined by Kent C. Dodds to discuss the evolution of React, the rise of Remix, and the future of front-end development. From early struggles with Angular to React Router v7’s role in modern apps, Kent shares valuable insights for developers navigating the ever-changing JavaScript landscape.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 7 of Open Source Ready, Brian and John are joined by Kent C. Dodds to discuss the evolution of React, the rise of Remix, and the future of front-end development. From early struggles with Angular to React Router v7’s role in modern apps, Kent shares valuable insights for developers navigating the ever-changing JavaScript landscape.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-7-the-evolution-of-react-with-kent-c-dodds"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20250130-open-source-ready-007.mp3" length="65899075" type="audio/mpeg" />
+        <itunes:summary>In episode 7 of Open Source Ready, Brian and John are joined by Kent C. Dodds to discuss the evolution of React, the rise of Remix, and the future of front-end development. From early struggles with Angular to React Router v7’s role in modern apps, Kent shares valuable insights for developers navigating the ever-changing JavaScript landscape.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>45:43</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #6, The Infinite Nature of Software with Adam Jacob</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-6-the-infinite-nature-of-software-with-adam-jacob/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 26 Dec 2024 08:10:00 +0000</pubDate>
+        <guid isPermaLink="false">5ee1a0b4-5503-49e8-b245-9b9f4de34c18</guid>
+        <description><![CDATA[<p>In episode 6 of Open Source Ready, Brian and John are joined by Adam Jacob, co-creator of Chef and CEO of System Initiative, to discuss the philosophical and business intersections of open source. Adam shares insights on the evolution of free software, the challenges of monetizing open source projects, and the future of collaborative development in an increasingly commercialized tech ecosystem.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 6 of Open Source Ready, Brian and John are joined by Adam Jacob, co-creator of Chef and CEO of System Initiative, to discuss the philosophical and business intersections of open source. Adam shares insights on the evolution of free software, the challenges of monetizing open source projects, and the future of collaborative development in an increasingly commercialized tech ecosystem.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-6-the-infinite-nature-of-software-with-adam-jacob"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20241217-open-source-ready-006.mp3" length="60991032" type="audio/mpeg" />
+        <itunes:summary>In episode 6 of Open Source Ready, Brian and John are joined by Adam Jacob, co-creator of Chef and CEO of System Initiative, to discuss the philosophical and business intersections of open source. Adam shares insights on the evolution of free software, the challenges of monetizing open source projects, and the future of collaborative development in an increasingly commercialized tech ecosystem.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>42:19</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #5, Software Autonomy: Owning Your Tech with Elliott Minns</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-5-software-autonomy-owning-your-tech-with-elliott-minns/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 12 Dec 2024 08:10:00 +0000</pubDate>
+        <guid isPermaLink="false">34a58fac-0fa2-499c-8795-ce989b3d4cab</guid>
+        <description><![CDATA[<p>In episode 5 of Open Source Ready, John and Brian speak with Elliott Minns, the creator of <em>Dreams of Code</em> and <em>Dreams of Autonomy</em>. They explore Elliott’s mission to empower developers through software autonomy, the challenges of open source sustainability, and the fascinating potential of Linux and NixOS. Discover how self-hosting and open source tools are transforming the way we interact with technology.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 5 of Open Source Ready, John and Brian speak with Elliott Minns, the creator of <em>Dreams of Code</em> and <em>Dreams of Autonomy</em>. They explore Elliott’s mission to empower developers through software autonomy, the challenges of open source sustainability, and the fascinating potential of Linux and NixOS. Discover how self-hosting and open source tools are transforming the way we interact with technology.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-5-software-autonomy-owning-your-tech-with-elliott-minns"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20241206-open-source-ready-005.mp3" length="54352302" type="audio/mpeg" />
+        <itunes:summary>In episode 5 of Open Source Ready, John and Brian speak with Elliott Minns, the creator of Dreams of Code and Dreams of Autonomy. They explore Elliott’s mission to empower developers through software autonomy, the challenges of open source sustainability, and the fascinating potential of Linux and NixOS. Discover how self-hosting and open source tools are transforming the way we interact with technology.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>37:42</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #4, A Billion-Dollar Idea with Tobie Langel</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-4-a-billion-dollar-idea-with-tobie-langel/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Fri, 29 Nov 2024 08:10:00 +0000</pubDate>
+        <guid isPermaLink="false">c6f84632-6392-489c-a241-a48b47512d73</guid>
+        <description><![CDATA[<p>In episode 4 of Open Source Ready, Brian and John chat with open source expert Tobie Langel about the critical issues of sustainability and security in open source software. Tobie shares insights on the vulnerabilities of widely used open source projects, the need for professional maintainers, and the evolving legislative landscape that could reshape the future of open source.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 4 of Open Source Ready, Brian and John chat with open source expert Tobie Langel about the critical issues of sustainability and security in open source software. Tobie shares insights on the vulnerabilities of widely used open source projects, the need for professional maintainers, and the evolving legislative landscape that could reshape the future of open source.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-4-a-billion-dollar-idea-with-tobie-langel"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20241114-open-source-ready-004.mp3" length="52091022" type="audio/mpeg" />
+        <itunes:summary>In episode 4 of Open Source Ready, Brian and John chat with open source expert Tobie Langel about the critical issues of sustainability and security in open source software. Tobie shares insights on the vulnerabilities of widely used open source projects, the need for professional maintainers, and the evolving legislative landscape that could reshape the future of open source.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>36:08</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #3, The Open Source Pledge with Chad Whitacre of Sentry</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-3-the-open-source-pledge-with-chad-whitacre-of-sentry/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 21 Nov 2024 08:10:00 +0000</pubDate>
+        <guid isPermaLink="false">94ee2440-d9d3-4f65-b62a-87c91c4e3011</guid>
+        <description><![CDATA[<p>In episode 3 of Open Source Ready, Brian and John sit down with Chad Whitacre from Sentry to discuss the Open Source Pledge, a new initiative aimed at addressing the sustainability crisis in open source software. Chad shares insights on how companies can better support the maintainers behind the projects they rely on and explores the cultural challenges of funding open source development.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 3 of Open Source Ready, Brian and John sit down with Chad Whitacre from Sentry to discuss the Open Source Pledge, a new initiative aimed at addressing the sustainability crisis in open source software. Chad shares insights on how companies can better support the maintainers behind the projects they rely on and explores the cultural challenges of funding open source development.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-3-the-open-source-pledge-with-chad-whitacre-of-sentry"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20241106-open-source-ready-003.mp3" length="48730399" type="audio/mpeg" />
+        <itunes:summary>In episode 3 of Open Source Ready, Brian and John sit down with Chad Whitacre from Sentry to discuss the Open Source Pledge, a new initiative aimed at addressing the sustainability crisis in open source software. Chad shares insights on how companies can better support the maintainers behind the projects they rely on and explores the cultural challenges of funding open source development.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>43:26</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #2, Defining Open Source with Avi Press of Scarf</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-2-defining-open-source-with-avi-press-of-scarf/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 31 Oct 2024 07:10:00 +0000</pubDate>
+        <guid isPermaLink="false">275599da-6fe7-49db-b3ca-74ed25a52e26</guid>
+        <description><![CDATA[<p>In episode 2 of Open Source Ready, Brian Douglas and John McBride speak with Avi Press, Founder &amp; CEO of Scarf. Together they explore the evolving definition of &quot;open source&quot; in the context of AI and the future of technology. They also examine broader issues surrounding licensing, business models in open source, and the challenges associated with both.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In episode 2 of Open Source Ready, Brian Douglas and John McBride speak with Avi Press, Founder &amp; CEO of Scarf. Together they explore the evolving definition of &quot;open source&quot; in the context of AI and the future of technology. They also examine broader issues surrounding licensing, business models in open source, and the challenges associated with both.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-2-defining-open-source-with-avi-press-of-scarf"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20241011-open-source-ready-002.mp3" length="48730399 " type="audio/mpeg" />
+        <itunes:summary>In episode 2 of Open Source Ready, Brian Douglas and John McBride speak with Avi Press, Founder &amp; CEO of Scarf. Together they explore the evolving definition of &quot;open source&quot; in the context of AI and the future of technology. They also examine broader issues surrounding licensing, business models in open source, and the challenges associated with both.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>33:51</itunes:duration>
+      </item>
+      <item>
+        <title>Ep. #1, Introducing Open Source Ready</title>
+        <link>https://www.heavybit.com/library/podcasts/open-source-ready/ep-1-introducing-open-source-ready/</link>
+        <dc:creator><![CDATA[Heavybit]]></dc:creator>
+        <pubDate>Thu, 17 Oct 2024 00:33:57 +0000</pubDate>
+        <guid isPermaLink="false">69fbafe0-94c8-4ff8-97a8-f5cd7993e07c</guid>
+        <description><![CDATA[<p>In this inaugural episode of Open Source Ready, Brian Douglas and John McBride embark on a technical and philosophical exploration of the current state of open-source AI. John shares his hands-on experience with building large-scale data pipelines and integrating AI to create meaningful insights for developers. The discussion revolves around the balance between innovation, data privacy, and the growing power of large tech companies in the AI space. They also touch on the open-source community&#x27;s challenges, including licensing issues and the role of foundations in supporting AI projects.</p>]]></description>
+        <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>In this inaugural episode of Open Source Ready, Brian Douglas and John McBride embark on a technical and philosophical exploration of the current state of open-source AI. John shares his hands-on experience with building large-scale data pipelines and integrating AI to create meaningful insights for developers. The discussion revolves around the balance between innovation, data privacy, and the growing power of large tech companies in the AI space. They also touch on the open-source community&#x27;s challenges, including licensing issues and the role of foundations in supporting AI projects.</p></body></html><p>The post <a rel="nofollow" href="https://www.heavybit.com/library/podcasts/open-source-ready/ep-1-introducing-open-source-ready"></a> appeared first on <a rel="nofollow" href="https://www.heavybit.com">Heavybit</a>.</p>]]></content:encoded>
+        <enclosure url="https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/20240925-open-source-ready-001.mp3" length="48692097" type="audio/mpeg" />
+        <itunes:summary>In this inaugural episode of Open Source Ready, Brian Douglas and John McBride embark on a technical and philosophical exploration of the current state of open-source AI. John shares his hands-on experience with building large-scale data pipelines and integrating AI to create meaningful insights for developers. The discussion revolves around the balance between innovation, data privacy, and the growing power of large tech companies in the AI space. They also touch on the open-source community&#x27;s challenges, including licensing issues and the role of foundations in supporting AI projects.</itunes:summary>
+        <itunes:author>Heavybit</itunes:author>
+        <itunes:image href="https://d3aeja1uqhkije.cloudfront.net/podcasts/open-source-ready/open-source-ready.jpg" />
+        <itunes:duration>33:50</itunes:duration>
+      </item>
+      
+	</channel>
+</rss>
