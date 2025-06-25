@@ -8,8 +8,8 @@
     <copyright><![CDATA[Sharp Tech Podcast LLC]]></copyright>
     <managingEditor>email@sharptech.fm (Andrew Sharp and Ben Thompson)</managingEditor>
     <webMaster>webmaster@sharptech.fm (Andrew Sharp and Ben Thompson)</webMaster>
-    <pubDate>Thu, 19 Jun 2025 19:00:06 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Jun 2025 19:20:03 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Jun 2025 09:59:27 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Jun 2025 10:01:07 +0000</lastBuildDate>
     <category>Technology</category>
     <ttl>60</ttl>
     <image>
@@ -17,6 +17,47 @@
       <title>Sharp Tech with Ben Thompson</title>
       <link>https://sharptech.fm</link>
     </image>
+    <item>
+      <title>(Preview) Justice for Software Engineers, The Various Futures of Vibe Coding, Questions at xAI and Progress for Tesla</title>
+      <link>https://sharptech.fm/member/episode/preview-justice-for-software-engineers-the-various-futures-of-vibe-coding-questions-at-x-ai-and-progress-for-tesla</link>
+      <description>On today&#39;s show Ben and Andrew answer questions about the future of engineering jobs, the definition of vibe coding, Meta&#39;s AI upside, ChatGPT-led fashion shows, xAI as a third-tier streamer, and bitter lessons as autonomous driving becomes more viable. At the end: An emailer follow-ups on last week&#39;s conversation about normies and AI risk.</description>
+      <content:encoded><![CDATA[<p>
+    On today&#39;s show Ben and Andrew answer questions about the future of engineering jobs, the definition of vibe coding, Meta&#39;s AI upside, ChatGPT-led fashion shows, xAI as a third-tier streamer, and bitter lessons as autonomous driving becomes more viable. At the end: An emailer follow-ups on last week&#39;s conversation about normies and AI risk.
+</p>
+<meta charset="UTF-8"/><p>To email the show: <a href="mailto:email@sharptech.fm">email@sharptech.fm</a></p>
+
+<hr/>
+
+<p>@SharpTechPodcast Channel — <a href="https://www.youtube.com/@SharpTechPodcast">YouTube</a></p>
+
+<p>@Stratechery Channel — <a href="https://www.youtube.com/@Stratechery">YouTube</a></p>
+
+<hr/>
+
+<p>xAI Raising Money, xAI and Oracle, Xbox = Windows — <a href="https://stratechery.com/2025/xai-raising-money-xai-and-oracle-xbox-windows/">Stratechery Update</a></p>
+
+<p>Meta + Scale AI?, Meta’s Reset, AI as Sustaining Innovation — <a href="https://stratechery.com/2025/meta-scale-ai-metas-reset-ai-as-sustaining-innovation/">Stratechery Update</a></p>
+
+<p>Vibe Coding, Windsurf and Anthropic, ChatGPT Connectors — <a href="http://stratechery.com/2025/vibe-coding-windsurf-and-anthropic-chatgpt-connectors/">Stratechery Update</a></p>
+
+<p>Elon Dreams and Bitter Lessons — <a href="https://stratechery.com/2024/elon-dreams-and-bitter-lessons/">Stratechery</a></p>
+<hr/>
+
+<p>Get all episodes of Sharp Tech, Sharp China, Stratechery Updates and Interviews, Greatest of All Talk, Asianometry and the Dithering Podcast as part of <a href="https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG">Stratechery Plus</a> for $15/month or $150/year.</p>]]></content:encoded>
+      <author>Andrew Sharp and Ben Thompson</author>
+      <enclosure url="https://sharptech.fm/assets/sharptech0235_preview.mp3?access_token=WtLvUDEHgB7rE4MbAfmDVT" length="9725017" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="true">https://sharptech.fm/member/episode/preview-justice-for-software-engineers-the-various-futures-of-vibe-coding-questions-at-x-ai-and-progress-for-tesla</guid>
+      <pubDate>Tue, 24 Jun 2025 09:59:27 +0000</pubDate>
+      <atomic:distribution id="CQSUiftncNrRBYm71VKdT" article="CQSUf41x245c1ZjCmxyuA" template="9yW2u115pMenFrEKqdKPEW" audience="4c7ZXpgqCGPHfUcjX3Mcoc" asset="CQSUbKAQRodgHnHzto8Mr">
+        <atomic:distroDate>Tue, 24 Jun 2025 09:59:46 +0000</atomic:distroDate>
+        <atomic:categories>
+          <atomic:category id="6PY3ZUwyC2b5KGPmqB2H1w" name="itunes-episodes"></atomic:category>
+        </atomic:categories>
+      </atomic:distribution>
+      <itunes:author>Andrew Sharp and Ben Thompson</itunes:author>
+      <itunes:duration>00:09:36</itunes:duration>
+      <itunes:summary>On today&#39;s show Ben and Andrew answer questions about the future of engineering jobs, the definition of vibe coding, Meta&#39;s AI upside, ChatGPT-led fashion shows, xAI as a third-tier streamer, and bitter lessons as autonomous driving becomes more viable. At the end: An emailer follow-ups on last week&#39;s conversation about normies and AI risk.</itunes:summary>
+    </item>
     <item>
       <title>(Preview) Meta Continues Its AI Spending Spree, More Fun with OpenAI and Microsoft, ‘Apple in China’ and Related Matters</title>
       <link>https://sharptech.fm/member/episode/preview-meta-continues-its-ai-spending-spree-more-fun-with-open-ai-and-microsoft-apple-in-china-and-related-matters</link>
@@ -8851,7 +8892,7 @@ The eleventh hour agreement between Charter and Disney, why Charter was the clea
     <atomic:instance id="6vy7SsfMZpRFMRsv1im5eU" build="4761d1eb" version="v1.1.8-patch.1"></atomic:instance>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <sy:updateBase>2025-06-19 19:18:13 +0000 UTC</sy:updateBase>
+    <sy:updateBase>2025-06-24 09:59:46 +0000 UTC</sy:updateBase>
     <itunes:subtitle>How technology works, and the ways it is impacting the world</itunes:subtitle>
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>

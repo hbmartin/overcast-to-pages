@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- This feed is updated every 7200 seconds. Cache it and save resources. -->
-<!-- Next feed update planned for: 2025-06-12 01:20:50.859469 UTC +00:00 -->
+<!-- Next feed update planned for: 2025-06-25 02:21:44.511853 UTC +00:00 -->
 <!-- The feed's update frequency may change in the future. The feed is updated only on-demand. -->
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
@@ -14,7 +14,7 @@
     <itunes:author>Kotlin by JetBrains</itunes:author>
     <dc:creator>Kotlin by JetBrains</dc:creator>
     <pubDate>Mon, 21 Dec 2020 11:01:17 +0000</pubDate>
-    <itunes:image href="https://podtube.me/channel_logo/UCP7uiEZIqci43m22KDl0sNw___2025_24.jpg"/>
+    <itunes:image href="https://podtube.me/channel_logo/UCP7uiEZIqci43m22KDl0sNw___2025_26.jpg"/>
     <itunes:owner>
       <itunes:name>Private</itunes:name>
       <itunes:email>only_for_private_use@distribution_not_allowed.com</itunes:email>
@@ -23,30 +23,54 @@
     <atom:link href="https://podtube.me/rssfeed/UCP7uiEZIqci43m22KDl0sNw" rel="self" type="application/rss+xml"/>
     <podcast:funding url="https://www.podtube.me/donate.html">Support PODTUBE.ME continuity becoming a Patreon or making an onetime donation</podcast:funding>
     <item>
-      <title>‘Hello World’ #Kotlin #coding #fun</title>
-      <description><![CDATA[
+      <title>Smoother UI, More Stability, and Easier IDE Access – Give It a Try!</title>
+      <description><![CDATA[Kotlin Notebook gets an upgrade! Check out the blog post to make your work with notebooks the most productive: <a href="https://blog.jetbrains.com/idea/2025/04/how-to-use-kotlin-notebooks-for-productive-development/" rel="nofollow">https://blog.jetbrains.com/idea/2025/04/how-to-use-kotlin-notebooks-for-productive-development/</a>
+
+Kotlin Notebook is available in IntelliJ IDEA. It combines the power of Kotlin with the concept of “notebooks”.
+
+A notebook in the programming world is a document that contains both code (which can be executed) and rich text elements (like paragraphs, equations, charts, and visuals).
+
+The major benefit of notebooks is their interactivity: you can write a piece of code and run it to see the output immediately, making it a great tool for experimentation and learning. Notebooks also allow for the integration of text, code, and output (including visualizations) into a single document, which is very useful for presenting, documentation, and sharing work.
+
+Kotlin notebooks extend this concept by enabling developers to use the Kotlin language in this interactive notebook environment. It means that you can write Kotlin code, execute it, and see the results within the notebook itself. This opens up new possibilities for Kotlin developers to work in a more exploratory, iterative way and to use their Kotlin skills in areas where interactive computation is needed.
+
+Try Kotlin Notebook in your IntelliJ IDEA!
+Download IntelliJ IDEA: <a href="https://intellij.net/notebook-upgrade" rel="nofollow">https://intellij.net/notebook-upgrade</a>
+#Kotlin #programming #notebook
 
 
 --
 <a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
 
 --
-Video at Youtube: <a href="https://www.youtube.com/watch?v=ZpgBNZNr-3U">https://www.youtube.com/watch?v=ZpgBNZNr-3U</a>]]></description>
-      <content:encoded><![CDATA[
+Video at Youtube: <a href="https://www.youtube.com/watch?v=4JnS4ZWVrpo">https://www.youtube.com/watch?v=4JnS4ZWVrpo</a>]]></description>
+      <content:encoded><![CDATA[Kotlin Notebook gets an upgrade! Check out the blog post to make your work with notebooks the most productive: <a href="https://blog.jetbrains.com/idea/2025/04/how-to-use-kotlin-notebooks-for-productive-development/" rel="nofollow">https://blog.jetbrains.com/idea/2025/04/how-to-use-kotlin-notebooks-for-productive-development/</a>
+
+Kotlin Notebook is available in IntelliJ IDEA. It combines the power of Kotlin with the concept of “notebooks”.
+
+A notebook in the programming world is a document that contains both code (which can be executed) and rich text elements (like paragraphs, equations, charts, and visuals).
+
+The major benefit of notebooks is their interactivity: you can write a piece of code and run it to see the output immediately, making it a great tool for experimentation and learning. Notebooks also allow for the integration of text, code, and output (including visualizations) into a single document, which is very useful for presenting, documentation, and sharing work.
+
+Kotlin notebooks extend this concept by enabling developers to use the Kotlin language in this interactive notebook environment. It means that you can write Kotlin code, execute it, and see the results within the notebook itself. This opens up new possibilities for Kotlin developers to work in a more exploratory, iterative way and to use their Kotlin skills in areas where interactive computation is needed.
+
+Try Kotlin Notebook in your IntelliJ IDEA!
+Download IntelliJ IDEA: <a href="https://intellij.net/notebook-upgrade" rel="nofollow">https://intellij.net/notebook-upgrade</a>
+#Kotlin #programming #notebook
 
 
 --
 <a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
 
 --
-Video at Youtube: <a href="https://www.youtube.com/watch?v=ZpgBNZNr-3U">https://www.youtube.com/watch?v=ZpgBNZNr-3U</a>]]></content:encoded>
+Video at Youtube: <a href="https://www.youtube.com/watch?v=4JnS4ZWVrpo">https://www.youtube.com/watch?v=4JnS4ZWVrpo</a>]]></content:encoded>
       <itunes:author>Kotlin by JetBrains</itunes:author>
       <dc:creator>Kotlin by JetBrains</dc:creator>
-      <guid isPermaLink="false">podtubeme_youtube_episode_ID_ZpgBNZNr-3U</guid>
-      <enclosure url="https://podtube.me/episode/ZpgBNZNr-3U.m4a" length="129600" type="audio/mp4"/>
-      <itunes:duration>00:08</itunes:duration>
-      <pubDate>Tue, 10 Jun 2025 14:36:42 +0000</pubDate>
-      <itunes:image href="https://img.youtube.com/vi/ZpgBNZNr-3U/maxresdefault.jpg"/>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_4JnS4ZWVrpo</guid>
+      <enclosure url="https://podtube.me/episode/4JnS4ZWVrpo.m4a" length="2057400" type="audio/mp4"/>
+      <itunes:duration>02:07</itunes:duration>
+      <pubDate>Tue, 24 Jun 2025 14:47:06 +0000</pubDate>
+      <itunes:image href="https://i1.ytimg.com/vi/4JnS4ZWVrpo/hqdefault.jpg"/>
     </item>
     <item>
       <title>Support PODTUBE.ME continuity as a free service</title>
@@ -81,6 +105,32 @@ Consider to become a Patreon, starting with one dollar, or make an one-time dona
       <itunes:duration>01:00</itunes:duration>
       <pubDate>Mon, 05 May 2025 12:20:46 +0000</pubDate>
       <itunes:image href="https://podtube.me/support_podtubeme/podtubeme_become_a_patreon_or_donate-2025-19.png"/>
+    </item>
+    <item>
+      <title>‘Hello World’ #Kotlin #coding #fun</title>
+      <description><![CDATA[
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=ZpgBNZNr-3U">https://www.youtube.com/watch?v=ZpgBNZNr-3U</a>]]></description>
+      <content:encoded><![CDATA[
+
+
+--
+<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
+
+--
+Video at Youtube: <a href="https://www.youtube.com/watch?v=ZpgBNZNr-3U">https://www.youtube.com/watch?v=ZpgBNZNr-3U</a>]]></content:encoded>
+      <itunes:author>Kotlin by JetBrains</itunes:author>
+      <dc:creator>Kotlin by JetBrains</dc:creator>
+      <guid isPermaLink="false">podtubeme_youtube_episode_ID_ZpgBNZNr-3U</guid>
+      <enclosure url="https://podtube.me/episode/ZpgBNZNr-3U.m4a" length="129600" type="audio/mp4"/>
+      <itunes:duration>00:08</itunes:duration>
+      <pubDate>Tue, 10 Jun 2025 14:36:42 +0000</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/ZpgBNZNr-3U/maxresdefault.jpg"/>
     </item>
     <item>
       <title>Kotlin Multiplatform (KMP) at McDonald’s</title>
@@ -683,52 +733,6 @@ Video at Youtube: <a href="https://www.youtube.com/watch?v=UzNWBv-yAb8">https://
       <itunes:duration>00:57</itunes:duration>
       <pubDate>Thu, 20 Mar 2025 14:43:11 +0000</pubDate>
       <itunes:image href="https://img.youtube.com/vi/UzNWBv-yAb8/maxresdefault.jpg"/>
-    </item>
-    <item>
-      <title>Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights!</title>
-      <description><![CDATA[Less than two months until KotlinConf 2025! 💜 Get ready for insightful sessions and great networking opportunities. We still have a few tickets left — can’t wait to see you in Copenhagen! 🎟️ <a href="https://kotl.in/kcnf2025" rel="nofollow">https://kotl.in/kcnf2025</a>
-
-The Model Context Protocol Kotlin SDK (<a href="https://github.com/modelcontextprotocol/kotlin-sdk" rel="nofollow">https://github.com/modelcontextprotocol/kotlin-sdk</a>) makes it easy for you to build integrations between LLM clients like Claude Desktop and your own applications, whether that's software or hardware! Let's see it in practice: Join Sebastian Aigner building an integration between Hue Smart Lights and Claude Desktop, powered entirely by Kotlin. We walk through defining our interfaces, delegating some of the more mechanical tasks when working with Ktor to Junie, and then implement a basic version of an MCP using the official SDK for Kotlin. We use the MCP inspector to explore and debug our application, and finally integrate the Kotlin Gradle application with Claude Desktop by setting up the final configuration. In the end, we have a self-sufficient MCP server that can control smart lights with natural language!
-
-Junie, the coding agent by JetBrains: <a href="https://www.jetbrains.com/junie/" rel="nofollow">https://www.jetbrains.com/junie/</a>
-
-MCP Server Plugin for JetBrains IDEs: <a href="https://plugins.jetbrains.com/plugin/26071-mcp-server" rel="nofollow">https://plugins.jetbrains.com/plugin/26071-mcp-server</a>
-
-MCP inspector: <a href="https://github.com/modelcontextprotocol/inspector" rel="nofollow">https://github.com/modelcontextprotocol/inspector</a>
-
-Find the project code on GitHub: <a href="https://github.com/SebastianAigner/kotlin-mcp-hue-light-sample" rel="nofollow">https://github.com/SebastianAigner/kotlin-mcp-hue-light-sample</a>
-
-
---
-<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
-
---
-Video at Youtube: <a href="https://www.youtube.com/watch?v=jwevCa96Z4Q">https://www.youtube.com/watch?v=jwevCa96Z4Q</a>]]></description>
-      <content:encoded><![CDATA[Less than two months until KotlinConf 2025! 💜 Get ready for insightful sessions and great networking opportunities. We still have a few tickets left — can’t wait to see you in Copenhagen! 🎟️ <a href="https://kotl.in/kcnf2025" rel="nofollow">https://kotl.in/kcnf2025</a>
-
-The Model Context Protocol Kotlin SDK (<a href="https://github.com/modelcontextprotocol/kotlin-sdk" rel="nofollow">https://github.com/modelcontextprotocol/kotlin-sdk</a>) makes it easy for you to build integrations between LLM clients like Claude Desktop and your own applications, whether that's software or hardware! Let's see it in practice: Join Sebastian Aigner building an integration between Hue Smart Lights and Claude Desktop, powered entirely by Kotlin. We walk through defining our interfaces, delegating some of the more mechanical tasks when working with Ktor to Junie, and then implement a basic version of an MCP using the official SDK for Kotlin. We use the MCP inspector to explore and debug our application, and finally integrate the Kotlin Gradle application with Claude Desktop by setting up the final configuration. In the end, we have a self-sufficient MCP server that can control smart lights with natural language!
-
-Junie, the coding agent by JetBrains: <a href="https://www.jetbrains.com/junie/" rel="nofollow">https://www.jetbrains.com/junie/</a>
-
-MCP Server Plugin for JetBrains IDEs: <a href="https://plugins.jetbrains.com/plugin/26071-mcp-server" rel="nofollow">https://plugins.jetbrains.com/plugin/26071-mcp-server</a>
-
-MCP inspector: <a href="https://github.com/modelcontextprotocol/inspector" rel="nofollow">https://github.com/modelcontextprotocol/inspector</a>
-
-Find the project code on GitHub: <a href="https://github.com/SebastianAigner/kotlin-mcp-hue-light-sample" rel="nofollow">https://github.com/SebastianAigner/kotlin-mcp-hue-light-sample</a>
-
-
---
-<a href="https://www.podtube.me/donate.html">Support podtube.me continuity as a free service. Become a Patreon or make an one-time donation</a>
-
---
-Video at Youtube: <a href="https://www.youtube.com/watch?v=jwevCa96Z4Q">https://www.youtube.com/watch?v=jwevCa96Z4Q</a>]]></content:encoded>
-      <itunes:author>Kotlin by JetBrains</itunes:author>
-      <dc:creator>Kotlin by JetBrains</dc:creator>
-      <guid isPermaLink="false">podtubeme_youtube_episode_ID_jwevCa96Z4Q</guid>
-      <enclosure url="https://podtube.me/episode/jwevCa96Z4Q.m4a" length="22258800" type="audio/mp4"/>
-      <itunes:duration>22:54</itunes:duration>
-      <pubDate>Wed, 19 Mar 2025 12:05:25 +0000</pubDate>
-      <itunes:image href="https://img.youtube.com/vi/jwevCa96Z4Q/maxresdefault.jpg"/>
     </item>
   </channel>
 </rss>

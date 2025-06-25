@@ -6,7 +6,7 @@
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>The AI Native Dev - from Copilot today to AI Native Software Development tomorrow</title>
 
-  <lastBuildDate>Tue, 17 Jun 2025 17:07:25 +0100</lastBuildDate>
+  <lastBuildDate>Tue, 24 Jun 2025 16:51:00 +0100</lastBuildDate>
   <link>https://tessl.io/podcast</link>
   <language>en-us</language>
   <copyright>© 2025 Tessl AI Limited</copyright>
@@ -24,14 +24,55 @@
     <itunes:email>podcast@tessl.io</itunes:email>
   </itunes:owner>
   <image>
-     <url>https://storage.buzzsprout.com/7uzcvrl92c5ze1yci79smdnvgu20?.jpg</url>
+     <url>https://storage.buzzsprout.com/h1vvfjcsw9p38zxs5t2edysmq1d6?.jpg</url>
      <title>The AI Native Dev - from Copilot today to AI Native Software Development tomorrow</title>
      <link>https://tessl.io/podcast</link>
   </image>
-  <itunes:image href="https://storage.buzzsprout.com/7uzcvrl92c5ze1yci79smdnvgu20?.jpg" />
+  <itunes:image href="https://storage.buzzsprout.com/h1vvfjcsw9p38zxs5t2edysmq1d6?.jpg" />
   <itunes:category text="Technology" />
   <podcast:person role="co-host" href="http://tessl.io" img="https://storage.buzzsprout.com/d2d9rflb4kmv04zno8sp5xou7s2d">Guy Podjarny</podcast:person>
   <podcast:person role="co-host" href="https://tessl.io" img="https://storage.buzzsprout.com/w6nvygbn2bsrbosokef6q3ql9nvy">Simon Maple</podcast:person>
+  <item>
+    <itunes:title>Why LLMs Keep Missing This One Thing | Jason Ganz</itunes:title>
+    <title>Why LLMs Keep Missing This One Thing | Jason Ganz</title>
+    <itunes:summary><![CDATA[Can LLMs replace structured systems to scale enterprises?  Jason Ganz, Senior Manager DX at dbt Labs, joins Simon Maple to unpack why, despite the rapid rise of AI systems, enterprises still rely on structured data for consistency and reliable decision making.  They also discuss: the invisible edge cases LLMs can’t seedifference between software engineering and data engineering in AIthe mismatch between AI output and business logicwhat the data engineer of the future actually does AI Native D...]]></itunes:summary>
+    <description><![CDATA[<p>Can LLMs replace structured systems to scale enterprises?<br/><br/>Jason Ganz, Senior Manager DX at <a href='https://www.getdbt.com/'>dbt Labs</a>, joins Simon Maple to unpack why, despite the rapid rise of AI systems, enterprises still rely on structured data for consistency and reliable decision making.<br/><br/>They also discuss:</p><ul><li>the invisible edge cases LLMs can’t see</li><li>difference between software engineering and data engineering in AI</li><li>the mismatch between AI output and business logic</li><li>what the data engineer of the future actually does</li></ul><p><br/><a href='http://ainativedev.io'>AI Native Dev</a>, powered by <a href='https://tessl.io'>Tessl</a> and our global dev community, is your go-to podcast for solutions in software development in the age of AI. Tune in as we engage with engineers, founders, and open-source innovators to talk all things AI, security, and development. <br/><br/>Connect with us here: <br/>1. Jason Ganz (LinkedIn)- <a href='https://www.linkedin.com/in/jasnonaz/'>https://www.linkedin.com/in/jasnonaz/</a><br/>2. Jason Ganz (X)- <a href='https://x.com/jasnonaz'>https://x.com/jasnonaz</a><br/>3. dbt Labs- <a href='https://x.com/jasnonaz'>https://www.getdbt.com/</a><br/>4. dbt Fusion engine- <a href='https://www.getdbt.com/product/fusion'>https://www.getdbt.com/product/fusion</a><br/>5. dbt Community- <a href='https://www.getdbt.com/community'>https://www.getdbt.com/community</a><br/>6. Simon Maple- <a href='https://www.linkedin.com/in/simonmaple/'>https://www.linkedin.com/in/simonmaple/</a><br/>7. Tessl- <a href='https://www.linkedin.com/company/tesslio/'>https://www.linkedin.com/company/tesslio/</a><br/>8. AI Native Dev- <a href='https://www.linkedin.com/showcase/ai-native-dev/'>https://www.linkedin.com/showcase/ai-native-dev/</a><br/><br/>00:00 Trailer<br/>01:01 Introduction<br/>01:41 dbt Labs<br/>04:39 Data engineers<br/>07:39 LLMs understanding<br/>13:15 AI isn’t as lazy as humans<br/>15:29 Problem: the scaffolding to get data<br/>17:38 Best contextual results<br/>19:40 Dealing with security<br/>25:00 Structured data<br/>27:37 Problems with LLMs and data<br/>29:47 Exact numbers<br/>32:10 Hallucinations<br/>34:28 Human validation<br/>36:20 MCP servers<br/>39:09 UX bottlenecks<br/>42:27 Quality of data<br/>44:00 The future of data engineers<br/>47:02 getdbt.com<br/>48:09 Outro</p><p>Join the AI Native Dev Community on Discord: https://tessl.co/4ghikjh<br><br>Ask us questions: podcast@tessl.io</p>]]></description>
+    <content:encoded><![CDATA[<p>Can LLMs replace structured systems to scale enterprises?<br/><br/>Jason Ganz, Senior Manager DX at <a href='https://www.getdbt.com/'>dbt Labs</a>, joins Simon Maple to unpack why, despite the rapid rise of AI systems, enterprises still rely on structured data for consistency and reliable decision making.<br/><br/>They also discuss:</p><ul><li>the invisible edge cases LLMs can’t see</li><li>difference between software engineering and data engineering in AI</li><li>the mismatch between AI output and business logic</li><li>what the data engineer of the future actually does</li></ul><p><br/><a href='http://ainativedev.io'>AI Native Dev</a>, powered by <a href='https://tessl.io'>Tessl</a> and our global dev community, is your go-to podcast for solutions in software development in the age of AI. Tune in as we engage with engineers, founders, and open-source innovators to talk all things AI, security, and development. <br/><br/>Connect with us here: <br/>1. Jason Ganz (LinkedIn)- <a href='https://www.linkedin.com/in/jasnonaz/'>https://www.linkedin.com/in/jasnonaz/</a><br/>2. Jason Ganz (X)- <a href='https://x.com/jasnonaz'>https://x.com/jasnonaz</a><br/>3. dbt Labs- <a href='https://x.com/jasnonaz'>https://www.getdbt.com/</a><br/>4. dbt Fusion engine- <a href='https://www.getdbt.com/product/fusion'>https://www.getdbt.com/product/fusion</a><br/>5. dbt Community- <a href='https://www.getdbt.com/community'>https://www.getdbt.com/community</a><br/>6. Simon Maple- <a href='https://www.linkedin.com/in/simonmaple/'>https://www.linkedin.com/in/simonmaple/</a><br/>7. Tessl- <a href='https://www.linkedin.com/company/tesslio/'>https://www.linkedin.com/company/tesslio/</a><br/>8. AI Native Dev- <a href='https://www.linkedin.com/showcase/ai-native-dev/'>https://www.linkedin.com/showcase/ai-native-dev/</a><br/><br/>00:00 Trailer<br/>01:01 Introduction<br/>01:41 dbt Labs<br/>04:39 Data engineers<br/>07:39 LLMs understanding<br/>13:15 AI isn’t as lazy as humans<br/>15:29 Problem: the scaffolding to get data<br/>17:38 Best contextual results<br/>19:40 Dealing with security<br/>25:00 Structured data<br/>27:37 Problems with LLMs and data<br/>29:47 Exact numbers<br/>32:10 Hallucinations<br/>34:28 Human validation<br/>36:20 MCP servers<br/>39:09 UX bottlenecks<br/>42:27 Quality of data<br/>44:00 The future of data engineers<br/>47:02 getdbt.com<br/>48:09 Outro</p><p>Join the AI Native Dev Community on Discord: https://tessl.co/4ghikjh<br><br>Ask us questions: podcast@tessl.io</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/dq0o5ncda2szxfhlw6j2ijdzrp35?.jpg" />
+    <itunes:author>Tessl</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2375985/episodes/17387533-why-llms-keep-missing-this-one-thing-jason-ganz.mp3" length="35573012" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-17387533</guid>
+    <pubDate>Tue, 24 Jun 2025 13:00:00 +0100</pubDate>
+    <podcast:chapters url="https://www.buzzsprout.com/2375985/17387533/chapters.json" type="application/json" />
+    <psc:chapters>
+  <psc:chapter start="0:00" title="Trailer" />
+  <psc:chapter start="1:01" title="Introduction" />
+  <psc:chapter start="1:41" title="dbt Labs" />
+  <psc:chapter start="4:39" title="Data engineers" />
+  <psc:chapter start="7:39" title="LLMs understanding" />
+  <psc:chapter start="13:15" title="AI isn’t as lazy as humans" />
+  <psc:chapter start="15:29" title="Problem: the scaffolding to get data" />
+  <psc:chapter start="17:38" title="Best contextual results" />
+  <psc:chapter start="20:14" title="Dealing with security" />
+  <psc:chapter start="25:34" title="Structured data" />
+  <psc:chapter start="28:11" title="Problems with LLMs and data" />
+  <psc:chapter start="30:21" title="Exact numbers" />
+  <psc:chapter start="32:44" title="Hallucinations" />
+  <psc:chapter start="35:02" title="Human validation" />
+  <psc:chapter start="36:54" title="MCP servers" />
+  <psc:chapter start="39:43" title="UX bottlenecks" />
+  <psc:chapter start="43:01" title="Quality of data" />
+  <psc:chapter start="44:34" title="The future of data engineers" />
+  <psc:chapter start="47:36" title="getdbt.com" />
+  <psc:chapter start="48:43" title="Outro" />
+</psc:chapters>
+    <itunes:duration>2960</itunes:duration>
+    <itunes:keywords>IT, information, tech, technology, AI, artificial intelligence, technologist, program, vibe, coding, coder, dev, develop, developer, development, computer, podcast, algorithm, computers, apple, iOS, macOS, iPadOS, iPad, Mac, iPhone, copilot, Linux, GNU, x</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>59</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>CTO of $7B Snyk Talks AI Security, Risky Software &amp; Enterprise Adoption</itunes:title>
     <title>CTO of $7B Snyk Talks AI Security, Risky Software &amp; Enterprise Adoption</title>
@@ -60,7 +101,7 @@
   <psc:chapter start="35:13" title="Outro" />
 </psc:chapters>
     <itunes:duration>2143</itunes:duration>
-    <itunes:keywords></itunes:keywords>
+    <itunes:keywords>IT, information, tech, technology, AI, artificial intelligence, technologist, program, vibe, coding, coder, dev, develop, developer, development, computer, podcast, algorithm, computers, apple, iOS, macOS, iPadOS, iPad, Mac, iPhone, copilot, Linux, GNU, x</itunes:keywords>
     <itunes:season>1</itunes:season>
     <itunes:episode>58</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +134,7 @@
   <psc:chapter start="1:10:39" title="Outro" />
 </psc:chapters>
     <itunes:duration>4271</itunes:duration>
-    <itunes:keywords></itunes:keywords>
+    <itunes:keywords>IT, information, tech, technology, AI, artificial intelligence, technologist, program, vibe, coding, coder, dev, develop, developer, development, computer, podcast, algorithm, computers, apple, iOS, macOS, iPadOS, iPad, Mac, iPhone, copilot, Linux, GNU, x</itunes:keywords>
     <itunes:season>1</itunes:season>
     <itunes:episode>57</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
@@ -120,10 +161,12 @@
   <psc:chapter start="35:39" title="Outro" />
 </psc:chapters>
     <itunes:duration>2219</itunes:duration>
-    <itunes:keywords></itunes:keywords>
+    <itunes:keywords>IT, information, tech, technology, AI, artificial intelligence, technologist, program, vibe, coding, coder, dev, develop, developer, development, computer, podcast, algorithm, computers, apple, iOS, macOS, iPadOS, iPad, Mac, iPhone, copilot, Linux, GNU, x</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>56</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <podcast:person role="guest" href="https://www.linkedin.com/in/antonarhipov/">Anton Arhipov</podcast:person>
+    <podcast:person role="guest" href="https://www.linkedin.com/in/antonarhipov/" img="https://storage.buzzsprout.com/5onfrdgj6wtxtx846x82sqhcg34u">Anton Arhipov</podcast:person>
     <podcast:person role="co-host" href="http://tessl.io" img="https://storage.buzzsprout.com/d2d9rflb4kmv04zno8sp5xou7s2d">Guy Podjarny</podcast:person>
     <podcast:person role="co-host" href="https://tessl.io" img="https://storage.buzzsprout.com/w6nvygbn2bsrbosokef6q3ql9nvy">Simon Maple</podcast:person>
   </item>
@@ -155,12 +198,12 @@
   <psc:chapter start="43:30" title="Outro" />
 </psc:chapters>
     <itunes:duration>2641</itunes:duration>
-    <itunes:keywords></itunes:keywords>
+    <itunes:keywords>IT, information, tech, technology, AI, artificial intelligence, technologist, program, vibe, coding, coder, dev, develop, developer, development, computer, podcast, algorithm, computers, apple, iOS, macOS, iPadOS, iPad, Mac, iPhone, copilot, Linux, GNU, x</itunes:keywords>
     <itunes:season>1</itunes:season>
     <itunes:episode>55</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <podcast:person role="guest" href="https://www.linkedin.com/in/joshlong/">Josh Long</podcast:person>
+    <podcast:person role="guest" href="https://www.linkedin.com/in/joshlong/" img="https://storage.buzzsprout.com/4q5qtdem3gf0k1zw9xyheek59zj2">Josh Long</podcast:person>
     <podcast:person role="co-host" href="http://tessl.io" img="https://storage.buzzsprout.com/d2d9rflb4kmv04zno8sp5xou7s2d">Guy Podjarny</podcast:person>
     <podcast:person role="co-host" href="https://tessl.io" img="https://storage.buzzsprout.com/w6nvygbn2bsrbosokef6q3ql9nvy">Simon Maple</podcast:person>
   </item>
@@ -197,11 +240,14 @@
   <psc:chapter start="1:01:36" title="Should young people study computer science?" />
 </psc:chapters>
     <itunes:duration>3810</itunes:duration>
-    <itunes:keywords></itunes:keywords>
+    <itunes:keywords>IT, information, tech, technology, AI, artificial intelligence, technologist, program, vibe, coding, coder, dev, develop, developer, development, computer, podcast, algorithm, computers, apple, iOS, macOS, iPadOS, iPad, Mac, iPhone, copilot, Linux, GNU, x</itunes:keywords>
     <itunes:season>1</itunes:season>
     <itunes:episode>54</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
+    <podcast:person role="guest">Ron Eforni</podcast:person>
+    <podcast:person role="co-host" href="http://tessl.io" img="https://storage.buzzsprout.com/d2d9rflb4kmv04zno8sp5xou7s2d">Guy Podjarny</podcast:person>
+    <podcast:person role="co-host" href="https://tessl.io" img="https://storage.buzzsprout.com/w6nvygbn2bsrbosokef6q3ql9nvy">Simon Maple</podcast:person>
   </item>
   <item>
     <itunes:title>Vibe Coding SimCity II: Injecting Chaos with Natural Disasters and AI Tools</itunes:title>

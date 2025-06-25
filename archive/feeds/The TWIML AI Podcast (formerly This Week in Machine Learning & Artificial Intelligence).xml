@@ -34,6 +34,56 @@
     </itunes:category>
     <itunes:new-feed-url>https://feeds.megaphone.fm/MLN2155636147</itunes:new-feed-url>
     <item>
+      <title>Building the Internet of Agents with Vijoy Pandey - #737</title>
+      <link>https://twimlai.com/podcast/twimlai/building-the-internet-of-agents/</link>
+      <description>Today, we're joined by Vijoy Pandey, SVP and general manager at Outshift by Cisco to discuss a foundational challenge for the enterprise: how do we make specialized agents from different vendors collaborate effectively? As companies like Salesforce, Workday, and Microsoft all develop their own agentic systems, integrating them creates a complex, probabilistic, and noisy environment, a stark contrast to the deterministic APIs of the past. Vijoy introduces Cisco's vision for an "Internet of Agents," a platform to manage this new reality, and its open-source implementation, AGNTCY. We explore the four phases of agent collaboration—discovery, composition, deployment, and evaluation—and dive deep into the communication stack, from syntactic protocols like A2A, ACP, and MCP to the deeper semantic challenges of creating a shared understanding between agents. Vijoy also unveils SLIM (Secure Low-Latency Interactive Messaging), a novel transport layer designed to make agent-to-agent communication quantum-safe, real-time, and efficient for multi-modal workloads.
+
+The complete show notes for this episode can be found at ⁠https://twimlai.com/go/737.</description>
+      <pubDate>Tue, 24 Jun 2025 15:15:00 -0000</pubDate>
+      <itunes:title>Building the Internet of Agents with Vijoy Pandey</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>737</itunes:episode>
+      <itunes:author>Sam Charrington</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/1b24bf3c-510e-11f0-979c-6f659e2e29e6/image/52b6c01aaeed49cdb6ffbb1d943e5417.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Today, we're joined by Vijoy Pandey, SVP and general manager at Outshift by Cisco to discuss a foundational challenge for the enterprise: how do we make specialized agents from different vendors collaborate effectively? As companies like Salesforce, Workday, and Microsoft all develop their own agentic systems, integrating them creates a complex, probabilistic, and noisy environment, a stark contrast to the deterministic APIs of the past. Vijoy introduces Cisco's vision for an "Internet of Agents," a platform to manage this new reality, and its open-source implementation, AGNTCY. We explore the four phases of agent collaboration—discovery, composition, deployment, and evaluation—and dive deep into the communication stack, from syntactic protocols like A2A, ACP, and MCP to the deeper semantic challenges of creating a shared understanding between agents. Vijoy also unveils SLIM (Secure Low-Latency Interactive Messaging), a novel transport layer designed to make agent-to-agent communication quantum-safe, real-time, and efficient for multi-modal workloads.
+
+The complete show notes for this episode can be found at ⁠https://twimlai.com/go/737.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Today, we're joined by Vijoy Pandey, SVP and general manager at Outshift by Cisco to discuss a foundational challenge for the enterprise: how do we make specialized agents from different vendors collaborate effectively? As companies like Salesforce, Workday, and Microsoft all develop their own agentic systems, integrating them creates a complex, probabilistic, and noisy environment, a stark contrast to the deterministic APIs of the past. Vijoy introduces Cisco's vision for an "Internet of Agents," a platform to manage this new reality, and its open-source implementation, AGNTCY. We explore the four phases of agent collaboration—discovery, composition, deployment, and evaluation—and dive deep into the communication stack, from syntactic protocols like A2A, ACP, and MCP to the deeper semantic challenges of creating a shared understanding between agents. Vijoy also unveils SLIM (Secure Low-Latency Interactive Messaging), a novel transport layer designed to make agent-to-agent communication quantum-safe, real-time, and efficient for multi-modal workloads.</p>
+<p>The complete show notes for this episode can be found at <a href="https://twimlai.com/go/737">⁠<u>https://twimlai.com/go/737.</u></a></p>]]>
+      </content:encoded>
+      <itunes:duration>3373</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[1b24bf3c-510e-11f0-979c-6f659e2e29e6]]></guid>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN6554854566.mp3?updated=1750778902" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>LLMs for Equities Feature Forecasting at Two Sigma with Ben Wellington - #736</title>
+      <link>https://twimlai.com/podcast/twimlai/llms-for-equities-feature-forecasting-at-two-sigma/</link>
+      <description>Today, we're joined by Ben Wellington, deputy head of feature forecasting at Two Sigma. We dig into the team’s end-to-end approach to leveraging AI in equities feature forecasting, covering how they identify and create features, collect and quantify historical data, and build predictive models to forecast market behavior and asset prices for trading and investment. We explore the firm's platform-centric approach to managing an extensive portfolio of features and models, the impact of multimodal LLMs on accelerating the process of extracting novel features, the importance of strict data timestamping to prevent temporal leakage, and the way they consider build vs. buy decisions in a rapidly evolving landscape. Lastly, Ben also shares insights on leveraging open-source models and the future of agentic AI in quantitative finance.
+
+The complete show notes for this episode can be found at https://twimlai.com/go/736.</description>
+      <pubDate>Tue, 17 Jun 2025 19:33:00 -0000</pubDate>
+      <itunes:title>LLMs for Equities Feature Forecasting at Two Sigma with Ben Wellington</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>736</itunes:episode>
+      <itunes:author>Sam Charrington</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/e7a27954-4bb0-11f0-992a-4be6ee67394b/image/547bf1c44315ddd0ed76aba65fcd8d5f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Today, we're joined by Ben Wellington, deputy head of feature forecasting at Two Sigma. We dig into the team’s end-to-end approach to leveraging AI in equities feature forecasting, covering how they identify and create features, collect and quantify historical data, and build predictive models to forecast market behavior and asset prices for trading and investment. We explore the firm's platform-centric approach to managing an extensive portfolio of features and models, the impact of multimodal LLMs on accelerating the process of extracting novel features, the importance of strict data timestamping to prevent temporal leakage, and the way they consider build vs. buy decisions in a rapidly evolving landscape. Lastly, Ben also shares insights on leveraging open-source models and the future of agentic AI in quantitative finance.
+
+The complete show notes for this episode can be found at https://twimlai.com/go/736.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Today, we're joined by Ben Wellington, deputy head of feature forecasting at Two Sigma. We dig into the team’s end-to-end approach to leveraging AI in equities feature forecasting, covering how they identify and create features, collect and quantify historical data, and build predictive models to forecast market behavior and asset prices for trading and investment. We explore the firm's platform-centric approach to managing an extensive portfolio of features and models, the impact of multimodal LLMs on accelerating the process of extracting novel features, the importance of strict data timestamping to prevent temporal leakage, and the way they consider build vs. buy decisions in a rapidly evolving landscape. Lastly, Ben also shares insights on leveraging open-source models and the future of agentic AI in quantitative finance.</p>
+<p>The complete show notes for this episode can be found at <a href="https://twimlai.com/go/736"><u>https://twimlai.com/go/736</u>.</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3571</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e7a27954-4bb0-11f0-992a-4be6ee67394b]]></guid>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN1374470913.mp3?updated=1750189327" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Zero-Shot Auto-Labeling: The End of Annotation for Computer Vision with Jason Corso - #735</title>
       <link>https://twimlai.com/podcast/twimlai/zero-shot-auto-labeling-the-end-of-annotation-for-computer-vision/</link>
       <description>Today, we're joined by Jason Corso, co-founder of Voxel51 and professor at the University of Michigan, to explore automated labeling in computer vision. Jason introduces FiftyOne, an open-source platform for visualizing datasets, analyzing models, and improving data quality. We focus on Voxel51’s recent research report, “Zero-shot auto-labeling rivals human performance,” which demonstrates how zero-shot auto-labeling with foundation models can yield to significant cost and time savings compared to traditional human annotation. Jason explains how auto-labels, despite being "noisier" at lower confidence thresholds, can lead to better downstream model performance. We also cover Voxel51's "verified auto-labeling" approach, which utilizes a "stoplight" QA workflow (green, yellow, red light) to minimize human review. Finally, we discuss the challenges of handling decision boundary uncertainty and out-of-domain classes, the differences between synthetic data generation in vision and language domains, and the potential of agentic labeling.
@@ -16077,25 +16127,6 @@ https://twimlai.com/talk/157]]>
       <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN6973721211.mp3?updated=1629216889" length="0" type="audio/mpeg"/>
     </item>
     <item>
-      <title>ML Use Cases at Think Big Analytics with Mo Patel and Laura Frølich - TWiML Talk #54</title>
-      <link>https://chtbl.com/track/4D4ED/traffic.libsyn.com/secure/twimlai/346117337-twiml-twiml-talk-054-ml-use-cases-think-big-analytics-mo-patel-laura-frolich.mp3</link>
-      <description>The show you’re about to hear is part of a series of shows recorded in San Francisco at the Artificial Intelligence Conference. This time around, I speak with Mo Patel, practice director of AI &amp; deep learning and Laura Frølich, data scientist, of Think Big Analytics. Mo and Laura joined me at the AI conference after their session on “Training vision models with public transportation datasets.” We talked over a bunch of use cases they’ve worked on involving image analysis and deep learning, including an assisted driving system. We also talk through a bunch of practical challenges faced when working on real machine learning problems, like feature detection, data augmentation, and training data. The notes for this show can be found at twimlai.com/talk/54</description>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>54</itunes:episode>
-      <itunes:author>Sam Charrington</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/79e6e428-ee98-11eb-9502-8708529cff20/image/artworks-000246301876-fvhi1z-original.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>The show you’re about to hear is part of a series…</itunes:subtitle>
-      <itunes:summary>The show you’re about to hear is part of a series of shows recorded in San Francisco at the Artificial Intelligence Conference. This time around, I speak with Mo Patel, practice director of AI &amp; deep learning and Laura Frølich, data scientist, of Think Big Analytics. Mo and Laura joined me at the AI conference after their session on “Training vision models with public transportation datasets.” We talked over a bunch of use cases they’ve worked on involving image analysis and deep learning, including an assisted driving system. We also talk through a bunch of practical challenges faced when working on real machine learning problems, like feature detection, data augmentation, and training data. The notes for this show can be found at twimlai.com/talk/54</itunes:summary>
-      <content:encoded>
-        <![CDATA[The show you’re about to hear is part of a series of shows recorded in San Francisco at the Artificial Intelligence Conference. This time around, I speak with Mo Patel, practice director of AI &amp; deep learning and Laura Frølich, data scientist, of Think Big Analytics. Mo and Laura joined me at the AI conference after their session on “Training vision models with public transportation datasets.” We talked over a bunch of use cases they’ve worked on involving image analysis and deep learning, including an assisted driving system. We also talk through a bunch of practical challenges faced when working on real machine learning problems, like feature detection, data augmentation, and training data. The notes for this show can be found at twimlai.com/talk/54]]>
-      </content:encoded>
-      <itunes:duration>2724</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/346117337]]></guid>
-      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN9013377108.mp3?updated=1629216890" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Intel Nervana Devcloud with Naveen Rao &amp; Scott Apeland - TWiML Talk #51</title>
       <link>https://chtbl.com/track/4D4ED/traffic.libsyn.com/secure/twimlai/346117347-twiml-twiml-talk-051-intel-nervana-devcloud-naveen-rao-scott-apeland.mp3</link>
       <description>In this episode, I talk to Naveen Rao, VP and GM of Intel’s AI Products Group, and Scott Apeland, director of Intel’s Developer Network. It's been a few months since we last spoke to Naveen, so he gives us a quick update on what Intel’s been up to and we discuss his perspective on some recent developments in the AI ecosystem. Scott and I dig into Intel Nervana’s new DevCloud offering, which was announced at the conference. We also discuss the Intel Nervana AI Academy, a new portal offering hands-on learning tools and other resources for various aspects of machine learning and AI. The notes for this show can be found at twimlai.com/talk/51</description>
@@ -16132,6 +16163,25 @@ https://twimlai.com/talk/157]]>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/346117345]]></guid>
       <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN9990006429.mp3?updated=1629216872" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ML Use Cases at Think Big Analytics with Mo Patel and Laura Frølich - TWiML Talk #54</title>
+      <link>https://chtbl.com/track/4D4ED/traffic.libsyn.com/secure/twimlai/346117337-twiml-twiml-talk-054-ml-use-cases-think-big-analytics-mo-patel-laura-frolich.mp3</link>
+      <description>The show you’re about to hear is part of a series of shows recorded in San Francisco at the Artificial Intelligence Conference. This time around, I speak with Mo Patel, practice director of AI &amp; deep learning and Laura Frølich, data scientist, of Think Big Analytics. Mo and Laura joined me at the AI conference after their session on “Training vision models with public transportation datasets.” We talked over a bunch of use cases they’ve worked on involving image analysis and deep learning, including an assisted driving system. We also talk through a bunch of practical challenges faced when working on real machine learning problems, like feature detection, data augmentation, and training data. The notes for this show can be found at twimlai.com/talk/54</description>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>54</itunes:episode>
+      <itunes:author>Sam Charrington</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/79e6e428-ee98-11eb-9502-8708529cff20/image/artworks-000246301876-fvhi1z-original.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>The show you’re about to hear is part of a series…</itunes:subtitle>
+      <itunes:summary>The show you’re about to hear is part of a series of shows recorded in San Francisco at the Artificial Intelligence Conference. This time around, I speak with Mo Patel, practice director of AI &amp; deep learning and Laura Frølich, data scientist, of Think Big Analytics. Mo and Laura joined me at the AI conference after their session on “Training vision models with public transportation datasets.” We talked over a bunch of use cases they’ve worked on involving image analysis and deep learning, including an assisted driving system. We also talk through a bunch of practical challenges faced when working on real machine learning problems, like feature detection, data augmentation, and training data. The notes for this show can be found at twimlai.com/talk/54</itunes:summary>
+      <content:encoded>
+        <![CDATA[The show you’re about to hear is part of a series of shows recorded in San Francisco at the Artificial Intelligence Conference. This time around, I speak with Mo Patel, practice director of AI &amp; deep learning and Laura Frølich, data scientist, of Think Big Analytics. Mo and Laura joined me at the AI conference after their session on “Training vision models with public transportation datasets.” We talked over a bunch of use cases they’ve worked on involving image analysis and deep learning, including an assisted driving system. We also talk through a bunch of practical challenges faced when working on real machine learning problems, like feature detection, data augmentation, and training data. The notes for this show can be found at twimlai.com/talk/54]]>
+      </content:encoded>
+      <itunes:duration>2724</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/346117337]]></guid>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN9013377108.mp3?updated=1629216890" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>Ray: A Distributed Computing Platform for Reinforcement Learning with Ion Stoica - TWiML Talk #55</title>
@@ -16438,25 +16488,6 @@ https://twimlai.com/talk/157]]>
       <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN3022767307.mp3?updated=1629216899" length="0" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Expressive AI - Generated Music With Google's Performance RNN - Doug Eck - TWiML Talk #32</title>
-      <link>https://chtbl.com/track/4D4ED/traffic.libsyn.com/secure/twimlai/332532595-twiml-twiml-talk-32-doug-eck-expressive-ai-generated-music-googles-performance-rnn.mp3</link>
-      <description>My guest for this second show in our O’Reilly AI series is Doug Eck of Google Brain. Doug did a keynote at the O’Reilly conference on Magenta, Google’s project for melding machine learning and the arts. Magenta’s goal is to produce open-source tools and models that help people in their personal creative processes. Doug’s research starts with using so-called “generative” machine learning models to create engaging media. Additionally, he is working on how to bring other aspects of the creative process into play. We talk about the newly announced Performance RNN project, which uses neural networks to create expressive, AI-generated music. We also touch on QuickDraw, a project by Google AI Experiments, in which users as Doug describes it, “play Pictionary” with a visual classifier. We dig into what he foresees as possibilities for Magenta, machine learning models eventually developing storylines, generative models for media and creative coding. The notes for this episode can be found at https://twimlai.com/talk/32.</description>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>32</itunes:episode>
-      <itunes:author>Sam Charrington</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/7c78ebaa-ee98-11eb-9502-8f7703e5a0a3/image/artworks-000232940764-msbtm3-original.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>My guest for this second show in our O’Reilly AI …</itunes:subtitle>
-      <itunes:summary>My guest for this second show in our O’Reilly AI series is Doug Eck of Google Brain. Doug did a keynote at the O’Reilly conference on Magenta, Google’s project for melding machine learning and the arts. Magenta’s goal is to produce open-source tools and models that help people in their personal creative processes. Doug’s research starts with using so-called “generative” machine learning models to create engaging media. Additionally, he is working on how to bring other aspects of the creative process into play. We talk about the newly announced Performance RNN project, which uses neural networks to create expressive, AI-generated music. We also touch on QuickDraw, a project by Google AI Experiments, in which users as Doug describes it, “play Pictionary” with a visual classifier. We dig into what he foresees as possibilities for Magenta, machine learning models eventually developing storylines, generative models for media and creative coding. The notes for this episode can be found at https://twimlai.com/talk/32.</itunes:summary>
-      <content:encoded>
-        <![CDATA[My guest for this second show in our O’Reilly AI series is Doug Eck of Google Brain. Doug did a keynote at the O’Reilly conference on Magenta, Google’s project for melding machine learning and the arts. Magenta’s goal is to produce open-source tools and models that help people in their personal creative processes. Doug’s research starts with using so-called “generative” machine learning models to create engaging media. Additionally, he is working on how to bring other aspects of the creative process into play. We talk about the newly announced Performance RNN project, which uses neural networks to create expressive, AI-generated music. We also touch on QuickDraw, a project by Google AI Experiments, in which users as Doug describes it, “play Pictionary” with a visual classifier. We dig into what he foresees as possibilities for Magenta, machine learning models eventually developing storylines, generative models for media and creative coding. The notes for this episode can be found at https://twimlai.com/talk/32.]]>
-      </content:encoded>
-      <itunes:duration>2778</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/332532595]]></guid>
-      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN5046517308.mp3?updated=1629216891" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>The Power Of Probabilistic Programming with Ben Vigoda - TWiML Talk #33</title>
       <link>https://chtbl.com/track/4D4ED/traffic.libsyn.com/secure/twimlai/332532588-twiml-twiml-talk-033-ben-vigoda-power-probabilistic-programming.mp3</link>
       <description>My guest for this third episode in the O'Reilly AI series is Ben Vigoda. Ben is the founder and CEO of Gamalon, a DARPA-funded startup working on Bayesian Program Synthesis. We dive into what exactly this means and how it enables what Ben calls idea learning in the show. Gamalon's first application structures unstructured data — input a paragraph or phrase of unstructured text and output a structured spreadsheet/database row or API call. This can be applicable to a wide range of data challenges, including enterprise product and customer information, AI or digital assistant, and many others. Before Gamalon, Ben was co-founder and CEO of Lyric Semiconductor, Inc., which created the first microprocessor architectures dedicated for statistical machine learning. The company was based on his PhD thesis at MIT and acquired by Analog Devices. In today’s talk we are discussing probabilistic programming, his new approach to deep learning, posterior distribution, and the difference between sampling methods and variational methods and how solvers work in the system. Nerd alert: We go pretty deep in this discussion. The notes for this show can be found at https://twimlai.com/talk/33</description>
@@ -16474,6 +16505,25 @@ https://twimlai.com/talk/157]]>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/332532588]]></guid>
       <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN9323231099.mp3?updated=1629216888" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Expressive AI - Generated Music With Google's Performance RNN - Doug Eck - TWiML Talk #32</title>
+      <link>https://chtbl.com/track/4D4ED/traffic.libsyn.com/secure/twimlai/332532595-twiml-twiml-talk-32-doug-eck-expressive-ai-generated-music-googles-performance-rnn.mp3</link>
+      <description>My guest for this second show in our O’Reilly AI series is Doug Eck of Google Brain. Doug did a keynote at the O’Reilly conference on Magenta, Google’s project for melding machine learning and the arts. Magenta’s goal is to produce open-source tools and models that help people in their personal creative processes. Doug’s research starts with using so-called “generative” machine learning models to create engaging media. Additionally, he is working on how to bring other aspects of the creative process into play. We talk about the newly announced Performance RNN project, which uses neural networks to create expressive, AI-generated music. We also touch on QuickDraw, a project by Google AI Experiments, in which users as Doug describes it, “play Pictionary” with a visual classifier. We dig into what he foresees as possibilities for Magenta, machine learning models eventually developing storylines, generative models for media and creative coding. The notes for this episode can be found at https://twimlai.com/talk/32.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>32</itunes:episode>
+      <itunes:author>Sam Charrington</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/7c78ebaa-ee98-11eb-9502-8f7703e5a0a3/image/artworks-000232940764-msbtm3-original.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>My guest for this second show in our O’Reilly AI …</itunes:subtitle>
+      <itunes:summary>My guest for this second show in our O’Reilly AI series is Doug Eck of Google Brain. Doug did a keynote at the O’Reilly conference on Magenta, Google’s project for melding machine learning and the arts. Magenta’s goal is to produce open-source tools and models that help people in their personal creative processes. Doug’s research starts with using so-called “generative” machine learning models to create engaging media. Additionally, he is working on how to bring other aspects of the creative process into play. We talk about the newly announced Performance RNN project, which uses neural networks to create expressive, AI-generated music. We also touch on QuickDraw, a project by Google AI Experiments, in which users as Doug describes it, “play Pictionary” with a visual classifier. We dig into what he foresees as possibilities for Magenta, machine learning models eventually developing storylines, generative models for media and creative coding. The notes for this episode can be found at https://twimlai.com/talk/32.</itunes:summary>
+      <content:encoded>
+        <![CDATA[My guest for this second show in our O’Reilly AI series is Doug Eck of Google Brain. Doug did a keynote at the O’Reilly conference on Magenta, Google’s project for melding machine learning and the arts. Magenta’s goal is to produce open-source tools and models that help people in their personal creative processes. Doug’s research starts with using so-called “generative” machine learning models to create engaging media. Additionally, he is working on how to bring other aspects of the creative process into play. We talk about the newly announced Performance RNN project, which uses neural networks to create expressive, AI-generated music. We also touch on QuickDraw, a project by Google AI Experiments, in which users as Doug describes it, “play Pictionary” with a visual classifier. We dig into what he foresees as possibilities for Magenta, machine learning models eventually developing storylines, generative models for media and creative coding. The notes for this episode can be found at https://twimlai.com/talk/32.]]>
+      </content:encoded>
+      <itunes:duration>2778</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[tag:soundcloud,2010:tracks/332532595]]></guid>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN5046517308.mp3?updated=1629216891" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>Intel Nervana Update + Productizing AI Research with Naveen Rao And Hanlin Tang - TWiML Talk #31</title>

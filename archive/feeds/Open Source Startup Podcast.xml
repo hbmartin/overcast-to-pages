@@ -6,7 +6,7 @@
 Learn from the founders of HashiCorp, Chronosphere, Vercel, MongoDB, DBT, mobile.dev and more! ]]></description>
 		<link>https://oss-startup-podcast.launchnotes.io</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 09 Jun 2025 20:49:36 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Jun 2025 22:57:07 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/3eab794c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Robby (MTF); Tim (Essence VC)]]></author>
 		<copyright><![CDATA[410155]]></copyright>
@@ -24,6 +24,22 @@ Learn from the founders of HashiCorp, Chronosphere, Vercel, MongoDB, DBT, mobile
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/10414251/10414251-1718504092058-1eb78ce29b28a.jpg"/>
+		<item>
+			<title><![CDATA[E176: Why All AI Agents Will Need Cloud Sandboxes]]></title>
+			<description><![CDATA[<p><a href="https://x.com/mlejva" target="_blank" rel="noopener noreferrer nofollow">Vasek Mlejnsky</a> is Co-Founder &amp; CEO of <a href="https://e2b.dev/" target="_blank" rel="noopener noreferrer nofollow">E2B</a>, the open-source runtime for executing AI-generated code in secure cloud sandboxes. Essentially, they give AI agents cloud computers. </p><p>Their open source repos, particularly <a href="https://github.com/e2b-dev/E2B" target="_blank" rel="noopener noreferrer nofollow">e2b</a> which has 9K GitHub stars, have been widely adopted to help securely run AI-generated code. </p><p>E2B has <a href="https://www.crunchbase.com/funding_round/e2b-1c91-seed--6b20b90e" target="_blank" rel="noopener noreferrer nofollow">raised $12M</a> from investors including Decibel and Sunflower. </p><p>In this episode, we dig into:</p><ul><li><p>Why agents need a sandbox</p></li><li><p>Building a new category of infra tooling, much like LaunchDarkly </p></li><li><p>Some of their viral content moments - including <a href="https://x.com/gdb?lang=en" target="_blank" rel="noopener noreferrer nofollow">Greg Brockman</a> sharing their videos</p></li><li><p>Figuring out the right commercial offering </p></li><li><p>Why they don&#39;t agree with pricing per token </p></li><li><p>Why moving from Prague to the Bay Area felt essential for them as founders</p></li></ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ossstartuppodcast/episodes/E176-Why-All-AI-Agents-Will-Need-Cloud-Sandboxes-e34kv3m</link>
+			<guid isPermaLink="false">ac18ccc6-27c9-42d3-a032-8f6d49ec42e7</guid>
+			<dc:creator><![CDATA[Robby (MTF); Tim (Essence VC)]]></dc:creator>
+			<pubDate>Mon, 23 Jun 2025 22:12:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3eab794c/podcast/play/104544822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-23%2F26a52eab-69a2-3fbe-11c4-3915bfa1deb1.mp3" length="89571840" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://x.com/mlejva&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;Vasek Mlejnsky&lt;/a&gt; is Co-Founder &amp;amp; CEO of &lt;a href=&quot;https://e2b.dev/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;E2B&lt;/a&gt;, the open-source runtime for executing AI-generated code in secure cloud sandboxes. Essentially, they give AI agents cloud computers. &lt;/p&gt;&lt;p&gt;Their open source repos, particularly &lt;a href=&quot;https://github.com/e2b-dev/E2B&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;e2b&lt;/a&gt; which has 9K GitHub stars, have been widely adopted to help securely run AI-generated code. &lt;/p&gt;&lt;p&gt;E2B has &lt;a href=&quot;https://www.crunchbase.com/funding_round/e2b-1c91-seed--6b20b90e&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;raised $12M&lt;/a&gt; from investors including Decibel and Sunflower. &lt;/p&gt;&lt;p&gt;In this episode, we dig into:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Why agents need a sandbox&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Building a new category of infra tooling, much like LaunchDarkly &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Some of their viral content moments - including &lt;a href=&quot;https://x.com/gdb?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;Greg Brockman&lt;/a&gt; sharing their videos&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Figuring out the right commercial offering &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Why they don&amp;#39;t agree with pricing per token &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Why moving from Prague to the Bay Area felt essential for them as founders&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:37:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/10414251/10414251-1750719210092-ef0010e915da4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[E175: How Dragonfly Is Taking on Redis With a New Data Store]]></title>
 			<description><![CDATA[<p><a href="https://x.com/romanger" target="_blank" rel="noopener noreferrer nofollow">Roman Gershman</a> is Co-Founder &amp; CTO of <a href="https://www.dragonflydb.io/" target="_blank" rel="noopener noreferrer nofollow">Dragonfly</a>, the drop-in Redis replacement for heavy data workloads that has significant performance, cost, and scale benefits. Their open source <a href="https://github.com/dragonflydb/dragonfly" target="_blank" rel="noopener noreferrer nofollow">dragonflydb</a> has 28K stars on GitHub. </p><p>Dragonfly has <a href="https://techcrunch.com/2023/03/21/dragonfly-a-database-startup-developing-a-drop-in-replacement-for-redis-raises-21m/" target="_blank" rel="noopener noreferrer nofollow">raised $21M</a> from investors including Quiet Capital and Redpoint. </p><p>In this episode, we dig into:</p><ul><li><p>The challenges with Redis </p></li><li><p>The users that have really benefitted from Dragonfly (high scale + real-time needs - gaming, B2C) </p></li><li><p>The benefits of being multi-threaded </p></li><li><p>How they got some of their bigger users / customers like Twilio, SoFi, and Spotify</p></li></ul>

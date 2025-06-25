@@ -17,8 +17,8 @@
     <podcast:person role="Host" href="https://thdxr.com" img="https://img.transistor.fm/o2ns2qOILbJxa1ZzK_T6LsBC-IJ1pC2CLGZqXmJHbgs/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYTc0MzYxZjYt/OGQ2ZC00NGFkLWE4/YmYtNjdmOTdlNzQ4/NmE0LzE2NjY4MjYw/OTAtaW1hZ2UuanBn.jpg">Dax Raad</podcast:person>
     <podcast:person role="Editor" href="https://lemonproductions.ca" img="https://img.transistor.fm/xrnTb1ZPJABu8_xfTc_HbKeF5KhaDwDGCSxOH2Np-FQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMWNkMmE4YWUt/Nzg0ZS00NTE2LWFj/MDYtMDM4M2Y5MzQz/Njk0LzE2ODk5Njcw/MjUtaW1hZ2UuanBn.jpg">Chris Enns</podcast:person>
     <language>en</language>
-    <pubDate>Tue, 10 Jun 2025 02:31:04 -0700</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 02:32:24 -0700</lastBuildDate>
+    <pubDate>Tue, 24 Jun 2025 11:37:09 -0700</pubDate>
+    <lastBuildDate>Tue, 24 Jun 2025 11:38:19 -0700</lastBuildDate>
     <link>https://tomorrow.fm</link>
     <image>
       <url>https://img.transistor.fm/7zfyvE0rFbUzU7oUjRv5Xif1nEEhUwG2DLnLQzWyuTQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzM1NzYxLzE2NjY4/MjU4NDItYXJ0d29y/ay5qcGc.jpg</url>
@@ -37,6 +37,89 @@
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title> Baby Registries, Cold Showers, and Launching Opencode</title>
+      <itunes:episode>138</itunes:episode>
+      <podcast:episode>138</podcast:episode>
+      <itunes:title> Baby Registries, Cold Showers, and Launching Opencode</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">fcf4631b-c11e-4c74-8cb3-697df21567d0</guid>
+      <link>https://tomorrow.fm/138</link>
+      <description>
+        <![CDATA[<p><br></p><p><br></p><p><strong>Links:</strong></p><ul><li><a href="https://x.com/thdxr/status/1935801226362302730">Dax's tweet about opencode rewrite</a></li><li><a href="https://opencode.ai/">opencode.ai</a></li><li><a href="https://opencode.ai/docs/">Intro | opencode</a></li><li><a href="https://github.com/sst/opencode">GitHub - sst/opencode: AI coding agent, built for the terminal.</a></li><li><a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ">Andrej Karpathy: Software Is Changing (Again) - YouTube</a></li><li><a href="https://models.dev/">Models.dev — An open-source database of AI models</a></li></ul><p><strong>Sponsor</strong>: <a href="https://www.terminal.shop/">Terminal now offers a monthly box called Cron</a>.</p><p>Want to carry on the conversation? <a href="https://www.watch.dev/">Join us in Discord</a>. Or send us an email at <a href="mailto:sliceofalittlepieceofbacon@tomorrow.fm">sliceoffalittlepieceofbacon@tomorrow.fm</a>.</p><p><strong>Topics</strong>:<br></p><ul><li>(00:00) - A Canadian standoff</li>
+<li>(00:29) - Who's the resident nice guy around here?</li>
+<li>(02:27) - Finding the Apple of carseats and baby strollers</li>
+<li>(05:39) - Transitioning from walking to running</li>
+<li>(08:03) - Sleeping struggles</li>
+<li>(11:21) - Launching Opencode</li>
+<li>(16:48) - Is starting a podcast the key to working well together as programmers? 4 out of 5 podcast editors say yes</li>
+<li>(22:46) - Figuring out what to work on next in open source software</li>
+<li>(32:29) - Dax is still living in oblivious bliss from Twitter</li>
+<li>(33:45) - Andrej Karpathy on how Software Is Changing</li>
+<li>(35:53) - Dax tries vibe coding</li>
+<li>(46:30) - How much of a bet are we placing on the terminal?</li>
+<li>(48:17) - Writing code for Frank</li>
+</ul>
+<strong>
+  <a href="https://www.terminal.shop/" rel="payment" title="★ Support this podcast ★">★ Support this podcast ★</a>
+</strong>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><br></p><p><br></p><p><strong>Links:</strong></p><ul><li><a href="https://x.com/thdxr/status/1935801226362302730">Dax's tweet about opencode rewrite</a></li><li><a href="https://opencode.ai/">opencode.ai</a></li><li><a href="https://opencode.ai/docs/">Intro | opencode</a></li><li><a href="https://github.com/sst/opencode">GitHub - sst/opencode: AI coding agent, built for the terminal.</a></li><li><a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ">Andrej Karpathy: Software Is Changing (Again) - YouTube</a></li><li><a href="https://models.dev/">Models.dev — An open-source database of AI models</a></li></ul><p><strong>Sponsor</strong>: <a href="https://www.terminal.shop/">Terminal now offers a monthly box called Cron</a>.</p><p>Want to carry on the conversation? <a href="https://www.watch.dev/">Join us in Discord</a>. Or send us an email at <a href="mailto:sliceofalittlepieceofbacon@tomorrow.fm">sliceoffalittlepieceofbacon@tomorrow.fm</a>.</p><p><strong>Topics</strong>:<br></p><ul><li>(00:00) - A Canadian standoff</li>
+<li>(00:29) - Who's the resident nice guy around here?</li>
+<li>(02:27) - Finding the Apple of carseats and baby strollers</li>
+<li>(05:39) - Transitioning from walking to running</li>
+<li>(08:03) - Sleeping struggles</li>
+<li>(11:21) - Launching Opencode</li>
+<li>(16:48) - Is starting a podcast the key to working well together as programmers? 4 out of 5 podcast editors say yes</li>
+<li>(22:46) - Figuring out what to work on next in open source software</li>
+<li>(32:29) - Dax is still living in oblivious bliss from Twitter</li>
+<li>(33:45) - Andrej Karpathy on how Software Is Changing</li>
+<li>(35:53) - Dax tries vibe coding</li>
+<li>(46:30) - How much of a bet are we placing on the terminal?</li>
+<li>(48:17) - Writing code for Frank</li>
+</ul>
+<strong>
+  <a href="https://www.terminal.shop/" rel="payment" title="★ Support this podcast ★">★ Support this podcast ★</a>
+</strong>]]>
+      </content:encoded>
+      <pubDate>Tue, 24 Jun 2025 02:19:00 -0700</pubDate>
+      <author>Adam Elmore &amp; Dax Raad</author>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.transistor.fm/20d2b2de/4a2916c6.mp3" length="50380123" type="audio/mpeg"/>
+      <itunes:author>Adam Elmore &amp; Dax Raad</itunes:author>
+      <itunes:image href="https://img.transistor.fm/mj51IdXbGTjpSq3X8eHGmd5uXd9RzunRSqVzntfxv4U/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81OWFj/ZjdjMmVjYmNjZWE5/NWRhNzExNjFjMGY5/OGRkYy5qcGVn.jpg"/>
+      <itunes:duration>3146</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p><br></p><p><br></p><p><strong>Links:</strong></p><ul><li><a href="https://x.com/thdxr/status/1935801226362302730">Dax's tweet about opencode rewrite</a></li><li><a href="https://opencode.ai/">opencode.ai</a></li><li><a href="https://opencode.ai/docs/">Intro | opencode</a></li><li><a href="https://github.com/sst/opencode">GitHub - sst/opencode: AI coding agent, built for the terminal.</a></li><li><a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ">Andrej Karpathy: Software Is Changing (Again) - YouTube</a></li><li><a href="https://models.dev/">Models.dev — An open-source database of AI models</a></li></ul><p><strong>Sponsor</strong>: <a href="https://www.terminal.shop/">Terminal now offers a monthly box called Cron</a>.</p><p>Want to carry on the conversation? <a href="https://www.watch.dev/">Join us in Discord</a>. Or send us an email at <a href="mailto:sliceofalittlepieceofbacon@tomorrow.fm">sliceoffalittlepieceofbacon@tomorrow.fm</a>.</p><p><strong>Topics</strong>:<br></p><ul><li>(00:00) - A Canadian standoff</li>
+<li>(00:29) - Who's the resident nice guy around here?</li>
+<li>(02:27) - Finding the Apple of carseats and baby strollers</li>
+<li>(05:39) - Transitioning from walking to running</li>
+<li>(08:03) - Sleeping struggles</li>
+<li>(11:21) - Launching Opencode</li>
+<li>(16:48) - Is starting a podcast the key to working well together as programmers? 4 out of 5 podcast editors say yes</li>
+<li>(22:46) - Figuring out what to work on next in open source software</li>
+<li>(32:29) - Dax is still living in oblivious bliss from Twitter</li>
+<li>(33:45) - Andrej Karpathy on how Software Is Changing</li>
+<li>(35:53) - Dax tries vibe coding</li>
+<li>(46:30) - How much of a bet are we placing on the terminal?</li>
+<li>(48:17) - Writing code for Frank</li>
+</ul>
+<strong>
+  <a href="https://www.terminal.shop/" rel="payment" title="★ Support this podcast ★">★ Support this podcast ★</a>
+</strong>]]>
+      </itunes:summary>
+      <itunes:keywords>software, internet, technology, programming, web</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://adam.dev" img="https://img.transistor.fm/86B7ALZteXCVyFi0fpmRClFiCtSXQj3gy5oWueIX96o/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vNGQ2YTg4NDYt/ODc4Ny00NmY0LWEx/NTQtNzk0ODJiNjIy/YzcyLzE2NjY4MjYw/NjctaW1hZ2UuanBn.jpg">Adam Elmore</podcast:person>
+      <podcast:person role="Host" href="https://thdxr.com" img="https://img.transistor.fm/o2ns2qOILbJxa1ZzK_T6LsBC-IJ1pC2CLGZqXmJHbgs/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYTc0MzYxZjYt/OGQ2ZC00NGFkLWE4/YmYtNjdmOTdlNzQ4/NmE0LzE2NjY4MjYw/OTAtaW1hZ2UuanBn.jpg">Dax Raad</podcast:person>
+      <podcast:person role="Editor" href="https://lemonproductions.ca" img="https://img.transistor.fm/xrnTb1ZPJABu8_xfTc_HbKeF5KhaDwDGCSxOH2Np-FQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMWNkMmE4YWUt/Nzg0ZS00NTE2LWFj/MDYtMDM4M2Y5MzQz/Njk0LzE2ODk5Njcw/MjUtaW1hZ2UuanBn.jpg">Chris Enns</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/20d2b2de/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/20d2b2de/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/20d2b2de/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/20d2b2de/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/20d2b2de/transcription" type="text/html"/>
+      <podcast:chapters url="https://share.transistor.fm/s/20d2b2de/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Building Individual Apps with AI, Elon vs Trump, Screen Time and OpenAI Aquisitions</title>
       <itunes:episode>137</itunes:episode>
@@ -110,6 +193,11 @@
       <podcast:person role="Host" href="https://adam.dev" img="https://img.transistor.fm/86B7ALZteXCVyFi0fpmRClFiCtSXQj3gy5oWueIX96o/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vNGQ2YTg4NDYt/ODc4Ny00NmY0LWEx/NTQtNzk0ODJiNjIy/YzcyLzE2NjY4MjYw/NjctaW1hZ2UuanBn.jpg">Adam Elmore</podcast:person>
       <podcast:person role="Host" href="https://thdxr.com" img="https://img.transistor.fm/o2ns2qOILbJxa1ZzK_T6LsBC-IJ1pC2CLGZqXmJHbgs/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vYTc0MzYxZjYt/OGQ2ZC00NGFkLWE4/YmYtNjdmOTdlNzQ4/NmE0LzE2NjY4MjYw/OTAtaW1hZ2UuanBn.jpg">Dax Raad</podcast:person>
       <podcast:person role="Editor" href="https://lemonproductions.ca" img="https://img.transistor.fm/xrnTb1ZPJABu8_xfTc_HbKeF5KhaDwDGCSxOH2Np-FQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9wZXJz/b24vMWNkMmE4YWUt/Nzg0ZS00NTE2LWFj/MDYtMDM4M2Y5MzQz/Njk0LzE2ODk5Njcw/MjUtaW1hZ2UuanBn.jpg">Chris Enns</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/fb0c1e85/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/fb0c1e85/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/fb0c1e85/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/fb0c1e85/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/fb0c1e85/transcription" type="text/html"/>
       <podcast:chapters url="https://share.transistor.fm/s/fb0c1e85/chapters.json" type="application/json+chapters"/>
     </item>
     <item>
