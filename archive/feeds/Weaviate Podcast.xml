@@ -6,7 +6,7 @@
 ]]></description>
 		<link>https://weaviate.io/</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 11 Jun 2025 13:59:37 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Jun 2025 14:33:02 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/cffc3468/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Weaviate]]></author>
 		<copyright><![CDATA[Weaviate]]></copyright>
@@ -24,6 +24,22 @@
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/34794122/34794122-1704376570442-9264e631e6abf.jpg"/>
+		<item>
+			<title><![CDATA[RAG Benchmarks with Nandan Thakur - Weaviate Podcast #124!]]></title>
+			<description><![CDATA[<p>Nandan Thakur is a Ph.D. student at the University of Waterloo! Nandan has worked on many of the most impactful works in Retrieval-Augmented Generation (RAG) and Information Retrieval. His work ranges from benchmarks such as BEIR, MIRACLE, TREC, and FreshStack, to improving the training of embedding models and re-rankings, and more!</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/weaviate/episodes/RAG-Benchmarks-with-Nandan-Thakur---Weaviate-Podcast-124-e34n9i6</link>
+			<guid isPermaLink="false">61cba157-302f-4944-9f96-85f9ddff04a5</guid>
+			<dc:creator><![CDATA[Weaviate]]></dc:creator>
+			<pubDate>Wed, 25 Jun 2025 13:05:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/cffc3468/podcast/play/104621062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-25%2F26da8af9-1b15-05ed-a8d1-0412d9d8e7cb.mp3" length="126644175" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Nandan Thakur is a Ph.D. student at the University of Waterloo! Nandan has worked on many of the most impactful works in Retrieval-Augmented Generation (RAG) and Information Retrieval. His work ranges from benchmarks such as BEIR, MIRACLE, TREC, and FreshStack, to improving the training of embedding models and re-rankings, and more!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:04:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/34794122/34794122-1704376570442-9264e631e6abf.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[MUVERA with Rajesh Jayaram and Roberto Esposito - Weaviate Podcast #123!]]></title>
 			<description><![CDATA[<p>Multi-vector retrieval offers richer, more nuanced search, but often comes with a significant cost in storage and computational overhead. How can we harness the power of multi-vector representations without breaking the bank? Rajesh Jayaram, the first author of the groundbreaking MUVERA algorithm from Google, and Roberto Esposito from Weaviate, who spearheaded its implementation, reveal how MUVERA tackles this critical challenge.</p><p>Dive deep into MUVERA, a novel compression technique specifically designed for multi-vector retrieval. Rajesh and Roberto explain how it leverages contextualized token embeddings and innovative fixed dimensional encodings to dramatically reduce storage requirements while maintaining high retrieval accuracy. Discover the intricacies of quantization within MUVERA, the interpretability benefits of this approach, and how LSH clustering can play a role in topic modeling with these compressed representations.</p><p>This conversation explores the core mechanics of efficient multi-vector retrieval, the challenges of benchmarking these advanced systems, and the evolving landscape of vector database schemas designed to handle such complex data. Rajesh and Roberto also share their insights on the future directions in artificial intelligence where efficient, high-dimensional data representation is paramount.</p><p>Whether you&#39;re an AI researcher grappling with the scalability of vector search, an engineer building advanced retrieval systems, or fascinated by the cutting edge of information retrieval and AI frameworks, this episode delivers unparalleled insights directly from the source. You&#39;ll gain a fundamental understanding of MUVERA, practical considerations for its application in making multi-vector retrieval feasible, and a clear view of future directions in AI.</p>

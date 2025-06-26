@@ -12,8 +12,8 @@ Haas and his guests explore the drivers behind each leader’s path and analyze 
 Tech Unheard is a podcast from Arm, the company that’s building the future of computing.</description>
     <copyright>2024</copyright>
     <language>en</language>
-    <pubDate>Thu, 29 May 2025 09:45:00 +0000</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 09:45:10 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Jun 2025 09:45:00 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Jun 2025 09:45:11 +0000</lastBuildDate>
     <image>
       <link>https://tech-unheard.simplecast.com</link>
       <title>Tech Unheard</title>
@@ -37,6 +37,28 @@ Tech Unheard is a podcast from Arm, the company that’s building the future of 
     </itunes:owner>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
+    <item>
+      <guid isPermaLink="false">c2cf46f3-ac4e-4f92-aed3-17ae8e2a9825</guid>
+      <title>Mark Chen: On AI’s New Frontiers</title>
+      <description><![CDATA[<p>Before leading research at OpenAI, Mark Chen was a self-proclaimed “late-bloomer” to computer science. He pivoted from an initial career in finance to heading up OpenAI’s frontiers research, where he led the teams that created DALL-E, developed Codex, and incorporated visual perception into GPT-4.</p><p>Mark tells Rene about his roundabout path to AI research and about how he integrates research and product development to drive scientific progress at OpenAI.</p><p>Tech Unheard is a podcast from Arm. Find each episode in your podcast feed monthly. </p><p>The Future of AI is built on Arm.</p>
+<p><p>Tech Unheard is a custom podcast series from Arm and National Public Media. Executive Producers Erica Osher and Shannon Boerner. Project Manager Colin Harden. Creative Lead Producer Isabel Robertson. Editors Andrew Meriwether and Kelly Drake. Composer Aaron Levison. Arm production contributors include: Ami Badani (CMO), Claudia Brandon, Simon Jared (media), Jonathan Armstrong, Ben Webdell (creative), Sofia McKenzie (social), Kristen Ray (PR), and Saumil Shah (Chief of Staff to the CEO).</p></p>]]></description>
+      <pubDate>Wed, 25 Jun 2025 09:45:00 +0000</pubDate>
+      <author>armpodcast@npmcreative.com (Mark Chen, Rene Haas)</author>
+      <link>https://tech-unheard.simplecast.com/episodes/mark-chen-on-ais-new-frontiers-9Bd1sse2</link>
+      <content:encoded><![CDATA[<p>Before leading research at OpenAI, Mark Chen was a self-proclaimed “late-bloomer” to computer science. He pivoted from an initial career in finance to heading up OpenAI’s frontiers research, where he led the teams that created DALL-E, developed Codex, and incorporated visual perception into GPT-4.</p><p>Mark tells Rene about his roundabout path to AI research and about how he integrates research and product development to drive scientific progress at OpenAI.</p><p>Tech Unheard is a podcast from Arm. Find each episode in your podcast feed monthly. </p><p>The Future of AI is built on Arm.</p>
+<p><p>Tech Unheard is a custom podcast series from Arm and National Public Media. Executive Producers Erica Osher and Shannon Boerner. Project Manager Colin Harden. Creative Lead Producer Isabel Robertson. Editors Andrew Meriwether and Kelly Drake. Composer Aaron Levison. Arm production contributors include: Ami Badani (CMO), Claudia Brandon, Simon Jared (media), Jonathan Armstrong, Ben Webdell (creative), Sofia McKenzie (social), Kristen Ray (PR), and Saumil Shah (Chief of Staff to the CEO).</p></p>]]></content:encoded>
+      <enclosure length="28549335" type="audio/mpeg" url="https://afp-916107-injected.calisto.simplecastaudio.com/2197d625-2b9e-4f71-882b-4df7b4691f4f/episodes/c5d40b0b-40b9-4e25-a9c2-0929f1a683b7/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2197d625-2b9e-4f71-882b-4df7b4691f4f&amp;awEpisodeId=c5d40b0b-40b9-4e25-a9c2-0929f1a683b7&amp;feed=kF33foXN"/>
+      <itunes:title>Mark Chen: On AI’s New Frontiers</itunes:title>
+      <itunes:author>Mark Chen, Rene Haas</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/2913eb54-3cf8-4458-ab78-7a805574cbcc/bb7c05ce-6f8b-4813-b5b8-fd838405df18/3000x3000/tu-ep7-1080x1080-20-1.jpg?aid=rss_feed"/>
+      <itunes:duration>00:29:44</itunes:duration>
+      <itunes:summary>Mark Chen, Chief Research Officer at OpenAI, joins Arm CEO and host Rene Haas for a conversation about pioneering new frontiers in AI. </itunes:summary>
+      <itunes:subtitle>Mark Chen, Chief Research Officer at OpenAI, joins Arm CEO and host Rene Haas for a conversation about pioneering new frontiers in AI. </itunes:subtitle>
+      <itunes:keywords>data sets, future of ai, tech trends, artificial intelligence, ai</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">6f086fd8-2601-4525-be1f-75b11685764a</guid>
       <title>Alex Kendall: On Driving Wayve From The Garage Onto City Streets</title>

@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://seradio.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Software Engineering Radio - the podcast for professional software developers</title>
-		<pubDate>Wed, 18 Jun 2025 17:56:00 +0000</pubDate>
-		<lastBuildDate>Wed, 18 Jun 2025 18:16:46 +0000</lastBuildDate>
+		<pubDate>Wed, 25 Jun 2025 00:29:00 +0000</pubDate>
+		<lastBuildDate>Wed, 25 Jun 2025 00:42:59 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://www.se-radio.net</link>
 		<language>en-us</language>
@@ -38,6 +38,23 @@
 		<podcast:locked owner="team@se-radio.net">no</podcast:locked>
 		
 		<item>
+			<title>SE Radio 674: Vilhelm von Ehrenheim on Autonomous Testing</title>
+			<itunes:title>SE Radio 674: Vilhelm von Ehrenheim on Autonomous Testing</itunes:title>
+			<pubDate>Wed, 25 Jun 2025 00:29:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7e8baa38-f4e4-4bda-9cf0-4bcfce8fe0fa]]></guid>
+			<link><![CDATA[http://se-radio.net/se-radio-674-vilhelm-von-ehrenheim-on-autonomous-testing]]></link>
+			<description><![CDATA[<p><strong>Vilhelm von Ehrenheim</strong>, co-founder and chief AI officer of QA.tech, speaks with SE Radio's <a href= "https://se-radio.net/team/brijesh-ammanath/">Brijesh Ammanath</a> about autonomous testing.</p> <p>The discussion starts by covering the fundamentals, and how testing has evolved from manual to automated to now autonomous. Vilhelm then deep dives into the details of autonomous testing and the role of agents in autonomous testing.</p> <p>They consider the challenges in adopting autonomous testing, and Wilhelm describes the experiences of some clients who have made the transition. Toward the end of the show, Vilhelm describes the impact of autonomous testing on the traditional QA career and what test professionals can do to upskill.</p> <p style="text-align: center;" data-pm-slice="1 1 []">This episode is sponsored by <a href="https://www.fly.io?utm=seradio" target= "_blank" rel="noopener">Fly.io.</a><br /> <a href="https://www.fly.io?utm=seradio" target="_blank" rel= "noopener"><img class="aligncenter size-medium wp-image-9045" src= "https://se-radio.net/wp-content/uploads/2025/05/logo-landscape-e1747936323623.png" alt="Fly.io" width="300" height="89" /></a></p>]]></description>
+			<content:encoded><![CDATA[<p>Vilhelm von Ehrenheim, co-founder and chief AI officer of QA.tech, speaks with SE Radio's <a href= "https://se-radio.net/team/brijesh-ammanath/">Brijesh Ammanath</a> about autonomous testing.</p> <p>The discussion starts by covering the fundamentals, and how testing has evolved from manual to automated to now autonomous. Vilhelm then deep dives into the details of autonomous testing and the role of agents in autonomous testing.</p> <p>They consider the challenges in adopting autonomous testing, and Wilhelm describes the experiences of some clients who have made the transition. Toward the end of the show, Vilhelm describes the impact of autonomous testing on the traditional QA career and what test professionals can do to upskill.</p> <p style="text-align: center;" data-pm-slice="1 1 []">This episode is sponsored by <a href="https://www.fly.io?utm=seradio" target= "_blank" rel="noopener">Fly.io.</a> <a href="https://www.fly.io?utm=seradio" target="_blank" rel= "noopener"></a></p>]]></content:encoded>
+			<enclosure length="74317035" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/674-vilhelm-von-ehrenheim-autonomous-testing.mp3?dest-id=23379" />
+			<itunes:duration>49:49</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>testing,QA,AI,LLMs</itunes:keywords>
+			<itunes:subtitle><![CDATA[Vilhelm von Ehrenheim, co-founder and chief AI officer of QA.tech, speaks with SE Radio's  about autonomous testing. The discussion starts by covering the fundamentals, and how testing has evolved from manual to automated to now autonomous. Vilhelm...]]></itunes:subtitle>
+			<itunes:episode>674</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>SE Radio</itunes:author>
+		</item>
+		<item>
 			<title>SE Radio 673: Abhinav Kimothi on Retrieval-Augmented Generation</title>
 			<itunes:title>Abhinav Kimothi on Retrieval-Augmented Generation</itunes:title>
 			<pubDate>Wed, 18 Jun 2025 17:56:00 +0000</pubDate>
@@ -48,7 +65,7 @@
 			<enclosure length="83096190" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/673-abhinav-kimothi-rag.mp3?dest-id=23379" />
 			<itunes:duration>55:55</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>RAG,NLP,LLM,natural language processing,large language model,GenAI</itunes:keywords>
+			<itunes:keywords>RAG,NLP,llm,natural language processing,large language model,GenAI</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode of Software Engineering Radio, Abhinav Kimothi sits down with host Priyanka Raghavan to explore retrieval-augmented generation (RAG), drawing insights from Abhinav's book, A Simple Guide to Retrieval-Augmented Generation. The...]]></itunes:subtitle>
 			<itunes:episode>673</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +99,7 @@
 			<enclosure length="76638544" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/669-will-mcgugan-text-based-ui.mp3?dest-id=23379" />
 			<itunes:duration>51:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>python,terminal,cli,tui,command-line interface,text-based user interface</itunes:keywords>
+			<itunes:keywords>python,Terminal,cli,tui,command-line interface,text-based user interface</itunes:keywords>
 			<itunes:subtitle><![CDATA[Will McGugan, the CEO and founder of Textualize, speaks with host  about how to use packages such as Rich and Textual to build text-based user interfaces (TUIs) and command-line interfaces (CLIs) in Python. Along with discussing the design idioms that...]]></itunes:subtitle>
 			<itunes:episode>669</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -167,7 +184,7 @@
 			<enclosure length="91979154" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/666-eran-yahav-tabnine-coding-assistant.mp3?dest-id=23379" />
 			<itunes:duration>01:02:05</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Artificial Intelligence,coding assistant</itunes:keywords>
+			<itunes:keywords>artificial intelligence,coding assistant</itunes:keywords>
 			<itunes:subtitle><![CDATA[Eran Yahav, Professor of Computer Science at Technion, Israel, and CTO of Tabnine, speaks with host  about the Tabnine AI coding assistant. They discuss how the design and implementation allows software engineers to use code completion and perform...]]></itunes:subtitle>
 			<itunes:episode>666</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -201,7 +218,7 @@
 			<enclosure length="74735851" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/664-emre-baran-alex-olivier-stateless-decoupled-auth.mp3?dest-id=23379" />
 			<itunes:duration>51:54</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>security,frameworks,identity,OPA,authorization,Cerbos</itunes:keywords>
+			<itunes:keywords>security,frameworks,Identity,OPA,authorization,Cerbos</itunes:keywords>
 			<itunes:subtitle><![CDATA[Emre Baran, CEO and co-founder of Cerbos, and Alex Olivier, CPO and co-founder, join SE Radio host  to explore “stateless decoupled authorization frameworks. The discussion begins with an introduction to key terms, including authorization,...]]></itunes:subtitle>
 			<itunes:episode>664</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -218,7 +235,7 @@
 			<enclosure length="78104533" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/663-tyler-flint-managing-external-apis.mp3?dest-id=23379" />
 			<itunes:duration>52:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,testing,APIs,DevOps,observability</itunes:keywords>
+			<itunes:keywords>cloud,testing,APIs,DevOps,observability</itunes:keywords>
 			<itunes:subtitle><![CDATA[Tyler Flint, CEO of , joins host Robert Blumen for a conversation about managing external vendor dependencies, including several best practices for adoption. They start with a look at internal versus external services, including details such as the...]]></itunes:subtitle>
 			<itunes:episode>663</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -235,7 +252,7 @@
 			<enclosure length="83673274" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/662-vlad-khononov-balancing-coupling.mp3?dest-id=23379" />
 			<itunes:duration>56:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>design,integration,Balance,complex,modular,complexity,cohesion,modularity,coupling,resilient</itunes:keywords>
+			<itunes:keywords>design,integration,balance,complex,modular,complexity,cohesion,modularity,coupling,resilient</itunes:keywords>
 			<itunes:subtitle><![CDATA[Software architect and author Vlad Khononov joins host  for a discussion on balancing coupling in software design. They start by examining coupling and its relationship to complexity and modularity. Vlad explains the historical models for assessing...]]></itunes:subtitle>
 			<itunes:episode>662</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -252,7 +269,7 @@
 			<enclosure length="88212188" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/661-sunil-mallya-small-language-models.mp3?dest-id=23379" />
 			<itunes:duration>59:28</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>training,RAG,LLM,SLM,Enterprise Adoption,small language model,Retrieval-Augmented Generation</itunes:keywords>
+			<itunes:keywords>Training,RAG,llm,SLM,Enterprise Adoption,small language model,Retrieval-Augmented Generation</itunes:keywords>
 			<itunes:subtitle><![CDATA[Sunil Mallya, co-founder and CTO of Flip AI, discusses small language models with host . They begin by considering the technical distinctions between SLMs and large language models.  LLMs excel in generating complex outputs across various natural...]]></itunes:subtitle>
 			<itunes:episode>661</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -354,7 +371,7 @@
 			<enclosure length="82253955" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/655-charles-humble-professional-skills.mp3?dest-id=23379" />
 			<itunes:duration>55:20</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>networking,communication,presentation,documentation,critical thinking,soft skills,communication skills,systems thinking</itunes:keywords>
+			<itunes:keywords>networking,communication,presentation,documentation,Critical thinking,soft skills,communication skills,systems thinking</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode, Charles Humble speaks withhost  about skills that can provide developers a grounding in systems thinking. Charles is a 30-year veteran of the IT industry, including as a former software engineer, architect, and CTO, as...]]></itunes:subtitle>
 			<itunes:episode>655</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -405,7 +422,7 @@
 			<enclosure length="77201737" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/652-christian-mesh-opentofu.mp3?dest-id=23379" />
 			<itunes:duration>51:50</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,DevOps,Terraform,IaC,Open Source,Infrastructure as Code,Developer Tools</itunes:keywords>
+			<itunes:keywords>cloud,DevOps,Terraform,IaC,Open Source,Infrastructure as Code,Developer Tools</itunes:keywords>
 			<itunes:subtitle><![CDATA[Christian Mesh, tech lead of the  project, speaks with host  about OpenTofu. They start with the history of terraform, terraform providers, license changes to open source projects, the origin of OpenTofu as a fork of terraform, and the structure of...]]></itunes:subtitle>
 			<itunes:episode>652</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -456,7 +473,7 @@
 			<enclosure length="77467567" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/647-praveen-gujar-gen-ai-digital-ad-tech.mp3?dest-id=23379" />
 			<itunes:duration>52:01</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>digital advertising,Generative AI,large language models,Vector Embeddings,Vector search,GenAI,Fine-Tuning,audience targeting,Transformer Architectures,Content Personalization,ROI Measurement,Scalable Content Creation,Self-Attention Mechanisms</itunes:keywords>
+			<itunes:keywords>digital advertising,generative AI,large language models,Vector Embeddings,Vector search,GenAI,Fine-Tuning,audience targeting,Transformer Architectures,Content Personalization,ROI Measurement,Scalable Content Creation,Self-Attention Mechanisms</itunes:keywords>
 			<itunes:subtitle><![CDATA[Praveen Gujar, Director of Product at LinkedIn, joins SE Radio host Kanchan Shringi for a discussion on how generative AI (GenAI) is transforming digital advertising technology platforms. The conversation starts with a look at how GenAI facilitates...]]></itunes:subtitle>
 			<itunes:episode>647</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -490,7 +507,7 @@
 			<enclosure length="70162612" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/648-matt-adams-threat-modeling-stride-gpt.mp3?dest-id=23379" />
 			<itunes:duration>46:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>python,cybersecurity,LLM,openai,Application Security,GenAI,threat modelling</itunes:keywords>
+			<itunes:keywords>python,cybersecurity,llm,OpenAI,Application Security,GenAI,threat modelling</itunes:keywords>
 			<itunes:subtitle><![CDATA[Matthew Adams, Head of Security Enablement at Citi, joins SE Radio host Priyanka Raghavan to explore the use of large language models in threat modeling, with a special focus on Matthew's work, Stride GPT. The episode kicks off with an overview of...]]></itunes:subtitle>
 			<itunes:episode>648</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -507,7 +524,7 @@
 			<enclosure length="84853182" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/646-matthew-skelton-team-topologies.mp3?dest-id=23379" />
 			<itunes:duration>57:08</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>teams,flow,Agile,teamwork,psychological safety,cognitive load,team topologies,conways law</itunes:keywords>
+			<itunes:keywords>teams,flow,agile,teamwork,psychological safety,cognitive load,team topologies,conways law</itunes:keywords>
 			<itunes:subtitle><![CDATA[Matthew Skelton joins host  to talk about team topologies—an approach to organizing teams for fast flow of value. The episode starts with a description of the underlying principles before exploring the approach in more detail. From there, they...]]></itunes:subtitle>
 			<itunes:episode>646</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -728,7 +745,7 @@
 			<enclosure length="88515248" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/633-itamar-friedman-testing-generative-ai.mp3?dest-id=23379" />
 			<itunes:duration>59:41</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>testing,AI,LLM,large language model</itunes:keywords>
+			<itunes:keywords>testing,AI,llm,large language model</itunes:keywords>
 			<itunes:subtitle><![CDATA[Itamar Friedman, the CEO and co-founder of CodiumAI, speaks with host Gregory M. Kapfhammer about how to use generative AI techniques to support automated software testing. Their discussion centers around the design and use of Cover-Agent, an...]]></itunes:subtitle>
 			<itunes:episode>633</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -779,7 +796,7 @@
 			<enclosure length="65929372" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/630-luis-rodriguez-ssh-backdoor-attack.mp3?dest-id=23379" />
 			<itunes:duration>44:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>security,supply chain,Open Source,C language,Threat Modeling</itunes:keywords>
+			<itunes:keywords>security,Supply Chain,Open Source,C language,Threat Modeling</itunes:keywords>
 			<itunes:subtitle><![CDATA[Luis Rodríguez, CTO of Xygeni.io, joins host  for a discussion of the recently thwarted attempt to insert a backdoor in the SSH (Secure Shell) daemon. OpenSSH is a popular implementation of the protocol used in major Linux distributions for...]]></itunes:subtitle>
 			<itunes:episode>630</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -796,7 +813,7 @@
 			<enclosure length="52364876" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/629-emily-bache-katas.mp3?dest-id=23379" />
 			<itunes:duration>51:52</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>training,Agile,testing,refactoring,kata,Samman,mob programming,ensemble programming</itunes:keywords>
+			<itunes:keywords>Training,agile,testing,refactoring,kata,Samman,mob programming,ensemble programming</itunes:keywords>
 			<itunes:subtitle><![CDATA[Emily Bache, founder of the Samman Technical Coaching Society and author of several books about technical agile coaching, talks with SE Radio host Sam Taggart about katas and the importance of practice. They discuss how practicing in a safe...]]></itunes:subtitle>
 			<itunes:episode>629</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -830,7 +847,7 @@
 			<enclosure length="84818469" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/627-Chuck-Weindorf-leaders-and-software-engineers.mp3?dest-id=23379" />
 			<itunes:duration>57:07</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>design,software,systems,role,leadership,engineering,architecture,architect,responsibility</itunes:keywords>
+			<itunes:keywords>design,software,systems,role,leadership,engineering,architecture,architect,Responsibility</itunes:keywords>
 			<itunes:subtitle><![CDATA[Chuck Weindorf, a retired IT director and chief engineer with nearly 40 years' experience in software engineering, joins host Jeff Doolittle for a conversation about the concepts in Chuck's book, Leaders & Software Engineers. Through personal...]]></itunes:subtitle>
 			<itunes:episode>627</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -847,7 +864,7 @@
 			<enclosure length="59749381" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/626-ipek-ozkaya-genAI-software-architecture.mp3?dest-id=23379" />
 			<itunes:duration>59:33</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Copilot,LLM,Generative AI,large language models,gen ai,Software Architecture</itunes:keywords>
+			<itunes:keywords>Copilot,llm,generative AI,large language models,gen ai,Software Architecture</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ipek Ozkaya, Principal Researcher and Technical Director of the Engineering Intelligent Software Systems group at the Software Engineering Institute, Carnegie Mellon, discusses generative AI for Software Architecture with SE Radio host Priyanka...]]></itunes:subtitle>
 			<itunes:episode>626</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -949,7 +966,7 @@
 			<enclosure length="88539640" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/620-parker_selbert_and_shannon_selbert_on_elixir.mp3?dest-id=23379" />
 			<itunes:duration>59:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Jobs,Beam,workers,nerves,sqlite,Elixir,Consistency,reliability,queues,PostgreSQL,nodes,oban,telemetry,observability,retry algorithms</itunes:keywords>
+			<itunes:keywords>jobs,Beam,workers,Nerves,sqlite,Elixir,consistency,reliability,queues,PostgreSQL,nodes,oban,telemetry,observability,retry algorithms</itunes:keywords>
 			<itunes:subtitle><![CDATA[Shannon Selbert, co-founder of Soren and developer of Oban, and Parker Selbert, creator of the Oban background job framework, chief architect at dscout, and co-founder of Soren, speak with SE Radio host  about robust job processing in Elixir....]]></itunes:subtitle>
 			<itunes:episode>620</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1017,7 +1034,7 @@
 			<enclosure length="81671061" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/616_ori_saporta_software_architect_role.mp3?dest-id=23379" />
 			<itunes:duration>54:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>design,software,systems,role,engineering,architecture,architect,responsibility</itunes:keywords>
+			<itunes:keywords>design,software,systems,role,engineering,architecture,architect,Responsibility</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ori Saporta, co-founder and Systems Architect at vFunction, joins host Jeff Doolittle for a conversation about the role of the software architect. The episode begins with Ori’s thoughts on what is typically missed or overlooked regarding this role....]]></itunes:subtitle>
 			<itunes:episode>616</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1051,7 +1068,7 @@
 			<enclosure length="83627214" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/613_shachar_binyamin_graphql_security.mp3?dest-id=23379" />
 			<itunes:duration>56:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>security,Developer,graphql,DevSecOps,software development,software engineering</itunes:keywords>
+			<itunes:keywords>security,developer,graphql,DevSecOps,software development,software engineering</itunes:keywords>
 			<itunes:subtitle><![CDATA[Shahar Binyamin, CEO and co-founder of Inigo, joins host Priyanka Raghavan to discuss GraphQL security. They begin with a look at the state of adoption of GraphQL and why it's so popular. From there, they consider why GraphQL security is important as...]]></itunes:subtitle>
 			<itunes:episode>613</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1119,7 +1136,7 @@
 			<enclosure length="96317082" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/610-phillip_carter_observability_for_large_language_models.mp3?dest-id=23379" />
 			<itunes:duration>01:05:06</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI,LLM,observability,Artificial Intelligence,large language models,Observability Driven Development</itunes:keywords>
+			<itunes:keywords>AI,llm,observability,artificial intelligence,large language models,Observability Driven Development</itunes:keywords>
 			<itunes:subtitle><![CDATA[Phillip Carter, Principal Product Manager at Honeycomb and open source software developer, talks with host  about observability for large language models (LLMs). The episode explores similarities and differences for observability with LLMs versus more...]]></itunes:subtitle>
 			<itunes:episode>610</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1136,7 +1153,7 @@
 			<enclosure length="49652461" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/603_rishi_singh_using_genai_for_test_code_generation.mp3?dest-id=23379" />
 			<itunes:duration>49:02</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>software development,software engineering,Test Automation,Generative AI,large language models,LLMs,large language model,GenAI,Test Code Generation</itunes:keywords>
+			<itunes:keywords>software development,software engineering,Test Automation,generative AI,large language models,LLMs,large language model,GenAI,Test Code Generation</itunes:keywords>
 			<itunes:subtitle><![CDATA[Rishi Singh, founder and CEO at Sapient.ai, speaks with SE radio’s  about using generative AI to help developers automate test code generation. They start by identifying key problems that developers are looking for in an automated test-generation...]]></itunes:subtitle>
 			<itunes:episode>603</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1238,7 +1255,7 @@
 			<enclosure length="66934909" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/604_karl_wiegers_candase_hokanson_software_requirements_essentials.mp3?dest-id=23379" />
 			<itunes:duration>01:07:02</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Management,Models,users,testing,features,sets,prototypes,specifications,baselines,requirements engineering,software requirements</itunes:keywords>
+			<itunes:keywords>Management,models,Users,testing,features,sets,prototypes,specifications,baselines,requirements engineering,software requirements</itunes:keywords>
 			<itunes:subtitle><![CDATA[Karl Wiegers, Principal Consultant with Process Impact and author of 14 books, and Candase Hokanson, Business Architect and PMI-Agile Certified Practitioner at ArgonDigital, speak with SE Radio host  about software requirements essentials....]]></itunes:subtitle>
 			<itunes:episode>604</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1306,7 +1323,7 @@
 			<enclosure length="66701912" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/599_jason_mcdonald_quantified_tasks.mp3?dest-id=23379" />
 			<itunes:duration>44:32</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>planning,stability,Processes,estimation,project management</itunes:keywords>
+			<itunes:keywords>Planning,stability,Processes,estimation,project management</itunes:keywords>
 			<itunes:subtitle><![CDATA[Jason C. McDonald, author of the book Dead Simple Python, speaks with host  about leveraging quantified tasks to improve estimation, particularly across projects. They discuss the origin of the concept and its relationship with story points, and Jason...]]></itunes:subtitle>
 			<itunes:episode>599</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1323,7 +1340,7 @@
 			<enclosure length="100244870" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/598_Jonathan_Crossland_on_AMMERSE.mp3?dest-id=23379" />
 			<itunes:duration>01:07:50</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>change,Management,values,Agile,process,agility,systems thinking,leadership. alignment,gap analysis</itunes:keywords>
+			<itunes:keywords>change,Management,values,agile,process,agility,systems thinking,leadership. alignment,gap analysis</itunes:keywords>
 			<itunes:subtitle><![CDATA[Jonathan Crossland, software architect, author, and business owner, joins host  for a conversation about the AMMERSE framework of design principles. They start by discussing the agile manifesto as a statement of values, and Jonathan shares his...]]></itunes:subtitle>
 			<itunes:episode>598</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1374,7 +1391,7 @@
 			<enclosure length="91821955" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/595_Llewelyn_Falco_on_Approval_Testing.mp3?dest-id=23379" />
 			<itunes:duration>01:03:34</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Agile,testing,Processes,ieee,approvals,IEEE Computer Society,Open Source</itunes:keywords>
+			<itunes:keywords>agile,testing,Processes,ieee,approvals,IEEE Computer Society,Open Source</itunes:keywords>
 			<itunes:subtitle><![CDATA[Llewelyn Falco, creator approval tests, talks with SE Radio host Sam Taggart about testing code in general and the various types of testing that developers perform. Llewelyn elaborates on how approval tests can help test code at a higher level than...]]></itunes:subtitle>
 			<itunes:episode>595</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1408,7 +1425,7 @@
 			<enclosure length="91603336" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/593_eric_olden_identity_orchestration.mp3?dest-id=23379" />
 			<itunes:duration>01:03:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,IAM,orchestration,Identity Management,Multi-Cloud</itunes:keywords>
+			<itunes:keywords>cloud,IAM,orchestration,Identity Management,Multi-Cloud</itunes:keywords>
 			<itunes:subtitle><![CDATA[Eric Olden talks with host  about identity orchestration, a software approach for managing distributed identity and access management (IAM) and integrating multiple identity systems or providers (IDPs) to make them look like a single system from a...]]></itunes:subtitle>
 			<itunes:episode>593</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1459,7 +1476,7 @@
 			<enclosure length="78382822" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/590_andy_suderman_standing_up_kubernetes.mp3?dest-id=23379" />
 			<itunes:duration>54:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,security,DNS,DevOps,Kubernetes</itunes:keywords>
+			<itunes:keywords>cloud,security,dns,DevOps,Kubernetes</itunes:keywords>
 			<itunes:subtitle><![CDATA[Andy Suderman, CTO of Fairwinds, joins host  to talk about standing up a kubernetes cluster. Their discussion covers build-your-own versus managed clusters provided by cloud services, and how to determine the number of kubernetes clusters an...]]></itunes:subtitle>
 			<itunes:episode>590</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1544,7 +1561,7 @@
 			<enclosure length="62734948" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/585_adam_frank_continuous_delivery_vs_continuous_deployment.mp3?dest-id=23379" />
 			<itunes:duration>43:22</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>ci,Canary,CD,Change Management,continuous delivery,Continuous Integration,continuous deployment,Blue Green</itunes:keywords>
+			<itunes:keywords>ci,Canary,CD,change management,continuous delivery,Continuous Integration,continuous deployment,Blue Green</itunes:keywords>
 			<itunes:subtitle><![CDATA[Adam Frank, SVP of Product and Marketing at Armory.io, speaks with SE Radio’s  about continuous integration, continuous delivery, and continuous deployment – and how they differ. Frank suggests that organizations begin by identifying how the CI/CD...]]></itunes:subtitle>
 			<itunes:episode>585</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1561,7 +1578,7 @@
 			<enclosure length="58673874" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/584_charles_weir_ruthless_security.mp3?dest-id=23379" />
 			<itunes:duration>01:00:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>security,classification,prioritization,risk management,Software Engineer,risk assessment,SE Radio</itunes:keywords>
+			<itunes:keywords>security,classification,prioritization,Risk Management,Software Engineer,risk assessment,SE Radio</itunes:keywords>
 			<itunes:subtitle><![CDATA[Charles Weir—developer, security researcher, and Research Fellow at Security Lancaster—joins host  to discuss an approach that development teams can use to create secure systems without wasting effort on unnecessary security work. The episode...]]></itunes:subtitle>
 			<itunes:episode>584</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1595,7 +1612,7 @@
 			<enclosure length="90089931" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/582_Leo_Porter_Daniel_Zingaro_LLMs_in_the_Classroom.mp3?dest-id=23379" />
 			<itunes:duration>01:02:22</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>education,LLM,SE Radio,large language models</itunes:keywords>
+			<itunes:keywords>Education,llm,SE Radio,large language models</itunes:keywords>
 			<itunes:subtitle><![CDATA[Dr. Daniel Zingaro and Dr. Leo Porter, co-authors of the book Learn AI-Assisted Python Programming, speak with host  about teaching programming with the aid of large language models (LLMs). They discuss writing a book to use in Leo's introductory CS...]]></itunes:subtitle>
 			<itunes:episode>582</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1627,7 +1644,7 @@
 			<enclosure length="98910966" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/580_Josh_Doody_Mastering_Business_Communication_for_Software_Engineers.mp3?dest-id=23379" />
 			<itunes:duration>01:08:29</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>meetings,business communication,IEEE Computer Society,active listening</itunes:keywords>
+			<itunes:keywords>meetings,Business Communication,IEEE Computer Society,active listening</itunes:keywords>
 			<itunes:subtitle><![CDATA[Josh Doody, author of Mastering Business Email, speaks with host  about how software engineers can master business communication. They begin with an exploration of various communication modes, including Slack, virtual meetings, emails, and...]]></itunes:subtitle>
 			<itunes:episode>580</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1771,7 +1788,7 @@
 			<enclosure length="86157034" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/571_jeroen_mulder_multi-cloud_governance.mp3?dest-id=23379" />
 			<itunes:duration>59:38</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>networking,Cloud,security,Enterprise,software engineering,SE Radio</itunes:keywords>
+			<itunes:keywords>networking,cloud,security,Enterprise,software engineering,SE Radio</itunes:keywords>
 			<itunes:subtitle><![CDATA[Jeroen Mulder, author of , joins host  for a discussion of public cloud, private cloud, and multi-cloud computing architectures and trends. They start by considering what defines cloud computing and what differentiates the major cloud providers,...]]></itunes:subtitle>
 			<itunes:episode>571</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1835,7 +1852,7 @@
 			<enclosure length="84462276" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/567_dave_cross_github_actions.mp3?dest-id=23379" />
 			<itunes:duration>58:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Jenkins,identity,permissions,Perl,runners,idm,Cron,yaml,docker,onprem,cicd,circleci,IEEE Computer Society,SE Radio,Continuous Integration,continuous deployment,github actions,yml,self-hosted</itunes:keywords>
+			<itunes:keywords>Jenkins,Identity,permissions,Perl,runners,idm,Cron,yaml,docker,onprem,cicd,circleci,IEEE Computer Society,SE Radio,Continuous Integration,continuous deployment,github actions,yml,self-hosted</itunes:keywords>
 			<itunes:subtitle><![CDATA[Dave Cross, owner of Magnum Solutions and author of GitHub Actions Essentials (Clapham Technical Press), speaks with SE Radio host  about GitHub actions, the value they provide, and the best practices for using them in your projects. Cross describes...]]></itunes:subtitle>
 			<itunes:episode>567</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -1867,7 +1884,7 @@
 			<enclosure length="87375964" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/565_luca_galante_platform_engineering.mp3?dest-id=23379" />
 			<itunes:duration>01:00:06</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>engineering,Ops,platform,DevOps,Servant Leadership,self service,SE Radio,technical empathy</itunes:keywords>
+			<itunes:keywords>engineering,Ops,Platform,DevOps,Servant Leadership,self service,SE Radio,technical empathy</itunes:keywords>
 			<itunes:subtitle><![CDATA[Luca Galante, head of product at Humanitec, joins host  for a conversation about platform engineering. They begin by defining platform engineering and its relationship to, and distinction from, DevOps. Tracing platform engineering's history, Luca...]]></itunes:subtitle>
 			<itunes:episode>565</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2027,7 +2044,7 @@
 			<enclosure length="87465115" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/555_on_freund_upskilling.mp3?dest-id=23379" />
 			<itunes:duration>01:00:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>training,learning,ieee,upskilling,reskilling,career development,IEEE Computer Society,SE Radio,engineering management</itunes:keywords>
+			<itunes:keywords>Training,learning,ieee,upskilling,reskilling,career development,IEEE Computer Society,SE Radio,engineering management</itunes:keywords>
 			<itunes:subtitle><![CDATA[On Freund, founder of Wilco and former VP of Engineering at WeWork, speaks with SE Radio’s  about “upskilling” –  going deeper or increasing the breadth of your skills. On has years of experience in helping developers master the skills needed...]]></itunes:subtitle>
 			<itunes:episode>555</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2075,7 +2092,7 @@
 			<enclosure length="91819018" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/552_matt_frisbie_browser_extensions.mp3?dest-id=23379" />
 			<itunes:duration>01:03:43</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Honey,safari,ieee,LastPass,Chromium,Software Engineer,SE Radio,browser extension,ad blocker,manifest V2,manifest V3,popup scripts,service worker,content script,computer society</itunes:keywords>
+			<itunes:keywords>Honey,Safari,ieee,LastPass,Chromium,Software Engineer,SE Radio,browser extension,ad blocker,manifest V2,manifest V3,popup scripts,service worker,content script,computer society</itunes:keywords>
 			<itunes:subtitle><![CDATA[Matt Frisbie, author of Building Browser Extensions, speaks with host  about browser extensions, including key areas where they've been successful. Based on Matt’s experience as a developer working for Google, Doordash, and a startup he founded,...]]></itunes:subtitle>
 			<itunes:episode>552</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2109,7 +2126,7 @@
 			<enclosure length="84108018" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/549_JR_storment_mike_fuller_cloud_finops.mp3?dest-id=23379" />
 			<itunes:duration>58:12</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,finance,Azure,operations,forecasting,IaaS,AWS,DevOps,gcp,FinOps,financial modeling,SE Radio,Cloud FinOps,reserved instances,Software Engineering Radio</itunes:keywords>
+			<itunes:keywords>cloud,Finance,Azure,operations,forecasting,IaaS,AWS,DevOps,gcp,FinOps,financial modeling,SE Radio,Cloud FinOps,reserved instances,Software Engineering Radio</itunes:keywords>
 			<itunes:subtitle><![CDATA[J.R. Storment and Mike Fuller discuss cloud financial operations (FinOps) with host Akshay Manchale. They consider the importance of a financial operations strategy for cloud-based infrastructure. J.R. and Mike discuss the differences between...]]></itunes:subtitle>
 			<itunes:episode>550</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2235,7 +2252,7 @@
 			<enclosure length="82314183" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/543-jon-smart-agile-patterns.mp3?dest-id=23379" />
 			<itunes:duration>57:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Agile,lean,DevOps,SE-Radio,IEEE Computer Society,enterprise software,Development Leadership</itunes:keywords>
+			<itunes:keywords>podcast,agile,lean,DevOps,SE-Radio,IEEE Computer Society,enterprise software,Development Leadership</itunes:keywords>
 			<itunes:subtitle><![CDATA[Jon Smart, author of the book Sooner Safer Happier: Patterns and Antipatterns for Business Agility, discusses patterns and anti-patterns for the success of enterprise software projects. Host Brijesh Ammanath speaks with him about the various common...]]></itunes:subtitle>
 			<itunes:episode>543</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2271,7 +2288,7 @@
 			<enclosure length="74822920" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/541-jordan-harband-donald-fisher-securing-the-supply-chain.mp3?dest-id=23379" />
 			<itunes:duration>51:48</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,security,opensource,supplychain,cicd,seradio,ieeecomputersociety,buildtools</itunes:keywords>
+			<itunes:keywords>podcast,security,opensource,SupplyChain,cicd,seradio,ieeecomputersociety,buildtools</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>541</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2323,7 +2340,7 @@
 			<enclosure length="69491680" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/538-roberto-di-cosmo-archiving-public-software-at-massive-scale.mp3?dest-id=23379" />
 			<itunes:duration>01:12:06</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>software,security,Azure,mirrors,Archive,Graphics,Archiving,redundancy,AWS,GitHub,cryptography,hashes,GitLab,supply chain,Open Source,objectstore,object database,distributed architecture,bare metal</itunes:keywords>
+			<itunes:keywords>software,security,Azure,mirrors,Archive,Graphics,Archiving,redundancy,AWS,GitHub,cryptography,hashes,GitLab,Supply Chain,Open Source,objectstore,object database,distributed architecture,bare metal</itunes:keywords>
 			<itunes:subtitle><![CDATA[Roberto Di Cosmo, Computer Science professor at University Paris Diderot and founder of the Software Heritage initiative, discusses how to protect against sudden loss from the collapse of a "free" source code repository provider, how to protect...]]></itunes:subtitle>
 			<itunes:episode>538</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2502,7 +2519,7 @@
 			<enclosure length="81347224" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/528-jonathan-shariat-designing-to-avoid-worst-case-outcomes.mp3?dest-id=23379" />
 			<itunes:duration>56:20</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,design,UI,accessibility,ux,SE-Radio,IEEE Computer Society,Dark Patterns</itunes:keywords>
+			<itunes:keywords>podcast,design,UI,Accessibility,ux,SE-Radio,IEEE Computer Society,Dark Patterns</itunes:keywords>
 			<itunes:subtitle><![CDATA[Jonathan Shariat, coauthor of the book Tragic Design, discusses harmful software design. SE Radio host Jeremy Jung speaks with Shariat about how poor design can kill in the medical industry, accidentally causing harm with features meant to bring joy...]]></itunes:subtitle>
 			<itunes:episode>528</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2574,7 +2591,7 @@
 			<enclosure length="83107816" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/524-abi-noda-developer-experience.mp3?dest-id=23379" />
 			<itunes:duration>57:40</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>happy,productivity,satisfaction,DX,IEEE Computer Society,developer experience,development practices,Podcast. SE-Radio</itunes:keywords>
+			<itunes:keywords>happy,Productivity,satisfaction,DX,IEEE Computer Society,developer experience,development practices,Podcast. SE-Radio</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode, Abi Noda, founder of Pull Panda and DX, discusses developer experience with SE Radio host Brijesh Ammanath. They examine the basic concept of DX and its importance before diving into a wide variety of issues, including methodologies...]]></itunes:subtitle>
 			<itunes:episode>524</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2592,7 +2609,7 @@
 			<enclosure length="92722076" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/523-jessi-ashdown-uri-gilad-data-governance.mp3?dest-id=23379" />
 			<itunes:duration>01:04:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,data,Policy,CloudComputing,cloudstorage,CCPA,datamanagement,dataretention,GDPR,datagovernance,RBAC,dataculture,seradio,ieeecomputersociety,datalocality,rolebasedaccess</itunes:keywords>
+			<itunes:keywords>podcast,data,policy,CloudComputing,cloudstorage,CCPA,datamanagement,dataretention,GDPR,datagovernance,RBAC,dataculture,seradio,ieeecomputersociety,datalocality,rolebasedaccess</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>523</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2644,7 +2661,7 @@
 			<enclosure length="93378116" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/520-john-ousterhout-philosophy-software-design.mp3?dest-id=23379" />
 			<itunes:duration>01:04:39</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,design,systems,Philosophy,engineering,architecture,encapsulation,abstraction,SE-Radio,IEEE Computer Society,software design</itunes:keywords>
+			<itunes:keywords>podcast,design,systems,philosophy,engineering,architecture,encapsulation,abstraction,SE-Radio,IEEE Computer Society,software design</itunes:keywords>
 			<itunes:subtitle><![CDATA[John Ousterhout, professor of computer science at Stanford University, joined SE Radio host Jeff Doolittle for a conversation about his book, A Philosophy of Software Design. They discussed the history and ongoing challenges of software system design,...]]></itunes:subtitle>
 			<itunes:episode>520</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2769,7 +2786,7 @@
 			<enclosure length="74072869" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/513-gil-hoffer-applying-devops-practices-to-managing-business-applications.mp3?dest-id=23379" />
 			<itunes:duration>51:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Cloud,configuration,saas,tooling,BusinessSystems,lowcode,seradio,ieeecomputersociety,businessengineer,applicationlifecycle</itunes:keywords>
+			<itunes:keywords>podcast,cloud,configuration,saas,tooling,BusinessSystems,lowcode,seradio,ieeecomputersociety,businessengineer,applicationlifecycle</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>513</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2784,7 +2801,7 @@
 			<itunes:image href="https://static.libsyn.com/p/assets/d/a/2/a/da2a79b9ed1e0e2c88c4a68c3ddbc4f2/513-gil-hoffer-applying-devops-practices-to-managing-business-applications.jpg" />
 			<description><![CDATA[<p>Gill Hoffer, co-founder and CTO at Salto, talks with SE Radio host Kanchan Shringi about a new persona -- the Business Engineer -- created by the rise of SaaS and adoption of best-of-breed business applications for back office systems. They examine...</p>]]></description>
 			<content:encoded><![CDATA[<p>Gill Hoffer, co-founder and CTO at Salto, talks with SE Radio host Kanchan Shringi about a new persona -- the Business Engineer -- created by the rise of SaaS and adoption of best-of-breed business applications for back office systems. They examine...</p>]]></content:encoded>
-			<itunes:keywords>podcast,Cloud,configuration,saas,tooling,BusinessSystems,lowcode,seradio,ieeecomputersociety,businessengineer,applicationlifecycle</itunes:keywords>
+			<itunes:keywords>podcast,cloud,configuration,saas,tooling,BusinessSystems,lowcode,seradio,ieeecomputersociety,businessengineer,applicationlifecycle</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>513</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2926,7 +2943,7 @@
 			<enclosure length="91354790" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/505-daniel-stenberg-25-years-with-curl.mp3?dest-id=23379" />
 			<itunes:duration>01:03:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>security,mars,Apple,curl,JSON,Android,Cares,DNS,rust,openssl,http2,cicd,seradio,QUIC,cprogramming,libcurl,polhemprize,libssh2,httpbis,wolfssl</itunes:keywords>
+			<itunes:keywords>security,mars,Apple,curl,JSON,Android,Cares,dns,rust,openssl,http2,cicd,seradio,QUIC,cprogramming,libcurl,polhemprize,libssh2,httpbis,wolfssl</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>505</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2940,7 +2957,7 @@
 			<link><![CDATA[http://se-radio.net/episode-505-daniel-stenberg-on-25-years-with-curl]]></link>
 			<description><![CDATA[<p><span style="font-weight: 400;">Daniel Stenberg, founder and lead developer of cURL and libcurl, and winner of the Polhem Prize, discusses the history of the project, key events in the project timeline, war stories, favorite command line options and various experiences from 25 years of developing an Open Source project.</span></p>]]></description>
 			<content:encoded><![CDATA[<p>Daniel Stenberg, founder and lead developer of cURL and libcurl, and winner of the Polhem Prize, discusses the history of the project, key events in the project timeline, war stories, favorite command line options and various experiences from 25 years of developing an Open Source project.</p>]]></content:encoded>
-			<itunes:keywords>security,mars,Apple,curl,JSON,Android,Cares,DNS,rust,openssl,http2,cicd,seradio,QUIC,cprogramming,libcurl,polhemprize,libssh2,httpbis,wolfssl</itunes:keywords>
+			<itunes:keywords>security,mars,Apple,curl,JSON,Android,Cares,dns,rust,openssl,http2,cicd,seradio,QUIC,cprogramming,libcurl,polhemprize,libssh2,httpbis,wolfssl</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>505</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2957,7 +2974,7 @@
 			<enclosure length="83537410" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/504-frank-mcsherry-materialize.mp3?dest-id=23379" />
 			<itunes:duration>57:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,sql,Databases,analytics,OLAP,cap,Consistency,kafka,distributedsystems,datawarehouses,OLTP,datalakes,seradio,ieeecomputersociety,Materialize,streamingdatabases</itunes:keywords>
+			<itunes:keywords>podcast,sql,Databases,Analytics,OLAP,Cap,consistency,kafka,distributedsystems,datawarehouses,OLTP,datalakes,seradio,ieeecomputersociety,Materialize,streamingdatabases</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>504</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3119,7 +3136,7 @@
 			<enclosure length="87885473" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-495-Vaughn-Vernon-on-Strategic-Monoliths-and-Microservices.mp3?dest-id=23379" />
 			<itunes:duration>01:00:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Books,leadership,architecture,DDD,domaindrivendesign,softwarearchitecture,softwaredesign,microservices,reactiveprogramming,monoliths,seradio,ieeecomputersociety,boundedcontexts,purposefularchitecture,technicalleaders,conwayslaw</itunes:keywords>
+			<itunes:keywords>podcast,books,leadership,architecture,DDD,domaindrivendesign,softwarearchitecture,softwaredesign,microservices,reactiveprogramming,monoliths,seradio,ieeecomputersociety,boundedcontexts,purposefularchitecture,technicalleaders,conwayslaw</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>495</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3188,7 +3205,7 @@
 			<enclosure length="66472016" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-492-Sam-Scott-on-Building-a-Consistent-and-Global-Authorization-Service.mp3?dest-id=23379" />
 			<itunes:duration>46:01</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,security,Policy,permissions,authorization,seradio,ieeecomputersociety</itunes:keywords>
+			<itunes:keywords>podcast,security,policy,permissions,authorization,seradio,ieeecomputersociety</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>492</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3278,7 +3295,7 @@
 			<enclosure length="103238590" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-487-Davide-Bedin-on-Dapr-Distributed-Application-Runtime.mp3?dest-id=23379" />
 			<itunes:duration>01:11:32</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,service,Cloud,distributed,application,native,Runtime,component,decoupled,seradio,ieeecomputersociety,informationhiding</itunes:keywords>
+			<itunes:keywords>podcast,service,cloud,distributed,application,native,Runtime,component,decoupled,seradio,ieeecomputersociety,informationhiding</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>487</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3386,7 +3403,7 @@
 			<enclosure length="58111159" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-481-Ipek-Ozkaya-on-Managing-Technical-Debt.mp3?dest-id=23379" />
 			<itunes:duration>01:00:18</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,quality,tech,software,debt,Code,architecture,cost,technical,TechnicalDebt,seradio,ieeecomputersociety,techdebt</itunes:keywords>
+			<itunes:keywords>podcast,quality,Tech,software,debt,Code,architecture,cost,technical,TechnicalDebt,seradio,ieeecomputersociety,techdebt</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>481</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3566,7 +3583,7 @@
 			<enclosure length="98085199" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-471-Jason-Meller-on-Choosing-the-Right-Tech-Stack-for-a-Greenfield-Project.mp3?dest-id=23379" />
 			<itunes:duration>01:08:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,mobile,NET,GO,Java,react,AI,Node,Android,rails,saas,iOS,ML,JVM,blockchain,fintech,seradio,ieeecomputersociety,techstack</itunes:keywords>
+			<itunes:keywords>podcast,mobile,NET,GO,Java,react,AI,Node,Android,rails,saas,iOS,ML,JVM,Blockchain,FinTech,seradio,ieeecomputersociety,techstack</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>471</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3584,7 +3601,7 @@
 			<enclosure length="93044444" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-470-L.-Peter-Deutsch-on-the-Fallacies-of-Distributed-Computing.mp3?dest-id=23379" />
 			<itunes:duration>01:04:30</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,io,Network,Computing,architecture,Message,distributed,messaging,fallacy,reliability,Reliable,fallacies,seradio,ieeecomputersociety</itunes:keywords>
+			<itunes:keywords>podcast,io,Network,computing,architecture,message,distributed,messaging,fallacy,reliability,Reliable,fallacies,seradio,ieeecomputersociety</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>470</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3602,7 +3619,7 @@
 			<enclosure length="68264747" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-469-Dhruba-Borthakur-on-Embedding-Real-time-Analytics-in-Applications.mp3?dest-id=23379" />
 			<itunes:duration>01:10:55</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,streaming,alt,analytics,realtime,seradio,ieeecomputersociety,hdfs,unifiedindex,convergedindex,aggregatorleaftailer,writetimeanalytics,readtimeanalytics,realtimeindexing,lowquerylatency,flexibledatamodel,schemalessingestion</itunes:keywords>
+			<itunes:keywords>podcast,streaming,alt,Analytics,realtime,seradio,ieeecomputersociety,hdfs,unifiedindex,convergedindex,aggregatorleaftailer,writetimeanalytics,readtimeanalytics,realtimeindexing,lowquerylatency,flexibledatamodel,schemalessingestion</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>469</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3656,7 +3673,7 @@
 			<enclosure length="122486114" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-466-Casey-Aylward-on-Venture-Capital-for-Software-Investing.mp3?dest-id=23379" />
 			<itunes:duration>50:58</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,entrepreneur,equity,angelinvestor,venturecapital,privateequity,earlystage,seedrounds,seradio,ieeecomputersociety,seedinvestor</itunes:keywords>
+			<itunes:keywords>podcast,entrepreneur,Equity,angelinvestor,venturecapital,privateequity,earlystage,seedrounds,seradio,ieeecomputersociety,seedinvestor</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>466</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3692,7 +3709,7 @@
 			<enclosure length="82437907" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-464-Rowland-Savage-on-Getting-Acquired.mp3?dest-id=23379" />
 			<itunes:duration>57:07</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,ma,HR,integration,staffing,founders,startups,loi,venturecapital,privateequity,valuations,corporatedevelopment,corpdev,letterofintent,seradio,termsheet,ieeecomputersociety,marketfit,investmentbankers,offerletter</itunes:keywords>
+			<itunes:keywords>podcast,MA,HR,integration,staffing,founders,startups,loi,venturecapital,privateequity,valuations,corporatedevelopment,corpdev,letterofintent,seradio,termsheet,ieeecomputersociety,marketfit,investmentbankers,offerletter</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>464</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3710,7 +3727,7 @@
 			<enclosure length="110189924" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-463-Yaniv-Tal-on-Web-3.0-and-the-Graph.mp3?dest-id=23379" />
 			<itunes:duration>45:51</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,blockchain,Ethereum,graphql,seradio,ieeecomputersociety,thegraph,decentralizedapplications,decentralizedprotocolstack</itunes:keywords>
+			<itunes:keywords>podcast,Blockchain,ethereum,graphql,seradio,ieeecomputersociety,thegraph,decentralizedapplications,decentralizedprotocolstack</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>463</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3728,7 +3745,7 @@
 			<enclosure length="67648914" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-462-Felienne-on-the-Programmers-Brain.mp3?dest-id=23379" />
 			<itunes:duration>01:10:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,brain,software,Psychology,Think,Mind,Thought,mental,cognitive,Developer,coder,programmer,seradio,ieeecomputersociety</itunes:keywords>
+			<itunes:keywords>podcast,brain,software,Psychology,Think,Mind,Thought,mental,cognitive,developer,coder,programmer,seradio,ieeecomputersociety</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>462</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3836,7 +3853,7 @@
 			<enclosure length="46490719" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-456-Tomer-Shiran-on-Data-Lakes.mp3?dest-id=23379" />
 			<itunes:duration>48:15</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Database,Cloud,BI,Azure,analytics,OLAP,s3,avro,parquet,datamanagement,OLTP,DataWarehouse,datalakes,seradio,ieeecomputersociety,dremio,datacubes</itunes:keywords>
+			<itunes:keywords>podcast,Database,cloud,BI,Azure,Analytics,OLAP,s3,avro,parquet,datamanagement,OLTP,DataWarehouse,datalakes,seradio,ieeecomputersociety,dremio,datacubes</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>456</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3979,7 +3996,7 @@
 			<enclosure length="48388286" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-448-Matt-Arbesfeld-Starting-Your-Own-Software-Company.mp3?dest-id=23379" />
 			<itunes:duration>50:13</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,fundraising,entrepreneurship,employees,Hiring,startups,venturecapital,ProblemSolving,cofounders,softwarecompanies,seradio,ieeecomputersociety</itunes:keywords>
+			<itunes:keywords>podcast,fundraising,entrepreneurship,employees,hiring,startups,venturecapital,ProblemSolving,cofounders,softwarecompanies,seradio,ieeecomputersociety</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>448</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -3997,7 +4014,7 @@
 			<enclosure length="141031822" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-447-Michael-Perry-on-Immutable-Architecture.mp3?dest-id=23379" />
 			<itunes:duration>58:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,security,architecture,privacy,messaging,immutability,immutable,concurrency,synchronization,Consistency,git,docker,blockchain,seradio,ieeecomputersociety,eventsource,captheorem,deliveryguarantees</itunes:keywords>
+			<itunes:keywords>podcast,security,architecture,privacy,messaging,immutability,immutable,concurrency,synchronization,consistency,git,docker,Blockchain,seradio,ieeecomputersociety,eventsource,captheorem,deliveryguarantees</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>447</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4015,7 +4032,7 @@
 			<enclosure length="63847166" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-446-Nigel-Poulton-on-Kubernetes-Fundamentals.mp3?dest-id=23379" />
 			<itunes:duration>01:06:20</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,API,helm,Raft,containers,DNS,APIs,PostgreSQL,borg,https,virtualmachines,Golang,Kubernetes,OCI,k8s,seradio,ieeecomputersociety,minikube,dockersw,cloudos</itunes:keywords>
+			<itunes:keywords>podcast,API,helm,Raft,containers,dns,APIs,PostgreSQL,borg,https,virtualmachines,Golang,Kubernetes,OCI,k8s,seradio,ieeecomputersociety,minikube,dockersw,cloudos</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>446</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4123,7 +4140,7 @@
 			<enclosure length="73679293" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-440-Alexis-Richardson-on-gitops.mp3?dest-id=23379" />
 			<itunes:duration>51:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,build,deployment,DevOps,Kubernetes,seradio,ieeecomputersociety</itunes:keywords>
+			<itunes:keywords>podcast,Build,deployment,DevOps,Kubernetes,seradio,ieeecomputersociety</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>440</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4195,7 +4212,7 @@
 			<enclosure length="91597147" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-436-Apache-Samza-with-Yi-Pan.mp3?dest-id=23379" />
 			<itunes:duration>01:03:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,streaming,yarn,storm,Apache,Spark,Apex,flink,kafka,seradio,ieeecomputersociety,samza,streamprocessing</itunes:keywords>
+			<itunes:keywords>podcast,streaming,yarn,Storm,Apache,Spark,Apex,flink,kafka,seradio,ieeecomputersociety,samza,streamprocessing</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>436</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4335,7 +4352,7 @@
 			<enclosure length="82833972" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-429-Rob-Skillington-on-High-Cardinality-Alerting-and-Monitoring.mp3?dest-id=23379" />
 			<itunes:duration>57:22</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Cloud,monitoring,DevOps,distributedsystems,seradio,ieeecomputersociety</itunes:keywords>
+			<itunes:keywords>podcast,cloud,monitoring,DevOps,distributedsystems,seradio,ieeecomputersociety</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>429</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4443,7 +4460,7 @@
 			<enclosure length="83347623" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/423-Ryan-Singer-on-Remote-Work.mp3?dest-id=23379" />
 			<itunes:duration>57:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,communication,meetings,collaboration,RemoteWork,distributedteams,WFH,techculture,seradio,ieeecomputersociety</itunes:keywords>
+			<itunes:keywords>podcast,communication,meetings,collaboration,RemoteWork,distributedteams,wfh,techculture,seradio,ieeecomputersociety</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>423</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4497,7 +4514,7 @@
 			<enclosure length="101561828" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-420-Ryan-Ripley-on-Making-Scrum-Work.mp3?dest-id=23379" />
 			<itunes:duration>01:10:22</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Agile,scrum,backlog,scrummaster,productowner,seradio,scrumteam,ieeecomputersociety,developmentteam,scrumvalues</itunes:keywords>
+			<itunes:keywords>podcast,agile,scrum,backlog,scrummaster,productowner,seradio,scrumteam,ieeecomputersociety,developmentteam,scrumvalues</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>420</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4515,7 +4532,7 @@
 			<enclosure length="80649537" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-419-John-Ellithorpe-on-the-Role-of-a-CTO.mp3?dest-id=23379" />
 			<itunes:duration>55:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Network,Business,CTO,Product,customer,Mentor,VP,upskill,executiveteam,seradio,ieeecomputersociety</itunes:keywords>
+			<itunes:keywords>podcast,Network,business,CTO,Product,customer,mentor,VP,upskill,executiveteam,seradio,ieeecomputersociety</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>419</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4569,7 +4586,7 @@
 			<enclosure length="113050763" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/416-Adam-Shostack-on-Threat-Modeling.mp3?dest-id=23379" />
 			<itunes:duration>01:18:20</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,security,compliance,privacy,stride,threatmodeling,seradio,ieeecomputersociety,killchain,linddunn</itunes:keywords>
+			<itunes:keywords>podcast,security,Compliance,privacy,stride,threatmodeling,seradio,ieeecomputersociety,killchain,linddunn</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>416</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4605,7 +4622,7 @@
 			<enclosure length="100503729" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-414-Jens-Gustedt-on-Modern-C.mp3?dest-id=23379" />
 			<itunes:duration>01:09:36</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,c,Intel,Editors,Threads,Variables,compilers,Casting,GCC,clang,memorymanagement,CPUs,seradio,chipsets,ieeecomputersociety,musllibc,isoc,cprogramming,pd11</itunes:keywords>
+			<itunes:keywords>podcast,c,Intel,Editors,Threads,Variables,compilers,Casting,gcc,clang,memorymanagement,CPUs,seradio,chipsets,ieeecomputersociety,musllibc,isoc,cprogramming,pd11</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>414</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4623,7 +4640,7 @@
 			<enclosure length="79292763" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-413-Spencer-Kimball-on-CockroachDB.mp3?dest-id=23379" />
 			<itunes:duration>54:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Database,sql,Cockroach,cap,opensource,NoSQL,partitioning,relationaldatabases,GDPR,seradio,ieeecomputersociety,distributeddatabase,distributedsystem,cockroachdb</itunes:keywords>
+			<itunes:keywords>podcast,Database,sql,Cockroach,Cap,opensource,NoSQL,partitioning,relationaldatabases,GDPR,seradio,ieeecomputersociety,distributeddatabase,distributedsystem,cockroachdb</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>413</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4785,7 +4802,7 @@
 			<enclosure length="111970115" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-404-Bert-Hubert-on-DNS-Security.mp3?dest-id=23379" />
 			<itunes:duration>01:17:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>servers,distributed,integrity,poisoning,encryption,DOT,cache,CDN,hijacking,DNS,browsers,latency,amplification,tls,DOH,dnssec,udp,http2,SocialEngineering,QUIC</itunes:keywords>
+			<itunes:keywords>servers,distributed,integrity,poisoning,encryption,DOT,cache,CDN,hijacking,dns,browsers,latency,amplification,tls,DOH,dnssec,udp,http2,SocialEngineering,QUIC</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>404</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4839,7 +4856,7 @@
 			<enclosure length="95315701" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-401-Jeremy-Miller-on-Waterfall-Versus-Agile.mp3?dest-id=23379" />
 			<itunes:duration>01:06:02</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Waterfall,XP,Agile,scrum,agility,computersociety,ieeecs,seradio</itunes:keywords>
+			<itunes:keywords>podcast,Waterfall,XP,agile,scrum,agility,computersociety,ieeecs,seradio</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>401</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4893,7 +4910,7 @@
 			<enclosure length="112645979" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-398-Apache-Kudu-with-Adar-Leiber-Dembo.mp3?dest-id=23379" />
 			<itunes:duration>46:52</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,time,big,data,Management,storage,Apache,analytics,hybrid,Spark,OLAP,logical,Raft,impala,kudu,OLTP,seradio,columnar</itunes:keywords>
+			<itunes:keywords>podcast,Time,big,data,Management,storage,Apache,Analytics,hybrid,Spark,OLAP,logical,Raft,impala,kudu,OLTP,seradio,columnar</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>398</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4911,7 +4928,7 @@
 			<enclosure length="74415354" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-397-Pat-Helland-on-Data-Management-with-Microservices.mp3?dest-id=23379" />
 			<itunes:duration>51:32</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Computing,data,society,Management,computer,sql,Databases,distributed,pat,scale,immutability,NoSQL,ieee,microservices,seradio,helland</itunes:keywords>
+			<itunes:keywords>podcast,computing,data,society,Management,computer,sql,Databases,distributed,pat,scale,immutability,NoSQL,ieee,microservices,seradio,helland</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>397</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5019,7 +5036,7 @@
 			<enclosure length="137119975" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-391-Jeremy-Howard-Deep-Learning-Fastai.mp3?dest-id=23379" />
 			<itunes:duration>57:04</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>podcast,Deep,Intelligence,learning,python,Swift,artificial,machine,computersociety,ieeecs,seradio</itunes:keywords>
+			<itunes:keywords>podcast,Deep,intelligence,learning,python,Swift,artificial,machine,computersociety,ieeecs,seradio</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>391</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5055,7 +5072,7 @@
 			<enclosure length="98460738" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-389-Ryan-Singer-on-Basecamps-Software-Development-Process.mp3?dest-id=23379" />
 			<itunes:duration>01:08:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>design,Management,strategy,Project,Agile,scrum</itunes:keywords>
+			<itunes:keywords>design,Management,strategy,Project,agile,scrum</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>389</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5289,7 +5306,7 @@
 			<enclosure length="106584446" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-376-Justin-Richer-On-API-Security-with-OAuth-2.mp3?dest-id=23379" />
 			<itunes:duration>01:13:55</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>security,heart,tokens,OAuth,openid,APIs,jwt,m2m,IoT,mobileapps,openidconnect,OAUTH2,pcke,jsonwebtokens,oauthxyz,mitreidconnect,OIDC</itunes:keywords>
+			<itunes:keywords>security,Heart,tokens,OAuth,openid,APIs,jwt,m2m,IoT,mobileapps,openidconnect,OAUTH2,pcke,jsonwebtokens,oauthxyz,mitreidconnect,OIDC</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>376</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5343,7 +5360,7 @@
 			<enclosure length="74095905" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-373-Joel-Spolsky-on-Startups-Growth-and-Valuation.mp3?dest-id=23379" />
 			<itunes:duration>51:24</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Jobs,blog,remote,test,joel,venture,capital,stack,Overflow,startups</itunes:keywords>
+			<itunes:keywords>jobs,blog,remote,test,joel,venture,capital,stack,Overflow,startups</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>373</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5379,7 +5396,7 @@
 			<enclosure length="70122102" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-371-Howard-Chu-On-the-Lightning-Memory-Mapped-Database-LMDB.mp3?dest-id=23379" />
 			<itunes:duration>48:39</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>open,recovery,Linux,systems,c,Code,Source,programming,architecture,Databases,storage,disaster,kernel,operating,efficiency,ldap,Backend,scabibility</itunes:keywords>
+			<itunes:keywords>open,recovery,Linux,systems,c,Code,Source,programming,architecture,Databases,storage,disaster,kernel,operating,Efficiency,ldap,Backend,scabibility</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>371</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5595,7 +5612,7 @@
 			<enclosure length="83134932" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-359-Engineering-Maturity-with-Jean-Denis-Greze.mp3?dest-id=23379" />
 			<itunes:duration>57:40</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>tools,security,Management,teams,Hiring,scalability,DevOps,oncall</itunes:keywords>
+			<itunes:keywords>tools,security,Management,teams,hiring,scalability,DevOps,oncall</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>359</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5631,7 +5648,7 @@
 			<enclosure length="88895114" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-357-Adam-Barr-on-Code-Quality.mp3?dest-id=23379" />
 			<itunes:duration>01:01:41</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>quality,education,Code,programming,testing,languages,deployment</itunes:keywords>
+			<itunes:keywords>quality,Education,Code,programming,testing,languages,deployment</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>357</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5649,7 +5666,7 @@
 			<enclosure length="115115421" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-356-Tim-Coulter-on-Truffle-Smart-Contracts-and-DApp-Development-with-Truffle-Truffle-Ecosystem-and-Roadmap.mp3?dest-id=23379" />
 			<itunes:duration>01:19:54</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>development,frameworks,truffle,blockchain,Ethereum,Dapp,smartcontract</itunes:keywords>
+			<itunes:keywords>development,frameworks,truffle,Blockchain,ethereum,Dapp,smartcontract</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>356</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5667,7 +5684,7 @@
 			<enclosure length="90757468" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-355-Randy-Shoup-Scaling-Technology-and-Organization.mp3?dest-id=23379" />
 			<itunes:duration>01:02:59</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Management,teams,career,Hiring,scaling,Processes,onboarding</itunes:keywords>
+			<itunes:keywords>Management,teams,career,hiring,scaling,Processes,onboarding</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>355</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5721,7 +5738,7 @@
 			<enclosure length="93207666" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/353_combined_1.9.18_mixdown.mp3?dest-id=23379" />
 			<itunes:duration>01:04:41</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Management,teams,career,Hiring,scaling,Processes,onboarding</itunes:keywords>
+			<itunes:keywords>Management,teams,career,hiring,scaling,Processes,onboarding</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>352</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5882,7 +5899,7 @@
 			<enclosure length="131064966" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-343-John-Crain-on-Ethereum-and-Smart-Contracts.mp3?dest-id=23379" />
 			<itunes:duration>01:30:59</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>truffle,decentralized,Ethereum,Dapps,solidity,SmartContracts</itunes:keywords>
+			<itunes:keywords>truffle,decentralized,ethereum,Dapps,solidity,SmartContracts</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>343</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5970,7 +5987,7 @@
 			<enclosure length="90703637" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-338-Brent-Laster-on-the-Jenkins-2-Build-Server_.mp3?dest-id=23379" />
 			<itunes:duration>01:02:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>tools,build,Management,integration,programming,Workflow,Jenkins,Continuous,deployment,groovy,DSL,git,DevOps,declarative,cicd</itunes:keywords>
+			<itunes:keywords>tools,Build,Management,integration,programming,Workflow,Jenkins,Continuous,deployment,groovy,DSL,git,DevOps,declarative,cicd</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>338</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -5988,7 +6005,7 @@
 			<enclosure length="90434350" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-337-Ben-Sigelman-on-Distributed-Tracing.mp3?dest-id=23379" />
 			<itunes:duration>01:02:04</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>logging,systems,distributed,analytics,monitoring,Debugging</itunes:keywords>
+			<itunes:keywords>logging,systems,distributed,Analytics,monitoring,Debugging</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>337</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6024,7 +6041,7 @@
 			<enclosure length="80158957" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-335-Maria-Gorlatova-on-Edge-Computing.mp3?dest-id=23379" />
 			<itunes:duration>55:38</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>edge,of,internet,Computing,architecture,things</itunes:keywords>
+			<itunes:keywords>edge,of,internet,computing,architecture,things</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>335</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6060,7 +6077,7 @@
 			<enclosure length="94611373" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-333-Marian-Petre-and-Andre-van-der-Hoek-on-Software-Design.mp3?dest-id=23379" />
 			<itunes:duration>01:05:40</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>design,software,Agile,domain,driven</itunes:keywords>
+			<itunes:keywords>design,software,agile,domain,driven</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>333</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6096,7 +6113,7 @@
 			<enclosure length="90809719" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-331-Kevin-Goldsmith_on-Architecture-and-Organizational-Design.mp3?dest-id=23379" />
 			<itunes:duration>01:03:01</itunes:duration>
 			<itunes:explicit>true</itunes:explicit>
-			<itunes:keywords>Agile,architecture,operations,organizational,structure,scaling,microservices,monoliths</itunes:keywords>
+			<itunes:keywords>agile,architecture,operations,organizational,structure,scaling,microservices,monoliths</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>331</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6168,7 +6185,7 @@
 			<enclosure length="102300429" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-327-Glynn-Bird-on-Developer-Productivity-with-Open-Source.mp3?dest-id=23379" />
 			<itunes:duration>01:11:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>open,Management,Source,career,productivity,distribution,Node,versioning,packaging,Semantic,git,Dependency,npm</itunes:keywords>
+			<itunes:keywords>open,Management,Source,career,Productivity,Distribution,Node,versioning,packaging,Semantic,git,Dependency,npm</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>327</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6204,7 +6221,7 @@
 			<enclosure length="90857320" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-325-Tammy-Butow-on-Chaos-Engineering.mp3?dest-id=23379" />
 			<itunes:duration>01:03:03</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>engineering,testing,Chaos,monitoring</itunes:keywords>
+			<itunes:keywords>engineering,testing,chaos,monitoring</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>325</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6273,7 +6290,7 @@
 			<enclosure length="104016153" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-321-Peter-Budai-on-End-to-End-Encryption.mp3?dest-id=23379" />
 			<itunes:duration>01:12:10</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>web,Cloud,security,Information,application,encryption,Crypto,infosec,appsec,cryptography,e2ee</itunes:keywords>
+			<itunes:keywords>web,cloud,security,Information,application,encryption,Crypto,infosec,appsec,cryptography,e2ee</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>321</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6290,7 +6307,7 @@
 			<enclosure length="134819906" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-320-Nate-Taggart-on-Serverless-Paradigm.mp3?dest-id=23379" />
 			<itunes:duration>01:33:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,events,operations,virtualization,functions,faas,lambda,IoT,eventdrivenarchitecture,serverless</itunes:keywords>
+			<itunes:keywords>cloud,events,operations,virtualization,functions,faas,lambda,IoT,eventdrivenarchitecture,serverless</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>320</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6344,7 +6361,7 @@
 			<enclosure length="100332057" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-317-Travis-Kimmel-on-Measuring-Software-Engineering-Productivity.mp3?dest-id=23379" />
 			<itunes:duration>01:09:38</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Business,ROI,engineering,metrics,value,productivity,operations,impact,Processes,insights,kpi</itunes:keywords>
+			<itunes:keywords>business,ROI,engineering,metrics,value,Productivity,operations,Impact,Processes,insights,kpi</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>317</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6361,7 +6378,7 @@
 			<enclosure length="98938573" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-316-Nicolai-Parlog-on-Java-9.mp3?dest-id=23379" />
 			<itunes:duration>01:07:58</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Evolution,8,Code,Java,migration,9,modules,lambdas,jpms</itunes:keywords>
+			<itunes:keywords>evolution,8,Code,Java,migration,9,modules,lambdas,jpms</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>316</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6396,7 +6413,7 @@
 			<enclosure length="106001724" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-314-Scott-Piper-on-Cloud-Security.mp3?dest-id=23379" />
 			<itunes:duration>01:13:34</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>web,Cloud,security,Information,application,infosec,AWS,appsec</itunes:keywords>
+			<itunes:keywords>web,cloud,security,Information,application,infosec,AWS,appsec</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>314</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6414,7 +6431,7 @@
 			<enclosure length="104566987" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-313-Conor-Delanbanque-on-DevOps-Hiring-and-Retaining-DevOps.mp3?dest-id=23379" />
 			<itunes:duration>01:12:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>digital,culture,teams,mindset,Hiring,DevOps</itunes:keywords>
+			<itunes:keywords>digital,culture,teams,mindset,hiring,DevOps</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>313</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6496,7 +6513,7 @@
 			<enclosure length="88398657" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio_308_Gregor_Hohpe_on_It_Architecture_and_IT_Transformation_.mp3?dest-id=23379" />
 			<itunes:duration>01:00:39</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>digital,Code,as,methods,Agile,architecture,infrastructure,Transformation</itunes:keywords>
+			<itunes:keywords>digital,Code,as,methods,agile,architecture,infrastructure,transformation</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>308</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6513,7 +6530,7 @@
 			<enclosure length="87086251" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-307-Harsh-Sinha-on-Product-Management.mp3?dest-id=23379" />
 			<itunes:duration>01:00:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Management,Product,Agile,lifecycle</itunes:keywords>
+			<itunes:keywords>Management,Product,agile,lifecycle</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>307</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6530,7 +6547,7 @@
 			<enclosure length="89849856" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-306-Ron-Lichty-on-Managing-Programmers.mp3?dest-id=23379" />
 			<itunes:duration>01:02:21</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Management,teams,Psychology,Agile,motivation,scrum</itunes:keywords>
+			<itunes:keywords>Management,teams,Psychology,agile,motivation,scrum</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>306</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6563,7 +6580,7 @@
 			<enclosure length="76983292" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-304-Evgeny-Shadchnev-on-Code-Schools.mp3?dest-id=23379" />
 			<itunes:duration>53:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>education,Code,schools,JavaScript,ruby,programming</itunes:keywords>
+			<itunes:keywords>Education,Code,schools,JavaScript,ruby,programming</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>304</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6596,7 +6613,7 @@
 			<enclosure length="105700669" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-302-Haroon-Meer-on-Network-Security.mp3?dest-id=23379" />
 			<itunes:duration>01:13:23</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>social,Network,security,engineering,Honey,POTS</itunes:keywords>
+			<itunes:keywords>Social,Network,security,engineering,Honey,POTS</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>302</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6645,7 +6662,7 @@
 			<enclosure length="83350918" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-299-Edson-Tirelli-on-Rules-Engines.mp3?dest-id=23379" />
 			<itunes:duration>57:51</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Business,Intelligence,programming,artificial,rules,languages,compilers,DSL,algorithms,declarative,domainspecific</itunes:keywords>
+			<itunes:keywords>business,intelligence,programming,artificial,rules,languages,compilers,DSL,algorithms,declarative,domainspecific</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>299</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6661,7 +6678,7 @@
 			<enclosure length="73087386" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-298-Moshe-Vardi-on-P-versus-NP.mp3?dest-id=23379" />
 			<itunes:duration>50:43</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>sat,solving,p,Versus,np,satisfiability</itunes:keywords>
+			<itunes:keywords>sat,solving,p,versus,np,satisfiability</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 			<itunes:episode>298</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -6677,7 +6694,7 @@
 			<enclosure length="76967023" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-297-Kieren-James-Lubin-on-Blockchain.mp3?dest-id=23379" />
 			<itunes:duration>53:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>apps,distributed,ledger,Crypto,bitcoin,cryptocurrency,decentralized,Ethereum,blockchains,solidity,SmartContracts</itunes:keywords>
+			<itunes:keywords>apps,distributed,ledger,Crypto,bitcoin,cryptocurrency,decentralized,ethereum,blockchains,solidity,SmartContracts</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6703,7 +6720,7 @@
 			<enclosure length="84151639" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-295-Michael-Feathers-on-Legacy-Code.mp3?dest-id=23379" />
 			<itunes:duration>58:24</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Clean,software,Code,testing,legacy,craftsmanship</itunes:keywords>
+			<itunes:keywords>Clean,software,Code,testing,legacy,Craftsmanship</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6716,7 +6733,7 @@
 			<enclosure length="58635281" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-294-Asaf-Yigal-on-Machine-Learning-in-Log-Analysis.mp3?dest-id=23379" />
 			<itunes:duration>40:41</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>learning,log,analysis,operations,machine</itunes:keywords>
+			<itunes:keywords>learning,log,Analysis,operations,machine</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6781,7 +6798,7 @@
 			<enclosure length="88223555" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-289-James-Turnbull-on-Terraform.mp3?dest-id=23379" />
 			<itunes:duration>01:01:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,language,GO,programming,infrastructure,DevOps,declarative</itunes:keywords>
+			<itunes:keywords>cloud,language,GO,programming,infrastructure,DevOps,declarative</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6807,7 +6824,7 @@
 			<enclosure length="95087148" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-287-Success-Skills-for-Architects-with-Neil-Ford.mp3?dest-id=23379" />
 			<itunes:duration>01:05:52</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>tech,history,teams,leadership,radar,career,skills,meetings,architecture,success,negotiation,kiss,Path</itunes:keywords>
+			<itunes:keywords>Tech,History,teams,leadership,radar,career,skills,meetings,architecture,success,negotiation,kiss,Path</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6859,7 +6876,7 @@
 			<enclosure length="100415609" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-283-Alexander-Tarlinder-on-Developer-Testing.mp3.mp3?dest-id=23379" />
 			<itunes:duration>01:09:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Clean,software,Code,Agile,testing,Developer,craftsmanship</itunes:keywords>
+			<itunes:keywords>Clean,software,Code,agile,testing,developer,Craftsmanship</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6898,7 +6915,7 @@
 			<enclosure length="83067755" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-280-Gerald-Weinberg-on-Bugs-Errors-and-Software-Quality.mp3?dest-id=23379" />
 			<itunes:duration>57:38</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>quality,software,Agile,engineering,errors,bugs</itunes:keywords>
+			<itunes:keywords>quality,software,agile,engineering,errors,bugs</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6938,7 +6955,7 @@
 			<enclosure length="91174947" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-277-Gil-Tene-on-Tail-Latency.mp3?dest-id=23379" />
 			<itunes:duration>01:03:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>user,experience,performance,collection,planning,architecture,capacity,Garbage,monitoring,latency</itunes:keywords>
+			<itunes:keywords>user,experience,performance,collection,Planning,architecture,capacity,Garbage,monitoring,latency</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6977,7 +6994,7 @@
 			<enclosure length="87866644" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-274-Sam-Aaron-on-Sonic-Pi.mp3?dest-id=23379" />
 			<itunes:duration>01:01:02</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>music,education,ruby,programming,SONiC,pi</itunes:keywords>
+			<itunes:keywords>Music,Education,ruby,programming,SONiC,Pi</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -6990,7 +7007,7 @@
 			<enclosure length="96572426" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-273-Steve-McConnell-on-Software-Estimation.mp3?dest-id=23379" />
 			<itunes:duration>01:07:04</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Management,Project,planning,scrum,estimation</itunes:keywords>
+			<itunes:keywords>Management,Project,Planning,scrum,estimation</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7003,7 +7020,7 @@
 			<enclosure length="83097334" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-272-Frances-Perry-on-Apache-Beam.mp3?dest-id=23379" />
 			<itunes:duration>57:42</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>streaming,google,Beam,architecture,storm,Apache,batch,Spark,flink,lambda,dataflow</itunes:keywords>
+			<itunes:keywords>streaming,google,Beam,architecture,Storm,Apache,batch,Spark,flink,lambda,dataflow</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7055,7 +7072,7 @@
 			<enclosure length="86309497" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-268-Kief-Morris-on-Infrastructure-as-Code.mp3?dest-id=23379" />
 			<itunes:duration>59:54</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,operations,infrastructure,DevOps</itunes:keywords>
+			<itunes:keywords>cloud,operations,infrastructure,DevOps</itunes:keywords>
 			<itunes:subtitle><![CDATA[Kief Morris talks to Sven Johann about Infrastructure as Code and why it is important in the “Cloud Age”. Kief talks about the practices and benefits and why you should treat your servers as cattles, not pets.]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7094,7 +7111,7 @@
 			<enclosure length="88561207" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-265-Pat-Kua-on-Becoming-a-Tech-Lead.mp3?dest-id=23379" />
 			<itunes:duration>01:01:28</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>tech,leadership,architect,lead</itunes:keywords>
+			<itunes:keywords>Tech,leadership,architect,lead</itunes:keywords>
 			<itunes:subtitle><![CDATA[Johannes Thönes talks to Patrick Kua about the role of a technical lead and how to become one. The show starts with introducing the concept of a lead and contrasts the lead role with other roles, such as technical manager, architect and senior...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7159,7 +7176,7 @@
 			<enclosure length="64009753" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-260-Haoyuan-Li-on-Alluxio.mp3?dest-id=23379" />
 			<itunes:duration>44:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>big,Cloud,data,storage,memory,Apache,Ram,Spark,hadoop,inmemory,mesos,bdas</itunes:keywords>
+			<itunes:keywords>big,cloud,data,storage,memory,Apache,RAM,Spark,hadoop,inmemory,mesos,bdas</itunes:keywords>
 			<itunes:subtitle><![CDATA[SE-Radio]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7173,7 +7190,7 @@
 			<enclosure length="80991657" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-259-John-Purrier-on-OpenStack.mp3?dest-id=23379" />
 			<itunes:duration>56:13</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Cloud,infrastructure,PaaS,IaaS,AWS,DevOps,OpenStack,schedulers</itunes:keywords>
+			<itunes:keywords>cloud,infrastructure,PaaS,IaaS,AWS,DevOps,OpenStack,schedulers</itunes:keywords>
 			<itunes:subtitle><![CDATA[John Purrier talks with Jeff Meyerson about OpenStack, an open-source cloud operating system for managing compute resources. They explore infrastructure-as-a-service, platform-as-a-service, virtualization, containers, and the future of systems...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7269,7 +7286,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="133488829" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-253-Fred-George-on-Developer-Anarchy.mp3?dest-id=23379" />
 			<itunes:duration>55:36</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Agile,architecture,Processes,microservices</itunes:keywords>
+			<itunes:keywords>agile,architecture,Processes,microservices</itunes:keywords>
 			<itunes:subtitle><![CDATA[Fred George talks with Eberhard about "Developer Anarchy" - a manager-less development approach Fred has been using very successfully in different organizations - combined with microservices.]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7282,7 +7299,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="79256915" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-252-Christopher-Meiklejohn-on-CRDTs.mp3?dest-id=23379" />
 			<itunes:duration>55:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Database,data,systems,distributed,cap,types,Consistency,NoSQL,theorem,conflictfree,replicated</itunes:keywords>
+			<itunes:keywords>Database,data,systems,distributed,Cap,types,consistency,NoSQL,theorem,conflictfree,replicated</itunes:keywords>
 			<itunes:subtitle><![CDATA[Robert Blumen talks to Christopher Meiklejohn about conflict-free replicated data types. The discussion covers consistency in distributed systems, CRDTs, and their use in NoSQL databases.]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7296,7 +7313,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="125860252" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio_Episode_251_Martin_Klose_on_Code_Retreats.mp3?dest-id=23379" />
 			<itunes:duration>52:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>software,testing,TDD,refactoring,craftsmanship,coderetreat</itunes:keywords>
+			<itunes:keywords>software,testing,TDD,refactoring,Craftsmanship,coderetreat</itunes:keywords>
 			<itunes:subtitle><![CDATA[Martin Klose talks with Eberhard Wolff about Coderetreats - events where developers practice development techniques to become better programmers. He explains how to join such events and what it takes to do your own Coderetreat.]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7309,7 +7326,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="104158169" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Epislode-250-Jrgen-Laartz-and-Alexander-Budzier-on-Why-Large-IT-Projects-Fail.mp3?dest-id=23379" />
 			<itunes:duration>43:23</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>technology,Management,Project,Information,Agile,failure</itunes:keywords>
+			<itunes:keywords>technology,Management,Project,Information,agile,failure</itunes:keywords>
 			<itunes:subtitle><![CDATA[Alex Budzier of the Oxford Saïd Business School and Jürgen Laartz of McKinsey Berlin join Robert Blumen to talk about the their research on large IT project failures. Why do large projects fail and to what extent are these failures avoidable?]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7322,7 +7339,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="89675784" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Se-Radio-Episode-249-Vaughn-Vernon-on-Reactive-Programming-with-the-Actor-Modell.mp3?dest-id=23379" />
 			<itunes:duration>01:02:15</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Computing,actors,distributed,reactive,rx,DDD</itunes:keywords>
+			<itunes:keywords>computing,actors,distributed,reactive,rx,DDD</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7350,7 +7367,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="155264502" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-247-Andrew-Phillips-on-DevOps.mp3?dest-id=23379" />
 			<itunes:duration>01:04:41</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Agile,lean,delivery,Continuous,DevOps,microservices</itunes:keywords>
+			<itunes:keywords>agile,lean,delivery,Continuous,DevOps,microservices</itunes:keywords>
 			<itunes:subtitle><![CDATA[Sven Johann talks with Andrew Phillips about DevOps. First, they try to define it. Then, they discuss its roots in agile operations, its relationship to lean development and continuous delivery, its goals, and how to get started. They proceed to...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7363,7 +7380,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="82583106" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Show-246-John-Wilkes-on-Borg-and-Kubernetes.mp3?dest-id=23379" />
 			<itunes:duration>57:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>open,Cloud,google,systems,cluster,Management,tolerance,Source,distributed,scalability,fault</itunes:keywords>
+			<itunes:keywords>open,cloud,google,systems,cluster,Management,tolerance,Source,distributed,scalability,fault</itunes:keywords>
 			<itunes:subtitle><![CDATA[John Wilkes from Google talks with Charles Anderson about managing large clusters of machines. The discussion starts with Borg, Google’s internal cluster management program. John discusses what Borg does and what it provides to programmers and...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7376,7 +7393,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="130118773" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-245-John-Sonmez-on-Marketing-Yourself-and-Managing-Your-Career.mp3?dest-id=23379" />
 			<itunes:duration>54:12</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>marketing,Business,career,entrepreneur,interviewing,resume</itunes:keywords>
+			<itunes:keywords>marketing,business,career,entrepreneur,interviewing,resume</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7431,7 +7448,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="147034786" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-241-Kyle-Kingsbury-on-Consensus-in-Distributed-Systems.mp3?dest-id=23379" />
 			<itunes:duration>01:01:15</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Computing,Databases,distributed,consensus,cap,NoSQL</itunes:keywords>
+			<itunes:keywords>computing,Databases,distributed,consensus,Cap,NoSQL</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7458,7 +7475,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="110336198" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-239-Andrew-Clay-Shafer-on-Modern-Platform-as-a-Service.mp3?dest-id=23379" />
 			<itunes:duration>01:16:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>service,Cloud,a,as,platform,Runtime,containers,foundry,PaaS,docker,Kubernetes,mesos</itunes:keywords>
+			<itunes:keywords>service,cloud,a,as,Platform,Runtime,containers,foundry,PaaS,docker,Kubernetes,mesos</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7486,7 +7503,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="63792361" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-238-Linda-Rising-on-the-Agile-Brain.mp3?dest-id=23379" />
 			<itunes:duration>01:06:24</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>brain,Agile,mindset,experiments</itunes:keywords>
+			<itunes:keywords>brain,agile,mindset,experiments</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7500,7 +7517,7 @@ pauses; impact of pauses...]]></itunes:subtitle>
 			<enclosure length="79238715" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/se_radio_236-parsons_final.mp3?dest-id=23379" />
 			<itunes:duration>55:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>design,Agile,architecture</itunes:keywords>
+			<itunes:keywords>design,agile,architecture</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7854,7 +7871,7 @@ line-height:normal">Ben Hindman talks to Jeff Meyerson about Apache Mesos, a di
 			<enclosure length="47364259" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-235-Ben-Hindman-on-Apache-Mesos.mp3?dest-id=23379" />
 			<itunes:duration>49:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>big,center,twitter,system,Cloud,Linux,data,systems,distributed,Apache,Spark,operating,scalability,containers,hadoop,docker,mesos</itunes:keywords>
+			<itunes:keywords>big,center,Twitter,system,cloud,Linux,data,systems,distributed,Apache,Spark,operating,scalability,containers,hadoop,docker,mesos</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ben Hindman talks to Jeff Meyerson about Apache Mesos, a distributed systems kernel. Mesos abstracts away many of the hassles of managing a distributed system. Hindman starts with a high-level explanation of Mesos, explaining the problems he...]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7882,7 +7899,7 @@ line-height:normal">Ben Hindman talks to Jeff Meyerson about Apache Mesos, a di
 			<enclosure length="12370760" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-233-Fangjin-Yang-on-OLAP-and-the-Druid-Real-Time-Analytical-Data-Store.mp3?dest-id=23379" />
 			<itunes:duration>51:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>time,Database,Real,systems,Druid,sql,architecture,distributed,analytics,OLAP,Zookeeper,latency,lambda</itunes:keywords>
+			<itunes:keywords>Time,Database,real,systems,Druid,sql,architecture,distributed,Analytics,OLAP,Zookeeper,latency,lambda</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7896,7 +7913,7 @@ line-height:normal">Ben Hindman talks to Jeff Meyerson about Apache Mesos, a di
 			<enclosure length="16133386" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode_232-Mark-Nottingham-on-HTTP2.mp3?dest-id=23379" />
 			<itunes:duration>01:07:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Computing,distributed,rest,w3c,http,IETF,Protocols,spdy,http2</itunes:keywords>
+			<itunes:keywords>computing,distributed,rest,w3c,http,IETF,Protocols,spdy,http2</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7910,7 +7927,7 @@ line-height:normal">Ben Hindman talks to Jeff Meyerson about Apache Mesos, a di
 			<enclosure length="137759901" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-231-Joshua-Suereth-and-Matthew-Farwell-on-SBT-and-Software-Builds.mp3?dest-id=23379" />
 			<itunes:duration>57:23</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>tools,build,ivy,ant,Scala,maven,gradle,SBT,aether</itunes:keywords>
+			<itunes:keywords>tools,Build,ivy,ant,Scala,maven,gradle,SBT,aether</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -7924,7 +7941,7 @@ line-height:normal">Ben Hindman talks to Jeff Meyerson about Apache Mesos, a di
 			<enclosure length="82814372" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/Episode-230-Shubhra-Khar-on-NodeJS.mp3?dest-id=23379" />
 			<itunes:duration>57:28</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>web,Model,development,Models,thread,JavaScript,JSON,server,client,firefox,API,chrome,webkit,clientserver,MongoDB,V8,nodejs,angularjs,browserify,expressjs</itunes:keywords>
+			<itunes:keywords>web,Model,development,models,thread,JavaScript,JSON,server,client,firefox,API,chrome,WebKit,clientserver,MongoDB,V8,nodejs,angularjs,browserify,expressjs</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -8303,7 +8320,7 @@ table.MsoNormalTable
 			<enclosure length="66114286" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/The-CAP-Theorem-Then-and-Now.mp3?dest-id=23379" />
 			<itunes:duration>45:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>recovery,systems,Databases,distributed,infrastructure,cap,theorem,Robustness</itunes:keywords>
+			<itunes:keywords>recovery,systems,Databases,distributed,infrastructure,Cap,theorem,Robustness</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>
@@ -8317,7 +8334,7 @@ table.MsoNormalTable
 			<enclosure length="78425051" type="audio/mpeg" url="https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-226-Eric-Evans-on-Domain-Driven-Design-at-10-Years.mp3?dest-id=23379" />
 			<itunes:duration>54:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>design,software,command,architecture,responsibility,event,Segregation,query,Sourcing,cqrs,domaindriven</itunes:keywords>
+			<itunes:keywords>design,software,command,architecture,Responsibility,event,Segregation,query,sourcing,cqrs,domaindriven</itunes:keywords>
 			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		</item>
 		<item>

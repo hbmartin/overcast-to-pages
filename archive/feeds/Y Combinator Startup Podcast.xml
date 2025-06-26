@@ -4,7 +4,7 @@
 		<description><![CDATA[We help founders make something people want.]]></description>
 		<link>http://www.ycombinator.com</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sat, 21 Jun 2025 16:01:39 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Jun 2025 21:02:24 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/8c1524bc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Y Combinator]]></author>
 		<copyright><![CDATA[Y Combinator]]></copyright>
@@ -20,6 +20,22 @@
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/23401959/23401959-1715188660604-894894aeaa81c.jpg"/>
+		<item>
+			<title><![CDATA[Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs]]></title>
+			<description><![CDATA[<p>A fireside with Satya Nadella on June 17, 2025 at AI Startup School in San Francisco.Satya Nadella started at Microsoft in 1992 as an engineer. Three decades later, he’s now Chairman &amp; CEO, navigating the company through one of the most profound technological shifts yet: the rise of AI.In this conversation, he shares how Microsoft is thinking about this moment— from the infrastructure needed to train frontier models, to the social permission required to use that compute. He draws parallels to the early PC and internet eras, breaks down what makes a great team, and reflects on what he’d build if he were starting his career today.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ycombinator/episodes/Satya-Nadella-Microsofts-AI-Bets--Hyperscaling--Quantum-Computing-Breakthroughs-e34nu5c</link>
+			<guid isPermaLink="false">93b0910c-c45c-49bf-943f-a95696fbc55e</guid>
+			<dc:creator><![CDATA[Y Combinator]]></dc:creator>
+			<pubDate>Wed, 25 Jun 2025 21:00:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8c1524bc/podcast/play/104642156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-25%2F402813135-44100-2-28031806b6355.mp3" length="38877726" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A fireside with Satya Nadella on June 17, 2025 at AI Startup School in San Francisco.Satya Nadella started at Microsoft in 1992 as an engineer. Three decades later, he’s now Chairman &amp;amp; CEO, navigating the company through one of the most profound technological shifts yet: the rise of AI.In this conversation, he shares how Microsoft is thinking about this moment— from the infrastructure needed to train frontier models, to the social permission required to use that compute. He draws parallels to the early PC and internet eras, breaks down what makes a great team, and reflects on what he’d build if he were starting his career today.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:29</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/23401959/23401959-1750884102798-2b9f221a873f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware]]></title>
 			<description><![CDATA[<p>A fireside with Sam Altman at AI Startup School in San Francisco.Sam Altman grew up obsessed with technology, broke into the Stanford mainframe as a kid, and dropped out to start his first company before turning 20.In this conversation, he traces the path from early startup struggles to building OpenAI—sharing what he’s learned about ambition, the weight of responsibility, and how to keep building when the whole world is watching. He opens up about the hardest moments of his career, the limits of personal productivity, and why, in the end, it's all still about finding people you like working with and doing something that matters.</p>

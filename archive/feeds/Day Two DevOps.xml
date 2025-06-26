@@ -27,7 +27,7 @@
     <atom:link href="https://feeds.packetpushers.net/day2cloud/" rel="self" type="application/rss+xml"/>
     <link>https://packetpushers.net/</link>
     <description>Join hosts Ned Bellavance and Kyler Middleton as they dive deep into the challenges of DevOps from the perspective of seasoned practitioners. You'll hear from expert guests—technical leaders, trainers, and consultants with years of hands-on experience—discussing the nuances of DevOps. From AWS to Azure, networking to security, automation to modern cloud environments, each weekly episode equips you with the insights to confidently address tech and business challenges such as  resilience, cost management, and performance. Whether you want to hone your skills today or prepare for what’s coming next, Day Two DevOps cuts through the vendor fog to guide you through a shifting IT landscape.</description>
-    <lastBuildDate>Wed, 11 Jun 2025 14:41:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 17:23:30 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -50,7 +50,39 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-Y</rawvoice:rating>
     <podcast:podping usesPodping="true"/>
     <podcast:guid>edba3b59-84e5-5215-a2d7-3306d0a7b59d</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/day-two-devops/feed/?0b8e=1749683086" html="https://packetpushers.net/podcasts/" itunes="https://podcasts.apple.com/gb/podcast/day-2-cloud/id1460004936"/>
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/day-two-devops/feed/?8e33=1750896179" html="https://packetpushers.net/podcasts/" itunes="https://podcasts.apple.com/gb/podcast/day-2-cloud/id1460004936"/>
+    <item>
+      <title>D2DO276: MCP: Capable, Insecure, and On Your Network Today</title>
+      <link>https://packetpushers.net/podcasts/day-two-devops/d2do276-mcp-capable-insecure-and-on-your-network-today/</link>
+      <dc:creator><![CDATA[Summerset Banks]]></dc:creator>
+      <pubDate>Wed, 25 Jun 2025 17:23:30 +0000</pubDate>
+      <category><![CDATA[access control]]></category>
+      <category><![CDATA[agentic AI]]></category>
+      <category><![CDATA[agents]]></category>
+      <category><![CDATA[AI]]></category>
+      <category><![CDATA[Anthropic]]></category>
+      <category><![CDATA[authentication]]></category>
+      <category><![CDATA[authorization]]></category>
+      <category><![CDATA[Dan Barr]]></category>
+      <category><![CDATA[identity]]></category>
+      <category><![CDATA[MCP]]></category>
+      <category><![CDATA[Model Context Protocol]]></category>
+      <category><![CDATA[OAuth]]></category>
+      <category><![CDATA[ToolHive]]></category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=70926</guid>
+      <description><![CDATA[MCP, or Model Context Protocol, is an open-source project originally created by Anthropic. MCP is designed to let AI agents to connect to data repositories, applications, business and developer tools, and other agents to execute tasks and carry out instructions. Day Two DevOps explores the capabilities and pitfalls of MCP, how the protocol works, and<a class="excerpt-read-more" href="https://packetpushers.net/podcasts/day-two-devops/d2do276-mcp-capable-insecure-and-on-your-network-today/" title="ReadD2DO276: MCP: Capable, Insecure, and On Your Network Today">... Read more &#187;</a>]]></description>
+      <enclosure url="https://feeds.packetpushers.net/link/20975/17063451/D2DO276.mp3" length="81071948" type="audio/mpeg"/>
+      <itunes:episode>276</itunes:episode>
+      <podcast:episode>276</podcast:episode>
+      <itunes:title>MCP: Capable, Insecure, and On Your Network Today</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>33:47</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:keywords>cloud, DevOps, networking, Azure, AWS, technology, infrastructure</itunes:keywords>
+      <itunes:subtitle>MCP, or Model Context Protocol, is an open-source project originally created by Anthropic. MCP is designed to let AI agents to connect to data repositories, applications, business and developer…</itunes:subtitle>
+      <itunes:summary>MCP, or Model Context Protocol, is an open-source project originally created by Anthropic. MCP is designed to let AI agents to connect to data repositories, applications, business and developer tools, and other agents to execute tasks and carry out instructions. Day Two DevOps explores the capabilities and pitfalls of MCP, how the protocol works, and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/day-two-devops/d2do276-mcp-capable-insecure-and-on-your-network-today/" title="ReadD2DO276: MCP: Capable, Insecure, and On Your Network Today"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item>
     <item>
       <title>D2DO275: WebAssembly – The Next Big Thing?</title>
       <link>https://packetpushers.net/podcasts/day-two-devops/d2do275-webassembly-the-next-big-thing/</link>
@@ -5849,26 +5881,6 @@ hourly</sy:updatePeriod>
       <itunes:keywords>cloud, DevOps, networking, Azure, AWS, technology, infrastructure</itunes:keywords>
       <itunes:subtitle>This is a special holiday episode of Day Two Cloud with guest Kelsey Hightower, a Kubernetes evangelist and contributor. We discuss the current state of Kubernetes and the future for this…</itunes:subtitle>
       <itunes:summary>This is a special holiday episode of Day Two Cloud with guest Kelsey Hightower, a Kubernetes evangelist and contributor. We discuss the current state of Kubernetes and the future for this orchestration platform, including how it will address networking, should you get certified, and will Kubernetes eventually fade into the background as hidden infrastructure you don't have to think about so much.</itunes:summary>
-    </item>
-    <item>
-      <title>Day Two Cloud 028: Using Ansible And Cisco NSO To Automate Hybrid And Multi-Cloud (Sponsored)</title>
-      <link>https://packetpushers.net/podcasts/day-two-devops/d2c028-using-ansible-and-cisco-nso-to-automate-hybrid-and-multi-cloud-sponsored/</link>
-      <comments>https://packetpushers.net/podcasts/day-two-devops/d2c028-using-ansible-and-cisco-nso-to-automate-hybrid-and-multi-cloud-sponsored/#respond</comments>
-      <dc:creator><![CDATA[Ethan Banks]]></dc:creator>
-      <pubDate>Wed, 18 Dec 2019 16:43:39 +0000</pubDate>
-      <category><![CDATA[Uncategorized]]></category>
-      <guid isPermaLink="false">https://packetpushers.local/?post_type=podcast&amp;p=46901</guid>
-      <description><![CDATA[Day Two Cloud explores how network engineers can delight their application counterparts by making network resources effortlessly consumable in hybrid and multi-cloud deployments using Cisco's Network Services Orchestrator (NSO) and Ansible. Our guests are Carl Moberg, Senior Director of Product Management at Cisco; and Peter Sprygata, Distinguished Engineer at Ansible by Red Hat. Cisco is our sponsor for today's episode.]]></description>
-      <wfw:commentRss>https://packetpushers.net/podcasts/day-two-devops/d2c028-using-ansible-and-cisco-nso-to-automate-hybrid-and-multi-cloud-sponsored/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <enclosure url="https://feeds.packetpushers.net/link/20975/16805600/D2C_028_Using_Ansible_And_Cisco_NSO_To_Automate_Hybrid_And_Multi-Cloud_Sponsored_.mp3" length="41050818" type="audio/mpeg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>56:18</itunes:duration>
-      <itunes:author>Packet Pushers</itunes:author>
-      <itunes:keywords>cloud, DevOps, networking, Azure, AWS, technology, infrastructure</itunes:keywords>
-      <itunes:subtitle>Day Two Cloud explores how network engineers can delight their application counterparts by making network resources effortlessly consumable in hybrid and multi-cloud deployments using Cisco's…</itunes:subtitle>
-      <itunes:summary>Day Two Cloud explores how network engineers can delight their application counterparts by making network resources effortlessly consumable in hybrid and multi-cloud deployments using Cisco's Network Services Orchestrator (NSO) and Ansible. Our guests are Carl Moberg, Senior Director of Product Management at Cisco; and Peter Sprygata, Distinguished Engineer at Ansible by Red Hat. Cisco is our sponsor for today's episode.</itunes:summary>
     </item>
   </channel>
 </rss>

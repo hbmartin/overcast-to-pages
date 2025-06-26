@@ -8,8 +8,8 @@
     <description>Each week we’ll talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.</description>
     <copyright>2024 The Data Stack Show</copyright>
     <language>en</language>
-    <pubDate>Wed, 18 Jun 2025 08:30:00 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Jun 2025 08:30:11 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Jun 2025 08:30:00 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Jun 2025 08:30:11 +0000</lastBuildDate>
     <image>
       <link>https://datastackshow.com</link>
       <title>The Data Stack Show</title>
@@ -34,6 +34,26 @@
     <itunes:category text="Education">
       <itunes:category text="How To"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">a4a44b9b-1d52-46cd-a12a-afbc5ea6776e</guid>
+      <title>250: The Chat Interface Debate: Is Text Really the Future?</title>
+      <description><![CDATA[<p>Highlights from this week’s conversation include:</p><ul><li>Dashboard vs. Chatbot Discussion (1:40)</li><li>The Future of Chat Interfaces (3:03)</li><li>Vibe Revenue Concept (6:36)</li><li>AI's Early Days Compared to the Internet (10:14)</li><li>OpenAI and Hardware Collaboration (13:09)</li><li>Challenges of Hardware Development (16:20)</li><li>Productivity in Programming Languages (18:18)</li><li>Critique of 'Language is Dead' Posts (21:34)</li><li>Legacy Systems in Use (22:34)</li><li>Deterministic vs. Non-Deterministic Workflows (23:37)</li><li>Final Thoughts and Takeaways (23:45)</li></ul><p><i>The Data Stack Show</i> is a weekly podcast powered by RudderStack, customer data infrastructure that enables you to deliver real-time customer event data everywhere it’s needed to power smarter decisions and better customer experiences. Each week, we’ll talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.</p><p>RudderStack helps businesses make the most out of their customer data while ensuring data privacy and security. To learn more about RudderStack visit <a href="http://rudderstack.com">rudderstack.com</a>.</p>
+]]></description>
+      <pubDate>Wed, 25 Jun 2025 08:30:00 +0000</pubDate>
+      <author>heard@heardpods.com (Rudderstack)</author>
+      <link>https://datastackshow.com</link>
+      <content:encoded><![CDATA[<p>Highlights from this week’s conversation include:</p><ul><li>Dashboard vs. Chatbot Discussion (1:40)</li><li>The Future of Chat Interfaces (3:03)</li><li>Vibe Revenue Concept (6:36)</li><li>AI's Early Days Compared to the Internet (10:14)</li><li>OpenAI and Hardware Collaboration (13:09)</li><li>Challenges of Hardware Development (16:20)</li><li>Productivity in Programming Languages (18:18)</li><li>Critique of 'Language is Dead' Posts (21:34)</li><li>Legacy Systems in Use (22:34)</li><li>Deterministic vs. Non-Deterministic Workflows (23:37)</li><li>Final Thoughts and Takeaways (23:45)</li></ul><p><i>The Data Stack Show</i> is a weekly podcast powered by RudderStack, customer data infrastructure that enables you to deliver real-time customer event data everywhere it’s needed to power smarter decisions and better customer experiences. Each week, we’ll talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.</p><p>RudderStack helps businesses make the most out of their customer data while ensuring data privacy and security. To learn more about RudderStack visit <a href="http://rudderstack.com">rudderstack.com</a>.</p>
+]]></content:encoded>
+      <enclosure length="23293160" type="audio/mpeg" url="https://afp-928695-injected.calisto.simplecastaudio.com/e3c6184e-48d3-4aee-9dd0-50ad0b9a5b4c/episodes/69e6bcb9-d152-4f7a-afda-171026c95d38/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e3c6184e-48d3-4aee-9dd0-50ad0b9a5b4c&amp;awEpisodeId=69e6bcb9-d152-4f7a-afda-171026c95d38&amp;feed=m3Tr79ut"/>
+      <itunes:title>250: The Chat Interface Debate: Is Text Really the Future?</itunes:title>
+      <itunes:author>Rudderstack</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/be457c03-46fc-41ea-80a2-70071f7b9cfa/ca0448af-61d7-4d82-ae0c-a9fa857635ae/3000x3000/audio-20cover.jpg?aid=rss_feed"/>
+      <itunes:duration>00:24:15</itunes:duration>
+      <itunes:summary>This week on The Data Stack Show, John Wessel and Matt Kelliher-Gibson converse current tech trends through the lens of LinkedIn posts, discussing AI interfaces, technology evolution, and programming languages. They examine the overuse of dashboards and chat interfaces, explore the potential of AI hardware, and challenge the notion that programming languages like R are &quot;dead&quot;. The conversation highlights the importance of maintaining a cynical yet open-minded perspective on technological innovation, emphasizing that established technologies often persist because they work effectively. Key takeaways include the need for more thoughtful KPIs in tech, the unpredictability of technological advancement, the value of deterministic solutions in an increasingly AI-driven landscape, and so much more. </itunes:summary>
+      <itunes:subtitle>This week on The Data Stack Show, John Wessel and Matt Kelliher-Gibson converse current tech trends through the lens of LinkedIn posts, discussing AI interfaces, technology evolution, and programming languages. They examine the overuse of dashboards and chat interfaces, explore the potential of AI hardware, and challenge the notion that programming languages like R are &quot;dead&quot;. The conversation highlights the importance of maintaining a cynical yet open-minded perspective on technological innovation, emphasizing that established technologies often persist because they work effectively. Key takeaways include the need for more thoughtful KPIs in tech, the unpredictability of technological advancement, the value of deterministic solutions in an increasingly AI-driven landscape, and so much more. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <guid isPermaLink="false">1e6a9ed7-a4a4-4e09-a58d-2554b5394da4</guid>
       <title>249: Quacking Through Data: Duckdb&apos;s Emerging Ecosystem</title>
@@ -76,7 +96,7 @@
     </item>
     <item>
       <guid isPermaLink="false">0f3b73a0-34f9-4a0a-8cd2-550ce52d4819</guid>
-      <title>The PRQL: The Metrics-First Approach: Transforming How We Understand Data with Mark Driscoll of Rill Data</title>
+      <title>The PRQL: The Metrics-First Approach: Transforming How We Understand Data with Michael Driscoll of Rill Data</title>
       <description><![CDATA[<p><i>The Data Stack Show</i> is a weekly podcast powered by RudderStack, customer data infrastructure that enables you to deliver real-time customer event data everywhere it’s needed to power smarter decisions and better customer experiences. Each week, we’ll talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.</p><p>RudderStack helps businesses make the most out of their customer data while ensuring data privacy and security. To learn more about RudderStack visit <a href="http://rudderstack.com">rudderstack.com</a>.</p>
 ]]></description>
       <pubDate>Mon, 9 Jun 2025 08:30:00 +0000</pubDate>
@@ -85,7 +105,7 @@
       <content:encoded><![CDATA[<p><i>The Data Stack Show</i> is a weekly podcast powered by RudderStack, customer data infrastructure that enables you to deliver real-time customer event data everywhere it’s needed to power smarter decisions and better customer experiences. Each week, we’ll talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.</p><p>RudderStack helps businesses make the most out of their customer data while ensuring data privacy and security. To learn more about RudderStack visit <a href="http://rudderstack.com">rudderstack.com</a>.</p>
 ]]></content:encoded>
       <enclosure length="2027815" type="audio/mpeg" url="https://afp-928695-injected.calisto.simplecastaudio.com/e3c6184e-48d3-4aee-9dd0-50ad0b9a5b4c/episodes/b7583c55-3797-4064-b28f-ec12bf4e8550/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e3c6184e-48d3-4aee-9dd0-50ad0b9a5b4c&amp;awEpisodeId=b7583c55-3797-4064-b28f-ec12bf4e8550&amp;feed=m3Tr79ut"/>
-      <itunes:title>The PRQL: The Metrics-First Approach: Transforming How We Understand Data with Mark Driscoll of Rill Data</itunes:title>
+      <itunes:title>The PRQL: The Metrics-First Approach: Transforming How We Understand Data with Michael Driscoll of Rill Data</itunes:title>
       <itunes:author>Rudderstack</itunes:author>
       <itunes:duration>00:02:06</itunes:duration>
       <itunes:summary>In this bonus episode, Eric and John preview their upcoming conversation with Michael Driscoll of Rill Data. </itunes:summary>
