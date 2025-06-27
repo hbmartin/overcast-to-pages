@@ -14,8 +14,8 @@
     <podcast:locked owner="patrick@kalzumeus.com">no</podcast:locked>
     <podcast:person role="Host" href="https://www.kalzumeus.com" img="https://img.transistor.fm/-Otd1HLvHf5xvdgc-sIwLOEyhRT2PM6wFC1TFV-OxHQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NmI5/YmNmYWY4ZjU3OTRi/ODVkODk5ZmQ4Yjk5/Zjc1Zi5qcGc.jpg">Patrick McKenzie</podcast:person>
     <language>en</language>
-    <pubDate>Thu, 12 Jun 2025 00:05:51 -0700</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 00:41:18 -0700</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 00:00:14 -0700</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 00:01:21 -0700</lastBuildDate>
     <link>https://www.complexsystemspodcast.com</link>
     <image>
       <url>https://img.transistor.fm/Zcmd4Xvf15nzFj8XLRfyV4jRrcDavfN6h80a4JGgRLE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMzM5/OTY4ZTE5ODVjZjk0/MzhhZWEzMjRmZjdm/ZWNhYS5wbmc.jpg</url>
@@ -37,6 +37,34 @@
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>The AI infrastructure stack with Jennifer Li, a16z</title>
+      <itunes:episode>48</itunes:episode>
+      <podcast:episode>48</podcast:episode>
+      <itunes:title>The AI infrastructure stack with Jennifer Li, a16z</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">44a87a9a-d488-4093-bac5-07bdc22ff734</guid>
+      <link>https://www.complexsystemspodcast.com/the-ai-infrastructure-stack-with-jennifer-li-a16z/</link>
+      <description>
+        <![CDATA[<p>In this episode, Patrick McKenzie (@patio11) is joined by Jennifer Li, a general partner at a16z investing in enterprise, infrastructure and AI. Jennifer breaks down how AI workloads are creating new demands on everything from inference pipelines to observability systems, explaining why we're seeing a bifurcation between language models and diffusion models at the infrastructure level. They explore emerging categories like reinforcement learning environments that help train agents, the evolution of web scraping for agentic workflows, and why Jennifer believes the API economy is about to experience another boom as agents become the primary consumers of software interfaces.<br>–<br>Full transcript: <br><a href="https://www.complexsystemspodcast.com/the-ai-infrastructure-stack-with-jennifer-li-a16z/">www.complexsystemspodcast.com/the-ai-infrastructure-stack-with-jennifer-li-a16z/</a></p><p>–</p><p>Sponsor:  Vanta</p><p><a href="https://vanta.com/complex">Vanta</a> automates security compliance and builds trust, helping companies streamline ISO, SOC 2, and AI framework certifications. Learn more at <a href="https://vanta.com/complex">https://vanta.com/complex</a></p><p>–</p><p>Links:</p><ul><li>Jennifer Li’s writing at a16z <a href="https://a16z.com/author/jennifer-li/">https://a16z.com/author/jennifer-li/</a> </li></ul><p>–</p><p>Timestamps:</p><p>(00:00) Intro<br>(00:55) The AI shift and infrastructure<br>(02:24) Diving into middleware and AI models<br>(04:23) Challenges in AI infrastructure<br>(07:07) Real-world applications and optimizations<br>(15:15) Sponsor: Vanta<br>(16:38) Real-world applications and optimizations (cont’d)<br>(19:05) Reinforcement learning and synthetic environments<br>(23:05) The future of SaaS and AI integration<br>(26:02) Observability and self-healing systems<br>(32:49) Web scraping and automation<br>(37:29) API economy and agent interactions<br>(44:47) Wrap</p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Patrick McKenzie (@patio11) is joined by Jennifer Li, a general partner at a16z investing in enterprise, infrastructure and AI. Jennifer breaks down how AI workloads are creating new demands on everything from inference pipelines to observability systems, explaining why we're seeing a bifurcation between language models and diffusion models at the infrastructure level. They explore emerging categories like reinforcement learning environments that help train agents, the evolution of web scraping for agentic workflows, and why Jennifer believes the API economy is about to experience another boom as agents become the primary consumers of software interfaces.<br>–<br>Full transcript: <br><a href="https://www.complexsystemspodcast.com/the-ai-infrastructure-stack-with-jennifer-li-a16z/">www.complexsystemspodcast.com/the-ai-infrastructure-stack-with-jennifer-li-a16z/</a></p><p>–</p><p>Sponsor:  Vanta</p><p><a href="https://vanta.com/complex">Vanta</a> automates security compliance and builds trust, helping companies streamline ISO, SOC 2, and AI framework certifications. Learn more at <a href="https://vanta.com/complex">https://vanta.com/complex</a></p><p>–</p><p>Links:</p><ul><li>Jennifer Li’s writing at a16z <a href="https://a16z.com/author/jennifer-li/">https://a16z.com/author/jennifer-li/</a> </li></ul><p>–</p><p>Timestamps:</p><p>(00:00) Intro<br>(00:55) The AI shift and infrastructure<br>(02:24) Diving into middleware and AI models<br>(04:23) Challenges in AI infrastructure<br>(07:07) Real-world applications and optimizations<br>(15:15) Sponsor: Vanta<br>(16:38) Real-world applications and optimizations (cont’d)<br>(19:05) Reinforcement learning and synthetic environments<br>(23:05) The future of SaaS and AI integration<br>(26:02) Observability and self-healing systems<br>(32:49) Web scraping and automation<br>(37:29) API economy and agent interactions<br>(44:47) Wrap</p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 -0700</pubDate>
+      <author>Patrick McKenzie</author>
+      <enclosure url="https://prfx.byspotify.com/e/media.transistor.fm/0e515083/34199b29.mp3" length="44041236" type="audio/mpeg"/>
+      <itunes:author>Patrick McKenzie</itunes:author>
+      <itunes:image href="https://img.transistor.fm/pemWK26UewNbnbigvST6wvjqZLYtbfLwZ9SKlwJQ6Ek/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNTMz/MWJiMTBiNjUyNDUy/ZWIyNzE5OGUwY2Yz/NjBmMy5wbmc.jpg"/>
+      <itunes:duration>2750</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Patrick McKenzie (@patio11) is joined by Jennifer Li, a general partner at a16z investing in enterprise, infrastructure and AI. Jennifer breaks down how AI workloads are creating new demands on everything from inference pipelines to observability systems, explaining why we're seeing a bifurcation between language models and diffusion models at the infrastructure level. They explore emerging categories like reinforcement learning environments that help train agents, the evolution of web scraping for agentic workflows, and why Jennifer believes the API economy is about to experience another boom as agents become the primary consumers of software interfaces.<br>–<br>Full transcript: <br><a href="https://www.complexsystemspodcast.com/the-ai-infrastructure-stack-with-jennifer-li-a16z/">www.complexsystemspodcast.com/the-ai-infrastructure-stack-with-jennifer-li-a16z/</a></p><p>–</p><p>Sponsor:  Vanta</p><p><a href="https://vanta.com/complex">Vanta</a> automates security compliance and builds trust, helping companies streamline ISO, SOC 2, and AI framework certifications. Learn more at <a href="https://vanta.com/complex">https://vanta.com/complex</a></p><p>–</p><p>Links:</p><ul><li>Jennifer Li’s writing at a16z <a href="https://a16z.com/author/jennifer-li/">https://a16z.com/author/jennifer-li/</a> </li></ul><p>–</p><p>Timestamps:</p><p>(00:00) Intro<br>(00:55) The AI shift and infrastructure<br>(02:24) Diving into middleware and AI models<br>(04:23) Challenges in AI infrastructure<br>(07:07) Real-world applications and optimizations<br>(15:15) Sponsor: Vanta<br>(16:38) Real-world applications and optimizations (cont’d)<br>(19:05) Reinforcement learning and synthetic environments<br>(23:05) The future of SaaS and AI integration<br>(26:02) Observability and self-healing systems<br>(32:49) Web scraping and automation<br>(37:29) API economy and agent interactions<br>(44:47) Wrap</p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>technology, finance, government, software, incentives, culture, tech</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://www.kalzumeus.com" img="https://img.transistor.fm/-Otd1HLvHf5xvdgc-sIwLOEyhRT2PM6wFC1TFV-OxHQ/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NmI5/YmNmYWY4ZjU3OTRi/ODVkODk5ZmQ4Yjk5/Zjc1Zi5qcGc.jpg">Patrick McKenzie</podcast:person>
+      <podcast:person role="Guest" img="https://img.transistor.fm/hZ5ZLs_Pao6Em1M8rN6l88fE8Xgx7pnzVQsiUttnFE0/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZDY0/NzA1ZmFhOGZkZGFj/ZTk2OWMwZDJiZDEz/NDY0MC5wbmc.jpg">Jennifer Li</podcast:person>
+    </item>
     <item>
       <title>Getting better at LLMs, with Zvi Mowshowitz</title>
       <itunes:episode>47</itunes:episode>

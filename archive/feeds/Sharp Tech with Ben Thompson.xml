@@ -8,8 +8,8 @@
     <copyright><![CDATA[Sharp Tech Podcast LLC]]></copyright>
     <managingEditor>email@sharptech.fm (Andrew Sharp and Ben Thompson)</managingEditor>
     <webMaster>webmaster@sharptech.fm (Andrew Sharp and Ben Thompson)</webMaster>
-    <pubDate>Tue, 24 Jun 2025 09:59:27 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Jun 2025 10:01:07 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 14:58:25 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 15:07:50 +0000</lastBuildDate>
     <category>Technology</category>
     <ttl>60</ttl>
     <image>
@@ -17,6 +17,45 @@
       <title>Sharp Tech with Ben Thompson</title>
       <link>https://sharptech.fm</link>
     </image>
+    <item>
+      <title>A Big Ruling on LLM Training and Midsummer Mail on NBA Salaries in Tech, Starting from Scratch in 2025, and More</title>
+      <link>https://sharptech.fm/member/episode/a-big-ruling-on-llm-training-and-midsummer-mail-on-nba-salaries-in-tech-starting-from-scratch-in-2025-and-more</link>
+      <description>On today&#39;s show Andrew and Ben begin by breaking down a favorable ruling for Anthropic in a case concerning copyrighted material, the fair use doctrine, and LLM training. Then: A midsummer mailbag with questions on huge salaries for big names in tech that may be past their prime, waiting for AI to suggest software solutions, starting careers from scratch in 2025, Huwaei’s ascent and China’s commitment to Apple, Taylor Swift, shortform video regulation, recommendations for would-be watch collectors, and more. </description>
+      <content:encoded><![CDATA[<p>
+    On today&#39;s show Andrew and Ben begin by breaking down a favorable ruling for Anthropic in a case concerning copyrighted material, the fair use doctrine, and LLM training. Then: A midsummer mailbag with questions on huge salaries for big names in tech that may be past their prime, waiting for AI to suggest software solutions, starting careers from scratch in 2025, Huwaei’s ascent and China’s commitment to Apple, Taylor Swift, shortform video regulation, recommendations for would-be watch collectors, and more. 
+</p>
+<meta charset="UTF-8"/><p>To email the show: <a href="mailto:email@sharptech.fm">email@sharptech.fm</a></p>
+
+<hr/>
+
+<p>@SharpTechPodcast Channel — <a href="https://www.youtube.com/@SharpTechPodcast">YouTube</a></p>
+
+<p>@Stratechery Channel — <a href="https://www.youtube.com/@Stratechery">YouTube</a></p>
+
+<hr/>
+
+<p>Training AI is Fair Use, Product Protection Versus LLM Liability, Piracy and Competition — <a href="https://stratechery.com/2025/training-ai-is-fair-use-product-protection-versus-llm-liability-piracy-and-competition/">Stratechery Update</a></p>
+
+<p>BARTZ v. ANTHROPIC — <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.434709/gov.uscourts.cand.434709.231.0.pdf">U.S. District Court, N.D. CA </a></p>
+
+<p>Talent Wars, NBA Money, AI Money — <a href="https://stratechery.com/2025/talent-wars-nba-money-ai-money/">Stratechery Update</a></p>
+<hr/>
+
+<p>Get all episodes of Sharp Tech, Sharp China, Stratechery Updates and Interviews, Greatest of All Talk, Asianometry and the Dithering Podcast as part of <a href="https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG">Stratechery Plus</a> for $15/month or $150/year.</p>]]></content:encoded>
+      <author>Andrew Sharp and Ben Thompson</author>
+      <enclosure url="https://sharptech.fm/assets/sharptech0236_withChapters_557.mp3?access_token=WtLvUDEHgB7rE4MbAfmDVT" length="74269373" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="true">https://sharptech.fm/member/episode/a-big-ruling-on-llm-training-and-midsummer-mail-on-nba-salaries-in-tech-starting-from-scratch-in-2025-and-more</guid>
+      <pubDate>Thu, 26 Jun 2025 14:58:25 +0000</pubDate>
+      <atomic:distribution id="CQX3KVQDqcujmUsfCKaTG" article="CQX2hzzT9C9rrdFdgmTjv" template="9yW2u115pMenFrEKqdKPEW" audience="4c7ZXpgqCGPHfUcjX3Mcoc" asset="CQX3GeGSM9eihW8iRMnzQ">
+        <atomic:distroDate>Thu, 26 Jun 2025 15:06:45 +0000</atomic:distroDate>
+        <atomic:categories>
+          <atomic:category id="6PY3ZUwyC2b5KGPmqB2H1w" name="itunes-episodes"></atomic:category>
+        </atomic:categories>
+      </atomic:distribution>
+      <itunes:author>Andrew Sharp and Ben Thompson</itunes:author>
+      <itunes:duration>01:16:50</itunes:duration>
+      <itunes:summary>On today&#39;s show Andrew and Ben begin by breaking down a favorable ruling for Anthropic in a case concerning copyrighted material, the fair use doctrine, and LLM training. Then: A midsummer mailbag with questions on huge salaries for big names in tech that may be past their prime, waiting for AI to suggest software solutions, starting careers from scratch in 2025, Huwaei’s ascent and China’s commitment to Apple, Taylor Swift, shortform video regulation, recommendations for would-be watch collectors, and more. </itunes:summary>
+    </item>
     <item>
       <title>(Preview) Justice for Software Engineers, The Various Futures of Vibe Coding, Questions at xAI and Progress for Tesla</title>
       <link>https://sharptech.fm/member/episode/preview-justice-for-software-engineers-the-various-futures-of-vibe-coding-questions-at-x-ai-and-progress-for-tesla</link>
@@ -8892,7 +8931,7 @@ The eleventh hour agreement between Charter and Disney, why Charter was the clea
     <atomic:instance id="6vy7SsfMZpRFMRsv1im5eU" build="4761d1eb" version="v1.1.8-patch.1"></atomic:instance>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <sy:updateBase>2025-06-24 09:59:46 +0000 UTC</sy:updateBase>
+    <sy:updateBase>2025-06-26 15:06:45 +0000 UTC</sy:updateBase>
     <itunes:subtitle>How technology works, and the ways it is impacting the world</itunes:subtitle>
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>

@@ -6,7 +6,7 @@
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>AI Stories</title>
 
-  <lastBuildDate>Thu, 24 Apr 2025 06:05:09 +0100</lastBuildDate>
+  <lastBuildDate>Thu, 26 Jun 2025 06:05:10 +0100</lastBuildDate>
   <link>https://aistories.buzzsprout.com</link>
   <language>en-gb</language>
   <copyright>© 2025 AI Stories</copyright>
@@ -30,6 +30,24 @@
   <itunes:category text="Business">
     <itunes:category text="Careers" />
   </itunes:category>
+  <item>
+    <itunes:title>Why Data Scientists Don’t Get Hired — And How to Fix It with Dawn Choo #61</itunes:title>
+    <title>Why Data Scientists Don’t Get Hired — And How to Fix It with Dawn Choo #61</title>
+    <itunes:summary><![CDATA[Our guest today is Dawn Choo, founder of Interview Master and ex Data Scientist from Amazon and Meta.  In our conversation, we first dive into Dawn's past Data Science projects at Amazon and Instagram. She explains how a pet project skyrocketed her career at Amazon and also shares details on the most impactful project that she worked on at Instagram.  We then discuss Dawn's experience living in a van for a year before digging into Interview Master: a platform to help Data Scientists...]]></itunes:summary>
+    <description><![CDATA[<p>Our guest today is Dawn Choo, founder of <a href='https://www.interviewmaster.ai/'>Interview Master</a> and ex Data Scientist from Amazon and Meta. </p><p>In our conversation, we first dive into Dawn&apos;s past Data Science projects at Amazon and Instagram. She explains how a pet project skyrocketed her career at Amazon and also shares details on the most impactful project that she worked on at Instagram. </p><p>We then discuss Dawn&apos;s experience living in a van for a year before digging into Interview Master: a platform to help Data Scientists and Data Analysts land their dream job while leveraging AI agents to provide instant feedback! </p><p>If you enjoyed the episode, please leave a 5 star review and subscribe to the <a href='https://www.youtube.com/channel/UCWvn6k4aeceyYKjAleML9VA'>AI Stories Youtube channel</a>.</p><p>👉 From beginner to advanced LLM developer course by Towards AI (use the code AISTORIES10 to get a 10% discount): <a href='https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=63e5e3'>https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=63e5e3</a></p><p>Link to Interview Master: <a href='https://www.linkup.so/'>https://www.interviewmaster.ai/</a></p><p>Follow Dawn on LinkedIn: <a href='https://www.linkedin.com/in/data-dawn/'>https://www.linkedin.com/in/data-dawn/</a><br/><br/>Follow Neil on LinkedIn: <a href='https://www.linkedin.com/in/leiserneil/'>https://www.linkedin.com/in/leiserneil/</a>  </p><p>---</p><p>(00:00) Intro</p><p>(02:30) How Dawn Got Into Data and AI</p><p>(04:25) Why Dawn Left Finance</p><p>(06:56) Automating Work at Amazon</p><p>(10:22) How a Pet Project Changed her Career</p><p>(15:24) Joining Instagram</p><p>(17:30) Instagram Shopping</p><p>(20:52) Improving Performance and Revenue at Instagram</p><p>(29:56) Living and Working from a Van</p><p>(37:34) Launching Interview Master</p><p>(45:53) Why Data Scientists Don’t Get Hired</p><p>(53:27) Career Advice</p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>Our guest today is Dawn Choo, founder of <a href='https://www.interviewmaster.ai/'>Interview Master</a> and ex Data Scientist from Amazon and Meta. </p><p>In our conversation, we first dive into Dawn&apos;s past Data Science projects at Amazon and Instagram. She explains how a pet project skyrocketed her career at Amazon and also shares details on the most impactful project that she worked on at Instagram. </p><p>We then discuss Dawn&apos;s experience living in a van for a year before digging into Interview Master: a platform to help Data Scientists and Data Analysts land their dream job while leveraging AI agents to provide instant feedback! </p><p>If you enjoyed the episode, please leave a 5 star review and subscribe to the <a href='https://www.youtube.com/channel/UCWvn6k4aeceyYKjAleML9VA'>AI Stories Youtube channel</a>.</p><p>👉 From beginner to advanced LLM developer course by Towards AI (use the code AISTORIES10 to get a 10% discount): <a href='https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=63e5e3'>https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=63e5e3</a></p><p>Link to Interview Master: <a href='https://www.linkup.so/'>https://www.interviewmaster.ai/</a></p><p>Follow Dawn on LinkedIn: <a href='https://www.linkedin.com/in/data-dawn/'>https://www.linkedin.com/in/data-dawn/</a><br/><br/>Follow Neil on LinkedIn: <a href='https://www.linkedin.com/in/leiserneil/'>https://www.linkedin.com/in/leiserneil/</a>  </p><p>---</p><p>(00:00) Intro</p><p>(02:30) How Dawn Got Into Data and AI</p><p>(04:25) Why Dawn Left Finance</p><p>(06:56) Automating Work at Amazon</p><p>(10:22) How a Pet Project Changed her Career</p><p>(15:24) Joining Instagram</p><p>(17:30) Instagram Shopping</p><p>(20:52) Improving Performance and Revenue at Instagram</p><p>(29:56) Living and Working from a Van</p><p>(37:34) Launching Interview Master</p><p>(45:53) Why Data Scientists Don’t Get Hired</p><p>(53:27) Career Advice</p><p><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/kleomrkv3zyypa0gvy6zubpo04mh?.jpg" />
+    <itunes:author>Neil Leiser</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1861907/episodes/17375787-why-data-scientists-don-t-get-hired-and-how-to-fix-it-with-dawn-choo-61.mp3" length="39605949" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-17375787</guid>
+    <pubDate>Thu, 26 Jun 2025 06:00:00 +0100</pubDate>
+    <itunes:duration>3297</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>4</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Polars: Fast &amp; Efficient Data Manipulation with Ritchie Vink #60</itunes:title>
     <title>Polars: Fast &amp; Efficient Data Manipulation with Ritchie Vink #60</title>

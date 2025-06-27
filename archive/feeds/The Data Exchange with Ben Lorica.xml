@@ -6,7 +6,7 @@
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>The Data Exchange with Ben Lorica</title>
 
-  <lastBuildDate>Thu, 19 Jun 2025 04:05:09 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 26 Jun 2025 04:05:09 -0700</lastBuildDate>
   <link>https://thedataexchange.media/</link>
   <language>en-us</language>
   <copyright>© 2025 The Data Exchange with Ben Lorica</copyright>
@@ -34,6 +34,21 @@
   <itunes:category text="News">
     <itunes:category text="Business News" />
   </itunes:category>
+  <item>
+    <itunes:title>Building Production-Grade RAG at Scale</itunes:title>
+    <title>Building Production-Grade RAG at Scale</title>
+    <itunes:summary><![CDATA[Douwe Kiela, Founder and CEO of Contextual AI, discusses why RAG isn’t obsolete despite massive context windows, explaining how RAG 2.0 represents a fundamental shift to treating retrieval-augmented generation as an end-to-end trainable system.  Subscribe to the Gradient Flow Newsletter 📩  https://gradientflow.substack.com/ Subscribe: Apple · Spotify · Overcast · Pocket Casts · AntennaPod · Podcast Addict · Amazon ·  RSS.  Detailed show notes - with links to many references - c...]]></itunes:summary>
+    <description><![CDATA[<p><a href='https://www.linkedin.com/in/douwekiela/'><b>Douwe Kiela</b></a>, Founder and CEO of <a href='https://contextual.ai/'><b>Contextual AI</b></a>, discusses why RAG isn’t obsolete despite massive context windows, explaining how RAG 2.0 represents a fundamental shift to treating retrieval-augmented generation as an end-to-end trainable system. </p><p><b>Subscribe to the Gradient Flow Newsletter 📩</b>  <a href='https://gradientflow.substack.com/'>https://gradientflow.substack.com/</a></p><p><b>Subscribe: </b><a href='https://podcasts.apple.com/us/podcast/the-data-exchange-with-ben-lorica/id1487704458'><b>Apple</b></a><b> · </b><a href='https://open.spotify.com/show/65oFWYoomwT8mLcdGkUGd0'><b>Spotify</b></a><b> ·</b><a href='https://overcast.fm/itunes1487704458'> <b>Overcast</b></a><b> · </b><a href='https://pca.st/kv9n4vc0'><b>Pocket Casts</b></a><b> · </b><a href='https://antennapod.org/deeplink/subscribe/?url=feeds.buzzsprout.com/682433.rss'><b>AntennaPod</b></a><b> · </b><a href='https://podcastaddict.com/podcast/2476584'><b>Podcast Addict</b></a><b> · </b><a href='https://music.amazon.com/podcasts/18e76845-60a8-4263-9c41-a7bdfe9d14a9/the-data-exchange-with-ben-lorica'><b>Amazon</b></a><b> ·  </b><a href='https://feeds.buzzsprout.com/682433.rss'><b>RSS</b></a><b>.</b><br/><br/>Detailed show notes - with links to many references - can be found <a href='https://thedataexchange.media/contextual-ai/ '><b>on The Data Exchange web site</b></a>.</p>]]></description>
+    <content:encoded><![CDATA[<p><a href='https://www.linkedin.com/in/douwekiela/'><b>Douwe Kiela</b></a>, Founder and CEO of <a href='https://contextual.ai/'><b>Contextual AI</b></a>, discusses why RAG isn’t obsolete despite massive context windows, explaining how RAG 2.0 represents a fundamental shift to treating retrieval-augmented generation as an end-to-end trainable system. </p><p><b>Subscribe to the Gradient Flow Newsletter 📩</b>  <a href='https://gradientflow.substack.com/'>https://gradientflow.substack.com/</a></p><p><b>Subscribe: </b><a href='https://podcasts.apple.com/us/podcast/the-data-exchange-with-ben-lorica/id1487704458'><b>Apple</b></a><b> · </b><a href='https://open.spotify.com/show/65oFWYoomwT8mLcdGkUGd0'><b>Spotify</b></a><b> ·</b><a href='https://overcast.fm/itunes1487704458'> <b>Overcast</b></a><b> · </b><a href='https://pca.st/kv9n4vc0'><b>Pocket Casts</b></a><b> · </b><a href='https://antennapod.org/deeplink/subscribe/?url=feeds.buzzsprout.com/682433.rss'><b>AntennaPod</b></a><b> · </b><a href='https://podcastaddict.com/podcast/2476584'><b>Podcast Addict</b></a><b> · </b><a href='https://music.amazon.com/podcasts/18e76845-60a8-4263-9c41-a7bdfe9d14a9/the-data-exchange-with-ben-lorica'><b>Amazon</b></a><b> ·  </b><a href='https://feeds.buzzsprout.com/682433.rss'><b>RSS</b></a><b>.</b><br/><br/>Detailed show notes - with links to many references - can be found <a href='https://thedataexchange.media/contextual-ai/ '><b>on The Data Exchange web site</b></a>.</p>]]></content:encoded>
+    <itunes:author>Ben Lorica</itunes:author>
+    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/682433/episodes/17359385-building-production-grade-rag-at-scale.mp3" length="22645200" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-17359385</guid>
+    <pubDate>Thu, 26 Jun 2025 04:00:00 -0700</pubDate>
+    <itunes:duration>1884</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Unlocking AI Superpowers in Your Terminal</itunes:title>
     <title>Unlocking AI Superpowers in Your Terminal</title>

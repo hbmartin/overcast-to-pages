@@ -15,7 +15,7 @@
     <atom:link href="https://www.lastweekinai.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://www.lastweekinai.com/</link>
     <description>Weekly summaries of the AI news that matters!</description>
-    <pubDate>Mon, 16 Jun 2025 22:07:53 -0700</pubDate>
+    <pubDate>Wed, 25 Jun 2025 22:00:25 -0700</pubDate>
     <generator>https://podbean.com/?v=5.5</generator>
     <language>en</language>
     <spotify:countryOfOrigin>us</spotify:countryOfOrigin>
@@ -43,13 +43,192 @@
         <height>144</height>
     </image>
     <item>
+        <title>#213 - Midjourney video, Gemini 2.5 Flash-Lite, LiveCodeBench Pro</title>
+        <itunes:title>#213 - Midjourney video, Gemini 2.5 Flash-Lite, LiveCodeBench Pro</itunes:title>
+        <link>https://www.lastweekinai.com/e/213/</link>
+                    <comments>https://www.lastweekinai.com/e/213/#comments</comments>        <pubDate>Wed, 25 Jun 2025 22:00:25 -0700</pubDate>
+        <guid isPermaLink="false">aitalk.podbean.com/73819361-364d-3441-88cf-daa7c908eb4a</guid>
+                                    <description><![CDATA[<p>Our 213nd episode with a summary and discussion of last week's big AI news!
+Recorded on 06/21/2025</p>
+<p>Hosted by <a href='https://twitter.com/andrey_kurenkov'>Andrey Kurenkov</a> and <a href='https://twitter.com/jeremiecharris'>Jeremie Harris</a>. 
+Feel free to email us your questions and feedback at <a href='mailto:contact@lastweekinai.com'>contact@lastweekinai.com </a>and/or <a href='mailto:hello@gladstone.ai'>hello@gladstone.ai</a></p>
+<p>Read out our text newsletter and comment on the podcast at <a href='https://lastweekin.ai/'>https://lastweekin.ai/</a>.</p>
+<p>In this episode:</p>
+<ul>
+<li>Midjourney launches its first AI video generation model, moving from text-to-image to video with a subscription model offering up to 21-second clips, highlighting the affordability and growing capabilities in AI video generation.</li>
+<li>Google's Gemini AI family updates include high-efficiency models for cost-effective workloads, and new enhancements in Google's search function now allow for voice interactions.</li>
+<li>The introduction of two new benchmarks, Live Code Bench Pro and Abstention Bench, aiming to test and improve the problem-solving and abstention capabilities of reasoning models, revealing current limitations.</li>
+<li>OpenAI wins a $200 million US defense contract to support various aspects of the Department of Defense, reflecting growing collaborations between tech companies and government for AI applications.</li>
+</ul>
+<p>Timestamps + Links:</p>
+<ul>
+<li style="font-weight:400;">(00:00:10) Intro / Banter</li>
+<li style="font-weight:400;">(00:01:32) News Preview
+</li>
+<li style="font-weight:400;">Tools &amp; Apps</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:02:12) <a href='https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/'>Midjourney launches its first AI video generation model, V1</a></li>
+<li style="font-weight:400;">(00:05:52) <a href='https://arstechnica.com/ai/2025/06/googles-gemini-ai-family-updated-with-stable-2-5-pro-super-efficient-2-5-flash-lite/'>Google’s Gemini AI family updated with stable 2.5 Pro, super-efficient 2.5 Flash-Lite</a></li>
+<li style="font-weight:400;">(00:07:59) <a href='https://techcrunch.com/2025/06/18/googles-ai-mode-can-now-have-back-and-forth-voice-conversations/'>Google’s AI Mode can now have back-and-forth voice conversations</a></li>
+<li style="font-weight:400;">(00:10:13) <a href='https://www.hollywoodreporter.com/business/digital/youtube-add-google-veo-3-shorts-ai-1236293135/'>YouTube to Add Google’s Veo 3 to Shorts in Move That Could Turbocharge AI on the Video Platform</a></li>
+</ul>
+<ul>
+<li style="font-weight:400;">Applications &amp; Business</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:11:10) <a href='https://www.theverge.com/openai/688783/the-openai-files-will-help-you-understand-how-sam-altmans-company-works'>The ‘OpenAI Files’ will help you understand how Sam Altman’s company works</a></li>
+<li style="font-weight:400;">(00:12:29) <a href='https://techcrunch.com/2025/06/18/openai-drops-scale-ai-as-a-data-provider-following-meta-deal/'>OpenAI drops Scale AI as a data provider following Meta deal</a></li>
+<li style="font-weight:400;">(00:13:28) <a href='https://techcrunch.com/2025/06/18/amazons-zoox-opens-its-first-major-robotaxi-production-facility/'>Amazon’s Zoox opens its first major robotaxi production facility</a></li>
+</ul>
+<ul>
+<li style="font-weight:400;">Projects &amp; Open Source</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:15:20) <a href='https://arxiv.org/abs/2506.11928v1'>LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?</a></li>
+<li style="font-weight:400;">(00:19:45) <a href='https://arxiv.org/abs/2506.09038v1'>AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions</a></li>
+<li style="font-weight:400;">(00:22:49) <a href='https://arxiv.org/abs/2506.13585v1'>MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention</a></li>
+</ul>
+<ul>
+<li style="font-weight:400;">Research &amp; Advancements</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:24:33) <a href='https://arxiv.org/abs/2506.08228v1'>Scaling Laws of Motion Forecasting and Planning -- A Technical Report </a></li>
+</ul>
+<ul>
+<li style="font-weight:400;">Policy &amp; Safety</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:28:07) <a href='https://arxiv.org/abs/2506.12880v1'>Universal Jailbreak Suffixes Are Strong Attention Hijackers</a></li>
+<li style="font-weight:400;">(00:30:52) <a href='https://techcrunch.com/2025/06/18/openai-found-features-in-ai-models-that-correspond-to-different-personas/'>OpenAI found features in AI models that correspond to different ‘personas’</a></li>
+<li style="font-weight:400;">(00:33:25) <a href='https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html'>OpenAI wins $200 million U.S. defense contract</a></li>
+</ul>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>Our 213nd episode with a summary and discussion of last week's big AI news!<br>
+Recorded on 06/21/2025</p>
+<p>Hosted by <a href='https://twitter.com/andrey_kurenkov'>Andrey Kurenkov</a> and <a href='https://twitter.com/jeremiecharris'>Jeremie Harris</a>. <br>
+Feel free to email us your questions and feedback at <a href='mailto:contact@lastweekinai.com'>contact@lastweekinai.com </a>and/or <a href='mailto:hello@gladstone.ai'>hello@gladstone.ai</a></p>
+<p>Read out our text newsletter and comment on the podcast at <a href='https://lastweekin.ai/'>https://lastweekin.ai/</a>.</p>
+<p>In this episode:</p>
+<ul>
+<li>Midjourney launches its first AI video generation model, moving from text-to-image to video with a subscription model offering up to 21-second clips, highlighting the affordability and growing capabilities in AI video generation.</li>
+<li>Google's Gemini AI family updates include high-efficiency models for cost-effective workloads, and new enhancements in Google's search function now allow for voice interactions.</li>
+<li>The introduction of two new benchmarks, Live Code Bench Pro and Abstention Bench, aiming to test and improve the problem-solving and abstention capabilities of reasoning models, revealing current limitations.</li>
+<li>OpenAI wins a $200 million US defense contract to support various aspects of the Department of Defense, reflecting growing collaborations between tech companies and government for AI applications.</li>
+</ul>
+<p>Timestamps + Links:</p>
+<ul>
+<li style="font-weight:400;">(00:00:10) Intro / Banter</li>
+<li style="font-weight:400;">(00:01:32) News Preview<br>
+</li>
+<li style="font-weight:400;">Tools &amp; Apps</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:02:12) <a href='https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/'>Midjourney launches its first AI video generation model, V1</a></li>
+<li style="font-weight:400;">(00:05:52) <a href='https://arstechnica.com/ai/2025/06/googles-gemini-ai-family-updated-with-stable-2-5-pro-super-efficient-2-5-flash-lite/'>Google’s Gemini AI family updated with stable 2.5 Pro, super-efficient 2.5 Flash-Lite</a></li>
+<li style="font-weight:400;">(00:07:59) <a href='https://techcrunch.com/2025/06/18/googles-ai-mode-can-now-have-back-and-forth-voice-conversations/'>Google’s AI Mode can now have back-and-forth voice conversations</a></li>
+<li style="font-weight:400;">(00:10:13) <a href='https://www.hollywoodreporter.com/business/digital/youtube-add-google-veo-3-shorts-ai-1236293135/'>YouTube to Add Google’s Veo 3 to Shorts in Move That Could Turbocharge AI on the Video Platform</a></li>
+</ul>
+<ul>
+<li style="font-weight:400;">Applications &amp; Business</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:11:10) <a href='https://www.theverge.com/openai/688783/the-openai-files-will-help-you-understand-how-sam-altmans-company-works'>The ‘OpenAI Files’ will help you understand how Sam Altman’s company works</a></li>
+<li style="font-weight:400;">(00:12:29) <a href='https://techcrunch.com/2025/06/18/openai-drops-scale-ai-as-a-data-provider-following-meta-deal/'>OpenAI drops Scale AI as a data provider following Meta deal</a></li>
+<li style="font-weight:400;">(00:13:28) <a href='https://techcrunch.com/2025/06/18/amazons-zoox-opens-its-first-major-robotaxi-production-facility/'>Amazon’s Zoox opens its first major robotaxi production facility</a></li>
+</ul>
+<ul>
+<li style="font-weight:400;">Projects &amp; Open Source</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:15:20) <a href='https://arxiv.org/abs/2506.11928v1'>LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?</a></li>
+<li style="font-weight:400;">(00:19:45) <a href='https://arxiv.org/abs/2506.09038v1'>AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions</a></li>
+<li style="font-weight:400;">(00:22:49) <a href='https://arxiv.org/abs/2506.13585v1'>MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention</a></li>
+</ul>
+<ul>
+<li style="font-weight:400;">Research &amp; Advancements</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:24:33) <a href='https://arxiv.org/abs/2506.08228v1'>Scaling Laws of Motion Forecasting and Planning -- A Technical Report </a></li>
+</ul>
+<ul>
+<li style="font-weight:400;">Policy &amp; Safety</li>
+</ul>
+<ul>
+<li style="font-weight:400;">(00:28:07) <a href='https://arxiv.org/abs/2506.12880v1'>Universal Jailbreak Suffixes Are Strong Attention Hijackers</a></li>
+<li style="font-weight:400;">(00:30:52) <a href='https://techcrunch.com/2025/06/18/openai-found-features-in-ai-models-that-correspond-to-different-personas/'>OpenAI found features in AI models that correspond to different ‘personas’</a></li>
+<li style="font-weight:400;">(00:33:25) <a href='https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html'>OpenAI wins $200 million U.S. defense contract</a></li>
+</ul>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/chtscnd8dpuwxpiy/lwiai_213.mp3" length="17569051" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[Our 213nd episode with a summary and discussion of last week's big AI news!Recorded on 06/21/2025
+Hosted by Andrey Kurenkov and Jeremie Harris. Feel free to email us your questions and feedback at contact@lastweekinai.com and/or hello@gladstone.ai
+Read out our text newsletter and comment on the podcast at https://lastweekin.ai/.
+In this episode:
+
+Midjourney launches its first AI video generation model, moving from text-to-image to video with a subscription model offering up to 21-second clips, highlighting the affordability and growing capabilities in AI video generation.
+Google's Gemini AI family updates include high-efficiency models for cost-effective workloads, and new enhancements in Google's search function now allow for voice interactions.
+The introduction of two new benchmarks, Live Code Bench Pro and Abstention Bench, aiming to test and improve the problem-solving and abstention capabilities of reasoning models, revealing current limitations.
+OpenAI wins a $200 million US defense contract to support various aspects of the Department of Defense, reflecting growing collaborations between tech companies and government for AI applications.
+
+Timestamps + Links:
+
+(00:00:10) Intro / Banter
+(00:01:32) News Preview
+Tools &amp; Apps
+
+
+(00:02:12) Midjourney launches its first AI video generation model, V1
+(00:05:52) Google’s Gemini AI family updated with stable 2.5 Pro, super-efficient 2.5 Flash-Lite
+(00:07:59) Google’s AI Mode can now have back-and-forth voice conversations
+(00:10:13) YouTube to Add Google’s Veo 3 to Shorts in Move That Could Turbocharge AI on the Video Platform
+
+
+Applications &amp; Business
+
+
+(00:11:10) The ‘OpenAI Files’ will help you understand how Sam Altman’s company works
+(00:12:29) OpenAI drops Scale AI as a data provider following Meta deal
+(00:13:28) Amazon’s Zoox opens its first major robotaxi production facility
+
+
+Projects &amp; Open Source
+
+
+(00:15:20) LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?
+(00:19:45) AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions
+(00:22:49) MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention
+
+
+Research &amp; Advancements
+
+
+(00:24:33) Scaling Laws of Motion Forecasting and Planning -- A Technical Report 
+
+
+Policy &amp; Safety
+
+
+(00:28:07) Universal Jailbreak Suffixes Are Strong Attention Hijackers
+(00:30:52) OpenAI found features in AI models that correspond to different ‘personas’
+(00:33:25) OpenAI wins $200 million U.S. defense contract
+]]></itunes:summary>
+        <itunes:author>Skynet Today</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>36:36</itunes:duration>
+                <itunes:episode>253</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7703921/61396273.png" /><podcast:transcript url="https://mcdn.podbean.com/mf/web/s9rf4pvumymshg6v/lwiai_213.srt" type="application/srt" /><podcast:chapters url="https://mcdn.podbean.com/mf/web/zg2tjh68he3xwsf6/lwiai_213_chapters.json" type="application/json" />    </item>
+    <item>
         <title>#212 - o3 pro, Cursor 1.0, ProRL, Midjourney Sued</title>
         <itunes:title>#212 - o3 pro, Cursor 1.0, ProRL, Midjourney Sued</itunes:title>
         <link>https://www.lastweekinai.com/e/212/</link>
                     <comments>https://www.lastweekinai.com/e/212/#comments</comments>        <pubDate>Mon, 16 Jun 2025 22:07:53 -0700</pubDate>
         <guid isPermaLink="false">aitalk.podbean.com/dd24ee83-bdcc-35f2-a99a-0c8e9dc1a1bc</guid>
                                     <description><![CDATA[<p>Our 212th episode with a summary and discussion of last week's big AI news!
-Recorded on 06/33/2025</p>
+Recorded on 06/13/2025</p>
 <p>Hosted by <a href='https://twitter.com/andrey_kurenkov'>Andrey Kurenkov</a> and <a href='https://twitter.com/jeremiecharris'>Jeremie Harris</a>. 
 Feel free to email us your questions and feedback at <a href='mailto:contact@lastweekinai.com'>contact@lastweekinai.com </a>and/or <a href='mailto:hello@gladstone.ai'>hello@gladstone.ai</a></p>
 <p>Read out our text newsletter and comment on the podcast at <a href='https://lastweekin.ai/'>https://lastweekin.ai/</a>.</p>
@@ -65,7 +244,8 @@ Feel free to email us your questions and feedback at <a href='mailto:contact@las
 <li style="font-weight:400;">(00:00:11) Intro / Banter</li>
 <li style="font-weight:400;">(00:01:31) News Preview</li>
 <li style="font-weight:400;">(00:02:46) Response to Listener Reviews</li>
-<li style="font-weight:400;">Tools &amp; Apps<ul>
+<li style="font-weight:400;">Tools &amp; Apps
+<ul>
 <li style="font-weight:400;">(00:04:48) <a href='https://www.indiatoday.in/technology/news/story/openai-adds-o3-pro-to-chatgpt-and-drops-o3-price-by-80-per-cent-but-open-source-ai-is-delayed-2739043-2025-06-11'>OpenAI adds o3 Pro to ChatGPT and drops o3 price by 80 per cent, but open-source AI is delayed</a></li>
 <li style="font-weight:400;">(00:09:10) <a href='https://devclass.com/2025/06/06/cursor-ai-editor-hits-1-0-milestone-including-bugbot-and-high-risk-background-agents/'>Cursor AI editor hits 1.0 milestone, including BugBot and high-risk background agents</a></li>
 <li style="font-weight:400;">(00:13:07) <a href='https://techcrunch.com/2025/06/10/mistral-releases-a-pair-of-ai-reasoning-models/'>Mistral releases a pair of AI reasoning models</a></li>
@@ -74,8 +254,8 @@ Feel free to email us your questions and feedback at <a href='mailto:contact@las
 <li style="font-weight:400;">(00:22:42) <a href='https://www.techtimes.com/articles/310725/20250610/google-reveals-20-ai-pro-plan-veo-3-fast-video-generator-budget-creators.htm'>Google Reveals $20 AI Pro Plan With Veo 3 Fast Video Generator For Budget Creators</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Applications &amp; Business<ul>
+<li style="font-weight:400;">Applications &amp; Business
+<ul>
 <li style="font-weight:400;">(00:25:42) <a href='https://fortune.com/2025/06/03/openai-deepmind-anthropic-loosing-engineers-ai-talent-war/'>OpenAI and DeepMind are losing engineers to Anthropic in a one-sided talent war</a></li>
 <li style="font-weight:400;">(00:34:32) <a href='https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/'>OpenAI slams court order to save all ChatGPT logs, including deleted chats</a></li>
 <li style="font-weight:400;">(00:37:24) <a href='https://www.theinformation.com/articles/nvidias-biggest-chinese-rival-huawei-struggles-win-home?rc=6zqgxt'>Nvidia’s Biggest Chinese Rival Huawei Struggles to Win at Home</a></li>
@@ -84,38 +264,37 @@ Feel free to email us your questions and feedback at <a href='mailto:contact@las
 <li style="font-weight:400;">(00:47:43) <a href='https://analyticsindiamag.com/ai-news-updates/mistral-ai-launches-mistral-compute-to-replace-cloud-providers-from-us-china/'>Mistral AI Launches Mistral Compute To Replace Cloud Providers from US, China</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Projects &amp; Open Source<ul>
+<li style="font-weight:400;">Projects &amp; Open Source
+<ul>
 <li style="font-weight:400;">(00:51:26) <a href='https://arxiv.org/abs/2505.24864'>ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Research &amp; Advancements<ul>
+<li style="font-weight:400;">Research &amp; Advancements
+<ul>
 <li style="font-weight:400;">(00:57:27) <a href='https://arxiv.org/abs/2506.05333'>Kinetics: Rethinking Test-Time Scaling Laws</a></li>
 <li style="font-weight:400;">(01:05:12) <a href='https://arxiv.org/abs/2506.01347'>The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning</a></li>
 <li style="font-weight:400;">(01:10:45) <a href='https://arxiv.org/abs/2506.00794'>Predicting Empirical AI Research Outcomes with Language Models</a></li>
 <li style="font-weight:400;">(01:15:02) <a href='https://arxiv.org/abs/2505.24785'>EXP-Bench: Can AI Conduct AI Research Experiments?</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Policy &amp; Safety<ul>
+<li style="font-weight:400;">Policy &amp; Safety
+<ul>
 <li style="font-weight:400;">(01:20:07) <a href='https://www.arxiv.org/abs/2505.23836'>Large Language Models Often Know When They Are Being Evaluated</a></li>
 <li style="font-weight:400;">(01:24:56) <a href='https://arxiv.org/abs/2505.16694'>Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence</a></li>
 <li style="font-weight:400;">(01:31:16) <a href='https://fortune.com/2025/06/11/microsoft-copilot-vulnerability-ai-agents-echoleak-hacking/'>Exclusive: New Microsoft Copilot flaw signals broader risk of AI agents being hacked—‘I would be terrified’</a></li>
 <li style="font-weight:400;">(01:35:01) <a href='https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers'>Claude Gov Models for U.S. National Security Customers</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Synthetic Media &amp; Art<ul>
+<li style="font-weight:400;">Synthetic Media &amp; Art
+<ul>
 <li style="font-weight:400;">(01:37:32) <a href='https://deadline.com/2025/06/disney-nbcuniversal-ai-lawsuit-1236430694/'>Disney And NBCUniversal Sue AI Company Midjourney For Copyright Infringement</a></li>
 <li style="font-weight:400;">(01:40:39) <a href='https://www.engadget.com/ai/amc-networks-is-teaming-up-with-ai-company-runway-141959898.html'>AMC Networks is teaming up with AI company Runway</a></li>
 </ul>
 </li>
-
 </ul>
 ]]></description>
                                                             <content:encoded><![CDATA[<p>Our 212th episode with a summary and discussion of last week's big AI news!<br>
-Recorded on 06/33/2025</p>
+Recorded on 06/13/2025</p>
 <p>Hosted by <a href='https://twitter.com/andrey_kurenkov'>Andrey Kurenkov</a> and <a href='https://twitter.com/jeremiecharris'>Jeremie Harris</a>. <br>
 Feel free to email us your questions and feedback at <a href='mailto:contact@lastweekinai.com'>contact@lastweekinai.com </a>and/or <a href='mailto:hello@gladstone.ai'>hello@gladstone.ai</a></p>
 <p>Read out our text newsletter and comment on the podcast at <a href='https://lastweekin.ai/'>https://lastweekin.ai/</a>.</p>
@@ -131,7 +310,8 @@ Feel free to email us your questions and feedback at <a href='mailto:contact@las
 <li style="font-weight:400;">(00:00:11) Intro / Banter</li>
 <li style="font-weight:400;">(00:01:31) News Preview</li>
 <li style="font-weight:400;">(00:02:46) Response to Listener Reviews</li>
-<li style="font-weight:400;">Tools &amp; Apps<ul>
+<li style="font-weight:400;">Tools &amp; Apps
+<ul>
 <li style="font-weight:400;">(00:04:48) <a href='https://www.indiatoday.in/technology/news/story/openai-adds-o3-pro-to-chatgpt-and-drops-o3-price-by-80-per-cent-but-open-source-ai-is-delayed-2739043-2025-06-11'>OpenAI adds o3 Pro to ChatGPT and drops o3 price by 80 per cent, but open-source AI is delayed</a></li>
 <li style="font-weight:400;">(00:09:10) <a href='https://devclass.com/2025/06/06/cursor-ai-editor-hits-1-0-milestone-including-bugbot-and-high-risk-background-agents/'>Cursor AI editor hits 1.0 milestone, including BugBot and high-risk background agents</a></li>
 <li style="font-weight:400;">(00:13:07) <a href='https://techcrunch.com/2025/06/10/mistral-releases-a-pair-of-ai-reasoning-models/'>Mistral releases a pair of AI reasoning models</a></li>
@@ -140,8 +320,8 @@ Feel free to email us your questions and feedback at <a href='mailto:contact@las
 <li style="font-weight:400;">(00:22:42) <a href='https://www.techtimes.com/articles/310725/20250610/google-reveals-20-ai-pro-plan-veo-3-fast-video-generator-budget-creators.htm'>Google Reveals $20 AI Pro Plan With Veo 3 Fast Video Generator For Budget Creators</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Applications &amp; Business<ul>
+<li style="font-weight:400;">Applications &amp; Business
+<ul>
 <li style="font-weight:400;">(00:25:42) <a href='https://fortune.com/2025/06/03/openai-deepmind-anthropic-loosing-engineers-ai-talent-war/'>OpenAI and DeepMind are losing engineers to Anthropic in a one-sided talent war</a></li>
 <li style="font-weight:400;">(00:34:32) <a href='https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/'>OpenAI slams court order to save all ChatGPT logs, including deleted chats</a></li>
 <li style="font-weight:400;">(00:37:24) <a href='https://www.theinformation.com/articles/nvidias-biggest-chinese-rival-huawei-struggles-win-home?rc=6zqgxt'>Nvidia’s Biggest Chinese Rival Huawei Struggles to Win at Home</a></li>
@@ -150,39 +330,38 @@ Feel free to email us your questions and feedback at <a href='mailto:contact@las
 <li style="font-weight:400;">(00:47:43) <a href='https://analyticsindiamag.com/ai-news-updates/mistral-ai-launches-mistral-compute-to-replace-cloud-providers-from-us-china/'>Mistral AI Launches Mistral Compute To Replace Cloud Providers from US, China</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Projects &amp; Open Source<ul>
+<li style="font-weight:400;">Projects &amp; Open Source
+<ul>
 <li style="font-weight:400;">(00:51:26) <a href='https://arxiv.org/abs/2505.24864'>ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Research &amp; Advancements<ul>
+<li style="font-weight:400;">Research &amp; Advancements
+<ul>
 <li style="font-weight:400;">(00:57:27) <a href='https://arxiv.org/abs/2506.05333'>Kinetics: Rethinking Test-Time Scaling Laws</a></li>
 <li style="font-weight:400;">(01:05:12) <a href='https://arxiv.org/abs/2506.01347'>The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning</a></li>
 <li style="font-weight:400;">(01:10:45) <a href='https://arxiv.org/abs/2506.00794'>Predicting Empirical AI Research Outcomes with Language Models</a></li>
 <li style="font-weight:400;">(01:15:02) <a href='https://arxiv.org/abs/2505.24785'>EXP-Bench: Can AI Conduct AI Research Experiments?</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Policy &amp; Safety<ul>
+<li style="font-weight:400;">Policy &amp; Safety
+<ul>
 <li style="font-weight:400;">(01:20:07) <a href='https://www.arxiv.org/abs/2505.23836'>Large Language Models Often Know When They Are Being Evaluated</a></li>
 <li style="font-weight:400;">(01:24:56) <a href='https://arxiv.org/abs/2505.16694'>Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence</a></li>
 <li style="font-weight:400;">(01:31:16) <a href='https://fortune.com/2025/06/11/microsoft-copilot-vulnerability-ai-agents-echoleak-hacking/'>Exclusive: New Microsoft Copilot flaw signals broader risk of AI agents being hacked—‘I would be terrified’</a></li>
 <li style="font-weight:400;">(01:35:01) <a href='https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers'>Claude Gov Models for U.S. National Security Customers</a></li>
 </ul>
 </li>
-
-<li style="font-weight:400;">Synthetic Media &amp; Art<ul>
+<li style="font-weight:400;">Synthetic Media &amp; Art
+<ul>
 <li style="font-weight:400;">(01:37:32) <a href='https://deadline.com/2025/06/disney-nbcuniversal-ai-lawsuit-1236430694/'>Disney And NBCUniversal Sue AI Company Midjourney For Copyright Infringement</a></li>
 <li style="font-weight:400;">(01:40:39) <a href='https://www.engadget.com/ai/amc-networks-is-teaming-up-with-ai-company-runway-141959898.html'>AMC Networks is teaming up with AI company Runway</a></li>
 </ul>
 </li>
-
 </ul>
 ]]></content:encoded>
                                     
         <enclosure url="https://mcdn.podbean.com/mf/web/9q58rn4tbdt7xqk8/lwiai_212.mp3" length="50951383" type="audio/mpeg"/>
-        <itunes:summary><![CDATA[Our 212th episode with a summary and discussion of last week's big AI news!Recorded on 06/33/2025
+        <itunes:summary><![CDATA[Our 212th episode with a summary and discussion of last week's big AI news!Recorded on 06/13/2025
 Hosted by Andrey Kurenkov and Jeremie Harris. Feel free to email us your questions and feedback at contact@lastweekinai.com and/or hello@gladstone.ai
 Read out our text newsletter and comment on the podcast at https://lastweekin.ai/.
 In this episode:
@@ -198,6 +377,7 @@ Timestamps + Links:
 (00:01:31) News Preview
 (00:02:46) Response to Listener Reviews
 Tools &amp; Apps
+
 (00:04:48) OpenAI adds o3 Pro to ChatGPT and drops o3 price by 80 per cent, but open-source AI is delayed
 (00:09:10) Cursor AI editor hits 1.0 milestone, including BugBot and high-risk background agents
 (00:13:07) Mistral releases a pair of AI reasoning models
@@ -207,6 +387,7 @@ Tools &amp; Apps
 
 
 Applications &amp; Business
+
 (00:25:42) OpenAI and DeepMind are losing engineers to Anthropic in a one-sided talent war
 (00:34:32) OpenAI slams court order to save all ChatGPT logs, including deleted chats
 (00:37:24) Nvidia’s Biggest Chinese Rival Huawei Struggles to Win at Home
@@ -216,10 +397,12 @@ Applications &amp; Business
 
 
 Projects &amp; Open Source
+
 (00:51:26) ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models
 
 
 Research &amp; Advancements
+
 (00:57:27) Kinetics: Rethinking Test-Time Scaling Laws
 (01:05:12) The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning
 (01:10:45) Predicting Empirical AI Research Outcomes with Language Models
@@ -227,6 +410,7 @@ Research &amp; Advancements
 
 
 Policy &amp; Safety
+
 (01:20:07) Large Language Models Often Know When They Are Being Evaluated
 (01:24:56) Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence
 (01:31:16) Exclusive: New Microsoft Copilot flaw signals broader risk of AI agents being hacked—‘I would be terrified’
@@ -234,6 +418,7 @@ Policy &amp; Safety
 
 
 Synthetic Media &amp; Art
+
 (01:37:32) Disney And NBCUniversal Sue AI Company Midjourney For Copyright Infringement
 (01:40:39) AMC Networks is teaming up with AI company Runway
 
@@ -245,7 +430,7 @@ Synthetic Media &amp; Art
         <itunes:duration>01:46:08</itunes:duration>
                 <itunes:episode>252</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7703921/61396273.png" /><podcast:transcript url="https://mcdn.podbean.com/mf/web/hutcdzvsuuip3f5u/lwiai_212.srt" type="application/srt" /><podcast:chapters url="https://mcdn.podbean.com/mf/web/ab9ejxmmgw3e6jr8/lwiai_212_chapters.json" type="application/json" />    </item>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7703921/cursor-app-icon.png" /><podcast:transcript url="https://mcdn.podbean.com/mf/web/hutcdzvsuuip3f5u/lwiai_212.srt" type="application/srt" /><podcast:chapters url="https://mcdn.podbean.com/mf/web/ab9ejxmmgw3e6jr8/lwiai_212_chapters.json" type="application/json" />    </item>
     <item>
         <title>#211 - Claude Voice, Flux Kontext, wrong RL research?</title>
         <itunes:title>#211 - Claude Voice, Flux Kontext, wrong RL research?</itunes:title>

@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://casualinfer.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Casual Inference</title>
-		<pubDate>Thu, 29 May 2025 10:00:00 +0000</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 17:25:00 +0000</lastBuildDate>
+		<pubDate>Thu, 26 Jun 2025 12:56:00 +0000</pubDate>
+		<lastBuildDate>Thu, 26 Jun 2025 13:12:07 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://casualinfer.libsyn.com/website</link>
 		<language>en-us</language>
@@ -35,6 +35,42 @@
 
 		<podcast:locked owner="casualinfer@gmail.com">no</podcast:locked>
 		
+		<item>
+			<title>Optimizing Data Workflows with Emily Riederer | Season 6 Episode 8</title>
+			<itunes:title>Optimizing Data Workflows with Emily Riederer</itunes:title>
+			<pubDate>Thu, 26 Jun 2025 12:56:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f684f522-42cf-4abe-a0b4-6f59bb5ed46b]]></guid>
+			<link><![CDATA[https://casualinfer.libsyn.com/optimizing-data-workflows-with-emily-riederer-season-6-episode-8]]></link>
+			<description><![CDATA[<div>Emily Riederer is a Data Science Senior Manager at Credit Risk Modeling Capital One. Her website can be found here: <a href= "https://www.emilyriederer.com/">https://www.emilyriederer.com/</a></div> <div> </div> <div>Follow along on Bluesky:</div> <div> <ul> <li>Emily: <a href= "https://bsky.app/profile/emilyriederer.bsky.social%E2%80%AC" target="_blank" rel= "noopener">‪@emilyriederer.bsky.social‬</a></li> <li>Ellie: <a href= "https://bsky.app/profile/epiellie.bsky.social" target="_blank" rel="noopener">@epiellie.bsky.social</a></li> <li>Lucy: <a href= "https://bsky.app/profile/lucystats.bsky.social" target="_blank" rel="noopener">@lucystats.bsky.social</a></li> </ul> </div> <div> </div> <div>🎶 Our intro/outro music is courtesy of <a href= "https://josephmcdade.com/music" target="_blank" rel= "noopener">Joseph McDade</a>.</div> <div>Edited by <a href="http://cambopp.com/" target="_blank" rel="noopener">Cameron Bopp</a>.</div>]]></description>
+			<content:encoded><![CDATA[Emily Riederer is a Data Science Senior Manager at Credit Risk Modeling Capital One. Her website can be found here: <a href= "https://www.emilyriederer.com/">https://www.emilyriederer.com/</a>   Follow along on Bluesky:  <ul> <li>Emily: <a href= "https://bsky.app/profile/emilyriederer.bsky.social%E2%80%AC" target="_blank" rel= "noopener">‪@emilyriederer.bsky.social‬</a></li> <li>Ellie: <a href= "https://bsky.app/profile/epiellie.bsky.social" target="_blank" rel="noopener">@epiellie.bsky.social</a></li> <li>Lucy: <a href= "https://bsky.app/profile/lucystats.bsky.social" target="_blank" rel="noopener">@lucystats.bsky.social</a></li> </ul>    🎶 Our intro/outro music is courtesy of <a href= "https://josephmcdade.com/music" target="_blank" rel= "noopener">Joseph McDade</a>. Edited by <a href="http://cambopp.com/" target="_blank" rel="noopener">Cameron Bopp</a>.]]></content:encoded>
+			<enclosure length="38231899" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/Casual_Inference_S6E8.mp3?dest-id=1431803" />
+			<itunes:duration>52:55</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>statistics,epidemiology,biostatistics,data science</itunes:keywords>
+			<itunes:subtitle><![CDATA[Emily Riederer is a Data Science Senior Manager at Credit Risk Modeling Capital One. Her website can be found here:    Follow along on Bluesky:   Emily:  Ellie:  Lucy:      🎶 Our intro/outro music is courtesy of . Edited...]]></itunes:subtitle>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>67</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Lucy D'Agostino McGowan and Ellie Murray</itunes:author>
+		</item>
+		<item>
+			<title>Combining Data &amp; Making Effects Generalizable with Carly Brantner | Season 6 Episode 7</title>
+			<itunes:title>Combining Data &amp; Making Effects Generalizable with Carly Brantner</itunes:title>
+			<pubDate>Tue, 17 Jun 2025 21:47:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5bda5e4e-7fef-4ec9-a6b6-24ae5689d238]]></guid>
+			<link><![CDATA[https://casualinfer.libsyn.com/combining-data-making-effects-generalizable-with-carly-brantner-season-6-episode-7]]></link>
+			<description><![CDATA[<p>Carly Brantner is an assistant professor of Biostatistics & Bioinformatics at Duke University and Duke Clinical Research Institute.</p> <div dir="ltr" data-originalfontsize="12pt" data-originalcomputedfontsize="16">Resources from this episode:</div> <ul> <li> <div dir="ltr" data-removefontsize="true" data-originalcomputedfontsize="16"><a href= "https://github.com/dobengjhu/multicate/tree/v1.0.0" target= "_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://github.com/dobengjhu/multicate/tree/v1.0.0&source=gmail&ust=1750282889396000&usg=AOvVaw1UHcgpvxSBKjuKggHm8nbn" data-removefontsize="true" data-originalcomputedfontsize= "16">multicate</a>: R package for estimating conditional average treatment effects across one or more studies using machine learning methods</div> </li> <li> <div dir="ltr" data-removefontsize="true" data-originalcomputedfontsize="16"><a href= "https://pcornet.org/front-door/" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://pcornet.org/front-door/&source=gmail&ust=1750282889396000&usg=AOvVaw1DeAaNEiJMpI25X_2TVkTL" data-removefontsize="true" data-originalcomputedfontsize= "16">PCORnet® Front Door</a>: Access point for potential investigators, patient groups, and other stakeholders to connect with PCORnet and get support for potential research studies</div> </li> <li> <div dir="ltr" data-removefontsize="true" data-originalcomputedfontsize="16"><a href= "https://www.icpsr.umich.edu/web/pages/pcodr/" target="_blank" rel= "noopener" data-saferedirecturl= "https://www.google.com/url?q=https://www.icpsr.umich.edu/web/pages/pcodr/&source=gmail&ust=1750282889396000&usg=AOvVaw0Zb61ItJiot6CJyIsBtr2X" data-removefontsize="true" data-originalcomputedfontsize= "16">Patient-Centered Outcomes Data Repository (PDOCR)</a>: De-identified data from 24 (and counting) PCORI-funded studies</div> </li> </ul> <div>Follow along on Bluesky:</div> <div> <ul> <li>Carly: <a href= "https://bsky.app/profile/carlybrantner.bsky.social" target= "_blank" rel="noopener">@carlybrantner.bsky.social</a></li> <li>Ellie: <a href= "https://bsky.app/profile/epiellie.bsky.social" target="_blank" rel="noopener">@epiellie.bsky.social</a></li> <li>Lucy: <a href= "https://bsky.app/profile/lucystats.bsky.social" target="_blank" rel="noopener">@lucystats.bsky.social</a></li> </ul> </div> <div> </div> <div>🎶 Our intro/outro music is courtesy of <a href= "https://josephmcdade.com/music" target="_blank" rel= "noopener">Joseph McDade</a>.</div> <div>Edited by <a href="http://cambopp.com/" target="_blank" rel= "noopener">Cameron Bopp</a>.</div>]]></description>
+			<content:encoded><![CDATA[<p>Carly Brantner is an assistant professor of Biostatistics & Bioinformatics at Duke University and Duke Clinical Research Institute.</p> Resources from this episode: <ul> <li> <a href= "https://github.com/dobengjhu/multicate/tree/v1.0.0" target= "_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://github.com/dobengjhu/multicate/tree/v1.0.0&source=gmail&ust=1750282889396000&usg=AOvVaw1UHcgpvxSBKjuKggHm8nbn" data-removefontsize="true" data-originalcomputedfontsize= "16">multicate</a>: R package for estimating conditional average treatment effects across one or more studies using machine learning methods </li> <li> <a href= "https://pcornet.org/front-door/" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://pcornet.org/front-door/&source=gmail&ust=1750282889396000&usg=AOvVaw1DeAaNEiJMpI25X_2TVkTL" data-removefontsize="true" data-originalcomputedfontsize= "16">PCORnet® Front Door</a>: Access point for potential investigators, patient groups, and other stakeholders to connect with PCORnet and get support for potential research studies </li> <li> <a href= "https://www.icpsr.umich.edu/web/pages/pcodr/" target="_blank" rel= "noopener" data-saferedirecturl= "https://www.google.com/url?q=https://www.icpsr.umich.edu/web/pages/pcodr/&source=gmail&ust=1750282889396000&usg=AOvVaw0Zb61ItJiot6CJyIsBtr2X" data-removefontsize="true" data-originalcomputedfontsize= "16">Patient-Centered Outcomes Data Repository (PDOCR)</a>: De-identified data from 24 (and counting) PCORI-funded studies </li> </ul> Follow along on Bluesky:  <ul> <li>Carly: <a href= "https://bsky.app/profile/carlybrantner.bsky.social" target= "_blank" rel="noopener">@carlybrantner.bsky.social</a></li> <li>Ellie: <a href= "https://bsky.app/profile/epiellie.bsky.social" target="_blank" rel="noopener">@epiellie.bsky.social</a></li> <li>Lucy: <a href= "https://bsky.app/profile/lucystats.bsky.social" target="_blank" rel="noopener">@lucystats.bsky.social</a></li> </ul>    🎶 Our intro/outro music is courtesy of <a href= "https://josephmcdade.com/music" target="_blank" rel= "noopener">Joseph McDade</a>. Edited by <a href="http://cambopp.com/" target="_blank" rel= "noopener">Cameron Bopp</a>.]]></content:encoded>
+			<enclosure length="37634426" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/Casual_Inference_S6E7.mp3?dest-id=1431803" />
+			<itunes:duration>52:05</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>statistics,epidemiology,duke,biostatistics,data science,causal inference,wake forest</itunes:keywords>
+			<itunes:subtitle><![CDATA[Carly Brantner is an assistant professor of Biostatistics & Bioinformatics at Duke University and Duke Clinical Research Institute. Resources from this episode:   : R package for estimating conditional average treatment effects across one or...]]></itunes:subtitle>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>66</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Lucy D'Agostino McGowan and Ellie Murray</itunes:author>
+		</item>
 		<item>
 			<title>The Art of Clarity with Andrew Heiss | Season 6 Episode 6</title>
 			<itunes:title>The Art of Clarity with Andrew Heiss</itunes:title>
@@ -334,7 +370,7 @@
 			<enclosure length="11696447" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/Casual_Inference_S5E1.mp3?dest-id=1431803" />
 			<itunes:duration>17:55</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>statistics,trials,data science</itunes:keywords>
+			<itunes:keywords>statistics,Trials,data science</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie and Lucy kick off the season and introduce our new executive buzzer, Melita! Melita is a masters student in statistics at Wake Forest University and will be helping out with the podcast (and keeping Lucy and Ellie from using too much jargon!)...]]></itunes:subtitle>
 			<itunes:season>5</itunes:season>
 			<itunes:episode>49</itunes:episode>
@@ -478,7 +514,7 @@
 			<enclosure length="39770590" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/CI_S4E5.mp3?dest-id=1431803" />
 			<itunes:duration>01:00:22</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,mathematics,statistics,Economics,epidemiology,biostatistics,econometrics,causal inference,instrumental variables,randomized trials</itunes:keywords>
+			<itunes:keywords>Science,mathematics,statistics,economics,epidemiology,biostatistics,econometrics,causal inference,instrumental variables,randomized trials</itunes:keywords>
 			<itunes:subtitle><![CDATA[Lucy D'Agostino McGowan and Ellie Murray chat with Maria Glymour, Professor of Epidemiology & Biostatstics at UCSF and incoming chair of the Department of Epidemiology at Boston University. Maria successfully convinces Ellie and Lucy that instrumental...]]></itunes:subtitle>
 			<itunes:season>4</itunes:season>
 			<itunes:episode>41</itunes:episode>
@@ -496,7 +532,7 @@
 			<enclosure length="24959811" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/CI_S4E4.mp3?dest-id=1431803" />
 			<itunes:duration>51:43</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>statistics,masking,biostatistics,Covid19,data science,peer review,causal inference</itunes:keywords>
+			<itunes:keywords>statistics,masking,biostatistics,covid19,data science,peer review,causal inference</itunes:keywords>
 			<itunes:subtitle><![CDATA[Lucy D'Agostino McGowan and Ellie Murray chat about critiquing methods research, average treatment effects, and positivity violations! Follow along on Twitter:  The American Journal of Epidemiology:  Ellie:  Lucy:   🎶 Our...]]></itunes:subtitle>
 			<itunes:season>4</itunes:season>
 			<itunes:episode>40</itunes:episode>
@@ -550,7 +586,7 @@
 			<enclosure length="26321624" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/Casual_Inference_S4E1.mp3?dest-id=1431803" />
 			<itunes:duration>54:51</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Health,epidemiology,biostatistics,data science,statistcs,causal inference</itunes:keywords>
+			<itunes:keywords>health,epidemiology,biostatistics,data science,statistcs,causal inference</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode Ellie Murray and Lucy D'Agostino McGowan chat with Enrique Schisterman, Perelman Professor and Chair of the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, about the future of epidemiology....]]></itunes:subtitle>
 			<itunes:season>4</itunes:season>
 			<itunes:episode>37</itunes:episode>
@@ -640,7 +676,7 @@
 			<enclosure length="39792518" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/CI_S3E9.mp3?dest-id=1431803" />
 			<itunes:duration>55:04</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>statistics,epidemiology,ArtificialIntelligence,datascience,biostatistics,causalinference,PersonalizedMedicine</itunes:keywords>
+			<itunes:keywords>statistics,epidemiology,artificialintelligence,datascience,biostatistics,causalinference,PersonalizedMedicine</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode Lucy D'Agostino McGowan and Ellie Murray chat with , Chancellor professor of computer science and statistics at the University of California, Los Angeles. 📄  📖  Follow along on Twitter:  Judea:  The American Journal of...]]></itunes:subtitle>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>32</itunes:episode>
@@ -658,7 +694,7 @@
 			<enclosure length="23539377" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/casual-inference-s3e8.mp3?dest-id=1431803" />
 			<itunes:duration>48:45</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,data,History,statistics,epidemiology,cookies,cholera,datascience,biostatistics</itunes:keywords>
+			<itunes:keywords>Science,data,history,statistics,epidemiology,cookies,cholera,datascience,biostatistics</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode Lucy D'Agostino McGowan and Ellie Murray chat with #EpiCookieChallenge winner, Chris Schaich about the epidemiologist John Snow. Dr. Schaich is an assistant professor at Wake Forest School of Medicine in the Hypertension and Vascular...]]></itunes:subtitle>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>31</itunes:episode>
@@ -676,7 +712,7 @@
 			<enclosure length="49584925" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/season3_episode7.mp3?dest-id=1431803" />
 			<itunes:duration>01:11:47</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,data,computer,statistics,Economics,inference,epidemiology,Casual,causal,biostatistics</itunes:keywords>
+			<itunes:keywords>Science,data,computer,statistics,economics,inference,epidemiology,Casual,causal,biostatistics</itunes:keywords>
 			<itunes:subtitle><![CDATA[EpiEllie at the University of Minnesota]]></itunes:subtitle>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>30</itunes:episode>
@@ -694,7 +730,7 @@
 			<enclosure length="34753180" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/Casual_Inference_S3E06.mp3?dest-id=1431803" />
 			<itunes:duration>01:12:06</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,data,computer,statistics,Economics,inference,epidemiology,Casual,causal,biostatistics</itunes:keywords>
+			<itunes:keywords>Science,data,computer,statistics,economics,inference,epidemiology,Casual,causal,biostatistics</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode Lucy D'Agostino McGowan and Ellie Murray chat about the history of causal inference, tracing the origins across disciplines from statistics to economics, epidemiology, and computer science, discussing contributions from Rubin, Robins,...]]></itunes:subtitle>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>29</itunes:episode>
@@ -874,7 +910,7 @@
 			<enclosure length="39872494" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/01-anniversary.mp3?dest-id=1431803" />
 			<itunes:duration>54:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Mask,statistics,epidemiology,vaccines,biostatistics,Covid</itunes:keywords>
+			<itunes:keywords>Mask,statistics,epidemiology,vaccines,biostatistics,COVID</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan chat about ecological studies, the new Pfizer vaccine interim analysis, and more! 📈  (h/t )  📈  🗞  📓  PeDAGogy Here is the DAG from our peDAGogy segment:  Follow along on Twitter:  The American...]]></itunes:subtitle>
 			<itunes:season>2</itunes:season>
 			<itunes:episode>19</itunes:episode>
@@ -910,7 +946,7 @@
 			<enclosure length="71089010" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/17-school-opening.mp3?dest-id=1431803" />
 			<itunes:duration>01:14:51</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>school,statistics,Economics,epidemiology,biostatistics,Covid</itunes:keywords>
+			<itunes:keywords>school,statistics,economics,epidemiology,biostatistics,COVID</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan talk about the causal questions linked to schools opening during the COVID-19 pandemic. Then they have Dr. Emily Oster, professor of economics at Brown University, on to discuss her thoughts on and...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>17</itunes:episode>
@@ -946,7 +982,7 @@
 			<enclosure length="59120868" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/15_Betsy-final.mp3?dest-id=1431803" />
 			<itunes:duration>01:14:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>statistics,epidemiology,RCTs,biostatistics,randomizedcontrolledtrials,causalinference,Covid19,sarscov2,deconfounder</itunes:keywords>
+			<itunes:keywords>statistics,epidemiology,RCTs,biostatistics,randomizedcontrolledtrials,causalinference,covid19,sarscov2,deconfounder</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan discuss methodological advancement in causal inference with Dr. Elizabeth Ogburn from Johns Hopkins Bloomberg School of Public Health. 📄 Wang & Blei's  paper 🦠  📈  Follow along on Twitter:  The...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>15</itunes:episode>
@@ -964,7 +1000,7 @@
 			<enclosure length="49128180" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/14-casual-inference-live.mp3?dest-id=1431803" />
 			<itunes:duration>50:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>statistics,epidemiology,coronavirus,biostatistics,Covid,casualinference</itunes:keywords>
+			<itunes:keywords>statistics,epidemiology,coronavirus,biostatistics,COVID,casualinference</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan are live for Society for Epidemiologic Research (SER) week! Follow along on Twitter:  The American Journal of Epidemiology:  Ellie:  Lucy:   🎶 Our intro/outro music is courtesy of ....]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>14</itunes:episode>
@@ -982,7 +1018,7 @@
 			<enclosure length="89470859" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/13-goodman.mp3?dest-id=1431803" />
 			<itunes:duration>01:59:18</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Health,community,statistics,measure,epidemiology,Engagement,Casual,Disparities,coronavirus,datascience,causalinference,Covid,propensityscore</itunes:keywords>
+			<itunes:keywords>health,community,statistics,Measure,epidemiology,Engagement,Casual,Disparities,coronavirus,datascience,causalinference,COVID,propensityscore</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan discuss community engagement, health disparities, and measure development with Dr. Melody Goodman from New York University Global School of Public Health. 🐦 Jonathan Jackson's  📄 Goodman's paper  📄...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>13</itunes:episode>
@@ -1000,7 +1036,7 @@
 			<enclosure length="29343673" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/Episode12_NoGuest.mp3?dest-id=1431803" />
 			<itunes:duration>35:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>statistics,epidemiology,observational,Masks,studies,Casual,coronavirus,biostatistics,Covid19,causalinterence</itunes:keywords>
+			<itunes:keywords>statistics,epidemiology,observational,masks,studies,Casual,coronavirus,biostatistics,covid19,causalinterence</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan chat about coronavirus, the evidence we have about masks, and designing observational studies. Follow along on Twitter:  The American Journal of Epidemiology:  Ellie:  Lucy:   🎶 Our...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>12</itunes:episode>
@@ -1019,7 +1055,7 @@
 			<enclosure length="48301652" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/Episode11_FrankHarrell.mp3?dest-id=1431803" />
 			<itunes:duration>57:23</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Model,validation,statistics,epidemiology,Bayesian,coronavirus,RCTs,biostatistics,randomizedcontrolledtrials,splines,translationalresearch,causalinference,Covid19</itunes:keywords>
+			<itunes:keywords>Model,validation,statistics,epidemiology,Bayesian,coronavirus,RCTs,biostatistics,randomizedcontrolledtrials,splines,translationalresearch,causalinference,covid19</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan discuss Bayesian statistics, model validation, and more, with special guest Dr. Frank Harrell from the Department of Biostatistics at Vanderbilt University. 🤷‍♀️What does it mean to be Bayesian?...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>11</itunes:episode>
@@ -1036,7 +1072,7 @@
 			<enclosure length="55849604" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/10-coronavirus-2.mp3?dest-id=1431803" />
 			<itunes:duration>57:00</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Model,modeling,math,statistics,inference,epidemiology,Casual,uncertainty,coronavirus,causal,biostatistics,ncov,Covid19,sarscov2</itunes:keywords>
+			<itunes:keywords>Model,modeling,math,statistics,inference,epidemiology,Casual,uncertainty,coronavirus,causal,biostatistics,ncov,covid19,sarscov2</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan discuss coronavirus a bit more, focusing on mask wearing, data quality, disease modeling, and more!  📈  😷  😷  🧪  🤷‍♀️  Follow along on Twitter:  The American Journal of Epidemiology: ...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>10</itunes:episode>
@@ -1054,7 +1090,7 @@
 			<enclosure length="66630135" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/covid.mp3?dest-id=1431803" />
 			<itunes:duration>01:11:02</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,Recommendations,data,research,statistics,Ace,inference,epidemiology,startups,coronavirus,inhibitors,causality,causal,ARBs,Covid19,Covid,sarscov2</itunes:keywords>
+			<itunes:keywords>Science,Recommendations,data,research,statistics,Ace,inference,epidemiology,startups,coronavirus,inhibitors,causality,causal,ARBs,covid19,COVID,sarscov2</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan discuss coronavirus with an added segment discussing current recommendations for people taking ACE inhibitors or ARBS with Andrew South from Wake Forest School of Medicine. 👏Wash your hands to Splash...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>9</itunes:episode>
@@ -1110,7 +1146,7 @@
 			<enclosure length="76293132" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/06-liz-stuart.mp3?dest-id=1431803" />
 			<itunes:duration>01:38:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Medical,Science,data,math,statistics,CDC,Medicine,Flu,inference,epidemiology,influenza,Cookie,Casual,validity,Goop,causal,biostatistics,propensity</itunes:keywords>
+			<itunes:keywords>medical,Science,data,math,statistics,CDC,Medicine,Flu,inference,epidemiology,influenza,Cookie,Casual,validity,Goop,causal,biostatistics,propensity</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan chat with Elizabeth Stuart from the Departments of Mental Health, Biostatistics, and Health Policy and Management at the Johns Hopkins Bloomberg School of Public Health.  Here are some links to the content...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>6</itunes:episode>
@@ -1127,7 +1163,7 @@
 			<enclosure length="68810743" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/05-gideon-mk.mp3?dest-id=1431803" />
 			<itunes:duration>01:23:04</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,communication,data,Opera,statistics,Australia,diabetes,inference,epidemiology,Pseudoscience,Mortality,Casual,longevity,causal,biostatistics,confounding</itunes:keywords>
+			<itunes:keywords>Science,communication,data,opera,statistics,Australia,diabetes,inference,epidemiology,pseudoscience,Mortality,Casual,longevity,causal,biostatistics,confounding</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan chat with Gideon Meyerowitz-Katz, an epidemiologist studying at the University of Wollongong and a science communication writer for the Guardian, Observer, and more! Here are some links to the content we talk...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>5</itunes:episode>
@@ -1145,7 +1181,7 @@
 			<enclosure length="65763697" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/04-MattFox.mp3?dest-id=1431803" />
 			<itunes:duration>01:21:20</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,data,Health,statistics,analysis,inference,epidemiology,bias,multiple,causes,sensitivity,causal,biostatistics,mbias</itunes:keywords>
+			<itunes:keywords>Science,data,health,statistics,analysis,inference,epidemiology,bias,multiple,causes,sensitivity,causal,biostatistics,mbias</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan chat with Matt Fox from the Departments of Epidemiology and Global Health at Boston University. Here are some links to the content we talk about in this episode: 📄  📚  🔗 Bias analysis website:  📰...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>4</itunes:episode>
@@ -1163,7 +1199,7 @@
 			<enclosure length="54500327" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/03-sherri-rose.mp3?dest-id=1431803" />
 			<itunes:duration>01:08:37</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,data,Health,learning,Baby,statistics,Care,fairness,inference,epidemiology,machine,bias,Yoda,algorithms,causal,biostatistics</itunes:keywords>
+			<itunes:keywords>Science,data,health,learning,baby,statistics,care,fairness,inference,epidemiology,machine,bias,Yoda,algorithms,causal,biostatistics</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan chat with Sherri Rose from the Department of Health Care Policy at Harvard Medical School. Here are some links to the content we talk about in this episode: 📄  📄  📄   📚  🔗 Sherri's website:...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>3</itunes:episode>
@@ -1181,7 +1217,7 @@
 			<enclosure length="47642699" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/02-Arah-final.mp3?dest-id=1431803" />
 			<itunes:duration>57:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>ICE,Cream,public,Health,summer,statistics,inference,epidemiology,dag,causal</itunes:keywords>
+			<itunes:keywords>ICE,Cream,public,health,SUMMER,statistics,inference,epidemiology,dag,causal</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan chat with Onyebuchi Arah from the Department of Epidemiology and UCLA Fielding School of Public Health about Social Epidemiology. Here are some links to the content we talk about in this episode: 📄  📄 ...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>2</itunes:episode>
@@ -1199,7 +1235,7 @@
 			<enclosure length="43344123" type="audio/mpeg" url="https://traffic.libsyn.com/secure/casualinfer/01-miguel-final.mp3?dest-id=1431803" />
 			<itunes:duration>53:24</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>statistics,inference,epidemiology,trials,causal</itunes:keywords>
+			<itunes:keywords>statistics,inference,epidemiology,Trials,causal</itunes:keywords>
 			<itunes:subtitle><![CDATA[Ellie Murray and Lucy D'Agostino McGowan try to keep it casual in the first episode of the new Casual Inference podcast. Episode 1 features special guest Miguel Hernan from Harvard TH Chan School of Public Health. Listen to learn how to improve your...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>1</itunes:episode>

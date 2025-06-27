@@ -15,7 +15,7 @@
 		<atom:link href="https://scalingtechpod.com/feed/podcast/the-scaling-tech-podcast/" rel="self" type="application/rss+xml"/>
 		<link>https://scalingtechpod.com/series/the-scaling-tech-podcast/</link>
 		<description>Host Arin Sime, along with his guests, brings you the insights you need to handle all the human and technical aspects of managing a growing software team. Whether your team is 5 engineers or 100 engineers, you’ll find the inspiration and tips to navigate the challenges of complex technical teams. When in season, new episodes drop every other Tuesday!</description>
-		<lastBuildDate>Fri, 06 Jun 2025 15:11:09 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 25 Jun 2025 21:30:43 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright>©2022 ScalingTechPod</copyright>
 		<itunes:subtitle>If you’re leading a growing software engineering team, this is the podcast for you!</itunes:subtitle>
@@ -44,12 +44,37 @@
 			<podcast:locked owner="arin@agilityfeat.com">yes</podcast:locked>
 		<podcast:guid>0a5b3207-d51c-59e1-9781-abe3ec291095</podcast:guid>
 		
-		<!-- podcast_generator="SSP by Castos/3.10.3" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
+		<!-- podcast_generator="SSP by Castos/3.10.4" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
 		<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <item>
+	<title>Managing Deployments and DevOps at Scale with Tom Elliott</title>
+	<link>https://scalingtechpod.com/podcast/managing-deployments-and-devops-at-scale-with-tom-elliott-ep-55/</link>
+	<pubDate>Wed, 25 Jun 2025 20:25:39 +0000</pubDate>
+	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
+	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1259</guid>
+	<description><![CDATA[What happens when your CI/CD pipeline becomes a bottleneck instead of a boost? How do internal tools empower—or block—engineering teams from shipping confidently? In this live episode of the Scaling Tech Podcast, we sit down with Tom Elliott, founder of Ocuroot and former Engineering Productivity lead at Yext, where he supported over 200 engineers through [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[What happens when your CI/CD pipeline becomes a bottleneck instead of a boost? How do internal tools empower—or block—engineering teams from shipping confidently? In this live episode of the Scaling Tech Podcast, we sit down with Tom Elliott, founder of ]]></itunes:subtitle>
+	<content:encoded><![CDATA[What happens when your CI/CD pipeline becomes a bottleneck instead of a boost? How do internal tools empower—or block—engineering teams from shipping confidently? In this live episode of the Scaling Tech Podcast, we sit down with Tom Elliott, founder of Ocuroot and former Engineering Productivity lead at Yext, where he supported over 200 engineers through [&#8230;]]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/2075756/c1e-20xo1fmm04gs67p4m-7z378n30skzm-rmp50i.mp3" length="45518195" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[What happens when your CI/CD pipeline becomes a bottleneck instead of a boost? How do internal tools empower—or block—engineering teams from shipping confidently? In this live episode of the Scaling Tech Podcast, we sit down with Tom Elliott, founder of Ocuroot and former Engineering Productivity lead at Yext, where he supported over 200 engineers through [&#8230;]]]></itunes:summary>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/06/Ep-55-Managing-Deployments-and-DevOps-at-Scale-1.png"></itunes:image>
+	<image>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/06/Ep-55-Managing-Deployments-and-DevOps-at-Scale-1.png</url>
+		<title>Managing Deployments and DevOps at Scale with Tom Elliott</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:47:25</itunes:duration>
+	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[What happens when your CI/CD pipeline becomes a bottleneck instead of a boost? How do internal tools empower—or block—engineering teams from shipping confidently? In this live episode of the Scaling Tech Podcast, we sit down with Tom Elliott, founder of Ocuroot and former Engineering Productivity lead at Yext, where he supported over 200 engineers through [&#8230;]]]></googleplay:description>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/06/Ep-55-Managing-Deployments-and-DevOps-at-Scale-1.png"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
 	<title>The Right Way to Encourage AI in Tech Interviews with Anna J McDougall</title>
-	<link>https://scalingtechpod.com/podcast/the-right-way-to-encourage-ai-in-tech-interviews/</link>
+	<link>https://scalingtechpod.com/podcast/the-right-way-to-encourage-ai-in-tech-interviews-ep54/</link>
 	<pubDate>Thu, 29 May 2025 16:28:34 +0000</pubDate>
 	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
 	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1245</guid>
@@ -58,23 +83,23 @@
 	<content:encoded><![CDATA[AI is changing developer interviews—for better and worse. Take-home tests are becoming obsolete. CVs can&#8217;t be fully trusted. Even live interviews falter as AI helps candidates craft responses. To stay ahead of these changes, we must decide when to encourage AI in interviews, and when to limit it. It’s time to give live coding interviews [&#8230;]]]></content:encoded>
 	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/2052425/c1e-g57dqamvp35i249gj-25nwmp1wuddj-fyxgdl.mp3" length="58568252" type="audio/mpeg"></enclosure>
 	<itunes:summary><![CDATA[AI is changing developer interviews—for better and worse. Take-home tests are becoming obsolete. CVs can&#8217;t be fully trusted. Even live interviews falter as AI helps candidates craft responses. To stay ahead of these changes, we must decide when to encourage AI in interviews, and when to limit it. It’s time to give live coding interviews [&#8230;]]]></itunes:summary>
-	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/05/The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall300-x-300-px.png"></itunes:image>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/05/Ep-54-The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall.png"></itunes:image>
 	<image>
-		<url>https://scalingtechpod.com/wp-content/uploads/2025/05/The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall300-x-300-px.png</url>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/05/Ep-54-The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall.png</url>
 		<title>The Right Way to Encourage AI in Tech Interviews with Anna J McDougall</title>
 	</image>
 	<itunes:explicit>false</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:01:01</itunes:duration>
 	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[AI is changing developer interviews—for better and worse. Take-home tests are becoming obsolete. CVs can&#8217;t be fully trusted. Even live interviews falter as AI helps candidates craft responses. To stay ahead of these changes, we must decide when to encourage AI in interviews, and when to limit it. It’s time to give live coding interviews [&#8230;]]]></googleplay:description>
-	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/05/The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall300-x-300-px.png"></googleplay:image>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/05/Ep-54-The-Right-Way-to-Encourage-AI-in-Tech-Interviews-with-Anna-J-McDougall.png"></googleplay:image>
 	<googleplay:explicit>No</googleplay:explicit>
 	<googleplay:block>no</googleplay:block>
 </item>
 
 <item>
 	<title>How Product Management Can Help Teams Tackle Tech Debt</title>
-	<link>https://scalingtechpod.com/podcast/how-product-management-can-help-teams-tackle-tech-debt/</link>
+	<link>https://scalingtechpod.com/podcast/how-product-management-can-help-teams-tackle-tech-debt-ep53/</link>
 	<pubDate>Wed, 02 Apr 2025 16:00:47 +0000</pubDate>
 	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
 	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1223</guid>
@@ -83,16 +108,16 @@
 	<content:encoded><![CDATA[Every team has to deal with tech debt, and they take a variety of approaches to how they address it within their team, and how involved product management is in those decisions. How should you allocate time for working on tech debt? Should it be represented on your roadmap? How should you prioritize tech debt [&#8230;]]]></content:encoded>
 	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/2006747/c1e-3xo32tk30zqbkqp7m-rkzw8jkda47x-xd4yhy.mp3" length="54083851" type="audio/mpeg"></enclosure>
 	<itunes:summary><![CDATA[Every team has to deal with tech debt, and they take a variety of approaches to how they address it within their team, and how involved product management is in those decisions. How should you allocate time for working on tech debt? Should it be represented on your roadmap? How should you prioritize tech debt [&#8230;]]]></itunes:summary>
-	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png"></itunes:image>
+	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2025/04/Ep-53-How-Product-Management-Can-Help-Teams-Tackle-Tech-Debt.png"></itunes:image>
 	<image>
-		<url>https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png</url>
+		<url>https://scalingtechpod.com/wp-content/uploads/2025/04/Ep-53-How-Product-Management-Can-Help-Teams-Tackle-Tech-Debt.png</url>
 		<title>How Product Management Can Help Teams Tackle Tech Debt</title>
 	</image>
 	<itunes:explicit>false</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:56:21</itunes:duration>
 	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Every team has to deal with tech debt, and they take a variety of approaches to how they address it within their team, and how involved product management is in those decisions. How should you allocate time for working on tech debt? Should it be represented on your roadmap? How should you prioritize tech debt [&#8230;]]]></googleplay:description>
-	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png"></googleplay:image>
+	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2025/04/Ep-53-How-Product-Management-Can-Help-Teams-Tackle-Tech-Debt.png"></googleplay:image>
 	<googleplay:explicit>No</googleplay:explicit>
 	<googleplay:block>no</googleplay:block>
 </item>
@@ -268,31 +293,6 @@
 	<itunes:duration>00:43:00</itunes:duration>
 	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Generative AI is already transforming the way Agile teams operate. How far can it go? Can it take over the role of Scrumaster? In this special live episode of the Scaling Tech Podcast, host Arin Sime welcomes back past guest Sanjiv Augustine for a thought provoking discussion on hoe GenAI is shaping the future of [&#8230;]]]></googleplay:description>
 	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/GenAI-300x300-1.png"></googleplay:image>
-	<googleplay:explicit>No</googleplay:explicit>
-	<googleplay:block>no</googleplay:block>
-</item>
-
-<item>
-	<title>Mastering True Agility with Johanna Rothman of Rothman Consulting Group</title>
-	<link>https://scalingtechpod.com/podcast/mastering-true-agility-with-johanna-rothman-of-rothman-consulting-group-ep46/</link>
-	<pubDate>Tue, 10 Dec 2024 11:00:06 +0000</pubDate>
-	<dc:creator><![CDATA[Arin Sime]]></dc:creator>
-	<guid isPermaLink="false">https://scalingtechpod.com/?post_type=podcast&#038;p=1111</guid>
-	<description><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility really looks like with our guest, Johanna Rothman. Johanna is known as the “Pragmatic Manager,” [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility ]]></itunes:subtitle>
-	<content:encoded><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility really looks like with our guest, Johanna Rothman. Johanna is known as the “Pragmatic Manager,” [&#8230;]]]></content:encoded>
-	<enclosure url="https://episodes.castos.com/6282a1833aa061-12170476/1917314/c1e-jq7kwsqzoo0b5wo2n-471npj56hg7x-x0wrkd.mp3" length="70503010" type="audio/mpeg"></enclosure>
-	<itunes:summary><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility really looks like with our guest, Johanna Rothman. Johanna is known as the “Pragmatic Manager,” [&#8230;]]]></itunes:summary>
-	<itunes:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/1_1-EP46.png"></itunes:image>
-	<image>
-		<url>https://scalingtechpod.com/wp-content/uploads/2024/12/1_1-EP46.png</url>
-		<title>Mastering True Agility with Johanna Rothman of Rothman Consulting Group</title>
-	</image>
-	<itunes:explicit>false</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:48:45</itunes:duration>
-	<itunes:author><![CDATA[Arin Sime]]></itunes:author>	<googleplay:description><![CDATA[Fake agile is an unsuccessful way of being agile. It often creeps into organizations when teams adopt surface-level agility practices without embracing its core principles. In this episode of the Scaling Tech podcast, we dive deep into what true agility really looks like with our guest, Johanna Rothman. Johanna is known as the “Pragmatic Manager,” [&#8230;]]]></googleplay:description>
-	<googleplay:image href="https://scalingtechpod.com/wp-content/uploads/2024/12/1_1-EP46.png"></googleplay:image>
 	<googleplay:explicit>No</googleplay:explicit>
 	<googleplay:block>no</googleplay:block>
 </item>

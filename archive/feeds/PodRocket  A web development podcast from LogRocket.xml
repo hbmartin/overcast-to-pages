@@ -2,11 +2,11 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Thu, 19 Jun 2025 07:47:49 -0500</fireside:genDate>
+    <fireside:genDate>Thu, 26 Jun 2025 08:44:23 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>PodRocket - A web development podcast from LogRocket</title>
     <link>http://podrocket.logrocket.com</link>
-    <pubDate>Thu, 19 Jun 2025 08:45:05 -0400</pubDate>
+    <pubDate>Thu, 26 Jun 2025 09:44:05 -0400</pubDate>
     <description>PodRocket covers everything you need to know about frontend web development on a weekly basis. Join LogRocket cofounder Ben Edelstein, the LogRocket engineering team, and more, as they interview experienced developers about all the libraries, frameworks, and tech industry issues they deal with every day.
 </description>
     <language>en-us</language>
@@ -215,6 +215,103 @@ LogRocket combines frontend monitoring, product analytics, and session replay to
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/XHXVzqW5+JkbY-6ca" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>Node 24 with Rafael Gonzaga</title>
+      <link>http://podrocket.logrocket.com/node-24-rafael-gonzaga</link>
+      <guid isPermaLink="false">2b30c617-dfd4-45e6-b77b-12ce684556f2</guid>
+      <pubDate>Thu, 26 Jun 2025 08:00:00 -0400</pubDate>
+      <author>LogRocket </author>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/2b30c617-dfd4-45e6-b77b-12ce684556f2.mp3" length="23940318" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:author>LogRocket </itunes:author>
+      <itunes:subtitle>Rafael Gonzaga, a Node.js TSC member, joins us to unpack the key features and updates in Node.js 24. We explore major changes like the new permission model, async local storage improvements, V8 engine updates, and the future of built-in HTTP capabilities. Rafael also shares insights on security trends, the evolution of the Node ecosystem, and how developers can get involved.</itunes:subtitle>
+      <itunes:duration>9:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/3/3911462c-bca2-48c2-9103-610ba304c673/episodes/2/2b30c617-dfd4-45e6-b77b-12ce684556f2/cover.jpg?v=1"/>
+      <description>Rafael Gonzaga, a Node.js TSC member, joins us to unpack the key features and updates in Node.js 24. We explore major changes like the new permission model, async local storage improvements, V8 engine updates, and the future of built-in HTTP capabilities. Rafael also shares insights on security trends, the evolution of the Node ecosystem, and how developers can get involved.
+Links
+Website: https://rafaelgss.dev
+Github: https://github.com/rafaelgss
+Twitch: https://www.twitch.tv/rafaelgss
+X: https://x.com/_rafaelgss
+LinkedIn: http://linkedin.com/in/rafaelgss
+Resources
+Node v24.0.0 (Current): https://nodejs.org/en/blog/release/v24.0.0
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Rafael Gonzaga.
+</description>
+      <itunes:keywords>Node.js, Node 24, Node.js 24, Node.js updates, Node.js features, async local storage, V8 engine, URLPattern, fetch API, npm 11, Node.js permission model, NodeSource, security in Node.js, HTTP client, RegExp escape, error.isError, built-in HTTP, Node.js LTS, open source, JavaScript runtime, developer tools, performance, memory management, APM, is-my-node-vulnerable, npx-safe, Twitch, Rafael Gonzaga, PodRocket, LogRocket</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Rafael Gonzaga, a Node.js TSC member, joins us to unpack the key features and updates in Node.js 24. We explore major changes like the new permission model, async local storage improvements, V8 engine updates, and the future of built-in HTTP capabilities. Rafael also shares insights on security trends, the evolution of the Node ecosystem, and how developers can get involved.</p>
+
+<h3>Links</h3>
+
+<p>Website: <a href="https://rafaelgss.dev" rel="nofollow">https://rafaelgss.dev</a><br>
+Github: <a href="https://github.com/rafaelgss" rel="nofollow">https://github.com/rafaelgss</a><br>
+Twitch: <a href="https://www.twitch.tv/rafaelgss" rel="nofollow">https://www.twitch.tv/rafaelgss</a><br>
+X: <a href="https://x.com/_rafaelgss" rel="nofollow">https://x.com/_rafaelgss</a><br>
+LinkedIn: <a href="http://linkedin.com/in/rafaelgss" rel="nofollow">http://linkedin.com/in/rafaelgss</a></p>
+
+<h3>Resources</h3>
+
+<p>Node v24.0.0 (Current): <a href="https://nodejs.org/en/blog/release/v24.0.0" rel="nofollow">https://nodejs.org/en/blog/release/v24.0.0</a></p>
+
+<h3>We want to hear from you!</h3>
+
+<p>How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?</p>
+
+<p>Let us know by sending an email to our producer, Em, at <a href="mailto:emily.kochanek@logrocket.com" rel="nofollow">emily.kochanek@logrocket.com</a>, or tweet at us at <a href="https://twitter.com/PodRocketpod" rel="nofollow">PodRocketPod</a>.</p>
+
+<h3>Follow us. Get free stickers.</h3>
+
+<p>Follow us on Apple Podcasts, fill out this <a href="https://podrocket.logrocket.com/get-podrocket-stickers" rel="nofollow">form</a>, and we’ll send you free PodRocket stickers!</p>
+
+<h3>What does LogRocket do?</h3>
+
+<p>LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. <a href="https://logrocket.com/signup/?pdr" rel="nofollow">Try LogRocket for free today.</a></p><p>Special Guest: Rafael Gonzaga.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Rafael Gonzaga, a Node.js TSC member, joins us to unpack the key features and updates in Node.js 24. We explore major changes like the new permission model, async local storage improvements, V8 engine updates, and the future of built-in HTTP capabilities. Rafael also shares insights on security trends, the evolution of the Node ecosystem, and how developers can get involved.</p>
+
+<h3>Links</h3>
+
+<p>Website: <a href="https://rafaelgss.dev" rel="nofollow">https://rafaelgss.dev</a><br>
+Github: <a href="https://github.com/rafaelgss" rel="nofollow">https://github.com/rafaelgss</a><br>
+Twitch: <a href="https://www.twitch.tv/rafaelgss" rel="nofollow">https://www.twitch.tv/rafaelgss</a><br>
+X: <a href="https://x.com/_rafaelgss" rel="nofollow">https://x.com/_rafaelgss</a><br>
+LinkedIn: <a href="http://linkedin.com/in/rafaelgss" rel="nofollow">http://linkedin.com/in/rafaelgss</a></p>
+
+<h3>Resources</h3>
+
+<p>Node v24.0.0 (Current): <a href="https://nodejs.org/en/blog/release/v24.0.0" rel="nofollow">https://nodejs.org/en/blog/release/v24.0.0</a></p>
+
+<h3>We want to hear from you!</h3>
+
+<p>How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?</p>
+
+<p>Let us know by sending an email to our producer, Em, at <a href="mailto:emily.kochanek@logrocket.com" rel="nofollow">emily.kochanek@logrocket.com</a>, or tweet at us at <a href="https://twitter.com/PodRocketpod" rel="nofollow">PodRocketPod</a>.</p>
+
+<h3>Follow us. Get free stickers.</h3>
+
+<p>Follow us on Apple Podcasts, fill out this <a href="https://podrocket.logrocket.com/get-podrocket-stickers" rel="nofollow">form</a>, and we’ll send you free PodRocket stickers!</p>
+
+<h3>What does LogRocket do?</h3>
+
+<p>LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. <a href="https://logrocket.com/signup/?pdr" rel="nofollow">Try LogRocket for free today.</a></p><p>Special Guest: Rafael Gonzaga.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/XHXVzqW5+PfbuTfLf</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/XHXVzqW5+PfbuTfLf" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:person email="" href="https://www.paigeniedringhaus.com/" role="host">Paige Niedringhaus</podcast:person>
+      <podcast:person email="" href="https://rafaelgss.dev" role="guest">Rafael Gonzaga</podcast:person>
     </item>
     <item>
       <title>Gemini 2.5 with Logan Kilpatrick</title>
