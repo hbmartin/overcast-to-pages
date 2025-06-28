@@ -4,7 +4,7 @@
 		<description><![CDATA[We help founders make something people want.]]></description>
 		<link>http://www.ycombinator.com</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 25 Jun 2025 21:02:24 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Jun 2025 13:52:01 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/8c1524bc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Y Combinator]]></author>
 		<copyright><![CDATA[Y Combinator]]></copyright>
@@ -20,6 +20,22 @@
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/23401959/23401959-1715188660604-894894aeaa81c.jpg"/>
+		<item>
+			<title><![CDATA[Legendary Consumer VC Predicts The Future Of AI Products]]></title>
+			<description><![CDATA[<p>Kirsten Green, founder of Forerunner Ventures, has backed some of the most iconic consumer brands of the past two decades — from Warby Parker to Chime to Dollar Shave Club. </p><p><br></p><p>In this conversation with Garry, she shares how great products (not marketing tricks) still win, why AI is unlocking a new kind of emotional relationship between consumers and technology, and what founders can learn from the messy creative stage we&#39;re in right now. She also breaks down how shifts in distribution, wellness, and digital behavior are reshaping what it means to build for real human needs.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ycombinator/episodes/Legendary-Consumer-VC-Predicts-The-Future-Of-AI-Products-e34qbae</link>
+			<guid isPermaLink="false">a9963d5e-47d1-4555-be7d-e3ee0bbf6749</guid>
+			<dc:creator><![CDATA[Y Combinator]]></dc:creator>
+			<pubDate>Fri, 27 Jun 2025 13:34:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8c1524bc/podcast/play/104721166/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-27%2F402914699-44100-2-3a50dda96e41c.mp3" length="34352064" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Kirsten Green, founder of Forerunner Ventures, has backed some of the most iconic consumer brands of the past two decades — from Warby Parker to Chime to Dollar Shave Club. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In this conversation with Garry, she shares how great products (not marketing tricks) still win, why AI is unlocking a new kind of emotional relationship between consumers and technology, and what founders can learn from the messy creative stage we&amp;#39;re in right now. She also breaks down how shifts in distribution, wellness, and digital behavior are reshaping what it means to build for real human needs.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/23401959/23401959-1751031753479-8642b5521a411.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs]]></title>
 			<description><![CDATA[<p>A fireside with Satya Nadella on June 17, 2025 at AI Startup School in San Francisco.Satya Nadella started at Microsoft in 1992 as an engineer. Three decades later, he’s now Chairman &amp; CEO, navigating the company through one of the most profound technological shifts yet: the rise of AI.In this conversation, he shares how Microsoft is thinking about this moment— from the infrastructure needed to train frontier models, to the social permission required to use that compute. He draws parallels to the early PC and internet eras, breaks down what makes a great team, and reflects on what he’d build if he were starting his career today.</p>

@@ -8,8 +8,8 @@
     <description>For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a software developer and how the art and practice of programming is changing our world. From Rails to React, from Java to Node.js, join the Stack home team for conversations with fascinating guests to help you understand how technology is made and where it’s headed.</description>
     <copyright>All rights reserved 699484</copyright>
     <language>en</language>
-    <pubDate>Tue, 24 Jun 2025 04:20:00 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Jun 2025 15:26:04 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 04:20:00 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 16:05:51 +0000</lastBuildDate>
     <image>
       <link>https://stackoverflow.blog/podcast/</link>
       <title>The Stack Overflow Podcast</title>
@@ -32,6 +32,47 @@
     <itunes:category text="Business">
       <itunes:category text="Management"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">ebc7c886-4803-4244-af3c-c1ffca1cf00b</guid>
+      <title>You’ve got 99 problems but data shouldn’t be one</title>
+      <description><![CDATA[<p><a href="https://www.tobikodata.com/">Tobiko Data</a> is creating a new standard in data transformation with their Cloud and SQL integrations. You can keep up with their work by joining their <a href="http://tobikodata.com/slack">Slack community</a>.</p><p>Connect with Toby on <a href="https://www.linkedin.com/in/toby-mao/">LinkedIn</a>.</p><p>Connect with Iaroslav on <a href="https://www.linkedin.com/in/izeigerman/">LinkedIn</a>.</p><p>Congrats to Stellar Answer badge winner Christian C. Salvadó, whose answer to <a href="https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim">What's a quick way to comment/uncomment lines in Vim?</a> was saved by over 100 users.</p>
+]]></description>
+      <pubDate>Fri, 27 Jun 2025 04:20:00 +0000</pubDate>
+      <author>steph@editaud.io (Ryan Donovan, Toby Mao, Iaroslav Zeigerman)</author>
+      <link>https://stackoverflow.blog/podcast/</link>
+      <content:encoded><![CDATA[<p><a href="https://www.tobikodata.com/">Tobiko Data</a> is creating a new standard in data transformation with their Cloud and SQL integrations. You can keep up with their work by joining their <a href="http://tobikodata.com/slack">Slack community</a>.</p><p>Connect with Toby on <a href="https://www.linkedin.com/in/toby-mao/">LinkedIn</a>.</p><p>Connect with Iaroslav on <a href="https://www.linkedin.com/in/izeigerman/">LinkedIn</a>.</p><p>Congrats to Stellar Answer badge winner Christian C. Salvadó, whose answer to <a href="https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim">What's a quick way to comment/uncomment lines in Vim?</a> was saved by over 100 users.</p>
+]]></content:encoded>
+      <enclosure length="28381995" type="audio/mpeg" url="https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/5d3112d6-856f-4365-9d93-1873fb07ebf7/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&amp;awEpisodeId=5d3112d6-856f-4365-9d93-1873fb07ebf7&amp;feed=XA_851k3"/>
+      <itunes:title>You’ve got 99 problems but data shouldn’t be one</itunes:title>
+      <itunes:author>Ryan Donovan, Toby Mao, Iaroslav Zeigerman</itunes:author>
+      <itunes:duration>00:29:26</itunes:duration>
+      <itunes:summary>Ryan is joined by Tobiko Data co-founders Toby Mao and Iaroslav Zeigerman to talk about the crucial role of rigorous data practices and tooling, the innovations of Tobiko Data’s SQLMesh and SQLGlot, and their insights into the future of data engineering with the rise of AI.</itunes:summary>
+      <itunes:subtitle>Ryan is joined by Tobiko Data co-founders Toby Mao and Iaroslav Zeigerman to talk about the crucial role of rigorous data practices and tooling, the innovations of Tobiko Data’s SQLMesh and SQLGlot, and their insights into the future of data engineering with the rise of AI.</itunes:subtitle>
+      <itunes:keywords>tobiko, data engineering, sql, data</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>837</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">bd819a2f-e389-4922-ad55-285aef589975</guid>
+      <title>You&apos;ve vibe coded an app. Now what?</title>
+      <description><![CDATA[<h2>SPONSORED BY HEROKU</h2><p><a href="https://www.heroku.com/?utm_source=stackoverflow&utm_medium=paid&utm_campaign=banners&utm_content=podcast">Heroku</a> is a platform-as-a-service (PaaS) for deploying, scaling, and managing apps. </p><p>Connect with Vish on <a href="https://x.com/vish">X</a> and <a href="https://www.linkedin.com/in/vishvananda/">LinkedIn</a>. </p><p>Congrats to Populist badge winner <a href="https://stackoverflow.com/users/101054/amadaden">AmaDaden</a>  for their answer to <a href="https://stackoverflow.com/questions/30999290/how-to-generate-a-legend-with-colors-in-plantuml/44217931#44217931">How to generate a legend with colors in PlantUML?</a>.</p>
+]]></description>
+      <pubDate>Wed, 25 Jun 2025 04:20:00 +0000</pubDate>
+      <author>steph@editaud.io (Stack Overflow)</author>
+      <link>https://stackoverflow.blog/podcast/</link>
+      <content:encoded><![CDATA[<h2>SPONSORED BY HEROKU</h2><p><a href="https://www.heroku.com/?utm_source=stackoverflow&utm_medium=paid&utm_campaign=banners&utm_content=podcast">Heroku</a> is a platform-as-a-service (PaaS) for deploying, scaling, and managing apps. </p><p>Connect with Vish on <a href="https://x.com/vish">X</a> and <a href="https://www.linkedin.com/in/vishvananda/">LinkedIn</a>. </p><p>Congrats to Populist badge winner <a href="https://stackoverflow.com/users/101054/amadaden">AmaDaden</a>  for their answer to <a href="https://stackoverflow.com/questions/30999290/how-to-generate-a-legend-with-colors-in-plantuml/44217931#44217931">How to generate a legend with colors in PlantUML?</a>.</p>
+]]></content:encoded>
+      <enclosure length="25153940" type="audio/mpeg" url="https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/72abc8b8-c3fa-49e4-92ae-734fcc757dc9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&amp;awEpisodeId=72abc8b8-c3fa-49e4-92ae-734fcc757dc9&amp;feed=XA_851k3"/>
+      <itunes:title>You&apos;ve vibe coded an app. Now what?</itunes:title>
+      <itunes:author>Stack Overflow</itunes:author>
+      <itunes:duration>00:26:12</itunes:duration>
+      <itunes:summary>On this episode, Ryan chats with Vish Abrams,  chief architect at Heroku, about all the work that needs to be done after you’ve vibe-coded your dream app. They discuss the security and scaling work needed, why getting the foundation is as important as the business logic, and what skills a vibe coder needs after prompt engineering. </itunes:summary>
+      <itunes:subtitle>On this episode, Ryan chats with Vish Abrams,  chief architect at Heroku, about all the work that needs to be done after you’ve vibe-coded your dream app. They discuss the security and scaling work needed, why getting the foundation is as important as the business logic, and what skills a vibe coder needs after prompt engineering. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>836</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">77023fab-b471-4bde-927c-212559104562</guid>
       <title>How to build your prototypes without a 35% tariff</title>

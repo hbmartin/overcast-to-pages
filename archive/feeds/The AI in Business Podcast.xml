@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://techemergence.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The AI in Business Podcast</title>
-		<pubDate>Wed, 11 Jun 2025 06:00:00 +0000</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 21:12:07 +0000</lastBuildDate>
+		<pubDate>Fri, 27 Jun 2025 06:00:00 +0000</pubDate>
+		<lastBuildDate>Fri, 27 Jun 2025 17:49:53 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://emerj.com</link>
 		<language>en</language>
@@ -22,7 +22,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<link><![CDATA[http://emerj.com]]></link>
 		</image>
 		<itunes:author>Daniel Faggella</itunes:author>
-		<itunes:keywords>AI,Science,Transformation,artificial,data,digital,intelligence,learning,machine</itunes:keywords>
+		<itunes:keywords>AI,Data,Digital,Transformation,artificial,intelligence,learning,machine,science</itunes:keywords>
 		<itunes:category text="Technology">
 		</itunes:category>
 		<itunes:category text="Business">
@@ -46,14 +46,142 @@ Visit our advertising page to learn more about reaching our executive audience o
 		<podcast:locked owner="chronis@emerj.com">no</podcast:locked>
 		
 		<item>
+			<title>Unlocking Enterprise Efficiency Through AI Orchestration - Kevin Kiley of Airia</title>
+			<itunes:title>Unlocking Enterprise Efficiency Through AI Orchestration - Kevin Kiley of Airia</itunes:title>
+			<pubDate>Fri, 27 Jun 2025 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[62746386-8249-4363-ab2a-1d7906dbbe28]]></guid>
+			<link><![CDATA[http://podcast.emerj.com/unlocking-enterprise-efficiency-through-ai-orchestration-kevin-kiley-of-airia]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/6/4/1/b641a2036ab2658b16c3140a3186d450/Kevin-Kiley-AI-in-Business-Podcast-20250626-mcw3yxz75d.jpg" />
+			<description><![CDATA[<p><span data-preserver-spaces="true">Today’s guest is Kevin Kiley, President of Airia. With extensive experience helping large enterprises implement secure and scalable AI systems, Kevin joins Emerj Editorial Director Matthew DeMello to explore how agentic AI is reshaping enterprise workflows across industries like financial services. He explains how these systems differ from traditional AI by enabling autonomous action across connected environments—introducing both new efficiencies and new risks. Kevin breaks down a phased roadmap for adoption, from quick wins to broader orchestration, and shares key lessons from working with organizations navigating complex compliance, data governance, and access control challenges. He also highlights the growing importance of real-time safeguards and defensive security strategies as AI capabilities — and threats — continue to evolve. This episode is sponsored by Airia. Want to share your AI adoption story with executive peers? Click</span> <a class="editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener"><span data-preserver-spaces= "true">emerj.com/expert2</span></a> <span data-preserver-spaces= "true">for more information and to be a potential future guest on the ‘AI in Business’ podcast!</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Today’s guest is Kevin Kiley, President of Airia. With extensive experience helping large enterprises implement secure and scalable AI systems, Kevin joins Emerj Editorial Director Matthew DeMello to explore how agentic AI is reshaping enterprise workflows across industries like financial services. He explains how these systems differ from traditional AI by enabling autonomous action across connected environments—introducing both new efficiencies and new risks. Kevin breaks down a phased roadmap for adoption, from quick wins to broader orchestration, and shares key lessons from working with organizations navigating complex compliance, data governance, and access control challenges. He also highlights the growing importance of real-time safeguards and defensive security strategies as AI capabilities — and threats — continue to evolve. This episode is sponsored by Airia. Want to share your AI adoption story with executive peers? Click <a class="editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast!</p>]]></content:encoded>
+			<enclosure length="30251543" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Business_-_6.27.25_-Kevin_Kiley.mp3?dest-id=151434" />
+			<itunes:duration>20:59</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today’s guest is Kevin Kiley, President of Airia. With extensive experience helping large enterprises implement secure and scalable AI systems, Kevin joins Emerj Editorial Director Matthew DeMello to explore how agentic AI is reshaping enterprise...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Why Human-Centered Service Still Matters in the Age of AI - Charles Pointer at Commerce Bank</title>
+			<itunes:title>Why Human-Centered Service Still Matters in the Age of AI - Charles Pointer at Commerce Bank</itunes:title>
+			<pubDate>Wed, 25 Jun 2025 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d31b0c4d-6fc5-40d8-a535-7ff6a731e059]]></guid>
+			<link><![CDATA[http://podcast.emerj.com/why-human-centered-service-still-matters-in-the-age-of-ai-charles-pointer-at-commerce-bank]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/6/4/b/7/64b72b40f605b296d959afa2a1bf1c87/Charles-Pointer-AI-in-Business-Podcast-ep-1.jpg" />
+			<description><![CDATA[<p><span data-preserver-spaces="true">Today’s guest is Charles Pointer, Vice President of Bank Operations at Commerce Bank — a community bank with 160 years of history providing personalized financial solutions to individuals and businesses. Commerce Bank combines a people-first approach with a growing appetite for modernizing customer service through technology. With over 20 years of experience in commercial banking and customer operations, Charles joins Emerj Editorial Director Matthew DeMello on the show today to discuss how traditional banks are beginning their AI journey. He unpacks what early-stage AI adoption looks like in call center environments, how banks balance digital transformation with maintaining human connection, and what leaders should consider when introducing AI into customer-facing workflows. This episode is sponsored by Cognigy. Want to share your AI adoption story with executive peers? Click</span> <a class="editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener"><span data-preserver-spaces= "true">emerj.com/expert2</span></a> <span data-preserver-spaces= "true">for more information and to be a potential future guest on the ‘AI in Business’ podcast!</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Today’s guest is Charles Pointer, Vice President of Bank Operations at Commerce Bank — a community bank with 160 years of history providing personalized financial solutions to individuals and businesses. Commerce Bank combines a people-first approach with a growing appetite for modernizing customer service through technology. With over 20 years of experience in commercial banking and customer operations, Charles joins Emerj Editorial Director Matthew DeMello on the show today to discuss how traditional banks are beginning their AI journey. He unpacks what early-stage AI adoption looks like in call center environments, how banks balance digital transformation with maintaining human connection, and what leaders should consider when introducing AI into customer-facing workflows. This episode is sponsored by Cognigy. Want to share your AI adoption story with executive peers? Click <a class="editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast!</p>]]></content:encoded>
+			<enclosure length="44193709" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Business_-_6.25.25_-_Charles_Pointer.mp3?dest-id=151434" />
+			<itunes:duration>30:40</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today’s guest is Charles Pointer, Vice President of Bank Operations at Commerce Bank — a community bank with 160 years of history providing personalized financial solutions to individuals and businesses. Commerce Bank combines a people-first...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>AI in Healthcare Devices and the Challenge of Data Privacy - with Dr. Ankur Sharma at Bayer</title>
+			<itunes:title>AI in Healthcare Devices and the Challenge of Data Privacy - with Dr. Ankur Sharma at Bayer</itunes:title>
+			<pubDate>Tue, 24 Jun 2025 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d7208c79-e0c6-4110-8c61-246fbbe39345]]></guid>
+			<link><![CDATA[http://podcast.emerj.com/ai-in-healthcare-devices-and-the-challenge-of-data-privacy-with-dr-ankur-sharma-at-bayer]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/7/5/8/d75891ec9a19137216c3140a3186d450/Dr-Ankur-Sharma-Ai-in-Business.jpg" />
+			<description><![CDATA[<p><span data-preserver-spaces="true">Today’s guest is Dr. Ankur Sharma, Head of Medical Affairs for Medical Devices and Digital Radiology at Bayer. Dr. Sharma joins Emerj Editorial Director Matthew DeMello to explore the complex intersection of AI, medical devices, and data governance in healthcare. Dr. Sharma outlines the key challenges that healthcare institutions face in adopting AI tools, including data privacy, system interoperability, and regulatory uncertainty. He also clarifies the distinction between regulated predictive models and unregulated generative tools, as well as how each fits into current clinical workflows. The conversation explores the evolving roles of the FDA and EU AI Act, the potential for AI to bridge clinical research and patient care, and the need for new reimbursement models to support digital innovation. This episode is sponsored by Medable. Learn how brands work with Emerj and other Emerj Media options at</span> <a class= "editor-rtfLink" href="http://emerj.com/ad1" target="_blank" rel= "noopener"><span data-preserver-spaces= "true">emerj.com/ad1</span></a><span data-preserver-spaces= "true">.</span> <span data-preserver-spaces="true">Want to share your AI adoption story with executive peers? Click</span> <a class= "editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener"><span data-preserver-spaces= "true">emerj.com/expert2</span></a> <span data-preserver-spaces= "true">for more information and to be a potential future guest on the ‘AI in Business’ podcast!</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Today’s guest is Dr. Ankur Sharma, Head of Medical Affairs for Medical Devices and Digital Radiology at Bayer. Dr. Sharma joins Emerj Editorial Director Matthew DeMello to explore the complex intersection of AI, medical devices, and data governance in healthcare. Dr. Sharma outlines the key challenges that healthcare institutions face in adopting AI tools, including data privacy, system interoperability, and regulatory uncertainty. He also clarifies the distinction between regulated predictive models and unregulated generative tools, as well as how each fits into current clinical workflows. The conversation explores the evolving roles of the FDA and EU AI Act, the potential for AI to bridge clinical research and patient care, and the need for new reimbursement models to support digital innovation. This episode is sponsored by Medable. Learn how brands work with Emerj and other Emerj Media options at <a class= "editor-rtfLink" href="http://emerj.com/ad1" target="_blank" rel= "noopener">emerj.com/ad1</a>. Want to share your AI adoption story with executive peers? Click <a class= "editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast!</p>]]></content:encoded>
+			<enclosure length="27550851" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Business_-_6.24.25_-_Ankur_Sharma.mp3?dest-id=151434" />
+			<itunes:duration>19:06</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today’s guest is Dr. Ankur Sharma, Head of Medical Affairs for Medical Devices and Digital Radiology at Bayer. Dr. Sharma joins Emerj Editorial Director Matthew DeMello to explore the complex intersection of AI, medical devices, and data governance...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Lessons from Walmart in Building AI at Scale - with David Glick of Walmart</title>
+			<itunes:title>Lessons from Walmart in Building AI at Scale - with David Glick of Walmart</itunes:title>
+			<pubDate>Thu, 19 Jun 2025 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7f085b50-9545-46a6-9a7d-934a95deed57]]></guid>
+			<link><![CDATA[http://podcast.emerj.com/lessons-from-walmart-in-building-ai-at-scale-with-david-glick-of-walmart]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/4/7/d/6/47d618b83c76f23a16c3140a3186d450/David-Glick-AI-in-Business-Podcast-20250618-mx0rcmpkfw.jpg" />
+			<description><![CDATA[<p>Today’s guest is David Glick, Senior Vice President of Enterprise Business Services at Walmart. Walmart is one of the world’s largest retailers, serving millions of customers through thousands of physical stores and online platforms. David joins Emerj Editorial Director Matthew DeMello to share practical lessons from Walmart’s experience building AI at scale. He dives into how Walmart uses small, focused AI “nano agents” to solve specific business problems quickly and effectively, and how a “super agile” development process accelerates collaboration between engineers and domain experts. David also discusses overcoming organizational hurdles to deploy AI solutions rapidly while maintaining security and compliance. David is a featured keynote speaker at the <a href= "https://ai-infra-summit.com/events/ai-infra-summit?utm_source=Emerj&utm_medium=affiliate&utm_campaign=58.8_podcastpage_june"> AI Infra Summit</a>, September 9–11, 2025, in Santa Clara. This episode is sponsored by <a href= "https://ai-infra-summit.com/events/ai-infra-summit?utm_source=Emerj&utm_medium=affiliate&utm_campaign=58.8_podcastpage_june"> Kisaco Research</a>. Want to share your AI adoption story with executive peers? Click <a href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion"> emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast!</p>]]></description>
+			<content:encoded><![CDATA[<p>Today’s guest is David Glick, Senior Vice President of Enterprise Business Services at Walmart. Walmart is one of the world’s largest retailers, serving millions of customers through thousands of physical stores and online platforms. David joins Emerj Editorial Director Matthew DeMello to share practical lessons from Walmart’s experience building AI at scale. He dives into how Walmart uses small, focused AI “nano agents” to solve specific business problems quickly and effectively, and how a “super agile” development process accelerates collaboration between engineers and domain experts. David also discusses overcoming organizational hurdles to deploy AI solutions rapidly while maintaining security and compliance. David is a featured keynote speaker at the <a href= "https://ai-infra-summit.com/events/ai-infra-summit?utm_source=Emerj&utm_medium=affiliate&utm_campaign=58.8_podcastpage_june"> AI Infra Summit</a>, September 9–11, 2025, in Santa Clara. This episode is sponsored by <a href= "https://ai-infra-summit.com/events/ai-infra-summit?utm_source=Emerj&utm_medium=affiliate&utm_campaign=58.8_podcastpage_june"> Kisaco Research</a>. Want to share your AI adoption story with executive peers? Click <a href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion"> emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast!</p>]]></content:encoded>
+			<enclosure length="41328368" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Business_-_6.19.25_-_David_Glick.mp3?dest-id=151434" />
+			<itunes:duration>28:40</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today’s guest is David Glick, Senior Vice President of Enterprise Business Services at Walmart. Walmart is one of the world’s largest retailers, serving millions of customers through thousands of physical stores and online platforms. David joins...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Building AI Systems That Think Like Scientists in Life Sciences - Annabel Romero of Deloitte</title>
+			<itunes:title>Building AI Systems That Think Like Scientists in Life Sciences - Annabel Romero of Deloitte</itunes:title>
+			<pubDate>Wed, 18 Jun 2025 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2e54a333-48ef-4327-aab2-799b1656bd15]]></guid>
+			<link><![CDATA[http://podcast.emerj.com/building-ai-systems-that-think-like-scientists-in-life-sciences-annabel-romero-of-deloitte]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/f/d/d/bfddb68563ceea3116c3140a3186d450/Annabel-Romero-AI-in-Business-Podcast.jpg" />
+			<description><![CDATA[<p><span data-preserver-spaces="true">Today’s guest is Annabel Romero, Specialist Leader focusing on AI for Drug Discovery at Deloitte and a structural biologist by training. Deloitte is a global consulting firm known for its work in digital transformation, data strategy, and AI adoption across regulated industries. Annabel joins Emerj Editorial Director Matthew DeMello to explore how AI systems are being designed to think more like scientists—particularly in protein modeling and life sciences research. She shares how tools like AlphaFold and large language models are accelerating drug targeting, predicting allergen cross-reactivity, and translating learnings from human biology to agricultural innovation. This episode is sponsored by Deloitte.</span> <span data-preserver-spaces="true">Want to share your AI adoption story with executive peers? Click</span> <a class= "editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener"><span data-preserver-spaces= "true">emerj.com/expert2</span></a> <span data-preserver-spaces= "true">for more information and to be a potential future guest on the ‘AI in Business’ podcast!</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Today’s guest is Annabel Romero, Specialist Leader focusing on AI for Drug Discovery at Deloitte and a structural biologist by training. Deloitte is a global consulting firm known for its work in digital transformation, data strategy, and AI adoption across regulated industries. Annabel joins Emerj Editorial Director Matthew DeMello to explore how AI systems are being designed to think more like scientists—particularly in protein modeling and life sciences research. She shares how tools like AlphaFold and large language models are accelerating drug targeting, predicting allergen cross-reactivity, and translating learnings from human biology to agricultural innovation. This episode is sponsored by Deloitte. Want to share your AI adoption story with executive peers? Click <a class= "editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast!</p>]]></content:encoded>
+			<enclosure length="44707270" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Business_-_6.18.25_-_Annabel_Romero_.mp3?dest-id=151434" />
+			<itunes:duration>31:01</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today’s guest is Annabel Romero, Specialist Leader focusing on AI for Drug Discovery at Deloitte and a structural biologist by training. Deloitte is a global consulting firm known for its work in digital transformation, data strategy, and AI...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Challenges Slowing AI Adoption in Life Sciences Manufacturing - with Yunke Xiang of Sanofi</title>
+			<itunes:title>Challenges Slowing AI Adoption in Life Sciences Manufacturing - with Yunke Xiang of Sanofi</itunes:title>
+			<pubDate>Tue, 17 Jun 2025 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8207f464-3e72-4ea9-b157-321a09436540]]></guid>
+			<link><![CDATA[http://podcast.emerj.com/challenges-slowing-ai-adoption-in-life-sciences-manufacturing-with-yunke-xiang-of-sanofi]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/1/d/0/2/1d022fd1130e6210d959afa2a1bf1c87/Yunke-Xiang-AI-in-Business-Podcast-20250616-wqjx87elxb.jpg" />
+			<description><![CDATA[<p><span data-preserver-spaces="true">Today’s guest is Yunke Xiang, Global Head of Data Science for Manufacturing, Supply Chain, and Quality at Sanofi. Yunke joins Emerj Editorial Director Matthew DeMello to discuss the challenges that slow AI adoption in life sciences manufacturing, highlighting how fragmented data systems and legacy infrastructure create hurdles for AI initiatives. In this episode, Yunke explains how years of acquisitions and siloed data have made building a cohesive data foundation difficult, impacting AI’s potential in manufacturing and supply chain optimization. Yunke shares Sanofi’s approach to balancing build versus buy decisions for AI solutions and the critical role leadership plays in fostering an environment where data science can thrive. Yunke also reflects on the evolving landscape of AI in pharma manufacturing and the importance of strong governance and collaboration for successful implementation. Want to share your AI adoption story with executive peers? Click</span> <a class= "editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener"><span data-preserver-spaces= "true">emerj.com/expert2</span></a> <span data-preserver-spaces= "true">for more information and to be a potential future guest on the ‘AI in Business’ podcast!</span> <span data-preserver-spaces= "true">Learn how brands work with Emerj and other Emerj Media options at</span> <a class="editor-rtfLink" href= "http://emerj.com/ad1" target="_blank" rel= "noopener"><span data-preserver-spaces= "true">emerj.com/ad1</span></a><span data-preserver-spaces= "true">.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Today’s guest is Yunke Xiang, Global Head of Data Science for Manufacturing, Supply Chain, and Quality at Sanofi. Yunke joins Emerj Editorial Director Matthew DeMello to discuss the challenges that slow AI adoption in life sciences manufacturing, highlighting how fragmented data systems and legacy infrastructure create hurdles for AI initiatives. In this episode, Yunke explains how years of acquisitions and siloed data have made building a cohesive data foundation difficult, impacting AI’s potential in manufacturing and supply chain optimization. Yunke shares Sanofi’s approach to balancing build versus buy decisions for AI solutions and the critical role leadership plays in fostering an environment where data science can thrive. Yunke also reflects on the evolving landscape of AI in pharma manufacturing and the importance of strong governance and collaboration for successful implementation. Want to share your AI adoption story with executive peers? Click <a class= "editor-rtfLink" href= "https://emerj.com/expert?utm_source=AIB-podcast&utm_medium=site&utm_campaign=promotion" target="_blank" rel="noopener">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast! Learn how brands work with Emerj and other Emerj Media options at <a class="editor-rtfLink" href= "http://emerj.com/ad1" target="_blank" rel= "noopener">emerj.com/ad1</a>.</p>]]></content:encoded>
+			<enclosure length="29100060" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/BUSINESS_-__6.17.25_-Yunke_Xiang_mp3.mp3?dest-id=151434" />
+			<itunes:duration>20:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today’s guest is Yunke Xiang, Global Head of Data Science for Manufacturing, Supply Chain, and Quality at Sanofi. Yunke joins Emerj Editorial Director Matthew DeMello to discuss the challenges that slow AI adoption in life sciences manufacturing,...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>What Smart Manufacturing Leaders Consider Before Adopting AI - with Tim Burge of Aquant</title>
+			<itunes:title>What Smart Manufacturing Leaders Consider Before Adopting AI - with Tim Burge of Aquant</itunes:title>
+			<pubDate>Thu, 12 Jun 2025 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1b30e8b4-6224-4e27-83af-fec091ccad1d]]></guid>
+			<link><![CDATA[http://podcast.emerj.com/what-smart-manufacturing-leaders-consider-before-adopting-ai-with-tim-burge-of-aquant]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/6/f/e/8/6fe8202e9b49636716c3140a3186d450/Tim-Burge-AI-in-Business-Podcast.jpg" />
+			<description><![CDATA[<p><span data-preserver-spaces="true">Today’s guest is Tim Burge, Director at Aquant. Aquant is an AI platform built for service teams that maintain and repair complex equipment. It gives clear, accurate answers to service questions — from basic fixes to deep diagnostics — so field techs, call centers, managers, and customers can get to solutions faster. Used by top manufacturers like Siemens and Hologic, Aquant helps reduce downtime, lower service costs, and boost customer satisfaction. Tim joins Emerj Editorial Director Matthew DeMello for today’s conversation to discuss how manufacturing leaders are reevaluating their AI deployment strategies across field service and operations. As the dust settles on the generative AI hype cycle, organizations are moving past the build-versus-buy binary and embracing hybrid approaches. Tim explains why service departments in particular require a specialized lens for AI implementation and shares how leaders can optimize time-to-value, improve data quality, and drive adoption across legacy environments. Want to share your AI adoption story with executive peers? Click</span> <a class="editor-rtfLink" href= "http://emerj.com/expert2" target="_blank" rel= "noopener"><span data-preserver-spaces= "true">emerj.com/expert2</span></a> <span data-preserver-spaces= "true">for more information and to be a potential future guest on the ‘AI in Business’ podcast! This episode is sponsored by Aquant. Learn how brands work with Emerj and other Emerj Media options at</span> <a class="editor-rtfLink" href="http://emerj.com/ad1" target="_blank" rel="noopener"><span data-preserver-spaces= "true">emerj.com/ad1</span></a><span data-preserver-spaces= "true">.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Today’s guest is Tim Burge, Director at Aquant. Aquant is an AI platform built for service teams that maintain and repair complex equipment. It gives clear, accurate answers to service questions — from basic fixes to deep diagnostics — so field techs, call centers, managers, and customers can get to solutions faster. Used by top manufacturers like Siemens and Hologic, Aquant helps reduce downtime, lower service costs, and boost customer satisfaction. Tim joins Emerj Editorial Director Matthew DeMello for today’s conversation to discuss how manufacturing leaders are reevaluating their AI deployment strategies across field service and operations. As the dust settles on the generative AI hype cycle, organizations are moving past the build-versus-buy binary and embracing hybrid approaches. Tim explains why service departments in particular require a specialized lens for AI implementation and shares how leaders can optimize time-to-value, improve data quality, and drive adoption across legacy environments. Want to share your AI adoption story with executive peers? Click <a class="editor-rtfLink" href= "http://emerj.com/expert2" target="_blank" rel= "noopener">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast! This episode is sponsored by Aquant. Learn how brands work with Emerj and other Emerj Media options at <a class="editor-rtfLink" href="http://emerj.com/ad1" target="_blank" rel="noopener">emerj.com/ad1</a>.</p>]]></content:encoded>
+			<enclosure length="41488111" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Business_-_6.12.25_-_Tim_Burge.mp3?dest-id=151434" />
+			<itunes:duration>28:47</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today’s guest is Tim Burge, Director at Aquant. Aquant is an AI platform built for service teams that maintain and repair complex equipment. It gives clear, accurate answers to service questions — from basic fixes to deep diagnostics — so field...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Shaping the Future of Healthcare with AI - with Lyndi Wu of NVIDIA and Will Guyman of Microsoft</title>
+			<itunes:title>Shaping the Future of Healthcare with AI - with Lyndi Wu of NVIDIA and Will Guyman of Microsoft</itunes:title>
+			<pubDate>Thu, 12 Jun 2025 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8c0ff51e-8a46-4601-9ffa-641a03537ba9]]></guid>
+			<link><![CDATA[http://podcast.emerj.com/shaping-the-future-of-healthcare-with-ai-with-lyndi-wu-of-nvidia-and-will-guyman-of-microsoft]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/d/7/7/ed770e672b789141d959afa2a1bf1c87/Lyndi-Wu-and-Will-Guyman-AI-in-Business-Podcast-updated-20250612-sgc6anfh38.jpg" />
+			<description><![CDATA[<p><span data-preserver-spaces="true">In this episode of the ‘AI in Business’ podcast, Principal Group Product Manager Will Guyman of Microsoft and Senior Director Lyndi Wu of NVIDIA explore how healthcare providers are deploying AI at scale to drive clinical and operational transformation. With host Matthew DeMello, they discuss the combined power of NVIDIA’s GPU acceleration and Microsoft’s Azure cloud to enable seamless AI integration—from the exam room to the data center. Will explains how AI is alleviating administrative burdens, improving imaging diagnostics, and reshaping physician workflows through ambient documentation and agentic systems. Lyndi expands on the infrastructure demands of scaling these systems, highlighting NVIDIA’s full-stack ecosystem approach and the role of healthcare startups in fast-tracking AI deployment across hospitals and life sciences organizations. This episode is sponsored by Microsoft and NVIDIA. Learn how brands work with Emerj and other Emerj Media options at</span> <a class= "editor-rtfLink" href="http://emerj.com/ad1" target="_blank" rel= "noopener"><span data-preserver-spaces= "true">emerj.com/ad1</span></a><span data-preserver-spaces="true">. Want to share your AI adoption story with executive peers? Click</span> <a class="editor-rtfLink" href= "http://emerj.com/expert2" target="_blank" rel= "noopener"><span data-preserver-spaces= "true">emerj.com/expert2</span></a> <span data-preserver-spaces= "true">for more information and to be a potential future guest on the ‘AI in Business’ podcast!</span></p>]]></description>
+			<content:encoded><![CDATA[<p>In this episode of the ‘AI in Business’ podcast, Principal Group Product Manager Will Guyman of Microsoft and Senior Director Lyndi Wu of NVIDIA explore how healthcare providers are deploying AI at scale to drive clinical and operational transformation. With host Matthew DeMello, they discuss the combined power of NVIDIA’s GPU acceleration and Microsoft’s Azure cloud to enable seamless AI integration—from the exam room to the data center. Will explains how AI is alleviating administrative burdens, improving imaging diagnostics, and reshaping physician workflows through ambient documentation and agentic systems. Lyndi expands on the infrastructure demands of scaling these systems, highlighting NVIDIA’s full-stack ecosystem approach and the role of healthcare startups in fast-tracking AI deployment across hospitals and life sciences organizations. This episode is sponsored by Microsoft and NVIDIA. Learn how brands work with Emerj and other Emerj Media options at <a class= "editor-rtfLink" href="http://emerj.com/ad1" target="_blank" rel= "noopener">emerj.com/ad1</a>. Want to share your AI adoption story with executive peers? Click <a class="editor-rtfLink" href= "http://emerj.com/expert2" target="_blank" rel= "noopener">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast!</p>]]></content:encoded>
+			<enclosure length="57149259" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Business_-_5.26.25_-_Will_Guyman_and_Lyndi_Wu_FIN.mp3?dest-id=151434" />
+			<itunes:duration>39:40</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode of the ‘AI in Business’ podcast, Principal Group Product Manager Will Guyman of Microsoft and Senior Director Lyndi Wu of NVIDIA explore how healthcare providers are deploying AI at scale to drive clinical and operational...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title>The AI Minded Path to Scalable and Responsible Innovation Across the Enterprise - with James Raybould of Turing Intelligence</title>
 			<itunes:title>The AI Minded Path to Scalable and Responsible Innovation Across the Enterprise - with James Raybould of Turing Intelligence</itunes:title>
 			<pubDate>Wed, 11 Jun 2025 06:00:00 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[b3b32288-92b5-4874-bfd6-fe79bcb15ed2]]></guid>
 			<link><![CDATA[http://podcast.emerj.com/the-ai-minded-path-to-scalable-and-responsible-innovation-across-the-enterprise-with-james-raybould-of-turing-intelligence]]></link>
-			<itunes:image href="https://static.libsyn.com/p/assets/0/6/3/4/0634cf567c99bc0416c3140a3186d450/James-Raybould-AI-in-Business-Podcast-updated.jpg" />
-			<description><![CDATA[<p><span data-preserver-spaces="true">Enterprise leaders are no longer asking if they should adopt AI — the question is how to do it effectively. In this episode, Emerj Editorial Director Matthew DeMello speaks with James Raybould, SVP and GM of Turing Intelligence at Turing, about what distinguishes successful enterprise AI deployments from stalled pilots. Turing is one of the world’s fastest-growing Artificial Intelligence companies, helping businesses solve their toughest problems with AI—delivering real business results faster, smarter, and at scale—while also working with top AI companies to push the technology forward. Based in San Francisco, Turing was named the #1 most promising B2B company by The Information and is led by AI experts from Meta, Google, Microsoft, Stanford, MIT, and more. James outlines three critical factors that determine whether an AI initiative gets traction: business alignment, workforce readiness, and infrastructure. He explains why companies that start with the technology — instead of the problem — are likely to fall behind, and what it really means to prepare a workforce for AI when automation changes the expectations of work quality and speed. Want to share your AI adoption story with executive peers? Click</span> <a class= "editor-rtfLink" href="http://emerj.com/expert2" target="_blank" rel="noopener"><span data-preserver-spaces= "true">emerj.com/expert2</span></a> <span data-preserver-spaces= "true">for more information and to be a potential future guest on the ‘AI in Business’ podcast! This episode is sponsored by Turing. Learn how brands work with Emerj and other Emerj Media options at</span> <a class="editor-rtfLink" href="http://emerj.com/ad1" target="_blank" rel="noopener"><span data-preserver-spaces= "true">emerj.com/ad1</span></a><span data-preserver-spaces= "true">.</span></p>]]></description>
-			<content:encoded><![CDATA[<p>Enterprise leaders are no longer asking if they should adopt AI — the question is how to do it effectively. In this episode, Emerj Editorial Director Matthew DeMello speaks with James Raybould, SVP and GM of Turing Intelligence at Turing, about what distinguishes successful enterprise AI deployments from stalled pilots. Turing is one of the world’s fastest-growing Artificial Intelligence companies, helping businesses solve their toughest problems with AI—delivering real business results faster, smarter, and at scale—while also working with top AI companies to push the technology forward. Based in San Francisco, Turing was named the #1 most promising B2B company by The Information and is led by AI experts from Meta, Google, Microsoft, Stanford, MIT, and more. James outlines three critical factors that determine whether an AI initiative gets traction: business alignment, workforce readiness, and infrastructure. He explains why companies that start with the technology — instead of the problem — are likely to fall behind, and what it really means to prepare a workforce for AI when automation changes the expectations of work quality and speed. Want to share your AI adoption story with executive peers? Click <a class= "editor-rtfLink" href="http://emerj.com/expert2" target="_blank" rel="noopener">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast! This episode is sponsored by Turing. Learn how brands work with Emerj and other Emerj Media options at <a class="editor-rtfLink" href="http://emerj.com/ad1" target="_blank" rel="noopener">emerj.com/ad1</a>.</p>]]></content:encoded>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/6/8/9/768961fbb045345316c3140a3186d450/James-Raybould-AI-in-Business-Podcast-updated-title.jpg" />
+			<description><![CDATA[<p>Enterprise leaders are no longer asking if they should adopt AI — the question is how to do it effectively. In this episode, Emerj Editorial Director Matthew DeMello speaks with James Raybould, SVP and GM of Turing Intelligence at Turing, about what distinguishes successful enterprise AI deployments from stalled pilots. Turing is one of the world’s fastest-growing Artificial Intelligence companies, working with the world’s leading AI labs to advance frontier model capabilities and leveraging that work to build real-world AI systems that help businesses solve their toughest problems —delivering real business results, faster, smarter, and at scale. James outlines three critical factors that determine whether an AI initiative gets traction: business alignment, workforce readiness, and infrastructure. He explains why companies that start with the technology — instead of the problem — are likely to fall behind, and what it really means to prepare a workforce for AI when automation changes the expectations of work quality and speed. This episode is sponsored by <a href= "https://turing.com?utm_source=emerj&utm_medium=syndicate&utm_campaign=20250616_Emerj-podcast-1_customer&utm_content=Turing-lp&utm_term=sponsor_Podcast_LP"> Turing</a>. Want to share your AI adoption story with executive peers? Click <a href= "http://emerj.com/expert2">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast! This episode is sponsored by Turing. Learn how brands work with Emerj and other Emerj Media options at <a href= "http://emerj.com/ad1">emerj.com/ad1</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Enterprise leaders are no longer asking if they should adopt AI — the question is how to do it effectively. In this episode, Emerj Editorial Director Matthew DeMello speaks with James Raybould, SVP and GM of Turing Intelligence at Turing, about what distinguishes successful enterprise AI deployments from stalled pilots. Turing is one of the world’s fastest-growing Artificial Intelligence companies, working with the world’s leading AI labs to advance frontier model capabilities and leveraging that work to build real-world AI systems that help businesses solve their toughest problems —delivering real business results, faster, smarter, and at scale. James outlines three critical factors that determine whether an AI initiative gets traction: business alignment, workforce readiness, and infrastructure. He explains why companies that start with the technology — instead of the problem — are likely to fall behind, and what it really means to prepare a workforce for AI when automation changes the expectations of work quality and speed. This episode is sponsored by <a href= "https://turing.com?utm_source=emerj&utm_medium=syndicate&utm_campaign=20250616_Emerj-podcast-1_customer&utm_content=Turing-lp&utm_term=sponsor_Podcast_LP"> Turing</a>. Want to share your AI adoption story with executive peers? Click <a href= "http://emerj.com/expert2">emerj.com/expert2</a> for more information and to be a potential future guest on the ‘AI in Business’ podcast! This episode is sponsored by Turing. Learn how brands work with Emerj and other Emerj Media options at <a href= "http://emerj.com/ad1">emerj.com/ad1</a>.</p>]]></content:encoded>
 			<enclosure length="45117554" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Business_-__6.11.25_-_James_Raybould._FIN_mp3.mp3?dest-id=151434" />
 			<itunes:duration>31:18</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
@@ -11296,7 +11424,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="17474709" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/AI_in_Industry-Will_Jack__Nikhil_Buduma-Mixdown.mp3?dest-id=151434" />
 			<itunes:duration>20:37</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>and,Medical,of,in,for,data,Health,healthcare,applications,with,working,Startup,opportunities,remedy,AI,challenges</itunes:keywords>
+			<itunes:keywords>and,medical,of,in,for,Data,health,healthcare,applications,with,working,startup,opportunities,Remedy,AI,Challenges</itunes:keywords>
 			<itunes:subtitle><![CDATA[Guests Will Jack and Nikhil Buduma co-founders of Remedy Health Inc discuss the challenges involved in collecting, setting up and structuring data in order to implement AI in healthcare. By the end of this episode, listeners will have gained insight...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -13713,7 +13841,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="41306823" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Survata.mp3?dest-id=151434" />
 			<itunes:duration>28:41</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>marketing,Startup</itunes:keywords>
+			<itunes:keywords>marketing,startup</itunes:keywords>
 			<itunes:subtitle><![CDATA[How do you get into and make the most of Silicon Valley's hottest accelerator? Ask Chris]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -13728,7 +13856,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="24404750" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Rand1_1.mp3?dest-id=151434" />
 			<itunes:duration>20:21</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>marketing,Startup,seo</itunes:keywords>
+			<itunes:keywords>marketing,startup,SEO</itunes:keywords>
 			<itunes:subtitle><![CDATA[How is SEO different now than in the past? Tune in to hear the man himself]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -13743,7 +13871,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="30250131" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/BostromFINAL.mp3?dest-id=151434" />
 			<itunes:duration>21:01</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>technology,emerging,ethics</itunes:keywords>
+			<itunes:keywords>Technology,emerging,ethics</itunes:keywords>
 			<itunes:subtitle><![CDATA[How can we identify and work to mediate risks that might end human life forever? ]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -13983,7 +14111,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="56428187" type="audio/x-m4a" url="https://traffic.libsyn.com/secure/techemergence/Randal_Koene_CarbonCopies.org.m4a?dest-id=151434" />
 			<itunes:duration>34:01</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>mind,uploading</itunes:keywords>
+			<itunes:keywords>Mind,uploading</itunes:keywords>
 			<itunes:subtitle><![CDATA[Placing sentience into non-biological substrates is not around the corner, but it might be in reach.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14013,7 +14141,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="23580144" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/BradBerge_Good.mp3?dest-id=151434" />
 			<itunes:duration>23:20</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>interview,Psychotherapy,Brad,lsd,psychedelics,berge</itunes:keywords>
+			<itunes:keywords>interview,psychotherapy,Brad,lsd,psychedelics,berge</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode - I interview Brad Burge, Marketing and Communications Director of the Multidisciplinary Association for Psychedelic Studies (MAPS).   Brad gives an overview of the real history of psychedelics, where they got a bad name and...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14055,7 +14183,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="32502652" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/TechEmergenceInterviewsChrisMirabile_1.mp3?dest-id=151434" />
 			<itunes:duration>22:35</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>interview,chris,investment,angel,Group,investments,venture,successful,Launchpad,mirabile</itunes:keywords>
+			<itunes:keywords>interview,Chris,investment,angel,Group,investments,venture,successful,Launchpad,mirabile</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode - I interview Chris Mirabile, Managing Director at Launchpad Venture Group. Chris named one of XConomy's "Top Angel Investors in New England" for 2012 and formerly served as CFO for IONA Technologies PLC. Chris discusses the important...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14070,7 +14198,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="34998489" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/TechEmergenceInterviewsTomPick.mp3?dest-id=151434" />
 			<itunes:duration>24:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>marketing,for,Startup,B2b,startups</itunes:keywords>
+			<itunes:keywords>marketing,for,startup,b2b,startups</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode, I interview Tom Pick, a Digital Marketing & PR Director at KC Associates. We focus on the "Dos & Don'ts" of B2B marketing for startups & Tom mentions tactical & strategic advice for new client/customer acquisition...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14115,7 +14243,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="30098940" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/HowardZ.mp3?dest-id=151434" />
 			<itunes:duration>20:55</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>for,advice,g,Howard,property,legal,intellectual,startups,zaharoff</itunes:keywords>
+			<itunes:keywords>for,Advice,g,Howard,Property,legal,intellectual,startups,zaharoff</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode, I interview Howard G. Zaharoff from Morse Barnes-Brown Pendleton. With over 30 years in business law, intellectual property & technology  - Howard helps companies not only secure their assets from infringement but also secure...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14145,7 +14273,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="17201583" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/TechEmergenceInterviewsGrahamLawlor.mp3?dest-id=151434" />
 			<itunes:duration>11:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>graham,light,ultra,Lawlor,startups,Bootstrapped</itunes:keywords>
+			<itunes:keywords>Graham,light,Ultra,Lawlor,startups,Bootstrapped</itunes:keywords>
 			<itunes:subtitle><![CDATA[In this episode, I interview Graham Lawlor, Founder/CEO of . In this interview - Graham Lawlor gives his thoughts on individual founders vs. startups founded by teams and shares what he believes to be the most important focus areas that any...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14370,7 +14498,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="27208515" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Thanga.mp3?dest-id=151434" />
 			<itunes:duration>22:41</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>of,interview,CEO,Evolution,with,Robotics</itunes:keywords>
+			<itunes:keywords>of,interview,ceo,evolution,with,robotics</itunes:keywords>
 			<itunes:subtitle><![CDATA[How bio-inspired neuro-evolution will change the face of robotics]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14385,7 +14513,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="38961793" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Jara.mp3?dest-id=151434" />
 			<itunes:duration>32:28</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Robotics,eduardo,torresjara</itunes:keywords>
+			<itunes:keywords>robotics,eduardo,torresjara</itunes:keywords>
 			<itunes:subtitle><![CDATA["Sensative" Robotics - An Artificial Touch]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14475,7 +14603,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="49984033" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Voss.mp3?dest-id=151434" />
 			<itunes:duration>41:40</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>interview,Tech,emerging,Peter,voss,emergence</itunes:keywords>
+			<itunes:keywords>interview,tech,emerging,Peter,voss,emergence</itunes:keywords>
 			<itunes:subtitle><![CDATA[Peter Voss started a technology company as a young man and brought it to the Johannesburg stock exchange, and sold it. Financially independent, Peter explored research in artificial intelligence, and then came back into business ten years later with...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14490,7 +14618,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="56514439" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Thomas_Ray.mp3?dest-id=151434" />
 			<itunes:duration>47:06</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>interview,technology,life,Ray,emerging,dr,Thomas,artificial,tierraartificiallife</itunes:keywords>
+			<itunes:keywords>interview,Technology,Life,Ray,emerging,dr,Thomas,artificial,tierraartificiallife</itunes:keywords>
 			<itunes:subtitle><![CDATA[Biological Human Enhancement - a Reality by 2070?]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14535,7 +14663,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="66428834" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Robin.mp3?dest-id=151434" />
 			<itunes:duration>55:22</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>technology,Future,AI,EmergingTech,humanfuture,FutureOfHumanity</itunes:keywords>
+			<itunes:keywords>Technology,future,AI,EmergingTech,humanfuture,FutureOfHumanity</itunes:keywords>
 			<itunes:subtitle><![CDATA[How We Can Actually Focus on the Actual Future]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14565,7 +14693,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="68936355" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/BenGoe.mp3?dest-id=151434" />
 			<itunes:duration>57:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>BEN,interview,AI,AGI,goertzel,ArtificialIntelligence,bengoertzel,goertzelinterview</itunes:keywords>
+			<itunes:keywords>BEN,interview,AI,AGI,goertzel,artificialintelligence,bengoertzel,goertzelinterview</itunes:keywords>
 			<itunes:subtitle><![CDATA[Why humans may not end up the sharpest pencils in the pack.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14595,7 +14723,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="60216673" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Reno.mp3?dest-id=151434" />
 			<itunes:duration>50:11</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Tech,emerging,Startup,Robotics,transhumanism,EmergingTech</itunes:keywords>
+			<itunes:keywords>tech,emerging,startup,robotics,transhumanism,EmergingTech</itunes:keywords>
 			<itunes:subtitle><![CDATA[Robotics and Tech - Core Differences Between Japan and America]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14610,7 +14738,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="32416519" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Jeff_Orkin.mp3?dest-id=151434" />
 			<itunes:duration>27:01</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Startup,AI,ArtificialIntelligence,EmergingTech,jefforkin</itunes:keywords>
+			<itunes:keywords>startup,AI,artificialintelligence,EmergingTech,jefforkin</itunes:keywords>
 			<itunes:subtitle><![CDATA[Gaming and Artificial Intelligence]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14625,7 +14753,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="35574912" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Max.mp3?dest-id=151434" />
 			<itunes:duration>29:39</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Robots,CEO,Startup,Robotics,startups,EmergingTech,neurala</itunes:keywords>
+			<itunes:keywords>Robots,ceo,startup,robotics,startups,EmergingTech,neurala</itunes:keywords>
 			<itunes:subtitle><![CDATA[Interview about Robotics, Startup Team-Building, and the Future of "Work" for Humanity.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14640,7 +14768,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="735878374" type="audio/x-aiff" url="https://traffic.libsyn.com/secure/techemergence/KarlF.aif?dest-id=151434" />
 			<itunes:duration>01:03:53</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,Tech,intelligence,emerging,artificial,Robotics,Android,startups,posthuman</itunes:keywords>
+			<itunes:keywords>science,tech,intelligence,emerging,artificial,robotics,Android,startups,posthuman</itunes:keywords>
 			<itunes:subtitle><![CDATA[Androids, Robotics, Tinkering with Consciousness and the Transition Beyond Human]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14655,7 +14783,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="42341272" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Jim-M.mp3?dest-id=151434" />
 			<itunes:duration>29:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>the,jim,technology,Singularity,emerging,startups,karkanias</itunes:keywords>
+			<itunes:keywords>the,jim,Technology,singularity,emerging,startups,karkanias</itunes:keywords>
 			<itunes:subtitle><![CDATA[Human Enhancement and the Trends That May Be Leading Us There]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -14670,7 +14798,7 @@ Visit our advertising page to learn more about reaching our executive audience o
 			<enclosure length="49580534" type="audio/mpeg" url="https://traffic.libsyn.com/secure/techemergence/Tim-Stevens.mp3?dest-id=151434" />
 			<itunes:duration>34:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>technology,google,review,emerging,entrepreneurship,glass,Engadget,realityvirtual</itunes:keywords>
+			<itunes:keywords>Technology,Google,review,emerging,entrepreneurship,glass,Engadget,realityvirtual</itunes:keywords>
 			<itunes:subtitle><![CDATA[Tim Stevens is Editor in Chief at Engadget, and he's one of the first people outside of Google to wear Google Glass. In this podcast, Tim talks about his experience with "Glass" (as it is often called), in addition to some potential visions of future...]]></itunes:subtitle>
 		</item>
 

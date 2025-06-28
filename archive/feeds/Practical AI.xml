@@ -18,8 +18,8 @@ The focus is on productive implementations and real-world scenarios that are acc
     <podcast:person role="Host" href="https://changelog.com/person/dwhitena" img="https://img.transistor.fm/XugFJlJ_xeVJVUt6oEOgaj2_BUjSQkMzU_1I8Rxhxsk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OWU5/NmFiN2MwMGJmOTk1/MGRhMTI1NTQzODBh/ZTJiOC5qcGc.jpg">Daniel Whitenack</podcast:person>
     <podcast:trailer pubdate="Wed, 25 Mar 2020 17:10:28 -0400" url="https://media.transistor.fm/2f2ad7a3/f9f68364.mp3" length="1687418" type="audio/mpeg">Welcome to Practical AI</podcast:trailer>
     <language>en-us</language>
-    <pubDate>Wed, 18 Jun 2025 15:23:21 -0400</pubDate>
-    <lastBuildDate>Wed, 18 Jun 2025 15:24:08 -0400</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 12:26:05 -0400</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 12:31:32 -0400</lastBuildDate>
     <link>https://practicalai.fm</link>
     <image>
       <url>https://img.transistor.fm/op5Ph3Zt-p3hsVJHcrAHlolOmex9FCx8wUbkWekkWWQ/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wOWU1/OWUyMDA4ZTdlM2Ix/ZWVjYzc1Mzc5ZTMy/NDJjMy5wbmc.jpg</url>
@@ -40,6 +40,40 @@ The focus is on productive implementations and real-world scenarios that are acc
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>AI hot takes and debates: Autonomy</title>
+      <itunes:episode>318</itunes:episode>
+      <podcast:episode>318</podcast:episode>
+      <itunes:title>AI hot takes and debates: Autonomy</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f5bf4735-b82f-41a3-9c2e-5cc25f5168bc</guid>
+      <link>https://share.transistor.fm/s/2492fb57</link>
+      <description>
+        <![CDATA[<p>Can AI-driven autonomy reduce harm, or does it risk dehumanizing decision-making? In this “AI Hot Takes &amp; Debates” series episode, Daniel and Chris dive deep into the ethical crossroads of AI, autonomy, and military applications. They trade perspectives on ethics, precision, responsibility, and whether machines should ever be trusted with life-or-death decisions. It’s a spirited back-and-forth that tackles the big questions behind real-world AI.</p><p>Featuring:</p><ul><li>Chris Benson – <a href="https://chrisbenson.com/">Website</a>, <a href="https://github.com/chrisbenson">GitHub</a>, <a href="https://www.linkedin.com/in/chrisbenson">LinkedIn</a>, <a href="https://x.com/chrisbenson">X</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342529">The Concept of "The Human" in the Critique of Autonomous Weapons</a></li><li><a href="https://harvardnsj.org/2025/05/23/on-the-pitfalls-of-technophilic-reason-a-commentary-on-kevin-jon-hellers-the-concept-of-the-human-in-the-critique-of-autonomous-weapons/">On the Pitfalls of Technophilic Reason: A Commentary on Kevin Jon Heller’s “The Concept of ‘the Human’ in the Critique of Autonomous Weapons”</a></li></ul><p>Sponsors:</p><ul><li><a href="https://agntcy.org/">Outshift by Cisco</a>: AGNTCY is an open source collective building the Internet of Agents. It's a collaboration layer where AI agents can communicate, discover each other, and work across frameworks. For developers, this means standardized agent discovery tools, seamless protocols for inter-agent communication, and modular components to compose and scale multi-agent workflows.</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Can AI-driven autonomy reduce harm, or does it risk dehumanizing decision-making? In this “AI Hot Takes &amp; Debates” series episode, Daniel and Chris dive deep into the ethical crossroads of AI, autonomy, and military applications. They trade perspectives on ethics, precision, responsibility, and whether machines should ever be trusted with life-or-death decisions. It’s a spirited back-and-forth that tackles the big questions behind real-world AI.</p><p>Featuring:</p><ul><li>Chris Benson – <a href="https://chrisbenson.com/">Website</a>, <a href="https://github.com/chrisbenson">GitHub</a>, <a href="https://www.linkedin.com/in/chrisbenson">LinkedIn</a>, <a href="https://x.com/chrisbenson">X</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342529">The Concept of "The Human" in the Critique of Autonomous Weapons</a></li><li><a href="https://harvardnsj.org/2025/05/23/on-the-pitfalls-of-technophilic-reason-a-commentary-on-kevin-jon-hellers-the-concept-of-the-human-in-the-critique-of-autonomous-weapons/">On the Pitfalls of Technophilic Reason: A Commentary on Kevin Jon Heller’s “The Concept of ‘the Human’ in the Critique of Autonomous Weapons”</a></li></ul><p>Sponsors:</p><ul><li><a href="https://agntcy.org/">Outshift by Cisco</a>: AGNTCY is an open source collective building the Internet of Agents. It's a collaboration layer where AI agents can communicate, discover each other, and work across frameworks. For developers, this means standardized agent discovery tools, seamless protocols for inter-agent communication, and modular components to compose and scale multi-agent workflows.</li></ul>]]>
+      </content:encoded>
+      <pubDate>Fri, 27 Jun 2025 12:26:05 -0400</pubDate>
+      <author>Practical AI LLC</author>
+      <enclosure url="https://media.transistor.fm/2492fb57/9e049748.mp3" length="44066262" type="audio/mpeg"/>
+      <itunes:author>Practical AI LLC</itunes:author>
+      <itunes:image href="https://img.transistor.fm/vLiytXFCQmfqr-nPP4k7TKmapPzkxLnL6z9GUZhG8ZE/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNTE1/NjFmZGEwZWY2OTQ0/MjE1OWVlOTZjOTll/ZGZlMi5qcGc.jpg"/>
+      <itunes:duration>2736</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Can AI-driven autonomy reduce harm, or does it risk dehumanizing decision-making? In this “AI Hot Takes &amp; Debates” series episode, Daniel and Chris dive deep into the ethical crossroads of AI, autonomy, and military applications. They trade perspectives on ethics, precision, responsibility, and whether machines should ever be trusted with life-or-death decisions. It’s a spirited back-and-forth that tackles the big questions behind real-world AI.</p><p>Featuring:</p><ul><li>Chris Benson – <a href="https://chrisbenson.com/">Website</a>, <a href="https://github.com/chrisbenson">GitHub</a>, <a href="https://www.linkedin.com/in/chrisbenson">LinkedIn</a>, <a href="https://x.com/chrisbenson">X</a></li><li>Daniel Whitenack – <a href="https://www.datadan.io/">Website</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://x.com/dwhitena">X</a></li></ul><p>Links:</p><ul><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342529">The Concept of "The Human" in the Critique of Autonomous Weapons</a></li><li><a href="https://harvardnsj.org/2025/05/23/on-the-pitfalls-of-technophilic-reason-a-commentary-on-kevin-jon-hellers-the-concept-of-the-human-in-the-critique-of-autonomous-weapons/">On the Pitfalls of Technophilic Reason: A Commentary on Kevin Jon Heller’s “The Concept of ‘the Human’ in the Critique of Autonomous Weapons”</a></li></ul><p>Sponsors:</p><ul><li><a href="https://agntcy.org/">Outshift by Cisco</a>: AGNTCY is an open source collective building the Internet of Agents. It's a collaboration layer where AI agents can communicate, discover each other, and work across frameworks. For developers, this means standardized agent discovery tools, seamless protocols for inter-agent communication, and modular components to compose and scale multi-agent workflows.</li></ul>]]>
+      </itunes:summary>
+      <itunes:keywords>changelog, ai, machine learning, deep learning, artificial intelligence, neural networks, computer vision</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Host" href="https://changelog.com/person/chris" img="https://img.transistor.fm/tYVFmd0hIiW6Ea_V2W3Q96ni4iOSSa7K-rLcieumpow/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNGZi/YTY5ZjYzZTFhNzM0/ZjhmODAzNzcxODZm/MzNkNC5wbmc.jpg">Chris Benson</podcast:person>
+      <podcast:person role="Host" href="https://changelog.com/person/dwhitena" img="https://img.transistor.fm/XugFJlJ_xeVJVUt6oEOgaj2_BUjSQkMzU_1I8Rxhxsk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OWU5/NmFiN2MwMGJmOTk1/MGRhMTI1NTQzODBh/ZTJiOC5qcGc.jpg">Daniel Whitenack</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/2492fb57/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/2492fb57/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/2492fb57/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/2492fb57/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/2492fb57/transcription" type="text/html"/>
+      <podcast:chapters url="https://share.transistor.fm/s/2492fb57/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Behind-the-Scenes: VC Funding for AI Startups</title>
       <itunes:episode>317</itunes:episode>
@@ -482,6 +516,11 @@ The focus is on productive implementations and real-world scenarios that are acc
       <podcast:person role="Host" href="https://changelog.com/person/dwhitena" img="https://img.transistor.fm/XugFJlJ_xeVJVUt6oEOgaj2_BUjSQkMzU_1I8Rxhxsk/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OWU5/NmFiN2MwMGJmOTk1/MGRhMTI1NTQzODBh/ZTJiOC5qcGc.jpg">Daniel Whitenack</podcast:person>
       <podcast:person role="Host" href="https://changelog.com/person/chris" img="https://img.transistor.fm/tYVFmd0hIiW6Ea_V2W3Q96ni4iOSSa7K-rLcieumpow/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNGZi/YTY5ZjYzZTFhNzM0/ZjhmODAzNzcxODZm/MzNkNC5wbmc.jpg">Chris Benson</podcast:person>
       <podcast:person role="Guest" href="https://practicalai.fm/people/scott-meyer" img="https://img.transistor.fm/PZZy5IiEWIObfTLNCh0OXlkILl_OiJyFhwo9ut1rl_o/rs:fill:800:800:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYWJm/YjU4MTU2NWY0MDM4/MGYzYTg5MWFkZGQ5/MzMxNC5qcGc.jpg">Scott Meyer</podcast:person>
+      <podcast:transcript url="https://share.transistor.fm/s/b1865616/transcription.vtt" type="text/vtt" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/b1865616/transcription.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/b1865616/transcription.json" type="application/json" rel="captions"/>
+      <podcast:transcript url="https://share.transistor.fm/s/b1865616/transcription.txt" type="text/plain"/>
+      <podcast:transcript url="https://share.transistor.fm/s/b1865616/transcription" type="text/html"/>
     </item>
     <item>
       <title>GenAI hot takes and bad use cases</title>

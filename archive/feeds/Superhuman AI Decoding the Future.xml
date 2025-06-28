@@ -20,8 +20,8 @@ For more information, visit www.superhuman.ai.</description>
     <podcast:locked owner="support@lowerstreet.co">no</podcast:locked>
     <podcast:trailer pubdate="Tue, 23 Jul 2024 18:22:37 +0100" url="https://media.transistor.fm/de3437fe/f9a1c177.mp3" length="2090829" type="audio/mpeg">Introducing Superhuman AI: Decoding the Future</podcast:trailer>
     <language>en</language>
-    <pubDate>Fri, 23 May 2025 07:56:15 +0100</pubDate>
-    <lastBuildDate>Fri, 23 May 2025 07:57:12 +0100</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 17:55:12 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 17:56:05 +0100</lastBuildDate>
     <image>
       <url>https://img.transistor.fm/5ESRyVU9ZmkQRuJyBOtMOzzFiPlqGKLWaWVs_nanNOI/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YTA5/ZWVkYWQxMTQ1YWJi/OTA3ZjA4MzQ0MjBk/ZDYwMy5wbmc.jpg</url>
       <title>Superhuman AI: Decoding the Future</title>
@@ -46,6 +46,31 @@ For more information, visit www.superhuman.ai.</itunes:summary>
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Claude Is Learning to Build Itself - Anthropic's Michael Gerstenhaber on Agentic AI</title>
+      <itunes:episode>33</itunes:episode>
+      <podcast:episode>33</podcast:episode>
+      <itunes:title>Claude Is Learning to Build Itself - Anthropic's Michael Gerstenhaber on Agentic AI</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7d808832-ffc6-4b79-8b27-6c291543cbb8</guid>
+      <link>https://share.transistor.fm/s/874848f5</link>
+      <description>
+        <![CDATA[<p>AI is evolving faster than anyone expected and we may already be seeing the early signs of superintelligence.<br>In this episode of the Superhuman AI Podcast, we sit down with Michael Gerstenhaber, Head of Product at Anthropic (makers of Claude AI), to explore:</p><ul><li>How AI models have transformed in just one year</li><li>Why coding is the ultimate benchmark for AI progress</li><li>How Claude is learning to code through agentic loops</li><li>What "post-language model" intelligence might look like</li><li>Whether superintelligence is already here — and we’ve just missed it</li></ul><p><br>From autonomous coding to the rise of AI agents, this episode offers a glimpse into the next phase of artificial intelligence and how it could change everything.</p><p>Subscribe for deep conversations on AI, agents, and the future of intelligence.</p><p><br>Learn more about the Google for Startups Cloud Program here:<br>https://cloud.google.com/startup/apply?utm_source=cloud_sfdc&amp;utm_medium=et&amp;utm_campaign=FY21-Q1-global-demandgen-website-cs-startup_program_mc&amp;utm_content=superhuman_dec&amp;utm_term=-</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>AI is evolving faster than anyone expected and we may already be seeing the early signs of superintelligence.<br>In this episode of the Superhuman AI Podcast, we sit down with Michael Gerstenhaber, Head of Product at Anthropic (makers of Claude AI), to explore:</p><ul><li>How AI models have transformed in just one year</li><li>Why coding is the ultimate benchmark for AI progress</li><li>How Claude is learning to code through agentic loops</li><li>What "post-language model" intelligence might look like</li><li>Whether superintelligence is already here — and we’ve just missed it</li></ul><p><br>From autonomous coding to the rise of AI agents, this episode offers a glimpse into the next phase of artificial intelligence and how it could change everything.</p><p>Subscribe for deep conversations on AI, agents, and the future of intelligence.</p><p><br>Learn more about the Google for Startups Cloud Program here:<br>https://cloud.google.com/startup/apply?utm_source=cloud_sfdc&amp;utm_medium=et&amp;utm_campaign=FY21-Q1-global-demandgen-website-cs-startup_program_mc&amp;utm_content=superhuman_dec&amp;utm_term=-</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 26 Jun 2025 17:53:13 +0100</pubDate>
+      <author>Superhuman AI</author>
+      <enclosure url="https://media.transistor.fm/874848f5/8829bcdf.mp3" length="39576156" type="audio/mpeg"/>
+      <itunes:author>Superhuman AI</itunes:author>
+      <itunes:duration>2471</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>AI is evolving faster than anyone expected and we may already be seeing the early signs of superintelligence.<br>In this episode of the Superhuman AI Podcast, we sit down with Michael Gerstenhaber, Head of Product at Anthropic (makers of Claude AI), to explore:</p><ul><li>How AI models have transformed in just one year</li><li>Why coding is the ultimate benchmark for AI progress</li><li>How Claude is learning to code through agentic loops</li><li>What "post-language model" intelligence might look like</li><li>Whether superintelligence is already here — and we’ve just missed it</li></ul><p><br>From autonomous coding to the rise of AI agents, this episode offers a glimpse into the next phase of artificial intelligence and how it could change everything.</p><p>Subscribe for deep conversations on AI, agents, and the future of intelligence.</p><p><br>Learn more about the Google for Startups Cloud Program here:<br>https://cloud.google.com/startup/apply?utm_source=cloud_sfdc&amp;utm_medium=et&amp;utm_campaign=FY21-Q1-global-demandgen-website-cs-startup_program_mc&amp;utm_content=superhuman_dec&amp;utm_term=-</p>]]>
+      </itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
     <item>
       <title>How Airtable Is Letting Anyone Build With AI with CEO Howie Liu</title>
       <itunes:episode>32</itunes:episode>
